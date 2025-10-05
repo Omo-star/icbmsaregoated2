@@ -53,8 +53,9 @@ class User_Interface:
             print(f" • {username}\n")
 
             self.api.append_user_agent(username)
-            await self._handle_bot_status(account.get('title'), allow_upgrade)
- #           await self._test_engines() 
+            await self._handle_bot_status(account.get("title"), allow_upgrade)
+            await self._test_engines()
+            await self._download_online_blacklists()
 
             self.game_manager = Game_Manager(self.api, self.config, username)
             self.game_manager_task = asyncio.create_task(self.game_manager.run())
@@ -82,7 +83,7 @@ class User_Interface:
 
             while True:
                 command = (await asyncio.to_thread(input)).split()
-                if len(command) > 0:
+                if command:
                     await self._handle_command(command)
 
     async def _handle_bot_status(self, title: str | None, allow_upgrade: bool) -> None:
@@ -110,9 +111,9 @@ class User_Interface:
                 "This will upgrade your account to a BOT account.\n"
                 "WARNING: This is irreversible. The account will only be able to play as a BOT."
             )
-            approval = input("Do you want to continue? [y/N]: ")
+            approval = await asyncio.to_thread(input, "Do you want to continue? [y/N]: ")
 
-            if approval.lower() not in ["y", "yes"]:
+            if approval.lower() not in {"y", "yes"}:
                 print("Upgrade aborted.")
                 sys.exit()
 
@@ -127,6 +128,12 @@ class User_Interface:
             print(f'Testing engine "{engine_name}" ... ', end="", flush=True)
             await Engine.test(engine_config)
             print("OK")
+
+    async def _download_online_blacklists(self) -> None:
+        for url in self.config.online_blacklists:
+            online_blacklist = await self.api.download_blacklist(url) or []
+            self.config.blacklist.extend(username.lower() for username in online_blacklist)
+            print(f'Blacklisted {len(online_blacklist)} users from "{url}".')
 
     async def _handle_command(self, command: list[str]) -> None:
         match command[0]:
@@ -205,8 +212,12 @@ class User_Interface:
 
         challenges: list[Challenge_Request] = []
         for _ in range(count):
-            challenges.append(challenge_request.replaced(color=Challenge_Color.WHITE))
-            challenges.append(challenge_request.replaced(color=Challenge_Color.BLACK))
+            challenges.extend(
+                (
+                    challenge_request.replaced(color=Challenge_Color.WHITE),
+                    challenge_request.replaced(color=Challenge_Color.BLACK),
+                )
+            )
 
         self.game_manager.request_challenge(*challenges)
         print(f"Challenges for {count} game pairs against {challenge_request.opponent_username} added to the queue.")
@@ -304,12 +315,14 @@ class User_Interface:
         self.config.whitelist.append(command[1].lower())
         print(f"Added {command[1]} to the whitelist.")
 
-    def _help(self) -> None:
+    @staticmethod
+    def _help() -> None:
         print("These commands are supported by BotLi:\n")
         for key, value in COMMANDS.items():
             print(f"{key:11}\t\t# {value}")
 
-    def _find_enum(self, name: str, enum_type: type[EnumT]) -> EnumT:
+    @staticmethod
+    def _find_enum(name: str, enum_type: type[EnumT]) -> EnumT:
         for enum in enum_type:
             if enum.lower() == name.lower():
                 return enum

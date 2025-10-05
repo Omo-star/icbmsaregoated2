@@ -88,6 +88,16 @@ class API:
             return False
 
     @retry(**BASIC_RETRY_CONDITIONS)
+    async def claim_draw(self, game_id: str) -> bool:
+        try:
+            async with self.lichess_session.post(f"https://lichess.org/api/bot/game/{game_id}/claim-draw") as response:
+                response.raise_for_status()
+                return True
+        except aiohttp.ClientResponseError as e:
+            print(e)
+            return False
+
+    @retry(**BASIC_RETRY_CONDITIONS)
     async def claim_victory(self, game_id: str) -> bool:
         try:
             async with self.lichess_session.post(f"/api/bot/game/{game_id}/claim-victory") as response:
@@ -113,11 +123,14 @@ class API:
                 },
                 timeout=aiohttp.ClientTimeout(total=challenge_request.timeout),
             ) as response:
-                if response.status == 429:
-                    json_response = await response.json()
+                if response.status != 200:
+                    json_response: dict[str, Any] = await response.json()
                     queue.put_nowait(
                         API_Challenge_Reponse(
-                            has_reached_rate_limit=True,
+                            error=json_response.get("error"),
+                            invalid_initial="clock.limit" in json_response,
+                            invalid_increment="clock.increment" in json_response,
+                            has_reached_rate_limit=response.status == 429,
                             wait_seconds=json_response.get("ratelimit", {}).get("seconds"),
                         )
                     )
@@ -130,12 +143,9 @@ class API:
                     data: dict[str, Any] = json.loads(line)
                     queue.put_nowait(
                         API_Challenge_Reponse(
-                            data.get("id"),
-                            data.get("done") == "accepted",
-                            data.get("error"),
-                            data.get("done") == "declined",
-                            "clock.limit" in data,
-                            "clock.increment" in data,
+                            challenge_id=data.get("id"),
+                            was_accepted=data.get("done") == "accepted",
+                            was_declined=data.get("done") == "declined",
                         )
                     )
 
@@ -156,6 +166,16 @@ class API:
             print(e)
             return False
 
+    async def download_blacklist(self, url: str) -> list[str] | None:
+        try:
+            async with self.external_session.get(url, timeout=aiohttp.ClientTimeout(total=5.0)) as response:
+                response.raise_for_status()
+                return (await response.text()).splitlines()
+        except aiohttp.ClientError as e:
+            print(f"Error downloading blacklist: {e}")
+        except TimeoutError:
+            print("Error downloading blacklist: Request timed out.")
+
     @retry(**JSON_RETRY_CONDITIONS)
     async def get_account(self) -> dict[str, Any]:
         async with self.lichess_session.get("/api/account") as response:
@@ -171,12 +191,8 @@ class API:
                 params={"action": "querypv", "board": fen, "json": 1, "stable": int(best_move)},
                 timeout=aiohttp.ClientTimeout(total=timeout),
             ) as response:
-                json_response = await response.json()
-                print(response.url, response.status, json_response)
-                return json_response
-                print(response.url, response.status, json_response)
                 response.raise_for_status()
-                return json_response
+                return await response.json()
         except (aiohttp.ClientError, json.JSONDecodeError) as e:
             print(f"ChessDB: {e}")
         except TimeoutError:

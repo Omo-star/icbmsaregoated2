@@ -45,6 +45,7 @@ class Config:
     messages: Messages_Config
     whitelist: list[str]
     blacklist: list[str]
+    online_blacklists: list[str]
     version: str
 
     @classmethod
@@ -73,6 +74,7 @@ class Config:
         messages_config = cls._get_messages_config(yaml_config["messages"] or {})
         whitelist = [username.lower() for username in yaml_config.get("whitelist") or []]
         blacklist = [username.lower() for username in yaml_config.get("blacklist") or []]
+        online_blacklists = yaml_config.get("online_blacklists") or []
 
         return cls(
             yaml_config.get("url", "https://lichess.org"),
@@ -89,6 +91,7 @@ class Config:
             messages_config,
             whitelist,
             blacklist,
+            online_blacklists,
             cls._get_version(),
         )
 
@@ -127,6 +130,7 @@ class Config:
             ("messages", dict | None, "Section `messages` must be a dictionary with indented keys followed by colons."),
             ("whitelist", list | None, "Section `whitelist` must be a list."),
             ("blacklist", list | None, "Section `blacklist` must be a list."),
+            ("online_blacklists", list | None, "Section `online_blacklists` must be a list."),
             ("books", dict, "Section `books` must be a dictionary with indented keys followed by colons."),
         ]
 
@@ -440,7 +444,8 @@ class Config:
             ("max_takebacks", int, '"max_takebacks" must be an integer.'),
             ("bullet_with_increment_only", bool, '"bullet_with_increment_only" must be a bool.'),
             ("variants", list, '"variants" must be a list of variants.'),
-            ("time_controls", list | None, '"time_controls" must be a list of speeds or time controls.'),
+            ("bot_time_controls", list | None, '"bot_time_controls" must be a list of speeds or time controls.'),
+            ("human_time_controls", list | None, '"human_time_controls" must be a list of speeds or time controls.'),
             ("bot_modes", list | None, '"bot_modes" must be a list of game modes.'),
             ("human_modes", list | None, '"human_modes" must be a list of game modes.'),
         ]
@@ -456,7 +461,8 @@ class Config:
             challenge_section.get("min_initial"),
             challenge_section.get("max_initial"),
             challenge_section["variants"],
-            challenge_section["time_controls"] or [],
+            challenge_section["bot_time_controls"] or [],
+            challenge_section["human_time_controls"] or [],
             challenge_section["bot_modes"] or [],
             challenge_section["human_modes"] or [],
         )

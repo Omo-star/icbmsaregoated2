@@ -11,6 +11,7 @@ from game import Game
 from matchmaking import Matchmaking
 from utils import get_future_timestamp
 
+
 class Game_Manager:
     def __init__(self, api: API, config: Config, username: str) -> None:
         self.api = api

@@ -53,10 +53,9 @@ class Matchmaking:
 
         if next_opponent is None:
             print(f"No opponent available for matchmaking type {self.current_type.name}.")
-            if self.config.matchmaking.selection == "weighted_random":
-                self.current_type = None
-            else:
-                self.current_type = self._get_next_type()
+            self.current_type = (
+                None if self.config.matchmaking.selection == "weighted_random" else self._get_next_type()
+            )
 
             if self.current_type is None:
                 return Challenge_Response(no_opponent=True)
@@ -92,6 +91,8 @@ class Matchmaking:
         response = await self.challenger.create(challenge_request)
         if response.success:
             self.game_start_time = datetime.now()
+        elif not response.has_reached_rate_limit and response.wait_seconds:
+            self.opponents.set_timeout(response.wait_seconds)
         elif not (response.has_reached_rate_limit or response.is_misconfigured):
             self.opponents.add_timeout(False, self.current_type.estimated_game_duration)
         else:
@@ -107,21 +108,13 @@ class Matchmaking:
             game_duration += self.current_type.estimated_game_duration
 
         self.opponents.add_timeout(not was_aborted, game_duration)
-
-        if self.config.matchmaking.selection == "cyclic":
-            self.current_type = self._get_next_type()
-        else:
-            self.current_type = None
+        self.current_type = self._get_next_type() if self.config.matchmaking.selection == "cyclic" else None
 
     def _get_next_type(self) -> Matchmaking_Type | None:
-        last_type = self.types[-1]
-        for i, matchmaking_type in enumerate(self.types):
-            if matchmaking_type == last_type:
-                return
-
-            if matchmaking_type == self.current_type:
-                print(f"Matchmaking type: {self.types[i + 1]}")
-                return self.types[i + 1]
+        for current, next_item in zip(self.types, self.types[1:], strict=False):
+            if current == self.current_type:
+                print(f"Matchmaking type: {next_item}")
+                return next_item
 
     def _get_matchmaking_types(self) -> list[Matchmaking_Type]:
         matchmaking_types: list[Matchmaking_Type] = []
@@ -216,8 +209,8 @@ class Matchmaking:
             if matchmaking_type.config_multiplier:
                 matchmaking_type.multiplier = matchmaking_type.config_multiplier
             else:
-                min_rating_diff = matchmaking_type.min_rating_diff if matchmaking_type.min_rating_diff else 0
-                max_rating_diff = matchmaking_type.max_rating_diff if matchmaking_type.max_rating_diff else 600
+                min_rating_diff = matchmaking_type.min_rating_diff or 0
+                max_rating_diff = matchmaking_type.max_rating_diff or 600
 
                 bot_count = self._get_bot_count(matchmaking_type.perf_type, min_rating_diff, max_rating_diff)
                 perf_type_count = len({matchmaking_type.perf_type for matchmaking_type in self.types})
@@ -234,14 +227,15 @@ class Matchmaking:
             if abs(bot.rating_diffs[perf_type]) < min_rating_diff:
                 return False
 
-            if self.opponents.opponent_dict[bot.username][perf_type].multiplier > 1:
+            if self.opponents.opponent_dict[bot.username][perf_type].multiplier != 1:
                 return False
 
             return True
 
         return sum(map(bot_filter, self.online_bots))
 
-    def _variant_to_perf_type(self, variant: Variant, initial_time: int, increment: int) -> Perf_Type:
+    @staticmethod
+    def _variant_to_perf_type(variant: Variant, initial_time: int, increment: int) -> Perf_Type:
         if variant != Variant.STANDARD:
             return Perf_Type(variant)
 
@@ -257,8 +251,9 @@ class Matchmaking:
 
         return Perf_Type.CLASSICAL
 
-    def _perf_type_to_variant(self, perf_type: Perf_Type) -> Variant:
-        if perf_type in [Perf_Type.BULLET, Perf_Type.BLITZ, Perf_Type.RAPID, Perf_Type.CLASSICAL]:
+    @staticmethod
+    def _perf_type_to_variant(perf_type: Perf_Type) -> Variant:
+        if perf_type in {Perf_Type.BULLET, Perf_Type.BLITZ, Perf_Type.RAPID, Perf_Type.CLASSICAL}:
             return Variant.STANDARD
 
         return Variant(perf_type)

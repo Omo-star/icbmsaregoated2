@@ -12,7 +12,7 @@ from enums import Challenge_Color, Perf_Type, Variant
 from utils import find_variant, parse_time_control
 
 
-@dataclass
+@dataclass(kw_only=True)
 class API_Challenge_Reponse:
     challenge_id: str | None = None
     was_accepted: bool = False
@@ -85,11 +85,11 @@ class Challenge_Request:
         for arg in args:
             if "+" in arg:
                 initial_time, increment = parse_time_control(arg)
-            elif arg.lower() in ["true", "yes", "rated"]:
+            elif arg.lower() in {"true", "yes", "rated"}:
                 rated = True
-            elif arg.lower() in ["false", "no", "unrated", "casual"]:
+            elif arg.lower() in {"false", "no", "unrated", "casual"}:
                 rated = False
-            elif arg.lower() in ["white", "black", "random"]:
+            elif arg.lower() in {"white", "black", "random"}:
                 color = Challenge_Color(arg.lower())
             elif found_variant := find_variant(arg):
                 variant = found_variant
@@ -319,6 +319,9 @@ class Matchmaking_Data:
         if self.release_time > datetime.now():
             dict_["release_time"] = self.release_time.isoformat(timespec="seconds")
 
+        if self.multiplier == -1 and "release_time" in dict_:
+            dict_["multiplier"] = -1
+
         if self.multiplier > 1:
             dict_["multiplier"] = self.multiplier
 
@@ -343,7 +346,7 @@ class Matchmaking_Type:
     max_rating_diff: int | None
 
     def __post_init__(self) -> None:
-        self.estimated_game_duration = timedelta(seconds=max(self.initial_time, 3) * 1.33 + self.increment * 94.48)
+        self.estimated_game_duration = timedelta(seconds=max(self.initial_time, 3) * 1.34 + self.increment * 91.76)
 
     def __str__(self) -> str:
         initial_time_min = self.initial_time / 60
