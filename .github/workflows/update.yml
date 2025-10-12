@@ -30,24 +30,9 @@ jobs:
 
       - name: Sync specific BotLi files sale
         run: |
-          files=(
-            "game.py"
-            "game_manager.py"
-            "lichess_game.py"
-            "api.py"
-            "enums.py"
-            "engine.py"
-            "botli_dataclasses.py"
-            "challenge_validator.py"
-            "challenger.py"
-            "config.py"
-            "configs.py"
-            "matchmaking.py"
-            "user_interface.py"
-            "opponents.py"
-          )
+          files=$(git ls-tree -r --name-only botli/main | grep '\.py$' | grep -v 'chatter.py')
 
-          for f in "${files[@]}"; do
+          for f in $files; do
             echo "Syncing $f"
             git checkout botli/main -- "$f" || echo "File $f not found in BotLi"
           done
