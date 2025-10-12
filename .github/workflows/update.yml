@@ -30,7 +30,6 @@ jobs:
 
       - name: Sync Python files
         run: |
-          # Sync all .py files except chatter.py
           py_files=$(git ls-tree -r --name-only botli/main | grep '\.py$' | grep -v 'chatter.py')
           for f in $py_files; do
             echo "Syncing $f with patch..."
@@ -44,12 +43,25 @@ jobs:
             rm -f update.patch
           done
 
-          # Merge custom functions in chatter.py
           if [ -f chatter.py ]; then
             echo "Merging BotLi updates into chatter.py..."
             cp chatter.py chatter_custom.py
             git checkout botli/main -- chatter.py
-            awk '/^    # CUSTOM FUNCTION START$/, /^    # CUSTOM FUNCTION END$/' chatter_custom.py >> chatter.py
+
+            awk '
+              BEGIN { in_custom=0 }
+              /^    # CUSTOM FUNCTION START$/ { in_custom=1; print; next }
+              /^    # CUSTOM FUNCTION END$/ { in_custom=0; print; next }
+              in_custom { next }
+              { print }
+            ' chatter.py > chatter_tmp.py
+
+            awk '
+              /^    # CUSTOM FUNCTION START$/ { in_custom=1 }
+              in_custom { print; if (/^    # CUSTOM FUNCTION END$/) in_custom=0 }
+            ' chatter_custom.py >> chatter_tmp.py
+
+            mv chatter_tmp.py chatter.py
             rm -f chatter_custom.py
           else
             echo "chatter.py does not exist locally, fetching from BotLi..."
