@@ -1,4 +1,4 @@
-name: botli ki specific files ko sync karle gavar
+name: botli-ki-specific-files-sync
 
 on:
   workflow_dispatch:
@@ -23,13 +23,14 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-      - name: Add BotLi remote
+      - name: Add BotLi remote and fetch
         run: |
-          git remote add botli https://github.com/Torom/BotLi.git || echo "botli sala remote already exists"
+          git remote add botli https://github.com/Torom/BotLi.git || echo "BotLi remote already exists"
           git fetch botli main
 
       - name: Sync Python files
         run: |
+          # Sync all .py files except chatter.py
           py_files=$(git ls-tree -r --name-only botli/main | grep '\.py$' | grep -v 'chatter.py')
           for f in $py_files; do
             echo "Syncing $f with patch..."
@@ -43,19 +44,20 @@ jobs:
             rm -f update.patch
           done
 
+          # Merge custom functions in chatter.py
           if [ -f chatter.py ]; then
             echo "Merging BotLi updates into chatter.py..."
             cp chatter.py chatter_custom.py
             git checkout botli/main -- chatter.py
-            awk '/^# CUSTOM FUNCTION START$/,/^# CUSTOM FUNCTION END$/' chatter_custom.py >> chatter.py
+            awk '/^    # CUSTOM FUNCTION START$/, /^    # CUSTOM FUNCTION END$/' chatter_custom.py >> chatter.py
             rm -f chatter_custom.py
           else
-            echo "chatter.py does not exist locally, fetching from BotLi"
+            echo "chatter.py does not exist locally, fetching from BotLi..."
             git checkout botli/main -- chatter.py
           fi
 
           git add .
-          git commit -m "Sync BotLi Python files (merged chatter.py custom functions)" || echo "No changes to commit gadhe"
+          git commit -m "Sync BotLi Python files (merged chatter.py custom functions)" || echo "No changes to commit"
 
       - name: Push changes
         run: git push origin main
