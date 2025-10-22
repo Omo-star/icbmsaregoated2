@@ -337,7 +337,7 @@ challenge:                                # Incoming challenges.
     - rated                               # Rated games
 
 matchmaking:
-  delay: 60                               # Time in seconds the bot must be idle before a new challenge is started.
+  delay: 300                               # Time in seconds the bot must be idle before a new challenge is started.
   timeout: 20                             # Time until a challenge is canceled.
   selection: cyclic              # Matchmkaing type selection is one of "weighted_random", "sequential" or "cyclic".
   types:                                  # Matchmaking types of which one is selected before each game.
