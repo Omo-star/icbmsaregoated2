@@ -1,9 +1,9 @@
-name: BotLi files ko sync karna haiiiii
+name: Sync BotLi files (keep custom chatter logic)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *"  # runs every 2 hours
 
 jobs:
   sync:
@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout our repo
+      - name: Checkout current repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -28,23 +28,21 @@ jobs:
           git remote add botli https://github.com/Torom/BotLi.git || echo "BotLi remote already exists"
           git fetch botli main
 
-      - name: Sync Python files
+      - name: Sync .py and .txt files (except chatter.py)
         run: |
-          py_files=$(git ls-tree -r --name-only botli/main | grep '\.py$' | grep -v 'chatter.py')
-          for f in $py_files; do
-            echo "Syncing $f with patch..."
-            git diff botli/main -- "$f" > update.patch
-            if [ -s update.patch ]; then
-              git apply update.patch
-              echo "Applied updates to $f"
-            else
-              echo "No updates for $f"
-            fi
-            rm -f update.patch
+          echo "Syncing Python and text files from BotLi/main..."
+          files=$(git ls-tree -r --name-only botli/main | grep -E '\.py$|\.txt$' | grep -v 'chatter.py')
+
+          for f in $files; do
+            echo "Updating $f..."
+            mkdir -p "$(dirname "$f")"
+            git checkout botli/main -- "$f"
           done
 
+      - name: Merge BotLi chatter.py (keep custom functions)
+        run: |
           if [ -f chatter.py ]; then
-            echo "Merging BotLi updates into chatter.py..."
+            echo "Preserving custom chatter.py logic..."
             cp chatter.py chatter_custom.py
             git checkout botli/main -- chatter.py
 
@@ -64,12 +62,12 @@ jobs:
             mv chatter_tmp.py chatter.py
             rm -f chatter_custom.py
           else
-            echo "chatter.py does not exist locally, fetching from BotLi..."
+            echo "No local chatter.py found — pulling from BotLi..."
             git checkout botli/main -- chatter.py
           fi
 
+      - name: Commit and push changes
+        run: |
           git add .
-          git commit -m "Sync BotLi Python files (merged chatter.py custom functions)" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push origin main
+          git commit -m "Sync BotLi .py and .txt files (preserved custom chatter.py logic)" || echo "No changes to commit"
+          git push origin main
