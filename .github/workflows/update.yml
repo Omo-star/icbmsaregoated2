@@ -1,4 +1,4 @@
-name: Sync BotLi files (keep custom chatter logic)
+name: sync botli files
 
 on:
   workflow_dispatch:
@@ -23,12 +23,12 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-      - name: Add BotLi remote and fetch
+      - name: add botli remote
         run: |
           git remote add botli https://github.com/Torom/BotLi.git || echo "BotLi remote already exists"
           git fetch botli main
 
-      - name: Sync .py and .txt files (except chatter.py)
+      - name: sync
         run: |
           echo "Syncing Python and text files from BotLi/main..."
           files=$(git ls-tree -r --name-only botli/main | grep -E '\.py$|\.txt$' | grep -v 'chatter.py')
@@ -39,7 +39,7 @@ jobs:
             git checkout botli/main -- "$f"
           done
 
-      - name: Merge BotLi chatter.py (keep custom functions)
+      - name: merge botli chatter.py and keep custom functions
         run: |
           if [ -f chatter.py ]; then
             echo "Preserving custom chatter.py logic..."
