@@ -163,11 +163,11 @@ opening_books:
         - DefaultBook
         - BackupBook
 
-    chess960:
-      selection: best_move
-      allow_repetitions: true
-      names:
-        - Chess960 
+#    chess960:
+ #     selection: best_move
+  #    allow_repetitions: true
+   #   names:
+    #    - Chess960 
 
     crazyhouse_black:
       selection: best_move
@@ -391,7 +391,7 @@ books:                                    # Names of the opening books (to be us
   BackupBook: "./engines/Book3.bin"
   Optimus2502: "./engines/OPTIMUS2502.bin"
   Optimus4: "./engines/OPTIMUS4.bin"
-  Chess960: "./engines/chess960_OP.bin"
+#  Chess960: "./engines/chess960_OP.bin"
   crazywhite: "./engines/crazy_white.bin"
   crazyblack: "./engines/crazy_black.bin"
   kothwhite: "./engines/koth_white.bin"
