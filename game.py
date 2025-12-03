@@ -8,6 +8,12 @@ from config import Config
 from lichess_game import LichessGame
 import json, os
 from status_writer import write_status
+import subprocess
+
+def push_status():
+    subprocess.run(["git", "add", "lichess_status.json"], check=True)
+    subprocess.run(["git", "commit", "-m", "update status", "--allow-empty"], check=False)
+    subprocess.run(["git", "push"], check=True)
 
 streak_file = "streak.json"
 
@@ -40,6 +46,8 @@ class Game:
             "rapid": account["perfs"]["rapid"]["rating"],
             "bullet": account["perfs"]["bullet"]["rating"],
         }
+        self.ratings = ratings
+
 
         if info.state["status"] != "started":
             self._print_result_message(info.state, lichess_game, info)
@@ -99,6 +107,7 @@ class Game:
                 "ratings": ratings,
             }
             write_status(status)
+            push_status()
 
             if event["status"] != "started":
                 if self.move_task:
@@ -230,15 +239,14 @@ class Game:
         message = " • ".join([info.id_str, opponents_str, message])
         print(f"{message}\n{128 * '‾'}")
 
-
-        write_status({
+        final_status = {
             "game_id": self.game_id,
             "finished": True,
             "winner": winner if winner else "draw",
             "streak": streak["current"],
-            "ratings": {
-                "blitz": info.white_rating if lichess_game.is_white else info.black_rating,
-                "rapid": ratings["rapid"],
-                "bullet": ratings["bullet"],
-            }
-        })
+            "ratings": self.ratings
+        }
+
+        write_status(final_status)
+        push_status()
+
