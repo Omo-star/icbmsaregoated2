@@ -2,7 +2,7 @@ name: Upload Lichess Status Snapshot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"  
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Lichess bot repo
+        uses: actions/checkout@v4
 
       - name: Upload status artifact
         uses: actions/upload-artifact@v4
