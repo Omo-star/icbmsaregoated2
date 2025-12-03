@@ -6,6 +6,10 @@ from botli_dataclasses import GameInformation
 from chatter import Chatter
 from config import Config
 from lichess_game import LichessGame
+import json, os
+from status_writer import write_status
+
+streak_file = "streak.json"
 
 
 class Game:
@@ -30,6 +34,12 @@ class Game:
         chatter = Chatter(self.api, self.config, self.username, info, lichess_game)
 
         self._print_game_information(info)
+        account = await self.api.get_account()
+        ratings = {
+            "blitz": account["perfs"]["blitz"]["rating"],
+            "rapid": account["perfs"]["rapid"]["rating"],
+            "bullet": account["perfs"]["bullet"]["rating"],
+        }
 
         if info.state["status"] != "started":
             self._print_result_message(info.state, lichess_game, info)
@@ -78,6 +88,17 @@ class Game:
                 continue
 
             has_updated = lichess_game.update(event)
+            status = {
+                "game_id": self.game_id,
+                "opponent": info.black_name if lichess_game.is_white else info.white_name,
+                "is_white": lichess_game.is_white,
+                "turn": "white" if lichess_game.board.turn else "black",
+                "white_time": lichess_game.white_time,
+                "black_time": lichess_game.black_time,
+                "last_eval": lichess_game.last_message,
+                "ratings": ratings,
+            }
+            write_status(status)
 
             if event["status"] != "started":
                 if self.move_task:
@@ -123,18 +144,35 @@ class Game:
     def _print_result_message(
         self, game_state: dict[str, Any], lichess_game: LichessGame, info: GameInformation
     ) -> None:
+
+        # Load / init streak file
+        if os.path.exists(streak_file):
+            streak = json.load(open(streak_file))
+        else:
+            streak = {"current": 0}
+
+        # Determine winner
         if winner := game_state.get("winner"):
             if winner == "white":
                 message = f"{info.white_name} won"
                 loser = info.black_name
                 white_result = "1"
                 black_result = "0"
+                winner_name = info.white_name
             else:
                 message = f"{info.black_name} won"
                 loser = info.white_name
                 white_result = "0"
                 black_result = "1"
+                winner_name = info.black_name
 
+            # Update streak
+            if winner_name == self.username:
+                streak["current"] += 1
+            else:
+                streak["current"] = 0
+
+            # Add win reason
             match game_state["status"]:
                 case "mate":
                     message += " by checkmate!"
@@ -150,9 +188,12 @@ class Game:
                     if loser == self.username:
                         self.ejected_tournament = info.tournament_id
                     message += f"! {loser} has not started the game."
+
         else:
+            # Draw cases
             white_result = "½"
             black_result = "½"
+            winner = None
 
             match game_state["status"]:
                 case "draw":
@@ -178,11 +219,26 @@ class Game:
                 case _:
                     self.was_aborted = True
                     message = "Game aborted."
-
                     white_result = "X"
                     black_result = "X"
 
+            streak["current"] = 0
+
+        json.dump(streak, open(streak_file, "w"), indent=2)
+
         opponents_str = f"{info.white_str} {white_result} - {black_result} {info.black_str}"
         message = " • ".join([info.id_str, opponents_str, message])
-
         print(f"{message}\n{128 * '‾'}")
+
+
+        write_status({
+            "game_id": self.game_id,
+            "finished": True,
+            "winner": winner if winner else "draw",
+            "streak": streak["current"],
+            "ratings": {
+                "blitz": info.white_rating if lichess_game.is_white else info.black_rating,
+                "rapid": ratings["rapid"],
+                "bullet": ratings["bullet"],
+            }
+        })
