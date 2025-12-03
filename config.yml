@@ -327,6 +327,14 @@ matchmaking:
       tc: 3+0
       variant: standard
       rated: true
+  optional_settings:
+    rated: true
+    variant: standard
+    weight: 100
+    multiplier: 15
+    min_rating_diff: 0
+    max_rating_diff: 10000
+
 
 messages:
   greeting: "Hi! I'm {me} running {engine}. Prepared to get BLOWN UP!!!"
