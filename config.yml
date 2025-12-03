@@ -1,5 +1,8 @@
 token:
 
+commands:
+  - matchmaking
+
 engines:
   standard:
     dir: "./engines/"
