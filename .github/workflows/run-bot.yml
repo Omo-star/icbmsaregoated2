@@ -80,6 +80,10 @@ jobs:
           fi
 
           chmod +x engines/fairy-stockfish
+      - name: Test token validity
+        run: |
+          echo "Testing token..."
+          curl -H "Authorization: Bearer ${TOKEN}" https://lichess.org/api/account
 
       - name: Run Bot
         run: |
