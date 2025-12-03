@@ -1,0 +1,20 @@
+name: Upload Lichess Status Snapshot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  upload-status:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Upload status artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: lichess-status
+          path: lichess_status.json
+          if-no-files-found: ignore
