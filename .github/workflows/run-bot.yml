@@ -20,10 +20,10 @@ jobs:
       TOKEN: ${{ secrets.TOKEN }}
 
     steps:
-      - name: Setup Actions
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup git identity (FIX)
+      - name: Setup git identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -34,12 +34,16 @@ jobs:
           python-version: '3.11'
 
       - name: Install Requirements
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      - name: Fetch Token
+      - name: Inject Token into config.yml
         run: |
-          sed -i "s/^token:.*/token: \"${TOKEN}\"/" config.yml
+          sed -i "0,/^token:/s|^token:.*|token: \"${TOKEN}\"|" config.yml
+
+      - name: Show config.yml
+        run: |
+          echo "=== USING CONFIG.YML ==="
+          cat config.yml
 
       - name: Download latest Stockfish dev
         run: |
@@ -49,10 +53,9 @@ jobs:
           mv engines/stockfish_* engines/stockfish
           chmod +x engines/stockfish
 
-      - name: download latest fsf
+      - name: Download latest Fairy-Stockfish
         run: |
           mkdir -p engines
-
           RUN_ID=$(curl -s -H "Accept: application/vnd.github+json" \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             "https://api.github.com/repos/fairy-stockfish/Fairy-Stockfish/actions/workflows/release.yml/runs?per_page=1&branch=master&status=success" \
@@ -69,7 +72,6 @@ jobs:
 
           unzip -o fsf.zip -d engines/
 
-          # Pick the standard modern build, ignore largeboards
           if [ -f engines/fairy-stockfish_x86-64-modern ]; then
             mv engines/fairy-stockfish_x86-64-modern engines/fairy-stockfish
           else
@@ -83,7 +85,6 @@ jobs:
         run: |
           echo "Starting bot..."
           python3 -u user_interface.py
-
 
       - name: Upload Lichess status
         uses: actions/upload-artifact@v4
