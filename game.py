@@ -10,6 +10,8 @@ from lichess_game import LichessGame
 import json, os
 from status_writer import write_status
 import subprocess
+from enums import Variant
+
 
 def push_status():
     subprocess.run(["git", "add", "lichess_status.json"], check=True)
