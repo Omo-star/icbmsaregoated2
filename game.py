@@ -244,8 +244,7 @@ class Game:
                 chess960=(info.variant == Variant.CHESS960)
             )
         moves_san = []
-        for uci in info.state["moves"].split():
-            m = chess.Move.from_uci(uci)
+        for move in lichess_game.board.move_stack:
             moves_san.append(temp_board.san(m))
             temp_board.push(m)
         moves_str = " ".join(moves_san)
@@ -264,7 +263,7 @@ class Game:
             "rating_after": self.ratings[info.speed],
             "rating_delta": 0,
             "moves": moves_str,
-            "duration": int(info.state["wtime"] + info.state["btime"]),
+            "duration": int((info.initial_time_ms + info.increment_ms * len(moves_san)) / 1000)
             "bot_color": "white" if lichess_game.is_white else "black",
             "termination": game_state["status"]
         }
