@@ -89,6 +89,7 @@ opening_books:
         - BackupBook
         - Optimus2502
         - Optimus4
+        - titans
 
     standard_black_rated:
       selection: weighted_random
@@ -99,6 +100,7 @@ opening_books:
         - BackupBook
         - Optimus2502
         - Optimus4
+        - titans
 
     standard_white_casual:
       selection: weighted_random
@@ -107,6 +109,7 @@ opening_books:
         - white
         - Optimus2502
         - Optimus4
+        - titans
 
     standard_black_casual:
       selection: weighted_random
@@ -115,6 +118,7 @@ opening_books:
         - black
         - Optimus2502
         - Optimus4
+        - titans
 
     standard_white_human:
       selection: weighted_random
@@ -137,12 +141,14 @@ opening_books:
         - white
         - Optimus2502
         - Optimus4
+        - titans
 
     standard_black_bot:
       selection: weighted_random
       allow_repetitions: true
       names:
         - black
+        - titans
 
     standard_white_tournament:
       selection: weighted_random
@@ -151,6 +157,7 @@ opening_books:
         - white
         - DefaultBook
         - BackupBook
+        - titans
 
     standard_black_tournament:
       selection: weighted_random
@@ -159,6 +166,7 @@ opening_books:
         - black
         - DefaultBook
         - BackupBook
+        - titans
 
     crazyhouse_white:
       selection: best_move
@@ -368,3 +376,4 @@ books:
   hordeblack: "./engines/black_horde.bin"
   hordenoob: "./engines/horde.bin"
   hordewhite: "./engines/horde_best.bin"
+  titans: "./engines/Titans.bin"
