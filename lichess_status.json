@@ -4,19 +4,19 @@
   "rating": 2955,
   "opponent": "RosaliaXadrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 15+10",
-  "time_left": 775,
-  "timestamp": "2025-12-04T20:15:00.716296",
+  "time_control": "TC: 10+0",
+  "time_left": 571,
+  "timestamp": "2025-12-04T20:25:54.881888",
   "last_game": {
     "result": "win",
     "opponent": "RosaliaXadrez",
     "rating_before": 2955,
     "rating_after": 2955,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 a5 Nc4 f6 c3 b5 Ne3 O-O Qc2 Nb6 b3 a4 Rb1 Qe8 d4 Bd6 dxe5 fxe5 c4 bxc4 bxc4 Nd7 Nf5 Nc5 Ba3 Nxe4 Nxd6 Nxd6 Qc3 e4 Bb2 Nf5 Rfe1 c5 Qa3 Qe7 Ne5",
-    "duration": 1390,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 Nb3 b6 Nd2 Qd7 a4 a5 Qf3 Be6 h3 Rd8 Qe2 h6 Nf3 c5 Ne5 Qc8 Re1 Nc4 Nf3 Bf5 b3 Nd6",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "outoftime"
   },
-  "updated": 1764879300.7163856
+  "updated": 1764879954.8820233
 }
