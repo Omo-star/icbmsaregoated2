@@ -155,7 +155,7 @@ class Game:
     def _print_result_message(
         self, game_state: dict[str, Any], lichess_game: LichessGame, info: GameInformation
     ) -> None:
-
+        winner_name = None
         if os.path.exists(streak_file):
             streak = json.load(open(streak_file))
         else:
