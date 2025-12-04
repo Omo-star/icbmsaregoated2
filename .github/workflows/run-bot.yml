@@ -88,7 +88,7 @@ jobs:
       - name: Run Bot
         run: |
           echo "Starting bot..."
-          python3 -u user_interface.py "tournament j7sPjFIX darkonbot"
+          python3 -u user_interface.py matchmaking
 
 
       - name: Upload Lichess status
