@@ -1,4 +1,5 @@
 import asyncio
+import chess
 from typing import Any
 from datetime import datetime
 from api import API
@@ -234,14 +235,40 @@ class Game:
         message = " • ".join([info.id_str, opponents_str, message])
         print(f"{message}\n{128 * '‾'}")
 
-        final_status = {
-            "game_id": self.game_id,
-            "finished": True,
-            "winner": winner if winner else "draw",
-            "streak": streak["current"],
-            "ratings": self.ratings
+        temp_board = chess.Board(self.game_info.initial_fen, chess960=(self.game_info.variant == Variant.CHESS960))
+        moves_san = []
+        for uci in self.game_info.state["moves"].split():
+            m = chess.Move.from_uci(uci)
+            moves_san.append(temp_board.san(m))
+            temp_board.push(m)
+        moves_str = " ".join(moves_san)
+
+        if winner_name == self.username:
+            result_text = "win"
+        elif winner_name is None:
+            result_text = "draw"
+        else:
+            result_text = "loss"
+
+        last_game = {
+            "result": result_text,
+            "opponent": info.black_name if lichess_game.is_white else info.white_name,
+            "rating_before": self.ratings[info.speed],
+            "rating_after": self.ratings[info.speed],
+            "rating_delta": 0,
+            "moves": moves_str,
+            "duration": int(self.game_info.state["wtime"] + self.game_info.state["btime"]),
+            "bot_color": "white" if lichess_game.is_white else "black",
+            "termination": game_state["status"]
         }
 
-        write_status(final_status)
+        write_status({
+            "online": True,
+            "playing": False,
+            "last_game": last_game,
+            "timestamp": datetime.utcnow().isoformat()
+        })
+
         push_status()
+
 
