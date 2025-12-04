@@ -56,7 +56,7 @@ class UserInterface:
             account = await self.api.get_account()
             username: str = account["username"]
 
-            console.print(Panel.fit(LOGO, style="cyan"))
+            console.out(LOGO)
             console.print(Rule(f"[magenta]BotLi {self.config.version}[/magenta]"))
             console.print(f"Logged in as [bold green]{username}[/bold green]\n")
 
