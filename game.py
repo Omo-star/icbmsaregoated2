@@ -263,7 +263,7 @@ class Game:
             "rating_after": self.ratings[info.speed],
             "rating_delta": 0,
             "moves": moves_str,
-            "duration": int((info.initial_time_ms + info.increment_ms * len(moves_san)) / 1000)
+            "duration": int((info.initial_time_ms + info.increment_ms * len(moves_san)) / 1000),
             "bot_color": "white" if lichess_game.is_white else "black",
             "termination": game_state["status"]
         }
