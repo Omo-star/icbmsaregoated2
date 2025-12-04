@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2538,
-  "opponent": "ChessatronBot",
+  "rating": 3001,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 42,
-  "timestamp": "2025-12-04T15:11:38.457428",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2025-12-04T16:36:43.236144",
   "last_game": {
-    "result": "win",
-    "opponent": "ChessatronBot",
-    "rating_before": 2538,
-    "rating_after": 2538,
+    "result": "draw",
+    "opponent": "BorkaTower",
+    "rating_before": 3001,
+    "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 Bg5 Bb4 e5 h6 Bd2 Bxc3 bxc3 Ne4 Qg4 Kf8 Bd3 Nxd2 Kxd2 c5 h4 Qa5 Rh3 cxd4 Rg3 Qxc3+ Ke2 Rg8 Rd1 Nc6 Nf3 Nb4 Nxd4 Nxd3 Rdxd3 Qc7 Qf4 Qe7 Rc3 Rh8 Kf1 Rh7 Kg1 a6 Rb3 Qc7 h5 Qd7 Rb6 Qe7 a4 Rh8 a5 Kg8 Rf3 Rh7 g3 Qe8 Rc3 Qd8 Kg2 Qe7 Rd6 Rb8 Qh4 Qxh4 gxh4 Rh8 Rc7 Kh7 Rxf7 Re8 f4 Kg8 Rc7 Rf8 Kg3 Re8 f5 exf5 Kf4 Kf8 e6 Kg8 Kxf5 Kh7 Ke5 Rg8 c3 Ra8 Nf5 Rb8 Ne7 Rf8 Rxc8 Rbxc8 Nxc8 Rxc8 e7 Re8 Ke6 d4 cxd4 g5 Rd8 Rxe7+ Kxe7 gxh4 Kf7 h3 Re8 h2 Re1 h1=N Rxh1 Kh8 Rg1 b5 axb6 a5 b7 a4 b8=Q+ Kh7 Qg8#",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Be7 Bd2 Nf8 h5 Bg4 h6 g6 Ne3 Bc8 Nh2 Ne6 b4 Rf8 a4 Rf7 Rb1 b6 a5 Rb8 Neg4 b5 Be3 Bd6 Nf3 c5 c3 Qe7 bxc5 Nxc5 Ngh2 Na4 Qd2 c5 d4 Nxc3 dxe5 Nxb1 Rxb1 fxe5 Ng5 Rf6 Rd1 b4 Qd5+ Kh8 Ngf3 c4 Bg5 c3 Qc4 Bd7 Bxf6+ Qxf6 Rxd6 Qxd6 Qf7 Qf8 Qxd7 c2 Qc7 b3 Nd2 b2 Qxc2 Qxh6 Nb3 Rxb3 Qc8+ Kg7 Qd7+ Kf6 Qd6+ Kf7 Qd7+ Kf8 Qd8+ Kg7 Qd7+ Kf8 Qd8+ Kf7 Qd7+ Kf8",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1764861098.4575295
+  "updated": 1764866203.2363079
 }
