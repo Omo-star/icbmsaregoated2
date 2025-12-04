@@ -108,7 +108,6 @@ class Game:
                 "timestamp": datetime.utcnow().isoformat()
             }
             write_status(status)
-            push_status()
 
             if event["status"] != "started":
                 if self.move_task:
