@@ -1,6 +1,6 @@
 import asyncio
 from typing import Any
-
+from datetime import datetime
 from api import API
 from botli_dataclasses import GameInformation
 from chatter import Chatter
@@ -97,14 +97,14 @@ class Game:
 
             has_updated = lichess_game.update(event)
             status = {
-                "game_id": self.game_id,
+                "online": True,
+                "playing": True,
+                "rating": self.ratings.get(info.speed, self.ratings["blitz"]),
                 "opponent": info.black_name if lichess_game.is_white else info.white_name,
-                "is_white": lichess_game.is_white,
-                "turn": "white" if lichess_game.board.turn else "black",
-                "white_time": lichess_game.white_time,
-                "black_time": lichess_game.black_time,
-                "last_eval": lichess_game.last_message,
-                "ratings": ratings,
+                "variant": info.variant_str,
+                "time_control": info.tc_format,
+                "time_left": int(lichess_game.white_time if lichess_game.is_white else lichess_game.black_time),
+                "timestamp": datetime.utcnow().isoformat()
             }
             write_status(status)
             push_status()
@@ -154,13 +154,11 @@ class Game:
         self, game_state: dict[str, Any], lichess_game: LichessGame, info: GameInformation
     ) -> None:
 
-        # Load / init streak file
         if os.path.exists(streak_file):
             streak = json.load(open(streak_file))
         else:
             streak = {"current": 0}
 
-        # Determine winner
         if winner := game_state.get("winner"):
             if winner == "white":
                 message = f"{info.white_name} won"
@@ -175,13 +173,11 @@ class Game:
                 black_result = "1"
                 winner_name = info.black_name
 
-            # Update streak
             if winner_name == self.username:
                 streak["current"] += 1
             else:
                 streak["current"] = 0
 
-            # Add win reason
             match game_state["status"]:
                 case "mate":
                     message += " by checkmate!"
@@ -199,7 +195,6 @@ class Game:
                     message += f"! {loser} has not started the game."
 
         else:
-            # Draw cases
             white_result = "½"
             black_result = "½"
             winner = None
