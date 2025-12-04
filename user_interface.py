@@ -16,10 +16,17 @@ from event_handler import EventHandler
 from game_manager import GameManager
 from logo import LOGO
 
-try:
-    import readline
-except ImportError:
-    readline = None
+from rich.console import Console
+from rich.table import Table
+from rich.panel import Panel
+from rich.rule import Rule
+
+from prompt_toolkit import PromptSession
+from prompt_toolkit.completion import WordCompleter
+from prompt_toolkit.history import FileHistory
+from prompt_toolkit.patch_stdout import patch_stdout
+
+console = Console()
 
 COMMANDS = {
     "blacklist": "Temporarily blacklists a user. Use config for permanent blacklisting. Usage: blacklist USERNAME",
@@ -44,13 +51,14 @@ EnumT = TypeVar("EnumT", bound=StrEnum)
 class UserInterface:
     async def main(self, commands: list[str], config_path: str, allow_upgrade: bool) -> None:
         self.config = Config.from_yaml(config_path)
-        print(f"{LOGO} • {self.config.version}", end="", flush=True)
 
         async with API(self.config) as self.api:
             account = await self.api.get_account()
             username: str = account["username"]
 
-            print(f" • {username}\n")
+            console.print(Panel.fit(LOGO, style="cyan"))
+            console.print(Rule(f"[magenta]BotLi {self.config.version}[/magenta]"))
+            console.print(f"Logged in as [bold green]{username}[/bold green]\n")
 
             self.api.append_user_agent(username)
             await self._handle_bot_status(account.get("title"), allow_upgrade)
@@ -66,33 +74,37 @@ class UserInterface:
             signal.signal(signal.SIGTERM, self.signal_handler)
 
             if commands:
-                # Short timeout to receive ongoing games first
                 await asyncio.sleep(0.5)
-
                 for command in commands:
-                    await self._handle_command(command.split())
+                    parts = command.split()
+                    if parts:
+                        await self._handle_command(parts)
 
             if not sys.stdin.isatty():
                 await self.game_manager_task
                 return
 
-            if readline and os.name != "nt":
-                completer = Autocompleter(list(COMMANDS.keys()))
-                readline.set_completer(completer.complete)
-                if readline.__doc__ and "libedit" in readline.__doc__:
-                    readline.parse_and_bind("bind ^I rl_complete")
-                else:
-                    readline.parse_and_bind("tab: complete")
+            history_path = os.path.expanduser("~/.botli_history")
+            completer = WordCompleter(list(COMMANDS.keys()), ignore_case=True, sentence=True)
+            history = FileHistory(history_path)
+            self.session = PromptSession(completer=completer, history=history)
 
-            while True:
-                command = (await asyncio.to_thread(input)).split()
-                if command:
-                    await self._handle_command(command)
+            with patch_stdout():
+                while True:
+                    try:
+                        line = await self.session.prompt_async("[bold magenta]botli> [/bold magenta]")
+                    except (EOFError, KeyboardInterrupt):
+                        await self._quit()
+                        break
+                    command = line.split()
+                    if command:
+                        await self._handle_command(command)
 
     async def _handle_bot_status(self, title: str | None, allow_upgrade: bool) -> None:
-        if "bot:play" not in await self.api.get_token_scopes(self.config.token):
-            print(
-                "Your token is missing the bot:play scope. This is mandatory to use BotLi.\n"
+        scopes = await self.api.get_token_scopes(self.config.token)
+        if "bot:play" not in scopes:
+            console.print(
+                "\n[red]Your token is missing the bot:play scope. This is mandatory to use BotLi.[/red]\n"
                 "You can create such a token by following this link:\n"
                 "https://lichess.org/account/oauth/token/create?scopes[]=bot:play&description=BotLi"
             )
@@ -101,36 +113,43 @@ class UserInterface:
         if title == "BOT":
             return
 
-        print("\nBotLi can only be used by BOT accounts!\n")
+        console.print("\n[red]BotLi can only be used by BOT accounts![/red]\n")
 
         if not sys.stdin.isatty() and not allow_upgrade:
-            print(
-                'Start BotLi with the "--upgrade" flag if you are sure you want to upgrade this account.\n'
-                "WARNING: This is irreversible. The account will only be able to play as a BOT."
+            console.print(
+                'Start BotLi with the "[bold]--upgrade[/bold]" flag if you are sure you want to upgrade this account.\n'
+                "[yellow]WARNING: This is irreversible. The account will only be able to play as a BOT.[/yellow]"
             )
             sys.exit(1)
         elif sys.stdin.isatty():
-            print(
+            console.print(
                 "This will upgrade your account to a BOT account.\n"
-                "WARNING: This is irreversible. The account will only be able to play as a BOT."
+                "[yellow]WARNING: This is irreversible. The account will only be able to play as a BOT.[/yellow]"
             )
             approval = await asyncio.to_thread(input, "Do you want to continue? [y/N]: ")
 
             if approval.lower() not in {"y", "yes"}:
-                print("Upgrade aborted.")
+                console.print("[yellow]Upgrade aborted.[/yellow]")
                 sys.exit()
 
         if await self.api.upgrade_account():
-            print("Upgrade successful.")
+            console.print("[bold green]Upgrade successful.[/bold green]")
         else:
-            print("Upgrade failed.")
+            console.print("[red]Upgrade failed.[/red]")
             sys.exit(1)
 
     async def _test_engines(self) -> None:
+        if not self.config.engines:
+            console.print("[yellow]No engines configured.[/yellow]")
+            return
+
+        console.print("[bold cyan]Testing engines...[/bold cyan]")
         for engine_name, engine_config in self.config.engines.items():
-            print(f'Testing engine "{engine_name}" ... ', end="", flush=True)
+            console.print(f"  [white]- {engine_name}[/white] ", end="")
             await Engine.test(engine_config)
-            print("OK")
+            console.print("[bold green]OK[/bold green]")
+
+        console.print()
 
     async def _download_online_blacklists(self) -> None:
         for url in self.config.online_blacklists:
@@ -139,7 +158,7 @@ class UserInterface:
                 username for username in map(str.lower, online_blacklist) if username not in self.config.whitelist
             ]
             self.config.blacklist.extend(online_blacklist)
-            print(f'Blacklisted {len(online_blacklist)} users from "{url}".')
+            console.print(f'Blacklisted [bold]{len(online_blacklist)}[/bold] users from "[magenta]{url}[/magenta]".')
 
     async def _handle_command(self, command: list[str]) -> None:
         match command[0]:
@@ -170,50 +189,61 @@ class UserInterface:
                 self._tournament(command)
             case "whitelist":
                 self._whitelist(command)
+            case "help":
+                self._help()
             case _:
+                console.print(f"[red]Unknown command:[/red] '{command[0]}'")
+                suggestions = [c for c in COMMANDS if c.startswith(command[0][0])]
+                if suggestions:
+                    console.print("Did you mean:")
+                    for s in suggestions:
+                        console.print(f"  • [green]{s}[/green]")
+                    console.print()
                 self._help()
 
     def _blacklist(self, command: list[str]) -> None:
         if len(command) != 2:
-            print(COMMANDS["blacklist"])
+            console.print(COMMANDS["blacklist"])
             return
 
         self.config.blacklist.append(command[1].lower())
-        print(f"Added {command[1]} to the blacklist.")
+        console.print(f"Added [bold]{command[1]}[/bold] to the blacklist.")
 
     def _challenge(self, command: list[str]) -> None:
         if len(command) < 2:
-            print(COMMANDS["challenge"])
+            console.print(COMMANDS["challenge"])
             return
 
         try:
             challenge_request = ChallengeRequest.parse_from_command(command[1:], 60)
         except ValueError as e:
-            print(e)
+            console.print(f"[red]{e}[/red]")
             return
 
         self.game_manager.request_challenge(challenge_request)
-        print(f"Challenge against {challenge_request.opponent_username} added to the queue.")
+        console.print(
+            f"Challenge against [bold]{challenge_request.opponent_username}[/bold] added to the queue."
+        )
 
     def _clear(self) -> None:
         self.game_manager.challenge_requests.clear()
-        print("Challenge queue cleared.")
+        console.print("[yellow]Challenge queue cleared.[/yellow]")
 
     def _create(self, command: list[str]) -> None:
         if len(command) < 3:
-            print(COMMANDS["create"])
+            console.print(COMMANDS["create"])
             return
 
         try:
             count = int(command[1])
         except ValueError:
-            print("First argument must be the number of game pairs to create.")
+            console.print("[red]First argument must be the number of game pairs to create.[/red]")
             return
 
         try:
             challenge_request = ChallengeRequest.parse_from_command(command[2:], 60)
         except ValueError as e:
-            print(e)
+            console.print(f"[red]{e}[/red]")
             return
 
         challenges: list[ChallengeRequest] = []
@@ -226,42 +256,46 @@ class UserInterface:
             )
 
         self.game_manager.request_challenge(*challenges)
-        print(f"Challenges for {count} game pairs against {challenge_request.opponent_username} added to the queue.")
+        console.print(
+            f"Challenges for [bold]{count}[/bold] game pairs against "
+            f"[bold]{challenge_request.opponent_username}[/bold] added to the queue."
+        )
 
     async def _join(self, command: list[str]) -> None:
         if len(command) < 2 or len(command) > 3:
-            print(COMMANDS["join"])
+            console.print(COMMANDS["join"])
             return
 
         password = command[2] if len(command) > 2 else None
         if await self.api.join_team(command[1], password):
-            print(f'Joined team "{command[1]}" successfully.')
+            console.print(f'Joined team "[bold]{command[1]}[/bold]" successfully.')
 
     def _leave(self, command: list[str]) -> None:
         if len(command) != 2:
-            print(COMMANDS["leave"])
+            console.print(COMMANDS["leave"])
             return
 
         self.game_manager.request_tournament_leaving(command[1])
+        console.print(f"Requested leaving tournament [bold]{command[1]}[/bold].")
 
     def _matchmaking(self) -> None:
-        print("Starting matchmaking ...")
+        console.print("[bold cyan]Starting matchmaking...[/bold cyan]")
         self.game_manager.start_matchmaking()
 
     async def _quit(self) -> None:
         self.game_manager.stop()
-        print("Terminating program ...")
+        console.print("[yellow]Terminating program...[/yellow]")
         self.event_handler_task.cancel()
         await self.game_manager_task
 
     def _rechallenge(self) -> None:
         last_challenge_event = self.event_handler.last_challenge_event
         if last_challenge_event is None:
-            print("No last challenge available.")
+            console.print("[yellow]No last challenge available.[/yellow]")
             return
 
         if last_challenge_event["speed"] == "correspondence":
-            print("Correspondence is not supported by BotLi.")
+            console.print("[yellow]Correspondence is not supported by BotLi.[/yellow]")
             return
 
         opponent_username: str = last_challenge_event["challenger"]["name"]
@@ -280,31 +314,33 @@ class UserInterface:
 
         challenge_request = ChallengeRequest(opponent_username, initial_time, increment, rated, color, variant, 300)
         self.game_manager.request_challenge(challenge_request)
-        print(f"Challenge against {challenge_request.opponent_username} added to the queue.")
+        console.print(
+            f"Challenge against [bold]{challenge_request.opponent_username}[/bold] added to the queue."
+        )
 
     def _reset(self, command: list[str]) -> None:
         if len(command) != 2:
-            print(COMMANDS["reset"])
+            console.print(COMMANDS["reset"])
             return
 
         try:
             perf_type = self._find_enum(command[1], PerfType)
         except ValueError as e:
-            print(e)
+            console.print(f"[red]{e}[/red]")
             return
 
         self.game_manager.matchmaking.opponents.reset_release_time(perf_type)
-        print("Matchmaking has been reset.")
+        console.print("[yellow]Matchmaking has been reset.[/yellow]")
 
     def _stop(self) -> None:
         if self.game_manager.stop_matchmaking():
-            print("Stopping matchmaking ...")
+            console.print("[yellow]Stopping matchmaking...[/yellow]")
         else:
-            print("Matchmaking isn't currently running ...")
+            console.print("[yellow]Matchmaking isn't currently running.[/yellow]")
 
     def _tournament(self, command: list[str]) -> None:
         if len(command) < 2 or len(command) > 4:
-            print(COMMANDS["tournament"])
+            console.print(COMMANDS["tournament"])
             return
 
         tournament_id = command[1]
@@ -312,27 +348,35 @@ class UserInterface:
         tournament_password = command[3] if len(command) > 3 else None
 
         self.game_manager.request_tournament_joining(tournament_id, tournament_team, tournament_password)
+        console.print(
+            f"Requested joining tournament [bold]{tournament_id}[/bold]"
+            + (f" with team [bold]{tournament_team}[/bold]" if tournament_team else "")
+        )
 
     def _whitelist(self, command: list[str]) -> None:
         if len(command) != 2:
-            print(COMMANDS["whitelist"])
+            console.print(COMMANDS["whitelist"])
             return
 
         self.config.whitelist.append(command[1].lower())
-        print(f"Added {command[1]} to the whitelist.")
+        console.print(f"Added [bold]{command[1]}[/bold] to the whitelist.")
 
     @staticmethod
     def _help() -> None:
-        print("These commands are supported by BotLi:\n")
-        for key, value in COMMANDS.items():
-            print(f"{key:11}\t\t# {value}")
+        table = Table(show_header=True, header_style="bold magenta")
+        table.add_column("Command", style="green", no_wrap=True)
+        table.add_column("Description", style="white")
+        for cmd, desc in COMMANDS.items():
+            table.add_row(cmd, desc)
+        console.print("\n[bold cyan]Available BotLi Commands:[/bold cyan]\n")
+        console.print(table)
+        console.print()
 
     @staticmethod
     def _find_enum(name: str, enum_type: type[EnumT]) -> EnumT:
         for enum in enum_type:
             if enum.lower() == name.lower():
                 return enum
-
         raise ValueError(f"{name} is not a valid {enum_type}")
 
     def signal_handler(self, *_) -> None:
@@ -350,7 +394,6 @@ class Autocompleter:
                 self.matches = [s for s in self.options if s and s.startswith(text)]
             else:
                 self.matches = self.options[:]
-
         try:
             return self.matches[state]
         except IndexError:
