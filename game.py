@@ -236,7 +236,13 @@ class Game:
         message = " • ".join([info.id_str, opponents_str, message])
         print(f"{message}\n{128 * '‾'}")
 
-        temp_board = chess.Board(info.initial_fen, chess960=(info.variant == Variant.CHESS960))
+        if info.initial_fen == "startpos":
+            temp_board = chess.Board() 
+        else:
+            temp_board = chess.Board(
+                info.initial_fen,
+                chess960=(info.variant == Variant.CHESS960)
+            )
         moves_san = []
         for uci in info.state["moves"].split():
             m = chess.Move.from_uci(uci)
