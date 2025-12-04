@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "MDBOT2",
+  "rating": 2550,
+  "opponent": "ChessatronBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 82,
-  "timestamp": "2025-12-04T16:39:10.987021",
+  "time_control": "TC: 3+0",
+  "time_left": 85,
+  "timestamp": "2025-12-04T16:41:50.896842",
   "last_game": {
-    "result": "draw",
-    "opponent": "MDBOT2",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "result": "win",
+    "opponent": "ChessatronBot",
+    "rating_before": 2550,
+    "rating_after": 2550,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nb6 Qf2 Rc8 c3 Nfd5 Bxe7 Nxe7 f4 f5 fxe5 dxe5 Qe3 Kf7 Qxe5 Qxe5 Rxe5 Rhd8 Ree1 Rc7 Nd4 Rd6 Bc2 Nc6 Bb3+ Kf6 Ne6 Rxd1+ Rxd1 Re7 Nf4 Rd7 h4 Rxd1+ Bxd1 Nc4 Be2 Nd6 Kc2 Ne5 a4 Ne4 b4 Ng3 Nd5+ Ke6 Nf4+ Kf6 Bd1 g5 hxg5+ Kxg5 Ne6+ Kf6 Nc5 h4 Nxb7 Nf1 b5 axb5 a5 Ne3+ Kc1 Nd5 a6 Nc7 Nc5 Ke7 a7 Kd6 Nb3 Nc6 Nd4 Nxa7 Nxf5+ Ke5 Nxh4",
-    "duration": 167,
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qd8 h4 Bc5 h5 h6 O-O-O O-O g4 Bxd4 Bxd4 Nxd4 Qxd4 Nb8 Qd2 Nc6 g5 hxg5 Rg1 Kh8 Rxg5 Bd7 Qg2 Rg8 Nb5 f6 Rg6 Qf8 Nd6 Be8 Bd3 Nb4 Kb1 Nxd3 cxd3 Kh7 Rg1 Bf7 f5 exf5 Nxf7 Qxf7 e6 Qf8 h6 gxh6 e7 Qf7 Rxg8 Qxg8 Qxg8+ Rxg8 Rxg8 Kxg8 e8=Q+ Kg7 Kc2 f4 Kc3 b6 Qh5 a6 Kd4 b5 Kxd5 f5 Ke6 a5 Qf7+ Kh8 Kf6 h5 Qg7#",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1764866350.9871905
+  "updated": 1764866510.8969173
 }
