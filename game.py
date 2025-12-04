@@ -245,8 +245,8 @@ class Game:
             )
         moves_san = []
         for move in lichess_game.board.move_stack:
-            moves_san.append(temp_board.san(m))
-            temp_board.push(m)
+            moves_san.append(temp_board.san(move))
+            temp_board.push(move)
         moves_str = " ".join(moves_san)
 
         if winner_name == self.username:
