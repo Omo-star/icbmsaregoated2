@@ -88,7 +88,7 @@ jobs:
       - name: Run Bot
         run: |
           echo "Starting bot..."
-          python3 -u user_interface.py
+          python3 -u user_interface.py matchmaking
 
       - name: Upload Lichess status
         uses: actions/upload-artifact@v4
