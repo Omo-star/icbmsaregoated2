@@ -235,9 +235,9 @@ class Game:
         message = " • ".join([info.id_str, opponents_str, message])
         print(f"{message}\n{128 * '‾'}")
 
-        temp_board = chess.Board(self.game_info.initial_fen, chess960=(self.game_info.variant == Variant.CHESS960))
+        temp_board = chess.Board(info.initial_fen, chess960=(info.variant == Variant.CHESS960))
         moves_san = []
-        for uci in self.game_info.state["moves"].split():
+        for uci in info.state["moves"].split():
             m = chess.Move.from_uci(uci)
             moves_san.append(temp_board.san(m))
             temp_board.push(m)
@@ -257,7 +257,7 @@ class Game:
             "rating_after": self.ratings[info.speed],
             "rating_delta": 0,
             "moves": moves_str,
-            "duration": int(self.game_info.state["wtime"] + self.game_info.state["btime"]),
+            "duration": int(info.state["wtime"] + info.state["btime"]),
             "bot_color": "white" if lichess_game.is_white else "black",
             "termination": game_state["status"]
         }
