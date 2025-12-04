@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2549,
-  "opponent": "RolwinBrito",
+  "rating": 2550,
+  "opponent": "GemXJewelry",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 90,
-  "timestamp": "2025-12-04T21:19:47.930217",
+  "time_left": 137,
+  "timestamp": "2025-12-04T21:33:07.939850",
   "last_game": {
     "result": "win",
-    "opponent": "RolwinBrito",
-    "rating_before": 2549,
-    "rating_after": 2549,
+    "opponent": "GemXJewelry",
+    "rating_before": 2550,
+    "rating_after": 2550,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 e3 e6 Bd3 b6 Nbd2 Bb7 Qe2 c5 c3 Be7 O-O O-O e4 dxe4 Nxe4 cxd4 cxd4 Nxe4 Bxe4 Bxe4 Qxe4 Nd7 Rd1 Rb8 Bf4 Nf6 Qd3 Rc8 a3 Nd5 Be5 Qd7 h4 h6 h5 Rc6 Bh2 Bf6 Be5 Rfc8 Bxf6 gxf6 Nh2 f5 Qg3+ Kh7 Nf3 Rc2 Rab1 Rg8 Qf4 Nxf4 Ne5 Qd5 f3 Rgxg2+ Kf1 Rgf2+ Ke1 Ng2#",
+    "moves": "d4 d5 c4 dxc4 e4 b5 a4 c6 axb5 cxb5 Nc3 Ba6 Bf4 Nd7 Rxa6 Ngf6 Nf3 g6 Be2 Bg7 e5 Nh5 Bc1 Qc8 Nxb5 Qxa6 Nc7+ Kd8",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764883187.9302785
+  "updated": 1764883987.9399352
 }
