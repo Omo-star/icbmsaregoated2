@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3001,
-  "opponent": "Tacticall_Bot",
+  "rating": 2550,
+  "opponent": "WolfuhfuhBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-04T21:49:10.248251",
+  "time_control": "TC: 3+2",
+  "time_left": 105,
+  "timestamp": "2025-12-04T21:58:38.163509",
   "last_game": {
-    "result": "draw",
-    "opponent": "Tacticall_Bot",
-    "rating_before": 3001,
-    "rating_after": 3001,
+    "result": "win",
+    "opponent": "WolfuhfuhBot",
+    "rating_before": 2550,
+    "rating_after": 2550,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Qc3 Rc8 Qd2 Ne7 Rxc8 Qxc8 Nd4 Qc5 b4 Qc8 f4 Qc7 Qd3 Bd7 Bf3 Nc8 Kf2 Nd6 e4 f6 e5 fxe5 fxe5 Nc4 Bxb7 Nxa3 Qxa3 Qxb7 Qc3 Qe4 Qc5 Be8 Kg1 Qe3+ Kh2 Qf4+ Kh1 Qf1+ Kh2 Qf4+ Kg1 Bf7",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6 Bd3 d5 exd5 cxd5 Qe2+ Be7 O-O c6 Bf4 O-O Rae1 Re8 Qd1 Be6 Bg3 Qb6 Na4 Qa5 c3 c5 Be5 Bg4 Qc2 c4 Be2 Bd7 b3 Rac8 Rd1 Ne4 Bf3 Ng5 Rfe1 Nxf3+ gxf3 Bf8 h4 d4 Bxd4 Qh5 Rxe8 Rxe8 Be3 Bh3 Rd5 Qxd5 Qe2 Bd6 Kh1 Qh5 Qd1 Qe5 f4 Qe4+ f3 Qxe3 Nb2 Qxf4 Qe2 Rxe2 Nxc4 Qh2#",
+    "duration": 328,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1764884950.248411
+  "updated": 1764885518.163605
 }
