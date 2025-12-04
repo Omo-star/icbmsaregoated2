@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3002,
-  "opponent": "canary_colinbot",
+  "rating": 2955,
+  "opponent": "RosaliaXadrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 37,
-  "timestamp": "2025-12-04T19:42:27.241242",
+  "time_control": "TC: 15+10",
+  "time_left": 775,
+  "timestamp": "2025-12-04T20:15:00.716296",
   "last_game": {
-    "result": "draw",
-    "opponent": "canary_colinbot",
-    "rating_before": 3002,
-    "rating_after": 3002,
+    "result": "win",
+    "opponent": "RosaliaXadrez",
+    "rating_before": 2955,
+    "rating_after": 2955,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4+ Bd2 Be7 Bg2 d5 O-O O-O Ne5 Bb7 Nc3 Nbd7 Bf4 c5 Rc1 cxd4 Qxd4 Bc5 Qd1 Nxe5 Bxe5 Rc8 h4 Ng4 Bd4 Ba3 Rc2 Ba6 Nb1 Bc5 Bxc5 Rxc5 e4 dxc4 Qxg4 cxb3 Rd2 bxa2 Rxd8 Rxd8 Rd1 Rcc8 Na3 h5 Qf3 Rxd1+ Qxd1 Rc3 e5 g6 Be4 Be2 Qd8+ Kg7 Qf6+ Kf8 Qd8+ Kg7 Kh2 Rxa3 Qf6+ Kg8 Qd8+ Kg7 Qf6+ Kg8 Qg5 a1=Q Qd8+ Kg7 Qf6+ Kg8 Qd8+ Kg7 Qf6+ Kg8 Qd8+",
-    "duration": 145,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 a5 Nc4 f6 c3 b5 Ne3 O-O Qc2 Nb6 b3 a4 Rb1 Qe8 d4 Bd6 dxe5 fxe5 c4 bxc4 bxc4 Nd7 Nf5 Nc5 Ba3 Nxe4 Nxd6 Nxd6 Qc3 e4 Bb2 Nf5 Rfe1 c5 Qa3 Qe7 Ne5",
+    "duration": 1390,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1764877347.2413414
+  "updated": 1764879300.7163856
 }
