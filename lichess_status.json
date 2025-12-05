@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3041,
-  "opponent": "strain-on-veins",
+  "rating": 3035,
+  "opponent": "Ayaangamerzbot2",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-05T09:07:26.118121",
+  "time_left": 20,
+  "timestamp": "2025-12-05T09:11:32.512038",
   "last_game": {
-    "result": "loss",
-    "opponent": "strain-on-veins",
-    "rating_before": 3041,
-    "rating_after": 3041,
+    "result": "draw",
+    "opponent": "Ayaangamerzbot2",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Qb3+ Kh8 Bxf4 gxf4 Nc2 Nf5 Ra4 f3 d5 Re5 a7 fxg2 Bxg2 Nh4 Ne3 Nxg2 Kxg2 Bg5 f4 Rxe3 Qxe3 Bxd5+ Re4 Qf5 fxg5 h4 b3 Bxe4+ Kg1 Qf3 a8=R+ Bxa8 Qe8+ Kg7 Qe7+ Kg6 Qe6+ Kxg5 Qe7+ Kf4 Qxh4+ Ke3 Qe1+ Kd3 Qb1+ Kc3 Qe1+ Kc2 Qf2+ Qxf2+ Kxf2",
+    "moves": "d4 Nf6 c4 d6 Nc3 g6 e4 Bg7 Nf3 O-O Be2 e5 O-O Nc6 d5 Ne7 b4 Nd7 a4 a5 Ba3 b6 bxa5 Rxa5 Bb4 Ra6 a5 c5 dxc6 Nc5 axb6 Rxa1 Qxa1 Qxb6 Qa3 Qxc6 Nd5 Nxd5 cxd5 Qc7 Nd2 Bd7 Bxc5 dxc5 h4 h5 Ra1 Rb8 Qc3 Rb4 Ra8+ Kh7 Bc4 Bh6 Nf3 Rb1+ Kh2 Qb7 Rd8 Bf4+ g3 Rc1 Qb3 Qxb3 Bxb3 Bg4 Kg2 Bxf3+ Kxf3 Rc3+ Ke2 Bxg3 fxg3 Rxb3",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1764925646.118241
+  "updated": 1764925892.5121357
 }
