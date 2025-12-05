@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3022,
-  "opponent": "HakoAI",
+  "rating": 2596,
+  "opponent": "Lambergar",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 6,
-  "timestamp": "2025-12-05T04:53:29.764389",
+  "time_control": "TC: 3+0",
+  "time_left": 58,
+  "timestamp": "2025-12-05T04:59:20.763044",
   "last_game": {
     "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3022,
-    "rating_after": 3022,
+    "opponent": "Lambergar",
+    "rating_before": 2596,
+    "rating_after": 2596,
     "rating_delta": 0,
-    "moves": "d4 d5 Nf3 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 dxc4 Bxc4 c5 O-O cxd4 exd4 b6 Bg5 Bb7 Qe2 Nbd7 Rac1 Bxc3 Rxc3 Qb8 Bh4 Qf4 Bg3 Qe4 Qd1 Rfd8 Re1 Qf5 Bb3 Qh5 h3 Nc5 Bc2 Nce4 Rc7 Bd5 Bf4 Nd6 Rc3 Nf5 Be5 Rac8 Ra3 Nd6 Bb1 a5 Nd2 Qxd1 Rxd1 Nb5 Rg3 Nh5 Rd3 a4 g4 Nf6 f3 Nd7 a3 f6 Bg3 Nb8 Bxb8 Rxb8 Bc2 Ra8 Nb1 Rdc8 Nc3 Rxc3 Rxc3 Nxc3 bxc3 Bxf3 Rc1 Bd5 Bd3 Bb3 Kf2 Kf7 h4 h6 Ke3 Rd8 h5 Ke7 c4 Rc8 Rb1 e5 Rc1 Kd6 Rb1 Rc7 Be2 Rd7 Rf1 Re7 Bd3 Rc7 Rb1 Rc8 Be2 Rc7 Bd3 Ke7 Rc1 Rc8 Be2 Rc7 Bd3 Ba2 dxe5 fxe5 Kd2 Kd6 Rc2 Bb3 Rc1 Rf7 g5 Rf2+ Kc3 hxg5 Rg1 Rf3 Kd2 Kc5 Rg4 Rh3 Be2 Rh2 Re4 Kd6 Kc3 Rh3+ Kd2 Rg3 Bf1 Rf3 Re1 e4 Be2 Rg3 Rh1 Kc5 Ke1 Bxc4 Kf2 Rxa3 Rc1 b5 Bxc4 bxc4 Rg1 Ra2+ Ke3 Rh2 Rxg5+ Kb4 Kxe4 a3 Rg6 Rxh5 Rg2 c3 Rg6 Rb5 Kd4 a2 Rg1 c2 Rc1 Kb3 Re1 Kb2 Rf1 Rb4+ Kd3 a1=Q Rxa1 Kxa1 Ke3 g6 Kf3 g5 Kg3 g4 Kh4 g3+ Kh5 g2 Kh6 g1=Q Kh7 c1=Q Kh8 Rh4#",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Qc8 Nxe5 fxe4 Rg1 Bh5 Bf4 Bf3+ Nxf3 Qg4+ Bg3 Qxf3+ Kf1 exd3 Nd2 Qf5 Rg2 dxc2 Bxc7 Qd3+ Kg1 g6 Nf1 Qd7 Be5 Rf8 Rc1 O-O-O Rxc2 Rde8 Qc3 Bd8 Ne3 Qe7 Nc4 Bc7 Bxc7 Qxc7 Rg4 Kb8 Kg2 h5 Rg5 h4 Ne5 h3+ Kh2 Rf5 Rxf5 gxf5 f4 Ka8 Qc4 Qd6 b4 Rb8 a4 Re8 b5 cxb5 axb5 Rf8 b6 Qd8 Ra2 Qxb6 Nd7 Qd6 Nxf8 Qxf8 Qc7 Qb8 Qxb8+ Kxb8 Kxh3 b5 Rb2 a6 Rc2 Kb7 Rc5 b4 Rxf5 Kb6 Re5 b3 f5 b2 Re1 a5 f6",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764910409.7644503
+  "updated": 1764910760.7631922
 }
