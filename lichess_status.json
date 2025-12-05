@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2574,
-  "opponent": "simbelmyne-bot",
+  "rating": 3019,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 28,
-  "timestamp": "2025-12-05T04:32:31.783276",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2025-12-05T04:34:08.195142",
   "last_game": {
-    "result": "win",
-    "opponent": "simbelmyne-bot",
-    "rating_before": 2574,
-    "rating_after": 2574,
+    "result": "draw",
+    "opponent": "BorkaTower",
+    "rating_before": 3019,
+    "rating_after": 3019,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Be6 Nc3 Qd8 d5 Bf5 Qb3 b6 Rac1 a6 Ne2 h6 Ng3 Bg6 Ne2 a5 a4 Rc8 Red1 Nd6 Nd4 Bh5 f3 Re8 Nc6 Qd7 Bf4 Bg5 Bxg5 hxg5 h3 Bg6 Qc3 Bf5 b3 Ra8 Nd4 Re7 Qd2 f6 Rc6 Re5 Qc1 Re7 Nb5 Nxb5 Bxb5 Qd8 h4 gxh4 Bc4 Kh8 Qf4 Bh7 Qxh4 Rd7 Kf2 g5 Qh6 f5 Re6 Qf8 Qxg5 Qg7 Qxg7+ Rxg7 d6 cxd6 Rexd6 Rg6 Rxg6 Bxg6 Ke3 Be8 Rd5 Rc8 Kd4 f4 Rf5 Kg7 Rxf4 Bg6 Ke5 Rc5+ Bd5 Bc2 Rc4 Rxd5+ Kxd5 Bxb3 Kd4 Kg6 Kc3 Bd1 Rd4 Be2 Kd2 Bf1 Ke1 Ba6 Rd6+ Kf7 Rxb6 Bc4 Rb5 Bxb5 axb5 Ke7 g3 a4 b6 a3 b7 a2 b8=Q a1=Q+ Ke2 Qa2+ Ke3 Qe6+ Kf2 Qa2+ Kg1 Kf6 g4 Qe2 Qf4+ Kg7 g5 Qe7 Qd4+ Kg6 f4 Qe1+ Kg2 Kf5 Qf2 Qc1 Qf3 Qe1 Kh3 Qg1 Qd5+ Kxf4 Qf7+ Ke5 Qf6+ Ke4 g6 Qh1+ Kg4 Qg1+ Kh5",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "c4 d6 d4 Nf6 Nf3 g6 Nc3 Nbd7 e4 Bg7 Bd3 e5 d5 a5 O-O Nc5 Bc2 O-O h3 Ne8 Rb1 f5 exf5 gxf5 Be3 b6 Qd2 Nf6 Rbe1 Bd7 Qd1 Kh8 g3 Qe8 Kh2 Qh5 Nh4 a4 Qxh5 Nxh5 Nb5 Bxb5 cxb5 f4 Bxc5 bxc5 Nf5 a3 b3 Rab8 Bd3 Rfe8 h4 f3 Be4 Nf6 Bxf3 e4 Bg2 Rxb5 Ne3 c4 Nxc4 Rxd5 Re2 Rc5 Nxa3 d5 Nc2 Ra8 a4 Rc3 f3 Nh5 Ne3 Rxb3 Nxd5 Be5 f4 Bd6 Re3 Rxe3 Nxe3 Rxa4 Kh3 Ra3 Re1 Nxf4+ gxf4 Bxf4 Bxe4 h5",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1764909151.7833357
+  "updated": 1764909248.1952693
 }
