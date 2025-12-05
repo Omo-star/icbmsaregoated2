@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3045,
-  "opponent": "Bharat_royals",
+  "rating": 2663,
+  "opponent": "cesium119",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2025-12-05T09:53:09.523913",
+  "time_control": "TC: 5+3",
+  "time_left": 221,
+  "timestamp": "2025-12-05T10:02:52.362154",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3045,
-    "rating_after": 3045,
+    "result": "win",
+    "opponent": "cesium119",
+    "rating_before": 2663,
+    "rating_after": 2663,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rb8 Bxf6 Rf8 Re6 a3 bxa3 Ra8 Re3 Ra4 Bb2 c3 Bxc3 Rxa3 Bf6 Rxa2 Bg5 Ra4 Re6 Ra3+ Re3 Ra4 Re8+ Kf7 Rh8 Ra3+ Ke2 Ra2+ Kf3 Ra3+ Ke4 Ra4+ Kd3 Ra3+ Ke4 Ra4+ Ke3 Ra3+ Kf2",
-    "duration": 60,
+    "moves": "d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6 e4 g6 f4 h5 e5 dxe5 fxe5 Ng4 e6 Qh4+ g3 Qe7 Nf3 fxe6 Bb5+ Bd7 Bg5 Qd6 Qc2 exd5 O-O-O Bxb5 Nxb5 Qc6 Nc7+ Qxc7 Qxg6+ Kd7 Rxd5+ Bd6 Rhd1 Kc8 Rxd6 Qa5 Qe6+ Kc7 Rd7+ Nxd7 Qxd7+",
+    "duration": 447,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1764928389.524066
+  "updated": 1764928972.3622687
 }
