@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3037,
-  "opponent": "NewChessEngine-ai",
+  "rating": 2649,
+  "opponent": "ViolentStockfish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2025-12-05T09:37:49.694126",
+  "time_control": "TC: 3+0",
+  "time_left": 45,
+  "timestamp": "2025-12-05T09:44:06.817580",
   "last_game": {
     "result": "win",
-    "opponent": "NewChessEngine-ai",
-    "rating_before": 3037,
-    "rating_after": 3037,
+    "opponent": "ViolentStockfish",
+    "rating_before": 2649,
+    "rating_after": 2649,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 a5 a4 Nc5 g4 b5 Bxc5 Bxc5 Ne3 Be6 Qe2 Rf8 Rg3 Qd7 h3 Bd4 c3 Bxe3 Qxe3 h6 h4 Qd6 d4 bxa4 Rxa4 c5 d5 Qd7 dxe6 Qxa4 g5 hxg5 e7 Rfb8 Qd3 g4 Rxg4 Kh7 h5 Rxb2 Kg2 Re8 Nh4 Rxe7 Qf3 Qd7 Nf5 Rf7 Rg6 Kh8 h6 gxh6 Kh2 Rb8 Nxh6 Rbf8 Nxf7+ Rxf7 Rh6+ Kg8 Qh5 Kf8 Rh8+ Ke7 Qe2 Rg7 Qc4 c6 Qa6 Ke6 Qa8 c4 Re8+ Kf7 Rh8 Ke6 Rh3 Rf7 Rh8 Rh7+ Kg2 Rg7+ Kh2 Qc7 Qe8+ Kd6 Qf8+ Qe7 Qa8 Qa7 Qf8+ Qe7 Qa8 Rh7+ Rxh7 Qxh7+ Kg1 Qg6+ Kf1 Qh5 Qd8+ Ke6 Qc8+ Kf7 Kg2 Qe2 Qxc6 Kg6 Kg3 Kg5 Qc8 Qxe4 Qg8+ Qg6 Qxc4 Kh5+ Kh2 Qf5 Qf7+ Kh6 Qf8+ Kg5 Qg8+ Kf4 Qg3+ Ke4 Qe3+ Kd5 Qb6 Kc4 Kg1 Qg4+ Kf1 Qd1+ Kg2 a4 Qxf6 Qd5+ Kh2 e4 Qe7 Kd3 Qa3 Qc4 Kg2 e3 fxe3 Kxe3 Qc1+ Kd3",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Bb7 c4 Bb4+ Ke2 O-O cxd5 cxd5 Qd4 a5 a3 Be7 Nd6 f6 Nxb7 Qxb7 exf6 Bxf6 Qd3 a4 Rb1 Rab8 Kd1 d6 Bd2 e5 Bb4 e4 Qa6 Qd7 Rc1 Rfd8 Rc6 Qf5 Qa5 Kh8 h3 e3 Rc2 Bd4 Qxa4 Bc5 Be1 Qf6 Bd3 Rxb2 Ke2 Rb7 f5 Rf8 Rf1 Rb2 Rxb2 Qxb2+ Bc2 d4 Qb3 Rb8 Qxb2 Rxb2 Kd3 Bxa3 Bh4 Kg8 Rb1 Rxb1 Bxb1 Bc5 Ba2+ Kf8 Bd8 Ke8 f6 gxf6 Bxf6 Bb4 Bxd4 Be1 Bd5 Bf2 Bxe3 Bg3 Bd4 h5 Ke4 Ke7 Kf5 Kd7 Kg5",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764927469.6942697
+  "updated": 1764927846.8176868
 }
