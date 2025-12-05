@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3038,
-  "opponent": "MDBOT",
+  "rating": 3037,
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 9,
-  "timestamp": "2025-12-05T09:24:23.365137",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-05T09:28:57.774414",
   "last_game": {
     "result": "draw",
-    "opponent": "MDBOT",
-    "rating_before": 3038,
-    "rating_after": 3038,
+    "opponent": "NewChessEngine-ai",
+    "rating_before": 3037,
+    "rating_after": 3037,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nb6 Qf2 Rc8 c3 O-O h4 Kg7 g4 Rce8 Bc1 d5 Bc2 hxg4 fxg4 Nxg4 Qg3 f5 h5 Nc4 hxg6 Qd7 Qh3 Rh8 Qf1 Rhf8 Qe2 e4 a3 Rh8 Qxc4 dxc4 Rxd7 cxb3 Bxe4 Nf6 Bxf5 Nxd7 Bxd7 Kxg6 Bxe8+ Rxe8 c4 a5 a4 b6 Re3 Kf6 Rxb3 Bc5 Rf3+ Ke5 Kc2 Kd6 Bd2 Re4 b3 Rg4 Rh3 Ke6 Bc3 Re4 Kd3 Rf4 Rh6+ Kd7 Rh7+ Kd6 Be1 Rf3+ Kc2 Kc6 Rh2 Be3 Bc3 Bc5 Rd2 Bd6 Bd4 Bc5 Bg7 Rf5 Rd3 Rg5 Bc3 Bb4 Bh8 Rh5 Bd4 Bc5 Bg7 Rg5 Bc3 Rg2+ Rd2 Rg3 Rd3 Rg2+ Kd1 Rf2 Be5 Rf5 Bg7 Bf8 Bc3 Bb4 Bd4 Bc5 Bc3 Rf1+ Kd2 Rf2+ Kc1 Re2 Bf6 Rf2 Bg7 Rg2 Be5 Rf2 Rh3 Re2 Rh6+ Kd7 Bc3 Re3 Kc2 Rf3 Rh7+ Kd6 Rh2 Ke6 Rh6+ Kd7 Rh7+ Kd6 Rh2 Ke6 Rh5 Rf2+ Kd3 Rf3+ Kc2 Kd6 Be5+ Kd7 Rh7+ Kc8 Rc7+ Kd8 Rh7 Kc8 Rc7+ Kd8 Rc6 Kd7 Kc1",
-    "duration": 247,
+    "moves": "Nf3 d5 c3 e6 d4 Nf6 Bf4 Bd6 Bg3 c5 Nbd2 cxd4 cxd4 Ne4 a3 Nxg3 hxg3 Qb6 Rb1 g6 e3 Kf8 g4 Kg7 Qb3 Qxb3 Nxb3 Bd7 Rc1 a5 g5 a4 Nc5 Rc8 Ne5 Bxe5 dxe5 b6 Nd3 Nc6 Rc3 Na5 Nb4 Rxc3 bxc3 Rc8 Kd2 d4 exd4 Nb3+ Kc2 Nxd4+ Kb2 Nb3 Rh4 Rc5 Nd3 Rc8 Kc2 Na1+ Kb2 Nb3 Kc2 Na1+ Kc1 Nb3+ Kc2",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1764926663.3682656
+  "updated": 1764926937.7745268
 }
