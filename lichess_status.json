@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3014,
-  "opponent": "MDBOT",
+  "rating": 2574,
+  "opponent": "simbelmyne-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 6,
-  "timestamp": "2025-12-05T04:31:39.049765",
+  "time_control": "TC: 3+0",
+  "time_left": 28,
+  "timestamp": "2025-12-05T04:32:31.783276",
   "last_game": {
     "result": "win",
-    "opponent": "MDBOT",
-    "rating_before": 3014,
-    "rating_after": 3014,
+    "opponent": "simbelmyne-bot",
+    "rating_before": 2574,
+    "rating_after": 2574,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 Rde8 Rb5 Qe6 Rd7 Ra8 Rxb4 Ra1+ Kg2 Qf6 Rd3 Qc6+ f3 Qg6 Qe2 h5 Rd1 Raa8 Qc4+ Kh8 Qe4 Qg5 Rb5 Rae8 Re1 Rf5 f4 Qg6 Rxe5 Rfxe5 fxe5 Qb6 b4 Qe6 Rh1 g6 Rf1 Kh7 b5 Re7 c4 Qd7 Rf6 Qd2+ Rf2 Qd7 b6 Qe8 Re2 Kg7 e6 g5 c5 Qb8 Qe5+ Qxe5 Rxe5 h4 c6 h3+ Kh2 Kf6 c7 Re8 Re2",
-    "duration": 189,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Be6 Nc3 Qd8 d5 Bf5 Qb3 b6 Rac1 a6 Ne2 h6 Ng3 Bg6 Ne2 a5 a4 Rc8 Red1 Nd6 Nd4 Bh5 f3 Re8 Nc6 Qd7 Bf4 Bg5 Bxg5 hxg5 h3 Bg6 Qc3 Bf5 b3 Ra8 Nd4 Re7 Qd2 f6 Rc6 Re5 Qc1 Re7 Nb5 Nxb5 Bxb5 Qd8 h4 gxh4 Bc4 Kh8 Qf4 Bh7 Qxh4 Rd7 Kf2 g5 Qh6 f5 Re6 Qf8 Qxg5 Qg7 Qxg7+ Rxg7 d6 cxd6 Rexd6 Rg6 Rxg6 Bxg6 Ke3 Be8 Rd5 Rc8 Kd4 f4 Rf5 Kg7 Rxf4 Bg6 Ke5 Rc5+ Bd5 Bc2 Rc4 Rxd5+ Kxd5 Bxb3 Kd4 Kg6 Kc3 Bd1 Rd4 Be2 Kd2 Bf1 Ke1 Ba6 Rd6+ Kf7 Rxb6 Bc4 Rb5 Bxb5 axb5 Ke7 g3 a4 b6 a3 b7 a2 b8=Q a1=Q+ Ke2 Qa2+ Ke3 Qe6+ Kf2 Qa2+ Kg1 Kf6 g4 Qe2 Qf4+ Kg7 g5 Qe7 Qd4+ Kg6 f4 Qe1+ Kg2 Kf5 Qf2 Qc1 Qf3 Qe1 Kh3 Qg1 Qd5+ Kxf4 Qf7+ Ke5 Qf6+ Ke4 g6 Qh1+ Kg4 Qg1+ Kh5",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "outoftime"
   },
-  "updated": 1764909099.0498948
+  "updated": 1764909151.7833357
 }
