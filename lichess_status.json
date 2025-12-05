@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2596,
-  "opponent": "Lambergar",
+  "rating": 3026,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 58,
-  "timestamp": "2025-12-05T04:59:20.763044",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2025-12-05T05:00:48.165912",
   "last_game": {
-    "result": "win",
-    "opponent": "Lambergar",
-    "rating_before": 2596,
-    "rating_after": 2596,
+    "result": "draw",
+    "opponent": "Monastedrez",
+    "rating_before": 3026,
+    "rating_after": 3026,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Qc8 Nxe5 fxe4 Rg1 Bh5 Bf4 Bf3+ Nxf3 Qg4+ Bg3 Qxf3+ Kf1 exd3 Nd2 Qf5 Rg2 dxc2 Bxc7 Qd3+ Kg1 g6 Nf1 Qd7 Be5 Rf8 Rc1 O-O-O Rxc2 Rde8 Qc3 Bd8 Ne3 Qe7 Nc4 Bc7 Bxc7 Qxc7 Rg4 Kb8 Kg2 h5 Rg5 h4 Ne5 h3+ Kh2 Rf5 Rxf5 gxf5 f4 Ka8 Qc4 Qd6 b4 Rb8 a4 Re8 b5 cxb5 axb5 Rf8 b6 Qd8 Ra2 Qxb6 Nd7 Qd6 Nxf8 Qxf8 Qc7 Qb8 Qxb8+ Kxb8 Kxh3 b5 Rb2 a6 Rc2 Kb7 Rc5 b4 Rxf5 Kb6 Re5 b3 f5 b2 Re1 a5 f6",
-    "duration": 180,
+    "moves": "e4 e5 d3 Nf6 Nf3 Nc6 g3 d5 exd5 Nxd5 Bg2 Bg4 Nc3 f6 O-O Nxc3 bxc3 Qd7 Re1 O-O-O Qe2 h5 h4 g5 Qe4 gxh4 Nxh4 Be6 Qa4 Bd5 Bxd5 Qxd5 Qe4 Qe6 Qf5 Qxf5 Nxf5 Ne7 Nh4 Nd5 c4 Nb4 Re2 Nc6 Be3 Bb4 Kg2 Rdg8 Rc1 Bc3 Rb1 Rh7 Nf5 b6 Rh1 Kd7 Rh3 Ke6 Nh4 Kf7 a4 Nd8 Nf5 Ke6 Nh4 Kf7 Rh1 Ne6 Nf5 Kg6 Nh4+",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1764910760.7631922
+  "updated": 1764910848.166006
 }
