@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3013,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2570,
+  "opponent": "OpeningsBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2025-12-05T04:17:23.241519",
+  "time_control": "TC: 3+0",
+  "time_left": 18,
+  "timestamp": "2025-12-05T04:24:15.132674",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3013,
-    "rating_after": 3013,
+    "result": "win",
+    "opponent": "OpeningsBot",
+    "rating_before": 2570,
+    "rating_after": 2570,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 Nc3 Nf6 Bd3 e6 Be2 Nc6 d4 cxd4 Nxd4 Be7 O-O O-O Be3 e5 Nb3 Be6 Bf3 a5 Nc1 a4 Nd5 Bxd5 exd5 Nb8 Be2 Nbd7 Bb5 Ne4 Ne2 Bg5 Bxg5 Nxg5 b4 axb3 cxb3 h5 a4 f5 Qe1 Nf6 f3 Rc8 a5 Nxd5 Bc4 Rxc4 bxc4 Ne3 Qd2 Nxf1 Kxf1 Kh7 Rd1 Nf7 Rb1 Qc7 Qd5 Nd8 Rb6 Nc6 Qb5 Rc8 h3 Qd8 f4 Nxa5 Qxa5",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Bc4 Nf6 d3 c6 Bg5 d5 exd5 cxd5 Bb5+ Nc6 c3 h6 Bh4 Qb6 Bxc6+ bxc6 Qe2 Be7 Nf3 e4 dxe4 Ba6 Qc2 dxe4 Nd4 Bd3 Qb3 Qc5 Nd2 Qh5 Qb7 O-O Qxe7 Rfe8 Bxf6 Rxe7 Bxe7 Re8 Ba3 c5 Bxc5 Qxc5 N2b3 Qg5 g3 Rb8 h4 Qd5 Kd2 a5 Ke3 a4 Nc1 Qc4 Rd1 Bf1 Nce2 Bxe2 b3 Qxc3+ Kxe2 Qb2+ Kf1 e3 fxe3 Qh2 Rac1 Re8 Rc3 Qxg3 h5 f5 Rdc1 Qh3+ Kf2 Qh2+ Kf1 Qh3+ Kf2 Qh2+ Kf3 Qxh5+ Kg2 Qg4+ Kf2 Qh4+ Kg2 f4 exf4 Qxf4 Nf3 Re2+ Kf1 Rxa2 bxa4 Qf5 R1c2 Rxc2 Rxc2 Qxc2 a5 h5 a6 h4 a7 Qa2 Nxh4 Qxa7 Nf3 g5 Kg2 g4 Nh2 g3 Kxg3 Qg1+ Kh3 Kh7 Nf3 Qg8 Nh2 Kh6 Nf1 Qg1 Nd2 Qe3+ Kg2 Qxd2+ Kf3 Kg7 Kg4 Qe3 Kh5 Kf6 Kg4 Kg6 Kh4 Kf5 Kh5 Qg5#",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1764908243.241616
+  "updated": 1764908655.1327379
 }
