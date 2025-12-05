@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2591,
-  "opponent": "ChessatronBot",
+  "rating": 3022,
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 62,
-  "timestamp": "2025-12-05T04:51:29.686779",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 6,
+  "timestamp": "2025-12-05T04:53:29.764389",
   "last_game": {
     "result": "win",
-    "opponent": "ChessatronBot",
-    "rating_before": 2591,
-    "rating_after": 2591,
+    "opponent": "HakoAI",
+    "rating_before": 3022,
+    "rating_after": 3022,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 d6 g4 h6 h4 e5 Nxc6 bxc6 Bc4 Nf6 Rg1 Qd7 g5 hxg5 Bxg5 Qh3 Qd2 Be6 Bf1 Qh2 Rg2 Qh1 O-O-O Rxh4 f4 exf4 e5 Nd7 Ne4 Rg4 Nxd6+ Bxd6 Qxd6 Rxg5 Rxg5 Qh6 Qxc6 Rd8 Rg2 f3+ Rgd2 Bg4 Qa4 Qg5 Bb5 Kf8 Qd4 f2 Rh1 Kg8 Kb1 Be6 b3 a6 Bc6 a5 Qxf2 a4 Qh2 Kf8 Bxa4 Ke7 Rhd1 Qg4 Rd4 Qh3 Qd2 f6 Rxd7+ Rxd7 Bxd7 Bxd7 Qd6+ Kf7 Qxd7+ Qxd7 Rxd7+ Ke6 exf6 gxf6 Rd1 Kf5 a4 Ke4 a5 f5 a6 Ke5 a7 f4 a8=Q Kf5 Qd5+ Kf6 Re1 Kg6 Qe6+ Kg5 Rg1+ Kh4 Qg4#",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "d4 d5 Nf3 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 dxc4 Bxc4 c5 O-O cxd4 exd4 b6 Bg5 Bb7 Qe2 Nbd7 Rac1 Bxc3 Rxc3 Qb8 Bh4 Qf4 Bg3 Qe4 Qd1 Rfd8 Re1 Qf5 Bb3 Qh5 h3 Nc5 Bc2 Nce4 Rc7 Bd5 Bf4 Nd6 Rc3 Nf5 Be5 Rac8 Ra3 Nd6 Bb1 a5 Nd2 Qxd1 Rxd1 Nb5 Rg3 Nh5 Rd3 a4 g4 Nf6 f3 Nd7 a3 f6 Bg3 Nb8 Bxb8 Rxb8 Bc2 Ra8 Nb1 Rdc8 Nc3 Rxc3 Rxc3 Nxc3 bxc3 Bxf3 Rc1 Bd5 Bd3 Bb3 Kf2 Kf7 h4 h6 Ke3 Rd8 h5 Ke7 c4 Rc8 Rb1 e5 Rc1 Kd6 Rb1 Rc7 Be2 Rd7 Rf1 Re7 Bd3 Rc7 Rb1 Rc8 Be2 Rc7 Bd3 Ke7 Rc1 Rc8 Be2 Rc7 Bd3 Ba2 dxe5 fxe5 Kd2 Kd6 Rc2 Bb3 Rc1 Rf7 g5 Rf2+ Kc3 hxg5 Rg1 Rf3 Kd2 Kc5 Rg4 Rh3 Be2 Rh2 Re4 Kd6 Kc3 Rh3+ Kd2 Rg3 Bf1 Rf3 Re1 e4 Be2 Rg3 Rh1 Kc5 Ke1 Bxc4 Kf2 Rxa3 Rc1 b5 Bxc4 bxc4 Rg1 Ra2+ Ke3 Rh2 Rxg5+ Kb4 Kxe4 a3 Rg6 Rxh5 Rg2 c3 Rg6 Rb5 Kd4 a2 Rg1 c2 Rc1 Kb3 Re1 Kb2 Rf1 Rb4+ Kd3 a1=Q Rxa1 Kxa1 Ke3 g6 Kf3 g5 Kg3 g4 Kh4 g3+ Kh5 g2 Kh6 g1=Q Kh7 c1=Q Kh8 Rh4#",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1764910289.6868422
+  "updated": 1764910409.7644503
 }
