@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2627,
-  "opponent": "pawn_git",
+  "rating": 2628,
+  "opponent": "hugiphu",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2025-12-05T05:35:35.013354",
+  "time_left": 124,
+  "timestamp": "2025-12-05T05:38:22.249902",
   "last_game": {
-    "result": "draw",
-    "opponent": "pawn_git",
-    "rating_before": 2627,
-    "rating_after": 2627,
+    "result": "win",
+    "opponent": "hugiphu",
+    "rating_before": 2628,
+    "rating_after": 2628,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 a4 a5 Bf4 d5 Nd2 Bf5 Qd1 c6 Qb3 Nd6 Nf3 Be4 Ne5 Bg5 Bg3 h5 Nd3 h4 Be5 Qe7 Nc5 Re8 Qb6 Bf5 Bxd6 Qxd6 Nxb7 Qh6 Nxa5 Be3 fxe3 Qxe3+ Kh1 Qf2 h3 Re3 Qb8+ Kh7 Qh2 Be4 Nb3 Qxb2 Qf4 Rxc3 Qxh4+ Kg8 Qd8+ Kh7 Qh4+ Kg8 Qd8+ Kh7 Qh4+",
+    "moves": "e4 e5 d3 Nc6 Nf3 Nf6 g3 d5 Bg2 dxe4 dxe4 Qxd1+ Kxd1 Nxe4 Ke2 f5 Nbd2 Nf6 Nc4 e4 Nfe5 Be6 Bf4 Nxe5 Nxe5 Bd6 Rad1 g5 Bxg5 Bxe5 Bxf6 Bxf6 c3 O-O f3 Rae8 fxe4 fxe4 Rhf1 Bg4+ Ke3 Bg5+ Kd4 Rd8+ Kxe4 Rfe8#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1764912935.013496
+  "updated": 1764913102.249965
 }
