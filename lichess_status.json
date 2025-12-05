@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
+  "rating": 2628,
   "opponent": "Lambergar",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2025-12-05T05:40:18.138338",
+  "time_control": "TC: 3+0",
+  "time_left": 84,
+  "timestamp": "2025-12-05T05:45:12.128053",
   "last_game": {
     "result": "win",
     "opponent": "Lambergar",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "rating_before": 2628,
+    "rating_after": 2628,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 a3 h6 Nc3 Bg4 h3 Bh5 Na4 Nd4 Nxc5 Nxf3+ gxf3 dxc5 Kh2 Nh7 Rg1 Ng5 Bxg5 hxg5 b4 f6 Kg2 Qd7 Rh1 O-O-O Qe2 f5 bxc5 Rdf8 c6 Qxc6 Bd5 Qd6 d4 Rh6 dxe5 Qxe5 Rhe1 g4 hxg4 Bxg4 Rh1 Bh3+ Rxh3 Rxh3 Rg1 Rh2+ Kf1 c6 exf5 Qa1+ Qe1 Qxe1+ Kxe1 cxd5 Rg5 Re8+ Kf1 Rh1+ Kg2 Ree1 f4 Reg1+ Kf3 Rxg5 fxg5 Rg1 Kf4 Kd7 Ke5 Rxg5 f4 Rh5 Kxd5 Rxf5+ Ke4 Ke6 c3 Ra5 c4 Rxa3 f5+ Kf6 Kd5 Rc3 Kd4 Rxc4+ Kxc4 Kxf5 Kd5 g6 Kd4 b6 Kd3 a6 Kd4 g5 Kd5 b5 Kd4 a5 Kc5 g4 Kxb5 a4 Kxa4 g3 Kb4 g2 Kc4 g1=Q",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 a4 a5 O-O h6 Re1 Ba7 h3 g5 Nh2 g4 hxg4 Rg8 Be3 Nxg4 Nxg4 Bxg4 Qb3 Qf6 Nd2 O-O-O Bxa7 Nxa7 Re3 h5 Nf1 h4 Bxf7 Rg7 Nh2 Bd7 Rf3 Qg5 g3 hxg3 fxg3 Rf8 Nf1 Nc6 Rf2 Nd8 Bc4 Rxf2 Kxf2 Bh3 Ke2 Rh7 d4 Bxf1+ Rxf1 Rh2+ Kf3 Qh5+ Ke3 Qg5+ Kf3 d5 exd5 Nf7 dxe5 Qf5+ Ke3 Qxe5+ Kf3 Nd6 Bd3 Nf5 Bxf5+ Qxf5+ Ke3 Qe5+ Kf3 Qe2+",
+    "duration": 180,
     "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1764913218.1383986
+  "updated": 1764913512.1281564
 }
