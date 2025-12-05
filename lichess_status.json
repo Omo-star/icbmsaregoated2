@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3019,
-  "opponent": "HakoAI",
+  "rating": 2591,
+  "opponent": "ChessatronBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 9,
-  "timestamp": "2025-12-05T04:45:48.376132",
+  "time_control": "TC: 3+0",
+  "time_left": 62,
+  "timestamp": "2025-12-05T04:51:29.686779",
   "last_game": {
     "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3019,
-    "rating_after": 3019,
+    "opponent": "ChessatronBot",
+    "rating_before": 2591,
+    "rating_after": 2591,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nfxd5 Bg5 Be7 Bxe7 Qxe7 Qa5 Ne3 Qxb6 Nxd1 Bc4 Nxb2 Kxb2 Rc8 Nd2 O-O Bb3 Rc6 Qe3 Rfc8 Rc1 Kg7 g4 hxg4 fxg4 d5 Bxd5 Rc3 Qb6 Qa3+ Kb1 Qc5 Qxc5 R8xc5 Ne4 Rb5+ Bb3 Re3 Nd6 Rb4 c4 a5 Ne8+ Kh6 Nf6 a4 Nd5 Rexb3+ axb3 Rxb3+ Kc2 Rh3 Rb1 Rxh2+ Kd3 f5 c5 e4+ Kc3 Rh3+ Kc4 Rb3 Rg1 fxg4 Rxg4 Rb2 Rxe4 g5 Re3 g4 Ra3 Rc2+ Kb5 Rb2+ Kxa4 Kg5 Re3 Rb1 Re7 Kh4 Rh7+ Kg3 Nc3 Ra1+ Kb5 Kf3 Rxb7 g3 Rf7+ Kg2 Ne2 Ra2 Nxg3 Ra1 Kc4 Rc1+ Kb5 Rb1+ Kc4 Rc1+ Kd5 Rd1+ Ke5 Ra1 Ne4 Rc1 Kd5 Rd1+ Kc4 Rh1 Rf2+ Kg1 Rf1+ Kh2 Rxh1+ Kg2 c6 Kf3 c7 Kg4 c8=Q+ Kf4 Qf8+ Ke5 Qf7 Kxe4 Qf4+ Kxf4 Kd5 Kf3 Ke5 Kg3 Ke4 Kg2 Rh8 Kg3 Rf8 Kg4 Rg8+ Kh5 Kf5 Kh4 Rg7 Kh3 Kf4 Kh2 Kf3 Kh1 Kf2 Kh2 Rh7#",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 d6 g4 h6 h4 e5 Nxc6 bxc6 Bc4 Nf6 Rg1 Qd7 g5 hxg5 Bxg5 Qh3 Qd2 Be6 Bf1 Qh2 Rg2 Qh1 O-O-O Rxh4 f4 exf4 e5 Nd7 Ne4 Rg4 Nxd6+ Bxd6 Qxd6 Rxg5 Rxg5 Qh6 Qxc6 Rd8 Rg2 f3+ Rgd2 Bg4 Qa4 Qg5 Bb5 Kf8 Qd4 f2 Rh1 Kg8 Kb1 Be6 b3 a6 Bc6 a5 Qxf2 a4 Qh2 Kf8 Bxa4 Ke7 Rhd1 Qg4 Rd4 Qh3 Qd2 f6 Rxd7+ Rxd7 Bxd7 Bxd7 Qd6+ Kf7 Qxd7+ Qxd7 Rxd7+ Ke6 exf6 gxf6 Rd1 Kf5 a4 Ke4 a5 f5 a6 Ke5 a7 f4 a8=Q Kf5 Qd5+ Kf6 Re1 Kg6 Qe6+ Kg5 Rg1+ Kh4 Qg4#",
+    "duration": 180,
     "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1764909948.3761966
+  "updated": 1764910289.6868422
 }
