@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "SF_7_Destroy",
+  "rating": 3039,
+  "opponent": "Zepro_Zerk_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2025-12-05T08:55:48.670146",
+  "time_control": "TC: 1.5+0",
+  "time_left": 65,
+  "timestamp": "2025-12-05T08:59:44.348758",
   "last_game": {
-    "result": "win",
-    "opponent": "SF_7_Destroy",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "result": "draw",
+    "opponent": "Zepro_Zerk_Bot",
+    "rating_before": 3039,
+    "rating_after": 3039,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Rfe8 Bc3 f6 Qd1 Kh7 Kh2 Bxf2 Rxf2 Qxf2 d4 Bxc4 Rc2 Qe3 Bd2 Be2 Qe1 Qd3 Rc3 Qb5 Nxe2 c5 dxc5 Nxc5 Ng3 Rg8 Bc1 Qd7 Nh4 Qf7 Nhf5 Rab8 Ra3 Rh8 Qd1 Rhf8 Qg4 Ne6 Rxa4 Ra8 Rxa8 Rxa8 a3 Nd4 b4 Nxf5 Nxf5 Ra6 Qe2 Rc6 Be3 Qc4 Qg4 Qf7 Qd1 Rc3 a4 Rb3 Bd2 Rb2 a5 Qa2 Qg4 Qf7 Be1 Qd7 a6 c5 Bc3 Rb3 Bd2 Ra3 Bxh6 gxh6 Qh5 Rxa6 Qxh6+ Kg8 Qg6+ Kf8 Qxf6+ Qf7 Qd8+ Qe8 Qc7 Qe6 Qb8+ Qe8 Qc7 Qg6 Qc8+ Qe8 Qxa6 c4 Qxc4 Qd8 Qd5 Qc7 Qxd6+ Qxd6 Nxd6 Ke7 Nc4 Ke6 Kg3 Ke7 h4 Kf8 b5 Kg7 Nxe5 Kf8 Nc4 Kg7 Kf4 Kf6 Ne5 Ke7 Kg4 Kf6 Nd7+ Kg7 Ne5 Kf6 b6 Kxe5 b7 Kxe4 b8=Q",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Ra8 Bf3 Rh8 Bd1 Nd6 Re2 Ra8 Re5 Ne4 Bc2 Nxf2+ Kg2 Ne4 Rxd5 Rg8+ Kf1 Ng3+ Kf2 Nh1+ Kf1 Ng3+ Ke1 Rg4 Kf2 Nh1+ Ke3 Rg3+ Ke2 Rg2+ Kd1 Rg1+",
+    "duration": 90,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1764924948.6702206
+  "updated": 1764925184.3489478
 }
