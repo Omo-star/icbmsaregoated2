@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2550,
-  "opponent": "donking133",
+  "rating": 3013,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2025-12-04T21:59:34.832102",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 9,
+  "timestamp": "2025-12-05T04:09:40.596856",
   "last_game": {
-    "result": "win",
-    "opponent": "donking133",
-    "rating_before": 2550,
-    "rating_after": 2550,
+    "result": "draw",
+    "opponent": "BorkaTower",
+    "rating_before": 3013,
+    "rating_after": 3013,
     "rating_delta": 0,
-    "moves": "d4 Nf6 e3 d5 c4 e6 cxd5 exd5 Nc3 Bd6 h3 Bf5 g4 Bg6 f4 Be4 Nf3 h6 Nxe4 Nxe4 Rg1 Nc6 Qa4 O-O Bb5 Qf6 Bxc6 bxc6 Qxc6 Bb4+ Bd2 Qxc6 Bxb4 Qc2 Rd1 Qf2#",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 Be7 Qd2 a6 Bd3 b5 Qf2 c4 Be2 b4 Na4 Nb6 Nc5 a5 O-O O-O c3 a4 Bd2 bxc3 bxc3 Nd7 Nxd7 Bxd7 Bd1 Qb6 Bc2 Qb2 Rfc1 Rab8 g4 f6 exf6 Bxf6 Qg3 Be7 Kh1 a3 Qg2 Qb7 Rg1 Qb2 Rgc1 Qb7 Rcb1 Qa8 Rxb8 Qxb8 Rb1 Qd8 Re1 Qb6 Qh3 g6 Ba4 Bf6 Bc1 Qa6 Bxc6 Qxc6 Bxa3 Ra8 Bb4 Qc7 Qg3 Rxa2 h4 Qb8 h5 g5 Ne5 Ba4 Kg1 h6 Qf3 Bxe5 fxe5 Qe8 Qf6 Qf7 Qd8+ Qe8 Qf6 Qf7 Qxf7+ Kxf7 Rf1+ Kg8 Rf6 Re2 Rxh6 Re4 Rxe6 Rxg4+ Kf2 Bd1 Ke1 Rg1+ Kf2 Rg4 Rh6 Kg7 Rg6+ Kh7 e6 Rf4+ Ke1 Bxh5 Rxg5 Re4+ Kd2 Kh6 Rxd5 Rxe6 Bf8+ Kg6 Rc5 Re8 Bd6 Be2 Kc1 Bd3 Kb2 Re6 Bc7 Re1 Ba5 Rb1+ Ka2 Kf6 Bb4 Rd1 Rb5 Rc1 Re5 Bf5 Be7+ Kg6 Bb4 Kf6 Ka3 Ra1+ Kb2 Rb1+ Ka3 Ra1+ Kb2 Rb1+ Ka2 Rc1 Ba5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1764885574.8321614
+  "updated": 1764907780.5969527
 }
