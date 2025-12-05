@@ -5,18 +5,18 @@
   "opponent": "SF_7_Destroy",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-05T08:52:44.722295",
+  "time_left": 12,
+  "timestamp": "2025-12-05T08:55:48.670146",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "SF_7_Destroy",
     "rating_before": 3033,
     "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Ne7 Nd4 Nc6 Nxc6 Bxc6 Rd1 Qe7 Rxd8+ Qxd8 Qc3 Qg5 f3 Qd5 Bd3 Qd7 Kf2 Kf8 Qc5+ Kg8 Ke2 a6 b4 g6 Qd4 Qe7 Kf2 h5 Be2 h4 Qe5 Qd8 Qf4 Qd2 Qb8+ Kg7 Qe5+ f6 Qc7+ Kf8 Qb8+ Kf7",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Rfe8 Bc3 f6 Qd1 Kh7 Kh2 Bxf2 Rxf2 Qxf2 d4 Bxc4 Rc2 Qe3 Bd2 Be2 Qe1 Qd3 Rc3 Qb5 Nxe2 c5 dxc5 Nxc5 Ng3 Rg8 Bc1 Qd7 Nh4 Qf7 Nhf5 Rab8 Ra3 Rh8 Qd1 Rhf8 Qg4 Ne6 Rxa4 Ra8 Rxa8 Rxa8 a3 Nd4 b4 Nxf5 Nxf5 Ra6 Qe2 Rc6 Be3 Qc4 Qg4 Qf7 Qd1 Rc3 a4 Rb3 Bd2 Rb2 a5 Qa2 Qg4 Qf7 Be1 Qd7 a6 c5 Bc3 Rb3 Bd2 Ra3 Bxh6 gxh6 Qh5 Rxa6 Qxh6+ Kg8 Qg6+ Kf8 Qxf6+ Qf7 Qd8+ Qe8 Qc7 Qe6 Qb8+ Qe8 Qc7 Qg6 Qc8+ Qe8 Qxa6 c4 Qxc4 Qd8 Qd5 Qc7 Qxd6+ Qxd6 Nxd6 Ke7 Nc4 Ke6 Kg3 Ke7 h4 Kf8 b5 Kg7 Nxe5 Kf8 Nc4 Kg7 Kf4 Kf6 Ne5 Ke7 Kg4 Kf6 Nd7+ Kg7 Ne5 Kf6 b6 Kxe5 b7 Kxe4 b8=Q",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764924764.722392
+  "updated": 1764924948.6702206
 }
