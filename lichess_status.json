@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2581,
-  "opponent": "simbelmyne-bot",
+  "opponent": "rascal1",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 49,
-  "timestamp": "2025-12-05T04:40:31.339440",
+  "time_control": "TC: 5+4",
+  "time_left": 91,
+  "timestamp": "2025-12-05T04:45:38.436351",
   "last_game": {
-    "result": "win",
-    "opponent": "simbelmyne-bot",
+    "result": "draw",
+    "opponent": "rascal1",
     "rating_before": 2581,
     "rating_after": 2581,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Rd1+ Ke8 Nc3 Ne7 h3 Ng6 Ne2 Be7 b3 Bd7 Be3 Rd8 Rd2 Bc8 Rad1 Rxd2 Rxd2 a6 Nf4 Nxf4 Bxf4 h6 Nd4 g5 Be3 h5 Ne2 h4 f3 Rh6 Nd4 c5 Ne2 Re6 f4 gxf4 Bxf4 Rg6 Kh2 c4 g4 f5 exf6 Rxf6 Rd5 Be6 Re5 Kd7 Re4 cxb3 axb3 Bg8 Rxe7+ Kxe7 Bg5 Kf7 Bxf6 Kxf6 Kg2 Bh7 c3 a5 c4 Ke5 Kf3 Bc2 Nc1 Kd4 g5 c5 Ne2+ Ke5 Nc1 Kf5 g6 Kxg6 Kg4 Kf6 Kxh4 Ke5 Kg5 Kd4 Kf4 Kc3 Ke3 Bh7 h4 Kc2 Ne2 Kxb3 Kf4 a4 Ke3 Kc2 Nf4 a3 Ne6 a2 Nxc5 a1=Q Nxb7 Bd3 Nd8 Bxc4 h5 Qh8 Nb7 Qxh5 Kf4 Qf7+ Kg5 Qxb7 Kf6 Qd5 Kg6 Qe5 Kh6 Qf6+ Kh7 Bg8+ Kxg8 Qe7 Kh8 Kd3 Kg8 Ke4 Kh8 Kf5 Kg8 Kg6 Kh8 Qf8#",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 d5 exd5 Nf6 d4 Nxd5 Nf3 Bf5 Bd3 Bxd3 Qxd3 e6 O-O c6 c4 Nf6 Nc3 Be7 Bf4 Nbd7 Rfd1 O-O h3 Re8 a3 Nf8 Ne5 N6d7 Qf3 Nxe5 dxe5 Qb6 b4 a5 c5 Qa6 Ne4 axb4 axb4 Qxa1 Rxa1 Rxa1+ Kh2 Ra4 Qc3 Ng6 Be3 Rea8 Nd6 Bf8 Bd4 Ra3 Qc1 R3a4 Qc3 Ra3 Qd2 R3a4 h4 Nxh4 Qf4 Nf5 Nxf5 exf5 Qxf5 Re8 Bc3 Raa8 Qd7 Re7 Qd6 Ree8 Qd7 Re7 Qd6 Re6 Qd3 Ree8 Qd7",
+    "duration": 616,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1764909631.339578
+  "updated": 1764909938.4364734
 }
