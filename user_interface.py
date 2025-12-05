@@ -26,6 +26,9 @@ from prompt_toolkit.completion import WordCompleter
 from prompt_toolkit.history import FileHistory
 from prompt_toolkit.patch_stdout import patch_stdout
 
+from auto_tournament_manager import auto_tournament_loop
+
+
 console = Console()
 
 COMMANDS = {
@@ -43,13 +46,14 @@ COMMANDS = {
     "stop": "Stops matchmaking mode.",
     "tournament": "Joins tournament. Usage: tournament ID [TEAM_ID] [PASSWORD]",
     "whitelist": "Temporarily whitelists a user. Use config for permanent whitelisting. Usage: whitelist USERNAME",
+    "autotournament": "Enables automatic tournament management. Usage: autotournament",
 }
 
 EnumT = TypeVar("EnumT", bound=StrEnum)
 
 
 class UserInterface:
-    async def main(self, commands: list[str], config_path: str, allow_upgrade: bool) -> None:
+    async def main(self, commands: list[str], config_path: str, allow_upgrade: bool, auto_t_mode: bool) -> None:
         self.config = Config.from_yaml(config_path)
 
         async with API(self.config) as self.api:
@@ -70,6 +74,9 @@ class UserInterface:
 
             self.event_handler = EventHandler(self.api, self.config, username, self.game_manager)
             self.event_handler_task = asyncio.create_task(self.event_handler.run())
+            if auto_t_mode:
+                self.auto_tournament_task = asyncio.create_task(auto_tournament_loop(self))
+                console.print("[bold green]Auto-tournament mode enabled (CLI flag).[/bold green]")
 
             signal.signal(signal.SIGTERM, self.signal_handler)
 
@@ -181,6 +188,8 @@ class UserInterface:
                 sys.exit()
             case "rechallenge":
                 self._rechallenge()
+            case "autotournament":
+                self._autotournament()
             case "reset":
                 self._reset(command)
             case "stop" | "s":
@@ -286,6 +295,8 @@ class UserInterface:
         self.game_manager.stop()
         console.print("[yellow]Terminating program...[/yellow]")
         self.event_handler_task.cancel()
+        if hasattr(self, "auto_tournament_task"):
+            self.auto_tournament_task.cancel()
         await self.game_manager_task
 
     def _rechallenge(self) -> None:
@@ -378,6 +389,12 @@ class UserInterface:
             if enum.lower() == name.lower():
                 return enum
         raise ValueError(f"{name} is not a valid {enum_type}")
+    def _autotournament(self) -> None:
+        if not hasattr(self, "auto_tournament_task"):
+            self.auto_tournament_task = asyncio.create_task(auto_tournament_loop(self))
+            console.print("[bold green]Auto-tournament mode enabled.[/bold green]")
+        else:
+            console.print("[yellow]Auto-tournament mode is already running.[/yellow]")
 
     def signal_handler(self, *_) -> None:
         self._quit_task = asyncio.create_task(self._quit())
@@ -406,9 +423,10 @@ if __name__ == "__main__":
     parser.add_argument("--config", "-c", default="config.yml", help="Path to config.yml.")
     parser.add_argument("--upgrade", "-u", action="store_true", help="Upgrade account to BOT account.")
     parser.add_argument("--debug", "-d", action="store_true", help="Enable debug logging.")
+    parser.add_argument("--autotournament", "-a", action="store_true", help="Enable auto tournament mode.")
     args = parser.parse_args()
 
     if args.debug:
         logging.basicConfig(level=logging.DEBUG)
 
-    asyncio.run(UserInterface().main(args.commands, args.config, args.upgrade), debug=args.debug)
+    asyncio.run(UserInterface().main(args.commands, args.config, args.upgrade, args.autotournament), debug=args.debug)
