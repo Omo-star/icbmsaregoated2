@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3040,
-  "opponent": "VEER-OMEGA-BOT",
+  "rating": 3041,
+  "opponent": "strain-on-veins",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 55,
-  "timestamp": "2025-12-05T09:04:36.997248",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2025-12-05T09:07:26.118121",
   "last_game": {
-    "result": "draw",
-    "opponent": "VEER-OMEGA-BOT",
-    "rating_before": 3040,
-    "rating_after": 3040,
+    "result": "loss",
+    "opponent": "strain-on-veins",
+    "rating_before": 3041,
+    "rating_after": 3041,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Qb3+ Kh8 Bxf4 gxf4 Nc2 Nf5 Ra4 f3 d5 Re5 a7 fxg2 Bxg2 Nh4 Ne3 Nxg2 Kxg2 Bg5 f4 Rxe3 Qxe3 Bxd5+ Re4 Qf5 fxg5 h4 b3 Bxe4+ Kg1 Qf3 a8=R+ Bxa8 Qe8+ Kg7 Qe7+ Kg6 Qe6+ Kxg5 Qe7+ Kf4 Qxh4+ Ke3 Qe1+ Kd3 Qb1+ Kc3 Qe1+ Kc2 Qf2+ Qxf2+ Kxf2",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764925476.9973319
+  "updated": 1764925646.118241
 }
