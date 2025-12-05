@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3027,
-  "opponent": "odonata-bot",
+  "rating": 2610,
+  "opponent": "Meltd0wn",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 5,
-  "timestamp": "2025-12-05T05:15:16.349836",
+  "time_control": "TC: 3+2",
+  "time_left": 9,
+  "timestamp": "2025-12-05T05:21:04.414496",
   "last_game": {
     "result": "win",
-    "opponent": "odonata-bot",
-    "rating_before": 3027,
-    "rating_after": 3027,
+    "opponent": "Meltd0wn",
+    "rating_before": 2610,
+    "rating_after": 2610,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nbd7 g4 Nb6 g5 Nh5 Qd2 Be7 O-O-O O-O Kb1 Rc8 Rg1 g6 Qf2 Nc4 Bxc4 Bxc4 Na4 Be6 Nb6 Rc7 Qg2 Qe8 Nd5 Bxd5 Rxd5 f5 gxf6 Nxf6 Rd2 Rf7 Nc1 Bf8 Ne2 b5 Ng3 Qe6 h4 d5 h5 d4 Bg5 Ne8 Qh1 Bg7 hxg6 hxg6 Rh2 Nd6 Bh6 Qf6 Bxg7 Rxg7 Rh8+ Kf7 Nh5 gxh5 Rxg7+ Qxg7 Qxh5+ Ke6 Rh6+ Kd7 Rh7 Kc6 Rxg7 Rxg7 a4 Re7 Qh8 Re8 Qf6 Kd7 f4 exf4 e5 Nc4 Qf7+ Re7 Qd5+ Kc7 Qc5+ Kd8 Qxd4+ Ke8 Qxf4 Nxe5 axb5 axb5 Qh6 Kd7 Qb6 Nc6 Qxb5 Kc7 b3 Rd7 c3 Rd6 b4 Nb8 c4 Nd7 c5 Rf6 Qc4 Rc6 Qd5 Nb6 Qe5+ Kb7 b5 Rc7 cxb6 Kxb6 Qf6+ Kxb5 Qb2+ Kc6 Kc2 Kd6+ Kd3 Kc5 Qe5+ Kb6 Kd4 Rc6 Qb8+ Ka6 Kd5 Rb6 Qa8+ Kb5 Qa3 Rb7 Qb3+ Ka6 Qa4+ Kb6 Kd6 Rb8 Qd4+ Kb7 Kd7 Rg8 Qd5+ Kb6 Qxg8 Kc5 Qg4 Kd5 Kc7 Ke5 Kc6 Kf6 Kd6 Kf7 Qg5 Kf8 Ke6 Ke8 Qg8#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 exd4 Re1 d5 Nxd4 Bd6 Nxc6 Bxh2+ Kh1 Qh4 Rxe4+ dxe4 Qd8+ Qxd8 Nxd8+ Kxd8 Kxh2 Be6 Be3 f5 Nd2 Kc8 Nb3 Bf7 Nc5 Rd8 c3 b6 Bc6 Ra7 Nb3 Bxb3 axb3 Rd6 Bb5 Kb7 Bc4 Ra8 Bf4 Rdd8 Re1 Rf8 b4 Rae8 Ra1 b5 Bb3 h6 Be3 Rf6 g3 Rd6 Re1 g5 Kg2 Kb8 g4 f4 Bd4 Rd7 Bc2 Rde7 Bc5 Re5 Kf1 Kb7 Bb3 e3 fxe3 fxe3 Ke2 Rd8 Rd1 Rxd1 Bxd1 Re8 Bc2 Kc6 Bd4 Re7 Bg6 Re6 Bf5 Re7 Bf6 Rf7 Be5 Re7 Bd4 Kd5 Bc5 Rf7 Kxe3 c6 Be4+ Kc4 Bxc6 Rc7 Be4 Kb3 Bd6 Rd7 Be5 Re7 Kd4 Kxb2 Bf5 Re8 Bg7 Rd8+ Kc5 Rg8 Bd4 Rb8 Kd6 Ka3 Kc7 Rf8 Bc8 Rg8 Bxa6 Ka4 Bb7 Rf8 Bc6 Rf4 Kb6 Rxg4 Bxb5+ Kb3 Kc5 Rf4 Bc6 g4 b5 h5 b6 Rf8 b7 Kc2 Be5 Rd8 c4 Kd3 b8=Q Rxb8 Bxb8",
+    "duration": 494,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "outoftime"
   },
-  "updated": 1764911716.3499753
+  "updated": 1764912064.414669
 }
