@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2610,
-  "opponent": "Meltd0wn",
+  "rating": 2614,
+  "opponent": "odonata-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 9,
-  "timestamp": "2025-12-05T05:21:04.414496",
+  "time_control": "TC: 3+0",
+  "time_left": 22,
+  "timestamp": "2025-12-05T05:21:47.258967",
   "last_game": {
     "result": "win",
-    "opponent": "Meltd0wn",
-    "rating_before": 2610,
-    "rating_after": 2610,
+    "opponent": "odonata-bot",
+    "rating_before": 2614,
+    "rating_after": 2614,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 exd4 Re1 d5 Nxd4 Bd6 Nxc6 Bxh2+ Kh1 Qh4 Rxe4+ dxe4 Qd8+ Qxd8 Nxd8+ Kxd8 Kxh2 Be6 Be3 f5 Nd2 Kc8 Nb3 Bf7 Nc5 Rd8 c3 b6 Bc6 Ra7 Nb3 Bxb3 axb3 Rd6 Bb5 Kb7 Bc4 Ra8 Bf4 Rdd8 Re1 Rf8 b4 Rae8 Ra1 b5 Bb3 h6 Be3 Rf6 g3 Rd6 Re1 g5 Kg2 Kb8 g4 f4 Bd4 Rd7 Bc2 Rde7 Bc5 Re5 Kf1 Kb7 Bb3 e3 fxe3 fxe3 Ke2 Rd8 Rd1 Rxd1 Bxd1 Re8 Bc2 Kc6 Bd4 Re7 Bg6 Re6 Bf5 Re7 Bf6 Rf7 Be5 Re7 Bd4 Kd5 Bc5 Rf7 Kxe3 c6 Be4+ Kc4 Bxc6 Rc7 Be4 Kb3 Bd6 Rd7 Be5 Re7 Kd4 Kxb2 Bf5 Re8 Bg7 Rd8+ Kc5 Rg8 Bd4 Rb8 Kd6 Ka3 Kc7 Rf8 Bc8 Rg8 Bxa6 Ka4 Bb7 Rf8 Bc6 Rf4 Kb6 Rxg4 Bxb5+ Kb3 Kc5 Rf4 Bc6 g4 b5 h5 b6 Rf8 b7 Kc2 Be5 Rd8 c4 Kd3 b8=Q Rxb8 Bxb8",
-    "duration": 494,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nbd7 g4 Nb6 g5 Nh5 Qd2 Be7 O-O-O O-O Kb1 Rc8 Rg1 g6 Qf2 Nc4 Bxc4 Bxc4 Na4 b5 Nb6 Rc7 a3 Be6 Qe2 Qb8 Nd5 Bxd5 Rxd5 Qb7 Rgd1 f5 gxf6 Nxf6 R5d3 Nh5 Nc1 Rfc8 R1d2 a5 Rb3 Rc4 Na2 a4 Rbd3 Bf8 Nb4 Qf7 Nd5 Rb8 Rc3 Rxc3 Nxc3 b4 axb4 Rxb4 Nd5 Rb8 Qc4 Kh8 Qxa4 Qxf3 Rf2 Qh1+ Ka2 Bg7 Rf7 Qxh2 Qa7 Rg8 Bh6 Qxc2 Bxg7+ Rxg7 Rxg7 Nxg7 Qb8+ Ne8 Qxe8+ Kg7 Qe7+ Kh6 Qh4+ Kg7 Qf6+ Kh6 Qf3 Kg7 Ka3 Qc1 Qf6+ Kh6 Qh4+ Kg7 Qe7+ Kh6 Qh4+ Kg7 Qf6+ Kh6 Qxd6 Qa1+ Kb3 Qd1+ Ka3 Qa1+ Kb3 Qd1+ Kb4 Qd4+ Ka3 Qa7+ Kb3 Qd4 Qb4 Qd3+ Qc3 Qxe4 Qe3+ Qxe3+ Nxe3 Kg5 Kc3 Kf6 b4 Ke6 b5 Kd7 Nc4 e4 Nd2 e3 Nc4 e2 Kd2 g5 Kxe2 Kc7 Kd3 Kb7 Kc3 g4 Kb4 g3 Nd2 g2 Nf3 Kb6 Ng1 h5 Ne2 Kb7 Ka5 Ka7 b6+ Kb8 Ka6 h4 Ng1 Kc8 b7+ Kc7 Ka7 Kd7 b8=Q Ke6 Qb2 h3 Nxh3 g1=Q+ Nxg1 Kf5 Qe2 Kf4 Qe6 Kg3 Qe4 Kf2 Qf3+ Kxg1 Kb7 Kh2 Kc6 Kg1 Kd5 Kh2 Ke4 Kg1 Qe2 Kh1 Kf3 Kg1 Qg2#",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "mate"
   },
-  "updated": 1764912064.414669
+  "updated": 1764912107.2590292
 }
