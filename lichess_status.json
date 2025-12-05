@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2663,
-  "opponent": "cesium119",
+  "rating": 3045,
+  "opponent": "strain-on-veins",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 221,
-  "timestamp": "2025-12-05T10:02:52.362154",
+  "time_control": "TC: 0+1",
+  "time_left": 48,
+  "timestamp": "2025-12-05T10:03:29.803729",
   "last_game": {
-    "result": "win",
-    "opponent": "cesium119",
-    "rating_before": 2663,
-    "rating_after": 2663,
+    "result": "draw",
+    "opponent": "strain-on-veins",
+    "rating_before": 3045,
+    "rating_after": 3045,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6 e4 g6 f4 h5 e5 dxe5 fxe5 Ng4 e6 Qh4+ g3 Qe7 Nf3 fxe6 Bb5+ Bd7 Bg5 Qd6 Qc2 exd5 O-O-O Bxb5 Nxb5 Qc6 Nc7+ Qxc7 Qxg6+ Kd7 Rxd5+ Bd6 Rhd1 Kc8 Rxd6 Qa5 Qe6+ Kc7 Rd7+ Nxd7 Qxd7+",
-    "duration": 447,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bh3 Ra2 Bf1 Ra1 Bg2 Ra5 Bh3 Ra2",
+    "duration": 110,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1764928972.3622687
+  "updated": 1764929009.8038821
 }
