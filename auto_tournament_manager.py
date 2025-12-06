@@ -67,7 +67,7 @@ async def auto_tournament_loop(ui):
 
             ui.game_manager.stop_matchmaking()
 
-            while datetime.datetime.utcnow() < start_time:
+            while datetime.datetime.now(datetime.timezone.utc) < start_time:
                 await asyncio.sleep(5)
 
             print(f"[AutoTournament] Joining tournament {tid} (team={team})...")
