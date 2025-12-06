@@ -30,13 +30,12 @@ async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
                     return None
 
                 raw = data["startsAt"]
-                if isinstance(raw, str):
-                    raw = int(raw)
 
-                starts_at = datetime.datetime.fromtimestamp(
-                    raw / 1000,
-                    tz=datetime.timezone.utc
-                )
+                if isinstance(raw, str):
+                    raw = raw.replace("Z", "+00:00")
+                    starts_at = datetime.datetime.fromisoformat(raw)
+                else:
+                    starts_at = datetime.datetime.fromtimestamp(raw / 1000, tz=datetime.timezone.utc)
                 _alog(f"Tournament {tid} starts at {starts_at}")
                 return starts_at
 
