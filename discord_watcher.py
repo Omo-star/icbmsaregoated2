@@ -5,6 +5,7 @@ from discord.ext import commands
 from tournament_queue import add_tournament
 
 DISCORD_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+
 WATCH_GUILD_ID = 1151481550282690631
 WATCH_CHANNEL_IDS = [
     1416719630541787209,
@@ -24,13 +25,23 @@ class TournamentWatcher(commands.Cog):
             return
         if message.guild is None:
             return
-        if WATCH_GUILD_ID and message.guild.id != WATCH_GUILD_ID:
+        if message.guild.id != WATCH_GUILD_ID:
             return
         if message.channel.id not in WATCH_CHANNEL_IDS:
             return
+
         matches = re.findall(TOURNAMENT_REGEX, message.content)
         for tid in matches:
             add_tournament(tid)
+            print(f"[DiscordWatcher] Tournament detected: {tid}")
+
+
+class DiscordBot(commands.Bot):
+    async def setup_hook(self):
+        await self.add_cog(TournamentWatcher(self))
+
+    async def on_ready(self):
+        print(f"[DiscordWatcher] Logged in as {self.user}")
 
 
 def main():
@@ -39,13 +50,8 @@ def main():
 
     intents = discord.Intents.default()
     intents.message_content = True
-    bot = commands.Bot(command_prefix="!", intents=intents)
 
-    @bot.event
-    async def on_ready():
-        print(f"[DiscordWatcher] Logged in as {bot.user}")
-
-    await bot.add_cog(TournamentWatcher(bot))
+    bot = DiscordBot(command_prefix="!", intents=intents)
     bot.run(DISCORD_TOKEN)
 
 
