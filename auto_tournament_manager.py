@@ -19,7 +19,7 @@ async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
             if "startsAt" not in data:
                 return None
 
-            return datetime.datetime.fromtimestamp(data["startsAt"] / 1000)
+            return datetime.datetime.fromtimestamp(data["startsAt"] / 1000, tz=datetime.timezone.utc)
 
 
 async def run_tournament(ui, tid: str, team: str | None):
@@ -49,7 +49,7 @@ async def auto_tournament_loop(ui):
             await asyncio.sleep(CHECK_INTERVAL)
             continue
 
-        now = datetime.datetime.utcnow()
+        now = datetime.datetime.now(datetime.timezone.utc)
 
         if now > start_time:
             print(f"[AutoTournament] Tournament {tid} already started — joining now!")
