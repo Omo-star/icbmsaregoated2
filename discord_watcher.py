@@ -45,7 +45,7 @@ def main():
     async def on_ready():
         print(f"[DiscordWatcher] Logged in as {bot.user}")
 
-    bot.add_cog(TournamentWatcher(bot))
+    await bot.add_cog(TournamentWatcher(bot))
     bot.run(DISCORD_TOKEN)
 
 
