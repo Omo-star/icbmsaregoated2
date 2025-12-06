@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2765,
-  "opponent": "TimurZ_2018",
+  "opponent": "madhavp_m",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+3",
-  "time_left": 114,
-  "timestamp": "2025-12-06T06:18:21.827870",
+  "time_left": 183,
+  "timestamp": "2025-12-06T06:31:03.656880",
   "last_game": {
     "result": "win",
-    "opponent": "TimurZ_2018",
+    "opponent": "madhavp_m",
     "rating_before": 2765,
     "rating_after": 2765,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 a6 Bxc6 bxc6 Nxe5 d6 Nxc6 Qd7 Nd4 Be7 O-O O-O c4 Ng4 Nf5 Nxh2 Kxh2 g6 Nxe7+ Qxe7 Nc3 Qh4+ Kg1 Bg4 Qd2 f5 Qg5 Qh5 f3 Bxf3 Rxf3 fxe4 Qxh5 gxh5 Rg3+ Kh8 Be3 d5 Bd4+ Rf6 Bxf6#",
-    "duration": 321,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 c5 c4 Nc6 d3 e6 Nc3 Nf6 Nf3 Be7 e5 Ng4 Nh4 Ngxe5 Nf3 Nxf3+ Qxf3 Nd4 Qd1 b6 Be3 Bb7 Bxd4 cxd4 Ne2 Bb4+",
+    "duration": 258,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1765001901.8279293
+  "updated": 1765002663.656973
 }
