@@ -14,7 +14,6 @@ from enums import Variant
 
 
 def push_status():
-    subprocess.run(["git", "pull", "--rebase"], check=False)
     subprocess.run(["git", "add", "lichess_status.json"], check=True)
     subprocess.run(["git", "commit", "-m", "update status", "--allow-empty"], check=False)
     subprocess.run(["git", "push"], check=False)
