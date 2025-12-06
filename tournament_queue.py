@@ -7,7 +7,6 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TOURNAMENT_FILE = os.path.join(BASE_DIR, "tournaments.json")
 
 def push_tournament_queue():
-    subprocess.run(["git", "pull", "--rebase"], check=False)
     subprocess.run(["git", "add", TOURNAMENT_FILE], check=True)
     subprocess.run(["git", "commit", "-m", "update tournament queue", "--allow-empty"], check=False)
     subprocess.run(["git", "push"], check=False)
