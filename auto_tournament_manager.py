@@ -3,8 +3,8 @@ import aiohttp
 import datetime
 from tournament_queue import get_pending, mark_processed
 
-CHECK_INTERVAL = 30       
-PRE_STAGE_MINUTES = 10        
+CHECK_INTERVAL = 30
+PRE_STAGE_MINUTES = 10
 
 
 async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
@@ -55,6 +55,7 @@ async def auto_tournament_loop(ui):
             print(f"[AutoTournament] Tournament {tid} already started — joining now!")
             ui.game_manager.stop_matchmaking()
             await run_tournament(ui, tid, team)
+
         else:
             pre_stage_time = start_time - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
 
@@ -67,11 +68,8 @@ async def auto_tournament_loop(ui):
             while datetime.datetime.utcnow() < start_time:
                 await asyncio.sleep(5)
 
-    await run_tournament(ui, tid, team)
-
-
-        print(f"[AutoTournament] Joining tournament {tid} (team={team})...")
-        await run_tournament(ui, tid, team)
+            print(f"[AutoTournament] Joining tournament {tid} (team={team})...")
+            await run_tournament(ui, tid, team)
 
         while True:
             await asyncio.sleep(20)
