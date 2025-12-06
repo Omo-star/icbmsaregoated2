@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2765,
-  "opponent": "madhavp_m",
+  "rating": 3066,
+  "opponent": "Tacticall_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+3",
-  "time_left": 183,
-  "timestamp": "2025-12-06T06:31:03.656880",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2025-12-06T08:09:43.251593",
   "last_game": {
-    "result": "win",
-    "opponent": "madhavp_m",
-    "rating_before": 2765,
-    "rating_after": 2765,
+    "result": "draw",
+    "opponent": "Tacticall_Bot",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 c5 c4 Nc6 d3 e6 Nc3 Nf6 Nf3 Be7 e5 Ng4 Nh4 Ngxe5 Nf3 Nxf3+ Qxf3 Nd4 Qd1 b6 Be3 Bb7 Bxd4 cxd4 Ne2 Bb4+",
-    "duration": 258,
+    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Nd7 Nf3 Ngf6 Bd3 c5 O-O cxd4 Nxd4 Be7 Nb5 Nxe4 Bxe4 O-O g3 Nf6 Bf3 Bd7 Bxb7 Rb8 Bf3 Bxb5 cxb5 Rxb5 Qe2 Qb8 b3 Nd5 Bb2 Bf6 Rac1 Bxb2 Qxb2 g6 Rfd1 Rc8 Qd4 Rd8 h4 h5 Rc6 Kh7 Kg2 Rb7 Qc5 Rdd7 Rc8 Qe5 Qf8 Qg7 Qxg7+ Kxg7 Bxd5 Rxd5 Rxd5 exd5 Rc5 Rd7 Kf3 Kf6 Ke3 g5 Rc6+ Kf5 Rh6 Kg4 hxg5 Kxg5 Rc6 Re7+ Kd2 f5 Rd6 h4 gxh4+ Kxh4 Rxd5 f4 b4 Kg4 Rd3 f3 Re3 Rd7+",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765002663.656973
+  "updated": 1765008583.2516916
 }
