@@ -50,16 +50,25 @@ async def auto_tournament_loop(ui):
             continue
 
         now = datetime.datetime.utcnow()
-        pre_stage_time = start_time - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
 
-        while datetime.datetime.utcnow() < pre_stage_time:
-            ui.game_manager.start_matchmaking()
-            await asyncio.sleep(CHECK_INTERVAL)
+        if now > start_time:
+            print(f"[AutoTournament] Tournament {tid} already started — joining now!")
+            ui.game_manager.stop_matchmaking()
+            await run_tournament(ui, tid, team)
+        else:
+            pre_stage_time = start_time - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
 
-        ui.game_manager.stop_matchmaking()
+            while datetime.datetime.utcnow() < pre_stage_time:
+                ui.game_manager.start_matchmaking()
+                await asyncio.sleep(CHECK_INTERVAL)
 
-        while datetime.datetime.utcnow() < start_time:
-            await asyncio.sleep(5)
+            ui.game_manager.stop_matchmaking()
+
+            while datetime.datetime.utcnow() < start_time:
+                await asyncio.sleep(5)
+
+    await run_tournament(ui, tid, team)
+
 
         print(f"[AutoTournament] Joining tournament {tid} (team={team})...")
         await run_tournament(ui, tid, team)
