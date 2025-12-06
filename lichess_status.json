@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2959,
-  "opponent": "Zimbabwean_chessbot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 5+10",
-  "time_left": 874,
-  "timestamp": "2025-12-06T08:15:24.344512",
+  "rating": 3066,
+  "opponent": "llllllllnnuellllllll",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+0",
+  "time_left": 32,
+  "timestamp": "2025-12-06T08:25:02.290213",
   "last_game": {
-    "result": "win",
-    "opponent": "Zimbabwean_chessbot",
-    "rating_before": 2959,
-    "rating_after": 2959,
+    "result": "draw",
+    "opponent": "llllllllnnuellllllll",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 c5 c4 e5 Ne2 Ne7 Nc2 b5 d3 Nc7 Ne3 a5 O-O O-O Bd2 b4 a3 Bb7 Ng3 Nc6 Bc2 Nd4 Ba4 g6 Qg4 Nce6 Nef5 Nxf5 exf5 Nf4 Bxf4 exf4 Ne4 Bxe4 dxe4 Be5 Ra2 h5 Qh3 Qf6 b3 Ra6 Bb5 Rd6 axb4 axb4 Ra7 Rd8 Rc7 Bd4 Re1 Qe5 fxg6 fxg6 Qf3 Bc3 Rf1 Rd2 Ra7 Kg7 Kh1 Qd4 h3 Qd6 Ra6 Qd3 Kg1 Be5 Qxd3 Rxd3 Ba4 g5 Kh2 g4 f3 d6 Ra7+ Kg6 Re7 Kf6 Rh7 Kg6 Re7 Rg8 Re8 Rxe8 Bxe8+ Kg5 Ba4 Rd2 hxg4 hxg4 Kg1 g3 Kh1 Rb2 Ra1 Bd4 Rc1 Kf6 Rd1 Ke5 Rc1 Rd2 Re1 Be3 Bd7 Kd4 Rc1 Ra2 Rd1+ Kc3 Ba4 Re2 Rb1 Kc2 Rf1 Bd4 Bd7 Kxb3 Rd1 Ka3 Bf5 b3 Bg6 Re3 e5 b2 Bc2 dxe5 Bd3 Kb4 Bf1 Ra3 Be2 Ra1 Bf1 e4 Be2 b1=R Bf1 Rxd1 fxe4 Rxf1#",
-    "duration": 1740,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Nh4 Rf7 Nf5 Bf8 f4 Nb6 Nce3 exf4 Rxf4 g6 Ng3 Bg7 Qe2 Qd6 Rf2 c5 Bd2 Be6 Raf1 Nd7 Qe1 Ne5 Bc3 b5 b3 Bd7 Ne2 Re8 h3 Bh6 Nf4 Bg5 g3 Nc6 h4 Bh6 a4 a6 h5 f5 hxg6 hxg6 Rh2 Rh7 axb5 axb5 exf5 gxf5 Qf2 Nd4 Bxd4 cxd4 Neg2 Ree7 Ra1 Bc6 Re1 Bxf4 Rxe7 Rxe7 Nxf4 Re3 Rh5 Qe5 g4 Qe7 Ng2 Bxg2 Qxf5 Re1+ Kh2 Ba8 Rg5+ Kh8 Rh5+ Kg8 Rg5+ Kh8 Rh5+ Kg8",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1765008924.344582
+  "updated": 1765009502.2903202
 }
