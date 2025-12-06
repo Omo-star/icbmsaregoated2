@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3045,
-  "opponent": "strain-on-veins",
+  "rating": 2765,
+  "opponent": "janus_the_best",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 48,
-  "timestamp": "2025-12-05T10:03:29.803729",
+  "time_control": "TC: 3+3",
+  "time_left": 182,
+  "timestamp": "2025-12-06T03:17:13.728324",
   "last_game": {
-    "result": "draw",
-    "opponent": "strain-on-veins",
-    "rating_before": 3045,
-    "rating_after": 3045,
+    "result": "win",
+    "opponent": "janus_the_best",
+    "rating_before": 2765,
+    "rating_after": 2765,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bh3 Ra2 Bf1 Ra1 Bg2 Ra5 Bh3 Ra2",
-    "duration": 110,
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Ng5 Be7 Nxf7 Kxf7 Bc4+ Kf8 Qh5 Qe8 Qf3+ Nf6 g4 d5 exd5 Bxg4 Qg3 Bd6+ Kf1",
+    "duration": 249,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1764929009.8038821
+  "updated": 1764991033.728409
 }
