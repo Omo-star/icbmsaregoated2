@@ -33,7 +33,9 @@ async def auto_tournament_loop(ui):
     while True:
         pending = get_pending()
 
-        if not pending:
+        if pending:
+            ui.game_manager.stop_matchmaking()
+        else:
             ui.game_manager.start_matchmaking()
             await asyncio.sleep(CHECK_INTERVAL)
             continue
