@@ -29,9 +29,13 @@ async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
                     _alog(f"startsAt missing in API response for {tid}")
                     return None
 
+                raw = data["startsAt"]
+                if isinstance(raw, str):
+                    raw = int(raw)
+
                 starts_at = datetime.datetime.fromtimestamp(
-                    data["startsAt"] / 1000,
-                    tz=datetime.timezone.utc,
+                    raw / 1000,
+                    tz=datetime.timezone.utc
                 )
                 _alog(f"Tournament {tid} starts at {starts_at}")
                 return starts_at
