@@ -14,11 +14,12 @@ jobs:
 
     concurrency:
       group: bot-restart
-      cancel-in-progress: false
+      cancel-in-progress: true  
 
     env:
       TOKEN: ${{ secrets.TOKEN }}
       DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -39,11 +40,6 @@ jobs:
       - name: Inject Token into config.yml
         run: |
           sed -i "0,/^token:/s|^token:.*|token: \"${TOKEN}\"|" config.yml
-
-      - name: Show config.yml
-        run: |
-          echo "=== USING CONFIG.YML ==="
-          cat config.yml
 
       - name: Download latest Stockfish dev
         run: |
@@ -80,17 +76,17 @@ jobs:
           fi
 
           chmod +x engines/fairy-stockfish
-      - name: Test token validity
-        run: |
-          echo "Testing token..."
-          curl -H "Authorization: Bearer ${TOKEN}" https://lichess.org/api/account
 
       - name: Run Bot
         run: |
           echo "Starting bot..."
-          python3 -u discord_watcher.py &
-          python3 -u user_interface.py matchmaking --autotournament
 
+          cd $GITHUB_WORKSPACE
+          python3 -u discord_watcher.py &
+
+          cd $GITHUB_WORKSPACE
+          python3 -u user_interface.py matchmaking --autotournament
+          wait  
 
       - name: Upload Lichess status
         uses: actions/upload-artifact@v4
