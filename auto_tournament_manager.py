@@ -59,7 +59,7 @@ async def auto_tournament_loop(ui):
         else:
             pre_stage_time = start_time - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
 
-            while datetime.datetime.utcnow() < pre_stage_time:
+            while datetime.datetime.now(datetime.timezone.utc) < pre_stage_time:
                 ui.game_manager.start_matchmaking()
                 await asyncio.sleep(CHECK_INTERVAL)
 
@@ -79,4 +79,4 @@ async def auto_tournament_loop(ui):
         print(f"[AutoTournament] Tournament {tid} finished. Resuming matchmaking.")
         ui.game_manager.start_matchmaking()
 
-        mark_processed(entry)
+        mark_processed(tid)
