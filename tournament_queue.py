@@ -24,14 +24,18 @@ def _save_raw(data):
         json.dump(data, f, indent=2)
 
 
-def add_tournament(tid: str):
+def add_tournament(tid: str, team: str | None = None):
     data = _load_raw()
-    if tid not in data["pending"]:
-        data["pending"].append(tid)
+
+    entry = {"id": tid, "team": team}
+
+    if entry not in data["pending"]:
+        data["pending"].append(entry)
         _save_raw(data)
-        print(f"[TournamentQueue] Added tournament {tid}")
+        print(f"[TournamentQueue] Added tournament {tid} (team={team})")
     else:
-        print(f"[TournamentQueue] Tournament {tid} already in queue")
+        print(f"[TournamentQueue] Tournament {tid} (team={team}) already in queue")
+
 
 
 def get_pending():
