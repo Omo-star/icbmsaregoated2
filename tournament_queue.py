@@ -1,19 +1,20 @@
 import json
 import os
 import datetime
+import subprocess
 
-TOURNAMENT_FILE = "tournaments.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TOURNAMENT_FILE = os.path.join(BASE_DIR, "tournaments.json")
 
 def push_tournament_queue():
     subprocess.run(["git", "pull", "--rebase"], check=False)
-    subprocess.run(["git", "add", "tournaments.json"], check=True)
+    subprocess.run(["git", "add", TOURNAMENT_FILE], check=True)
     subprocess.run(["git", "commit", "-m", "update tournament queue", "--allow-empty"], check=False)
     subprocess.run(["git", "push"], check=False)
 
 def _log(msg: str):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[TournamentQueue {ts}] {msg}")
-
 
 def _load_raw():
     if not os.path.exists(TOURNAMENT_FILE):
@@ -43,18 +44,13 @@ def _save_raw(data):
         with open(TOURNAMENT_FILE, "w") as f:
             json.dump(data, f, indent=2)
         _log("Queue saved successfully.")
-
         push_tournament_queue()
-
     except Exception as e:
         _log(f"Error saving queue: {e}")
 
-
 def add_tournament(tid: str, team: str | None = None):
     data = _load_raw()
-
     entry = {"id": tid, "team": team}
-
     existing_ids = [e["id"] for e in data["pending"]]
 
     if tid not in existing_ids:
@@ -64,20 +60,16 @@ def add_tournament(tid: str, team: str | None = None):
     else:
         _log(f"Tournament {tid} already exists; skipping.")
 
-
 def get_pending():
     data = _load_raw()
     _log(f"Loaded pending list: {data['pending']}")
     return list(data["pending"])
 
-
 def mark_processed(tid: str):
     data = _load_raw()
-    
     before = len(data["pending"])
     data["pending"] = [e for e in data["pending"] if e["id"] != tid]
     after = len(data["pending"])
-
     _save_raw(data)
     removed = before - after
 
