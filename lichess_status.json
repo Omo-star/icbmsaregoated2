@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2765,
-  "opponent": "JAYDENURIEL",
+  "opponent": "janus_the_best",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+3",
-  "time_left": 146,
-  "timestamp": "2025-12-06T03:29:55.536861",
+  "time_left": 163,
+  "timestamp": "2025-12-06T03:31:58.020959",
   "last_game": {
     "result": "win",
-    "opponent": "JAYDENURIEL",
+    "opponent": "janus_the_best",
     "rating_before": 2765,
     "rating_after": 2765,
     "rating_delta": 0,
-    "moves": "e4 a6 Qf3 Nc6 Bc4 Ne5 Qb3 Nf6 f4 Nxc4 Qxc4 d5 exd5 b5 Qc6+ Bd7 Qb7 Rb8 Qxa6 Nxd5 Ne2 Nb4 Qa5 e6 Qxb4 Bxb4 a3 Ra8 O-O Bc6 b3 Bc5+ Kh1 Qd5 Rf3 Qxf3 gxf3 Bxf3#",
-    "duration": 294,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Nbd7 e3 Be7 Bd3 c6 Nf3 Qc7 Qc2 O-O Bxh7+ Nxh7 Bxe7 Re8 Bh4 Nhf6 Bg3 Qb6 O-O c5 a4 cxd4 Nxd4 Ne5 Ncb5 Be6 Bxe5",
+    "duration": 285,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1764991795.5369198
+  "updated": 1764991918.0250697
 }
