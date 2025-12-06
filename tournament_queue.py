@@ -4,6 +4,11 @@ import datetime
 
 TOURNAMENT_FILE = "tournaments.json"
 
+def push_tournament_queue():
+    subprocess.run(["git", "pull", "--rebase"], check=False)
+    subprocess.run(["git", "add", "tournaments.json"], check=True)
+    subprocess.run(["git", "commit", "-m", "update tournament queue", "--allow-empty"], check=False)
+    subprocess.run(["git", "push"], check=False)
 
 def _log(msg: str):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
@@ -33,12 +38,14 @@ def _load_raw():
         _log(f"Error loading queue file: {e}. Resetting.")
         return {"pending": []}
 
-
 def _save_raw(data):
     try:
         with open(TOURNAMENT_FILE, "w") as f:
             json.dump(data, f, indent=2)
         _log("Queue saved successfully.")
+
+        push_tournament_queue()
+
     except Exception as e:
         _log(f"Error saving queue: {e}")
 
