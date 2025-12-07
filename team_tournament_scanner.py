@@ -8,9 +8,11 @@ from tournament_queue import add_tournament
 TEAM = "darkonbot"
 SEEN = set()
 
+
 def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
+
 
 def parse_time_text(text):
     text = text.strip()
@@ -18,7 +20,7 @@ def parse_time_text(text):
     if text.lower() == "playing right now":
         return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
-    m = re.match(r"in (\d+) hours?", text)
+    m = re.match(r"in (\d+) hours?", text.lower())
     if m:
         hours = int(m.group(1))
         return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc) + datetime.timedelta(hours=hours)
@@ -28,6 +30,7 @@ def parse_time_text(text):
         return dt.replace(tzinfo=datetime.timezone.utc)
     except:
         return None
+
 
 async def fetch_team_tournaments_html(session):
     url = f"https://lichess.org/team/{TEAM}/tournaments"
@@ -55,28 +58,29 @@ async def fetch_team_tournaments_html(session):
             rows = container.find_all("tr", class_=lambda c: c and "enterable" in c)
 
             upcoming = []
+            now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
             for row in rows:
+
                 link = row.find("a", href=True)
                 if not link:
                     continue
 
-                href = link["href"]
-                m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", href)
+                m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", link["href"])
                 if not m:
                     continue
 
                 tid = m.group(1)
 
-                time_cell = row.find("td", string=True)
-                if not time_cell:
+                cells = row.find_all("td")
+                if len(cells) < 3:
                     continue
 
-                start_time = parse_time_text(time_cell.text)
+                time_text = cells[2].text.strip()
+                start_time = parse_time_text(time_text)
                 if not start_time:
                     continue
 
-                now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
                 delta = (start_time - now).total_seconds()
 
                 if delta <= 0 or delta <= 300:
@@ -87,6 +91,7 @@ async def fetch_team_tournaments_html(session):
     except Exception as e:
         _log(f"Error scraping tournaments: {e}")
         return []
+
 
 async def realtime_team_scanner(_, interval=30):
     _log("Started real-time team scanner")
@@ -115,6 +120,7 @@ async def realtime_team_scanner(_, interval=30):
                 SEEN.add(tid)
 
             await asyncio.sleep(interval)
+
 
 async def team_tournament_loop(token):
     await realtime_team_scanner(token, interval=30)
