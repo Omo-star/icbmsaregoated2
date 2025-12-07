@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "Gold_Engine",
+  "rating": 2860,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2025-12-07T11:55:14.609543",
+  "time_control": "TC: 3+0",
+  "time_left": 20,
+  "timestamp": "2025-12-07T12:00:58.747946",
   "last_game": {
-    "result": "draw",
-    "opponent": "Gold_Engine",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "result": "win",
+    "opponent": "RaspFish",
+    "rating_before": 2860,
+    "rating_after": 2860,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 h6 Bh4 Bf5 Qf3 Be6 Bxf6 Qxf6 Qxf6 gxf6 Bd3 Nd7 Nf3 Nb6 O-O a5 Nh4 Kd7 Rfc1 a4 g3 Be7 Rc2 Nc4 f4 Kd8 Bxc4 dxc4 d5 Bd7 Rd1 a3 dxc6 bxc6 Rcd2 Ra7 bxa3 Kc8 Rd4 Bg4 Rb1 Bc5 Rxc4 Bxe3+ Kg2 Be6 Re4 Bc5 f5 Bd5 Nxd5 cxd5 Re2 Kc7 Nf3 Rxa3 Rd1 Rd8 Rc2 Kd6 Rcd2 Kc6 Rc1 Kd6 Rcd1 Kc6 Rc1 Kd6 Rcd1",
-    "duration": 30,
+    "moves": "c4 d6 d4 g6 Nc3 Bg7 Nf3 Nf6 e4 O-O Be2 e5 O-O h6 Re1 Qe7 Bf1 exd4 Nxd4 Nc6 Nc2 Re8 Bf4 g5 Bg3 Bg4 f3 Be6 Bf2 Ne5 Ne3 c6 Kh1 Nh5 g3 Rad8 Bg1 Qc7 Rc1 Qa5 a3 a6 a4 Ng6 Bg2 Be5 Rf1 Nf6 Ne2 d5 cxd5 cxd5 f4 dxe4 Qe1 Qxe1 Rcxe1 Bxb2 f5 Ba2 fxg6 fxg6 a5 Rd7 Rd1 Rdd8 Rfe1 Kh7 Nf1 h5 Bb6 Rd3 Nc1 Rxd1 Rxd1 Be6 Ne2 Be5 Ne3 h4 Kg1 Kh6 Rd8 Rxd8 Bxd8 hxg3 hxg3 Kg7 Kf2 Ba1 Bb6 Kf7 Nd4 Ba2 Bh3 Ne8 Bc5 Bc3 Bc8 Bxa5 Bxb7 Nc7 Bxe4 Bc3 Bb6 Nb5 Nxb5 axb5 Bc6 Kg7 Bxb5 Be6 Be2 Bf6 Bg4 Bb3 Bd7 Kh7 Ng4 Be7 Bd4 Bd6 Be3 Be7 Ne5 Bf6 Bd4 Be7 Bb5 Kh6 Bc4 Bxc4 Nxc4 g4 Be3+ Kg7 Ne5 Kf6 Nxg4+ Ke6 Nh6 Kd5 g4 Ke6 g5 Kd6 Bd2 Ke5 Kf3 Kd5 Kg4 Ke4 Nf7 Bc5 Nh8 Kd5 Nxg6 Bd4 Nf4+ Kd6 g6 Bh8 Nh5 Bb2 g7 Kc7 g8=Q Ba1 Bc3 Bxc3 Qc4+",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1765108514.6096551
+  "updated": 1765108858.7480052
 }
