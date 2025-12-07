@@ -27,6 +27,7 @@ from prompt_toolkit.history import FileHistory
 from prompt_toolkit.patch_stdout import patch_stdout
 
 from auto_tournament_manager import auto_tournament_loop
+from team_tournament_scanner import team_tournament_loop
 
 
 console = Console()
