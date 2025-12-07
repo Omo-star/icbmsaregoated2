@@ -80,7 +80,7 @@ class UserInterface:
                 self.auto_tournament_task = asyncio.create_task(auto_tournament_loop(self))
                 console.print("[bold green]Auto-tournament mode enabled (CLI flag).[/bold green]")
                 
-            self.team_scanner_task = asyncio.create_task(team_tournament_loop())
+            self.team_scanner_task = asyncio.create_task(team_tournament_loop(self.api))
             
             signal.signal(signal.SIGTERM, self.signal_handler)
 
