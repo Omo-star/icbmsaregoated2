@@ -7,58 +7,64 @@ from tournament_queue import add_tournament
 
 TEAM = "darkonbot"
 SEEN = set()
-
+JOIN_WINDOW_SECONDS = 300
 
 def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
 
+def parse_time_from_infos_cell(info_td):
+    now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
-def parse_time_text(text):
-    text = text.strip()
+    time_tag = info_td.find("time")
+    if time_tag and time_tag.has_attr("datetime"):
+        try:
+            iso = time_tag["datetime"].replace("Z", "+00:00")
+            return datetime.datetime.fromisoformat(iso)
+        except:
+            pass
 
-    if text.lower() == "playing right now":
-        return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    lines = [l.strip() for l in info_td.text.split("\n") if l.strip()]
+    if len(lines) < 2:
+        return None
 
-    m = re.match(r"in (\d+) hours?", text.lower())
+    t = lines[1].lower()
+
+    if t == "playing right now":
+        return now
+
+    m = re.match(r"in (\d+) minutes?", t)
     if m:
-        hours = int(m.group(1))
-        return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc) + datetime.timedelta(hours=hours)
+        return now + datetime.timedelta(minutes=int(m.group(1)))
+
+    m = re.match(r"in (\d+) hours?", t)
+    if m:
+        return now + datetime.timedelta(hours=int(m.group(1)))
 
     try:
-        dt = datetime.datetime.strptime(text, "%b %d, %Y, %I:%M %p")
+        dt = datetime.datetime.strptime(lines[1], "%b %d, %Y, %I:%M %p")
         return dt.replace(tzinfo=datetime.timezone.utc)
     except:
         return None
 
-
 async def fetch_team_tournaments_html(session):
     url = f"https://lichess.org/team/{TEAM}/tournaments"
-
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "text/html",
-    }
+    headers = {"User-Agent": "Mozilla/5.0", "Accept": "text/html"}
 
     try:
         async with session.get(url, headers=headers) as r:
             if r.status != 200:
-                text = await r.text()
                 _log(f"HTTP {r.status} scraping tournaments")
-                _log(f"Body preview: {text[:200].replace(chr(10), ' ')}")
                 return []
 
-            html = await r.text()
-            soup = BeautifulSoup(html, "html.parser")
-
+            soup = BeautifulSoup(await r.text(), "html.parser")
             container = soup.find("div", class_="team-tournaments__next")
             if not container:
                 return []
 
             rows = container.find_all("tr", class_=lambda c: c and "enterable" in c)
-
-            upcoming = []
             now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+            found = []
 
             for row in rows:
                 link = row.find("a", href=True)
@@ -71,30 +77,26 @@ async def fetch_team_tournaments_html(session):
 
                 tid = m.group(1)
 
-                cells = row.find_all("td")
-                if len(cells) < 3:
+                info_td = row.find("td", class_="infos")
+                if not info_td:
                     continue
 
-                time_text = cells[2].text.strip()
-                start_time = parse_time_text(time_text)
+                start_time = parse_time_from_infos_cell(info_td)
                 if not start_time:
                     continue
 
                 delta = (start_time - now).total_seconds()
+                if delta <= JOIN_WINDOW_SECONDS:
+                    found.append(tid)
 
-                if delta <= 0 or delta <= 300:
-                    upcoming.append(tid)
-
-            return upcoming
+            return found
 
     except Exception as e:
         _log(f"Error scraping tournaments: {e}")
         return []
 
-
 async def realtime_team_scanner(_, interval=30):
     _log("Started real-time team scanner")
-
     async with aiohttp.ClientSession() as session:
         while True:
             if len(SEEN) > 300:
@@ -112,14 +114,11 @@ async def realtime_team_scanner(_, interval=30):
             for tid in tournaments:
                 if tid in SEEN:
                     continue
-
                 add_tournament(tid, TEAM)
                 _log(f"JOIN NOW {tid}")
-
                 SEEN.add(tid)
 
             await asyncio.sleep(interval)
-
 
 async def team_tournament_loop(token):
     await realtime_team_scanner(token, interval=30)
