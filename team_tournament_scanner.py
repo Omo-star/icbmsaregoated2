@@ -73,3 +73,5 @@ async def realtime_team_scanner(interval=15):
 
 if __name__ == "__main__":
     asyncio.run(realtime_team_scanner())
+
+team_tournament_loop = realtime_team_scanner
