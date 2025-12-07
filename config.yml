@@ -248,14 +248,12 @@ opening_books:
       allow_repetitions: true
       names:
         - hordewhite
-        - hordenoob
 
     horde_black:
       selection: best_move
       allow_repetitions: false
       names:
         - hordeblack
-        - hordenoob
 
 online_moves:
   opening_explorer:
@@ -392,10 +390,8 @@ books:
   antiblack: "./engines/blackanti.bin"
   threecheck: "./engines/threecheck_book.bin"
   atomic: "./engines/atomic.bin"
-  horde: "./engines/horde.bin"
-  hordeblack: "./engines/black_horde.bin"
-  hordenoob: "./engines/horde.bin"
-  hordewhite: "./engines/horde_best.bin"
+  hordeblack: "./engines/hordeb.bin"
+  hordewhite: "./engines/hordew.bin"
   titans: "./engines/Titans.bin"
   tcec_p1: "./engines/TCEC_P1.bin"
   tcec_p2: "./engines/TCEC_P2.bin"
