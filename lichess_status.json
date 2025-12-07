@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3087,
-  "opponent": "FayEFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+0",
-  "time_left": 20,
-  "timestamp": "2025-12-07T10:50:12.694396",
+  "opponent": "Zepro_Zerk_Bot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 2+0",
+  "time_left": 115,
+  "timestamp": "2025-12-07T10:50:52.876548",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
+    "opponent": "Zepro_Zerk_Bot",
     "rating_before": 3087,
     "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "b4 b6 g3 Bxh1 Rxh1 Nd6 f4 g5 Bxh8 Rxh8 fxg5 Qg7 Nc3 Qxg5 e4 Nc6 Nf3 Qh5 Qe2 f6 Nd5 Kb7 Rf1 Rbf8 c4 e6 Nc3 Rhg8 c5 Nf7 d4 Ng5 Nd2 Qxe2 Nxe2 f5 exf5 Rxf5 Rxf5 exf5 d5 Ne7 Nc3 f4 gxf4 Nh3 Nde4 Nxf4 O-O-O Rg2 Nf6 Kc8 cxb6 cxb6 Rd2 Rg6 Nxh7 Nf5 a4 Nd6 Rd4 Rg1+ Kc2 Rg2+ Rd2 Rg6 Kb3 Nh3 Re2 Nf4 Rd2 Kd8 Rd4 Nh3 Rh4 Nf2 Nb5 Nfe4 Nxd6 Nxd6 a5 Kc7 Kc3 bxa5 bxa5 Rg2 Rh6 Rf2 h4 Rf3+ Kc2 Nf5 Ra6 Kb7 Rf6 Nxh4 Rxf3 Nxf3 Kc3 a6 Nf6 d6 Ne8 Ne5 Nxd6+ Kc7 Ne4 Nf7 Kc4 Nd8 Nc5 Kd6 Kd4 Ke7 Ke5 Nf7+ Kd4 Nd8 Ke5 Nf7+ Ke4 Nd8 Kd4 Kd6 Ne4+ Kc7 Nc5 Kd6 Ne4+ Kc7 Kc5 Nb7+ Kb4 Nd8 Kc5 Nb7+ Kb4 Nd8 Kc4 Nb7 Nc5 Nxa5+ Kd4 Nc6+ dxc6 Kd6 Nd7 Kxc6 Nf8 Kc7 Nh7 Kd8 Nf8 Ke8 Nh7 Kd8 Nf8 Ke8 Nh7 Kd8",
-    "duration": 60,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kg3 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+",
+    "duration": 120,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765104612.694579
+  "updated": 1765104652.876611
 }
