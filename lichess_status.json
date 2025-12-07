@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "Tacticall_Bot",
+  "rating": 3087,
+  "opponent": "khunglongcon",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2025-12-06T08:27:28.848023",
+  "time_control": "TC: \u00be+0",
+  "time_left": 42,
+  "timestamp": "2025-12-07T02:43:17.350831",
   "last_game": {
-    "result": "draw",
-    "opponent": "Tacticall_Bot",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "win",
+    "opponent": "khunglongcon",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 dxc4 Bxc4 e5 O-O exd4 Nd5 Qd6 Nxb4 Nxb4 Rfd1 Bd7 Bb5 Bxb5 Qxb5 Qb6 Qxb6 axb6 a3 Nc6 Nxd4 Nxd4 Rxd4 Rfd8 Rad1 Rxd4 Rxd4 Ra5 Kf1 Rc5 Ke2 Rc2+ Rd2 Rc1 Rd8+ Kh7 Rd7 Rc2+ Rd2 Rc1 Rd1 Rc2+ Rd2 Rc1 Rd1 Rc2+ Rd2",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 Bb4 f3 O-O Bd3 Nxd4",
+    "duration": 45,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1765009648.8481293
+  "updated": 1765075397.3509514
 }
