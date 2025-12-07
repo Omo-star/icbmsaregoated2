@@ -13,10 +13,17 @@ def _log(msg):
     print(f"[RTTeamScanner {ts}] {msg}")
 
 async def fetch_team_tournaments_html(session):
-    url = f"https://lichess.org/team/{TEAM}/tournaments/upcoming"
+    url = f"https://lichess.org/team/{TEAM}/tournaments"
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Connection": "keep-alive"
+    }
 
     try:
-        async with session.get(url, headers={"User-Agent": "BotLi-HTMLScraper"}) as r:
+        async with session.get(url, headers=headers) as r:
             if r.status != 200:
                 text = await r.text()
                 _log(f"HTTP {r.status} scraping tournaments")
@@ -31,8 +38,7 @@ async def fetch_team_tournaments_html(session):
                 href = a["href"]
                 m = re.match(r"^/tournament/([a-zA-Z0-9]{8,12})$", href)
                 if m:
-                    tid = m.group(1)
-                    tournaments.append(tid)
+                    tournaments.append(m.group(1))
 
             return list(set(tournaments))
 
