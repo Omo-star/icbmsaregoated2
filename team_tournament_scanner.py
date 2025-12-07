@@ -33,10 +33,21 @@ async def fetch_team_tournaments_html(session):
             html = await r.text()
             soup = BeautifulSoup(html, "html.parser")
 
+            container = soup.find("div", class_="team-tournaments__next")
+            if not container:
+                _log("Could not find upcoming tournaments container")
+                return []
+
+            rows = container.find_all("tr", class_=lambda c: c and "enterable" in c)
             tournaments = []
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
-                m = re.match(r"^/tournament/([a-zA-Z0-9]{8,12})$", href)
+
+            for row in rows:
+                link = row.find("a", href=True)
+                if not link:
+                    continue
+
+                href = link["href"]
+                m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", href)
                 if m:
                     tournaments.append(m.group(1))
 
@@ -61,7 +72,7 @@ async def realtime_team_scanner(_, interval=30):
                 await asyncio.sleep(interval)
                 continue
 
-            _log(f"Found {len(tournaments)} tournaments in HTML")
+            _log(f"Found {len(tournaments)} upcoming tournaments")
 
             for tid in tournaments:
                 if tid in SEEN:
