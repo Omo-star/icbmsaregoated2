@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2846,
-  "opponent": "dinhlong2017",
+  "rating": 3087,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 4+1",
-  "time_left": 236,
-  "timestamp": "2025-12-07T03:59:25.709122",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2025-12-07T08:09:44.802035",
   "last_game": {
-    "result": "win",
-    "opponent": "dinhlong2017",
-    "rating_before": 2846,
-    "rating_after": 2846,
+    "result": "draw",
+    "opponent": "DarkOnBot",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 dxe4 Nxe4 Nf6 Nxf6+ Qxf6 Nf3 h6 Bd3 Nc6 c3 Bd7 O-O Be7 Re1 O-O Ne5 Nxe5 dxe5 Qh4 Re4 Qxe4 Bxe4 Bc6",
-    "duration": 268,
+    "moves": "c4 e5 h3 Nc6 Nc3 Bb4 Nd5 Nf6 Nxb4 Nxb4 d3 O-O Nf3 e4 a3 Nc6 dxe4 Nxe4 Nd2 d5 Nxe4 dxe4 Qxd8 Rxd8 Bf4 Be6 e3 Rd7 Rd1 Rad8 Be2 Rxd1+ Bxd1 Bxc4 Bxc7 Rd7 Bf4 h6 h4 Rd5 g4 g5 Bg3 Kg7 f4 exf3 Bxf3 Rb5 Rh2 Ne5 Bxe5+ Rxe5 hxg5 hxg5 Rc2 Be6 Kf2 a5 b4 axb4 axb4 Rb5 Rc5 Rxb4 Rxg5+ Kf6 Rg8 b5 g5+ Kf5 Kg3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765079965.709215
+  "updated": 1765094984.802125
 }
