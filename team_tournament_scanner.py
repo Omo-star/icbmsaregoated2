@@ -1,63 +1,97 @@
 import asyncio
 import aiohttp
 import datetime
+import json
 from tournament_queue import add_tournament
 
 TEAM = "darkonbot"
-API_URL = f"https://lichess.org/api/team/{TEAM}/arena"
 SEEN = set()
 
 def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
 
-async def _fetch_team_tournaments(session):
+async def fetch_team_tournaments(api_session, token):
+    url = f"https://lichess.org/api/team/{TEAM}/tournaments?nb=200"
+
+    headers = {
+        "Accept": "application/x-ndjson",
+        "Authorization": f"Bearer {token}",
+        "User-Agent": "BotLi-RealTimeScanner"
+    }
+
     try:
-        async with session.get(API_URL) as r:
+        async with api_session.get(url, headers=headers) as r:
             if r.status != 200:
+                _log(f"HTTP {r.status} fetching team tournaments")
                 return []
-            return await r.json()
-    except:
-        return []
 
-async def realtime_team_scanner(interval=30):
-    headers = {"User-Agent": "BotLi-RealTimeScanner"}
-    async with aiohttp.ClientSession(headers=headers) as session:
-        _log("Started real-time team scanner")
+            raw = await r.text()
+            lines = raw.strip().split("\n")
+            tournaments = []
 
-        while True:
-            if len(SEEN) > 200:
-                SEEN.clear()
-
-            tournaments = await _fetch_team_tournaments(session)
-            _log(f"Fetched {len(tournaments)} tournaments from API")
-
-            now_ms = int(datetime.datetime.utcnow().timestamp() * 1000)
-
-            for t in tournaments:
-                tid = t.get("id")
-                if not tid or tid in SEEN:
+            for line in lines:
+                try:
+                    tournaments.append(json.loads(line))
+                except json.JSONDecodeError:
                     continue
 
-                status = t.get("status")
-                starts_at = t.get("startsAt")
+            return tournaments
 
-                if status == "started":
-                    add_tournament(tid, TEAM)
-                    _log(f"JOIN NOW {tid} (ongoing)")
-                elif starts_at:
-                    delta = (int(starts_at) - now_ms) / 1000
-                    if delta <= 300:
-                        add_tournament(tid, TEAM)
-                        _log(f"JOIN NOW {tid}, starts in {int(delta)}s")
-                    elif delta < 7200:
-                        _log(f"Upcoming {tid}, starts in {int(delta)}s")
+    except Exception as e:
+        _log(f"Error fetching team tournaments: {e}")
+        return []
 
-                SEEN.add(tid)
 
+async def realtime_team_scanner(api=None, interval=30):
+    if api is None:
+        _log("ERROR: realtime_team_scanner called without API reference!")
+        return
+
+    token = api.config.token 
+
+    _log("Started real-time team scanner")
+
+    while True:
+        if len(SEEN) > 500:
+            SEEN.clear()
+
+        tournaments = await fetch_team_tournaments(api.session, token)
+
+        if not tournaments:
+            _log("No tournaments returned from API")
             await asyncio.sleep(interval)
+            continue
+
+        _log(f"Fetched {len(tournaments)} tournaments")
+
+        now_ms = int(datetime.datetime.utcnow().timestamp() * 1000)
+
+        for t in tournaments:
+            tid = t.get("id")
+            if not tid or tid in SEEN:
+                continue
+
+            starts_at = t.get("startsAt")
+
+            if not starts_at:
+                SEEN.add(tid)
+                continue
+
+            delta = (int(starts_at) - now_ms) / 1000
+
+            if delta <= 0:
+                add_tournament(tid, TEAM)
+                _log(f"JOIN NOW {tid}, tournament already started")
+            elif delta <= 300:
+                add_tournament(tid, TEAM)
+                _log(f"JOIN NOW {tid}, starts in {int(delta)}s")
+            else:
+                _log(f"Detected {tid}, starts in {int(delta)}s")
+
+            SEEN.add(tid)
+
+        await asyncio.sleep(interval)
+
 
 team_tournament_loop = realtime_team_scanner
-
-if __name__ == "__main__":
-    asyncio.run(realtime_team_scanner())
