@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2875,
-  "opponent": "Cheszter",
+  "rating": 3078,
+  "opponent": "odonata-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 122,
-  "timestamp": "2025-12-07T12:27:16.899559",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 8,
+  "timestamp": "2025-12-07T12:28:26.886349",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2875,
-    "rating_after": 2875,
+    "result": "win",
+    "opponent": "odonata-bot",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "c4 d6 Nc3 e5 e3 Nf6 d4 g6 Be2 Nbd7 Qc2 Bg7 Nf3 O-O O-O c6 e4 exd4 Nxd4 Re8 Rd1 Nc5 f3 Nh5 Be3 Qe7 b4 Ne6 Qd2 Nhf4 Bxf4 Nxd4 Bf1 Be6 Rab1 b6 a4 f5 Kh1 Qf8 Re1 fxe4 Nxe4 Rad8 Bg5 Rd7 Be3 c5 a5 Rdd8 h3 d5 Ng5 Bf5 cxd5 Bxb1 Rxb1 Qf5 Bd3 Qxd5 Be4 Qc4 Bd3 Qd5 Be4 Qc4 Bd3 Qd5",
-    "duration": 180,
+    "moves": "e4 g6 d4 Bg7 Nc3 d6 Be3 Nf6 Qd2 c6 Nf3 O-O a4 Nbd7 h3 Qc7 Be2 e5 dxe5 Nxe5 O-O Nxf3+ Bxf3 Be6 Rfd1 Rfd8 Bg5 Rd7 a5 h5 Bf4 Qd8 Bh6 Bxh6 Qxh6 d5 exd5 Bxd5 Nxd5 cxd5 c4 Rc8 cxd5 Nxd5 Qd2 Nf6 Qb4 Qe7 Qf4 Kg7 Rxd7 Qxd7 Rd1 Qb5 b4 Rc4 Rd4 Rxd4 Qxd4 b6 axb6 Qxb6 Qc3 Qe6 Bc6 h4 Ba4 Qd6 Bc2 Qd8 Bd3 Kg8 Bf1 Qe7 Qc8+ Kg7 Qc3 Kg8 Qd4 Nh5 Qc4 Ng7 Qc8+ Kh7 Qc3 Ne6 Bc4 Qc7 Qd3 Nf4 Qd4 f6 Qc5 Qb7 Bf1 Kg7 Qd6 g5 b5 Ng6 Qb4 Qd5 Qc3 Qe5 Qa3 Qe7 Qa1 Kh7 Qc3 Kg7 Qc1 Qf7 Qd2 Qe7 Qd1 Nf4 Qa1 Ng6 Qb1 Ne5 Qd1 Qd7 Qc1 Qd4 Qc7+ Qd7 Qc1 Ng6 Qa1 Qe7 Qd1 Qc5 Qd7+ Qe7 Qd2 Qe5 Qc1 Qe7 Qd2 Qc7 Qd4 Ne5 Qe3 Qe7 Qc1 Qd7 Qa3 Qb7 Qa2 Qd7 Qa1 Kh7 Qa4 Kg7 f4 Ng6 fxg5 fxg5 Kh1 Ne5 Qe4 Qc7 Qf5 Qe7 Qf2 Qc7 Qd2 Qe7 Qc2 Kh6 Qc3 Ng6 Qa1 Qc5 Qa2 Qe3 Qb1 Ne5 Qd1 Kg7 Qa1 Qc5 Be2 Qe3 Bf1 Qc5 Be2 Qe3 Bd3 Kf6 Bf1 g4 hxg4 Kg5 Qd1 Nxg4 Qd8+ Nf6 Qd6 Ne4 Qe5+ Kg6 Qe6+ Kg5 Qg8+ Kf4 b6 Ng3+ Kh2 Nxf1+ Kh1 Ng3+ Kh2 Nf1+",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1765110436.8996556
+  "updated": 1765110506.8864765
 }
