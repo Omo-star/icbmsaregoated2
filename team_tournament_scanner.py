@@ -13,7 +13,6 @@ def _log(msg):
 
 async def fetch_team_tournaments(session, token):
     url = f"https://lichess.org/api/team/{TEAM}/tournaments?nb=200"
-
     headers = {
         "Accept": "application/x-ndjson",
         "Authorization": f"Bearer {token}",
@@ -24,16 +23,26 @@ async def fetch_team_tournaments(session, token):
         async with session.get(url, headers=headers) as r:
             if r.status != 200:
                 _log(f"HTTP {r.status} fetching tournaments")
+                text = await r.text()
+                if text:
+                    _log(f"Body preview: {text[:200].replace(chr(10), ' ')}")
                 return []
 
             raw = await r.text()
+            if not raw.strip():
+                _log("Empty NDJSON response")
+                return []
 
             tournaments = []
             for line in raw.splitlines():
+                line = line.strip()
+                if not line:
+                    continue
                 try:
-                    tournaments.append(json.loads(line))
+                    obj = json.loads(line)
                 except:
-                    pass
+                    continue
+                tournaments.append(obj)
 
             return tournaments
 
@@ -41,18 +50,15 @@ async def fetch_team_tournaments(session, token):
         _log(f"Error fetching tournaments: {e}")
         return []
 
-async def realtime_team_scanner(api, interval=30):
-    if api is None:
-        _log("ERROR: realtime_team_scanner called without API reference!")
+async def realtime_team_scanner(token, interval=30):
+    if not token:
+        _log("ERROR: realtime_team_scanner called without token")
         return
-
-    token = api.config.token
 
     _log("Started real-time team scanner")
 
     async with aiohttp.ClientSession() as session:
         while True:
-
             if len(SEEN) > 500:
                 SEEN.clear()
 
@@ -78,7 +84,11 @@ async def realtime_team_scanner(api, interval=30):
                     SEEN.add(tid)
                     continue
 
-                delta = (int(starts_at) - now_ms) / 1000
+                try:
+                    delta = (int(starts_at) - now_ms) / 1000
+                except:
+                    SEEN.add(tid)
+                    continue
 
                 if delta <= 0:
                     add_tournament(tid, TEAM)
@@ -93,5 +103,5 @@ async def realtime_team_scanner(api, interval=30):
 
             await asyncio.sleep(interval)
 
-async def team_tournament_loop(api):
-    await realtime_team_scanner(api)
+async def team_tournament_loop(token):
+    await realtime_team_scanner(token, interval=30)
