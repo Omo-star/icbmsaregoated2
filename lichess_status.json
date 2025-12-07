@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3087,
-  "opponent": "strain-on-veins",
+  "rating": 2839,
+  "opponent": "Weiawaga",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-07T11:03:52.278500",
+  "time_control": "TC: 3+0",
+  "time_left": 13,
+  "timestamp": "2025-12-07T11:04:09.243920",
   "last_game": {
-    "result": "draw",
-    "opponent": "strain-on-veins",
-    "rating_before": 3087,
-    "rating_after": 3087,
+    "result": "win",
+    "opponent": "Weiawaga",
+    "rating_before": 2839,
+    "rating_after": 2839,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 a6 Ne2 Qb6 Qc1 cxd4 Nexd4 Nxd4 Bxd4 Bc5 c3 Nb8 Bxc5 Qxc5 Bd3 Bd7 b4 Qa7 a4 Nc6 Qd2 O-O h4 Rac8 Bc2 Rc7 Rb1 Ne7 Nd4 Rfc8 Rh3 h5 Kf1 Nc6 f5 Nxe5 f6 Ng4 Rg3 gxf6 Qh6 f5 Qg5+ Kf8 Rxg4 hxg4 Qh6+ Kg8 Qg5+ Kf8 Re1 Rxc3 Qh6+ Kg8 Qg5+ Kh8 Nxe6 Bxe6",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "Nf3 Nf6 d4 d5 c3 Nc6 Bf4 Bf5 Nh4 Be4 Nd2 h6 Nhf3 Bh7 e3 e6 Be2 Bd6 Bg3 O-O a3 Nb8 c4 Bxg3 hxg3 c6 b4 a5 c5 Nbd7 O-O Qe7 Qb3 a4 Qc3 Ng4 Ra2 Rfe8 Rb2 e5 dxe5 g5 Rc1 Ngxe5 Nxe5 Nxe5 Nf3 Qf6 Nxe5 Qxe5 Qd2 h5 b5 g4 Rb4 Be4 Bd3 Qf5 Bb1 Kg7 Bxe4 Rxe4 Rxe4 Qxe4 Qb2+ Kg6 Rd1 Qe8 Rd4 f5 Rb4 Qh8 Qb1 Qf8 bxc6 bxc6 Rb7 Qxc5 Rc7 Ra7 Rc8 Re7 Qb8 Qc3 Rg8+ Rg7 Qe8+ Kg5 Rf8 Qxa3 Rh8 Qa1+ Kh2 Rg6 Rf8 Kh6 Qd8 Re6 Rh8+ Qxh8 Qxh8+ Kg5 Qg7+ Rg6 Qf7 c5 Qxd5 a3 Qxc5 Ra6 Qc4 Ra7 Qd4 Re7 Qd6 Rf7 Qxa3 Kg6 Qd6+ Rf6 Qe7 Rf7 Qe6+ Kg7 e4 fxe4 Qe5+ Rf6 Qe7+ Rf7 Qg5+ Kf8 Qxh5 e3 Qh6+ Rg7 Qxe3 Rg6 f3 Kf7 fxg4 Rf6 g5 Re6 Qxe6+ Kxe6 g6 Kf6 g7 Kxg7 g4 Kf6 g5+ Kxg5 Kg3 Kf5 Kh4 Kg6 Kg4 Kf6 Kh5 Kg7 g3 Kf6 g4 Kg7 Kg5 Kf7 Kh6 Kf8 g5 Kg8 Kg6 Kf8 Kh7 Ke7 g6 Kd6 g7 Kc5 g8=Q Kb4 Qe8 Kc5 Kg6 Kb4 Qc6 Kb3 Kf5 Ka2 Qb7 Ka3 Ke5 Ka2 Kd4 Ka3 Kc3 Ka2 Qb2#",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1765105432.2786164
+  "updated": 1765105449.2439826
 }
