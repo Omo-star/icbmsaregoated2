@@ -4,59 +4,72 @@ import datetime
 import re
 from tournament_queue import add_tournament
 
-TEAMS = [
-    "darkonbot"
-]
-
-TOURNAMENT_REGEX = r"lichess\.org/tournament/([A-Za-z0-9]{8})(?:\?team=([\w-]+))?"
+TEAM = "darkonbot"
+URL = f"https://lichess.org/team/{TEAM}"
+REGEX = r"lichess\.org/tournament/([A-Za-z0-9]{8})"
+SEEN = set()
 
 def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[TeamScanner {ts}] {msg}")
+    print(f"[RTTeamScanner {ts}] {msg}")
 
-async def _fetch_team_page(session, team_id):
-    url = f"https://lichess.org/team/{team_id}"
+async def _fetch_html(session):
     try:
-        async with session.get(url) as resp:
-            if resp.status != 200:
-                _log(f"HTTP {resp.status} for team {team_id}")
+        async with session.get(URL) as r:
+            if r.status != 200:
+                _log(f"HTTP {r.status}")
                 return ""
-            return await resp.text()
+            return await r.text()
     except Exception as e:
-        _log(f"Error fetching team {team_id}: {e}")
+        _log(f"Error {e}")
         return ""
 
-def _extract_tournaments_html(html):
-    matches = re.findall(TOURNAMENT_REGEX, html)
-    out = []
-    for tid, team in matches:
-        out.append((tid, team or None))
-    return out
+async def _get_tournament_info(session, tid):
+    api = f"https://lichess.org/api/tournament/{tid}"
+    try:
+        async with session.get(api) as r:
+            if r.status != 200:
+                return None
+            return await r.json()
+    except:
+        return None
 
-async def scan_teams_once(team_ids=None):
-    ids = team_ids or TEAMS
-    if not ids:
-        _log("No teams configured")
-        return
-
-    headers = {
-        "User-Agent": "BotLi-TeamScanner",
-        "Accept": "text/html"
-    }
-
+async def realtime_team_scanner(interval=15):
+    headers = {"User-Agent": "BotLi-RealTimeScanner"}
     async with aiohttp.ClientSession(headers=headers) as session:
-        for team_id in ids:
-            html = await _fetch_team_page(session, team_id)
+        while True:
+            html = await _fetch_html(session)
             if not html:
+                await asyncio.sleep(interval)
                 continue
-            for tid, team in _extract_tournaments_html(html):
-                add_tournament(tid, team)
-                _log(f"Discovered tournament {tid} from team {team_id} team_param={team}")
 
-async def team_tournament_loop(interval_seconds=3600, team_ids=None):
-    while True:
-        await scan_teams_once(team_ids)
-        await asyncio.sleep(interval_seconds)
+            ids = re.findall(REGEX, html)
+            for tid in ids:
+                if tid in SEEN:
+                    continue
+
+                info = await _get_tournament_info(session, tid)
+                if not info:
+                    continue
+
+                start = info.get("startsAt")
+                if not start:
+                    SEEN.add(tid)
+                    continue
+
+                start_ms = int(start)
+                now_ms = int(datetime.datetime.utcnow().timestamp() * 1000)
+                delta = (start_ms - now_ms) / 1000
+
+                if delta <= 300:
+                    add_tournament(tid, TEAM)
+                    _log(f"JOIN NOW {tid}, starts in {int(delta)}s")
+                else:
+                    _log(f"Seen {tid}, starts in {int(delta)}s")
+
+                SEEN.add(tid)
+
+            await asyncio.sleep(interval)
 
 if __name__ == "__main__":
-    asyncio.run(team_tournament_loop())
+    asyncio.run(realtime_team_scanner())
