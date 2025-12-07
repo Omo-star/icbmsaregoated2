@@ -76,11 +76,12 @@ class UserInterface:
             self.event_handler = EventHandler(self.api, self.config, username, self.game_manager)
             self.event_handler_task = asyncio.create_task(self.event_handler.run())
 
-            self.team_scanner_task = asyncio.create_task(team_tournament_loop())
             if auto_t_mode:
                 self.auto_tournament_task = asyncio.create_task(auto_tournament_loop(self))
                 console.print("[bold green]Auto-tournament mode enabled (CLI flag).[/bold green]")
-
+                
+            self.team_scanner_task = asyncio.create_task(team_tournament_loop())
+            
             signal.signal(signal.SIGTERM, self.signal_handler)
 
             if commands:
