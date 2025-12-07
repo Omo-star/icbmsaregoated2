@@ -9,24 +9,30 @@ TEAM = "darkonbot"
 SEEN = set()
 JOIN_WINDOW_SECONDS = 300
 
+
 def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
 
+
 def parse_time_from_infos_cell(info_td):
     now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
-    _log(f"  RAW infos cell text: {repr(info_td.text)}")
+    raw = info_td.get_text(strip=True)
+    _log(f"  RAW infos cell text: {repr(raw)}")
+
+    # Detect ongoing tournament even in minified HTML like "Inner teamPlaying right now"
+    if "playing right now" in raw.lower():
+        _log("  Detected LIVE tournament from substring match")
+        return now
 
     time_tag = info_td.find("time")
-    if time_tag:
-        _log(f"  Found <time> tag with datetime={time_tag.get('datetime')}")
     if time_tag and time_tag.has_attr("datetime"):
         try:
             iso = time_tag["datetime"].replace("Z", "+00:00")
-            parsed = datetime.datetime.fromisoformat(iso)
-            _log(f"  Parsed ISO time -> {parsed}")
-            return parsed
+            dt = datetime.datetime.fromisoformat(iso)
+            _log(f"  Parsed ISO time -> {dt}")
+            return dt
         except Exception as e:
             _log(f"  Failed ISO parse: {e}")
 
@@ -40,31 +46,20 @@ def parse_time_from_infos_cell(info_td):
     t = lines[1].lower()
     _log(f"  Interpreting time string: {t}")
 
-    if t == "playing right now":
-        _log("  Detected LIVE tournament")
-        return now
-
     m = re.match(r"in (\d+) minutes?", t)
     if m:
-        mins = int(m.group(1))
-        _log(f"  Parsed relative time: in {mins} minutes")
-        return now + datetime.timedelta(minutes=mins)
+        return now + datetime.timedelta(minutes=int(m.group(1)))
 
     m = re.match(r"in (\d+) hours?", t)
     if m:
-        hrs = int(m.group(1))
-        _log(f"  Parsed relative time: in {hrs} hours")
-        return now + datetime.timedelta(hours=hrs)
+        return now + datetime.timedelta(hours=int(m.group(1)))
 
     try:
         dt = datetime.datetime.strptime(lines[1], "%b %d, %Y, %I:%M %p")
-        parsed = dt.replace(tzinfo=datetime.timezone.utc)
-        _log(f"  Parsed absolute datetime: {parsed}")
-        return parsed
-    except Exception as e:
-        _log(f"  Failed to parse datetime: {e}")
+        return dt.replace(tzinfo=datetime.timezone.utc)
+    except:
+        return None
 
-    return None
 
 async def fetch_team_tournaments_html(session):
     url = f"https://lichess.org/team/{TEAM}/tournaments"
@@ -74,17 +69,16 @@ async def fetch_team_tournaments_html(session):
 
     try:
         async with session.get(url, headers=headers) as r:
-            body = await r.text()
-            _log(f"Received HTTP {r.status}, first 300 chars:\n{body[:300].replace(chr(10),' ')}")
+            text = await r.text()
+            _log(f"Received HTTP {r.status}, first 300 chars:")
+            _log(text[:300])
 
             if r.status != 200:
                 return []
 
-            soup = BeautifulSoup(body, "html.parser")
-
+            soup = BeautifulSoup(text, "html.parser")
             container = soup.find("div", class_="team-tournaments__next")
             if not container:
-                _log("Did NOT find .team-tournaments__next div")
                 return []
 
             rows = container.find_all("tr", class_=lambda c: c and "enterable" in c)
@@ -98,23 +92,21 @@ async def fetch_team_tournaments_html(session):
 
                 link = row.find("a", href=True)
                 if not link:
-                    _log("  No <a> link in row — skipping")
+                    _log("  No link found — skipping")
                     continue
 
-                href = link["href"]
-                _log(f"  Found link href={href}")
-
-                m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", href)
+                m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", link["href"])
                 if not m:
-                    _log("  Href did NOT match expected /tournament/<ID> format — skipping")
+                    _log(f"  Link did not match tournament pattern: {link['href']}")
                     continue
 
                 tid = m.group(1)
+                _log(f"  Found link href={link['href']}")
                 _log(f"  Tournament ID={tid}")
 
                 info_td = row.find("td", class_="infos")
                 if not info_td:
-                    _log("  No <td class='infos'> — skipping")
+                    _log("  No infos <td> found — skipping")
                     continue
 
                 start_time = parse_time_from_infos_cell(info_td)
@@ -123,10 +115,10 @@ async def fetch_team_tournaments_html(session):
                     continue
 
                 delta = (start_time - now).total_seconds()
-                _log(f"  start_time={start_time}, delta={delta}s")
+                _log(f"  start_time={start_time}, delta={delta:.6f}s")
 
                 if delta <= JOIN_WINDOW_SECONDS:
-                    _log(f"  -> JOINABLE: within {JOIN_WINDOW_SECONDS}s window")
+                    _log("  -> JOINABLE")
                     found.append(tid)
                 else:
                     _log("  -> NOT joinable yet")
@@ -138,8 +130,10 @@ async def fetch_team_tournaments_html(session):
         _log(f"Error scraping tournaments: {e}")
         return []
 
+
 async def realtime_team_scanner(_, interval=30):
     _log("Started real-time team scanner")
+
     async with aiohttp.ClientSession() as session:
         while True:
             if len(SEEN) > 300:
@@ -156,13 +150,14 @@ async def realtime_team_scanner(_, interval=30):
 
             for tid in tournaments:
                 if tid in SEEN:
-                    _log(f"Skipping {tid} (already seen)")
                     continue
+
                 add_tournament(tid, TEAM)
                 _log(f"JOIN NOW {tid}")
                 SEEN.add(tid)
 
             await asyncio.sleep(interval)
+
 
 async def team_tournament_loop(token):
     await realtime_team_scanner(token, interval=30)
