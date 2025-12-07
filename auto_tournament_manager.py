@@ -12,9 +12,9 @@ def _alog(msg: str):
     print(f"[AutoTournament {ts}] {msg}")
 
 
-async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
+async def fetch_tournament_info(tid: str):
     url = f"https://lichess.org/api/tournament/{tid}"
-    _alog(f"Fetching start time for {tid} from {url}")
+    _alog(f"Fetching tournament info for {tid} ...")
 
     try:
         async with aiohttp.ClientSession() as session:
@@ -22,26 +22,19 @@ async def get_tournament_start_time(tid: str) -> datetime.datetime | None:
                 if resp.status != 200:
                     _alog(f"HTTP {resp.status} from Lichess for {tid}")
                     return None
-
-                data = await resp.json()
-
-                if "startsAt" not in data:
-                    _alog(f"startsAt missing in API response for {tid}")
-                    return None
-
-                raw = data["startsAt"]
-
-                if isinstance(raw, str):
-                    raw = raw.replace("Z", "+00:00")
-                    starts_at = datetime.datetime.fromisoformat(raw)
-                else:
-                    starts_at = datetime.datetime.fromtimestamp(raw / 1000, tz=datetime.timezone.utc)
-                _alog(f"Tournament {tid} starts at {starts_at}")
-                return starts_at
+                return await resp.json()
 
     except Exception as e:
         _alog(f"Exception while fetching tournament {tid}: {e}")
         return None
+
+
+def parse_lichess_time(raw):
+    if isinstance(raw, str):
+        raw = raw.replace("Z", "+00:00")
+        return datetime.datetime.fromisoformat(raw)
+    else:
+        return datetime.datetime.fromtimestamp(raw / 1000, tz=datetime.timezone.utc)
 
 
 async def run_tournament(ui, tid: str, team: str | None):
@@ -75,27 +68,40 @@ async def auto_tournament_loop(ui):
 
         _alog(f"Processing tournament: id={tid}, team={team}")
 
-        start_time = await get_tournament_start_time(tid)
-        if not start_time:
-            _alog(f"Could not fetch valid start time for {tid}, marking processed and skipping.")
-            # IMPORTANT: pass the ID string, NOT the dict
+        data = await fetch_tournament_info(tid)
+        if not data:
+            _alog(f"Failed to load tournament {tid}, skipping.")
             mark_processed(tid)
             await asyncio.sleep(CHECK_INTERVAL)
             continue
 
+        system = data.get("system", "arena")
+        is_finished = data.get("isFinished", False)
+        starts_at = parse_lichess_time(data["startsAt"])
         now = datetime.datetime.now(datetime.timezone.utc)
-        _alog(f"Now: {now}, start_time: {start_time}")
 
-        if now >= start_time:
-            _alog(f"Tournament {tid} already started — joining now!")
+        _alog(f"System={system}, isFinished={is_finished}, startsAt={starts_at}, now={now}")
+
+        if system == "arena":
+            if is_finished:
+                _alog(f"Arena {tid} already finished — removing.")
+                mark_processed(tid)
+                continue
+
+            _alog(f"Arena {tid} is joinable now — joining immediately!")
             ui.game_manager.stop_matchmaking()
             await run_tournament(ui, tid, team)
 
         else:
-            pre_stage_time = start_time - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
-            _alog(f"Pre-stage time for {tid}: {pre_stage_time}")
+            if now >= starts_at:
+                _alog(f"Swiss/team battle {tid} already started — cannot join, skipping.")
+                mark_processed(tid)
+                continue
 
-            while datetime.datetime.now(datetime.timezone.utc) < pre_stage_time:
+            pre_stage = starts_at - datetime.timedelta(minutes=PRE_STAGE_MINUTES)
+            _alog(f"Pre-stage window begins at {pre_stage}")
+
+            while datetime.datetime.now(datetime.timezone.utc) < pre_stage:
                 _alog(f"Waiting for pre-stage for {tid} ...")
                 ui.game_manager.start_matchmaking()
                 await asyncio.sleep(CHECK_INTERVAL)
@@ -103,11 +109,11 @@ async def auto_tournament_loop(ui):
             _alog(f"Reached pre-stage for {tid}, stopping matchmaking.")
             ui.game_manager.stop_matchmaking()
 
-            while datetime.datetime.now(datetime.timezone.utc) < start_time:
-                _alog(f"Waiting for tournament {tid} to start ...")
+            while datetime.datetime.now(datetime.timezone.utc) < starts_at:
+                _alog(f"Waiting for Swiss {tid} to start...")
                 await asyncio.sleep(5)
 
-            _alog(f"Start time reached for {tid}, joining now (team={team})")
+            _alog(f"Swiss {tid} starting — joining now!")
             await run_tournament(ui, tid, team)
 
         _alog(f"Monitoring tournament {tid} until it finishes.")
