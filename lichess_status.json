@@ -5,18 +5,18 @@
   "opponent": "khunglongcon",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00be+0",
-  "time_left": 42,
-  "timestamp": "2025-12-07T02:43:17.350831",
+  "time_left": 36,
+  "timestamp": "2025-12-07T02:43:42.683455",
   "last_game": {
     "result": "win",
     "opponent": "khunglongcon",
     "rating_before": 3087,
     "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 Bb4 f3 O-O Bd3 Nxd4",
+    "moves": "e4 d6 d4 e6 Nc3 c5 dxc5 dxc5 Qxd8+ Kxd8 Nf3 Nc6 Bf4 Nf6 O-O-O+ Bd7 e5 Nd5 Nxd5 exd5 Rxd5 Be7 Bg5 f6 e6",
     "duration": 45,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "resign"
   },
-  "updated": 1765075397.3509514
+  "updated": 1765075422.6835446
 }
