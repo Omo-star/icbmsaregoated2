@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2839,
-  "opponent": "Weiawaga",
+  "rating": 3087,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 13,
-  "timestamp": "2025-12-07T11:04:09.243920",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2025-12-07T11:04:42.776888",
   "last_game": {
-    "result": "win",
-    "opponent": "Weiawaga",
-    "rating_before": 2839,
-    "rating_after": 2839,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 d4 d5 c3 Nc6 Bf4 Bf5 Nh4 Be4 Nd2 h6 Nhf3 Bh7 e3 e6 Be2 Bd6 Bg3 O-O a3 Nb8 c4 Bxg3 hxg3 c6 b4 a5 c5 Nbd7 O-O Qe7 Qb3 a4 Qc3 Ng4 Ra2 Rfe8 Rb2 e5 dxe5 g5 Rc1 Ngxe5 Nxe5 Nxe5 Nf3 Qf6 Nxe5 Qxe5 Qd2 h5 b5 g4 Rb4 Be4 Bd3 Qf5 Bb1 Kg7 Bxe4 Rxe4 Rxe4 Qxe4 Qb2+ Kg6 Rd1 Qe8 Rd4 f5 Rb4 Qh8 Qb1 Qf8 bxc6 bxc6 Rb7 Qxc5 Rc7 Ra7 Rc8 Re7 Qb8 Qc3 Rg8+ Rg7 Qe8+ Kg5 Rf8 Qxa3 Rh8 Qa1+ Kh2 Rg6 Rf8 Kh6 Qd8 Re6 Rh8+ Qxh8 Qxh8+ Kg5 Qg7+ Rg6 Qf7 c5 Qxd5 a3 Qxc5 Ra6 Qc4 Ra7 Qd4 Re7 Qd6 Rf7 Qxa3 Kg6 Qd6+ Rf6 Qe7 Rf7 Qe6+ Kg7 e4 fxe4 Qe5+ Rf6 Qe7+ Rf7 Qg5+ Kf8 Qxh5 e3 Qh6+ Rg7 Qxe3 Rg6 f3 Kf7 fxg4 Rf6 g5 Re6 Qxe6+ Kxe6 g6 Kf6 g7 Kxg7 g4 Kf6 g5+ Kxg5 Kg3 Kf5 Kh4 Kg6 Kg4 Kf6 Kh5 Kg7 g3 Kf6 g4 Kg7 Kg5 Kf7 Kh6 Kf8 g5 Kg8 Kg6 Kf8 Kh7 Ke7 g6 Kd6 g7 Kc5 g8=Q Kb4 Qe8 Kc5 Kg6 Kb4 Qc6 Kb3 Kf5 Ka2 Qb7 Ka3 Ke5 Ka2 Kd4 Ka3 Kc3 Ka2 Qb2#",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Ke8 Re5 Kf7",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765105449.2439826
+  "updated": 1765105482.7770212
 }
