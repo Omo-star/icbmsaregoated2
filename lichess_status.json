@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "Lambergar",
+  "rating": 3079,
+  "opponent": "Ayaangamerzbot2",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2025-12-07T12:30:03.759063",
+  "time_left": 17,
+  "timestamp": "2025-12-07T12:30:11.920549",
   "last_game": {
-    "result": "win",
-    "opponent": "Lambergar",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "result": "draw",
+    "opponent": "Ayaangamerzbot2",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c4 d4 d3 c5 g3 Nc6 Bg2 e5 e3 Bd6 exd4 cxd4 O-O Nf6 Bg5 O-O Nbd2 h6 Bxf6 Qxf6 a3 Bf5 Re1 Bxd3 Qb3 Bh7 Qxb7 Be7 b4 d3 Rab1 Rac8 Qa6 g5 h3 h5 c5 g4 hxg4 hxg4 Nh2 Nd4 Qxf6 Bxf6 Nxg4 Bg7 Ne3 f5 Bd5+ Kh8 Kg2 Bf6 Rh1 Rc7 Bc4 e4 Nd5 Rg7 Rh5 Ne2 Nxf6 Rxf6 Rh4 Rf8 Rbh1 Nc3 Kf1 Rb8 Be6 Rf8 c6 Nb5 Rh5 Nd6 Nc4 Re8 Nxd6 Rxe6 Rh6 Rxh6 Rxh6 Kg8 Re6 Rc7 b5 f4 gxf4 a6 Re8+ Kg7 Rb8 axb5 Rb7 Bg8 Rxc7+ Kf6 Nxe4+ Ke6 Rd7 b4 axb4 Kf5 c7 Be6 Re7 d2 Ke2 Kxe4 Rxe6+ Kxf4 Kxd2 Kf3 c8=Q Kg4 Rg6+ Kf4 Qe6",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 Rae8 Ne4 f5 Ng3 Bg6 Bd2 c5 dxc5 Bxc5+ Kh1 Nb6 b4 axb3 Bxb3+ Bf7 Bxf7+ Rxf7 Rxe8+ Qxe8 Ne2 Qd7 h3 h6 Bf4 Qxd1+ Rxd1 Re7 Nd4 Rd7 Rb1 Bxd4 cxd4 Nc4 Rxb5 Rxd4 Bb8 Nxa3 Rxf5 Nc2 Rc5 Ne3 Ba7",
     "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765110603.7652571
+  "updated": 1765110611.9209561
 }
