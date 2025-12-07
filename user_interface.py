@@ -74,6 +74,8 @@ class UserInterface:
 
             self.event_handler = EventHandler(self.api, self.config, username, self.game_manager)
             self.event_handler_task = asyncio.create_task(self.event_handler.run())
+
+            self.team_scanner_task = asyncio.create_task(team_tournament_loop())
             if auto_t_mode:
                 self.auto_tournament_task = asyncio.create_task(auto_tournament_loop(self))
                 console.print("[bold green]Auto-tournament mode enabled (CLI flag).[/bold green]")
@@ -297,7 +299,10 @@ class UserInterface:
         self.event_handler_task.cancel()
         if hasattr(self, "auto_tournament_task"):
             self.auto_tournament_task.cancel()
+        if hasattr(self, "team_scanner_task"):
+            self.team_scanner_task.cancel()
         await self.game_manager_task
+
 
     def _rechallenge(self) -> None:
         last_challenge_event = self.event_handler.last_challenge_event
