@@ -38,12 +38,19 @@ def parse_lichess_time(raw):
 
 
 async def run_tournament(ui, tid: str, team: str | None):
-    if team:
-        _alog(f"Running tournament command: tournament {tid} {team}")
-        await ui._handle_command(["tournament", tid, team])
-    else:
-        _alog(f"Running tournament command: tournament {tid}")
-        await ui._handle_command(["tournament", tid])
+    try:
+        if team:
+            _alog(f"Joining tournament: tournament {tid} {team}")
+            await ui._handle_command(["tournament", tid, team])
+        else:
+            _alog(f"Joining tournament: tournament {tid}")
+            await ui._handle_command(["tournament", tid])
+
+        return True   
+
+    except Exception as e:
+        _alog(f"Join command failed for {tid}: {e}")
+        return False
 
 
 async def auto_tournament_loop(ui):
@@ -88,18 +95,19 @@ async def auto_tournament_loop(ui):
                 mark_processed(tid)
                 continue
 
-            _alog(f"Arena {tid} is joinable now — joining immediately!")
+            _alog(f"Arena {tid} is joinable now — joining!")
             ui.game_manager.stop_matchmaking()
+
             success = await run_tournament(ui, tid, team)
+
             if not success:
-                _alog(f"Failed to join {tid} — removing from queue.")
+                _alog(f"Join reported failure, but bot may have already joined. Removing.")
                 mark_processed(tid)
                 continue
 
-
         else:
             if now >= starts_at:
-                _alog(f"Swiss/team battle {tid} already started — cannot join, skipping.")
+                _alog(f"Swiss/team battle {tid} already started — cannot join.")
                 mark_processed(tid)
                 continue
 
@@ -121,11 +129,12 @@ async def auto_tournament_loop(ui):
             _alog(f"Swiss {tid} starting — joining now!")
             await run_tournament(ui, tid, team)
 
-        _alog(f"Monitoring tournament {tid} until it finishes.")
+        _alog(f"Monitoring tournament {tid} until it finishes...")
+
         while True:
             await asyncio.sleep(20)
             if not ui.game_manager.tournament_id:
-                break
+                break   
 
         _alog(f"Tournament {tid} finished. Resuming matchmaking.")
         ui.game_manager.start_matchmaking()
