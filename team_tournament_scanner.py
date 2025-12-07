@@ -61,7 +61,6 @@ async def fetch_team_tournaments_html(session):
             now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
             for row in rows:
-
                 link = row.find("a", href=True)
                 if not link:
                     continue
