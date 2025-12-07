@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3087,
-  "opponent": "NewChessEngine-ai",
+  "rating": 2847,
+  "opponent": "MDBOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-07T11:14:50.807320",
+  "time_control": "TC: 3+0",
+  "time_left": 34,
+  "timestamp": "2025-12-07T11:20:38.270972",
   "last_game": {
-    "result": "draw",
-    "opponent": "NewChessEngine-ai",
-    "rating_before": 3087,
-    "rating_after": 3087,
+    "result": "win",
+    "opponent": "MDBOT",
+    "rating_before": 2847,
+    "rating_after": 2847,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb8 Qc2 Re8 Kh2 Nd7 Rae1 Qb6 Nh5 f6 Qc1 Re7 Nh4 g5 Nf3 Rf7 Ng3 Rh7 Rd1 Kh8 Be1 Rg8 Qc2 g4 Nh4 gxh3 gxh3 Rhg7 Qxa4 Nf8 b4 Bd4 Nhf5 Bxf5 exf5 h5 c5 dxc5 Bd2 cxb4 Bh6 Rh7 Bxf8 Rxf8 Ne4 Rg7 Rg1 Rxg1 Kxg1 Qb7 Qd1 Qc8 Ng3 Rg8 Kf1 Rxg3 fxg3 Qxf5+ Kg2 Kg7 Rd2 Qg5 Rc2 c5 Qf3 Qg6 g4 Qg5 Qf5 Qe3 h4 b3 axb3 Qg1+ Kh3 Qe3+ Kh2 Qg1+ Kh3 Qe3+ Kg2",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 c3 Be7 Nbd2 Nc5 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 b4 O-O Bf4 Qd7 h3 h6 Re1 Kh8 Bg3 Kg8 Kh2 Rfd8 Re3 Bg5 Nxg5 hxg5 Qh5 a5 bxa5 Nxa5 Qf3 g4 hxg4 Bxg4 e6 Qxe6 Qf4 Qf5 Rxd3 Re8 Re3 Qxf4 Bxf4 Nc4 Rxe8+ Rxe8 b4 c6 Ra6 Bd7 f3 f6 Ra7 Be6 Bg3 Ne3 Bg6 Rd8 Bc7 Rc8 g4 Nd5 Bd6 Rd8 Be7 Rc8 Bd6 Rd8 Be7 Rc8 Bc5 Nf4 Be4 Bd5 Bf5 Be6 Be4 Bd5 Bc2 Re8 Kg3 Ne2+ Kh4 Nf4 Be7 g5+ Kg3 Ne2+ Kf2 Nf4 Kg3 Ne2+ Kf2 Nf4 Bb1 Kf7 Bd6+ Kg8 Be7 Kg7 Rc7 Bf7 Bd6 Re2+ Kf1 Rd2 Bxf4 Rd1+ Kg2 Rxb1 Be3 Rb2+ Bf2 Rd2 Rxc6 Bc4 Rb6 Re2 Kg3 Re6 Rb7+ Kg6 Bd4 Rd6 Rb8 Re6 Rg8+ Kh7 Rd8 Kg6 Rc8 Bf1 Rg8+ Kf7 Ra8 Bc4 Ra7+ Kg6 Rc7 Bf1 Rd7 Re2 Bf2 Re6 Rc7 Bc4 Bd4 Rd6 Ra7 Be2 Rc7 Bc4 Rc8 f5 gxf5+ Kxf5 Rc7 Kg6 Rg7+ Kh6 Rc7 Kg6 Rg7+ Kh6 Rb7 Rc6 Kg4 Be6+ Kg3 Bc4 Re7 Re6 Rc7 Rd6 Kg4 Be6+ Kg3 Bc4 Re7 Re6 Rd7 Ra6 Be5 Re6 Bd4 Ra6 Be5 Rc6 Rb7 Re6 Bg7+ Kh5 Bd4 Rc6 Rh7+ Kg6 Ra7 Kh5 Kf2 Kh6 Rd7 Ra6 Rb7 Ra2+ Kg3 Bf1 Bf2 Bc4 Rc7 Rd2 Rc6+ Kh5 Rc5 Rd5 Bd4 Rxc5 bxc5 Bd5 f4 Kg6 fxg5 Kxg5 c4 Bxc4 c6 b4 c7 Ba6 c8=Q Bxc8 Bh8 Kf5 Bg7 Bd7 Bh8 Ke4 Bg7 Bc8 Bh8 Bd7 Bg7 Be6 Bh8 b3 Bg7 Bd7 Bh8 Be6 Bg7 b2 Bxb2 Bd7 Kh4 Kd5 Kh5 Bb5 Kh6 Bd7 Kh7 Ke6 Kh8 Kd5 Kg8 Kd6 Kh8",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1765106090.8074517
+  "updated": 1765106438.2710335
 }
