@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3081,
-  "opponent": "HakoAI",
+  "rating": 2879,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2025-12-07T12:36:12.976077",
+  "time_control": "TC: 3+0",
+  "time_left": 59,
+  "timestamp": "2025-12-07T12:41:40.921911",
   "last_game": {
-    "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3081,
-    "rating_after": 3081,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2879,
+    "rating_after": 2879,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O h6 a4 Bb4 c3 Ba5 b4 Bc7 a5 f6 Re1 Ne7 Nh4 fxe5 Nxf5 exf5 dxe5 Bxe5 Bh5+ g6 f4 Nf6 a6 Bc7 Bxg6+ Kf8 axb7 Bb6+ Kh1 Rb8 Bh5 Ne4 Rf1 Ng8 Nd2 Ngf6 Bg6 Nxd2 Bxd2 Qd7 Qc2 Ne4 g4 fxg4 f5 Rxb7 Bf4 g3 Bxg3 Nxg3+ hxg3 Qd6 f6 Qxg3 Rae1 Rb8 Qf5 Qh4+ Kg2 Bc7 Re3 Qh2+ Kf3 h5 Rfe1 Qg3+ Ke2 Qf4 Qd7 Qxf6 Rf1 Bf4 Re6 Qxe6+ Qxe6 Kg7 Qf7+ Kh6 Qxf4+ Kxg6 Rg1+ Kh7 Qc7+ Kh6 Qg7#",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 Bxg7 Kxg7 e5 Ne4 Nxe4 dxe4 Ng5 Bf5 f3 exf3 Nxf3 Qd5 Bd3 Bxd3 Qxd3 Na6 a4 Qa5+ c3 Nc7 O-O Rad8 b4 Qa6 c4 Ne6 Qc3 Qb6 Rad1 Rd7 h4 h5 Rd2 a5 b5 cxb5 axb5 Rc8 Rc1 Kg8 Qb2 a4 Kh2 Rdd8 Kh1 Ng7 c5 Qe6 Qa2 Qd7 Qxa4 Qg4 Qb3 Nf5 e6 f6 d5 Qg3 Qc3 b6 c6 Ra8 Kg1 Nd6 Qd4 Nxb5 Qxb6 Nd6 Qf2 Qxf2+ Rxf2 Nb5 Rd2 Nc7 Rc5 Kg7 Kf2 Ra6 g3 Rd6 Ke2 Rd8 Kf1 Rd6 Ke1 Ra3 Kf2 Ra6 Ke2 Rd8 Ke3 Ra3+ Kf2 Raa8 Ke1 Ra1+ Kf2 Ra6 Ke3 Ra3+ Kf2 Raa8 Nd4 f5 Ne2 Nxe6 Rc1 Nc7 Nf4 Rd6 Rb2 Kf6 Rc5 Re8 Rb7 Rc8 Rb3 g5 hxg5+ Kxg5 Rf3 Nxd5 Nxd5 Rcxc6 Rxf5+ Kxf5 Nxe7+ Kg4 Rxc6 Rxc6 Nxc6 h4 Ne5+ Kf5 gxh4 Kxe5 Kg3 Kf6 Kg4 Kg7 h5 Kh8 h6 Kg8 Kg5 Kh8 Kg6 Kg8 Kf5 Kh8 Kg5 Kg8 Kf6 Kh8 Kg6 Kg8 Kh5 Kh8 Kg5 Kg8 Kg6 Kh8 Kh5 Kg8 Kg6 Kh8 h7",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "stalemate"
   },
-  "updated": 1765110972.9761403
+  "updated": 1765111300.9219751
 }
