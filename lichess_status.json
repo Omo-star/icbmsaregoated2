@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3092,
-  "opponent": "Bot1nokk",
+  "opponent": "VEER-OMEGA-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 84,
-  "timestamp": "2025-12-07T10:47:56.896157",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 0,
+  "timestamp": "2025-12-07T10:48:12.857844",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
+    "result": "loss",
+    "opponent": "VEER-OMEGA-BOT",
     "rating_before": 3092,
     "rating_after": 3092,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
-    "duration": 146,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Kh3 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Rg1 Kxg1",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1765104476.896336
+  "updated": 1765104492.85802
 }
