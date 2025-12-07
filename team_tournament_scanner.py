@@ -12,14 +12,29 @@ def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
 
+def parse_time_text(text):
+    text = text.strip()
+
+    if text.lower() == "playing right now":
+        return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+
+    m = re.match(r"in (\d+) hours?", text)
+    if m:
+        hours = int(m.group(1))
+        return datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc) + datetime.timedelta(hours=hours)
+
+    try:
+        dt = datetime.datetime.strptime(text, "%b %d, %Y, %I:%M %p")
+        return dt.replace(tzinfo=datetime.timezone.utc)
+    except:
+        return None
+
 async def fetch_team_tournaments_html(session):
     url = f"https://lichess.org/team/{TEAM}/tournaments"
 
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5",
-        "Connection": "keep-alive"
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html",
     }
 
     try:
@@ -35,11 +50,11 @@ async def fetch_team_tournaments_html(session):
 
             container = soup.find("div", class_="team-tournaments__next")
             if not container:
-                _log("Could not find upcoming tournaments container")
                 return []
 
             rows = container.find_all("tr", class_=lambda c: c and "enterable" in c)
-            tournaments = []
+
+            upcoming = []
 
             for row in rows:
                 link = row.find("a", href=True)
@@ -48,10 +63,26 @@ async def fetch_team_tournaments_html(session):
 
                 href = link["href"]
                 m = re.match(r"^/tournament/([A-Za-z0-9]{8,12})$", href)
-                if m:
-                    tournaments.append(m.group(1))
+                if not m:
+                    continue
 
-            return list(set(tournaments))
+                tid = m.group(1)
+
+                time_cell = row.find("td", string=True)
+                if not time_cell:
+                    continue
+
+                start_time = parse_time_text(time_cell.text)
+                if not start_time:
+                    continue
+
+                now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+                delta = (start_time - now).total_seconds()
+
+                if delta <= 0 or delta <= 300:
+                    upcoming.append(tid)
+
+            return upcoming
 
     except Exception as e:
         _log(f"Error scraping tournaments: {e}")
@@ -62,17 +93,17 @@ async def realtime_team_scanner(_, interval=30):
 
     async with aiohttp.ClientSession() as session:
         while True:
-            if len(SEEN) > 500:
+            if len(SEEN) > 300:
                 SEEN.clear()
 
             tournaments = await fetch_team_tournaments_html(session)
 
             if not tournaments:
-                _log("No tournaments found on HTML page")
+                _log("No tournaments within join window")
                 await asyncio.sleep(interval)
                 continue
 
-            _log(f"Found {len(tournaments)} upcoming tournaments")
+            _log(f"Joinable tournaments: {tournaments}")
 
             for tid in tournaments:
                 if tid in SEEN:
