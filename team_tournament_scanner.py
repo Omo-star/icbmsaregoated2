@@ -94,4 +94,6 @@ async def realtime_team_scanner(api=None, interval=30):
         await asyncio.sleep(interval)
 
 
-team_tournament_loop = realtime_team_scanner
+async def team_tournament_loop(api):
+    return await realtime_team_scanner(api, interval=30)
+
