@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "duchessAI",
+  "rating": 2886,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-07T12:50:23.369169",
+  "time_control": "TC: 3+0",
+  "time_left": 177,
+  "timestamp": "2025-12-07T12:50:44.159248",
   "last_game": {
-    "result": "win",
-    "opponent": "duchessAI",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 2886,
+    "rating_after": 2886,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6 Bd3 O-O Qf3 Bxc3+ bxc3 d5 O-O dxe4 Bxe4 Nxe4 Qxe4 Qd5 Qxd5 cxd5 f3 Bf5 Rf2 Rab8 g4 Bg6 Bf4 Rfc8 h4 h5 gxh5 Bxh5 Re1 f6 Re7 Rb1+ Kh2 Bf7 Rfe2 Ra1 Bxc7 Rxa2 Rg2 Ra3 h5 Rxc3 h6 g6 Bg3 a5 Ra7 Rxf3 h7+ Kg7 Re2 g5 Ree7 Kxh7 Rxf7+ Kg6 Rfc7 Rxc7 Rxc7 d4 Rc4 Rc3 Rxd4 Rxc2+ Kg1 Rc1+ Kg2 Ra1 Rd2 Kh5 Rf2 Kg6 Rc2 f5 Be5 Ra3 Bd6 Rd3 Be7 Rd7 Bf8 Rf7 Ba3 a4",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bd7 Nf5 Qe6 Ng7 Qe7 Nf5 Qe6 Ng7 Qe7 Nf5",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765111823.3692846
+  "updated": 1765111844.1593888
 }
