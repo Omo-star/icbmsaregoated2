@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "Lambergar",
+  "rating": 2881,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2025-12-07T12:42:57.222700",
+  "time_control": "TC: 3+0",
+  "time_left": 175,
+  "timestamp": "2025-12-07T12:43:14.964738",
   "last_game": {
-    "result": "win",
-    "opponent": "Lambergar",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "draw",
+    "opponent": "PositionalAI",
+    "rating_before": 2881,
+    "rating_after": 2881,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 Bg5 Be7 Bd3 dxe4 Bxe4 Nxe4 Nxe4 f6 Bf4 Nc6 c3 Qd7 Qe2 b6 O-O a5 Rfe1 Ba6 Qe3 O-O-O Rad1 g5 Bg3 h6 Ned2 e5 dxe5 f5 e6 Qe8 Ne5 f4 Qe4 Bb7 Nf7 fxg3 hxg3 h5 Nxh8 Qxh8 Nc4 Rf8 Rd7 h4 gxh4 Rf4 Qd3 Rxh4 Kf1 Qh5 f3 g4 Re4 Rh1+ Ke2 Qh4 Kd2 Qf2+ Re2 Qf1 Qd5 gxf3 gxf3 Qc1+ Kd3 Rd1+ Rd2 Nb4+ cxb4 Bxd5 Rxd5 Bxb4 Rxd1 Qxd1+ Ke4 Qc2+ Kd4 Bc5+ Rxc5 bxc5+ Kxc5 Qf5+ Kc6 Qxe6+ Kc5 Qf5+ Kc6 Qxf3+ Kc5 Qh5+ Kd4 c5+ Ke3 Qg5+ Ke4 Qg4+ Kd3 Qd4+ Kc2 Qxc4+ Kb1 a4 b3 Qe2 bxa4 Qd2",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765111377.2227745
+  "updated": 1765111394.9648345
 }
