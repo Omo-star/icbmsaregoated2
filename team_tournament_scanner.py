@@ -11,7 +11,7 @@ def _log(msg):
     ts = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[RTTeamScanner {ts}] {msg}")
 
-async def fetch_team_tournaments(api_session, token):
+async def fetch_team_tournaments(api, token):
     url = f"https://lichess.org/api/team/{TEAM}/tournaments?nb=200"
 
     headers = {
@@ -21,26 +21,28 @@ async def fetch_team_tournaments(api_session, token):
     }
 
     try:
-        async with api_session.get(url, headers=headers) as r:
-            if r.status != 200:
-                _log(f"HTTP {r.status} fetching team tournaments")
-                return []
+        r = await api.request("GET", url, headers=headers)
 
-            raw = await r.text()
-            lines = raw.strip().split("\n")
-            tournaments = []
+        if r.status != 200:
+            _log(f"HTTP {r.status} fetching team tournaments")
+            return []
 
-            for line in lines:
-                try:
-                    tournaments.append(json.loads(line))
-                except json.JSONDecodeError:
-                    continue
+        raw = await r.text()
+        lines = raw.strip().split("\n")
+        tournaments = []
 
-            return tournaments
+        for line in lines:
+            try:
+                tournaments.append(json.loads(line))
+            except json.JSONDecodeError:
+                continue
+
+        return tournaments
 
     except Exception as e:
         _log(f"Error fetching team tournaments: {e}")
         return []
+
 
 
 async def realtime_team_scanner(api=None, interval=30):
@@ -56,7 +58,8 @@ async def realtime_team_scanner(api=None, interval=30):
         if len(SEEN) > 500:
             SEEN.clear()
 
-        tournaments = await fetch_team_tournaments(api.session, token)
+        tournaments = await fetch_team_tournaments(api, token)
+
 
         if not tournaments:
             _log("No tournaments returned from API")
