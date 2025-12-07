@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2857,
-  "opponent": "NewChessEngine-ai",
+  "rating": 3086,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 138,
-  "timestamp": "2025-12-07T11:35:47.855045",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 0,
+  "timestamp": "2025-12-07T11:36:56.228145",
   "last_game": {
-    "result": "draw",
-    "opponent": "NewChessEngine-ai",
-    "rating_before": 2857,
-    "rating_after": 2857,
+    "result": "loss",
+    "opponent": "Cheszter",
+    "rating_before": 3086,
+    "rating_after": 3086,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Re1 Bf5 f3 h5 Bb5 Nb4 Ba4 b5 Bb3 Rab8 h4 Rfc8 a3 Nc6 g4 Bxc2 Bxc2 b4 axb4 Qxb4 Nd3 Qa5 Na4 Qxd2+ Kxd2 hxg4 fxg4 Nxd4 Bd1 Ne4+ Ke3 Rc4 Rhf1 f6 Nc3 e6 Rg1 g5 h5 a5 Ne2 f5 Nxd4 f4+ Nxf4 gxf4+ Kxf4 Rxd4 Ke5 Rd2 g5 Rdxb2 Ref1 Nf2 Kxe6 R2b6+ Ke5 Re8+ Kd4 Rb4+ Kc5 Ne4+ Kc6 Rc8+ Kd7 Rbc4 h6+ Kg6 Bg4 R4c7+ Ke6 Re8+ Kxd5 Rc5+ Kd4 Rxg5 Bf5+ Kxh6 Bxe4 Rxg1 Rxg1 a4 Rg6+ Kh5 Rg3 a3 Bg6+ Kh4",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 b5 Na5 Qf6 Nd2 c5 Qe2 Nb6 f3 Qd6 Rfc1 Be6 Nb7 Qc6 Na5 Qd7 b3 Qc8 Nf1 c6 Bd2 Qc7 Qf2 Rad8 Ne3 Rd7 a3 Nc8 Nf1 h6 Qe1 Ne7 Be3 Ng6 Rcb1 a6 Qc3 Nf4 b4 c4 dxc4 bxc4 Bc5 Ne2 Qe1 Nd4 Ne3 Rb8 Bxf8 Rxf8 Rb2 c5 Naxc4 cxb4 Qxb4 Ne2 Nb6 Rb8 Qa5 Rdd8 a4 Kh7 Ned5 Bxd5 exd5 e4 Qd2 exf3 gxf3 Nc3 a5 Nxd5 c4 Nf4 Qe3 Rd3 Qe4+ g6 Rf2 Rd6 Nd5 Nxd5 cxd5 Qc5 Qc2 Qxd5 Qe4 Qg5 h4 Qf6 Ra4 Rb2 Kg2 Rxf2+ Kxf2 Qb2+ Kg3 Rd1 h5 Rg1+ Kf4 Qd2+ Ke5 Rg5+ Kf6 Qd8+ Kxf7 Rf5+ Ke6 Rf6+ Ke5 Qd6#",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1765107347.8551347
+  "updated": 1765107416.228221
 }
