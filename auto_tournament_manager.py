@@ -90,7 +90,12 @@ async def auto_tournament_loop(ui):
 
             _alog(f"Arena {tid} is joinable now — joining immediately!")
             ui.game_manager.stop_matchmaking()
-            await run_tournament(ui, tid, team)
+            success = await run_tournament(ui, tid, team)
+            if not success:
+                _alog(f"Failed to join {tid} — removing from queue.")
+                mark_processed(tid)
+                continue
+
 
         else:
             if now >= starts_at:
