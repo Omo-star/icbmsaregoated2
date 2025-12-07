@@ -6,7 +6,7 @@ from tournament_queue import add_tournament
 
 TEAM = "darkonbot"
 URL = f"https://lichess.org/team/{TEAM}"
-REGEX = r"lichess\.org/tournament/([A-Za-z0-9]{8})"
+REGEX = r"/tournament/([A-Za-z0-9]{8})"
 SEEN = set()
 
 def _log(msg):
