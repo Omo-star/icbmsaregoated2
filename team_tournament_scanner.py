@@ -17,27 +17,27 @@ async def _fetch_html(session):
     try:
         async with session.get(URL) as r:
             if r.status != 200:
-                _log(f"HTTP {r.status}")
                 return ""
             return await r.text()
-    except Exception as e:
-        _log(f"Error {e}")
+    except:
         return ""
 
 async def _get_tournament_info(session, tid):
-    api = f"https://lichess.org/api/tournament/{tid}"
     try:
-        async with session.get(api) as r:
+        async with session.get(f"https://lichess.org/api/tournament/{tid}") as r:
             if r.status != 200:
                 return None
             return await r.json()
     except:
         return None
 
-async def realtime_team_scanner(interval=15):
+async def realtime_team_scanner(interval=30):
     headers = {"User-Agent": "BotLi-RealTimeScanner"}
     async with aiohttp.ClientSession(headers=headers) as session:
         while True:
+            if len(SEEN) > 200:
+                SEEN.clear()
+
             html = await _fetch_html(session)
             if not html:
                 await asyncio.sleep(interval)
@@ -57,21 +57,20 @@ async def realtime_team_scanner(interval=15):
                     SEEN.add(tid)
                     continue
 
-                start_ms = int(start)
                 now_ms = int(datetime.datetime.utcnow().timestamp() * 1000)
-                delta = (start_ms - now_ms) / 1000
+                delta = (int(start) - now_ms) / 1000
 
                 if delta <= 300:
                     add_tournament(tid, TEAM)
                     _log(f"JOIN NOW {tid}, starts in {int(delta)}s")
-                else:
-                    _log(f"Seen {tid}, starts in {int(delta)}s")
+                elif delta < 7200:
+                    _log(f"Detected {tid}, starts in {int(delta)}s")
 
                 SEEN.add(tid)
 
             await asyncio.sleep(interval)
 
+team_tournament_loop = realtime_team_scanner
+
 if __name__ == "__main__":
     asyncio.run(realtime_team_scanner())
-
-team_tournament_loop = realtime_team_scanner
