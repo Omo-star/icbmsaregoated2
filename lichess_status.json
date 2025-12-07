@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "duchessAI",
+  "rating": 2883,
+  "opponent": "MaggiChess16",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-07T12:44:23.196541",
+  "time_control": "TC: 3+0",
+  "time_left": 157,
+  "timestamp": "2025-12-07T12:45:27.845164",
   "last_game": {
-    "result": "win",
-    "opponent": "duchessAI",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "result": "draw",
+    "opponent": "MaggiChess16",
+    "rating_before": 2883,
+    "rating_after": 2883,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qa5+ Bd2 Qb6 Bd3 Be7 Qe2 f5 exf6 Nxf6 Bc3 O-O Nxf6+ Bxf6 Bxf6 Rxf6 O-O-O a5 Rhe1 Rb8 Qe5 c5 Bc4 d5 Rxd5 exd5 Bxd5+ Be6 Bxe6+ Kh8 f5 Rff8 a3 a4 Re4 Qa7 g4 Rb7 g5 Qa6 Bc4 Qa5 Rh4 Qd8 Qf4 Qd4 Qxd4 cxd4 g6 h6 Rxd4 Ra7 Be6 Rb8 Kb1 Raa8 Ka2 Ra5 Rb4 Rab5 c3 h5 b3 axb3+ Kxb3 Rxb4+ axb4 Rd8 b5 Rd3 Kb4 h4 b6 Rd6 Kc5 h3 Bc8 Rd2 b7 Rb2 c4 Kg8 Kc6",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Ke2 Nf4+ Kf1 Nd5 Rxc5 Nxe3+ fxe3 Rb8 Rc4 Rxb2 Rxa4 Kf7 a3 Kg6 Rb4 Ra2 a4 h5 gxh5+ Kxh5 Rf4 g5 Rxf6 Rxa4 g3 g4 e4 Rxe4 Rf2 Re3 Ra2 Rxg3 Ra8 Kh6 Rh8+ Kg7 Re8 Kh7 Rf8 Kg7 Re8 Kh7 Rf8 Kg7 Re8",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1765111463.196636
+  "updated": 1765111527.845248
 }
