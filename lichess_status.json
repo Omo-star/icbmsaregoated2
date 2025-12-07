@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3080,
-  "opponent": "Tacticall_Bot",
+  "opponent": "Lambergar",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-07T12:29:41.863633",
+  "time_left": 8,
+  "timestamp": "2025-12-07T12:30:03.759063",
   "last_game": {
-    "result": "draw",
-    "opponent": "Tacticall_Bot",
+    "result": "win",
+    "opponent": "Lambergar",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Be2 Rc3 Ke1 Kd6 Kd2 Rc2+ Ke3 Rc3+ Kd2 Rc2+ Ke3 Rb2 g3 Rb3+ Kd2 Rb2+ Ke3 Bc6 Bc4 Rc2 Bd3 Rb2 Rb1 Ra2 b5 Bd5 b6 axb6 Rxb6+ Ke7 Ra6 g5 Ra7+ Kf8 Be2 f5 Bd1 Rb2 a4 Rb1 Bc2 Re1+ Kd3 f4 gxf4",
+    "moves": "Nf3 d5 c4 d4 d3 c5 g3 Nc6 Bg2 e5 e3 Bd6 exd4 cxd4 O-O Nf6 Bg5 O-O Nbd2 h6 Bxf6 Qxf6 a3 Bf5 Re1 Bxd3 Qb3 Bh7 Qxb7 Be7 b4 d3 Rab1 Rac8 Qa6 g5 h3 h5 c5 g4 hxg4 hxg4 Nh2 Nd4 Qxf6 Bxf6 Nxg4 Bg7 Ne3 f5 Bd5+ Kh8 Kg2 Bf6 Rh1 Rc7 Bc4 e4 Nd5 Rg7 Rh5 Ne2 Nxf6 Rxf6 Rh4 Rf8 Rbh1 Nc3 Kf1 Rb8 Be6 Rf8 c6 Nb5 Rh5 Nd6 Nc4 Re8 Nxd6 Rxe6 Rh6 Rxh6 Rxh6 Kg8 Re6 Rc7 b5 f4 gxf4 a6 Re8+ Kg7 Rb8 axb5 Rb7 Bg8 Rxc7+ Kf6 Nxe4+ Ke6 Rd7 b4 axb4 Kf5 c7 Be6 Re7 d2 Ke2 Kxe4 Rxe6+ Kxf4 Kxd2 Kf3 c8=Q Kg4 Rg6+ Kf4 Qe6",
     "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1765110581.8637826
+  "updated": 1765110603.7652571
 }
