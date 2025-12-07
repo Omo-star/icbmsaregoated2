@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "Ayaangamerzbot2",
+  "rating": 2875,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-07T12:24:52.542266",
+  "time_control": "TC: 3+0",
+  "time_left": 122,
+  "timestamp": "2025-12-07T12:27:16.899559",
   "last_game": {
     "result": "draw",
-    "opponent": "Ayaangamerzbot2",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "opponent": "Cheszter",
+    "rating_before": 2875,
+    "rating_after": 2875,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 Nf6 d4 e6 Bf4 Bd6 Bg3 c5 Nbd2 Bxg3 hxg3 Qb6 Rb1 cxd4 cxd4 Bd7 e3 Bb5 Bxb5+ Qxb5 Qb3 Qa6 Qa3 Qxa3 bxa3 b6 Ne5 O-O Ke2 Nfd7 Nxd7 Nxd7 Rhc1 Nf6 a4 Rfc8 f3 h5 a5 bxa5 Rxc8+ Rxc8 Rb5 a4 Ra5 g5 Rxa7 Ne8 Rxa4 Kg7 Ra5 Rc3 Rc5 Ra3 Rc2 Nd6 Nb1 Ra4 a3 Nc4 Rc3 f5 Rb3 Ra6 Kd3 Kg6 e4 fxe4+ fxe4",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "c4 d6 Nc3 e5 e3 Nf6 d4 g6 Be2 Nbd7 Qc2 Bg7 Nf3 O-O O-O c6 e4 exd4 Nxd4 Re8 Rd1 Nc5 f3 Nh5 Be3 Qe7 b4 Ne6 Qd2 Nhf4 Bxf4 Nxd4 Bf1 Be6 Rab1 b6 a4 f5 Kh1 Qf8 Re1 fxe4 Nxe4 Rad8 Bg5 Rd7 Be3 c5 a5 Rdd8 h3 d5 Ng5 Bf5 cxd5 Bxb1 Rxb1 Qf5 Bd3 Qxd5 Be4 Qc4 Bd3 Qd5 Be4 Qc4 Bd3 Qd5",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765110292.5423915
+  "updated": 1765110436.8996556
 }
