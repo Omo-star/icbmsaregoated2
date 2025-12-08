@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "HakoAI",
+  "rating": 2896,
+  "opponent": "MDBOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2025-12-08T12:44:20.252827",
+  "time_control": "TC: 3+0",
+  "time_left": 82,
+  "timestamp": "2025-12-08T12:49:56.252279",
   "last_game": {
     "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "opponent": "MDBOT",
+    "rating_before": 2896,
+    "rating_after": 2896,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nfxd5 Bg5 Be7 Bxe7 Qxe7 Qa5 Ne3 Qxb6 Nxd1 Bc4 Rc8 Nd2 d5 Bb3 Nxb2 Kxb2 Rc5 Nb1 d4 Re1 Rb5 Qa7 O-O Qxd4 exd4 Rxe7 a5 Na3 Rg5 g3 Rf5 f4 b5 Rd7 Re8 Bd5 d3 Nxb5 d2 Bc4 Re4 Kc3 Rc5 Na3 Re3+ Kb2 h4 Bxf7+ Kf8 Bc4 hxg3 hxg3 Rxg3 Rxd2 Rxa3 Bb3 Rxb3+ axb3 Rh5 Ka3 Rh4 Rg2 Kf7 Ka4 Rxf4+ Kxa5 Rf5+ Ka4 g5 c3 Rf4+ b4 g4 Kb3 Ke6 c4 Kd6 c5+ Kd5 Rd2+ Rd4 Rxd4+ Ke6 Rxg4 Kf7 c6 Kf8 c7 Ke8 c8=Q+ Kf7 b5 Ke7 b6 Kf7 b7 Ke7 b8=Q Kf7 Qe6+ Kxe6 Qd6+ Kf7 Qe7+ Kxe7 Rg6 Kf7 Rh6 Kg8 Rd6 Kf8 Rd7 Ke8 Rh7 Kf8 Ra7 Kg8 Kc4 Kh8 Rd7 Kg8 Kd5 Kh8 Ke6 Kg8 Kf6 Kh8 Kg6 Kg8 Rd8#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 Rde8 Rb5 e4 Rd7 e3 Qd5+ Qe6 Rbb7 exf2+ Kf1 Kh8 Qxe6 Rxe6 Rf7 Rd8 Kxf2 bxc3 bxc3 Rd2+ Kf3 Rd3+ Kf4 h6 Rxg7 Rxc3 Rh7+ Kg8 Rbg7+ Kf8 Rb7 Kg8 Rhg7+ Kf8 Rbf7+ Ke8 Rb7 Kf8 b4 Rce3 Rbf7+ Ke8 Rb7 Kf8 Rgc7 R6e4+ Kf5 h5 b5 Re5+ Kg6 Rxg3+ Kf6 Re8 Rf7+ Kg8 Rg7+ Rxg7 Rxg7+ Kh8 b6 Rb8 b7 h4 Rc7 Rf8+ Kg5 h3 Rc8 Kg7 Rxf8 h2 b8=Q h1=Q Rg8+ Kh7 Rh8+ Kg7 Rxh1 Kf7 Qe8+ Kxe8 Rh7 Kf8 Kg6 Ke8 Kf6 Kf8 Rh8#",
+    "duration": 180,
     "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1765197860.2530107
+  "updated": 1765198196.252431
 }
