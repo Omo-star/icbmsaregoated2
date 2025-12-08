@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3084,
-  "opponent": "VEER-OMEGA-BOT",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 18,
-  "timestamp": "2025-12-08T10:49:46.793038",
+  "opponent": "DarkOnBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-08T10:51:08.256954",
   "last_game": {
     "result": "draw",
-    "opponent": "VEER-OMEGA-BOT",
+    "opponent": "DarkOnBot",
     "rating_before": 3084,
     "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "g3 g6 c4 c5 f4 f5 a3 Ne6 Bd5 Nc7 Bxg8 Rxg8 b4 Bxa1 Qxa1 Ne6 bxc5 Nxc5 Qb2 b6 d4 Ne4 Nf3 h5 Ne3 e6 a4 Qd6 Rb1 g5 fxg5 f4 gxf4 Qxf4 Qa3 Nd6 d5 Nxc4 Nxc4 Rxc4 dxe6 dxe6 Nd2 Qh4+ Kd1 Rc5 a5 Rxa5 Qc3 Qa4+ Ke1 Qh4+ Kd1 Qa4+ Ke1 Qh4+ Kd1",
-    "duration": 114,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Kh2 Nf6 Nxf5+ gxf5 h4 Ne4 Bf3 Kg6 Bg2 Nf6 Kg3 Ne4+ Kh3 Rb8 Bf3 Ra8 Kg2 Ra2 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bf3 Ra2 Kg2 Ra8 Kh2 Ra5 Bg2 Rb5 Kh3 Rb7 Bf1 Nd6 Bg2 Ne4 Bf3 Rb8 Rc2 Ra8 Kg2 Ra1 Kh2 Ra2 Re2 Ra8 Bg2 Ra2 Bf3",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765190986.7932131
+  "updated": 1765191068.2570772
 }
