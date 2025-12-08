@@ -336,13 +336,9 @@ matchmaking:
       tc: 3+0
       variant: standard
       rated: true
-    crazyhouse:
-      tc: 0.5+0
-      variant: crazyhouse
-      rated: true
-    antichess:
-      tc: 0.5+0
-      variant: antichess
+    rapid:
+      tc: 10+0
+      variant: standard
       rated: true
     
   optional_settings:
