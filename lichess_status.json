@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2978,
-  "opponent": "BorkaTower",
+  "rating": 3075,
+  "opponent": "Tacticall_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 433,
-  "timestamp": "2025-12-08T17:29:33.506588",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2025-12-08T17:30:34.945535",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 2978,
-    "rating_after": 2978,
+    "opponent": "Tacticall_Bot",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e6 Nc3 c5 Nf3 Nc6 h3 d5 exd5 exd5 Bb5 Nf6 d4 Bd6 O-O O-O Bg5 Be6 dxc5 Bxc5 Bh4 h6 Re1 a6 Bxc6 bxc6 Qd3 Re8 Rad1 Be7 b3 Qa5 Ne2 Bd7 Ne5 Bd6 Bxf6 Bxe5 Bxe5 Rxe5 Qc3 Qxc3 Nxc3 Rxe1+ Rxe1 Bf5 Re2 Rc8 Na4 c5 Nb6 Rd8 Na4 Rc8 Nb6 Rd8 Na4 Rc8",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Bd2 a6 a4 b6 b4 Bf8 Qe2 c5 b5 Bd6 Bc3 f6 Nh4 Nf8 Nf5 Ne6 Qg4 g6 Nfxd6 cxd6 a5 axb5 Nxb6 Ra7 Bd2 Bb7 c3 Bc6 Be3 d5 Rfc1 Kg7 Qe2 d4 cxd4 exd4 Bd2 f5 f3 Rf7 Re1 fxe4 fxe4 Nf4 Bxf4 Rxf4 Rf1 Rxf1+ Rxf1 c4 dxc4 Rxe4 Qf3 bxc4",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765214973.5066965
+  "updated": 1765215034.9456372
 }
