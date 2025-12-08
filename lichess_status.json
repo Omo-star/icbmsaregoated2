@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2896,
-  "opponent": "MDBOT",
+  "rating": 3076,
+  "opponent": "PINEAPPLEMASK",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 82,
-  "timestamp": "2025-12-08T12:49:56.252279",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2025-12-08T12:51:35.134830",
   "last_game": {
-    "result": "win",
-    "opponent": "MDBOT",
-    "rating_before": 2896,
-    "rating_after": 2896,
+    "result": "loss",
+    "opponent": "PINEAPPLEMASK",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 Rde8 Rb5 e4 Rd7 e3 Qd5+ Qe6 Rbb7 exf2+ Kf1 Kh8 Qxe6 Rxe6 Rf7 Rd8 Kxf2 bxc3 bxc3 Rd2+ Kf3 Rd3+ Kf4 h6 Rxg7 Rxc3 Rh7+ Kg8 Rbg7+ Kf8 Rb7 Kg8 Rhg7+ Kf8 Rbf7+ Ke8 Rb7 Kf8 b4 Rce3 Rbf7+ Ke8 Rb7 Kf8 Rgc7 R6e4+ Kf5 h5 b5 Re5+ Kg6 Rxg3+ Kf6 Re8 Rf7+ Kg8 Rg7+ Rxg7 Rxg7+ Kh8 b6 Rb8 b7 h4 Rc7 Rf8+ Kg5 h3 Rc8 Kg7 Rxf8 h2 b8=Q h1=Q Rg8+ Kh7 Rh8+ Kg7 Rxh1 Kf7 Qe8+ Kxe8 Rh7 Kf8 Kg6 Ke8 Kf6 Kf8 Rh8#",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 Bd6 a4 Nf8 b3 Ng6 Bd2 b6 Ne3 f6 Ng1 Be6 Ne2 c5 Ng3 Ne7 Nh5 Nc6 f4 exf4 Nxf4 Be5 Nxe6 Rxe6 Rb1 Qe8 Qg4 Nd4 Rf2 Rd8 Rbf1 a6 Nc4 Nc6 Ne3 Nd4 Nc4 Nc6 Rf3 b5 Ne3 Nd4 Rh3 Qg6 Qh4 Ree8 Qf2 Rd7 Bc3 c6 a5 Kh8 Rh4 Kg8 Bb2 Bc7 b4 Bd6 Rh3 Ne6 Nf5 cxb4 Qb6 Bb8 Qxa6 Rc7 Rhf3 h6 Bc1 Ba7 Rg3 Qh5 Re1 Kh7 Rh3 Qg6 Rg3 Qf7 Rf1 Qf8 d4 Ra8 d5 Nc5 Nxg7 Nxa6 Ne6 Qf7 Rh3 cxd5 Nxc7 Nxc7 e5 Bd4 Bxh6 Kg6 exf6 Qxf6 Bf4 Ne6 Rh6+ Kg7 Rxf6 Bxf6 Bd6 Rxa5 Bxb4 Ra1 Rxa1 Bxa1 g4 Nd4 Kg2 Nxc2 Bd2 b4 Bxb4 Nxb4 h4 d4 h5 Kh6 g5+ Kxg5 Kh3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1765198196.252431
+  "updated": 1765198295.1410642
 }
