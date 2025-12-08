@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2887,
-  "opponent": "Pat9471",
+  "opponent": "PetersBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 10,
-  "timestamp": "2025-12-08T10:39:20.903391",
+  "time_control": "TC: 3+1",
+  "time_left": 37,
+  "timestamp": "2025-12-08T10:46:03.146002",
   "last_game": {
-    "result": "draw",
-    "opponent": "Pat9471",
+    "result": "win",
+    "opponent": "PetersBot",
     "rating_before": 2887,
     "rating_after": 2887,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Bf1 Be7 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 d5 h3 Rc8 Bf4 a6 Re3 Rc6 Bd3 Rce6 Qe2 Qe7 Re1 Bg7 Qc2 Qf6 Be5 Qd8 b3 Nd6 dxc5 bxc5 Bxg7 Rxe3 Rxe3 Rxe3 Qc1 Kxg7 Qxe3 c4 bxc4 dxc4 Be2 Bc6 a5 Qf6 Ne5 Nf5 Qc5 Bb5 Qd5 Ne7 Qd4 Nf5 Qd5 Ne7 Qd4 Nf5 Qf4 Nd6 Qe3 Nf5 Qf4 Nd6 Qe3 Nf5 Qe4 Qe7 g4 hxg4 hxg4 Nd6 Qd4 f6 Nxc4 Qxe2 Nxd6 Bc6 Kh2 Qf3 Qa7+ Kg8 Qf7+ Kh8 Qf8+ Kh7 Qe7+ Kh8 Qf8+ Kh7 Qe7+ Kg8 Qd8+ Kh7 Qc7+ Kg8 Qd8+ Kh7 Qc7+ Kh8 Qb8+ Kg7 Qc7+ Kh8 Nf7+ Kg8 Nh6+ Kh8 Nf7+ Kg8 Nh6+ Kh8 Nf7+",
-    "duration": 450,
+    "moves": "d4 Nf6 c4 e6 Nf3 Ba3 Nxa3 O-O g3 d6 Bg2 e5 dxe5 dxe5 Qxd8 Rxd8 Nxe5 Re8 Bf4 Na6 Nb5 Nh5 Bd5 Re7 Bxf7+ Rxf7 Nxf7 Kxf7 Bxc7 Nf6 Ba5 Bd7 f3 b6 Bc3 Bxb5 cxb5 Nc5 Kf2 a6 bxa6 Rxa6 Rhd1 g5 Bxf6 Kxf6 b4 Ne6 a4 Ke7 Ra3 h5 Rd5 g4 Rxh5 gxf3 Rh7+ Kf8 Rxf3+ Kg8 Re7 Ng7 Rf6 Kh7 Rff7 Kh6 Rxg7 b5 Rh7+ Kg5 Reg7+ Kf6 Rh6+ Kxg7 Rxa6 bxa4 Rxa4 Kf6 e3 Ke5 h3 Ke4 g4 Kd3 e4 Kc2 h4 Kb1 b5 Kc1 e5 Kb1 g5 Kc1 h5 Kb1 b6 Kc1 e6 Kb1 g6 Kc1 h6 Kb1 b7 Kc1 b8=Q Kd1 g7 Kc1 g8=Q Kd1 h7 Kc1 h8=Q Kd1 e7 Kc1 e8=Q Kd1 Ra1+ Kc2 Qe2#",
+    "duration": 303,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1765190360.903571
+  "updated": 1765190763.1460667
 }
