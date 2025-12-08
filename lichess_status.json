@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "Joao-Pedro-Tristao",
+  "rating": 2977,
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 3,
-  "timestamp": "2025-12-08T15:31:01.714639",
+  "time_control": "TC: 10+0",
+  "time_left": 62,
+  "timestamp": "2025-12-08T15:50:54.773748",
   "last_game": {
-    "result": "draw",
-    "opponent": "Joao-Pedro-Tristao",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "win",
+    "opponent": "HakoAI",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 1,
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O h6 a4 Bb4 c3 Ba5 b4 Bc7 a5 f6 Re1 Ne7 Nh4 O-O f4 fxe5 fxe5 Bh7 Bg4 Nf5 Nxf5 Bxf5 Bh5 Kh8 Nd2 b6 Nb3 Rc8 Qe2 bxa5 Nxa5 Bxa5 Rxa5 Ra8 Be3 Nb6 Rea1 Qh4 Bf2 Qg5 h4 Qe7 Qa2 Qd7 Bg3 Be4 Qe2 Nc4 Ra6 Kh7 Bg4 Bf5 Bh5 Be4 Bg4 Bf5 Bf3 Rf7 Bh5 Rff8 Bf4 Be4 Bc1 Kh8 Qe1 Bd3 Qg3 Rf5 Bf3 Rff8 R6a2 Qe7 Kh2 Be4 Bxe4 dxe4 Re2 a5 Ra4 axb4 Rxb4 Ra1 Re1 Rxc1 Rxc1 Nd2 Kh3 Qf7 Rb2 e3 Ra1 Qf5+ Kh2 Qf7 Qg4 c5 dxc5 Qf2 Rb7 g6 Rb2 h5 Qg3 Nf3+ Qxf3 Rxf3 Rxf2 Rxf2 Kg3 Rf8 c4 g5 hxg5 Kg7 Re1 Kg6 Rxe3 Kxg5 Re4 Rf5 c6 Rf7 Re1 h4+ Kh3 Ra7 Rc1 Ra3+ Kh2 Ra7 c5 Rc7 Kh3 Kf4 Rc2 Kg5 Rf2 Ra7 c7 Rxc7 Rc2 Rc6 Rc4 Rc8 c6 Rc7 Rc2 Kh5 g4+ hxg3 Kxg3 Kg6 Kf4 Kf7 Ke3 Ke8 Kd4 Kd8 Kc5 Ra7 Kd6 Rd7+ Kxe6 Re7+ Kd5 Kc7 e6 Re8 Ra2 Kb6 c7 Kxc7 Ke5 Rb8 Ra7+ Kd8 Kf6 Ke8 Rh7 Kf8 e7+ Kg8 Rg7+ Kh8 Rg4 Re8 Kf7 Kh7 Kxe8 Kh6 Kf8 Kh7 e8=Q Kh8 Qh5#",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "mate"
   },
-  "updated": 1765207861.7147279
+  "updated": 1765209054.7738097
 }
