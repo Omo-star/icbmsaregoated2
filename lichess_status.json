@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "odonata-bot",
+  "rating": 3074,
+  "opponent": "AlPhAbEtACeta",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2025-12-08T13:57:57.577279",
+  "time_left": 17,
+  "timestamp": "2025-12-08T15:16:30.109195",
   "last_game": {
-    "result": "win",
-    "opponent": "odonata-bot",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "result": "draw",
+    "opponent": "AlPhAbEtACeta",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 a5 Rad1 a4 Rd3 axb3 axb3 Bb4 Ne2 Ra2 Nf4 Rd8 g4 g5 e6 fxe6 Bf6 Be7 Bxe7 Nxe7 Nh5 Rxc2 Ne5 Nd5 Rf3 b5 Nf7 Re8 Ne5 c5 Rd1 Rd8 Nf7 Re8 Ne5 b4 Nxd7 Kxd7 Nf6+ Kd8 h4 gxh4 Nxe8 Kxe8 Re1 Ke7 Re4 Nc3 Ree3 c4 bxc4 Ne2+ Kg2 Nd4 Rh3 Rxc4 Rxh4 Nf5 gxf5 Rxh4 Rxe6+ Kd7 Re5 Rc4 Rb5 h5 f6 Ke6 Rf5 Kf7 Rxh5 Kxf6 Kf3 c5 Ke3 b3 Rh6+ Kf5 Rb6 Rc3+ Kd2 Rc2+ Ke3 c4 Rb5+ Kf6 Rb6+ Ke7 Kd4 b2 Rb7+ Kd6 Rb6+ Kc7 Rb5 c3 Rb3 Rc1 Rxc3+ Rxc3 Kxc3 b1=Q Kd2 Qe4 Kd1 Qf3+ Ke1 Qd3 f4 Qd6 f5 Qf8 f6 Qxf6 Ke2 Kd6 Ke1 Qb2 Kd1 Ke5 Ke1 Kf4 Kd1 Kf3 Ke1 Qe2#",
+    "moves": "b3 e5 e3 d5 Bb2 Bd6 c4 c6 cxd5 cxd5 Nc3 Ne7 Nb5 Nbc6 Nxd6+ Qxd6 Bb5 d4 Ne2 O-O a4 Rd8 exd4 exd4 Ba3 Qf6 O-O a6 Bxe7 Nxe7 Bd3 Nc6 Ng3 Nb4 Bc4 d3 Qh5 g6 Qh6 Nc2 Rac1 Bf5 Kh1 Rac8 f3 Rc6 Ne4 Qg7 Qf4 Qd4 g4 Be6 h4 Rf8 Rg1 f6 Bxe6+ Rxe6 Qc7 Rfe8 Qxb7 Qd8 Qa7 Rxe4 fxe4 f5 Rg2 Rxe4 gxf5 Qxh4+ Rh2",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765202277.5774353
+  "updated": 1765206990.1093266
 }
