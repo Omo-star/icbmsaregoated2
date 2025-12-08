@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "jpg-bot",
+  "rating": 3074,
+  "opponent": "AnatolyBugarovBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+2",
-  "time_left": 201,
-  "timestamp": "2025-12-08T17:12:44.033445",
+  "time_control": "TC: 1+0",
+  "time_left": 22,
+  "timestamp": "2025-12-08T17:13:55.093356",
   "last_game": {
-    "result": "win",
-    "opponent": "jpg-bot",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "result": "draw",
+    "opponent": "AnatolyBugarovBot",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 e6 Qd2 a6 O-O-O Bd7 f4 Be7 Nf3 b5 Bxf6 gxf6 Kb1 b4 Ne2 h5 Ned4 Qb6 Bc4 Na5 Bd3 Nb7 Qe2 a5 Bb5 a4 Rhe1 Ra5 Bxd7+ Kxd7 e5 fxe5 fxe5 d5 Rf1 Rg8 Qd3 Raa8 Qe2 a3 b3 Raf8 Nb5 Nc5 Nfd4 Ne4 Qxh5 f5 exf6 Bxf6 Rxf6 Nxf6 Qh3 Rg4 Qh6 Rf7 g3 Qc5 c4 bxc3 Rd3 c2+ Kc1 Qb4 Qe3 Re4 Rc3 Ne8 Qd2 Rf1+ Kxc2 Qf8 Nxe6 Kxe6 Rc6+ Ke7 Qg5+ Nf6 Nc3 Re6 Rc5 Kf7 Rc7+ Re7 Qe5 Rxc7 Qxc7+ Kg6 Qe5 Qc5 h3 Rf2+ Kd1 Rb2 Ne2 Rb1+ Kd2 Ne4+ Qxe4+ dxe4 Nf4+ Kh7 Ne2 Rb2+ Ke1 Qe3 Kf1 Rxe2 g4 Qf2#",
-    "duration": 840,
+    "moves": "Nf3 d5 d4 Nf6 e3 e6 c4 b6 b3 Bb7 Bb2 Bd6 Bd3 O-O O-O Ne4 Qc2 f5 cxd5 Bxd5 Ne5 Bxe5 dxe5 Nc5 Bc4 Nc6 Bxd5 Qxd5 Rd1 Nb4 Qe2 Qc6 Nc3 Rad8 Nb5 a5 Nd4 Qe8 Ba3 f4 Bxb4 axb4 f3 fxe3 Qxe3 Nb7 Qe4 Nc5 Qe3 Nb7 Qe4 Nc5 Qe2 Rf7 Nc2 Qf8 Qc4 Rfd7 Rxd7 Rxd7 Nxb4 Rd2 h3 h5 Rf1 Qd8 Qf4 Re2 h4 Rb2 Rc1 Nd3 Nxd3 Qxd3 Qg5 c5 Kh1 Rxa2 Qxh5 Qxb3 Qe8+ Kh7 Qh5+ Kg8 Qe8+ Kh7 h5 Rxg2 Kxg2 Qb2+ Kh3 Qxc1 Qg6+ Kh8 Qe8+ Kh7 Qg6+ Kh8 Qxe6 Qf4 Qe8+ Kh7 Qg6+ Kg8 Qe6+ Kh8 Qe8+ Kh7 Kg2 Qg5+ Kf2 c4 e6 c3 e7 c2 Qg6+ Qxg6 hxg6+ Kh6 e8=Q c1=Q Qh8+ Kxg6 Qe8+ Kf5 Qf8+ Ke5 Qe7+ Kd4 Qd6+ Kc3 Qxb6 g6 Qd8 g5 Qh8+ Kc2 Qg8 Qh1 Qf8 g4 Qg8 gxf3 Qc8+ Kd3 Qg8 Ke4 Qe8+ Kf5 Qg8 Kf6 Qf8+ Kg6 Qg8+ Kf6 Qf8+ Kg6 Qg8+ Kf6",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1765213964.0335069
+  "updated": 1765214035.0934172
 }
