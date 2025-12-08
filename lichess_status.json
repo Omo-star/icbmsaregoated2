@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3074,
-  "opponent": "AnatolyBugarovBot",
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 26,
-  "timestamp": "2025-12-08T15:52:16.254146",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2025-12-08T15:52:17.675318",
   "last_game": {
     "result": "draw",
-    "opponent": "AnatolyBugarovBot",
+    "opponent": "GoblinAjedrezAI",
     "rating_before": 3074,
     "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "Nf3 d5 e3 a6 c4 dxc4 Bxc4 Nf6 O-O c5 d4 e6 b3 Nbd7 Bb2 Be7 dxc5 Bxc5 Nbd2 O-O Bd3 b5 a4 bxa4 Rxa4 Bb7 Rh4 Be7 Nc4 a5 Ng5 h6 Rxh6 gxh6 Qh5 Nc5 Bg6 Kg7 Nxf7 Rxf7 Bxf7 Be4 Bxf6+ Kxf6 f3 Bf5 e4 Qd4+ Kh1 Nd3 h3 Kg7 Be8 Qf6 exf5 Qxf5 Qxf5 exf5 Bc6 Rb8 Nxa5 Bd8 Nb7 Bc7 f4 h5 g3 h4 Rf3 Nb4 Nc5 Nxc6 Ne6+ Kf7 Nxc7 Rb7 Na6 Nd4 Re3 Nxb3 g4 Rb6 Nc7 Nd4 g5 Rb1+ Kg2 Rb2+ Kf1 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kg2 Rb2+ Kh1 Rf2 Kg1 Rxf4 Kg2 Kg6 Nd5 Re4 Kf2 Rxe3 Kxe3 Nc6 Kf4 Kh5 Nf6+ Kg6 Ng8 Kh5 Nf6+ Kg6 Nd5 Kh5 Kxf5 Ne7+ Nxe7",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "stalemate"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qd8",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765209136.2543387
+  "updated": 1765209137.6754308
 }
