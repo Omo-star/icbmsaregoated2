@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "MaggiChess16",
+  "rating": 2889,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-08T12:01:18.352144",
+  "time_control": "TC: 3+0",
+  "time_left": 125,
+  "timestamp": "2025-12-08T12:04:30.174172",
   "last_game": {
     "result": "draw",
-    "opponent": "MaggiChess16",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "opponent": "RaspFish",
+    "rating_before": 2889,
+    "rating_after": 2889,
     "rating_delta": 0,
-    "moves": "c4 c6 e4 d5 cxd5 cxd5 exd5 Nf6 Nc3 Nxd5 Nf3 Nc6 Bb5 g6 Qa4 Nb6 Bxc6+ bxc6 Qxc6+ Bd7 Qe4 Bf5 Qe5 f6 Qb5+ Kf7 d4 Be6 Be3 Rb8 Qa6 Bc4 Qa5 Qc8 b3 Qa6 Qxa6 Bxa6 Ne4 Nd5 Nc5 Bb5 Rc1 e6 Nd2 Be7 Nde4 Rhd8 h4 a5 a3 h5 Bd2 Nb6 Bf4 Rbc8 Be3 a4 Rb1 Bc6 bxa4 Nxa4 O-O Nxc5 Nxc5 Bxc5 dxc5 Rd3 a4 Ra3 Ra1 Rxa4 Rxa4 Bxa4 Ra1 Bd7 f4 Rc7 Bd4 Rb7 Bc3 Bc6 Ra6 Bd5 Kf2 Rc7 g3 Bc4 Ra5 Rd7",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "c4 d6 d4 e5 Nf3 e4 Ng5 f5 Nc3 c6 h4 h6 Nh3 Qxh4 e3 Qe7 Nf4 Qf7 Be2 Nf6 b4 Be7 d5 Nbd7 Bb2 Ne5 c5 O-O dxc6 Nd3+ Nxd3 exd3 cxb7 Bxb7 Bxd3 dxc5 Qb3 Qxb3 axb3 cxb4 Nb5 Nd5 Rh5 a6 Nd4 Nc3 f3 Bg5 Ne6 g6 Rxg5 hxg5 Bc4 Rfe8 Nc7+ Kf8 Nxa8 Rxa8 Bxc3 bxc3 O-O-O g4 fxg4 Be4 gxf5 gxf5 Rd7 a5 Bd5 Bxd5 Rxd5",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765195278.3522973
+  "updated": 1765195470.174274
 }
