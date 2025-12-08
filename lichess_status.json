@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2910,
-  "opponent": "BorkaTower",
+  "rating": 3069,
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 88,
-  "timestamp": "2025-12-08T13:39:22.678672",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2025-12-08T13:41:16.318513",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 2910,
-    "rating_after": 2910,
+    "result": "win",
+    "opponent": "HakoAI",
+    "rating_before": 3069,
+    "rating_after": 3069,
     "rating_delta": 0,
-    "moves": "d4 e6 e4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Be7 Be3 Nc6 Qd2 O-O dxc5 Bxc5 O-O-O Qb6 Bxc5 Nxc5 f5 d4 Nxd4 Rd8 f6 Nxe5 Qg5 Ng6 Bc4 e5 Nb3 gxf6 Rxd8+ Qxd8 Qh6 Nxb3+ axb3 Be6 h4 Qf8 Qe3 Qg7 h5 Ne7 Kb1 Nc6 h6 Qg5 Qxg5+ fxg5 Ne4 Bf5 Nxg5 Nd4 Kc1 Bxc2 Rf1 Bxb3 Bxf7+ Bxf7 Rxf7 Ne6 Rxh7 Nxg5 Rg7+ Kh8 Rxg5 Kh7 Rxe5 Kxh6 b3 Kg6 g3 Rc8+ Kb1 Rc3 b4 Rb3+ Kc1 Rxb4 Ra5 a6 Kd2 Kf6 Ke3 Rg4 Kf3 Rg5 Ra4 a5 g4 b6 Kf4 Rc5 Rd4 Ke6 Ra4 Kf7 Rd4 b5 Rd7+ Ke6 Rb7 Rc4+ Kf3 Rc5 Kf4 Rc4+ Kf3 Rb4 Rb6+ Kf7 g5 a4 Ra6 Rb3+ Ke4 a3 g6+ Kg7 Kf5 Rf3+ Kg5 Rg3+ Kh5 Rh3+ Kg5 Rg3+ Kh5 b4 Ra4 Rh3+ Kg5 Rg3+ Kf5 Rg1 Ra7+ Kf8 Ra8+ Ke7 Ra4 Rf1+ Kg5 Rc1 Kh5 Kf6 Ra6+ Kg7 Ra7+ Kf8 Ra4 b3 Ra8+ Kg7 Ra7+ Kg8 Ra8+ Kg7 Ra7+ Kf8 Ra8+ Ke7 Ra7+ Kd6 Ra6+ Ke5 Ra5+ Kf6 Ra6+ Kf5 Ra5+ Ke6 Ra6+ Ke7 Ra7+ Kf6 Ra6+ Kf5 Ra5+ Ke6 Ra6+ Ke5 Ra5+ Kd6 Ra6+ Kd7 Ra7+ Kd8 Ra8+ Kd7 Ra7+ Kd8 Ra8+ Kc7 Rxa3 b2 Rb3 b1=B Rxb1 Rxb1 g7 Rd1 Kh6 Re1 Kh7 Rf1 Kh8 Ra1 Kg8 Ra7 Kh8 Ra8+ Kh7 Re8 Kh6 Kd7 Kh7 Kd8 g8=Q Rxg8 Kxg8",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 e3 O-O Bd3 dxc4 Bxc4 c5 O-O cxd4 exd4 b6 Bg5 Bb7 Ne5 h6 Bxf6 Qxf6 f4 Nc6 Nd7 Qxd4+ Qxd4 Nxd4 Nxf8 Kxf8 Bd3 Bc5 Kh1 f5 Rad1 Ke7 Rfe1 Rd8 Bc4 Rd6 h4 Bc6 Re5 g5 Rb1 a5 a3 Nc2 Rd1 Bd4 Rxe6+ Rxe6 Bxe6 Bxg2+ Kxg2 Ne3+ Kf3 Nxd1 Nb5 g4+ Ke2 Bc5 b4 axb4 axb4 Kxe6 bxc5 bxc5 Kxd1 Kd5 Ke2 Ke4 Nc3+ Kxf4 Na4 c4 Nb6 Kg3 Nxc4 Kxh4 Nd6 f4 Kf2 Kg5 Kg2 h5 Ne4+ Kf5 Nd6+ Ke6 Ne4 h4 Kg1 Ke5 Nc3 Kd4 Nb5+ Ke3 Nd6 h3 Kh2 Kf3 Nb5 g3+ Kxh3 g2 Nd4+ Kf2 Ne6 f3 Nf8 g1=Q Nh7 Qg3#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1765201162.6788929
+  "updated": 1765201276.3186617
 }
