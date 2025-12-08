@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 3078,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2025-12-08T11:07:42.750806",
+  "time_left": 18,
+  "timestamp": "2025-12-08T11:09:18.458652",
   "last_game": {
-    "result": "loss",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "draw",
+    "opponent": "DarkOnBot",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 h6 Be3 a6 Bc4 e6 f4 Qc7 Bb3 Nbd7 f5 Nc5 Qf3 Bd7 fxe6 fxe6 O-O-O Be7 Kb1 Nxb3 axb3 O-O g4 Rf7 Rhg1 Rc8 Qe2 Nh7 h4 Bxh4 Nf3 Be7 g5 Rxf3 Qxf3 Nxg5 Qg4 b5 Rg2 b4 Na4 Rb8 Nc5 Qc8 Nxd7 Qxd7 Bf4 Rd8 e5 d5 Bxg5 Bxg5 Qxb4 Qc7 Re2 a5 Qb5 Rb8 Qa6 Qf7 Qxa5 Bf4 Rf2 g5 Rdf1 Kg7 Qa4 Rf8 b4 Qb7 b5 Ra8 Qb4 Qa7 c3 Kg6 Rxf4 gxf4 Qxf4 Qe7 b6 Rb8 Qg4+ Kh7 Rf6 Qg7 Qxe6 Qg1+ Kc2 Qg2+ Kb3 Qg7 Qxd5 Qxf6 exf6 Rxb6+ Kc4 Rxf6 Qd7+ Kg8 Qd8+ Rf8 Qd5+ Kh8 Qe5+ Kg8 Qe6+ Kg7 Qe7+ Kg8 Qe6+ Kg7 b4 Rf4+ Kd5 Rf1 b5 h5 Qe5+ Kh6 Qd6+ Kg7 Qe7+ Rf7 Qe5+ Kf8 Qh8+ Ke7 Qxh5 Rf8 Qg5+ Ke8 Kc6 Rf6+ Kd5 Rf1 Ke6 Re1+ Qe5 Ra1 Qh8#",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 e6 Qd2 a6 O-O-O Be7 Bxf6 gxf6 f4 Nxd4 Qxd4 Bd7 h4 Qa5 Rh3 Qc5 Qd2 b5 f5 b4 Ne2 e5 Ng3 Bc6 b3 Rg8 Bc4 Rg4 Kb1 Rf4 Qe2 Rd8 Rhh1 Qf2 Qh5 d5 exd5 Bb5 Bxb5+ axb5 Ne2 Re4 Nc1 Bf8 Qf3 Qxf3 gxf3 Rf4 Rd3 Rxf5 Ne2 Kd7 Ng3 Rf4 Nh5 Rf5 Ng3 Rf4 Ne2 Rf5",
     "duration": 30,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1765192062.750952
+  "updated": 1765192158.4588401
 }
