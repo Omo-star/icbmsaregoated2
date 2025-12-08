@@ -40,12 +40,13 @@ def parse_lichess_time(raw):
 async def run_tournament(ui, tid: str, team: str | None):
     try:
         if team:
-            _alog(f"Joining tournament: tournament {tid} {team}")
-            await ui._handle_command(["tournament", tid, team])
+            ok = await ui.api.join_team_tournament(tid, team)
+            if not ok:
+                _alog(f"Team join failed for {tid}")
+                return False
         else:
             _alog(f"Joining tournament: tournament {tid}")
             await ui._handle_command(["tournament", tid])
-
         return True   
 
     except Exception as e:
