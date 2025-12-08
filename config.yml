@@ -200,11 +200,6 @@ opening_books:
       names:
         - antichess
 
-    threecheck:
-      selection: best_move
-      allow_repetitions: true
-      names:
-        - threecheck
 
     atomic_white:
       selection: best_move
@@ -297,10 +292,7 @@ challenge:
     - antichess
     - atomic
     - crazyhouse
-    - horde
-    - kingOfTheHill
     - racingKings
-    - threeCheck
   bot_time_controls:
     - bullet
     - blitz
