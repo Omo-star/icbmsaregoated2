@@ -13,11 +13,7 @@ MIN_RATING = 2400
 
 BOOK_OUTPUT = "chess960.bin"
 BOTS = {
-    "LeelaMultiPoss","JAXMAN_N","PINEAPPLEMASK","Chrysogenum","Ghost_HunteR2998",
-    "strain-on-veins","InvinxibleFlxsh","VEER-OMEGA-BOT","TestingBot1","RedHotBot",
-    "ToromBot","Bharat_royals","pangubot","ElPeonElectrico","DarkOnBot","MaggiChess16",
-    "YoBot_v2","TacticalBot","Bot1nokk","tbhOnBot","Speeedrunchessgames","NecroMindX",
-    "Endogenetic-Bot","Exogenetic-Bot"
+    "ToromBot", "strain-on-veins", "Ghost_HunteR2998", "PINEAPPLEMASK", "BalloonBot"
 }
 
 
@@ -155,13 +151,13 @@ def build_book(bin_path: str):
                     if (game.headers.get("SetUp", "") or "") == "1" and game.headers.get("FEN"):
                         starting_fen = game.headers.get("FEN")
                     if starting_fen:
-                        board = chess.Board(fen=starting_fen, chess960=True)
+                        board = chess.variant.AntichessBoard(fen=starting_fen)
                     else:
                         try:
                             b = game.board()
-                            board = chess.Board(b.fen(), chess960=True)
+                            board = chess.variant.AntichessBoard(fen=b.fen())
                         except Exception:
-                            board = chess.Board(chess960=True)
+                            board = chess.variant.AntichessBoard()
                     result = game.headers.get("Result", "")
                     if result == "1-0":
                         winner = chess.WHITE
