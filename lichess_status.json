@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2911,
-  "opponent": "RaspFish",
+  "opponent": "MAGIC11BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 90,
-  "timestamp": "2025-12-08T13:55:31.728647",
+  "time_control": "TC: 3+0",
+  "time_left": 84,
+  "timestamp": "2025-12-08T13:55:32.663736",
   "last_game": {
-    "result": "draw",
-    "opponent": "RaspFish",
+    "result": "win",
+    "opponent": "MAGIC11BOT",
     "rating_before": 2911,
     "rating_after": 2911,
     "rating_delta": 0,
-    "moves": "Nf3 d5 h4 c5 g3 Nc6 d4 cxd4 Nxd4 e5 Nxc6 bxc6 Bg2 Bc5 c4 Ne7 Nc3 d4 Ne4 Bb6 O-O O-O e3 f5 c5 Ba6 Ng5 Bxc5 Re1 d3 Bd2 e4 Qh5 h6 Nxe4 Bb6 Nc3 Bc4 Rec1 Bf7 Qd1 c5 Na4 Qd6 Rc3 Ng6 Rac1 Rac8 b3 Ne5 Nb2 Rfd8 f4 Ng4 Rxd3 Qe7 Rxd8+ Rxd8 Nc4 Qd7 Qe2 Bxc4 Qxc4+ Kh8 Rc2 Qe8 Qe2 c4 Kh1 Bxe3",
-    "duration": 250,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 h3 c6 Re1 Qd7 Qg3 Re8 Rxe8+ Nxe8 Qe3 Bd8 Nb3 b6 Nd2 Qe7 c4 dxc4 Nxc4 Qxe3 fxe3 f6 Bb8 a5 Be2 Be6 b3 b5 Nb2 Nc7 Bf3 Nd5 Nd3 Nxe3 Bxc6 a4 bxa4 bxa4 Kf2 Nf5 Ba7 Bxa2 Bxa4 Bc4 Nb2 Be6 Bc5 Kf7 Bb5 Ne7 Nc4 Bc7 Nd6+ Bxd6 Bxd6 Nd5 h4 Bf5 Be2 Be4 g3 Ke6 Ba3 g5 Bc1 h6 Bd2 Kf5 Bb5 Bc2 Be2 Ke4 Bc1 Nc3",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1765202131.728744
+  "updated": 1765202132.663923
 }
