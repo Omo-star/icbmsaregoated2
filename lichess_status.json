@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2916,
-  "opponent": "MDBOT",
+  "opponent": "gekkammi-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 61,
-  "timestamp": "2025-12-08T15:23:05.858626",
+  "time_control": "TC: 5+1",
+  "time_left": 76,
+  "timestamp": "2025-12-08T15:29:58.803560",
   "last_game": {
     "result": "win",
-    "opponent": "MDBOT",
+    "opponent": "gekkammi-bot",
     "rating_before": 2916,
     "rating_after": 2916,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 Rde8 Rb5 e4 Rd7 e3 Qd5+ Qe6 Rbb7 Kh8 Qxe6 exf2+ Kf1 Rxe6 Rf7 Rd8 Kxf2 bxc3 bxc3 Rd2+ Kf3 Rd3+ Kf4 h6 Rxg7 Rxc3 Rh7+ Kg8 Rhg7+ Kf8 Rbf7+ Ke8 Rb7 Kf8 b4 Rc2 Kf5 Re3 g4 Rc4 Rbf7+ Ke8 Ra7 Kf8 Rh7 Kg8 Rhg7+ Kh8 Rh7+ Kg8 Rag7+ Kf8 Rc7 Rf3+ Ke6 Re4+ Kd5 Rxg4 Rc8#",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 c3 dxc3 Nxc3 Bb4 Bc4 d6 O-O Bxc3 bxc3 Nf6 Re1 Bg4 Rb1 O-O Bf4 Nd7 Rxb7 Na5 Rb4 c5 Bd5 cxb4 cxb4 Rc8 bxa5 Ne5 Bxe5 dxe5 h3 Bxf3 Qxf3 Qxa5 Rb1 Qd2 Rb7 Qc1+ Kh2 Rc7 Rxc7 Qxc7 Qf5 g6 Qg5 Kg7 h4 h5 a4 Rb8 a5 Rb2 Qg3 Qe7 f4 exf4 Qxf4 Qf6 Qg3 Rf2 e5 Qf4 a6 Qxg3+ Kxg3 Rf5 Bc4 Rxe5 Kf3 f5 Bd3 Kf6 Kf2 Ra5 Be2 Ke5 Ke1 Ke4 Kf2 Ra2 g3 Rb2 Kf1 Ke3 Bc4 Rf2+ Kg1 Kf3 g4 f4 gxh5 gxh5 Bf7 Kg3 Bxh5 f3 Bxf3 Rxf3 h5 Rf6 h6 Rxh6 Kf1 Re6 Kg1 Re1#",
+    "duration": 410,
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1765207385.8587298
+  "updated": 1765207798.8036609
 }
