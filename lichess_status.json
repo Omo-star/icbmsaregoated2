@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2887,
-  "opponent": "Pat9471",
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 218,
-  "timestamp": "2025-12-08T11:01:47.313094",
+  "time_control": "TC: 3+0",
+  "time_left": 91,
+  "timestamp": "2025-12-08T11:06:50.865499",
   "last_game": {
     "result": "draw",
-    "opponent": "Pat9471",
+    "opponent": "HakoAI",
     "rating_before": 2887,
     "rating_after": 2887,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 Bb6 Re1 O-O Nbd2 Ng4 Rf1 Kh8 h3 f5 exf5 Nxf2 Rxf2 d5 d4 exd4 Bb5 Bxf5 Bxc6 dxc3 bxc3 Bxf2+ Kxf2 Qd6 Qa4 Qc5+ Kg3 Qd6+ Kf2 Qc5+ Kg3 Qd6+ Kf2",
-    "duration": 266,
-    "bot_color": "white",
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Bg5 dxc4 e4 h6 Bxf6 Qxf6 Bxc4 c5 O-O cxd4 e5 Qd8 Ne4 Nc6 Qc1 O-O Qf4 Be7 a3 Qc7 Rac1 Bd7 b4 a6 Rfe1 f6 Ng3 fxe5 Qg4 Rf4 Qh3 Kh8 Nh5 Rf5 Bd3 Qd6 Ng3 Raf8 Rxc6 Bxc6 Nxf5 exf5 Nxe5 Be8 Bxf5 Qf6 g4 Bd8 Nf3 Bc6 Ne5 Re8 f4 d3 Qxd3 Bb6+ Kf1 Bb5 Qxb5 axb5 Ng6+ Kh7 Rxe8 Qa1+ Ke2 Qb2+ Kd1 Qa1+ Kc2 Qa2+ Kd1 Qa1+ Kd2 Qb2+ Bc2 Qd4+ Bd3 Qb2+ Bc2 Qd4+ Kc1 Qa1+ Kd2 Qd4+",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765191707.3132083
+  "updated": 1765192010.8656757
 }
