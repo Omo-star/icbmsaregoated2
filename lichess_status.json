@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "jpg-bot",
+  "rating": 3072,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+2",
-  "time_left": 43,
-  "timestamp": "2025-12-08T13:09:07.237309",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2025-12-08T13:11:09.700098",
   "last_game": {
-    "result": "win",
-    "opponent": "jpg-bot",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 b3 Be7 Bg5 h6 Bxe7 Nxe7 Rd2 b6 Nd4 c5 Nde2 a5 Rad1 Bc6 f4 h5 Kf2 Kb7 Ng1 Nf5 Nf3 f6 Nd5 Rhf8 c3 a4 b4 cxb4 cxb4 Rae8 Re2 fxe5 Nxe5 Re6 g3 g5 Nxc6 Rxc6 Rd3 gxf4 Nxf4 Rc4 a3 Nd6 Re7 Rf6 Kg2 h4 Re2 Rh6 Red2 Nb5 Rf2 Rh8 Re2 Rh7 Re5 Nd6 Re2 Nb5 Re5 Ka6 Re8 Rc2+ Re2 Rc4 Re8 Rc1 g4 Nd6 Re6 Rc4 Nd5 Rc2+ Kg1 h3 Re1 Nb5 Rg3 Nd4 Rd3 Ne2+ Kh1 c6 Ne3 Ra2 b5+ Kxb5 Nf5 Ka6 g5 Rh5 Ne7 c5 Re3 Nf4 Rg3 Ne2 Re3 Nf4 Rg3 Rh7 Nf5 Rf7 Nh4 Rg7 g6 Ng2 Nxg2 Rxg2 Re6 Rxg3 hxg3 c4 Kh2 Kb5 Re5+ Kc6 Kxh3 Rxg6 Kg2 b5 Kf3 Rd6 Ke2 Rd3 Re3 Rxe3+ Kxe3 b4 Kd2 bxa3 Kc1 a2 Kd1 a1=Q+ Kc2 a3 Kd2 a2 Kc2 c3 Kb3 c2 Ka3 c1=Q+ Kb4 Qab1+ Ka4 a1=Q#",
-    "duration": 940,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Ne6 Bxc5 Nxc5 b3 Ne6 Kh1 c5 Qd2 Qe7 Ng1 Nd4 Ne2 Be6 Ne3 Qd6 f3 Rd8 Ng3 b6 Qf2 a6 h3 g6 Ne2 h5 Rae1 g5 h4 Rh7 a5 Rf8 Nc4 Bxc4 Nxd4 cxd4 bxc4 Rg7 Ra1 f5 hxg5 fxe4 dxe4 Rxg5 axb6 Qxb6 c3 dxc3 Qxb6 cxb6 Rfc1 Rd8 Rxc3 Rd2 Rg1 Rg6 Kh2 Rc6 Kh3 b5 Ra1 Rxc4 Rxc4 bxc4 Rxa6 Kf7 Rc6 Rd4 g4 hxg4+ Kxg4 Ke7 Kf5 Kd7 Kxe5 Rxe4+ fxe4 Kxc6 Kf4 Kd6 Kf3 c3 Ke3 c2 Kd2 Ke5 Kxc2 Kxe4",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765199347.237492
+  "updated": 1765199469.7002807
 }
