@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2916,
-  "opponent": "MDBOT",
+  "rating": 3074,
+  "opponent": "Joao-Pedro-Tristao",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+3",
-  "time_left": 91,
-  "timestamp": "2025-12-08T15:30:04.393119",
+  "time_control": "TC: 0+1",
+  "time_left": 3,
+  "timestamp": "2025-12-08T15:31:01.714639",
   "last_game": {
     "result": "draw",
-    "opponent": "MDBOT",
-    "rating_before": 2916,
-    "rating_after": 2916,
+    "opponent": "Joao-Pedro-Tristao",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be7 f3 Be6 Qd2 O-O O-O-O Nbd7 g4 b5 g5 Nh5 Nd5 Bxd5 exd5 f6 gxf6 Bxf6 Na5 Qe8 Kb1 Nf4 h4 Kh8 h5 Bg5 c4 Nf6 cxb5 axb5 Nc6 Qf7 a3 b4 Nxb4 h6 Bc4 N6xh5 Nc6 Ng3 Rh2 Nf5 Ka2 g6 Bb6 Qb7 Qb4 Kg7 Na5 Qb8 Nc6 Qb7 b3 Nh5 a4 Ne3 Rd3 Rxf3 Nd4 Nxc4 Ne6+ Kg8 Qxc4 Rc8 Qe4 Rf5 Rxh5 Qxb6 Rf3 Qg1 Rxg5 Rxg5 Nxg5 Qxg5 Qe3 Qxe3 Rxe3 Rb8 Ka3 g5 b4 h5 b5 g4 Kb4 Kf7 a5 h4 a6 g3 a7 Rd8 b6 g2 Re1 h3 b7 h2 b8=Q g1=Q Rxg1 hxg1=Q Qxd8",
-    "duration": 405,
+    "moves": "e4",
+    "duration": 1,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1765207804.3933055
+  "updated": 1765207861.7147279
 }
