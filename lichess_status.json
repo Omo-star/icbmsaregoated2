@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "MaggiChess16",
+  "rating": 2889,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2025-12-08T11:56:54.174156",
+  "time_control": "TC: 3+0",
+  "time_left": 139,
+  "timestamp": "2025-12-08T11:59:54.124046",
   "last_game": {
     "result": "draw",
-    "opponent": "MaggiChess16",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "opponent": "ArasanX",
+    "rating_before": 2889,
+    "rating_after": 2889,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 h6 f3 exf3 Nxf3 Be7 O-O O-O Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qb6 Qxb6 axb6 Rc1 Rbc8 Nb5 h5 e3 Rfd8 Rfe1 Ne4 Nc7 Nf6 Rc3 Bd6 Rec1 Bf5 h3 g4 hxg4 hxg4 Nxd5 Nxd5 Rxc8 Bxc8 Bxd5 Bxe5 dxe5 Rxd5 Rxc8 b5 Rc7 Rxe5 Kf2 Rh5 e4 Rh2+ Ke3 Rxb2 Kf4 Kg6 Kxg4 Re2 Kf4 Ra2 Rxb7 Rxa3 Rb6+ f6 e5 Ra4+ Ke3 Kf5 exf6 Ra3+ Kd2",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "g3 e5 c4 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 a5 Kh1 Be6 Qb3 Qc8 cxd5 cxd5 Ne5 Nc6 Rad1 Re8 a4 Bd6 Nxd5 Bxd5 Bxd5 Nxd5 Qxd5 Bxe5 Bxe5 Nxe5 dxe5 Qc7 b3 Rab8 Qd7 Qxe5 Qxf7+ Kh7 Rd7 Rf8 Qxf8 Rxf8 Rxf8 Qxe2 Rff7 Qe4+ Kg1 Qe1+ Kg2 Qe2+ Kh1 Qe1+ Kg2 Qe2+ Kh1",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765195014.1743166
+  "updated": 1765195194.1241453
 }
