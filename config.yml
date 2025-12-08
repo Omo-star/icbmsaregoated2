@@ -282,7 +282,7 @@ resign:
   min_rating: 2900
 
 challenge:
-  concurrency: 2
+  concurrency: 1
   max_takebacks: 5
   bullet_with_increment_only: false
   variants:
