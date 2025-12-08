@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "Bharat_royals",
+  "rating": 2967,
+  "opponent": "jpg-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2025-12-08T11:54:36.709482",
+  "time_control": "TC: 10+1",
+  "time_left": 60,
+  "timestamp": "2025-12-08T11:55:28.771975",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "result": "win",
+    "opponent": "jpg-bot",
+    "rating_before": 2967,
+    "rating_after": 2967,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bh3 Ra2 Bf1 Ra1 Bg2 Ra5 Bf3 Ra2 Kg1 Ra8 Bg2 f6 f3 Nd6 Re3 Ra1+ Bf1 Rb1 Re6 Nc8 Rc6 Ne7 Rc7 Kf7 Rb7 Ke6 Rb6+ Kf7 Rb5 Ke6 Rb6+ Kd7 Rxf6 Rxb2 Bh3 Rc2 Bxf5+ Nxf5 Rxf5 Kd6 Rxh5 Rxc3 Rh8 Rxf3 h5 Rxf4 h6",
-    "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 b3 Be7 Bg5 h6 Bxe7 Nxe7 Rd2 c5 Rad1 Bc6 a4 b6 Ne1 a5 f4 Kb7 Nf3 Rae8 Re1 Ng6 f5 Ne7 Nh4 Rd8 Rdd1 Rxd1 Rxd1 g5 fxg6 fxg6 Nf3 g5 Re1 Ng6 Nd2 Re8 Nc4 Bd7 Ne4 Re7 Ned2 Bf5 Ne3 Bc8 Nec4 Kc6 Re3 Bf5 c3 Kd7 Rf3 Bg4 Rg3 Bh5 Re3 Ke6 g3 Bd1 Re1 Bc2 Re2 Rf7 Na3 Bf5 Re1 Ne7 Nac4 Nd5 Rc1 Bg6 h3 Bd3 Kg2 Rf8 Na3 Ne3+ Kg1 Rf7 Re1 Nc2 Nxc2 Bxc2 Rc1 Bf5 h4 Rd7 Nc4 Rd3 Kf2 Be4 hxg5 hxg5 Ne3 Rd2+ Ke1 Rb2 b4 Bd3 Ng4 Re2+ Kd1 Rg2 Ne3 Rg1+ Kd2 Rxc1 Kxc1 cxb4 Kb2 Be2 cxb4 axb4 Kc2 Kxe5 Kd2 Ba6 Ng4+ Kd4 Kc2 c5 Kb3 Bc4+ Kb2 Be6 Nf2 c4 Kc1 c3 g4 b3 Nd1 Bxg4 Nb2 Be2 a5 g4 Na4 g3 Nxc3 Kxc3 Kb1 g2 Ka1 g1=Q#",
+    "duration": 764,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1765194876.7096608
+  "updated": 1765194928.7721562
 }
