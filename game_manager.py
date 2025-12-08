@@ -167,11 +167,19 @@ class GameManager:
             print(f'Tournament "{tournament.name}" is already finished.')
             return
 
-        if await self.api.join_tournament(tournament.id_, tournament.team, tournament.password):
+        success = await self.api.join_tournament(tournament.id_, tournament.team, tournament.password)
+    
+        if success:
             tournament.end_task = asyncio.create_task(self._tournament_end_task(tournament))
             self.tournaments[tournament.id_] = tournament
             print(f'Joined tournament "{tournament.name}". Awaiting games ...')
+            return
+        print(f'Failed to join tournament "{tournament.name}". Clearing tournament_id.')
+        self.current_matchmaking_game_id = None
+        if tournament.id_ in self.tournaments:
+            del self.tournaments[tournament.id_]
 
+        self.changed_event.set()
     async def _leave_tournament_id(self, tournament_id: str) -> None:
         if tournament := self.unstarted_tournaments.pop(tournament_id, None):
             tournament.cancel()
