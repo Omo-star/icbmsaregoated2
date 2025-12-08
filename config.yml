@@ -194,11 +194,6 @@ opening_books:
       allow_repetitions: true
       names:
         - crazyhouse
-    kingofthehill:
-      selection: best_move
-      allow_repetitions: true
-      names:
-        - koth
 
     antichess:
       selection: best_move
