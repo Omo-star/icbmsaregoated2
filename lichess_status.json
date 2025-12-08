@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2911,
-  "opponent": "MAGIC11BOT",
+  "rating": 3073,
+  "opponent": "llllllllnnuellllllll",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 84,
-  "timestamp": "2025-12-08T13:55:32.663736",
+  "time_control": "TC: 1+0",
+  "time_left": 60,
+  "timestamp": "2025-12-08T13:56:05.697107",
   "last_game": {
-    "result": "win",
-    "opponent": "MAGIC11BOT",
-    "rating_before": 2911,
-    "rating_after": 2911,
+    "result": "draw",
+    "opponent": "llllllllnnuellllllll",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 h3 c6 Re1 Qd7 Qg3 Re8 Rxe8+ Nxe8 Qe3 Bd8 Nb3 b6 Nd2 Qe7 c4 dxc4 Nxc4 Qxe3 fxe3 f6 Bb8 a5 Be2 Be6 b3 b5 Nb2 Nc7 Bf3 Nd5 Nd3 Nxe3 Bxc6 a4 bxa4 bxa4 Kf2 Nf5 Ba7 Bxa2 Bxa4 Bc4 Nb2 Be6 Bc5 Kf7 Bb5 Ne7 Nc4 Bc7 Nd6+ Bxd6 Bxd6 Nd5 h4 Bf5 Be2 Be4 g3 Ke6 Ba3 g5 Bc1 h6 Bd2 Kf5 Bb5 Bc2 Be2 Ke4 Bc1 Nc3",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "e4",
+    "duration": 60,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1765202132.663923
+  "updated": 1765202165.6972377
 }
