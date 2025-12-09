@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "HakoAI",
+  "rating": 3081,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 107,
-  "timestamp": "2025-12-09T11:16:13.222014",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-09T11:16:48.483055",
   "last_game": {
     "result": "draw",
-    "opponent": "HakoAI",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nfxd5 Bg5 Be7 Bxe7 Qxe7 Qa5 Ne3 Qxb6 Nxd1 Bc4 Rc8 Nd2 Nxb2 Kxb2 O-O Bb3 Kg7 Rd1 d5 Bxd5 Rfd8 Nb3 Qc7 Qxc7 Rxc7 a4 b5 axb5 axb5 Rd3 f5 Nc1 Kf6 Na2 h4 Kb3 h3 g3 Ra7 Rd1 Rd6 Nb4 Rb7 Rd3 Ra7 Rd1 Rc7 Rd3 Ra7 Kb2 Rc7 Kc1 Ra7 Kb2 Rc7 c3 Rcd7 Kc1 Ra7 Kb1 Rad7 Kc2 Ra7 Kb2 Rad7 Kb1 Rc7 Kc2 Ra7 Kb1 Rad7 Kb2 Kg7 Kc2 Ra7 Kb2 Re7 Re3 Kf6 Re2 Red7 Rd2 Ra7 Rd1 Rc7 Kc2 Rcd7 Rd2 Ra7 Kb2 Rh7 Rd1 Ra7 Kb3 Rad7 Rd2 Ra7 Rd1 Rc7 Kc2 Ra7 Re1 Rad7 Rd1 Ra7 Kb2 Re7 Bb3 Rxd1 Bxd1 Rd7 Kc1 Ra7 Kd2 Rd7+ Ke1 Ra7 Kd2 Rd7+ Kc1 Ra7 Nc2 Kg5 Be2 Rc7 Kd2 Rd7+ Ke1 Rc7 Kd2 Rd7+ Kc1 Rc7 Kd2",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Bc4 Nf6 Nc3 Nc6 Nf3 Nxe4 Nxe4 d5 Bd3 dxe4 Bxe4 Bd6 O-O O-O d3 Ne7 d4 f5 Bd3 e4 Bc4+ Kh8 Ne5 Qe8 f4 b5 Be2 Nd5 a4 b4 Bb5 Qe6 a5 Qg8 Qe1 Rb8 Bc4 Be6 Bxd5 Bxd5 Nd7 b3 Nxf8 Rxf8 Rf2 bxc2 Rxc2 Rb8 b4 a6 Bd2 h6 Qf2 c6 h3 Kh7 Rb2 Rb5 Kh1 Qh8 Kg1 Qb8 Rbb1 Bc7 Rc1 Bd6 Rcb1 Qb7 Kh1 Bc7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765278973.2221482
+  "updated": 1765279008.4831674
 }
