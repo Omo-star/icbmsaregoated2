@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2921,
-  "opponent": "RaspFish",
+  "rating": 3081,
+  "opponent": "MEGA-NOOB-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 17,
-  "timestamp": "2025-12-09T10:29:30.611863",
+  "time_control": "TC: 0+1",
+  "time_left": 37,
+  "timestamp": "2025-12-09T10:30:00.154997",
   "last_game": {
-    "result": "win",
-    "opponent": "RaspFish",
-    "rating_before": 2921,
-    "rating_after": 2921,
+    "result": "draw",
+    "opponent": "MEGA-NOOB-BOT",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "d4 a5 e4 c6 Nf3 g6 Be3 d5 exd5 cxd5 Nc3 Nf6 Ne5 Bg7 Bb5+ Bd7 Nxd7 Nbxd7 Qf3 e6 h4 Kf8 Na4 Nb6 Nc5 Qe7 O-O-O Kg8 Kb1 Nc8 Bd3 Nd6 Rhe1 Rc8 Bf4 b6 Na4 Qd8 Nc3 h5 Bg5 Nf5 Nb5 a4 Qe2 Qd7 a3 Ne8 c3 Nfd6 Nxd6 Nxd6 Rg1 Qc6 g4 Ne4 Bf4 b5 Rc1 hxg4 Rxg4 Qb6 Rcg1 Kf8 Ka2 Rh7 f3 Nf6 Bxg6 fxg6 Rxg6 Qc6 Ka1 Bh8 Qe5 Kf7 Qg5 Ke7 Be5 Rf8 h5 Qc4 f4 Rhf7 Rh6 Qe2 Rxh8 Rxh8 Bxf6+ Rxf6 Qg7+ Rf7 Qxh8 Rxf4 Qg7+ Rf7 h6 Qd3 Qg2 Qe3 Qh2 Qf4 Qxf4 Rxf4 Rh1 Rf8 h7 Rh8 Rh6 Kd6 Kb1 Ke7 Kc1 Kf8 Kd2 Kg7 Rxe6 Kxh7 Rd6 Rb8 Rxd5 Rb6 Kd3 Kg7 Re5 Kg8 Ke4 Rb7 Kd5 Rc7 Kd6 Rc8 Rxb5 Kf7 Kd7 Ra8 d5 Ra7+ Kc6 Ra8 d6 Rc8+ Kb7 Rc4 Re5 Rf4 d7 Kf6 Rd5 Kg6 d8=Q Rf7+ Kc6 Rf5 Qg8+",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
+    "duration": 86,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765276170.611956
+  "updated": 1765276200.1551201
 }
