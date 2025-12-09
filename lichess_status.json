@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2977,
-  "opponent": "Duduarte",
+  "opponent": "Akash_Kannadiga",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+4",
-  "time_left": 492,
-  "timestamp": "2025-12-09T01:40:09.940068",
+  "time_left": 445,
+  "timestamp": "2025-12-09T03:05:21.471112",
   "last_game": {
     "result": "win",
-    "opponent": "Duduarte",
+    "opponent": "Akash_Kannadiga",
     "rating_before": 2977,
     "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Bc5 Nxe5 Qh4 d4 Qxe4+ Be3 Bxd4 Qxd4 Qxd4 Bxd4 Nc6 Nxc6 dxc6 Bxg7 Bf5 Nc3 Bxc2 Bxh8 Rd8 Be2 Nf6 Bxf6",
-    "duration": 580,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Bxc6 dxc6 d4 e4 Ng5 f5 f3 Be7 Nh3 O-O fxe4 fxe4 Nc3 Bxh3 gxh3 Bh4 Rf1 Rxf1+ Qxf1 Qd7 Qf4 Qxh3 Nxe4 Re8 Nxd6 Re1+ Qf1 Rxf1#",
+    "duration": 632,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1765244409.9401746
+  "updated": 1765249521.4712014
 }
