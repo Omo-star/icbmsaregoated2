@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "PositionalAI",
+  "rating": 2928,
+  "opponent": "virus_exe-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2025-12-09T12:17:13.139670",
+  "time_control": "TC: 3+0",
+  "time_left": 140,
+  "timestamp": "2025-12-09T12:19:10.379986",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "opponent": "virus_exe-bot",
+    "rating_before": 2928,
+    "rating_after": 2928,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Kh2 Rfd8 Bc3 a3 b3 Bxf2 Nh5 Be3 Bd2 Bxd2 Qxd2 Rdb8 Rf1 Qb4 Qe3 Kh8 Ng5 hxg5 Qxg5 Rg8 Nf6 Nxf6 Rxf6 Rge8 Ref2 Kg8 R2f3 d5 Rh6 Qe7 Qh5 gxh6 Qxh6 Qd7 Rg3+ Bg4 Rxg4+ Qxg4 hxg4 dxe4 dxe4 Re6 Qd2 Rae8 c5 Kg7 Qc1 Ra8 Qg5+ Kf8 Kg3 Rae8 Qd2 Rf6 g5 Rg6 Kg4 Ke7 Kf5",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765282633.1397836
+  "updated": 1765282750.3801165
 }
