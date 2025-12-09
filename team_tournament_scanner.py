@@ -89,26 +89,21 @@ async def fetch_team_tournaments_html(session):
     except:
         return []
 
-async def realtime_team_scanner(_, interval=30):
-    _log("Started real-time team scanner")
+async def realtime_team_scan_once():
+    _log("Running one-shot team scan")
 
     async with aiohttp.ClientSession() as session:
-        while True:
-            if len(SEEN) > 300:
-                SEEN.clear()
+        if len(SEEN) > 300:
+            SEEN.clear()
 
-            tournaments = await fetch_team_tournaments_html(session)
+        tournaments = await fetch_team_tournaments_html(session)
 
-            if tournaments:
-                for tid in tournaments:
-                    if tid not in SEEN:
-                        add_tournament(tid, TEAM)
-                        _log(f"JOIN NOW {tid}")
-                        SEEN.add(tid)
-            else:
-                _log("No tournaments within join window")
+        if tournaments:
+            for tid in tournaments:
+                if tid not in SEEN:
+                    add_tournament(tid, TEAM)
+                    _log(f"JOIN NOW {tid}")
+                    SEEN.add(tid)
+        else:
+            _log("No tournaments within join window")
 
-            await asyncio.sleep(interval)
-
-async def team_tournament_loop(token):
-    await realtime_team_scanner(token, interval=30)
