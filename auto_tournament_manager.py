@@ -139,6 +139,6 @@ async def auto_tournament_loop(ui):
 
         _alog(f"Tournament {tid} finished. Resuming matchmaking.")
         ui.game_manager.start_matchmaking()
-
+        asyncio.create_task(realtime_team_scan_once())
         mark_processed(tid)
         _alog(f"Tournament {tid} removed from queue.")
