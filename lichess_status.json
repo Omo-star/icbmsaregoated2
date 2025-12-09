@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "caissa-x",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 531,
-  "timestamp": "2025-12-09T14:31:40.187833",
+  "rating": 3078,
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 45,
+  "timestamp": "2025-12-09T14:34:25.495642",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "opponent": "YoBot_v2",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "b3 e5 Bb2 Nc6 c4 Nge7 Nf3 d5 cxd5 Nxd5 e4 Ndb4 d3 Bg4 a3 Na6 b4 Bxf3 gxf3 Nd4 f4 Nb8 Nd2 Nbc6 Rc1 a5 b5 Nxb5 Nf3 a4 fxe5 Bxa3 Bxa3 Nxa3 d4 Qe7 Be2 O-O O-O Rfd8 d5 Nxe5 Nxe5 Qxe5 Qd3 Qb2 Ra1 Nc2 Rab1 Qa2 Qd2 c5 Rfc1 Nb4 Rb2 Qa3 Rc3 Qa1+ Rc1 Qa3 Rc3 Qa1+ Rc1 Qa3",
-    "duration": 600,
+    "moves": "f3 f6 Nb3 e5 Bxa7 d5 Bxb8 Rxb8 d4 exd4 Nxd4 c5 Nb3 Nb6 e4 Ra8 O-O-O Bd6 Nc3 d4 Kb1 Kc8 Nb5 Be5 g3 Bc4 Na3 Bxf1 Rxf1 Na4 Rd3 Qc6 f4 Bc7 Qe2 c4 Qg4+ Kb8 Qxg7 Rc8 Nxc4 Qxc4 Qxf6 Ba5 Qe5+ Rc7 Qh8+ Rc8 Qe5+ Rc7 Qh8+ Rc8 Qe5+",
+    "duration": 113,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765290700.188025
+  "updated": 1765290865.4957814
 }
