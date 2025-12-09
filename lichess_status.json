@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2977,
-  "opponent": "Mikhail_petrosyan",
+  "opponent": "barisyasinyaray",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+4",
-  "time_left": 476,
-  "timestamp": "2025-12-09T06:01:36.796779",
+  "time_left": 287,
+  "timestamp": "2025-12-09T06:15:43.049956",
   "last_game": {
     "result": "win",
-    "opponent": "Mikhail_petrosyan",
+    "opponent": "barisyasinyaray",
     "rating_before": 2977,
     "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 Nf6 cxd5 Qxd5 Nc3 Qd8 Nf3 Bf5 Qb3 Qc8 e4 Nxe4 g4 Bg6 Nxe4 Bxe4 Ng5 Bg6 h4 h6 h5 hxg5 hxg6",
-    "duration": 580,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d4 Nxd4 Nxd4 Bxd4 c3 Bb6 Qh5 Qe7 Bg5 Nf6 Bxf6 Qxf6 Qe2 a5 O-O O-O Qg4 d5 exd5 Bxg4 d6 Qxd6 Na3 Kh8 Rfe1 Qg6 Re3 Bxe3 fxe3 Qg5 Re1 Bf3 g3 Rad8 Nb5 Rd2 Bf1 Qh6 Nxc7 Qxh2#",
+    "duration": 664,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1765260096.7968693
+  "updated": 1765260943.0500417
 }
