@@ -56,7 +56,7 @@ async def run_tournament(ui, tid: str, team: str | None):
 
 async def auto_tournament_loop(ui):
     _alog("Auto-tournament loop started.")
-
+    await asyncio.sleep(1.0)
     while True:
         pending = get_pending()
         _alog(f"Current pending queue: {pending}")
@@ -98,7 +98,7 @@ async def auto_tournament_loop(ui):
 
             _alog(f"Arena {tid} is joinable now — joining!")
             ui.game_manager.stop_matchmaking()
-
+            await asyncio.sleep(0.5)
             success = await run_tournament(ui, tid, team)
 
             if not success:
