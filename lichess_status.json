@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "BorkaTower",
+  "rating": 3073,
+  "opponent": "MDBOT2",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 3,
-  "timestamp": "2025-12-09T14:25:27.539555",
+  "time_control": "TC: 1+1",
+  "time_left": 20,
+  "timestamp": "2025-12-09T14:29:21.879621",
   "last_game": {
     "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "opponent": "MDBOT2",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 Nf6 e5 Nd5 d4 d6 Nf3 Bg4 Be2 e6 c4 Nb6 O-O Be7 h3 Bh5 Nc3 O-O Be3 Nc6 exd6 cxd6 d5 Bxf3 Bxf3 Ne5 dxe6 fxe6 Bg4 Nxg4 Qxg4 Rf6 Rac1 Qc7 b3 Qc6 Qe2 Nd7 Bd4 Rg6 f4 Rf8 Rcd1 a6 Kh1 Rf7 Rf3 Rh6 Be3 Rg6 Bc1 Nc5 Ba3 Bf8 Bxc5 Qxc5 Ne4 Qc6 Ng5 Rff6 h4 Be7 Rd2 h6 h5 hxg5 hxg6 gxf4 Qd3 Qc5 g3 fxg3 Rxg3 Kf8 Qe4 Ke8 Re2 Kd8 Kg2 Kc7 b4 Qxb4 Rb3 d5 Qb1 Qc5 Rxb7+ Kd8 Rb8+ Kd7 Qb7+ Qc7 cxd5 Rxg6+ Kf1 Rf6+ Kg2 Bd6 Rc2 Qxb7 Rxb7+ Kd8 dxe6 Rxe6 Rxg7 Be7 Rg8+ Kd7 Ra8 Re3 Ra7+ Kd6 Kf2 Rd3 Kg2 Bd8 Rxa6+ Kd5 Rc8 Ke4 Kf2 Rd2+ Ke1 Rd7 Ke2 Be7 Rc4+ Kd5 Kd3 Ke5+ Kc3 Rb7 Ra5+ Ke6 a4 Bf6+ Kd3 Rb6 Rb5 Ra6 Rh5 Ke7 a5 Rd6+ Kc2 Kd8 Rh6 Kd7 Rh7+ Kd8 Rh6 Kd7 Rf4 Rc6+ Kb1 Ke7 Rh7+ Kd8 Rb4 Kc8 Re4 Bd8 Re8 Ra6 Rhh8 Rd6 a6 Rb6+ Kc2 Rc6+ Kd3 Rd6+ Ke2 Rxa6 Rxd8+ Kc7 Rd2 Ra1 Rhd8 Kb7 R8d3 Rc1 Rd7+ Kb8 Rd8+ Kb7 R2d7+ Ka6 Ra8+ Kb6 Rb8+ Ka6 Rd1 Rc2+ Kd3 Rc5 Ra1+ Ra5 Rxa5+ Kxa5 Kd4 Ka6 Kc5 Ka7 Rb6 Ka8 Kd6 Ka7 Kc7 Ka8 Ra6#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 Rde8 Rb5 e4 Rd7 Qf6 Qe3 Kh8 Rbb7 h6 Rxg7 Qxg7 Rxg7 Kxg7 Kf1 Rf6 Ke2 bxc3 bxc3 Ra8 Qd2 Ra3 b4 Rf3 Qd4+ Kf8 c4 Ra2+ Kf1 h5 Kg2 h4 gxh4 Rf7 b5 Rg7+ Kf1 e3 Qf4+ Kg8 Qxe3 Ra1+ Ke2 Rgg1 Qd2 Ra7 Qd5+ Kf8 b6 Re7+ Kd2 Rgg7 Kc3 Rgf7 c5 Rxf2 b7 Re3+ Kd4 Re8 Qd6+ Kg8 Qg3+ Kh8 Qxf2 Rd8+ Ke5 Kg8 Qf6 Rb8 Kf5",
+    "duration": 195,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1765290327.539615
+  "updated": 1765290561.879764
 }
