@@ -88,9 +88,3 @@ jobs:
           python3 -u user_interface.py matchmaking --autotournament
           wait  
 
-      - name: Upload Lichess status
-        uses: actions/upload-artifact@v4
-        with:
-          name: lichess-status
-          path: lichess_status.json
-          if-no-files-found: ignore
