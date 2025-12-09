@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2927,
-  "opponent": "caissa-x",
+  "rating": 2978,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 114,
-  "timestamp": "2025-12-09T13:04:30.010360",
+  "time_control": "TC: 10+0",
+  "time_left": 215,
+  "timestamp": "2025-12-09T13:18:17.750784",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2927,
-    "rating_after": 2927,
+    "opponent": "BorkaTower",
+    "rating_before": 2978,
+    "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 c6 Nc3 d5 Nf3 a6 e3 Bf5 Qb3 Ra7 Nh4 Bc8 cxd5 cxd5 Bd3 e6 O-O Bd6 Bd2 b5 Nf3 O-O Rfc1 Rc7 Qd1 Nc6 a3 e5 Nxb5 axb5 Rxc6 e4 Ba5 Bb7 Rc2 Ne8 Ne5 exd3 Qxd3 Qe7 Bxc7 Nxc7 Rac1 g6 Nc6 Qd7 Na5 Ba8 Nc6 Bb7 Na5 Ba8 Nc6 h5 Qd2 h4 h3 Ne6 Qa5 Ng5 Qxb5 Nxh3+ gxh3 Qxh3 Qxd5 Bh2+ Kh1 Bb8+ Kg1 Bh2+ Kh1 Bg3+ Kg1 Bxc6 Qxc6 Bh2+ Kh1 Bg3+ Kg1 Bh2+ Kh1 Bb8+ Kg1 Bh2+ Kh1",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "Nf3 Nf6 d4 d5 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg5 f6 Bh4 g6 Bd3 cxd4 cxd4 Bd6 O-O O-O Rc1 Qe7 Bg3 Nxg3 hxg3 g5 Bb5 Bd7 e4 g4 e5 fxe5 Bxc6 gxf3 Bxd7 Qxd7 dxe5 fxg2 Re1 Qf7 Qg4+ Kh8 Qf3 Qg6 exd6 Rxf3 Nxf3 Rd8 Ne5 Qh5 Kxg2 Rxd6 g4 Qe8 Rc7 Kg8 Rec1 d4 g5 Rc6 Nxc6 bxc6 R1xc6 Qh5 Rc5 Qg4+ Kf1 Qd1+ Kg2 Qg4+ Kh2 Qf4+ Kh1 Qf3+ Kg1 Qg4+ Kh2 Qf3 Kg1 Qg4+ Kf1 Qd1+ Kg2 Qg4+",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765285470.010445
+  "updated": 1765286297.750888
 }
