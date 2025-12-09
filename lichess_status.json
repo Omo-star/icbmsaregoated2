@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "HakoAI",
+  "rating": 2936,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2025-12-09T14:38:58.003880",
+  "time_control": "TC: 3+0",
+  "time_left": 151,
+  "timestamp": "2025-12-09T14:41:22.147292",
   "last_game": {
-    "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 2936,
+    "rating_after": 2936,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 Ng5 Be8 Rd3 b6 g4 Ne7 f4 h5 Rh3 Rg8 gxh5 f6 Nge4 Nf5 Kf2 fxe5 fxe5 Kb7 Bg5 Rh8 e6 Rxh5 Kg2 Rxh3 Kxh3 Bg6 Re1 Re8 Kg4 Kc8 Ng3 Nxg3 hxg3 Bc5 Re2 Rh8 Kf3 Rf8+ Bf4 Bd6 Rd2 Bh5+ Kg2 Rd8 Ne4 Bxf4 gxf4 Bg4 e7 Rxd2+ Nxd2 Kd7 e8=Q+ Kxe8 Nf1 Be6 a3 Kd7 Kf3 Bf5 Ne3 Ke6 Kg3 Bh7 Kg4 Kd6 Kg5 c5 c3 Bd3 Ng4 Kd5 Ne3+ Ke4 Nf5 g6 Ne7 Ke3 Nxg6 Bxg6 f5 Bxf5 Kxf5 Kd3 Ke6 Kc2 a4 Kxb2 c4 Kc3 Kd5 Kb3 a5 bxa5 Ke4 Kc2 Kd5 Kb3 Kxc5 Kc3 Kc6 Kxc4 Kd7 c6 Ke8 a6 Kf8 c5 Kg8 a4 Kh8 a5 Kg8 a3 Kh8 a4 Kg8 a2 Kh8 a3 Kh7 a1=Q Kg8 a2 Kf7 Kd5 Kg6 c4 Kh5 c3 Kh6 c2 Kh7 c1=Q Kg6 Ke6 Kh7 Qg7+ Kxg7 a1=Q+ Kg8 Qh8+ Kxh8 Kf7 Kh7 Qh1#",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Qc3 Rc8 Qd2 Ne7 Rxc8 Qxc8 Nd4 b6 Nb5 Bxb5 Bxb5 Qc7 g3 Nd5 Qd4 Nf6 Kg2 a5 Bd3 Kf8 Ba6 Qc6+ Kf1 Qc1+ Ke2 Qc2+ Ke1 Qc1+ Ke2 Qc2+ Ke1 Qb1+ Ke2 Qc2+",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765291138.0039437
+  "updated": 1765291282.1473925
 }
