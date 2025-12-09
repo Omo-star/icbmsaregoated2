@@ -322,6 +322,20 @@ class API:
                 print(f'Joining tournament "{tournament_id}" failed: {json_response["error"]}')
                 return False
             return True
+    @retry(**JSON_RETRY_CONDITIONS)
+    async def join_team_tournament(self, tournament_id: str, team: str) -> bool:
+        url = f"/api/tournament/{tournament_id}/team/{team.lower()}/join"
+        async with self.lichess_session.post(url) as response:
+            try:
+                json_response = await response.json()
+            except:
+                json_response = {}
+
+            if response.status != 200 or "error" in json_response:
+                print(f'Joining team tournament "{tournament_id}" failed: {json_response}')
+                return False
+
+            return True
 
     async def ping(self) -> float:
         try:
