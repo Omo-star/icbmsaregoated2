@@ -40,7 +40,7 @@ def parse_lichess_time(raw):
 async def run_tournament(ui, tid: str, team: str | None):
     try:
         if team:
-            ok = await ui.api.join_team_tournament(tid, team)
+            ok = await ui.api.join_tournament(tid, team, None)
             if not ok:
                 _alog(f"Team join failed for {tid}")
                 return False
