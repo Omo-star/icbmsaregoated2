@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "DarkOnBot",
+  "rating": 2927,
+  "opponent": "virus_exe-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2025-12-09T12:28:36.667760",
+  "time_control": "TC: 3+0",
+  "time_left": 109,
+  "timestamp": "2025-12-09T12:31:00.042258",
   "last_game": {
-    "result": "loss",
-    "opponent": "DarkOnBot",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "result": "draw",
+    "opponent": "virus_exe-bot",
+    "rating_before": 2927,
+    "rating_after": 2927,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 a6 Nf3 d5 Nc3 Bg4 h3 Bxf3 Qxf3 e6 Bd3 Nd7 Be3 dxe4 Nxe4 Ngf6 Nd2 Nd5 O-O-O Qc7 g4 Nb4 Ne4 Nxa2+ Kb1 Nb4 Bf4 Qd8 Rhe1 Nb6 c4 Be7 Qg3 Nxd3 Qxd3 O-O g5 Rc8 Qe2 Nd7 h4 Qa5 Rd3 Qf5 Bd6 Rce8 h5 Bxd6 Nxd6 Qxg5 Rg3 Qh4 Reg1 g6 hxg6 fxg6 Nxe8 Rxe8 Rb3 b5 cxb5 axb5 Rc1 Qxd4 Rxc6 Ne5 Rc7 b4 Re3 Nf7 Rc4 Qb6 Rb3 Qa5 Rcxb4 Qf5+ Qc2 Kg7 Rb5 Qf4 Qc6 Re7 Rf3 Qa4 b3 Qd4 Qc3 Qxc3 Rxc3 h5 Rbc5 g5 Rc7 Rxc7 Rxc7 Kf6 b4 Nd6 Kc2 h4 Kd2 Nb5 Rb7 Nd6 Rd7 Nb5 Ke2 e5 Kf3 Ke6 Rg7 Kf5 Kg2 Kg4 Rb7 h3+ Kf1 h2 Kg2 Nd6 Rh7 e4 Kxh2 Kf3 Kg1 g4 Rd7 Nb5 Kf1 g3 fxg3 Kxg3 Rd5 Na3 b5 e3 b6 Nc4 b7 Kf3 Rf5+ Ke4 Rf8 Nd2+ Ke2 Nb1 Re8+ Kf5",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Bf3 Ne5 Be2 Nc6 Qc3 Rc8 Qd2 Ne7 Rxc8 Qxc8 Nd4 Qc5 b4 Qc8 f4 Qc7 Qd3 a5 bxa5 Qxa5 Kf2 e5 fxe5 Qxe5 Bf3 b6 Ne2 Nc6 Ng3 Qb2+ Be2 Qf6+ Kg1 Qe6 Kf2 g6 Ne4 Ne5 Qd4 Bc6 Nd2 Bb7 Bf1 Bd5 Kg1 Kh7 Be2 Bb7 Bf1 Qa2",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765283316.6678283
+  "updated": 1765283460.0424097
 }
