@@ -236,6 +236,8 @@ class GameManager:
 
         self._set_next_matchmaking(self.config.matchmaking.delay)
         self.changed_event.set()
+        if not self.tournaments:  
+            asyncio.create_task(realtime_team_scan_once())
 
     async def _start_game(self, game_event: dict[str, Any]) -> None:
         if self.reserved_game_spots > 0:
