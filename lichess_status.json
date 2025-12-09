@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2919,
-  "opponent": "jpg-bot",
+  "rating": 2977,
+  "opponent": "Duduarte",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 67,
-  "timestamp": "2025-12-08T17:38:46.695773",
+  "time_control": "TC: 8+4",
+  "time_left": 492,
+  "timestamp": "2025-12-09T01:40:09.940068",
   "last_game": {
     "result": "win",
-    "opponent": "jpg-bot",
-    "rating_before": 2919,
-    "rating_after": 2919,
+    "opponent": "Duduarte",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nb6 Qf2 Nbd5 c4 Nf4 Bxf4 exf4 Qd4 O-O Qxf4 Rae8 c5 Qc6 Rxe7 Nd5 Be4 Nxf4 Bxc6 Rxe7 cxd6 Re5 Bxb7 Nxg2 d7 Rd8 a4 Ne3 Rd4 Nf5 Rd1 Ne3 Rd4 Nf5 Rd2 Kf8 Bxa6 Ke7 Bc8 Nd6 Rc2 Rd5 a5 Nb5 a6 R8xd7 Bxd7 Kxd7 Rc4 g5 Ra4 Na7 Rd4 Kc6 Rxd5 Kxd5 Kc2 f5 f4 gxf4 Kd3 Nc6 Ke2 Ke5 Kf3 h4 h3 Na7 Nc1 Kd6 Kxf4 Kc7 Kxf5 Kb6 Kg4 Kxa6 Kxh4 Nb5 b3 Ka5 Na2 Na3 b4+ Ka4 Kg3 Nb1 h4 Nd2 b5 Nf1+ Kf2 Nd2 h5 Ne4+ Ke3 Nd2 Kxd2 Kxb5 h6 Kc4 h7 Kd5 h8=Q Ke6 Qf8 Ke5 Qf7 Kd6 Nb4 Ke5 Nc6+ Kd6 Qe7+ Kxc6 Qd8 Kb5 Qd6 Kc4 Kc2 Kb5 Kc3 Ka5 Kc4 Ka4 Qa6#",
-    "duration": 490,
+    "moves": "e4 e5 Nf3 Bc5 Nxe5 Qh4 d4 Qxe4+ Be3 Bxd4 Qxd4 Qxd4 Bxd4 Nc6 Nxc6 dxc6 Bxg7 Bf5 Nc3 Bxc2 Bxh8 Rd8 Be2 Nf6 Bxf6",
+    "duration": 580,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1765215526.6958349
+  "updated": 1765244409.9401746
 }
