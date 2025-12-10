@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
-  "opponent": "Cheszter",
+  "rating": 3082,
+  "opponent": "CheckmateV2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 389,
-  "timestamp": "2025-12-10T18:53:10.403801",
+  "time_control": "TC: 2+1",
+  "time_left": 120,
+  "timestamp": "2025-12-10T18:53:42.803357",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "opponent": "CheckmateV2",
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Bd7 Bd3 Qc8 Qa5 Qb8 f4 b6 Qc3 Bc8 e4 Bb7 e5 Ne4 Bxe4 Bxe4 Nb5 Qb7 Nd6 Qd5 Qc8+ Kh7 Qc4 Qd1+ Qf1 Qd4+ Qf2 Qd1+ Qf1 Qc2 Qf2 Qc1+ Qf1 Qc2 Qf2 Qc1+ Qf1 Qc5+ Qf2 Qc1+",
-    "duration": 600,
+    "moves": "e4",
+    "duration": 121,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1765392790.403895
+  "updated": 1765392822.8034348
 }
