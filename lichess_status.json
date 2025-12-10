@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2942,
-  "opponent": "suniferia",
+  "rating": 3081,
+  "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 31,
-  "timestamp": "2025-12-10T19:13:24.794642",
+  "time_control": "TC: 2+1",
+  "time_left": 19,
+  "timestamp": "2025-12-10T19:18:13.296891",
   "last_game": {
-    "result": "win",
-    "opponent": "suniferia",
-    "rating_before": 2942,
-    "rating_after": 2942,
+    "result": "draw",
+    "opponent": "CheckmateX1",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O Re1 a6 h3 h6 Nbd2 Ba7 Bb3 Re8 Nf1 Be6 Ng3 d5 Qe2 Qd7 Bc2 b5 Rd1 Rad8 d4 Nxe4 Nxe4 dxe4 Nxe5 Nxe5 dxe5 Bc4 Qxe4 Qxd1+ Bxd1 Rxd1+ Kh2 Bxf2 Qg4 Rd3 Bxh6 Bg3+ Kh1 Bxe5 Re1 Be6 Qe4 Bg3 Qxd3 Bxe1 Bf4 Bxa2 Qd7 Re6 Qd8+ Kh7 Qd1 Re4 Bxc7 Bc4 Kh2 f6 Qf3 Re6 Bf4 Kg8 Qd1 Re8 Qd7 Bf7 Qb7 Re6 Qc8+ Kh7 Qd7 Kg8 Qc8+ Kh7 Qd7 Kg8 Qa7 Bh4 b3 Be1 c4 bxc4 bxc4 g5 Bd6 Kg7 c5 a5 Qb8 Bb4 Bf8+ Kg8 Be7+ Kg7 Qd8 Bc3 Bf8+ Kg8 Bd6+ Kg7 h4 gxh4 Bf8+ Kh8 Qd7 Be5+ Kh3 Kg8 Bh6 f5 Bg5 Kg7 Bxh4 a4 Qxa4 Be8 Qb3 Bh5 g3 Bf7 Qb7 f4 c6 fxg3 c7 Bxc7 Qxc7 Rg6 Bxg3 Rh6+ Bh4 Kg8 Kg4 Bh5+ Kg5 Rh7 Qb8+ Kf7 Be1 Ke6 Qg8+ Kd6 Qxh7 Be8 Bb4+ Kc6 Qe7 Bd7 Qd6+ Kb5 Qxd7+ Kxb4 Qc7 Kb3 Kf5 Kb2 Ke4 Kb3 Kd3 Kb4 Qb6+ Ka3 Kc3 Ka2 Qb2#",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Nxh4 Bxh4 Be3 Bd7 Rad1 Kc8 g4 b6 f4 h5 f5 hxg4 hxg4 c5 Bf4 Bc6 b3 a5 Nd5 a4 c4 axb3 axb3 Ra3 Rf3 b5 Kg2 bxc4 bxc4 Ra4 Rc3 g5 Bg3 Ra2+ Kg1 Bb7 Rb1 Bxg3 Rxg3 Rhh2 e6 fxe6 fxe6 Bxd5 cxd5 Kd8 Rf3 Rag2+ Kf1 Rd2 Rb8+ Ke7 Rf7+ Kd6 Kg1 Rdg2+ Kf1 Rc2 Kg1 Rcg2+ Kf1 Ra2 Kg1 Rhg2+ Kf1 Rgd2 Rd8+ Ke5 Kg1 Rg2+ Kf1 Rh2 Kg1 Rag2+ Kf1 Rd2 Kg1 Rhg2+ Kf1 Rh2 Kg1 Rdg2+ Kf1 Rb2 Kg1 Rhg2+ Kf1 Rh2 Kg1 Rhg2+ Kf1 Rgc2 Kg1 Kd4 e7 Rg2+ Kf1 Rh2 Kg1 Rbg2+ Kf1 Rb2 Kg1 Rbg2+ Kf1 Ra2 Kg1 Rhg2+ Kf1 Rh2 Kg1 Rhg2+ Kf1 Rh2",
+    "duration": 254,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765394004.7947056
+  "updated": 1765394293.2970173
 }
