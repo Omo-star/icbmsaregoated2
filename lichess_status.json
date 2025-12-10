@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "canary_colinbot",
+  "rating": 2994,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 3,
-  "timestamp": "2025-12-10T17:37:21.781104",
+  "time_control": "TC: 10+0",
+  "time_left": 406,
+  "timestamp": "2025-12-10T17:46:30.925486",
   "last_game": {
-    "result": "win",
-    "opponent": "canary_colinbot",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "Monastedrez",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Nf6 f4 Bg7 Nf3 O-O Be3 b6 Bc4 c5 Qe2 Nc6 O-O-O Bg4 d5 Na5 e5 dxe5 fxe5 Nd7 e6 Ne5 Ba6 fxe6 dxe6 Qb8 Rhf1 Nxf3 gxf3 Bh3 Rfe1 Nc6 Bg5 h6 Bb5 Nd4 Rxd4 cxd4 Bxe7 Rf5 Ne4 Qf4+ Kb1 Qxf3 Bd6 Qxe2 Bxe2 Bg2 Bc4 b5 Bd3 Rf3 Ng3 Re3 Rxe3 dxe3 e7 Bc6 Bxg6 Bf6 c3 Bg5 Kc2 Kg7 Bh5 Kf6 Bc5 Rg8 Kd3 Ke6 Bg4+ Ke5 Bd4+ Kf4 Bd1 Bxe7 Bxe3+ Ke5 Bxa7 Ke6 Be3 Rd8+ Bd4 Bf6 Bg4+ Kf7 Bh5+ Kf8 Ne2 Bg5",
-    "duration": 154,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 f5 Bc3 Bd6 g3 f4 g4 Nf8 Nc2 Nd7 Rd8 Kf7 Be1 Nf8 Bf2 Ba4 Ne1 Bc6 Nc2 Ne6 Rb8 Ba4 Ne1 Bc6 Nc2",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765388241.7812116
+  "updated": 1765388790.925586
 }
