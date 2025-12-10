@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2937,
-  "opponent": "ViolentStockfish",
+  "rating": 2994,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 19,
-  "timestamp": "2025-12-10T18:42:43.340858",
+  "time_control": "TC: 10+0",
+  "time_left": 389,
+  "timestamp": "2025-12-10T18:53:10.403801",
   "last_game": {
-    "result": "win",
-    "opponent": "ViolentStockfish",
-    "rating_before": 2937,
-    "rating_after": 2937,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Rd1+ Ke8 Nc3 Ne7 h3 h6 Nd4 Ng6 f4 h5 Ne4 Nh4 Be3 Nf5 Kf2 Nxd4 Bxd4 Bf5 Kf3 h4 c4 a5 Rab1 a4 b4 Be6 Rbc1 Bxb4 Rb1 Ba5 Rxb7 Bxc4 Bc3 Ba6 Rb2 Bxc3 Nxc3 Ke7 Rbd2 Bc8 Ne2 Be6 Rc1 Bd5+ Kg4 g6 Nd4 Ra6 a3 f5+ exf6+ Kxf6 Re2 Rb6 Rc3 Rb1 Rf2 Rg1 Nf3 Rd1 Nxh4 Rb8 Nf3 Rb3 Rfc2 Rxc3 Rxc3 Rb1 Ne5 Bxg2 Nd7+ Ke6 Nc5+ Kd5 Nxa4 Be4 Rg3 Kd4 Nc3 Bf5+ Kg5 Rb2 Nd1 Rb8 a4 c5 h4 Rh8 Ra3 Rh5+ Kf6 Rxh4 a5 Rxf4 a6 Be4+ Kg5 Rf3 Ra4+ c4 a7 Ba8 Nb2 Rc3 Rb4 Bd5 Ra4 Rc2 Nd1 Ba8 Ra1 c3 Ra4+ Kd3 Ra3 Rc1 Nxc3 Rxc3 Ra4 Rc2 Ra3+ Kd4 Ra4+ Kc3 Ra5 Kb4 Ra1 c5 Rb1+ Kc3 Kf4 c4 Rb8 Bg2 a8=R Bxa8 Rxa8 g5+ Ke3 g4 Rg8 g3 Rxg3 Kb3 Rg6 Rb2 Rb6+ Kc2 Rc6 c3",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Bd7 Bd3 Qc8 Qa5 Qb8 f4 b6 Qc3 Bc8 e4 Bb7 e5 Ne4 Bxe4 Bxe4 Nb5 Qb7 Nd6 Qd5 Qc8+ Kh7 Qc4 Qd1+ Qf1 Qd4+ Qf2 Qd1+ Qf1 Qc2 Qf2 Qc1+ Qf1 Qc2 Qf2 Qc1+ Qf1 Qc5+ Qf2 Qc1+",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765392163.3409195
+  "updated": 1765392790.403895
 }
