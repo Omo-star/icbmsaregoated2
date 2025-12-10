@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "PositionalAI",
+  "rating": 2987,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2025-12-10T14:23:37.840068",
+  "time_control": "TC: 10+0",
+  "time_left": 77,
+  "timestamp": "2025-12-10T14:40:59.089125",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "Monastedrez",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "Nf3 c5 e4 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Nd5 Nxd5 exd5 Nb8 a4 Be7 Be2 O-O O-O a6 Na3 Nd7 Bd2 Nf6 Be1 Bf5 Nc4 Rc8 a5 h6 c3 Rc7 Nb6 Nd7 Nxd7 Bxd7 c4 Bg5 Ra3 Qe7 Bd2 f5 f3 Bf6 Ra2 e4 f4 Bd4+ Kh1 Qf6 Bb4 Rfc8 b3 Bc3 Bxc3 Qxc3 Qc2 Qb4 Rfa1 Kf7 g3 Rg8 Kg2 Rcc8 Qb2 Ke7 Qd4 g5 Rf1 Rcf8 Qe3 Rg6 Kh1 Kd8 Bh5 gxf4 Rxf4 Rg7 Rf1 Rgg8 Rf4 Kc7 Kg2 Rg7 Bd1 Rh7 Rh4 Rhf7 Rf4 Rh7 Qd2 Qxd2+ Rxd2 b6 axb6+ Kxb6 Kf2 Kc5 Ke3 Ra8 Ra2 a5 Rf1 Rhh8 g4 Rhf8 Raf2 a4 bxa4 Kxc4 Bc2 Kxd5 Bxe4+ fxe4 Rxf8 Rxa4 Kf4 e3+ Kxe3 Bxg4 Re8 Ra2 Rf2 Rxf2 Kxf2 Kd4",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765376617.840183
+  "updated": 1765377659.0892398
 }
