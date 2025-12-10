@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "DarkOnBot",
+  "rating": 2941,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2025-12-10T16:02:34.718013",
+  "time_control": "TC: 3+0",
+  "time_left": 113,
+  "timestamp": "2025-12-10T16:04:43.168060",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 2941,
+    "rating_after": 2941,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Ke8 Re5 Kf7",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 a3 Nf6 Nc3 Bc5 Bc4 O-O Nf3 d6 h3 Be6 Bxe6 fxe6 O-O a5 d3 h6 Rb1 Nc6 Be3 b6 Ne2 a4 c3 Bxe3 fxe3 b5 b4 axb3 Qxb3 Qd7 Qxb5 Rxa3 Qb2 Ra5 c4 Rb8 Qc2 Rba8 Nc3 Nd8 d4 c6 Rb3 Qa7 Kh2 Qc7 Ne2 Ra2 Qd3 Nf7 Ng3 d5 cxd5 cxd5 Rc3 Qb7 exd5 exd4 exd4 Nxd5 Rb3 Qc7 Nh4 Ne7 Ng6 Nxg6 Qxg6 Ng5 Rfb1 Ra1 h4 Rxb1 Rxb1 Qf4 hxg5 Qh4+ Kg1 Qxd4+ Kh1",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765382554.7181785
+  "updated": 1765382683.1681597
 }
