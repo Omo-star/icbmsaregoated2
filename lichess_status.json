@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3082,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2941,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-10T19:02:30.938698",
+  "time_control": "TC: 3+0",
+  "time_left": 144,
+  "timestamp": "2025-12-10T19:05:30.372467",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3082,
-    "rating_after": 3082,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2941,
+    "rating_after": 2941,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 d6 Nf3 e6 Nc3 d5 Bg5 Be7 Qc2 O-O e3 Nbd7 cxd5 exd5 Bd3 c6 O-O-O Re8 g4 c5 Rhg1 c4 Bf5 b5 Ne5 b4 Nc6 Qb6 Bxd7 b3 Qb1 Bxd7 Nxe7+ Rxe7 Bxf6 Qxf6 Nxd5 Qe6 Nxe7+ Qxe7 axb3 cxb3 Kd2 a5 Rc1 Qh4 Rg3 Qf6 Ke1 a4 Qe4 Qa6 Qe7 Qa5+ Ke2 Bb5+ Kd1 Re8 Qc5 Qa6 e4 Bd7 Kd2 Qh6+ g5 Qxh2 Ke3 a3 Qxa3 Qh4 e5 Bf5 Qxb3 Qe4+ Kd2 Rd8 Rc4 Be6 Qd3 Qf4+ Ke2 Bxc4 Qxc4 Qe4+ Re3 Qg4+ Kf1 Qd1+",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Qa4+ Nc6 e3 O-O Bd2 dxc4 Bxc4 Bd6 Qc2 e5 dxe5 Nxe5 Nxe5 Bxe5 O-O b6 f4 Bd6 Be2 Bc5 Bf3 Rb8 Rfe1 Bb7 Na4 Bxf3 gxf3 Qd5 Nxc5 Qxf3 Nb3 Qg4+ Kf1 Qf3+ Kg1 Qg4+ Kf2 Rfe8 e4 Qh4+ Kg1 Qg4+ Kf2 Qh4+ Kg1 Qg4+ Kf2",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765393350.938806
+  "updated": 1765393530.372565
 }
