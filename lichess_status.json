@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "PositionalAI",
+  "rating": 2942,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-10T14:56:04.280527",
+  "time_control": "TC: 3+0",
+  "time_left": 140,
+  "timestamp": "2025-12-10T14:57:41.544309",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "Monastedrez",
+    "rating_before": 2942,
+    "rating_after": 2942,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 O-O Bb6 Nbd2 Na5 Qc2 Ne7 dxe5 Ng6 exd6 Qxd6 a4 Bg4 Nd4 O-O h3 Bd7 Rd1 Rad8 Bf1 Rfe8 Nc4 Nxc4 Bxc4 Qf6 a5 Bc5 Be3 Nf4 Bf1 a6 Re1 Bd6 Rab1 Qe5 Nf3 Qh5 Nd4 Qxa5 Rxb7 Qe5 Bxf4 Qxf4 g3 Qe5 f4 Qc5 e5 a5 Kh2 Bf8 Nb3 Ba4 h4 Rb8 Nxc5 Bxc2 Rxc7 Re7 Rc6 Ra7 g4 a4 Bc4 a3 e6 Bxc5 Rxc5 Kf8 f5 a2 e7+ Rxe7 Rxe7 Kxe7 Ra5 Rc8 Bxa2 Rxc3 Ra7+ Kd6 Rxf7 Ke5 Rxg7 Be4 Re7+ Kf4 Rxe4+ Kxe4 Bb1+",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Nf1 Rfe8 Ne3 Nf6 Nf1 Nd5 Ne3 Nb6 Nf5 Bg6 Nxe7+ Rxe7 Bxg6 hxg6 dxc5 Rxe1+ Qxe1 Nc4 Bf4 Nxb2 Qe4 Rc8 Qd4 Qe8 Bg3 Nc4 h4 Rd8 Qf4 f6 Bf2 Qe5 Qxe5 fxe5 c6 Rc8 Bc5 Rxc6 Bb4 Rc7 Rd1 Kh7 Kf2",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765378564.2806668
+  "updated": 1765378661.5444567
 }
