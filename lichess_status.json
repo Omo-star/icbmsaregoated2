@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2945,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2994,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2025-12-11T18:09:30.502212",
+  "time_control": "TC: 10+0",
+  "time_left": 444,
+  "timestamp": "2025-12-11T18:20:07.917468",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2945,
-    "rating_after": 2945,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qf3 Bg5 h4 Bxf4 Qxf4 h5 c4 g6 cxd5 cxd5 Re5 Ne8 Qg3 Kf8 Qa3+ Kg8 Qg3 Kf8 Qa3+ Kg8 Qg3 Kf8",
-    "duration": 180,
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Nc3 Nbd7 cxd5 cxd5 Rfc1 Bb7 Bf4 Rc8 Qd1 Ne4 Nb5 a6 Rxc8 Qxc8 Rc1 Qa8 Nc7 Qd8 Bh3 g5 Nxe6 fxe6 Bxe6+ Kh8 Bc7 Qe8 Bxd7 Qxd7 Be5+ Bf6 Rc7 Qf5 Rxb7 g4 Bf4 gxf3 exf3 Ng5 Bxg5 Bxg5 Kg2 b5 Ra7 h5 Qe2 Rf7 Rxf7 Qxf7 Qe5+ Bf6 Qd6 Bxd4 Qxa6 Qd7 Qg6 Bxb2 Qxh5+ Kg8 Qg4+ Qxg4 fxg4 d4 Kf3 d3 Ke3 Bd4+",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765476570.5023398
+  "updated": 1765477207.917564
 }
