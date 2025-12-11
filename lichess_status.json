@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2947,
-  "opponent": "ToromBot",
+  "rating": 2993,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 102,
-  "timestamp": "2025-12-11T19:25:32.445165",
+  "time_control": "TC: 10+0",
+  "time_left": 594,
+  "timestamp": "2025-12-11T19:26:18.965550",
   "last_game": {
     "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 2947,
-    "rating_after": 2947,
+    "opponent": "DarkOnBot",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Nc3 Nc6 Nf3 Nxe4 Nxe4 d5 Bd3 dxe4 Bxe4 Bd6 O-O O-O d3 Ne7 d4 f5 Bd3 e4 Bc4+ Kh8 Ne5 Qe8 f4 b5 Be2 Nd5 a4 b4 Bb5 Qe6 a5 Qg8 a6 c5 dxc5 Bxc5+ Kh1 Be6 Qh5 Ne7 c4 bxc3 bxc3 h6 c4 Kh7 Bb2 Rad8 Rfd1 Rxd1+ Rxd1 Rd8 Bd7 Rxd7 Nxd7 Bxd7 Rxd7 Qxc4 Qd1 e3 Qd3 Qxf4 h3 e2 Qxe2 Bd6",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Bg4 h6 Rd6 Bh4 gxh6 Rc4 Bd7 Rxc7 Bxb5 Bg3 Rc6 Rxc6 Bxc6 Bxe5 Ba4 Bxd4 Bxc2 Bxb6 Bxd3 e5",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765481132.4452913
+  "updated": 1765481178.9656382
 }
