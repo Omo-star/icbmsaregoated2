@@ -1,9 +1,11 @@
 aiohttp[speedups]
+aiodns==3.0.0
+pycares==4.2.0
 chess[polyglot,syzygy]
 psutil
 PyYAML
 tenacity
-rich 
+rich
 prompt-toolkit
 discord.py
 beautifulsoup4
