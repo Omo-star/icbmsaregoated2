@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "RaspFish",
+  "rating": 3071,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 405,
-  "timestamp": "2025-12-11T17:40:27.547678",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2025-12-11T17:40:42.390408",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Be7 O-O Bf5 Re1 O-O c4 c6 Qc2 Bg6 Ne5 Na6 a3 Bf6 Nxg6 hxg6 cxd5 cxd5 Be3 Nd6 Nc3 Nc7 a4 Qd7 g3 Rac8 Qb3 Nf5 Bxf5 gxf5 h4 Rfd8 Ne2 Ne6 Qd3 g6 h5 Kg7 hxg6 fxg6 a5 a6 Nf4 Re8 Nxe6+ Rxe6 Qd2 Re4 Kg2 f4 Bxf4 Rxd4 Qe3 Re4 Qb3 g5 Rxe4 dxe4 Be3 Rd8 Rc1",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Ke2 Rxd4 Rc1 Bb5+ Ke1 Kd6 Rc8 a6 Rb8 f5 Rb6+ Kd7 Rb7+ Kd6 Rb6+ Kd7 Rb7+ Kd6 Rb6+",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765474827.5481272
+  "updated": 1765474842.3905165
 }
