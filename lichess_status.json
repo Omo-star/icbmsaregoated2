@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2995,
-  "opponent": "HakoAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 107,
-  "timestamp": "2025-12-11T23:17:40.507822",
+  "rating": 2949,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+1",
+  "time_left": 122,
+  "timestamp": "2025-12-11T23:22:47.484261",
   "last_game": {
-    "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 2995,
-    "rating_after": 2995,
+    "result": "draw",
+    "opponent": "PetersBot",
+    "rating_before": 2949,
+    "rating_after": 2949,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O Ne7 c3 Ng6 Ne1 h5 Nc2 a6 a4 h4 h3 c5 a5 Ne7 Bg5 Bg6 Bg4 f6 exf6 gxf6 Bf4 Bxc2 Qxc2 f5 Bf3 Ng6 Be3 Bd6 Re1 O-O Qd2 Bb8 Bg5 Qc7 g3 Qd6 Bh5 e5 Bxg6 e4 dxc5 Qxg6 Qxd5+ Rf7 Bxh4 Ne5 Nd2 Bc7 Kf1 Re8 f4 Nd3 Re3 Nxb2 Nf3 Qc6 c4 Nxc4 Qxc4 exf3 Rxe8+ Qxe8 Kf2 Kg7 Qd4+ Kh7 Re1 Qb5 Qd5 Qd7 Qxd7 Rxd7 Kxf3 Kg7 Re6 Bxa5 Re5 Rf7 c6 Bc7 Re6 bxc6 Rxc6 a5 Bf6+ Rxf6 Rxc7+ Kg6 Ra7 Rc6 g4 Rc3+ Kg2 Rc4 Kg3 Ra4 Ra6+ Kg7 g5 Ra3+ Kh4 Ra4 Kh5 Kf7 g6+ Ke7 Ra7+ Kf6 g7 Ra3 Kh4 Ra4 g8=Q Rxf4+ Kg3 Ke5 Qd8 a4 Re7+ Kf6 Kxf4 Kg6 Ra7 Kh6 Qg5#",
-    "duration": 600,
+    "moves": "Ned3 g6 g3 Ncd6 e4 f5 exf5 gxf5 f4 Nc4 Nb3 c6 c3 a5 Bd4 Nf6 Ne5 Bd5 Bf3 Bxf3 Qxf3 Qg8 Qe2 Nd6 Kc2 a4 Nc5 Kc8 b3 b5 Rfe1 Nde4 b4 Nxc5 bxc5 Qd5 Nd3 Qc4 Reb1 Ne4 g4 a3 Rb3 Ra4 Re1 e6 g5 Bc7 Qe3 d6 cxd6 Bxd6 Be5 Rd8 Bxd6 Rxd6 Ne5 Qd5 d3 Nc5 c4 Qd4 Qxd4 Rxd4 Nxc6 Rd6 Ne5 Nxb3 Kxb3 Kc7 h4 Ra8 Kc3 b4+ Kb3 Rd4 Rf1 Rb8 h5 Kd6 Nf7+ Kc5 Rf3 Rf8 Ne5 Re8 h6 Re7 Rf2 Ra7 Rf1 Rb7 Kc2 Ra7 Kb3 Rb7 Rf3 Rc7 Rf2 Ra7 Kc2 Rc7 Rf1 Ra7 Kb3",
+    "duration": 285,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1765495060.5078828
+  "updated": 1765495367.4844022
 }
