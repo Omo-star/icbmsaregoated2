@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "MyBotik",
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 15+10",
-  "time_left": 744,
-  "timestamp": "2025-12-11T22:59:23.094866",
+  "time_control": "TC: 10+0",
+  "time_left": 107,
+  "timestamp": "2025-12-11T23:17:40.507822",
   "last_game": {
     "result": "win",
-    "opponent": "MyBotik",
+    "opponent": "HakoAI",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Nxc6 bxc6 e5 Nd5 Nxd5 cxd5 Qxd5 Bb7 Qxb7 Bg7 Bc4 O-O Qe4 e6 O-O d5 exd6 Qxd6 Bf4 e5 Be3 Rfd8 h4 h5 Rad1 Qxd1 Rxd1 Rxd1+ Kh2 Rad8 Qxg6 Kf8 Qxf7#",
-    "duration": 1330,
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O Ne7 c3 Ng6 Ne1 h5 Nc2 a6 a4 h4 h3 c5 a5 Ne7 Bg5 Bg6 Bg4 f6 exf6 gxf6 Bf4 Bxc2 Qxc2 f5 Bf3 Ng6 Be3 Bd6 Re1 O-O Qd2 Bb8 Bg5 Qc7 g3 Qd6 Bh5 e5 Bxg6 e4 dxc5 Qxg6 Qxd5+ Rf7 Bxh4 Ne5 Nd2 Bc7 Kf1 Re8 f4 Nd3 Re3 Nxb2 Nf3 Qc6 c4 Nxc4 Qxc4 exf3 Rxe8+ Qxe8 Kf2 Kg7 Qd4+ Kh7 Re1 Qb5 Qd5 Qd7 Qxd7 Rxd7 Kxf3 Kg7 Re6 Bxa5 Re5 Rf7 c6 Bc7 Re6 bxc6 Rxc6 a5 Bf6+ Rxf6 Rxc7+ Kg6 Ra7 Rc6 g4 Rc3+ Kg2 Rc4 Kg3 Ra4 Ra6+ Kg7 g5 Ra3+ Kh4 Ra4 Kh5 Kf7 g6+ Ke7 Ra7+ Kf6 g7 Ra3 Kh4 Ra4 g8=Q Rxf4+ Kg3 Ke5 Qd8 a4 Re7+ Kf6 Kxf4 Kg6 Ra7 Kh6 Qg5#",
+    "duration": 600,
     "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1765493963.0949287
+  "updated": 1765495060.5078828
 }
