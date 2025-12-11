@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "DarkOnBot",
+  "rating": 2943,
+  "opponent": "ViolentStockfish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-11T15:22:08.174022",
+  "time_control": "TC: 3+2",
+  "time_left": 7,
+  "timestamp": "2025-12-11T15:32:30.107131",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "result": "win",
+    "opponent": "ViolentStockfish",
+    "rating_before": 2943,
+    "rating_after": 2943,
     "rating_delta": 0,
-    "moves": "c3 e5 c4 Nf6 d3 d5 cxd5 Nxd5 Nf3 Nc6 a3 Be7 e3 Be6 Qc2 Qd7 b4 f6 Nbd2 g5 h3 a6 Bb2 O-O-O d4 exd4 Nxd4 Nxd4 Bxd4 Rhe8 Qb2 Kb8 Rd1 Nf4 Ne4 f5 Ba7+ Kxa7 Rxd7 Bxd7 exf4 gxf4 Nc3 Bc6 Be2 Bxg2 Bh5 Bxh1 Bxe8 Rxe8 Kd1 Bf3+ Kc1 Bd6 Qb3 Be4 Qf7 Re7 Qf6 Re5 Qh4 Bc6 Kc2 Re1 a4 Re7 Kb3 Be8 a5 Bf7+ Ka3 Bc4 Kb2 Rd7 Qh6 Be5 Qf8 Rd2+ Kc1 Bd6 Qxf5 Rd4 Qf6",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Nf6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qb6 c4 Bb4+ Ke2 O-O cxd5 exd5 Be3 Qb8 a3 Be7 Nd6 f6 Qd4 fxe5 fxe5 Bxd6 exd6 c5 Qxd5+ Kh8 Qd2 Rf6 Qc3 Bb7 Re1 Qxd6 Bd2 Re8+ Kd1 Rxe1+ Kxe1 h6 Kd1 Be4 Be2 Bxg2 Re1 Bd5 Qg3 Qxg3 hxg3 d6 Rf1 Rxf1+ Bxf1 Bb3+ Ke1 g5 Ba5 Kg7 Bc7 d5 Bd6 c4 Bg2 h5 Bxd5 Kf6 Bf3 h4 g4 Bc2 Bb8 a6 Bc7 Ke7 Kf2 Ba4 Be2 Bb5 Ba5 h3 Bf3 Be8 Kg3 h2 Kxh2 Bd7 Kg3 Bb5 Bb7 c3 bxc3 Bf1 Bf3 Bd3 Kf2 Bb5 Be2 Bd7 Kg3 Bc8 Bb6 Kd6 a4 Kd7 a5 Kd6 Bd4 Kd5 Bf6",
+    "duration": 418,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1765466528.1741304
+  "updated": 1765467150.1072183
 }
