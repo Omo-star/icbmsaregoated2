@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3054,
-  "opponent": "ViolentStockfish",
+  "rating": 2996,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 16,
-  "timestamp": "2025-12-11T22:10:01.011427",
+  "time_control": "TC: 10+0",
+  "time_left": 391,
+  "timestamp": "2025-12-11T22:17:42.964500",
   "last_game": {
-    "result": "win",
-    "opponent": "ViolentStockfish",
-    "rating_before": 3054,
-    "rating_after": 3054,
+    "result": "draw",
+    "opponent": "Monastedrez",
+    "rating_before": 2996,
+    "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "e4 d5 exd5 c6 dxc6 Nxc6 Nc3 Nf6 Nf3 e5 Bb5 Bc5 Nxe5 O-O Bxc6 bxc6 O-O Re8 Nf3 Bb6 h3 Qd6 d4 Bf5 Be3 Rad8 Re1 Qb4 Qc1 Qd6 Na4 Be4 Nxb6 axb6 Nd2 Bf5 c4 Nd7 Nf1 b5 a4 bxa4 Rxa4 h6 Ra5 Qe6 Bd2 Qf6 Bc3 Qg6 Ng3 Bd3 d5 Bxc4 Rxe8+ Rxe8 Bxg7 Bxd5 Bxh6 Nf6 Ra3 Ne4 Bd2 f6 Nxe4 Qxe4 Rg3+ Kf7 Rg4 Qe6 Bc3 Rg8 Rxg8 Kxg8 Qh6 Kf7 Qh7+ Ke8 Qg6+ Qf7 Qxf6 Qxf6 Bxf6 Kf8 f4 Kf7 Bc3 Kg6 g4 Bf7 Kh2 Bb3 h4 Kf7 f5 Kg8 Kg3",
-    "duration": 60,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 a5 Nc4 Qe7 Be3 f6 c3 Qe6 b3 O-O d4 Be7 Qc2 a4 Rfe1 h6 Nb2 axb3 axb3 Rxa1 Rxa1 Re8 Nc4 exd4 Nxd4 Qf7 Bf4 Nc5 Bxc7 Bf8 Bd6 Nxe4 Bxf8 Qxf8 Nb6 Qc5 Nxc8 Nxc3 Nd6 Qxd4 Nxe8 Ne2+ Qxe2 Qxa1+ Qf1 Qe5 Qc4+ Kh8 Nxg7 b5 Qd3 Qe1+ Qf1 Qxf1+ Kxf1 Kxg7 b4 Kf7 g4",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1765491001.011513
+  "updated": 1765491462.964589
 }
