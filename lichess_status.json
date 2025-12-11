@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2944,
-  "opponent": "RaspFish",
+  "rating": 2994,
+  "opponent": "suniferia",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 139,
-  "timestamp": "2025-12-11T16:20:21.860842",
+  "time_control": "TC: 10+0",
+  "time_left": 455,
+  "timestamp": "2025-12-11T16:28:29.148521",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 2944,
-    "rating_after": 2944,
+    "opponent": "suniferia",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "Nf3 e6 d3 d5 g3 Be7 Bg2 Nf6 O-O O-O Nbd2 c5 e4 Nc6 Re1 b5 exd5 Nxd5 c4 bxc4 dxc4 Ndb4 Ne5 Bb7 a3 Nxe5 Bxb7 Nbd3 Bxa8 Nxe1 Qxe1 Nd3 Qe2 Nxc1 Rxc1 Qxa8 Rc3 Bf6 Rb3 h6 Ne4 Bd4 Qf3 f5 Nd2 Qd8 Rb7 Qa5 b4 cxb4 axb4 Qa2 Qe2 Rd8 Kf1 Qa1+ Kg2 Qb2 c5 Kh7 c6 Bxf2 Qxe6 Qxd2 Qxf5+ Kh8 Qxf2 Qc3 Kh3 Qxc6 Rf7 a6 Rf8+ Rxf8 Qxf8+",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 h3 d6 c3 a6 Nbd2 Ba7 Bb3 Qe7 Nf1 Bd7 Be3 O-O-O Bxa7 Nxa7 Ne3 Kb8 a4 Nh5 Nd5 Qe8 Bc4 f5 Qb3 fxe4 dxe4 Bc8 Nb4 Rd7 Bb5 c6 Bxa6 Qg6 O-O-O Qxg2 Nd2 Nf4 Bf1 Qxf2 Na6+ Ka8 Nc4 b5 Rd2 Qe1+ Rd1 Qf2 Rd2 Qe1+ Rd1 Qf2 Rd2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765470021.860965
+  "updated": 1765470509.148618
 }
