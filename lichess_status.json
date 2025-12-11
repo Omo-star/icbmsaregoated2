@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2995,
-  "opponent": "Monastedrez",
+  "rating": 2946,
+  "opponent": "Weiawaga",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 419,
-  "timestamp": "2025-12-11T22:35:10.068105",
+  "time_control": "TC: 5+1",
+  "time_left": 57,
+  "timestamp": "2025-12-11T22:45:15.756777",
   "last_game": {
-    "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 2995,
-    "rating_after": 2995,
+    "result": "win",
+    "opponent": "Weiawaga",
+    "rating_before": 2946,
+    "rating_after": 2946,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 O-O Qc2 c6 O-O b6 Nc3 Nbd7 cxd5 cxd5 Rfc1 Bb7 Qd1 Ne4 Bf4 Rc8 Nb5 a6 Rxc8 Qxc8 Rc1 Qa8 Nc7 Qd8 Bh3 g5 Nxe6 fxe6 Bxe6+ Kh8 Bc7 Qe8 Bxd7 Qxd7 Be5+ Bf6 Rc7 Qf5 Rxb7 g4 Bf4 gxf3 exf3 Ng5 Bxg5 Bxg5 Kg2 Bd8 Qe2 Kg8 g4 Qf6 Qd3 Be7 Qb3 Rd8 Qe3 Bf8 Qd3 Bg7 Qxa6 Rf8 Qe2 Qxd4 Rd7 Qxb2 Qe6+ Kh8 Qxd5 Qe5 Qd3 Qc3 Qe4 Qe5",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O h6 a4 Bb4 c3 Ba5 b4 Bc7 a5 f6 Re1 Ne7 Nh4 fxe5 Nxf5 Nxf5 Bh5+ Ke7 dxe5 Nxe5 Bf4 Kf6 Bxe5+ Bxe5 Qg4 Qd6 Ra2 Bxh2+ Kh1 g5 Rae2 Bf4 Rxe6+ Qxe6 Rxe6+ Kxe6 g3 Be5 Nd2 Raf8 Qe2 Kd6 c4 Bc3 Nf3 Ng7 c5+ Kd7 Bg4+ Kd8 a6 h5 Bh3 bxa6 Nxg5 h4 Qg4 Rf5 Ne6+ Nxe6 Qxf5 Rh6 g4 Rf6 Qh7 Rf3 Kg2 Rf8 g5 Nf4+ Kh2 Nxh3 Kxh3 Rxf2 Qg6 Ke7 Qxc6 Be5 Qxd5 Bg3 g6 Kf6 Qf7+ Ke5 Qxf2 Bxf2 g7 a5 g8=Q axb4 c6 Bb6 Kxh4 Kd6 c7 Bxc7 Qf8+ Kc6 Qxb4 Bb6 Kg5 Bc5 Qe4+ Kb6 Kf6 Bf8 Ke6 Kc5 Qa8 Bh6 Qxa7+ Kc4 Ke5 Kc3 Qc7+ Kd3 Qh7+ Kc4 Qxh6 Kc5 Qe6 Kb4 Kd4 Kb5 Qd7+ Kb6 Kc4 Ka6 Kc5 Ka5 Qa7#",
+    "duration": 441,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1765492510.0682502
+  "updated": 1765493115.756837
 }
