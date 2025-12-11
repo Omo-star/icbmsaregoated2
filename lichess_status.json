@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2944,
-  "opponent": "Nyxite",
+  "opponent": "MDBOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+2",
-  "time_left": 237,
-  "timestamp": "2025-12-11T17:28:08.450195",
+  "time_control": "TC: 3+0",
+  "time_left": 100,
+  "timestamp": "2025-12-11T17:32:43.697527",
   "last_game": {
-    "result": "draw",
-    "opponent": "Nyxite",
+    "result": "win",
+    "opponent": "MDBOT",
     "rating_before": 2944,
     "rating_after": 2944,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 h5 Bc3 Qd7 Ke2 Bf6 f3 g5 Rh1 O-O-O Nd2 g4 a4 Kb8 fxg4 hxg4 Qf2 c5 Rag1 Qxa4 Rxh8 f3+ Nxf3 gxf3+ Kxf3 Bxh8 Ke3 b6 b3 Qc6 Ke2 Qh6 Qf7 Qh2+ Qf2 Qxf2+ Kxf2 Kc8 Rh1 Bf6 Kf3 Kd7 Rh7+ Kd6 Rf7 Bg5 Kg4 Bf4 Kf5 Re8 Rf6+ Kd7 Rf7+",
-    "duration": 458,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 Rad8 Ra1 Qe6 Rxa6 f6 Rc6 fxe5 Nc8 Qf7 Nxe7+ Qxe7 Qd2 b4 Rcxc5 h6 cxb4 e4 b5 Rde8 Rc3 Kh7 Rd7 Rd8 Rxd8 Rxd8 Qe3 Qe6 b4 Rb8 Rc6 Qd5 Rc5 Qe6 Qd4 Re8 Rc7 Qg6 Kg2 e3 fxe3 h5 b6 Rb8 b5 Rxb6 Rxg7+ Qxg7 Qxb6 h4 Qb8 Qxb2+ Kh3 hxg3 Kxg3 Qg7+ Kf3 Qf7+ Qf4 Qh5+ Ke4 Qxb5 Qf5+ Qxf5+ Kxf5 Kg7 Ke6 Kg6 e4 Kg7 e5 Kf8 Kd7 Kf7 e6+ Kf8 e7+ Kg7 e8=Q Kh7 Ke7 Kh6 Kf6 Kh7 Qd8 Kh6 Qh8#",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1765474088.450304
+  "updated": 1765474363.6975892
 }
