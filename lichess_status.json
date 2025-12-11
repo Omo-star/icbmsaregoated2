@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2999,
-  "opponent": "MyBotik",
+  "opponent": "jpg-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 15+10",
-  "time_left": 952,
-  "timestamp": "2025-12-11T21:50:34.766367",
+  "time_control": "TC: 10+2",
+  "time_left": 228,
+  "timestamp": "2025-12-11T22:08:13.390127",
   "last_game": {
-    "result": "win",
-    "opponent": "MyBotik",
+    "result": "draw",
+    "opponent": "jpg-bot",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 Bg5 h6 Bxf6 Qxf6 Nfd2 Qxf2#",
-    "duration": 1060,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 g4 Nh4 Nxh4 Bxh4 Ne2 a4 e6 Bxe6 Bxg7 Rh7 Be5 Kb7 Bg3 Be7 Nd4 Bc8 Re1 Bf6 Be5 Bxe5 Rxe5 c5 Ne2 f6 Rh5 Be6 Nf4 Bf7 Rf5 c4 Re3 axb3 axb3 Ra2 Rc3 cxb3 cxb3 Rb2 Rxf6 Rxb3 Rc2 Bg8 Rg6 Rf3 Rxg8 Rxf4 Rg6 c5 Kg2 Rc7 Rxh6 c4 Rd6 b5 Kg3 Rf8 h4 c3 Rd4 Ka6 h5 Ka5 Ra2+ Kb6 Rc2 Ka5 Ra2+ Kb6 Rc2 Ka6 g5 Rb8 Ra2+ Kb6 h6 c2 Rxc2 Rxc2 g6 Rc1 g7 Rg1+ Kh4 Ka5 Rg4 Rh1+ Kg5 b4 Rg3 b3 Rxb3 Rxb3 h7 Rxh7 g8=Q Rhb7 f3 Rxf3 Qa2+ Kb6 Qa1 Rg7+ Qxg7 Rg3+ Kf6 Rxg7 Kxg7",
+    "duration": 870,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1765489834.766435
+  "updated": 1765490893.3901865
 }
