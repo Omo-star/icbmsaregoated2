@@ -7,6 +7,7 @@ from api import API
 from botli_dataclasses import Challenge, ChallengeRequest, Tournament, TournamentRequest
 from challenger import Challenger
 from config import Config
+from team_tournament_scanner import realtime_team_scan_once
 from game import Game
 from matchmaking import Matchmaking
 from utils import get_future_timestamp
