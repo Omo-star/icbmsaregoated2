@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2948,
+  "rating": 3002,
   "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 59,
-  "timestamp": "2025-12-12T14:53:02.769933",
+  "time_control": "TC: 10+0",
+  "time_left": 73,
+  "timestamp": "2025-12-12T15:11:50.861991",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "HakoAI",
-    "rating_before": 2948,
-    "rating_after": 2948,
+    "rating_before": 3002,
+    "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 c6 Bg5 Be7 e3 O-O Bd3 h6 Bh4 dxc4 Bxc4 Nbd7 O-O b5 Bd3 b4 Na4 Bb7 Rc1 Rc8 Nc5 Nxc5 dxc5 Qa5 Qe2 Rcd8 Nd4 Qc7 h3 e5 Nf5 Bc8 Nxe7+ Qxe7 Rfd1 Rd7 Bxf6 Qxf6 Be4 Rfd8 Rxd7 Bxd7 Qa6 Be8 Qxa7 Qh4 Qc7 Rd2 Qxe5 Qxf2+ Kh2 Kf8 Qb8 Qf6 Rc4 Qe7 Rxb4 g5 a4 Rd8 Qg3 Qxc5 Rb8 Rd1 Bf3 Ra1 Bg4 Qe7 b3 Rc1 a5 Ra1 b4 Ra2 e4 Kg7 Qc3+ f6 e5 Bf7 Bf3 Qc7 Rb6 Qxe5+ Qxe5 fxe5 Rxc6 Be8 Re6 Bb5 Rxe5 Bf1 Bc6 Kf6 Re8 Bc4 Ra8 Ke5 b5 Kd6 a6 Kc5 a7 Be2 Re8 Bxb5 a8=Q Rxa8 Rxa8 Bf1 Bf3 Bc4 Rc8+ Kd6 Rxc4 g4 hxg4 Ke7 g3 Kf8 g5 h5 Bxh5 Ke7 g4 Kf8 g6 Kg7 g5 Kh8 g7+ Kxg7 g6 Kh8 g7+ Kxg7 Rc8 Kh7 Re8 Kg7 Kg3 Kh7 Kf4 Kg7 Kg5 Kh7 Kf6 Kh6 Rh8#",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 a6 d4 e6 Nf3 d5 Nbd2 c5 dxc5 Bxc5 Bd3 Nf6 O-O Nc6 a3 O-O b4 Ba7 Bb2 b5 e5 Nd7 Nb3 h6 Qe2 Bb7 Rae1 Qe7 Ba1 Rad8 h3 Ba8 Bb2 Bb8 Rd1 Rc8 Rfe1 Nb6 Nc5 Nc4 Bxc4 dxc4 Nd7 Rfd8 Nb6 Rxd1 Rxd1 Rd8 Rxd8+ Nxd8 Nxa8 Qb7 Qd1 Nc6 h4 Ba7 Qd2 Qxa8 Qd7 Kf8 h5 Ne7 a4 Nd5 axb5 axb5 Qxb5 c3 Bc1 Bb6 Be3 Bxe3 fxe3 Qa7 Kh2 Qxe3 Qb8+ Ke7 Qb7+ Ke8 Qc8+ Ke7 b5 Nb6 Qc7+ Nd7 Kg3 Ke8 Qc8+ Ke7 Qc7 Qe2 Qxc3 Qxb5 Qa3+ Kd8 Qa8+ Ke7 Qa3+ Kd8 Qa8+ Qb8 Qxb8+ Nxb8 Kf4 Nc6 g4 Nb4 c4 Nd3+ Ke3 Nb4 g5 hxg5 Nxg5 Ke8 Ke4 Nc6 Nf3 Kd7 Nd4 Nb4 Ke3 Kc7 Nb5+ Kd8 Nd6 Ke7 Nc8+ Kd7 Nd6 Ke7 Ke4 Nc6 c5 Nb4 Nc8+ Kd8 Na7 Kc7 Nb5+ Kd7 Nd6 Ke7 Nc8+ Kd7 Na7 Nc6 Nb5 Ke7 Nd4 Kd7 Nf3 Ke7 Ke3 f6 Ke4 fxe5 Nxe5 Nb4 Kf4 Na6 Nd3 Kf6 c6 Nc7 Ke4 Na6 Kd4 Nc7 Kc5 Ne8 Kb6 Kf5 Kb7 e5 Kc8 e4 Nb4 Nd6+ Kd8 Nb5 Nc2 Kg4 Kd7 Kxh5 c7 Nxc7 Kxc7 Kh6 Kd8 Kh7 Ke8 Kh8 Kf8 Kh7 Ke8 Kh8 Kf8 Kh7 Ke8 Kh8",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765551182.769994
+  "updated": 1765552310.862051
 }
