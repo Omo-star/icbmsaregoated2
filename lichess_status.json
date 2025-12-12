@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "ArasanX",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 15+3",
-  "time_left": 376,
-  "timestamp": "2025-12-12T09:16:11.883086",
+  "rating": 3062,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+2",
+  "time_left": 58,
+  "timestamp": "2025-12-12T09:21:01.784318",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "PetersBot",
+    "rating_before": 3062,
+    "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 g3 Bc5 Bg2 O-O Nge2 c6 O-O d5 exd5 cxd5 d4 exd4 Nxd4 Bg4 Nf3 h6 h3 Bf5 a3 a5 Ne5 Nbd7 Nxd7 Qxd7 Nxd5 Nxd5 Qxd5 Qxd5 Bxd5 Rad8 Bxb7 Bxc2 Bf4 Bd4 Rac1 Bb3 Rfe1 a4 Re2 Rfe8 Rce1 Re6 Bc1 g5 Kg2 Rxe2 Rxe2 Bf6 h4 gxh4 gxh4 Kg7 h5 Rd1 Bf4 Rd4 Kg3 Bd1 Re3 Bxh5 b4 axb3 Rxb3 Be2 Bf3 Bxf3 Kxf3 Ra4 Bd6 Kg6 Kg2 Bg5 Bb4 h5 Rg3 Kf5 Rf3+ Kg6 Rg3 h4 Rc3 f6 Rc4 Ra8 Bd6 Rd8 Rd4 f5 Bc5 Rc8 Rd5 Bf6 Kh1 Ra8 Rd6 Kf7 Rc6 Ra4 Bb4 Bb2 Rc5 Kg6 Kg1 Bxa3 Bxa3 Rxa3 Kh2 h3 Rc6+ Kg5 Rc8 f4 Rg8+ Kh4 Rb8 f3 Rh8+ Kg4 Rg8+ Kf4 Rd8 Ra1 Rd2 Rb1 Ra2 Rc1 Ra7 Rb1 Ra2 Rc1 Ra7 Rb1 Ra2",
-    "duration": 1311,
+    "moves": "g4 g5 d4 e6 h4 Nc6 hxg5 f6 e3 fxg5 Nh3 Qg7 Bc3 d5 Nd2 Nf6 Re1 h6 Qe2 a5 f4 Kb8 a4 Qg8 Nb3 gxf4 Nxf4 b6 Rg1 Rd6 Nd2 h5 g5 Ng4 Nf3 Ka7 O-O-O Nb4 Kb1 Bxa4 Rc1 Be8 Bg2 Bf7 Bf1 Kb7 Re1 Qe8 Qb5 Qf8 Qe2 Qe8 Qb5 Qd8 Qa4 Qf8 Bb5 c6 Bf1 Be8 g6 Rd7 Ng5 Qd6 Ngxe6 Re7 e4 dxe4 Rxe4 Bxg6 Nxg6 Rxe6 Rxe6 Qxe6 Nxh8 Qe3 Ba6+ Kxa6 Re1 Qg5 Nf7 Qb5 Qxb5+ Kxb5 Rh1 Nf6 Bxb4 axb4 Rf1 Nd5 Rf5 b3 cxb3 h4 Rh5 Rf8 Nd6+ Kb4 Rxh4 Rf1+ Ka2 Rc1 Rh8 Ne3 Rh4 Nd5 Rh8 Rc2 Rh1 Nc3+ Ka1 Nd5 Ka2 Nc3+ Ka1 Ne2 Ka2 Nc3+",
+    "duration": 296,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765530971.883184
+  "updated": 1765531261.7844555
 }
