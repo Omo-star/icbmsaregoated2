@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "suniferia",
+  "rating": 3059,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 398,
-  "timestamp": "2025-12-12T13:31:35.456660",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-12T13:32:19.809856",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "tbhOnBot",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rc8 Rxd6 Qxd6 Qe4 Qd8 h3 Qb6 Rc3 Ne7 Qc2 Rxc3 Qxc3 Qd8 Nd4 b6 Qc4 Bd7 Bf3 Be8 Be2 Bd7 Qc3 Kf8 Qd2 Qc7 Bb5 Bc8 b4 Kg8 Bf1 Bd7 Bb5 e5 Bxd7 Qxd7 Nf3 Qxd2 Nxd2 g6 Nc4 e4 Nd6 f5 g4 Kg7 gxf5 gxf5 f3 exf3 Kf2 Kf6 Kxf3 Ke5 Nf7+ Kf6 Nd6 a6 b5 axb5 Nxb5 Ke5 Nc3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 g6 d4 Bg7 Nc3 d6 Be3 Nf6 Qd2 c6 Nf3 b5 Bh6 O-O Bd3 Bg4 h4 Bxf3 gxf3 Nh5 Bxg7 Kxg7 f4 Nd7 O-O-O Qa5 Kb1 e5 fxe5 dxe5 Be2 b4 Nb5 cxb5 Bxh5 Rad8 Bf3 h6 d5 Qb6 h5 g5 Bg4 Qd6 Qe2 Rb8 Bxd7 Qxd7 Rd3 Qd6 c3 Rbc8 Rc1 a5 cxb4 Rxc1+ Kxc1 axb4 Kb1 Rc8 Rd2 Rc4 Qe3 Kf8 Rc2 Qc7 Qb3 Rxc2 Qxc2 Qa7 Kc1 Qd4 Qc6 Kg7 d6 g4 Qc7 b3 axb3 Qxf2",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765546295.4568262
+  "updated": 1765546339.8099496
 }
