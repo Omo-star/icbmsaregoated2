@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2946,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-12T10:28:50.646917",
+  "time_control": "TC: 3+0",
+  "time_left": 124,
+  "timestamp": "2025-12-12T10:31:51.153163",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "Monastedrez",
+    "rating_before": 2946,
+    "rating_after": 2946,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 f3 e5 Nb3 Be6 Be3 h5 Qd2 Be7 Nd5 Nxd5 exd5 Bf5 Be2 a5 a4 O-O O-O Nd7 f4 exf4 Bxf4 Rc8 c3 Nf6 Be3 Be4 Bd4 Nxd5 Bxh5 Bg5 Qe2 f5 g3 Nf6 Bf3 d5 Nc5 Qe7 Nd3 Qd6 Rad1 Rce8 Nf2 Qe6 Bh1 Bh6 Rde1 Qd7 Qd1 Bxh1 Rxe8 Qxe8 Kxh1 Ne4 Kg2 b5 Nxe4 Qxe4+ Kg1 Be3+ Bxe3",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "Nf3 d5 d4 a6 g3 e6 Bg2 c5 O-O cxd4 Nxd4 Nf6 Nc3 Be7 e4 dxe4 Nxe4 O-O Nxf6+ Bxf6 Be3 Qc7 Qh5 e5 Ne2 Nc6 Nc3 Be6 Nd5 Bxd5 Bxd5 Nd4 Rac1 Rad8 c4 g6 Qg4 Qd7 Qd1 Kg7 Re1 Rfe8 Kg2 h5 h4 a5 Qd3 a4 Qe4 b5 b4 axb3 axb3 Re7 Rh1 bxc4 bxc4 Qf5 Rhd1 Red7 Rd3 Rc8 Bxd4 Rxd5 Qxf5 gxf5 cxd5 Rxc1 Bb6 Rb1",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765535330.6471052
+  "updated": 1765535511.153333
 }
