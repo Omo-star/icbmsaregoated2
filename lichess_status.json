@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "TeamBlackKnightChess",
+  "rating": 2947,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2025-12-12T14:20:34.041172",
+  "time_control": "TC: 3+0",
+  "time_left": 129,
+  "timestamp": "2025-12-12T14:23:03.395919",
   "last_game": {
-    "result": "win",
-    "opponent": "TeamBlackKnightChess",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 2947,
+    "rating_after": 2947,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 d5 e3 e6 c3 Bd6 Nf3 O-O Nbd2 c5 Ne5 c4 h4 Nc6 h5 h6 Qf3 Bxe5 dxe5 Nd7 Qg3 Kh8 Be2 b5 O-O Qc7 Nf3 Nc5 a3 a5 Qh2 Bb7 Rac1 Na4 g4 Nxb2 g5 Rg8 Qh4 d4 Nxd4 hxg5 Bxg5 f6 Bf4 Nxe5 Rb1 Na4 Nxb5 Qc6 f3 Nf7 Bg3 Ba6 Qxc4 Qxc4 Bxc4 Nxc3 Nxc3 Bxc4 Rfc1 e5 Na4 Bd3 Rb6 Ng5 Kf2 Rac8 Nc5 Bf5 h6 Nh3+ Kg2 Rcd8 hxg7+ Rxg7 Ne4 Bxe4 Rxf6 Ng5 Rh6+ Kg8 Bxe5 Rh7 Rxh7 Bxh7 Rc7 Nf7 Bc3 a4 e4 Bg6 Kf2 Rd1 Rc6 Kh7 Ke2 Rb1 Rc7 Kh6 Bd2+ Kh7 Ra7 Rb2 Ra5 Nd6 Rxa4 Bf7 Ra7 Kg8 Ra8+ Kh7 Ra7 Kg6 Ke1 Nc4 Ra6+",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 f5 Nc3 Bc5 Rc7 Bd6 Rc4 Bxa3 Rd1 Rbb8 g4 Be8 Ra1 Bb2 Ra2 f4 exf4 Rb3 Ne2 Bb5 Rc5 Bd4 Nxd4 Rxd4 Kg2 Bf1+ Kxf1 Rxf3 Kg2 Rfxf4 h3 Ra4 Re2 Rae4 Rxe4 Rxe4 f3 Re2+ Kg3 e5 Rc4 Ra2 Rc7 Kh7 h4 Kg6 Rc6+ Kf7 h5 Re2 Rc7+ Kf8 Rc8+ Ke7 Rc7+ Kf8 Ra7 e4 Ra5 Kf7 Ra7+ Kf6 Ra6+ Kf7 f4 Re3+ Kg2 Re2+ Kh3 Rf2 f5 Rf3+ Kh4 Rb3 Re6",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1765549234.0412848
+  "updated": 1765549383.3960187
 }
