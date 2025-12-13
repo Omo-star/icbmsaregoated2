@@ -5,18 +5,18 @@
   "opponent": "TesT-Z",
   "variant": "Variant: Chess960",
   "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2025-12-13T09:48:51.492399",
+  "time_left": 16,
+  "timestamp": "2025-12-13T09:49:21.760217",
   "last_game": {
-    "result": "loss",
+    "result": "draw",
     "opponent": "TesT-Z",
     "rating_before": 3061,
     "rating_after": 3061,
     "rating_delta": 0,
-    "moves": "f4 f5 O-O-O b6 Nf2 O-O-O b3 Nf7 g4 fxg4 Nxg4 g5 Nf2 h5 fxg5 Rxg5 Rxg5 Nxg5 Nd3 e6 e3 Qg6 Be2 Bd6 Be5 Bxe5 Nxe5 Qf6 Nd3 Ne4 Qf1 Qg7 Qh3 Rh8 Rf1 Bc6 Qh4 a5 Qf4 Qg2 Kd1 Rg8 a3 Kb7 Ne5 Rg5 Nf3 Rf5 Nh4 Rxf4 Nxg2 Rxf1+ Bxf1 Nf6 Ke2 b5 Kf2 Ne4+ Kg1 Nf6 Nc3 Kb6 Kf2 e5 Kg3 b4 axb4 axb4 Nb1 d6 Ne1 Be8 Bh3 Nc6 d3 Nd5 Ng2 Na7 Nd2 Nb5 Be6 Ndc3 Kh4 Na3 Ne1 d5 Kg5 Kc5 Kf6 Kd6 h4 Nab5 e4 Nd4 Bc8 c5 Bh3 Bb5 Bg2 dxe4 dxe4 Be2 Nd3 Nxc2 Nxe5 Kc7 Nec4 Nd4 Ne3 Nd1 Nd5+ Kd8 Nf4 Bg4 Nc4 Nf2 e5 Bd1 Ne3 Bf3 Ne6+ Ke8 Nxd4 Bxg2 Ne6 Bc6 Kg6 Nd3 Kf6 Bf3 Ng7+ Kf8 e6 Kg8 e7 Bc6 Nxh5 Bd7 Nc4 Be8 Ng7 Bc6 Ne6 Kh7 Nd6 Kh6 Nd8 Bd7 N8f7+ Kh5 Ne5 Nxe5 Kxe5 Bc6 Nc4 Kg4 Kd6 Be8 Kxc5 Kf3 Nd6 Bh5 e8=Q Bxe8 Nxe8 Kg4 Kxb4 Kh5 Kc4 Kh6 Kd5 Kh7 Kc5 Kh8 b4 Kg8 Nd6 Kh8 Kd5 Kg8 b5 Kh8 b6 Kg8 b7 Kh8 b8=Q+ Kh7 Qf8 Kg6 Qf7+ Kh6 Nf5#",
+    "moves": "f4 O-O-O b3 d5 e3 Nc6 g4 Kb8 O-O-O f6 f5 b6 Ng3 Nf7 Qf2 Bb7 Bg2 e5 fxe6 Qxe6 Ne2 Nce5 h3 Ng5 Bb2 Ne4 Qf1 Ng6 Nd4 Qd7 d3 Ng5 Nc3 Bc5 Qf2 Ne6 Kb1 Nxd4 exd4 Be7 h4 Rge8 a3 f5 h5 Nh4 gxf5 Qxf5 Qxf5 Nxf5 Bh3 Ne3 Rde1 Bh4 Re2 Bf6 Rge1 Bh4 Rh1 Bf6 Rhe1 Bh4 Rh1 Bf6 Rhe1",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765619331.4924595
+  "updated": 1765619361.7603438
 }
