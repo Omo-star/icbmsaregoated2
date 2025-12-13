@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3064,
-  "opponent": "SF_Bot1nok",
+  "rating": 2952,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 27,
-  "timestamp": "2025-12-13T08:14:32.314802",
+  "time_control": "TC: 3+0",
+  "time_left": 124,
+  "timestamp": "2025-12-13T08:16:42.729726",
   "last_game": {
     "result": "draw",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3064,
-    "rating_after": 3064,
+    "opponent": "Monastedrez",
+    "rating_before": 2952,
+    "rating_after": 2952,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 h3 Qb6 Nc3 c4 Rb1 Qa5 Be2 e6 O-O Bb4 Ne5 Bxc3 Nxc6 bxc6 bxc3 Ne4 Bf3 Nxc3 Qe1 Qa3 e4 Nxb1 exd5 c3 Qxb1 cxd5 Bxd5 exd5 Qb5+ Bd7 Re1+ Kd8 Qxd5 Rc8 Qxf7 Rf8 Bg5+ Kc7 Bf4+ Kd8 Bg5+ Kc7 Bf4+ Kd8 Bg5+",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 cxd5 exd5 Nc3 c6 Bf4 Bf5 e3 Nbd7 a3 Be7 h3 O-O g4 Bg6 Nh4 Ne8 Ng2 Ndf6 Be2 h6 h4 Ne4 g5 hxg5 hxg5 Nxc3 bxc3 Nd6 Bd3 Bxg5 Qc2 Qf6 O-O-O Bxf4 Nxf4 Bxd3 Qxd3 Qf5 Qe2 g6 Rdg1 Rfe8 Qf3 Kf8 Rg4 Ke7 Nxg6+ fxg6 Rh7+ Kd8 Qg3 Nb5 Rxg6 Qd3 Qg5+ Kc8 Qg4+ Kb8 Qg3+ Kc8 Qg4+ Kb8 Qg3+ Kc8",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765613672.3149076
+  "updated": 1765613802.72989
 }
