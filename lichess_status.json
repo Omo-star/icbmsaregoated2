@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2952,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2025-12-13T07:41:30.846505",
+  "time_control": "TC: 3+0",
+  "time_left": 119,
+  "timestamp": "2025-12-13T07:43:22.408823",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 2952,
+    "rating_after": 2952,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 d5 cxd5 c6 dxc6 Nxc6 Bg2 Bc5 Nc3 h6 d3 Nf6 Nf3 O-O O-O Be6 Bd2 Re8 Rc1 Bf8 h3 Rc8 Qa4 Nd7 Be3 f5 Nd2 Kh8 Nb5 Ra8 Nc3 a6 Nf3 Rc8 Qd1 Nf6 Na4 Nd4 Nxe5 Rxc1 Bxc1 Bxa2 e3 Rxe5 exd4 Qxd4 Nc3 Bg8 Bxb7 Qb6 Qf3 Re8 Qc6 Qxc6 Bxc6 Rd8 Bb7 a5 Ba6 Nd7 Be3 Nc5 Bb5 Nb3 Kg2 g6 Re1 Nd4 Bc4 Bg7 Na4 g5 Ra1 Rb8 Ra2 Nc2 Bd2 Nb4 Bxb4 Rxb4 Bxg8 Kxg8 Nc3 Kh7 Rxa5 Rxb2 Nb5 Be5 Na3 Ra2 Nc4 Rxa5 Nxa5 Kg6 Nc4 Bd4 Ne3 Bc5 Kf3 Ba7 Ke2 Kf6 Kf3 Kg6 Kg2 Kf6 g4 fxg4 hxg4 Ke5 Kf3 Bb8 Nf1 Kd4 Ke2 Ke5 Kf3 Kd4 Ke2",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Nf1 Rfe8 Ne3 Nf6 Nf5 Bf8 Bg5 Bg6 Re5 cxd4 Bxf6 gxf6 Rxe8 Rxe8 Nxd4 Bc5 Bxg6 hxg6 Qd2 Bb6 Kf2 Qd6 g3 Qd5 Rd1 Kg7 Qd3 Qe6 Kf1 Bxd4 cxd4 Qd5 Rd2 Rc8 Qe4 Rc1+ Kg2 Qc4 Qe2 Qd5 h4 Rc4 Qe4 Qd6 Qe3 Qd5 g4 b4 g5 b3 Qe4 Qd8 gxf6+ Qxf6 Kg3 Kg8 Qe5 Qb6 Qe8+ Kg7 Qe5+ Kg8 Qe8+ Kg7 Qe2 Rc1 Qe5+ Kg8 Qe8+ Kg7 Qe4 Kg8 d5 Rh1 Qe8+ Kg7 Qe5+ Kg8 Qe8+ Kg7 Qe5+",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765611690.8466244
+  "updated": 1765611802.408969
 }
