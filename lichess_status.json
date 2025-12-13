@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3002,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3065,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 454,
-  "timestamp": "2025-12-13T07:19:55.830060",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2025-12-13T07:20:46.086217",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3002,
-    "rating_after": 3002,
+    "opponent": "Monastedrez",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kf8 Kg2 a6 h4 Kg7 Rb2 Rc1 Rd2 Ra1 Rd3 a5 bxa5 Bb5 Rb3 Bf1+ Kh2 Rxa3 Rxa3 Bxa3 g4 Ba6 Ng3 Bb4 Be2 Bxe2 Nxe2 Bxa5 Kg3 Kf6 Kf4 e5+ Kf3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Bxc6 bxc6 d4 exd4 cxd4 Bb6 Ng3 Rfe8 Kh2 Qa5 Nh4 Qb4 Be3 Bc4 Re1 Re6 b3 axb3 axb3 Rxa1 Qxa1 Qxb3 Nhf5 Kh7 Qa8 Re8 Qxc6 Qb5 Qxb5 Bxb5 Nxd6 cxd6 Rb1 Bc4 Rxb6 Nxe4 Nxe4 Rxe4 Rxd6 Re8 Kg3 Rb8 h4 Rb5 f3 f6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765610395.8302376
+  "updated": 1765610446.0863307
 }
