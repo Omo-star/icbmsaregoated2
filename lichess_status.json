@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3001,
-  "opponent": "Monastedrez",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 211,
-  "timestamp": "2025-12-13T09:09:51.119669",
+  "rating": 3060,
+  "opponent": "FayEFish",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2025-12-13T09:11:05.389547",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3001,
-    "rating_after": 3001,
+    "opponent": "FayEFish",
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 Be3 Bxe3 fxe3 Qe7 Qd2 a5 h3 Nd7 Nc3 b5 b3 a4 Ne2 O-O O-O Re8 Ng3 c5 Qe1 g6 Ne2 b4 Qg3 Bb7 Rac1 axb3 axb3 Ra2 Qg4 Nf6 Qg5 Nd7 Qg4 Qe6 Qh4 Qe7 Ng5 f6 Nf3 Rea8 Ng3 R8a6 Qg4 Kh8 Nh1 Kg7 Nf2 c4 bxc4 R6a3 Qh4 Rc3 Ng4 Raxc2 Rxc2 Rxc2 Nfxe5 Nxe5 Qh6+ Kh8 Nxe5",
-    "duration": 600,
+    "moves": "b4 h5 h4 b5 d4 d5 Nc3 Nd6 Nd3 Rh6 a4 Nc6 e3 bxa4 Nxa4 a5 bxa5 Nxa5 Qxb8 Rxb8 Nac5 Bc6 Bc3 Nac4 Ra1 Ne4 Nxe4 dxe4 Nf4 Nb6 Kh2 Nd5 Ba5 Ra8 Nxd5 Bxd5 Bb5 c6 Be2 Rf6 Kg3 Rg6+ Kh2 Rf6 Rhf1 Rf5 Bc3 Rxa1 Bxa1 Be6 Bc3 c5 Bd2 Rd5 c4 Rd8 d5 g6 Ba5 Ra8 Bb6 Ra2 Bd1 Bg4 Bxg4 hxg4 Bxc5 Rc2 Ra1 Rxc4 Bd4 f5 Kg3 Kf7 Ra5 Rc2 Ra7 Rc8 Kf4 Rd8 Ra5 Bh6+ Kg3 Bf8 Kf4 Bh6+ Kg3 Bf8 Ba1 Rd7 Be5 e6 dxe6+ Kxe6 Bf4 Be7 Bg5 Bd6+ Bf4 Be7 Ra6+ Kf7 Bg5 Bd6+ Bf4 Be7 Ra2 Kg7 Be5+ Kh6 Ra8 Bd8 Rc8 Rd5 Bb2 Kh5 Kh2 g5 hxg5 Bxg5 Rh8+ Kg6 Rg8+ Kh5 Rh8+ Kg6 Rg8+ Kh6 Rh8+ Kg6 Rg8+",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765616991.119782
+  "updated": 1765617065.3896642
 }
