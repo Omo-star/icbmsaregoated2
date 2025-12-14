@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "caissa-x",
+  "rating": 3066,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 314,
-  "timestamp": "2025-12-14T11:26:30.220869",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2025-12-14T11:27:07.961465",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "opponent": "DarkOnBot",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 Nbd7 e3 c5 cxd5 exd5 Bd3 c4 Bf5 Qa5 O-O O-O Qc2 Re8 Nd2 h6 Bh4 Qa6 a3 Bxc3 bxc3 Nf8 a4 Bxf5 Qxf5 N8d7 Rfe1 Qb6 Qc2 Qc6 f3 b6 Qf5 a6 e4 Qe6 Qxe6 fxe6 exd5 Nxd5 Nxc4 Rec8 Nd6 Rxc3 Rxe6 Nf8 Re2 Rd3 Bf2 Ng6 Rb2 Ngf4 Kf1 Rd8 Nc4 Rc8 Nxb6 Nxb6 Rxb6 Rc2 Rbb1 Rdd2 Be3 Rxg2 Bxf4 Rcf2+ Ke1 Re2+ Kf1 Ref2+ Ke1 Re2+ Kd1 Ref2 Rb8+ Kh7 Ke1 Re2+ Kf1 Ref2+ Ke1 Re2+ Kd1 Ref2 Ke1",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Kg6 Re5 Kf7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765711590.2209957
+  "updated": 1765711627.9615903
 }
