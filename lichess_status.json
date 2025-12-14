@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "caissa-x",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 339,
-  "timestamp": "2025-12-14T12:36:17.195487",
+  "rating": 3065,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+1",
+  "time_left": 23,
+  "timestamp": "2025-12-14T12:36:40.036627",
   "last_game": {
-    "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 O-O Bb6 Nbd2 Na5 Qc2 Ne7 dxe5 Ng6 exd6 Qxd6 a4 Bg4 Nd4 O-O-O Bxf7 Qf6 Bxg6 hxg6 N2f3 Bxd4 Nxd4 Qe5 f4 Qh5 h3 Bxh3 gxh3 Qxh3 Qg2 Qxc3 Bb2 Qe3+ Rf2 Rxd4 Bxd4 Qxd4 Re1 Nc6 e5 Qc3 Qe4 a6 Re3 Qc1+ Re1 Qc3 Qe3 Qa5 e6 Kb8 Qd2 Qc5 Qc2 Qa5 Qd2 Qf5 e7 Re8 Rh2 Qc5+ Qf2 Qd5 Rh8 Rxh8 e8=Q+ Rxe8 Rxe8+ Nd8 Qe3 b5 axb5 axb5 Re5 Qc6 Kf2 Nf7 Re8+ Kb7 Qf3 Qxf3+ Kxf3 Nd6",
-    "duration": 600,
+    "moves": "c4 f5 Kc2 Qxc4+ Kb1 e5 d3 Qf7 Nb3 Ng6 a3 Qxb3 f3 Qxd1+ Ka2 Bf7+ b3 Qxb3#",
+    "duration": 48,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1765715777.1955767
+  "updated": 1765715800.0366874
 }
