@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2965,
-  "opponent": "Weiawaga",
+  "rating": 3065,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+1",
-  "time_left": 300,
-  "timestamp": "2025-12-14T11:59:38.994954",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2025-12-14T12:00:41.082142",
   "last_game": {
     "result": "draw",
-    "opponent": "Weiawaga",
-    "rating_before": 2965,
-    "rating_after": 2965,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 301,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Nc3 Rxe1 Qxe1 Bxd4 Bf4 Ne8 Nd5 d6 Bg5 f6 Bh4 g5 Qe4 Bxb2 Re1 Be5 f4 gxh4 fxe5 dxe5 Bd3 Kf8 Ne3 Qe7 Qxh4 Be6 Bxh7 Rd8 Be4 Qg7 Rf1 b6 h3 Ke7 Rf5 Kd7 Rh5 Kc8 Nf5 Bxf5 Bxf5+ Kb8 Rh8 Qe7 Be4 Nd6 Qh7 Nf7 Rg8 Rxg8 Qxg8+ Nd8 Kh2 c6 Bxc6 f5 Bb5 e4 Qg3+ Kc8 h4 Qf6 h5 Nf7 Qf4 Kd8 Qb8+ Ke7 Qxa7+ Kf8 Qb8+ Kg7 Qf4 Ng5 Bc4 Ne6 Bxe6 Qxe6 Kg1 Kh7 Qg5 e3 g3 b5 h6 Qe5 Qg7+ Qxg7 hxg7 Kxg7 Kg2 Kf6 Kf3 Kg5 c3 e2 Kxe2 f4 gxf4+ Kxf4 Kd3 Ke5 Kc2 Kd6 Kb3 Kc7 Kb4 Kb6 Ka3 Kc7 Kb4 Kb6 c4 bxc4 Kxc4 Kc7 Kc5 Kd8 Kb6 Kc8 Kc6 Kb8 Kb6 Kc8 Ka6 Kb8 a3 Kc8 Kb6 Kb8",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1765713578.995047
+  "updated": 1765713641.0822043
 }
