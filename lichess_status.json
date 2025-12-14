@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "suniferia",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 118,
-  "timestamp": "2025-12-14T09:32:44.796725",
+  "rating": 3066,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 26,
+  "timestamp": "2025-12-14T09:35:59.242885",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "opponent": "Bharat_royals",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Nf3 d5 Bg2 O-O O-O c6 Qc2 b6 Nc3 Nbd7 cxd5 cxd5 Rfc1 Bb7 Qd1 Ne4 Be1 Rc8 Bf1 Rc7 a4 Nxc3 Bxc3 a5 Bd2 Bd6 Qe1 Rxc1 Rxc1 Qe7 Bg5 Qe8 Bd2 Qe7 Bg5 f6 Bd2 Rc8 Rxc8+ Bxc8 Qc1 Bb7 e3 Nb8 Qd1 Qc7 Ne1 h6 Bd3 Kf8 Be2 Kg8 Kg2 Bc6 Qb3 Kf7 Qc2 Kg8 Qb3 Kf7 h4 f5 Qd1 Be8 Nd3 Nd7 b4 Nf6 bxa5 bxa5 Qb3 Ne4 Be1 Qb8 Qxb8 Bxb8 Ne5+ Ke7 Bb5 Bxe5 dxe5 Nc5 Bxa5 Nxa4 Be2 Nb2 Bb4+ Kf7 Bh5+ g6 Be2 Nc4 Bc3 Bb5 Bd1 g5 g4 Be8 Kh3 Ke7 Bb4+ Kd7 h5 Nxe5 Bf8 Nf7 f4 gxf4 exf4 fxg4+ Kxg4 Kd8 Bc2 e5 Bd1 Bd7+ Kf3 Ke8 Ba3 Bb5 Bc2 exf4 Kxf4 Bd7 Bg6 Be6 Bb4 Kd7 Bd3 d4 Bb5+ Kd8",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "f4 f5 g3 c6 c3 g6 e4 fxe4 Qxe4 Be6 Ne3 Bh3 Rf2 d5 Qf3 Qg7 O-O-O e5 Qe2 O-O fxe5 Rxf2 Bxf2 Qxe5 g4 Ne6 Bg3 Qf6 Rg1 Rf8 Bf5 Bxg3 Bxe6+ Qxe6 hxg3 c5 Nb3 b6 Re1 Re8 Rh1 d4 cxd4 cxd4 Nxd4 Rc8+ Kd1 Qe4 Qf3 Qxd4 Rxh3 Rd8 Rh2 Qxb2 Qe4 Qa1+ Ke2 Qxa2 Qe7 Rxd2+ Kf3 Rxh2 Qd8+ Kf7 Qd7+ Kg8 Qd8+ Kg7 Qd4+ Kf7 Qd7+ Kf8 Qd8+ Kg7 Qd4+ Kf8 Qd8+ Kg7 Qd4+",
+    "duration": 158,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765704764.7968984
+  "updated": 1765704959.2429757
 }
