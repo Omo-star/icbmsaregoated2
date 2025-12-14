@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3065,
-  "opponent": "MEGA-NOOB-BOT",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2025-12-14T09:06:32.340978",
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+2",
+  "time_left": 109,
+  "timestamp": "2025-12-14T09:11:02.291051",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
+    "opponent": "PetersBot",
     "rating_before": 3065,
     "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rb8 Bxf6 Kf7 Bc3 a3 g4 hxg4+ Kxg4 Rg8+ Kh5 Be7 Re6 axb2 Bxb2 Rg2 Bc1 Bd6 Bg5 c3 Re3 Rxa2 Rxc3 c5 Re3 Rf2 Kg4 Rf1 h5 Rg1+ Kh4 Rf1 h6 Rxf5 Kg4 Rf1 Rf3+ Rxf3 Kxf3 c4 h7",
-    "duration": 30,
+    "moves": "f4 f5 g4 fxg4 c4 c6 a4 h5 e4 Ne6 f5 Nf4 d4 g5 fxg6 e5 Nd3 Nxd3 Qxd3 exd4 Bxd4 Bxd4 Qxd4 Qg5 Ra3 Qxg6 Rd3 a5 Ng3 Nc7 Nf5 Rf8 O-O Qf6 Qxf6 Rxf6 Rxd7 Bxc4 e5 Rf8 Rf2 Be6 Ng7 Re8 Nxe8 Bxd7 Nd6 Ne6 Rf7 Nc5 Bg2 Ka7 Ne4 Nxe4 Bxe4 Rd8 Rh7 h4 Rxh4 Bc8 Rh6 Rd4 Bh7 Rd1+ Kf2 Rd2+ Ke3 Rxb2 Bd3 Kb6 e6 Bxe6 Rxe6 Rxh2 Rg6 Rb2 Rxg4 Rb4 Rxb4+ axb4 a5+ Kxa5 Bb1 b3 Bf5 c5 Be4 b5 Kd2 Kb4 Bc6 c4 Kc1 Ka5 Bh1 Ka4 Bg2 Ka3 Kb1 b2 Bf1 c3 Bd3 c2+ Kxc2 b1=R Kxb1 b4 Bh7 Kb3 Bg8+ Kc3 Bh7 b3 Bg8 Kb4 Bh7 Kc5 Bg8 b2 Bh7 Kc6 Bg8 Kb7 Bh7 Kc7 Bg8 Kd8 Bh7 Ke8 Bg8 Kf8 Bh7 Kg7 Bg8 Kxg8 Kc2 Kg7 Kxb2",
+    "duration": 338,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765703192.3410714
+  "updated": 1765703462.2911143
 }
