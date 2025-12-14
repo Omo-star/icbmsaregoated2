@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2954,
+  "rating": 3000,
   "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 53,
-  "timestamp": "2025-12-14T07:48:21.172878",
+  "time_control": "TC: 10+0",
+  "time_left": 424,
+  "timestamp": "2025-12-14T07:52:23.120389",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "AlwaysPlayMystery",
-    "rating_before": 2954,
-    "rating_after": 2954,
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Qe8 Kg2 Rg7 b4 Rgh7 a4 Qf8 Nd2 a6 Nb3 Qf7 a5 Rh8 axb6 cxb6 Ra1 Kb7 Nd2 R8h7 Nc4 Qc7 Rd2 Ka7 Ra3 a5 b5 Qd7 bxc6 Qxc6 Bxa5 bxa5 Rxa5+ Kb8 c3 Bd8 Rd5 Bg5 Ra2 R5h6 Nxe5 Qa6 Rxa6 Rxa6 Rb5+ Ka7 Rb1 Rc7 Qf5 Bd8 Kh3 Rb7 Rxb7+ Kxb7 Qf7+ Bc7 Nd7 Ra7 Nc5+ Kb6 d4 Bd6 Qe6 Kc6 e5 Kb5 exd6 g2 Kxg2",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h4 a5 Ne5 Bxe5 Bxe5 Rad8 Qc1 f6 Bf4 Kg7 Qd1 Rc8 Re2 Nd6 Bxd6 Qxd6 Rxe8 Rxe8 b3 Bg4 Qb1 Bf5 Qd1 Bg4 Qb1 Bf5 Qb2 Bd3 bxc4 Bxc4 Bf1 Bxf1 Rxf1 f5 Qd2 Re4 Re1 Kf7 Rxe4 fxe4 Qe2 Qc6 Qe3 Ke7 Qf4 Kd7 Qf7+ Kd8 Kg2 e3 fxe3 b5 axb5 Qxb5",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765698501.1729672
+  "updated": 1765698743.120496
 }
