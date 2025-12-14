@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2961,
-  "opponent": "ToromBot",
+  "rating": 3000,
+  "opponent": "suniferia",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 111,
-  "timestamp": "2025-12-14T09:15:48.428797",
+  "time_control": "TC: 10+0",
+  "time_left": 118,
+  "timestamp": "2025-12-14T09:32:44.796725",
   "last_game": {
     "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 2961,
-    "rating_after": 2961,
+    "opponent": "suniferia",
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "c4 g6 d4 Bg7 e4 d6 Nc3 c5 d5 Bxc3+ bxc3 e5 a4 Qh4 Qc2 a5 g3 Qe7 Rb1 h6 Bg2 Nf6 Bh3 Kd8 Be3 Ng4 Bc1 f5 f3 Nf6 exf5 g5 Ne2 Nbd7 g4 e4 f4 Kc7 O-O b6 Bg2 Nxg4 h3 Ngf6 fxg5 hxg5 Bxg5 Ba6 Nf4 Bxc4 Rfe1 Qe5 Bxe4 Nxe4 Qxe4 Rag8 Kh2 Ba2 Qf3 Kb7 Rxe5 Nxe5 Qf1 Bxb1 Ne6 Be4 Kg3 Rh7 h4 Rf7 Qf4",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Nf3 d5 Bg2 O-O O-O c6 Qc2 b6 Nc3 Nbd7 cxd5 cxd5 Rfc1 Bb7 Qd1 Ne4 Be1 Rc8 Bf1 Rc7 a4 Nxc3 Bxc3 a5 Bd2 Bd6 Qe1 Rxc1 Rxc1 Qe7 Bg5 Qe8 Bd2 Qe7 Bg5 f6 Bd2 Rc8 Rxc8+ Bxc8 Qc1 Bb7 e3 Nb8 Qd1 Qc7 Ne1 h6 Bd3 Kf8 Be2 Kg8 Kg2 Bc6 Qb3 Kf7 Qc2 Kg8 Qb3 Kf7 h4 f5 Qd1 Be8 Nd3 Nd7 b4 Nf6 bxa5 bxa5 Qb3 Ne4 Be1 Qb8 Qxb8 Bxb8 Ne5+ Ke7 Bb5 Bxe5 dxe5 Nc5 Bxa5 Nxa4 Be2 Nb2 Bb4+ Kf7 Bh5+ g6 Be2 Nc4 Bc3 Bb5 Bd1 g5 g4 Be8 Kh3 Ke7 Bb4+ Kd7 h5 Nxe5 Bf8 Nf7 f4 gxf4 exf4 fxg4+ Kxg4 Kd8 Bc2 e5 Bd1 Bd7+ Kf3 Ke8 Ba3 Bb5 Bc2 exf4 Kxf4 Bd7 Bg6 Be6 Bb4 Kd7 Bd3 d4 Bb5+ Kd8",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765703748.4289343
+  "updated": 1765704764.7968984
 }
