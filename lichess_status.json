@@ -5,18 +5,18 @@
   "opponent": "Cold_Sewy12",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 24,
-  "timestamp": "2025-12-14T17:02:28.726130",
+  "time_left": 30,
+  "timestamp": "2025-12-14T17:02:32.168252",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "Cold_Sewy12",
     "rating_before": 3067,
     "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 Nc3 Bb4 Bd3 d5 exd5 O-O O-O cxd5 Ne2 Re8 Ng3 Bg4 c3 Bxd1",
+    "moves": "e4",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1765731748.7262201
+  "updated": 1765731752.168334
 }
