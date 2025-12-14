@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2995,
-  "opponent": "suniferia",
+  "rating": 2965,
+  "opponent": "Weiawaga",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 343,
-  "timestamp": "2025-12-14T11:59:36.924656",
+  "time_control": "TC: 5+1",
+  "time_left": 300,
+  "timestamp": "2025-12-14T11:59:38.994954",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 2995,
-    "rating_after": 2995,
+    "opponent": "Weiawaga",
+    "rating_before": 2965,
+    "rating_after": 2965,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 Re1 Qd7 Qf3 Re8 Rxe8+ Nxe8 Nb3 b6 Nd2 Be7 Qe2 Bd6 Bxd6 Nxd6 Qa6 c6 Nf3 f6 Nh4 Be6 Nf3 Nc4 Bxc4 dxc4 h3 h6 Nh2 Bd5 Nf1 Qf5 Ne3 Qb1+ Kh2 Qxb2 Qc8+ Kh7 Nxd5 cxd5 Qf5+ Kh8 Qxd5 Qxc3 Qa8+ Kh7 Qe4+ Kh8 Qa8+ Kh7 Qe4+ Kg8 Qd5+ Kf8 Qd8+ Kf7 Qd7+ Kf8 Qd8+ Kf7 Qd7+ Kf8 Qd8+ Kf7",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4",
+    "duration": 301,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1765713576.9247704
+  "updated": 1765713578.995047
 }
