@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "Monastedrez",
+  "rating": 3063,
+  "opponent": "Benedikt_Niedermayer",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 290,
-  "timestamp": "2025-12-14T07:43:11.226631",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2025-12-14T07:43:50.129651",
   "last_game": {
-    "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "result": "win",
+    "opponent": "Benedikt_Niedermayer",
+    "rating_before": 3063,
+    "rating_after": 3063,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Bf5 Qf3 Bg6 Bxf6 Qxf6 Qxf6 gxf6 Nf3 a5 Nh4 Be7 Ne2 Kd7 Kd2 Na6 Ng3 a4 a3 Bd8 Rc1 Nc7 Be2 Ne8 Bg4+ Kc7 Ngf5 Ra6 Be2 Rb6 Rb1 Nd6 Bd3 Nxf5 Bxf5 Be7 Rhc1 Bd6 Rc3 Rb5 Bd3 Ra5 Rbc1 Bxd3 Rxd3 Kd7 g3 Ke6 Nf3 f5 Ng1 Rb5 Kc2 Ra8 Ne2 h5 Rd2 Ra6 Nc3 Rba5 Rcd1",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "g3 e5 Bg2 d5 e3 Nf6 Ne2 h5 d4 e4 O-O h4 Nbc3 hxg3 hxg3 Bg4 Nf4 Bxd1 Rxd1 Nc6 Rf1 g5 Rd1 gxf4 exf4 Qd7 Kf1 Ng4 Ke2 O-O-O Ke1 Kb8 Ke2 Nb4 Rd2 Qe6 Rd1 Qa6+ Ke1 Nxc2+ Kd2 Qd3#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1765698191.2267518
+  "updated": 1765698230.1297119
 }
