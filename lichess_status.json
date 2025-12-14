@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3063,
-  "opponent": "Benedikt_Niedermayer",
+  "opponent": "AlPhAbEtACeta",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2025-12-14T07:43:50.129651",
+  "time_left": 20,
+  "timestamp": "2025-12-14T07:44:53.607012",
   "last_game": {
-    "result": "win",
-    "opponent": "Benedikt_Niedermayer",
+    "result": "draw",
+    "opponent": "AlPhAbEtACeta",
     "rating_before": 3063,
     "rating_after": 3063,
     "rating_delta": 0,
-    "moves": "g3 e5 Bg2 d5 e3 Nf6 Ne2 h5 d4 e4 O-O h4 Nbc3 hxg3 hxg3 Bg4 Nf4 Bxd1 Rxd1 Nc6 Rf1 g5 Rd1 gxf4 exf4 Qd7 Kf1 Ng4 Ke2 O-O-O Ke1 Kb8 Ke2 Nb4 Rd2 Qe6 Rd1 Qa6+ Ke1 Nxc2+ Kd2 Qd3#",
+    "moves": "d4 d5 c4 e6 g3 dxc4 Bg2 c5 Nf3 Nc6 Qa4 cxd4 Nxd4 Qxd4 Bxc6+ Bd7 Be3 Bxc6 Qxc6+ bxc6 Bxd4 Bb4+ Kf1 Nf6 Kg2 O-O-O e3 c5 Bxf6 gxf6 Rc1 Rd3 a3 Ba5 Ra2 c3 b4 cxb4 axb4 Bxb4 Rxa7 Rhd8 Rc2 R8d6 Rxf7 Rc6 Rxf6 Rd1 Nxc3 Bxc3 Rh6 Rd7 f4 Re7 g4 Rc5 g5 Kd8 h4 Ke8 Kf3 Kf8 e4 Kg8 e5 Re8 Rf6 Bd4 Re2 Rc4 h5 Rc3+ Kg4 Rc1 Kf3 Rf1+ Kg3 Rg1+ Kh2",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1765698230.1297119
+  "updated": 1765698293.6071088
 }
