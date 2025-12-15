@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2971,
-  "opponent": "bot1e",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 70,
-  "timestamp": "2025-12-15T09:28:25.266087",
+  "rating": 3068,
+  "opponent": "ISARFish",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+2",
+  "time_left": 78,
+  "timestamp": "2025-12-15T09:32:18.995292",
   "last_game": {
     "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 2971,
-    "rating_after": 2971,
+    "opponent": "ISARFish",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Nh4 g6 h3 a5 Nf3 b5 Ne3 a4 Rb1 Qe7 b3 Rd8 c3 Nf8 Qc2 Ne6 Rd1 Kg7 b4 Ba7 Re1 h6 h4 h5 Rd1 Bb7 c4 Nd4 Nxd4 Bxd4 Qd2 Qf7 a3 Bc8 Bb2 bxc4 Nxc4 Ba6 Rbc1 Bxc4 Rxc4 Bxb2 Qxb2 Qxc4 dxc4 Rxd1+ Kh2 Rd4 Qc2 Rad8 f3 Rd2 Qxa4 Rb2 Qxc6",
-    "duration": 322,
+    "moves": "c4 g6 g3 c6 d4 d5 Bf4 Bh3+ Bg2 Qc8 cxd5 cxd5 Rc1 Nac7 Nb3 Bf5 Nd3 b6 f3 Bxd3 Qxd3 Qd7 O-O O-O Rfd1 Ne6 Be3 Nd6 Bf2 Bg7 Nd2 Rc8 Nb1 Rxc1 Rxc1 Rc8 Rxc8+ Qxc8 Nc3 Qc6 e4 Nc7 e5 Nc4 Qc2 b5 Bf1 e6 Bd3 Na6 Qc1 Nb4 Bf1 Bf8 f4 Be7 g4 Qa6 a3 Nc6 f5 Qa5 fxe6 fxe6 a4 bxa4 Nxd5 exd5 Bxc4 Nxd4 Bxd4 dxc4 Qxc4+ Kf8 Qc8+ Qd8 Qc4 Qa5 Qe2 Qb4 Bxa7 Kf7 Bf2 Ke6 Bg3 Kd5 Qf3+ Ke6 Qc6+ Kf7 Qf3+ Ke6 Qc6+ Kf7 Qf3+ Ke6",
+    "duration": 252,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1765790905.2661867
+  "updated": 1765791138.99546
 }
