@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "duchessAI",
+  "rating": 3002,
+  "opponent": "suniferia",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+15",
-  "time_left": 121,
-  "timestamp": "2025-12-15T12:36:53.674798",
+  "time_control": "TC: 10+0",
+  "time_left": 264,
+  "timestamp": "2025-12-15T12:50:20.939086",
   "last_game": {
-    "result": "win",
-    "opponent": "duchessAI",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "result": "draw",
+    "opponent": "suniferia",
+    "rating_before": 3002,
+    "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Nc3 Nxc3 dxc3 Be7 Be3 Nd7 Qd2 O-O O-O-O Nf6 Bd3 Re8 Rhe1 Bd7 Bd4 h6 c4 c5 Bc3 Rb8 a3 a6 Re2 Bc6 Rde1 Bf8 Rxe8 Nxe8 Qf4 Nc7 h4 Qd7 Ng5 Ne6 Nxe6 fxe6 Qg4 e5 Qg6 e4 Rxe4 Qf7 Qg4 Bxe4 Bxe4 h5 Qg3 Qe8 Bd5+ Kh7 Qf3 g6 Qf6 Bh6+ Kb1 b5 Bf7 Qe4 g4 Qxg4 Be8 Qd1+ Ka2 Qb1+ Kxb1 Rxe8 Qf7+ Bg7 Qxg7#",
-    "duration": 1455,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qf3 Bg5 a4 Bg6 g3 Bxf4 Qxf4 a5 h4 h5 Nf3 Bf5 Ne5 Qf6 Nd3 g6 Bh3 Rd8 Re5 Nc4 Re2 Nd6 f3 Kg7 Bxf5 Qxf5 Qxf5 Nxf5 Kf2 Kf8 Ne5 Nd6 Re1 Nf5 b3 Kg7 Nd3 Kf8 Rb1 Ra8 Nc5 Nd6 Rc1 Kg7 Rc2 b6 Nd7 Nf5 Ne5 Rc8 g4 Nxh4 c4 f6 Nd7 Re8 Nxb6 hxg4 fxg4 Re4 cxd5 cxd5 Nxd5 Rxg4 Rc7+ Kh6 Nxf6 Rf4+ Kg3 Rxd4 Rc5 Nf5+",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765802213.674864
+  "updated": 1765803020.9392223
 }
