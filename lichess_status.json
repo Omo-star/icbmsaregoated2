@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "suniferia",
+  "rating": 2964,
+  "opponent": "Tacticall_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 385,
-  "timestamp": "2025-12-15T11:16:26.340547",
+  "time_control": "TC: 3+0",
+  "time_left": 117,
+  "timestamp": "2025-12-15T11:19:33.026928",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "opponent": "Tacticall_Bot",
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 h5 Bc3 Qd6 Nd2 Qe6 Ke2 g5 f3 g4 Nc4 Bf6 Rh1 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 b4 b6 Kf1 Rg5 Kg2 Rgh5 a4 Qf8 Re1 Qd8 Re2 Qe8 Nb2 c5 bxc5 Qc6 Nc4 Qxc5 Rb1 Qc6 Rb5 a6 Rd5 Qe8 Bb2 Qxa4 Bxe5 Bxe5 Nxe5 Rxe5 Rxe5 Qa1 c3 Qd1 Rb2 Qc1 Ra2 Qb1 Rd2 Qe1 Rc2 Qd1 Rb2 Qa1 Re2 Qd1 Rb2",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 Bd6 a4 Nf8 b3 Ng6 Bd2 b6 Ne3 f6 Ng1 Be6 Ne2 c5 Ng3 Ne7 Nh5 Nc6 f4 exf4 Nxf4 Be5 Nxe6 Rxe6 Rc1 Qd7 Qh5 Rf8 Qh3 Re7 Nf5 Ref7 g4 c4 bxc4 Ne7 Nxe7+ Rxe7 a5 bxa5 Qg2 Rb8 Bxa5 h6 Bd2 Ra8 Ba5 Rb8 h4 Qa4 Qd2 Qd7 Qg2 Qa4 Bd2 Bb2 Rb1 Qxc2",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765797386.340702
+  "updated": 1765797573.027052
 }
