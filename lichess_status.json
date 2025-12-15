@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3061,
-  "opponent": "BorkaTower",
+  "rating": 2964,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2025-12-15T13:18:26.594797",
+  "time_control": "TC: 3+0",
+  "time_left": 110,
+  "timestamp": "2025-12-15T13:21:48.368822",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3061,
-    "rating_after": 3061,
+    "opponent": "RaspFish",
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 g3 Bb4 Bg2 O-O Nf3 e4 Ng5 Bxc3 bxc3 Re8 f3 exf3 Nxf3 Nc6 O-O Qe7 e3 d6 d3 Ne5 Nd4 Bg4 Qc2 c5 Ne2 Rab8 h3 Bd7 e4 h6 a4 a6 g4 b5 cxb5 axb5 g5 Nh5 d4 cxd4 cxd4 Rec8 Qd1 Ng6 Bf3 bxa4 Bxh5 Rb3 Rf3 Qxe4 Rxb3 axb3 Qxb3 Qh4 Qf3 Bc6 d5 Bb5 Bxg6 fxg6 Ra7 Qe1+ Kg2 Rf8 Rxg7+ Kxg7 gxh6+ Kg8 h7+ Kxh7 Qxf8 Qxe2+ Qf2 Qe4+",
-    "duration": 30,
+    "moves": "e4 e5 a4 Nf6 Nc3 Bb4 Nd5 Nxd5 exd5 O-O c3 Bc5 Ne2 a5 d4 exd4 Nxd4 d6 Be2 h6 O-O Nd7 h3 Nf6 Bc4 Re8 Be3 Bd7 Re1 Re7 Qf3 Re5 Re2 Bb6 b3 Qe7 Rae1 Re8 Kh2 Qd8 Kg1 Bc5 Kh2 Ba7 Kh1 R8e7 Bxh6 Rxe2 Nxe2 Rxe2 Rxe2 gxh6 Qf4 Kg7 Qg3+ Kf8 Qh4 Kg7 Qg3+ Kh7 Bd3+ Kh8 Qf4 Kg7 Qg3+ Kf8 Qh4 Kg7 Qg3+ Kf8",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765804706.5949023
+  "updated": 1765804908.3689694
 }
