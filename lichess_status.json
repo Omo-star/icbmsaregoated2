@@ -5,18 +5,18 @@
   "opponent": "Playchessforhumans",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+3",
-  "time_left": 190,
-  "timestamp": "2025-12-15T06:28:07.179126",
+  "time_left": 208,
+  "timestamp": "2025-12-15T06:29:39.365780",
   "last_game": {
     "result": "win",
     "opponent": "Playchessforhumans",
     "rating_before": 2966,
     "rating_after": 2966,
     "rating_delta": 0,
-    "moves": "d4 f5 Bf4 Nf6 e3 e6 h3 Nc6 Nf3 b6",
-    "duration": 210,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nxd2 Qxd2 Be7 c3 O-O Re1",
+    "duration": 249,
+    "bot_color": "white",
+    "termination": "timeout"
   },
-  "updated": 1765780087.1792054
+  "updated": 1765780179.3658886
 }
