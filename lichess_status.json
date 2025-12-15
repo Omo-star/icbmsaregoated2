@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2965,
-  "opponent": "ISARFish",
+  "rating": 2970,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+10",
-  "time_left": 148,
-  "timestamp": "2025-12-15T08:05:45.035417",
+  "time_control": "TC: 3+0",
+  "time_left": 173,
+  "timestamp": "2025-12-15T08:06:12.852234",
   "last_game": {
-    "result": "win",
-    "opponent": "ISARFish",
-    "rating_before": 2965,
-    "rating_after": 2965,
+    "result": "draw",
+    "opponent": "PositionalAI",
+    "rating_before": 2970,
+    "rating_after": 2970,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bxc3+ bxc3 Nd7 g3 b6 Nh4 Nc5 Bg2 Na5 Ra2 Be6 O-O Qd7 Nf5 f6 a4 O-O-O Ne3 g5 Ba3 h5 Bb4 Ncb7 h3 Bxh3 Bxh3 Qxh3 Bxa5 Nxa5 Nf5 g4 Nh4 Rh7 d4 Kb8 Qd3 Re7 Rb2 Red7 Rb5 c5 Rxa5 bxa5 Rb1+ Kc7 Rd1 Kc8 Qd2 Kc7 Qe3 Kc6 Qh6 Rb8 dxc5 Kxc5 Qxf6 Kc6 Qe6 Qxh4 gxh4 Rdd8 Qd5+ Kb6 c5+ dxc5 Qe6+ Kb7 Qe7+ Kb6 Rxd8 Rxd8 Qxd8+ Kb7 Kg2 a6 Kg1 c4 Kg2 g3 fxg3 Ka7 Qc8 Kb6 Qd7 Kc5 Qc7#",
-    "duration": 1030,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1765785945.0354965
+  "updated": 1765785972.8523693
 }
