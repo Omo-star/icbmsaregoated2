@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "caissa-x",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 23,
-  "timestamp": "2025-12-16T08:28:02.052870",
+  "rating": 2964,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+0",
+  "time_left": 41,
+  "timestamp": "2025-12-16T08:33:21.512181",
   "last_game": {
-    "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "result": "win",
+    "opponent": "PetersBot",
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 O-O Bb6 Nbd2 Na5 Qc2 Qe7 Ba3 f6 Bb5+ c6 Bd3 Bg4 h3 Bxf3 Nxf3 Nh6 g3 Nf7 Rab1 Qc7 Bb4 O-O h4 Rac8 Kg2 c5 dxc5 Bxc5 Bxa5 Qxa5 Bc4 Qc7 Be6 Rb8 h5 Kh8 Nh4 Nh6 Rh1 Qc6 Bd5 Qc8 f3 Qe8 Qd3 b5 g4 b4 cxb4 Bxb4 Qe3 a5 a3 Bc5 Qd2 Bxa3 Qxa5 Bc5 Qd2 Rxb1 Rxb1 Qa4 Qc1 Qd4 Kh3 Qf2 Rb2 Qd4 Qb1 Ba7 Qc1 Bc5 Qb1 Ba7 Qc2 Qg1 Rb1 Qf2 Rc1 Bc5 Qxf2 Bxf2 Rc7 Bxh4 Kxh4 Rd8 Kg3 Ng8 Ra7 Nh6 Rc7 Ng8 Be6 Nh6 Kh4 Ng8 Bd5 Nh6 Be6 Re8 Bc4 Rd8 Bd5 Ng8 Kg3 Nh6 Kh4 Ng8 Kg3 Nh6 Bc4 Ng8 Ra7 Nh6 Be6 Ng8 Bd5 Nh6 Kh3 Ng8 Kh4 Nh6 Kg3 Ng8 Kh4 Nh6 Kh3 Ng8 Rf7 Nh6 Rc7 Ng8 Be6 Nh6 Bd5 Ng8 Rf7 Nh6 Rb7 Ng8 Kh4 Nh6 Kg3 Ng8 Kh4 Nh6 Ra7 Ng8 Be6 Re8 Bd5 Rd8 Kh3 Nh6 Kg3 Ng8 Be6 Nh6 Ba2 Ng8 Kh4 Nh6 Kh3 Ng8 Bd5 Nh6 Rb7 Ng8 Rc7 Nh6 Be6 Re8 Bd5 Rd8 Bc4 Ng8 Kg3 Nh6 Kh4 Ng8 Kg3 Re8 Rd7 Rc8 Bxg8 Kxg8 Rxd6 h6 Ra6 Kh7 Kf2 Kg8 Ra3 Rc7 Ra8+ Kh7 Ra3 Rb7 Ke1 Rb2 Ra5 Rb1+ Kf2 Rc1 Ra8 Rc2+ Kg3 Rc7 Ra3 Rb7 Kf2 Rb1 Ra5 Rb2+ Ke1 Rc2 Ra7 Rc1+ Kf2 Rc2+ Ke1 Rg2 Ra3 Kg8 Ra5 Kf7 Kf1 Rc2 Ra7+ Kf8 Ke1 Rh2 Ra8+ Kf7 Ra7+ Kg8 Ra8+ Kh7 Ra5 Kg8 Ra8+ Kh7 Ra5 Rh1+ Ke2 Rc1 Kf2 Rc7 Ra2 Rc8 Kg3 Rc3 Ra4 Rc2 Ra5 Rc1 Ra6 Rg1+ Kf2 Rc1 Ra4 Rc2+ Kg3 Rb2 Ra5 Rc2 Ra3 Rc1 Kf2 Rc2+ Kg3 Rc1 Kf2 Rc7 Ra2 Rb7 Kg3 Rb3 Rc2 Ra3 Kg2 Kg8 Kf2 Kh7 Rb2 Rc3 Kg3 Rb3",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "g4 d5 Qxd5 Bc6 Qc4 Nd7 Nbc3 e5 a4 Nb6 Qd3 a5 g5 Bb4 Qg3 Re8 d3 Ne6 Bh3 g6 Bxe6+ Rxe6 f3 O-O-O b3 Qf8 Kb2 Kb8 h4 Qe7 Rh1 h5 gxh6 Rh8 Bd2 f5 Bg5 Qd7 e4 Bf8 Ne2 Nc8 Ndc3 Bxh6 h5 f4 Qg4 gxh5 Rxh5 Bg7 Rxh8 Bxh8 Rh1 Bg7 Bd8 Nd6 Nd5 Ne8 Nec3 Rh6 Rxh6 Qxg4 fxg4 Bxh6 g5 Bf8 Be7 Bxd5 Nxd5 Bxe7 Nxe7 f3 Nd5 f2 Ne3 Ng7 Kc1 Ne6 g6 Kc8 Kd2 b6 Ke2 Nf4+ Kxf2 Nxg6 Nc4 Kd7 c3 Ke6 Ke3 Kf6 d4 exd4+ cxd4 Ke7 d5 Kd8 e5 Ke7 Ke4 Nf8 Na3 Kd7 e6+ Ke7 Nb5 c6 Nd4 cxd5+ Kxd5 Nh7 Ke5 Ke8 Nf5 Ng5 Kd6 Ne4+ Kc6 Nf6 Kxb6 Ne4 Kxa5 Nc5 b4 Nxe6 b5 Kf7 b6 Nd8 b7 Nxb7+ Kb6 Nd8 a5 Ke6 a6 Kxf5 a7 Ne6 a8=Q Ke5 Qf3 Nd4 Qe3+ Kd5 Qf4 Kc4 Qf7+ Kd3 Kc5 Nc2 Qb3+ Kd2 Kd5 Ne3+ Ke4 Nd1 Kd4 Ke1 Qc2 Nf2 Ke5 Nh3 Qc3+ Kd1 Qxh3 Kc2 Kd4 Kb2 Kc4 Kb1 Kc3 Ka1 Qh2 Kb1 Qb2#",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1765873682.0530472
+  "updated": 1765874001.5122461
 }
