@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3004,
-  "opponent": "ArasanX",
+  "rating": 2964,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 353,
-  "timestamp": "2025-12-16T12:28:44.892232",
+  "time_control": "TC: 3+1",
+  "time_left": 119,
+  "timestamp": "2025-12-16T12:34:03.703644",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3004,
-    "rating_after": 3004,
+    "opponent": "ToromBot",
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 a6 Qd2 b5 h4 Bb7 Qf2 Qb6 Rh3 Qa5 h5 Be7 Bd2 b4 Ne2 f6 c3 bxc3 Bxc3 Qa4 Qg3 O-O-O a3 Kb8 b4 c4 Qxg7 Rdg8 Qf7 Bc8 h6 Rf8 Qg7 Rfg8 Qf7 Rf8 Qg7 Rfg8 Qf7",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 c5 Nc3 a6 Nf3 e6 d4 cxd4 Nxd4 Qc7 Bd3 Nf6 Qe2 Bb4 Bd2 d6 O-O Bc5 Nb3 Ba7 Kh1 Nc6 f4 h5 Be3 Bxe3 Qxe3 h4 h3 Nh5 Kg1 b5 Kh2 Rb8 Rad1 Ne7 Nd4 O-O Nce2 Bb7 Nf3 Ng6 c3 Qc5 Qd2 Rbd8 Bc2 Qc7 a3 Qe7 Qe3 Rfe8 a4 bxa4 Bxa4 Rf8 Bc2 a5 Rf2 Ba8 b3 Rfe8 Rd2 Qc7 Ng5 Qc5 Qf3 Nf6 Rf1 Rb8",
+    "duration": 250,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765888124.8923447
+  "updated": 1765888443.703751
 }
