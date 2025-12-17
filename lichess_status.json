@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "caissa-x",
+  "rating": 2959,
+  "opponent": "bfiedler-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 398,
-  "timestamp": "2025-12-17T12:31:52.051859",
+  "time_control": "TC: 1+3",
+  "time_left": 68,
+  "timestamp": "2025-12-17T12:34:56.692533",
   "last_game": {
-    "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "result": "win",
+    "opponent": "bfiedler-bot",
+    "rating_before": 2959,
+    "rating_after": 2959,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nf3 Be7 Bf4 O-O Nc3 d5 e3 Nbd7 c5 Nh5 Bd3 Nxf4 exf4 c6 Qc2 b6 cxb6 c5 Bxh7+ Kh8 O-O cxd4 Nb5 Qxb6 Bd3 Bf6 Rac1 Ba6 Nc7 Bxd3 Nxa8 Qa6 Nc7 Bxc2 Nxa6 d3 b3 Be7 Nd4 Rc8 Rxc2 dxc2 Rc1 Rc3 Rxc2 Rd3 g3 Rxd4 Rc7 Rd1+ Kg2 Nf6 Rxe7 d4 Nc5 d3 Kf3 d2 Ke2 Rc1 Kxd2 Rxc5 Rxa7 Kg8 b4 Rc8 Kd3 Nd5 b5 Rc5 Ra8+ Kh7 Ra5 Nb6 Kd4 Rc4+ Kd3 Rc5 h4 Kg6 Kd4 Rc4+ Ke5 Rc2 Ra6 Rc5+ Kd6 Rxb5 Kc6 Rb2 Rxb6 Rxa2 Kd6 Rxf2 Ke7 Rf3 Kf8",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Bb7 Re1 Bc5 c3 d6 d4 Bb6 a4 bxa4 Bxa4 O-O Bg5 exd4 cxd4 Nb4 Na3 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Qe7 Re3 Bc6 Rg3 Kh7 Qf3 Bxe4 Qf4 Nh5 Qh4 Qxg5 Rxg5 Bg6 Nc2 Nxc2 Bxc2 Kh6 Rxh5+ Kg7 Bxg6 Bxd4 Qxd4+ f6 Qg4 Rfd8 Be8+ Kf8 Rh8+ Ke7 Re1#",
+    "duration": 249,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1765974712.051946
+  "updated": 1765974896.692595
 }
