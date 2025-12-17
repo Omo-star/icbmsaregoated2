@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "suniferia",
+  "rating": 3067,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 183,
-  "timestamp": "2025-12-17T08:36:26.291988",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 21,
+  "timestamp": "2025-12-17T08:37:10.098826",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Bh6 Bxh6 Qxh6 e5 O-O-O Qe7 h3 Nbd7 Nf3 b5 Bd3 Ng8 Qe3 Ngf6 Rhe1 O-O g4 b4 Ne2 a5 Nd2 c5 d5 a4 c3 a3 b3 bxc3 Nxc3 Ba6 Bxa6 Rxa6 f3 Nb6 Kc2 Nfd7 Rb1 Rc8 Kd3 Qd8 Ke2 c4 b4 Na4 Nxa4 Rxa4 Rec1 Nb6 h4 Raa8 h5 Rab8 hxg6 fxg6 Rc2 Qh4 Qf2 Qh3 Rbc1 Na4 Rxc4 Rxc4 Rxc4 Nb2 Rc6 Rxb4 Qa7 Qg2+ Qf2 Qh1 Rc8+ Kg7 Rc7+ Kf8 Rc8+ Kg7 Qa7+ Kh6 Qe3+ Kg7 Qa7+ Kh6 Qe3+ Kg7 Qa7+",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 Nh4 Bf8 Ne3 Nc5 Nef5 Ne6 Qg4 Kh8 Qh5 Kg8 Qg4 Kh8 Qh5 Kg8 Qg4",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765960586.2921805
+  "updated": 1765960630.0989194
 }
