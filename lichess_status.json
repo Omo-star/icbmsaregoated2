@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2959,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3003,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 141,
-  "timestamp": "2025-12-17T11:44:11.675939",
+  "time_control": "TC: 10+0",
+  "time_left": 412,
+  "timestamp": "2025-12-17T11:53:50.105705",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2959,
-    "rating_after": 2959,
+    "opponent": "Monastedrez",
+    "rating_before": 3003,
+    "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Re1 Bb6 Nbd2 h6 Bb5 Ne7 d4 c6 Bd3 Bc7 Nf1 d5 Ng3 Nxe4 dxe5 Ng6 Nxe4 dxe4 Rxe4 Bf5 Rd4 Qc8 Be3 Nxe5 Bxf5 Qxf5 Nxe5 Bxe5 Qd3 Qe6 Rd7 b5 f4 Bf6 f5 Qe8 Rd1 Rd8 Rxd8 Bxd8 Bd4 Bg5 Bc5 Be7 Bd4 Bg5 Bc5 Be7 Bd4 Bg5",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 c6 Bc3 Ne4 O-O O-O b3 a5 Bb2 a4 a3 Nd7 b4 Nb6 c5 Nc4 Qc2 b6 Nc3 f5 Nxe4 fxe4 Ne5 Nxe5 dxe5 bxc5 bxc5 Qe8 Bd4 Qh5 f3 Ba6 fxe4 Bxe2 Rxf8+ Rxf8 Qxa4 Bf3 Qxc6 Bxg2 Qxe6+ Rf7 Qc8+ Rf8 Qe6+ Rf7 Qc8+ Rf8 Qe6+",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765971851.6760283
+  "updated": 1765972430.1058002
 }
