@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "Viet-Test",
+  "rating": 2964,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 37,
-  "timestamp": "2025-12-17T08:18:21.384909",
+  "time_control": "TC: 3+0",
+  "time_left": 90,
+  "timestamp": "2025-12-17T08:21:15.352968",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kg2 Ra7 Rc2 Nf6 Be2 Ne4 f3 Nd6 Kg1 Ra1+ Kf2 Kf6 Rd2 Rb1 Bf1 Nc8 Be2 Ne7 Bd1 Rc1 Kg3 Ng6 Bc2 Rg1+ Kf2 Rh1 Kg3 Rg1+ Kf2 Rh1 Kg3 Rc1 Re2 Ne7 Rh2 Rg1+ Rg2 Ra1 Rd2 Rc1 Rf2 Rg1+ Rg2 Ra1 Rd2 Ra8 b3 Ra2 bxc4 dxc4 d5 Nxd5 Rxd5 Rxc2 Rd6+ Kg7 Rd5",
-    "duration": 60,
-    "bot_color": "white",
+    "moves": "Nf3 d5 h4 c5 g3 Nc6 d4 cxd4 Nxd4 e5 Nxc6 bxc6 Bg2 Bc5 c4 Ne7 Nc3 d4 Ne4 Bb6 O-O O-O e3 f5 c5 Ba6 Ng5 Bxc5 Re1 d3 Bd2 e4 Qh5 h6 Nxe4 Bb6 Nc3 Bc4 Rac1 Bf7 Qd1 Qd6 Na4 Rad8 b4 Bxa2 Nc5 Qg6 Bf1 Qf7 Nxd3 Bb3 Qf3 Bd5 Qd1 g5 h5 Bb3 Qe2 Bc4 Rxc4 Qxc4 Rc1 Qe4 Bc3 Nd5 Bg2 Nxc3 Rxc3 Qe6",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1765959501.3850937
+  "updated": 1765959675.35315
 }
