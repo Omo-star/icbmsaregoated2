@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "Cheszter",
+  "rating": 2957,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2025-12-18T11:54:38.468868",
+  "time_control": "TC: 3+0",
+  "time_left": 176,
+  "timestamp": "2025-12-18T11:56:33.591119",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "RaspFish",
+    "rating_before": 2957,
+    "rating_after": 2957,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 Bg5 d5 Bxf6 Bb4+ Nc3 Qxf6 e3 Bxc3+ bxc3 Nd7 cxd5 cxd5 c4 dxc4 Bxe4 Qa6 Ne2 Nf6 Bg2 O-O O-O Bf5 a4 Rfd8 Qd2 Be4 Nc3 Bxg2 Kxg2 Nd5 e4 Nxc3 Qxc3 Rac8 d5 f5 f3 h6 Rfd1 Rc5 Rd4 Qf6 Rc1 fxe4 fxe4 Rdc8 Rf1 Qe7 Rf5 Qd7 Rd1 b5 axb5 Rxb5 Rd4 Rb3 Qc2 Rb4 d6 Rb6 e5 c3 Qa2+ Kh7 Qf7 Qxf7 Rxf7 Rb2+ Kh3 c2 Rg4 c1=Q Rgxg7+ Kh8 Rh7+ Kg8 Rhg7+ Kh8 Rh7+ Kg8 Rfg7+ Kf8 Rf7+ Kg8",
-    "duration": 30,
+    "moves": "b3 e5 Bb2 Nc6 c4 Nge7 Nf3 d5 cxd5 Nxd5 e4 Ndb4 d3 Bg4 a3 Na6 b4 Bxf3 gxf3 Nd4 f4 Nb8 Nd2 Nbc6 Rc1 a5 b5 Nxb5 fxe5 a4 Nf3 Bxa3 Bxa3 Nxa3 d4 Qe7 Be2 O-O O-O Rfd8 d5 Nxe5 Nxe5 Qxe5 Qd3 Qb2 Ra1 Nc2 Rab1 Qa2 Qd2 c5 Rfc1 Nb4 Qe3 Nc2 Qd2 Nb4 Qe3 Nc2 Qd2 Nb4",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766058878.4690027
+  "updated": 1766058993.5912075
 }
