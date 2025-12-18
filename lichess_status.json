@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
+  "rating": 2955,
   "opponent": "Bharat_royals",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 27,
-  "timestamp": "2025-12-18T10:25:16.711688",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 133,
+  "timestamp": "2025-12-18T10:26:48.319196",
   "last_game": {
     "result": "draw",
     "opponent": "Bharat_royals",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "rating_before": 2955,
+    "rating_after": 2955,
     "rating_delta": 0,
-    "moves": "h4 h5 d4 d5 Nd3 Nb6 f3 Bb5 c3 Bxd3 Bxd3 c6 f4 f5 e3 e6 Nf2 Nf7 Nh3 Nh6 Ng5 Qe7 Qe2 Ng4 O-O O-O b3 a5 c4 Nd7 Rb1 c5 Qf3 Qd6 a3 Bc7 b4 axb4 axb4 b6 Qe2 Bd8 Bc3 Rc8 bxc5 bxc5 Rb5 Qc6 cxd5 exd5 dxc5 Nxc5 Bd4 Ne6 Nf3 g6 Ne5 Nxd4 exd4 Nxe5 dxe5 Bxh4 Kh2 Kg7 Rfb1 Bd8 R1b2 Kh6 Qf2 Rf7 Qd4 Be7 Qxd5 Qxd5 Rxd5 Rc7 Kh3 Rf8 g3 Ra8 Rb6 Kg7 Rdb5 Ra3 Rb7 Rac3 Rxc7 Rxc7 Rb3 Bc5 Rb8 Bd4 Rd8 Bc5 Re8 Be7 Bc4 h4 gxh4 Bb4 Be6 Bd2 h5 Bxf4 hxg6 Kxg6 Rc8 Rxc8 Bxc8 Bxe5 Bd7 Kh7 Be8 Kh8 Bf7 Kh7 Be8 Kh8 Bf7 Kh7 Be8 Kh8",
-    "duration": 244,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 a5 Nc4 f6 c3 b5 Ne3 O-O Qc2 Qe8 a4 Nb6 b3 bxa4 bxa4 Bd6 Nh4 g6 Re1 c5 h3 c4 d4 Bd7 Qe2 Qf7 Ng4 Bxg4 Qxg4 exd4 Nf5 h5 Nh6+ Kg7 Nf5+ Kg8 Nh6+ Kg7 Nf5+ Kg8",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766053516.71177
+  "updated": 1766053608.319363
 }
