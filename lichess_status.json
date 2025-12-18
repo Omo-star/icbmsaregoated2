@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 175,
-  "timestamp": "2025-12-18T10:08:50.759121",
+  "rating": 2960,
+  "opponent": "Tacticall_Bot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 139,
+  "timestamp": "2025-12-18T10:10:13.371696",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "opponent": "Tacticall_Bot",
+    "rating_before": 2960,
+    "rating_after": 2960,
     "rating_delta": 0,
-    "moves": "d4 d5 Nb3 b6 Nf3 Nf6 c4 dxc4 Rxc4 c5 O-O Bb5 Rc1 Nc7 Bc3 O-O Re1 Ncd5 e4 Ba4 exd5 c4 Ne5 Qxd5 Bb4 Rfe8 Qc2 a5 Ba3 b5 Qc3 b4 Bxb4 axb4 Qxb4 Bxb3 axb3 Qxd4 Rcd1 Bd6 Rxd4 Bxb4 Red1 Bd6 Nxc4 Bc5 R4d2 Rb8 Bd3 Rxb3 Rc2 Rbb8 Na5 Bd6 g3 Kf8 Be2 h5 Nc6 Rb6 Rb1 Nd5 Bxh5 g6 Bf3 Nb4 Nxb4 Bxb4 h4 Rd8 b3 Rbd6 Be2 Rd2 Rbb2 Rxc2 Rxc2 Ra8 Rc4 Ra1+ Kg2 Be1 Rf4 Ra2 Bc4 f5 Rf3 e5 Re3 Bxf2 Rxe5 Bd4+ Re2 Rxe2+ Bxe2 Bc5 Bd3 Kg7 g4 fxg4 Kg3 Bd6+ Kxg4 Bh2 Bc2 Bg1 Bxg6 Kxg6 b4 Kh7 h5 Kh8 Kf5 Kg8 Kg6 Kh8 Kf7 Kh7 Ke6 Kh8 Ke7 Kg8 Kd6 Kh8 Kc6 Kg8 Kb5 Kh8 Ka6 Kg8 Ka5 Kh8 Kb5 Kg8 Kc4 Kh8 Kd3 Kg8 Ke2 Kh8 Kf1 Ba7 h6 Kg8 Ke1 Kh8 b5 Kg8 Kd1 Kh8 b6 Bb8 h7 Kxh7 Ke1 Bd6 Kf1 Kh8 Ke2 Kg8 Kf2 Kh8 b7 Kg8 Kf3 Kh8 Ke4 Kg8 Kd5 Bb8 Kc6 Kh8 Kd5 Kg8 Kc4 Kh8 Kc3 Kg8 Kb2 Kh8 Kb1 Kg8 Ka1 Kh8 Kb1 Kg8 Kc2 Kh8 Kd2 Kg8 Kd3 Kh8 Kc4 Kg8 Kb3 Kh8 Kb4 Kg8 Ka3 Kh8 Ka4 Kg8 Ka3 Kh8 Kb2 Kg8 Ka2 Kh8 Ka1 Kg8 Kb2 Kh8 Ka1 Kg8 Kb2 Kh8",
-    "duration": 492,
+    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg5 f6 Bh4 g6 Rc1 cxd4 cxd4 Bd6 Bd3 O-O O-O Qe7 Ne1 Bd7 Be2 Ng7 Bg3 Nf5 Bxd6 Nxd6 Nd3 Rfd8 Nc5 Be8 Nb1 Kg7 Nc3 Rac8 Qe1 h5 a3 Bf7 Nb5 Nf5 Bd3 Nh6 f3 e5 h3 Re8 Nb3 a6 Nc3 f5 f4 exd4 exd4 Ng8 Qxe7 Rxe7 h4 Nf6 Rfe1 Ne4 Re2 Rce8 Rec2 Nf6 Re2 Rxe2 Nxe2 Re3 Rd1 Nd8 Nc5 Kf8 Kf1 Re7 Rc1 Be8 Rc3 Ne4 Rc1 Nc6 Bxe4 fxe4 Kf2 Na5 b3 Bb5 Nc3 b6 Nxd5 bxc5 Nxe7 Kxe7 Rxc5 Nxb3 Re5+ Kf6 Ke3 Na5",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766052530.7591817
+  "updated": 1766052613.3718054
 }
