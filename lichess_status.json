@@ -5,18 +5,18 @@
   "opponent": "Serega_12",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+3",
-  "time_left": 68,
-  "timestamp": "2025-12-18T20:57:26.154393",
+  "time_left": 34,
+  "timestamp": "2025-12-18T21:01:15.985416",
   "last_game": {
     "result": "win",
     "opponent": "Serega_12",
     "rating_before": 2960,
     "rating_after": 2960,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Nc3 d5 cxd5 Nxd5 Bg2 Be6 Nf3 Nc6 O-O Be7 d4 Nxc3 bxc3 exd4 cxd4 Bd5 Qd3 Nb4 Qb1 Bxa2 Rxa2 Nxa2 Qxa2 O-O Be3 Kh8 Ne5 Qe8 Bxb7 f6 Bc6 Qh5 Bxa8 fxe5 Bf3 Rxf3 exf3",
-    "duration": 183,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "d4 Nf6 c3 e6 Nf3 c5 e3 b6 g3 d5 Bg2 Ba6 Bf1 Bxf1 Kxf1 Nc6 Kg2 Rc8 Nbd2 Be7 Re1 O-O Ne5 Qc7 f4 b5 a3 a5 Qe2 b4 axb4 axb4 Nb3 bxc3 bxc3 Nxe5 dxe5 Ne4 Bd2 Ra8 Rxa8 Rxa8 Ra1 Rb8 Ra3 c4 Nc1 Bxa3",
+    "duration": 204,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1766091446.154481
+  "updated": 1766091675.9889276
 }
