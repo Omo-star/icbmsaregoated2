@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2960,
-  "opponent": "FayEFish",
+  "rating": 3008,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 161,
-  "timestamp": "2025-12-18T09:24:35.249523",
+  "time_control": "TC: 10+0",
+  "time_left": 18,
+  "timestamp": "2025-12-18T09:36:01.465975",
   "last_game": {
-    "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 2960,
-    "rating_after": 2960,
+    "result": "loss",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3008,
+    "rating_after": 3008,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Re8 Nh4 g6 Kh1 Nb6 Na5 Bf8 a4 Nd7 g4 Nc5 Ng2 Ne6 Nc4 Bc5 Nce3 Rf8 f3 Rf7 Qe1 Bd6 Qg3 b5 h4 Nd4 Rf2 a5 b3 Rg7 Bc3 f5 f4 exf4 Nxf4 c5 g5 fxe4 Qg2 Rf7 Raf1 Rxf4 Rxf4 Bxf4 Rxf4 Rb8 dxe4 bxa4 bxa4 Rb1+ Rf1 Rxf1+ Qxf1 Qe7 Qg2 Bb7 Ng4 Bxe4 Nf6+ Qxf6 gxf6 Bxg2+ Kxg2 Kf7 Bxa5 Kxf6 Bxc7 Ke6 c3 Nf5 Kh3 Kd7 Be5 Kc6 Bf6 Ne3 Kg3 Nd5 Bg7 Kb6 Kf3 Ka5 Ke4 Nb6 Bf8 Nxa4 Ke5 Nxc3 Bxc5",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 Rgh8 Re2 c5 a4 R8h6 b3 b6 Re1 Qg7 Bb2 Qe7 Kg2 Kb7 Rc1 Qe8 Ra1 Bg7 Kf1 g2+ Kxg2 Rg6+ Kf2 Rg3 Qf1 h3 Ke1 Rhg5 Rxh3 Rg1 Qxg1 Rxg1+ Kf2 Rg5 Rh2 Qg6 Rf1 a6 Ke2 Bf6 Rff2 Qg7 a5 b5 Nd2 Qg8 c4 Rg7 Kd1 Rd7 Kc2 Qd8 Rf1 Rxd3 Rd1 Qd7 Ba1 Ka7 Rhh1 Kb7 Rh2 Kb8 Rh6 bxc4 bxc4 Re3 Kc1 Qa4 Bb2 Bg5 Rh7 Qxa5 Kc2 Qa4+ Kc1 Bf6 Rh6 Be7 Bxe5 Kb7 Rh7 Bd6 Bb2 a5 Rh5 Re2 Rd5 Qb4 e5 Be7 Rh1 a4 Rd3 Re3 Kc2 a3 Rxa3 Rxa3 Bxa3 Qxa3 Re1 Qa2+ Kd3 Kc8 Rg1 Qa3+ Kc2 Qe3 Rg8+ Kb7 Re8 Qxe5 Ne4 Qg7 Kb3 Qf7 Ra8 Kxa8 Nc3 Qg6 Nd5 Bf6 Nxc7+ Kb7 Nd5 Qb1+ Ka4 Qb2 Ka5 Qb3 Nc3 Bxc3#",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1766049875.2496185
+  "updated": 1766050561.4660432
 }
