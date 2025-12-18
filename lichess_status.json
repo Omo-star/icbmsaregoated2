@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2957,
-  "opponent": "Weiawaga",
+  "rating": 3061,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 7+0",
-  "time_left": 55,
-  "timestamp": "2025-12-18T12:20:04.087278",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2025-12-18T12:22:17.972259",
   "last_game": {
-    "result": "win",
-    "opponent": "Weiawaga",
-    "rating_before": 2957,
-    "rating_after": 2957,
+    "result": "draw",
+    "opponent": "BorkaTower",
+    "rating_before": 3061,
+    "rating_after": 3061,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 a6 Qd2 e6 O-O-O Bd7 f3 Be7 g4 h5 gxh5 Nxd4 Qxd4 Nxh5 Bxe7 Qxe7 Rg1 Bc6 a4 Rd8 Qb6 Rc8 Kb1 g6 Qd4 Nf6 Rg2 Rh4 Qf2 Rh5 h4 d5 Be2 Rd8 Rgg1 Rh8 Bd3 Rh5 Be2 Rh8 Bd3 Qc7 exd5 Nxd5 Nxd5 Rxd5 Be4 Rxd1+ Rxd1 Rh5 b3 Ke7 Rd3 a5 Ka2 Bxe4 fxe4 Kf8 c3 Kg7 Rf3 Rh8 Qd4+ e5 Qf2 Qd7 Ka3 Qe6 Kb2 Rd8 h5 g5 Qe3 Kh6 Qf2 Kg7 Qe3 f6 Rf2 Kh6 Rh2 Rd6 Qf3 Rb6 Qd1 Rd6 Qf3 Qc8 Rf2 Qd7 Rf1 g4 Qe3+ Kh7 Kc2 Qg7 Rg1 Qg5 Qxg5 fxg5 b4 axb4 cxb4 Kh6 Kc3 Kxh5 Rh1+ Kg6 Rg1 Rd4 Rxg4 Kh5 Rg1 g4 a5 Kg5 b5 Ra4 a6 bxa6 b6 Rd4 b7 Rd8 Kc4 Rb8 Kd5 Rxb7 Kxe5 Rb3 Kd5 g3 e5 Rf3 Ke4 Kg4 e6 Rf2 Kd3 Rf8 Kd4 Rg8 Ra1 g2 Ke4 a5 Kd5 a4 e7 Kh3 Re1 a3 Kc5 a2 Ra1 g1=Q+ Rxg1 Rxg1 e8=Q a1=Q Qh5+ Kg3 Qg6+ Kf4 Qf7+ Kg5 Qe7+ Kh6 Qh4+ Kg6 Qe4+ Kf6 Qh4+ Rg5+ Kb6 Qe5 Ka7 Kg7 Qc4 Qc5+ Qxc5 Rxc5 Kb6 Rh5 Kc6 Kf8 Kd7 Rh6 Kc8 Ke8 Kc7 Ke7 Kc8 Kd6 Kb7 Kd7 Kb8 Kc6 Ka8 Kb6 Kb8 Rh8#",
-    "duration": 420,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "Nf3 Nf6 d4 c6 Bg5 d5 e3 Ne4 Bf4 Bg4 h3 Bxf3 gxf3 Nd6 Nd2 e6 Rg1 g6 Be5 Rg8 c4 dxc4 Bxc4 Nxc4 Nxc4 Nd7 Kf1 Nxe5 dxe5 Qd5 Rg4 Qxd1+ Rxd1 Rd8 Rgd4 Rd5 Na5 Bg7 f4 f6 exf6 Bxf6 Rxd5 cxd5 Nxb7 Bxb2 Rd3 Rg7 Nc5 Ke7 Rb3 Bf6 e4 dxe4 Ra3 Ke8 Nxe6 Re7 Ra6 Bb2 Ke2 Kf7 Nd8+ Ke8 Ne6 Bc1 Rc6 Kd7 Rxc1 Rxe6 Rc4 Rc6 Rd4+ Ke6 Rxe4+ Kf5 Kf3 Ra6 a4 Ra5 Rb4 Kf6 Rc4 Kf5 Rb4 Ke6 Kg3 Kf6 Re4 Rc5 Rb4 h5 Rb7 Ra5 Rb4 Rc5 Rd4 Kf5 Rd7 Ra5 Rd4 Rc5 f3 Ke6 h4 Kf5 Rd7 Ra5 Rd4 Rc5 Rd7 Ra5 Rd4 Rc5 Re4",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1766060404.0873404
+  "updated": 1766060537.97235
 }
