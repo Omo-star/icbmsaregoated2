@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "YoBot_v2",
+  "rating": 3001,
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 43,
-  "timestamp": "2025-12-19T11:03:50.701105",
+  "time_control": "TC: 10+0",
+  "time_left": 289,
+  "timestamp": "2025-12-19T11:14:43.794720",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "caissa-x",
+    "rating_before": 3001,
+    "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 c6 Bg2 d5 O-O O-O Ne5 Bb7 Nc3 Nbd7 Rac1 Qe7 cxd5 exd5 Nd3 Ne4 Qc2 Ndf6 e3 Rfc8 Rfe1 h6 f3 Nxc3 Qxc3 Rd8 a4 a5 Qa3 Qc7 Re2 Re8 Ne5 c5 f4 Rac8 Rec2 Nd7 h4 Rcd8 Kh2 Nxe5 fxe5 Bc8 Rf2 Qc6 b4 axb4 Qxb4 c4 Rb1 Be6 Qb5 Rc8 g4 Qa8 Bf3 Qa5 Qxa5 bxa5 Rb5 c3 Bd1 Bxg4 Bc2 f6 Rxd5 fxe5 Kg3 h5 dxe5 Ra8 Rc5 Rec8 Rb5 Ra6 Rd5 Ra7 e4 Raa8 e6 Bxe6 Rxh5 Ra7 Rg5 Rb7 Rxa5 Bb3 Rb5 Rxb5 axb5 Bxc2 Rxc2 Rb8 Rxc3 Rxb5 Rf3 g6 Kf2 g5 Rg3 Rb2+ Kf3 Rb3+ Kg2 Rxg3+ Kxg3 gxh4+ Kxh4 Kh8 Kg4 Kg8 Kf5 Kf7 e5 Ke7 e6 Ke8 Ke4 Kf8 Ke5 Ke8 Kd5 Ke7",
-    "duration": 194,
-    "bot_color": "black",
-    "termination": "insufficientMaterialClaim"
+    "moves": "e4 e6 Nc3 d5 d4 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 a6 Ne2 Qb6 Qc1 Be7 c3 O-O h4 f6 h5 Qc7 Rh3 b5 Rg3 Nb6 dxc5 Nc4 Ned4 Nxe3 Qxe3 Bxc5 a3 f5 Rh3 Nxd4 cxd4 Be7 Rh1 Bd7 Bd3 a5 Kf2 a4 Rhg1 Be8 g4 fxg4 Rxg4 Bxh5 Rg2 Kh8 Rc1 Qd8 Rh1 Qe8 Ng5 Bxg5 Rxg5 g6 f5 exf5 e6 Qb8 e7 Re8 Rhxh5 gxh5 Bxb5 Qd6 Bxe8 Rxe8 Qe5+ Qxe5 dxe5 Rxe7 Rxf5 Kg7 Rxh5 Kg6 Rh4",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1766142230.7011683
+  "updated": 1766142883.7948153
 }
