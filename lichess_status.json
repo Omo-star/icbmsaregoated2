@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3001,
-  "opponent": "bot1e",
+  "rating": 3057,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 404,
-  "timestamp": "2025-12-19T09:47:59.818423",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2025-12-19T09:49:04.245954",
   "last_game": {
     "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3001,
-    "rating_after": 3001,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Be3 Nd4 Bxd4 exd4 Na4 c5 b4 axb4 axb4 Bc7 bxc5 Qe7 Nb6 Rxa1 Qxa1 Bxb6 cxb6 Nxe4 Be2 Nc3 Nxd4 Nxe2 Nxe2 O-O Kf1 Re8 Nf4 Bd7 Kg2 Bc6+ Nd5 h5 Qd4 Qe2 Ra1 f6 Ra3 Kf7 Ra1 Kg6 h4 Kf7 Rf1 Kg6 Ra1 Kf7 Rc1 Re5 Ra1 Kg6 Rc1 Kh7 Ra1 Re6 Ra8 Qd1 Ra1 Qd2 Kg1 Qe2 Kg2 Re8 Ra3 Re5 Ra8 Qd2 Rc8 Bxd5+ cxd5 Re1 Rc7 Qd1 Qxf6 Rg1+ Kh2 Rh1+ Kg2 Qf1+ Kf3 Qxd3+ Kg2 Qxd5+ f3 Rg1+ Kh3 Rh1+ Kg2 Rg1+ Kxg1 Qd1+ Kf2 Qd2+ Kf1 Qd1+ Kf2 Qd2+ Kf1 Qd1+ Kf2",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Nc3 Rxe1 Qxe1 Bxd4 Bf4 Ne8 Nd5 d6 Bg5 f6 Bc4 Kh8 Qe4 fxg5 Bd3 Bf5 Qxf5 Nf6 Nxf6 g6 Qxg5 Bxb2 Rb1 Bxf6 Qf4 b6 Re1 Kg7 Re6 Qf8 Bb5 Qf7 Qe4 d5 Qe2 Qf8 g3 Rd8 Rc6 Qf7 f4 a6 Bxa6 Re8 Rxc7 Qxc7 Qxe8 Bd4+ Kh1 Qxc2 Qe7+ Kh6 Qg5+ Kg7 Qe7+ Kh6 Qe2 Qe4+ Qxe4 dxe4 h4 Kg7 Kg2 Kf6 Bb7 Bc3 Bxe4 Kg7 Bc6 Bd2 Kf3 h5 Bb5 Bc3 Be8 Kh6 Kf2 Kg7 g4 hxg4 Kg3 Bb4 Kxg4 Kf6 h5 gxh5+ Bxh5 Be1 Be8 Bd2 Kf3 Bc1 Ke4 Bb2 Bb5 Ba1 f5 Bb2 a4 Ba1 Bd3 Bb2 Kd5 Ba1 Be4 Bb2 Bd3 Ba1 Bb1 Bb2 Kd6 Ba1 Bc2 Bb2 Kd5 Ba1 Kc4 Bb2 Kb5 Bd4 Kc6 Bg1 Be4 Bf2 Kd5 Be1 Kc6 Bf2 Bc2 Bg1 Bb1 Bf2 Kc7 Bg1 Kd7 Bf2 Bd3 Be3 Kc8 Ke7 Bb1 Kf6 Kb7 Bc5 Kc8 Bd4 Kb7 Bf2 Kc6 Bd4 Kb5 Ke5 a5 bxa5 Kxa5 Kf6 Kb5 Kg7 Kc6 Kh8 Kd5 Bg7 Bc2 Kg8 Bb1 Kh8 Ke6 Kg8 Ke7 Kh8 Kf7 Bh6 Bd3 Kh7 Be4 Kh8 f6 Bf8 Ke8 Bg7 Kf7 Bf8 Bb1 Bh6 Bf5 Bf8 Kxf8",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "stalemate"
   },
-  "updated": 1766137679.818554
+  "updated": 1766137744.246018
 }
