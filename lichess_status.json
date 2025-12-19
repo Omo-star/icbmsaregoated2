@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "FayEFish",
+  "rating": 2955,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-19T12:58:13.491316",
+  "time_control": "TC: 3+0",
+  "time_left": 143,
+  "timestamp": "2025-12-19T13:01:15.230555",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "Cheszter",
+    "rating_before": 2955,
+    "rating_after": 2955,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Qa4+ Nc6 e3 O-O Qc2 Re8 Bd2 Bf8 a3 h6 cxd5 exd5 Bd3 Bg4 O-O Bd6 Kh1 Bh5 b4 a6 Be1 Re6 Na4 Bxf3 gxf3 Bxh2 Bf5 Bd6 Bxe6 fxe6 Kg2 Qe8 Rh1 Ne7 Nc5 Nf5 Qe2 e5 dxe5 Qxe5 Rc1 Bxc5 bxc5 Qe6 c6 b6 Qd3 Rf8 Rh2 Nh7 Rd1 d4 exd4 Qd5 Bd2 Qxc6 Rh3 Qg6+ Kh2 Qf7 Rg1 Rd8 Rg4 Qe6 Qxa6 Nf6 Rg1 Qd6+ Kg2 Qxd4 Qe2 Kf7 Bc1 g5 Bb2 Qd3 Qe5 Rd6 Re1 Kg6 Rc1 Qb3 f4 Nh4+",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "Nf3 Nf6 c3 d5 e3 e6 c4 c5 cxd5 exd5 Bb5+ Nc6 d4 cxd4 Nxd4 Bd7 O-O Bd6 Nc3 O-O Nf3 a6 Be2 Be6 b3 Re8 Bb2 Qe7 Rc1 Rad8 Na4 Ne4 Nd4 Nxd4 Bxd4 Qh4 g3 Qh6 Bg4 Ba3 Rc2 Rc8 Bxe6 fxe6 Rxc8 Rxc8 Nb2 Qg6 Nd3 Bd6 Nf4 Qf5 Ba1 Ng5 h4 Ne4 Kg2 b5 Qd4 Bf8 Qd1 Bd6 Qd4 Bf8 Qd1 Bd6",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766149093.4915168
+  "updated": 1766149275.2307684
 }
