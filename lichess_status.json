@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "trece2",
+  "rating": 3064,
+  "opponent": "chess_lion_2016",
   "variant": "Variant: Standard",
-  "time_control": "TC: 15+2",
-  "time_left": 653,
-  "timestamp": "2025-12-19T15:07:06.862742",
+  "time_control": "TC: 0+1",
+  "time_left": 6,
+  "timestamp": "2025-12-19T17:46:48.328278",
   "last_game": {
     "result": "win",
-    "opponent": "trece2",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "opponent": "chess_lion_2016",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Ke2 Nxe4 d5 Qe7 Kf1 Ne5 Bd3 Nxd3 Qxd3 O-O Nc3 Bxc3 bxc3 Re8 a4 d6 Be3 Bf5 Nd4 Ng3+ hxg3 Bxd3+ Kg1 Qe4 Re1 Qxd5 Rd1 Qa2 Kh2 Rxe3 fxe3 Be4 Rhg1 c5 Ra1 Qb2 Nb5 Qe2 g4 Qxg4 Nxd6 Qh4#",
-    "duration": 1008,
+    "moves": "e4 e5 Bc4 Nf6 Qf3 c6 Qh5 Nxh5 Bxf7+ Kxf7 f3 d5 exd5 cxd5 Nh3 Bxh3 g4 Qh4+ Ke2 Nf4+ Ke3 Bc5+ d4 Bxd4+ Kd2 Qf2+ Kd1 Qe2#",
+    "duration": 28,
     "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1766156826.8628027
+  "updated": 1766166408.3283381
 }
