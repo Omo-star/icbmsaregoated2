@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2955,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3000,
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 120,
-  "timestamp": "2025-12-19T11:41:21.346683",
+  "time_control": "TC: 10+0",
+  "time_left": 378,
+  "timestamp": "2025-12-19T11:51:43.680279",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2955,
-    "rating_after": 2955,
+    "opponent": "caissa-x",
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 Nf6 d4 e6 Bf4 Bd6 Bg3 c5 Qc2 b6 Nbd2 Bb7 e3 Nc6 a4 O-O Bxd6 Qxd6 Be2 Rfd8 O-O Rac8 h3 h6 Rfe1 Qc7 Qb3 Nd7 Qc2 e5 dxe5 Ndxe5 Rad1 d4 exd4 cxd4 Bb5 d3 Qb1 Rd5 Re3 Rcd8 b3 f6 c4 R5d6 c5 bxc5 Nxe5 Nxe5 Nc4 Rd4 Nxe5 fxe5 Bxd3 Qc6 f3 Qd5 Bh7+ Kh8 Rde1 Rd1 Rxd1 Qxd1+ Kh2 Qd2 Rd3 Rxd3 Qxd3 Qxd3 Bxd3 Bd5 Bc4 Bc6 h4 g5 hxg5 hxg5 Kg3",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "b3 d6 d4 e5 dxe5 dxe5 Qxd8+ Kxd8 e4 Nd7 a4 a5 f3 Bb4+ Nd2 f6 Bb2 Nh6 Nh3 c6 Nf2 Kc7 Bc4 Nb6 Be2 Nf7 g3 Re8 Nd3 Bd6 O-O-O Nd7 f4 Nc5 Nc4 Nxd3+ Bxd3 Bc5 fxe5 fxe5 h4 Re7 Rde1 b6 Ne3 Nh6 Nc4 Nf7 Ne3 Nh6 Nc4 Nf7",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766144481.3467705
+  "updated": 1766145103.6803663
 }
