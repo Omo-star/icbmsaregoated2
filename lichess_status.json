@@ -4,19 +4,19 @@
   "rating": 3066,
   "opponent": "FayEFish",
   "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 29,
-  "timestamp": "2025-12-20T08:58:02.880418",
+  "time_control": "TC: 1+0",
+  "time_left": 14,
+  "timestamp": "2025-12-20T09:00:07.121943",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "FayEFish",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "b4 Ng6 e3 b6 Be2 a5 b5 e6 f3 Bb7 c4 O-O-O d4 f5 c5 Ne7 Nf2 g5 Bd2 g4 fxg4 Nf6 Rc1 Kb8 h3 Ne4 Nxe4 Bxe4 Qb2 h5 gxh5 Rg3 Rf1 Nd5 Rf3 Rg8 g4 Be7 Qa3 Rdf8 Rf4 Qb7 Nd3 Nxf4 exf4 fxg4 hxg4 Bf3 Nf2 Bxe2+ Kxe2 bxc5 dxc5 Qxb5+ Kf3 Qb7+ Kg3 e5 Rc2 Rxg4+ Nxg4 Qh1 Qb3+ Ka7 Nxe5 Bh4+ Kg4 Bf2 Qh3 Qe4 Kg5 Qxc2 Qxd7 Qxc5 h6 Rg8+ Kf5 Qc2+ Qd3 Rf8+ Kg5 Rg8+ Kf5 Rf8+ Kg6 Qxa2 Be3+ Bxe3 Qxe3+ Ka6 Qd3+ Ka7 Qe3+ Ka6 Qd3+ Ka7 Qd4+ Ka6 Qd3+",
-    "duration": 159,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "c4 c5 Nab3 e5 Na5 Nd6 f4 exf4 d4 b6 dxc5 bxc5 b4 Rc8 Ncb3 Nb6 bxc5 Nbxc4 Qf3 Ne3 Rd3 Ndf5 Qb7 Ne7 g3 h5 gxf4 Bxf4 Qf3 N7d5 Rxd5 Nxd5 Qxd5 Qe7 Bd3 d6 c6 Be3+ Kg2 Rh6 Rf1 Bb6 h3 Qe5 Qxe5 dxe5 Be4 Bxc6 Nxc6 Rhxc6 Bxc6 Rxc6 Rf5 f6 a4 Rc2 Kf1 Rb2 Rf3 Rb1 a5 Bd8 Nd2 Rc1 Ra3 Kf7 e4 g5 Ke2 a6 Bf2 Kg6 Bb6 Be7 Rb3 g4 hxg4 hxg4 Nf1 Bc5 Ne3 Bxe3 Bxe3 Ra1 Bd2 Rh1 Rd3 Rh2+ Kf1 Kh5 Bb4 Rh1+ Kg2 Rc1 Be7 Rc2+ Kg3 Kg5 Rd6 Rc3+ Kg2 Rc2+ Kf1 Rc7 Re6 Kf4 Rxf6+ Kxe4 Bb4 Rc1+ Be1 g3 Rg6 Kd5 Rxg3 Rc6 Rb3 e4 Rb6 Rc2 Rxa6 e3 Ra8 Rh2 a6 Kc6 Bc3 Rh4 Ke2 Kc7 Kxe3 Kd7 a7 Ke6 Re8+ Kf7 a8=Q Rh3+ Kd2 Rh2+ Kc1 Rh1+ Qxh1",
+    "duration": 60,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1766221082.880575
+  "updated": 1766221207.1220124
 }
