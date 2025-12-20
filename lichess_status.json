@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 76,
-  "timestamp": "2025-12-20T10:04:30.749834",
+  "rating": 3007,
+  "opponent": "abdcebot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 420,
+  "timestamp": "2025-12-20T10:08:50.005537",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "abdcebot",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "c3 d5 d4 h6 h3 e6 Bh2 Bd6 Bxd6 Nxd6 e3 Bh7 Be2 Nd7 O-O O-O Nd3 Bxd3 Bxd3 c5 a4 c4 Bc2 Nf6 Nd2 Rb8 Rfe1 b5 axb5 Rxb5 b3 cxb3 Nxb3 Rc8 Nc5 Nb7 Na4 Ra5 Qa3 Qb8 Rb1 Qc7 Qb4 Nd6 Nc5 Rb5 Qa4 Ra5 Qb4 Nd7 Nxd7 Rb5 Qa4 Ra5 Qb4 Rb5 Qa4 Ra5 Qb4",
-    "duration": 178,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Ne4 cxd4 Qxd4 Qc6 Kh1 Bg6 Qf2 h6 f4 Bf5 Be3 Nxe3 Rxe3 Bd8 Ng3 Bxc2 Qxc2 Re8 Rxe8+ Qxe8 Nf5 Bc7 c4 Bxf4 cxb5 g6 Qc4 Be5 Nxh6+ Kg7 Ng4 Bxb2 Rf1 Rb8 Qxa4 Rxb5 Ne3 Be5 Qc4 Rb6 Ng4 Bb2 h3 Re6 a4 Qc6 Qf4 f5 Qf2 Qb6 Qf4 Re4 Qh6+ Kg8 a5 Qa6 Nh2 Bg7 Qg5 Kh7",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766225070.7500117
+  "updated": 1766225330.009088
 }
