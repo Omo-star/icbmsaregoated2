@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "suniferia",
+  "rating": 3064,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 206,
-  "timestamp": "2025-12-20T08:07:16.532387",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-20T08:07:56.374154",
   "last_game": {
     "result": "draw",
-    "opponent": "suniferia",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "opponent": "PositionalAI",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Be3 d5 Nc3 Nf6 Bd3 dxe4 Nxe4 Nxe4 Bxe4 Nd7 Nf3 c5 c3 Nf6 Bc2 Qc7 Qe2 b5 a4 b4 c4 Bd6 O-O-O O-O dxc5 Bxc5 Bxc5 Qxc5 Ne5 Bb7 f4 Qb6 b3 Rfd8 Rhf1 h5 g3 Ng4 Rd3 Rxd3 Qxd3 Qe3+ Qxe3 Nxe3 Re1 Nxc2 Kxc2 a5 Rd1 f6 Rd7 Be4+ Nd3 Kf8 Kd2 Bf5 Nc5 h4 Ke3 e5 Rd5 hxg3 hxg3 exf4+ Kxf4 Bb1 Ne6+ Kg8 c5 Kf7 Nc7 g5+ Ke3 Rc8 Nb5 Re8+ Kf2 Rc8 Rd1 Bc2 Rc1 Rxc5 Nd4 Rd5 Nxc2 Rc5 g4 Rc3 Ke2 Rxb3 Kd2 Rb2 Ke3 Ra2 Nd4 Ke8 Rc8+ Kd7 Rf8 Rxa4 Ke4 Ra1 Rf7+ Kc8 Rf8+ Kc7 Rf7+ Kc8 Ra7 a4 Kd5 Rg1 Rxa4 Rxg4",
-    "duration": 600,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 e6 Qd2 a6 O-O-O Bd7 f4 Be7 Nf3 b5 e5 b4 exf6 bxc3 Qxc3 gxf6 Bh4 Rg8 Kb1 Rb8 h3 Qa5 Qxa5 Nxa5 Bxa6 Rxg2 Rhg1 Rg6 f5 Rxg1 Rxg1 Kf8 Be1 Bd8 fxe6 fxe6 Bd2 e5 Bh6+ Ke7 Rg7+ Ke6 Bd3 Nc6 Bc4+ d5 Bxd5+ Kxd5 Rxd7+ Ke6 Rxh7 Bb6 Nd2 Bd4 Nb3 Bf2 Nd2 Bd4 Nb3 Bf2 Nc1 Bd4 b3 Rg8 Rc7 Kd6 Rg7 Rh8 Rg6 e4 Ne2 Be5 Bf4 Ke6 Bxe5 Kxe5 a4 Rxh3 Rg8 f5 Kb2 Rh2 Re8+ Kd5 Nf4+ Kd4 Ne6+ Kd5 Nf4+ Kd4 Ne6+ Kd5",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766218036.5325334
+  "updated": 1766218076.3742912
 }
