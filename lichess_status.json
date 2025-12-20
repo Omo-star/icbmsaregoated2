@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2956,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3007,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2025-12-20T09:07:25.215926",
+  "time_control": "TC: 10+0",
+  "time_left": 404,
+  "timestamp": "2025-12-20T09:17:26.432970",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2956,
-    "rating_after": 2956,
+    "opponent": "RaspFish",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Qe7 Nbd2 Bg4 h3 Bh5 a3 Nd7 b4 Bd6 Nc4 f6 Na5 Rb8 Be3 c5 Nc4 Nf8 g4 Bg6 Nh4 Ne6 Nf5 Qd7 h4 O-O Ncxd6 cxd6 h5 Bf7 f3 d5 exd5 Nd4 c4 Nxf5 gxf5 cxb4 h6 b3 Bxa7 Rbc8 Qxb3 Qxf5 Ra2 gxh6 Rg2+ Kh8 Rff2 Rg8 Qxb7 Bh5 d6 Qxd3 d7 Rcd8 Qc6 Qf5 Rxg8+ Kxg8 Rg2+ Bg6 Rd2 Qg5+ Rg2 Qf5 Qd5+ Kg7 Rd2 Qg5+ Kh1 Qh5+ Kg1 Qg5+ Kh1 Qh5+ Kg1 Qg5+",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "Nc3 c5 a4 d5 e4 d4 Nb1 a6 Bc4 Nf6 d3 e5 f4 exf4 Nf3 Nc6 Bxf4 Bd6 e5 Nh5 Bg5 Be7 O-O O-O Bd2 Bg4 Qe2 Kh8 Na3 Qc7 Bd5 f6 Bxc6 Qxc6 Nc4 Rae8 Qf2 Qc7 Qh4 f5 Bg5 h6 Bxe7 Rxe7 h3 g5 Qf2 Bxf3 Qxf3 Nf4 Rae1 Ng6 Qd5 f4 a5 Kg7 Nd6 Kh7 Nc4 Kg7 Nd6 Kh7 b3 Rd8 g3 Nxe5 Rxe5 Rxe5 Qxe5 Qxd6",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766221645.216025
+  "updated": 1766222246.4331138
 }
