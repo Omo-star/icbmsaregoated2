@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "Alehkine_cat",
+  "rating": 3007,
+  "opponent": "Homework_1234",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2025-12-21T07:30:21.033541",
+  "time_control": "TC: 15+10",
+  "time_left": 939,
+  "timestamp": "2025-12-21T07:31:14.432773",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "result": "win",
+    "opponent": "Homework_1234",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 b4 Bb6 Be3 Nd4 Bxd4 Bxd4 Nxd4 exd4 Ne2 c5 g3 Rb8 Bg2 b5 O-O bxc4 bxc5 dxc5 Qa4+ Nd7 Qxc4 O-O Nf4 Qf6 Nd5 Qd6 f4 Nb6 e5 Nxc4 exd6 Nxd6 Ne7+ Kh8 Rfc1 Re8 Nc6 Rb2 Rxc5 Bb7 Rac1 g6 R1c2 Rb1+ Rc1 Rxc1+ Rxc1 Rc8 Rc2 Bxc6 Rxc6 Rxc6 Bxc6 f6 Kf2 Kg7 Kf3 Kf7 Kf2 Ke7 Kf3 Ke6 Ke2 Nf5 Ba4 Nd6 Bc6 Nf5 Ba4 Ne3",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Bxc6 dxc6 Nxe5 Qd4",
+    "duration": 1000,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1766302221.033703
+  "updated": 1766302274.4328587
 }
