@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3006,
-  "opponent": "GoblinAjedrezAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 434,
-  "timestamp": "2025-12-21T11:01:17.895839",
+  "rating": 3075,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 23,
+  "timestamp": "2025-12-21T11:03:32.135815",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3006,
-    "rating_after": 3006,
+    "opponent": "Bharat_royals",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Bf8 Qa8 Bd7 Qd5 Qe8 Ra1 Bxb5 Ra8 Qd7 Rb8 c4 d4 Nxd4 N3xd4 exd4 Nxd4 c6 Qxd7 Rxd7 Bb4 c5 Bxc5 bxc5 Nxb5 Rd1+ Kh2 Rd2 Na3 Rxf2 Kg3 Re2 Kf3 Rd2 e5 fxe5 Nxc4 e4+ Ke3 Rxg2 Ne5 Rxc2 Nd7 Kf7 Nxf8 Rh2 Nd7 Rxh5 Rc8 c4 Nc5 Rh3+ Kxe4 Rh1 Ke5 c3 Rc7+ Kg6 Ne4 Rc1 Rxc3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "h4 d5 d4 h5 Nd2 Nd6 e4 dxe4 Nxe4 Nxe4 Rxe4 b6 Re1 e6 Rh3 Bb4 c3 Be7 Nd3 Bxh4 b4 Bf6 Bb2 Nd7 Bc1 h4 Qa4 Qc8 Ne5 Nxe5 dxe5 Be7 Rd1 Rh5 Rd7 b5 Bxb5 Rxe5 Be3 Bf6 Ba6 Bb7 Rxc7 Qxc7 Qxe8+ Kh7 Bd3+ Be4 f4 Qxc3 fxe5 Qxd3 exf6 Qd1+ Kf2 Qc2+ Ke1 Qb1+ Kf2 Qb2+ Ke1 Qb1+ Kf2 Qxa2+ Ke1 Qb1+ Kf2 Qc2+ Ke1 Qb1+ Kf2 Qc2+ Ke1 Qb1+",
+    "duration": 148,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766314877.8959322
+  "updated": 1766315012.1360047
 }
