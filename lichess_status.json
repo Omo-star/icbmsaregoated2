@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "bot1e",
+  "rating": 3074,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 460,
-  "timestamp": "2025-12-21T10:22:07.126867",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2025-12-21T10:22:49.287740",
   "last_game": {
     "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "opponent": "Lili-ai",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 Qc1 b5 Ne5 Bxe5 Bxe5 f6 Bf4 g5 f3 Nd6 Bxd6 Rxe1+ Qxe1 Qxd6 Qe8+ Kg7 Re1 Bg6 Qe6 Qxe6 Rxe6 b4 cxb4 Bf7 Ra6 Rb7 f4 gxf4 gxf4 Kg8 h4 Rxb4 Rxa7 Rxb2 Kh2 Ra2 Kg3 c3 Bf3 c2 Rc7 Rxa5 Rxc2 Ra3 Rc1 Be6 f5",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Qxe1 b6 Nxf6+ Qxf6 d3 Bb7 Qe3 c5 Qf4 Qxf4 Bxf4 Nf5 a4 f6 c3 g5 Bd2 Re8 f3 h5 a5 Kg7 axb6 axb6 Kf2 Rc8 g3 Rh8 Be2 Rb8 Ra7 Bc6 Ra6 Kf7 Ra7 Ke7 Bd1 Ng7 d4 h4 gxh4 Rh8 dxc5 bxc5 Ba4 Bxa4 Rxa4 Nf5 hxg5 Rxh2+",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766312527.1270156
+  "updated": 1766312569.287832
 }
