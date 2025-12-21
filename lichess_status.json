@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2959,
-  "opponent": "PositionalAI",
+  "rating": 3073,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+2",
-  "time_left": 336,
-  "timestamp": "2025-12-21T09:50:25.170755",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2025-12-21T09:51:08.612891",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 2959,
-    "rating_after": 2959,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 h3 Nf6 Nc3 d5 exd5 Nxd5 Bb5 Nxc3 bxc3 Bd6 O-O O-O d4 exd4 cxd4 Bf5 Bg5 Qc8 Re1 a6 Bc4 h6 Bd2 Re8 a4 Qd7 Bf1 Rxe1 Bxe1 Be4 Nd2 Bg6 Nf3 Be4 Nd2 Bg6 Nf3 Be4 Nd2",
-    "duration": 386,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O e4 d5 e5 Ne4 Bd3 c5 Nf3 cxd4 Nxd4 Nd7 Bf4 Qh4 g3 Qh5 O-O g5 cxd5 gxf4 dxe6 Nxe5 Nxe4 fxe6 f3 fxg3 Nxg3 Qh6 Be4 Qd2 Bxh7+ Kh8 Rfd1 Nxf3+ Nxf3 Qe3+ Qf2 Bc5 Qxe3 Bxe3+ Kg2 Kxh7 Rd3 Bf4 Re1 b6 Nh5 Bc7 Rc1 Bb8 Rc4 Kg6 Ng3 Bb7 Rg4+ Kh6 Rh4+ Kg6 Rg4+ Kh6 Rh4+ Kg6 Rg4+ Kh6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766310625.1708434
+  "updated": 1766310668.6129882
 }
