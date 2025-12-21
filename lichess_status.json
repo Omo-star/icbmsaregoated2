@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2959,
-  "opponent": "Monastedrez",
-  "variant": "Variant: Standard",
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
   "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2025-12-21T07:59:21.995888",
+  "time_left": 109,
+  "timestamp": "2025-12-21T08:02:12.747369",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
+    "opponent": "PetersBot",
     "rating_before": 2959,
     "rating_after": 2959,
     "rating_delta": 0,
-    "moves": "Nf3 d5 b4 Nf6 Bb2 e5 Nxe5 Bxb4 e3 O-O Be2 Nbd7 O-O Nxe5 Bxe5 Re8 d4 b6 c3 Bd6 Bxd6 Qxd6 Nd2 c5 dxc5 Qxc5 Rc1 Qe7 Qb3 Be6 c4 Rac8 cxd5 Bxd5 Qb2 Ne4 Nf3 h6 Rfd1 Rxc1 Rxc1 Qb7 Nd4 Rc8 f3 Rxc1+ Qxc1 Nc5 Qd2 Qb8 g3 Qe5 Nb5 a6 Nc3 Bc6 Qd8+ Kh7 Qd4 Qe7 Kf2 b5 Bd1 g6 Nd5 Bxd5 Qxd5 Kg7 Qd4+ Kg8",
+    "moves": "f4 f5 Nf3 Nf6 d3 c5 Qe1 Nc7 g3 d6 b4 c4 Bb2 b5 e4 fxe4 dxe4 Bb7 e5 Nfd5 O-O-O O-O-O Ng5 g6 Nxh7 Qf5 Be4 Qh5 Ng5 Bxe5 Bxe5 dxe5 Bf3 Qh8 fxe5 Rgf8 h4 Kb8 c3 Rf5 Bxd5 Rxd5 Rxd5 Nxd5 Nc2 Qxe5 Nd4 Qxe1+ Rxe1 Rf2 Nxb5 Rxa2 Ne4 Ra1+ Kd2 Ra2+ Kc1 a6 Nd4 Ra1+ Kd2 Rxe1 Kxe1 Nxb4 cxb4 Bxe4 Kd2 Kc7 Kc3 e5 Ne6+ Kc6 Nc5 Bf3 Nxa6 e4 Kxc4 Be2+ Kd4 Bxa6 Kxe4 Bf1 g4 Be2 b5+ Kxb5 h5 gxh5 gxh5 Kc6 h6 Bh5 h7 Bg6+ Ke3 Bxh7",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766303961.996018
+  "updated": 1766304132.7474287
 }
