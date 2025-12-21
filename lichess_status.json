@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "Monastedrez",
+  "rating": 3073,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 476,
-  "timestamp": "2025-12-21T08:38:46.797380",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2025-12-21T08:39:42.213335",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O Re8 Nc3 c6 Rac1 d5 exd5 cxd5 Nxd5 Nxd5 cxd5 Qxd5 Rc7 a5 h4 axb4 axb4 Rad8 Rfc1 h6 Qe4 b6 R1c3 Qe6 Qf3 Qd5 Qe4 Qe6 Qf3 b5 g3 Rd4 R3c5 Red8 Qh5 Rxd3 Rxe5 Qf6 Qe2 Rd1+ Kg2 R1d2 Re8+ Kh7 Qe4+",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Kh7 Ra4 Bg4 Rc4 Bxh5 Rc6 Rd6 Kf1 Rxc6 bxc6 Be8 Bd8 Bxc6 Bxc7 Ba4 Bxe5 b5 c3 dxc3 Bxc3 g5 Ke2 g4 Be1 Kg6 d4 Kf6 Kd3 Bb3 Bh4+ Ke6 Ke3 Kd6 Kf4 Bc2 Be1 Bd3 Bb4+ Kd7 Be1 Kd6 Bb4+ Kd7 Kxg4 Bxe4 d5",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766306326.7974918
+  "updated": 1766306382.2134774
 }
