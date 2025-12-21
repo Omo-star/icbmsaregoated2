@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3006,
-  "opponent": "ArasanX",
+  "rating": 2959,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 263,
-  "timestamp": "2025-12-21T12:01:33.449618",
+  "time_control": "TC: 3+1",
+  "time_left": 40,
+  "timestamp": "2025-12-21T12:07:46.166895",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3006,
-    "rating_after": 3006,
+    "opponent": "RaspFish",
+    "rating_before": 2959,
+    "rating_after": 2959,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bg5 d5 e3 c5 Bxf6 gxf6 Nf3 cxd4 Nxd4 a6 c4 e5 Nf3 Be6 Nbd2 Bb4 a3 Bxd2+ Nxd2 Nc6 Qc2 d4 O-O-O b5 cxb5 Na5 Kb1 Rc8 Qe4 Qd7 Qf3 f5 e4 f6 exf5 Bd5 Qg3 axb5 Bd3 b4 Rc1 bxa3 Rxc8+ Qxc8 Bb5+ Kf7 Qxa3 Qxf5+ Bd3 e4 g4 Qe6 Re1 Ra8 Nxe4 Kg7 Qd6 Ba2+ Kc1 Rc8+ Kd2 Nb3+ Ke2 Nc1+ Kd2 Nb3+ Ke2 Nc1+ Kd2 Nb3+",
-    "duration": 600,
+    "moves": "d4 d5 a4 Bf5 Bf4 e6 e3 Nf6 Nf3 Bd6 Bb5+ c6 Bd3 Bxf4 exf4 Ne4 O-O O-O Re1 Nd6 Bxf5 Nxf5 Nbd2 Nd7 Nf1 Qc7 g3 Rac8 Ne3 Nd6 c3 a6 Qd3 Nf6 Rad1 Rfe8 Ne5 c5 dxc5 Qxc5 Qe2 Qc7 Rd4 Rcd8 c4 dxc4 Qf3 Nf5 Rxc4 Qb6 b4 Nd4 Qg2 Nf5 Qf3 Nd4 Qg2 Nf5 Qf3",
+    "duration": 239,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766318493.4497917
+  "updated": 1766318866.1670282
 }
