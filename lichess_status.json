@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2959,
-  "opponent": "abdcebot",
+  "rating": 3007,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 134,
-  "timestamp": "2025-12-22T08:28:05.416575",
+  "time_control": "TC: 10+0",
+  "time_left": 595,
+  "timestamp": "2025-12-22T08:28:43.314143",
   "last_game": {
     "result": "draw",
-    "opponent": "abdcebot",
-    "rating_before": 2959,
-    "rating_after": 2959,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 e3 b6 Nc3 Bd6 Be2 Bb7 b3 O-O O-O Nbd7 a4 Ne4 Qc2 Nxc3 Qxc3 a5 Bb2 Nf6 Qc2 Qe7 Ne5 Rac8 Rad1 Rfd8 h3 Ne4 Bd3 h6 f3 Ng3 Rf2 Nf5 Bxf5 exf5 Qxf5 Bxe5 dxe5 dxc4 Rxd8+ Rxd8 bxc4 Bc6 Kh2 Qe6 Qh5 Qxc4 f4 Qe4 f5 Be8 f6 Qxe3 Qh4 Bc6 fxg7 Rd2 Qe7 Qf4+ Rxf4 Rxg2+ Kh1 Rg5+ Kh2 Rg2+ Kh1",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kg7 Kg2 a6 h4 f5 Nc5 Bxc5 bxc5 Bb5 c6 Rc3 h5 gxh5 Rd1 Kf6 Rh1 Kg7 Rd1 Kf6 Rh1 Kg7 Rd1",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766392085.416674
+  "updated": 1766392123.314243
 }
