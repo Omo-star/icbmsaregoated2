@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "FayEFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 29,
-  "timestamp": "2025-12-22T08:14:31.753394",
+  "rating": 3007,
+  "opponent": "PositionalAI",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 406,
+  "timestamp": "2025-12-22T08:21:46.198441",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "opponent": "PositionalAI",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "g4 c5 b3 Nc7 c4 Nd6 h4 b6 Qh3 f6 e3 e5 Ne2 O-O-O Nd3 Rge8 f4 exf4 Ndxf4 Ne4 d3 Nd6 O-O-O Qf8 Nh5 b5 Rde1 Re7 Nef4 bxc4 dxc4 Ne4 g5 fxg5 hxg5 Ne6 Nxe6 Rxe6 Nxg7 Qf2 Qg2 Qxg2 Rxg2 Re7 Rf1 Nc3 Rgf2 Nxb1 Nf5 Re6 Kxb1 Rg8 Bf6 Be4+ Kc1 Rf8 Bg7 Rg8 Bf6 Rf8 Ng7 Rc6 Nh5 Re6 Nf4 Ree8 Rd1 Rf7 Nd5 Bg3 Rff1 Kb7 Nc3 Bg6 Nd5 Be4 Nc3 Bg6 Kd2 Bc7 Nd5 Ba5+ Bc3 Bxc3+ Kxc3 Rxf1 Rxf1 Re5 Rg1 a5 Kb2 a4 bxa4 Bf7 Nf6 Rxe3 Nxd7 Kc6 Nf6 Re2+ Kb3 Re3+ Kb2 Re2+ Kb3 Re3+ Kc2 Rh3 Rg4 Bg6+ Kb2 Rh2+ Ka3 Rh3+ Kb2 Rh2+ Kb3 Rh3+ Kb2 Rh2+",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Rc2 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3 Kg6 Re2 Rb1 Kh2 Kg7 Bf3 Kh6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra2 Re2 Ra1 Kg2 Rb1 Kh2 Rc1 Re3 Nxf2 Re2 Ng4+ Kg2 Nf6 Kh3 Ne4 Rg2+ Kf6 Rh2 Rg1 Rg2 Rh1+ Rh2 Rg1 Rg2 Rh1+ Rh2 Rf1 Be2 Rxf4 Bxh5 Rf1 Re2 Rh1+ Rh2 Rg1 Rg2 Rh1+ Rh2 Rb1 Re2 f4 Bf3 Kf5 Kg2",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766391271.7535298
+  "updated": 1766391706.1985905
 }
