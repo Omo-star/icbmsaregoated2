@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "Bharat_royals",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 19,
-  "timestamp": "2025-12-22T11:15:12.582143",
+  "rating": 2961,
+  "opponent": "Monastedrez",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 163,
+  "timestamp": "2025-12-22T11:15:57.487825",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "Monastedrez",
+    "rating_before": 2961,
+    "rating_after": 2961,
     "rating_delta": 0,
-    "moves": "c4 c5 h4 h5 Nf3 Nf6 b3 Ne6 Bf5 Bf4 e3 Bh6 O-O O-O Nc3 b6 d3 d6 Ng5 Bd7 Nge4 Ng4 Bd2 Rce8 f4 Qd8 Bxg4 hxg4 f5 Nc7 Rcd1 d5 Nxd5 Nxd5 cxd5 e6 f6 exd5 fxg7 Bxg7 Nf6+ Bxf6 Qxf6 Qxf6 Rxf6 Re6 Rxe6 fxe6 Bc3 Rf5 d4 c4 bxc4 dxc4 Kh2 Kh7 Kg3 Bc6 a4 Kg6 Rc1 a6 Bb4 Bd5 e4 Bxe4 Rxc4 b5 Rc8 a5 Bd6 b4 Re8 Kf7 Rf8+ Kg7 Re8 Kf6 Rf8+ Kg7 Re8 Kf7 Rf8+ Kg7",
-    "duration": 168,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 Kf8 Rd1 Bc6 Rxd8+ Bxd8 h4 Rb1+ Kh2 Rb2 Kg1 Bb6 Ra6 Rb1+ Kh2 Rb2 Kg1 Rb1+ Kh2 Rb2 Kg1",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766402112.582282
+  "updated": 1766402157.4879336
 }
