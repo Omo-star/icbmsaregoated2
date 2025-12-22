@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3075,
-  "opponent": "abdcebot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 11,
-  "timestamp": "2025-12-22T09:56:40.057846",
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 62,
+  "timestamp": "2025-12-22T09:58:12.564593",
   "last_game": {
     "result": "draw",
-    "opponent": "abdcebot",
+    "opponent": "YoBot_v2",
     "rating_before": 3075,
     "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Bf4 Nbd7 Nc3 dxc4 Nd2 Nd5 Nxc4 Nxf4 gxf4 Qc7 e3 Ba6 Qa4 Bb7 Rac1 a6 b4 b5 Qa5 Qb8 Nd2 Bd8 Qa3 a5 Qb2 axb4 Qxb4 Ra7 Nb3 Qa8 Qd6 Nb6 Nc5 Nc4 Qd7 Nb6 Qd6 Nc4 Qd7 Nb6 Qd6",
-    "duration": 57,
-    "bot_color": "white",
+    "moves": "b3 b6 Nd3 Nd6 g4 Bxh1 Rxh1 g5 Bxh8 Rxh8 h4 h5 gxh5 Rxh5 hxg5 Rxg5 Nc3 Nc6 O-O-O Qg7 Rh2 O-O-O Qh1 Rg8 Kb2 e6 e3 a5 Nf4 a4 Rh7 Qf6 Rh6 Qg7 Rh7 Qf6 Rh6 Qg7 Rh7",
+    "duration": 99,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766397400.0579357
+  "updated": 1766397492.5646822
 }
