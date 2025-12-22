@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 2961,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2025-12-22T11:45:47.820499",
+  "time_control": "TC: 3+0",
+  "time_left": 20,
+  "timestamp": "2025-12-22T11:51:41.918768",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "Cheszter",
+    "rating_before": 2961,
+    "rating_after": 2961,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Nxd4 Bd7 Qb3 Nc6 Nxc6 Bxc3 Qxb7 Bxc6 Qxc6 Bxb2 Rc2 Rac8 Qa4 Be5 Rfc1 Qe7 g3 g6 Bb3 Rxc2 Rxc2 Bb8 h4 h5 Rc4 Kg7 Bd1 Bd6 Bf3 Rb8 Rc2 Bb4 Kg2 a5 a3 Bxa3 Qxa5 Bb2 Rc7 Qd6 Rc6 Qa3 Qc7 Re8 Qd7 Qe7 Qxe7 Rxe7 Rb6 Bc3",
-    "duration": 30,
+    "moves": "c4 c6 Nc3 d5 d4 e6 e3 Nf6 Nf3 Bd6 Bd3 O-O e4 dxe4 Nxe4 Nxe4 Bxe4 c5 dxc5 Bxc5 O-O f5 Bc2 Nc6 Bf4 Qf6 Ba4 Nd4 Re1 Nxf3+ Qxf3 Qxb2 Be5 Qa3 Qd1 b6 Qc2 Bd6 Bb2 Qc5 Rad1 Rf7 Re3 Qc7 Red3 Be7 h4 Ba6 Bd7 Qxc4 Rc3 Qe2 Qxe2 Bxe2 Rdc1 Bf6 Rc8+ Rf8 Rxa8 Rxa8 Bxf6 gxf6 Bxe6+ Kh8 Rc7 f4 f3 h5 Rf7 Rd8 Rxf6 Rd6 Rf8+ Kg7 Rf7+ Kg6 Bb3 Bd1 Rxa7 Bxb3 axb3 Rd3 Ra4 Rxb3 Rxf4 b5 Kh2 Rb2 Rd4 b4 Kh3 Rb3 Kg3 Rb2 Rd6+ Kh7 Rb6 Kg7 Rb7+ Kg6 Rb6+ Kg7 Kh2 Kh7 Kh3 Rb3 Rb5 Kg6 Rb6+ Kh7 Rb5 Kh6 Kg3 Rb2 Kh2 Kg6 Kg3 Kh6 Kh2 Rb3 Rb6+ Kh7 Kg3 Rb2 Rb7+ Kh6 Kh3 Rb3 Rb5 Kg6 Rg5+ Kh6 Re5 Kg6 Rg5+ Kh6 Re5 Rd3 Re6+ Kh7 Re5 Kh6 Re4 Rb3 Re6+ Kg7 Kg3 Rb2 Re5 Kh6 Rb5 Kg6 Rb7 Kh6 Kh3 Rb3 Rd7 Kg6 Rd6+ Kh7 Kg3 Rb2 Rd5 Kh6 Kh3 Rb3 Rd6+ Kg7 Rd5 Kg6 Rb5 Kh6 Rb7 Kg6 Kh2 Kh6 Rb8 Kh7 Kg3 Rb2 Kh2 Rb3 Rf8 Rb2 Rf5 Kg6 Rg5+ Kh6 f4 b3 Rb5 Rb1 g3 b2 Kg2 Kg6 Rb6+ Kf7 f5 Kg7 Rb8 Kf7 Rb4 Rc1 Rxb2 Rc5 g4 hxg4 Kg3 Rxf5 Kxg4 Rf6 h5 Kg8 Rb7 Kh8 Kg5 Rf8 h6 Kg8 Kg6 Kh8 Rh7+ Kg8 Rg7+ Kh8 Rh7+ Kg8 Ra7 Kh8 Rh7+ Kg8",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766403947.8206248
+  "updated": 1766404301.918835
 }
