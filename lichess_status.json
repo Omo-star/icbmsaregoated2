@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "Cheszter",
+  "rating": 3011,
+  "opponent": "crosshair_22",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2025-12-22T12:06:21.494480",
+  "time_control": "TC: 17+0",
+  "time_left": 880,
+  "timestamp": "2025-12-22T15:26:26.783243",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "result": "win",
+    "opponent": "crosshair_22",
+    "rating_before": 3011,
+    "rating_after": 3011,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Bf1 Be7 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Re1 b4 Bd3 Nh4 Be3 Bb7 g3 Ng6 Be4 Re8 Qc2 c6 d6 Be5 cxb4 axb4 Bc5 Qf6 Bxb4 Bxb2 Bc3 Bxc3 Nxc3 Ba6 Na4 Nf8 Rad1 Reb8 Rd2 Qg5 Rdd1 Qf6 Rd2 Rb4 a3 Rd4 Rxd4 Qxd4 Nc5 Qxd6 Bf5 g6 Rd1 Qe7 Bxd7 Be2 Re1 Nxd7 Nxd7 Qxd7 Qxe2 Rxa3 Rd1 Qc8 Qc4 c5 h4 Qf5 Rd8+ Kg7 Qe2 Qf3 Qe5+ Kh6 Qg5+ Kg7 Qe5+ Kh6 Qg5+ Kg7 Qe5+",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 O-O c3 Nb4 cxb4 Bxb4 Nxe5 d6 Nxf7 Rxf7 Bxf7+ Kxf7 Qb3+ Be6 Qxb4 Kg6 f4",
+    "duration": 1020,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1766405181.494591
+  "updated": 1766417186.7833247
 }
