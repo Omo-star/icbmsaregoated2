@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2959,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3006,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 142,
-  "timestamp": "2025-12-22T07:56:23.242165",
+  "time_control": "TC: 10+0",
+  "time_left": 346,
+  "timestamp": "2025-12-22T08:05:49.583874",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2959,
-    "rating_after": 2959,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3006,
+    "rating_after": 3006,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bg2 Bf5 Ne5 Rad8 Bf4 Qc8 h4 Bg7 Nf3 Bf8 Ng5 Nxg5 hxg5 Rxe1+ Qxe1 Re8 Qd2 Qd8 Be5 Be7 f4 Bf8 Re1 Bg4 Qf2 Bg7 Bxg7 Kxg7 Rxe8 Qxe8 Bxd5 Qxa4 Qd2 a5 Be4 Qa1+ Kg2 a4 d5 Qa2",
-    "duration": 180,
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 Nc3 Bb4 Qa4+ Nc6 e3 O-O Qc2 Re8 Bd2 h6 a3 Bf8 cxd5 exd5 Bd3 Bg4 O-O Bd6 Kh1 Bh5 Be1 a6 Ne2 Qc8 Nh4 Bxe2 Bxe2 Ne7 Bd3 Qe6 b4 c6 a4 Bc7 Rc1 g6 g3 Kg7 Rb1 Qh3 Rg1 Qe6 Rb3 Ng4 b5 axb5 axb5 Bd6 Nf3 Nf6 bxc6 bxc6 Bb4 Reb8 Rgb1 Rxb4 Rxb4 Bxb4 Rxb4 Ra7 Kg2 Nd7 Rb3 Qd6 Qb2 Ng8",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766390183.242261
+  "updated": 1766390749.5839758
 }
