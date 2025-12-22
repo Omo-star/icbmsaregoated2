@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "Monastedrez",
+  "rating": 2960,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2025-12-22T09:34:36.545393",
+  "time_control": "TC: 3+0",
+  "time_left": 111,
+  "timestamp": "2025-12-22T09:38:30.741803",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "opponent": "Cheszter",
+    "rating_before": 2960,
+    "rating_after": 2960,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Be3 Nd4 Bxd4 exd4 Na4 c5 b4 axb4 axb4 Bc7 bxc5 Qe7 Nb6 Rxa1 Qxa1 Bxb6 cxb6 Nxe4 Be2 Nc3 Nxd4 Nxe2 Nxe2 O-O Kf1 Re8 Nf4 Bd7 Kg2 Bc6+ Nd5 h5 Qd4 Qe2 Ra1 f6 Ra3 Kf7 Ra1 Kg6 Rf1 Re5 h4 Kf7 Ra1 Kg6 Rf1 Kh6 Qf4+ Kg6 Qd4",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 Bg5 d5 Bxf6 Bb4+ Nc3 Qxf6 e3 Bxc3+ bxc3 Nd7 cxd5 cxd5 c4 dxc4 Bxe4 Qa6 Ne2 Nf6 Bg2 O-O a4 Bf5 O-O Rfd8 Re1 Qa5 Qc1 Rac8 Qc3 Qb6 a5 Qc7 Qb4 Be4 Bxe4 Nxe4 f3 Ng5 Kg2 Qc6 Rf1 Re8 Ra3 f5 h4 Nf7 Nf4 Nd6 Kf2 Qd7 Re1 Nb5 Raa1 a6 Rac1 c3 h5 Rc7 Qb1 Qf7 Re2 Rec8 Qc2 Rc4 Qd1 g5 hxg6 hxg6 Kg2 g5 Nd3 R4c7 Ne5 Qe6 g4 Rh7",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766396076.5454912
+  "updated": 1766396310.741898
 }
