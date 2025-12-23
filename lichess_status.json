@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2967,
-  "opponent": "Cheszter",
+  "rating": 3009,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2025-12-23T10:42:31.080690",
+  "time_control": "TC: 10+0",
+  "time_left": 597,
+  "timestamp": "2025-12-23T10:43:03.849843",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2967,
-    "rating_after": 2967,
+    "opponent": "PositionalAI",
+    "rating_before": 3009,
+    "rating_after": 3009,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Re1 b4 Bd3 d6 a3 Bd7 axb4 axb4 Rxa8 Qxa8 cxb4 Qxd5 Nc3 Qb7 b5 Nh4 Be4 Qb8 Nd5 Bd8 Nc3 Bf6 Bd2 Ng6 Nd5 Bd8 Nc3 Bf6 Nd5 Bd8 Nc3 Bf6 Nd5",
-    "duration": 180,
+    "moves": "e4 e5 Ne2 Bc5 d4 exd4 Nxd4 Nf6 Nb3 Nxe4 Nxc5 Nxc5 Be3 Nba6 Nc3 O-O h4 Re8 Bxa6 Nxa6 Qf3 d5 O-O-O c6 g4 f6 Rhg1 Qe7 g5 fxg5 Rxg5 Nc7 Qg3 Qf7 Rg1 Ne6 Re5 Bd7 Ne2 Nf8 Rg5 Ne6 Re5 Nf8 Rg5 Ne6 Re5",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766486551.0808067
+  "updated": 1766486583.8499658
 }
