@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2967,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 59,
-  "timestamp": "2025-12-23T08:51:50.439318",
+  "rating": 3084,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+0",
+  "time_left": 23,
+  "timestamp": "2025-12-23T08:53:10.367862",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2967,
-    "rating_after": 2967,
+    "opponent": "PetersBot",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bc5 Nxe5 Nxe5 d4 Bb4 dxe5 Nxe4 Qf3 Nxc3 bxc3 Ba5 Bf4 Qe7 Be2 O-O Rd1 Re8 Rd2 Bb6 O-O Bc5 Bd3 d6 Re1 g6 Bf1 Rb8 Rdd1 Be6 exd6 Bxd6 Bxd6 cxd6 Qf4 Rbd8 Re3 b6 h4 h5 Rd5 Kg7 Qg3 Qd7 Rxh5 Bf5 Qg5 Rxe3 Qh6+ Kf6 Qg5+ Kg7 Qh6+ Kf6 fxe3 Qe6 Qg5+ Kg7 Qh6+ Kf6 Qg5+ Kg7 c5 dxc5 Qh6+ Kf6 Qg5+ Kg7 g4 Bxg4 Qh6+ Kf6 Qg5+ Kg7 Qh6+ Kf6 Qf4+ Bf5 Qg5+ Ke5 Qf4+ Kf6 Qg5+ Ke5 Rh7 Rd1 Qg3+ Kf6 Qg5+ Ke5 Qf4+ Kf6 Qg5+ Ke5",
-    "duration": 180,
+    "moves": "f4 g6 e4 Ne6 g3 b5 Ne2 c5 Ne3 Qa5 b3 Bxa1 Rxa1 Qa3+ Kb1 d6 Qc1 Qxc1+ Kxc1 Nf6 d3 h5 Kd2 Ng4 h3 Nxe3 Kxe3 Kd7 Bf3 Nc7 g4 hxg4 hxg4 e5 f5 gxf5 exf5 Nd5+ Bxd5 Bxd5 Nc3 Bc6 Ne4 Rh8 Rh1 Ke7 Kf3 c4 Kg3 f6 Rab1 d5 Nf2 d4 Rxh8 Rxh8 bxc4 bxc4 dxc4 Kd6 c3 Re8 Rd1 Kc5 Rc1 dxc3 Rxc3 a5 Rc1 Rd8 Rc3 Re8 Rc2 e4 Rc1 a4 Nh3 e3 g5 fxg5 Nxg5 Bd7 f6 Be6 Kf3 Kd4 f7 Bxf7 Nxf7 e2 Kf2 Rf8 Kxe2 Rxf7 a3 Rf4 c5 Re4+ Kd1 Re3 c6 Rd3+ Ke1 Re3+ Kd1 Rd3+ Ke1 Re3+ Kd1",
+    "duration": 60,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766479910.4394362
+  "updated": 1766479990.367955
 }
