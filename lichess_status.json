@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "Monastedrez",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 429,
-  "timestamp": "2025-12-23T07:53:56.081477",
+  "rating": 3084,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 2+0",
+  "time_left": 79,
+  "timestamp": "2025-12-23T07:54:44.943082",
   "last_game": {
-    "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 g3 Qb6 exf6 Bb7 Bg2 O-O-O O-O c5 d5 b4 Na4 Qa6 a3 Bxd5 Bxd5 Ne5 Nxc5 Bxc5 axb4 Bxf2+ Kxf2 Qb6+ Kg2 Rxd5 Qe2 Qxb4 Rxa7 Nc6 Ra8+ Nb8 Bf4 e5 Rxb8+ Kxb8 Bxe5+ Kc8 Bc3 Qb7 Qg4+ Kb8 Qf4+ Kc8 Qg4+ Kc7 Qf4+ Kc8 Qf3 Re8 Rf2 Qc6 h4 Re3 Qxe3 Rd3+ Qf3 Rxf3 Rxf3 Qe4 Kf2 Qc2+ Kg1 Qc1+ Kg2 Qc2+ Kh3 Qe4 Rf1 Qe6+ Kg2 Qe4+ Kh3 Qe6+",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "f4 h5 e4 d6 Qxh5 a5 Qxh8 g5 Qxg8 Nh7 Qxh7 a4 a3 b6 fxg5 c6 Ne3 c5 Qh5 d5 exd5 Kb7 Nd3 c4 Nb4 Rf8 d6 Qc7 Qf3+ Kb8 dxc7+ Kxc7 Qxa8 Kd6 Qd5+ Kc7 Na6#",
+    "duration": 120,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1766476436.0815651
+  "updated": 1766476484.9431453
 }
