@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "AlwaysPlayMystery",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 435,
-  "timestamp": "2025-12-23T08:27:13.683201",
+  "rating": 2967,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+0",
+  "time_left": 21,
+  "timestamp": "2025-12-23T08:32:57.357291",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "win",
+    "opponent": "PetersBot",
+    "rating_before": 2967,
+    "rating_after": 2967,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Qc3 Rc8 Qd2 Ne7 Rxc8 Qxc8 Nd4 Qc5 b4 Qc8 f4 Qd8 Bf3 Nc6 Qc3 Nxd4 Qxd4 Qxd4 exd4 b6 d5 exd5 Bxd5 Kf8 Kf2 f6 Be4 Ke7 Ke2 Kd6 Ke3 Bf7 Kd3",
-    "duration": 600,
+    "moves": "c3 d6 a4 Nhg6 Nhg3 d5 d4 a5 f3 f6 e4 c6 Ne3 Bc7 Qf1 Nf4 Ne2 Nd7 Nxf4 Bxf4 Qe2 Bg6 exd5 Qxd5 Bg3 Bxe3+ Qxe3 Bxb1 Rxb1 Qf7 b3 O-O c4 e6 Kb2 Rfe8 Rbc1 Nf8 Be1 Ng6 g4 Qd7 Bg3 Ne7 h4 h5 Qe4 Rac8 Qd3 Kf7 Rc2 Rcd8 Qe4 Rc8 Re2 Rcd8 Rde1 Ng8 Rd2 Ne7 Rc1 Rh8 Rcd1 Rhe8 Qh7 Rh8 Qe4 Rhe8 Rc1 Rh8 Rd3 Ng6 g5 fxg5 Be1 gxh4 Bxa5 Qd6 Rd2 Nf4 c5 Qb8 Bxd8 Rxd8 b4 Qc7 b5 cxb5 axb5 Nd5 Ra1 Qd7 Ra5 h3 Qe5 Kg8 Re2 Re8 Re1 Nb4 Qe4 Nd5 b6 Qe7 Ra3 Qd7 Ka1 Qb5 Qd3 Qxd3 Rxd3 Kf7 f4 Nxf4 Rf1 g5 Rxh3 Kg6 Ra3 h4 c6 Nd5 Re1 Kf6 Rf1+ Kg6 Re1 Kf6 Ra7 bxc6 Rf1+ Kg6 b7 Rb8 Rb1 Nc7 d5 exd5 Rb6 Kh5 Rxc6 Ne8 Rc8 h3 Rxb8 h2 Ka2 h1=Q Rxe8 Qg2+ Ka3 Qg3+ Ka4 Qf4+ Kb5 Qf1+ Kc6 Qf6+ Kc7 Qf7+ Kd8 Qf6+ Kd7 Qf7+ Kd8 Qf6+ Kd7 Qf5+ Re6 Qh7+ Kd6 Qb1 Kc7 Qh7+ Kb6 Qb1+ Kc7 Qh7+ Kd6 Qb1 Kc6 Qc2+ Kd7 Qh7+ Re7 Qf5+ Ke8 Qg6+ Kf8 Qf6+ Kg8 Qg6+ Kh8 Qf6+ Kg8 Qg6+ Kh8 Qf6+ Rg7 Qf8+ Kh7 Qf5+ Kh8 Qf8+ Kh7 Qf5+ Kg8 Qe6+ Kh8 Qe8+ Kh7 Qe4+ Kh8 Qe8+ Kh7 Qe4+ Kg8 Qe6+ Rf7 Qe8+ Kg7 Qe5+ Rf6 Qc7+ Kg8 Qb8+ Rf8 Qxa7 b8=Q Qxb8 Rxb8 Kg4 Kh8 Kf4 Kg8 d4 Kh8 d3 Kg8 d2 Rf8+ Ke3 Re8+ Kf4 Rf8+ Ke3 Re8+ Kf2 Rf8+ Ke1 Re8+ Kd1 Kh8 g4 Rg8 Ke2 Re8+ Kd1 Rg8",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1766478433.683288
+  "updated": 1766478777.3573544
 }
