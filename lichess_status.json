@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3089,
-  "opponent": "NimasBot",
+  "rating": 3010,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 0,
-  "timestamp": "2025-12-23T10:36:36.285330",
+  "time_control": "TC: 10+0",
+  "time_left": 596,
+  "timestamp": "2025-12-23T10:39:55.394855",
   "last_game": {
-    "result": "loss",
-    "opponent": "NimasBot",
-    "rating_before": 3089,
-    "rating_after": 3089,
+    "result": "draw",
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3010,
+    "rating_after": 3010,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 a6 Qd2 e6 O-O-O Bd7 f3 Be7 Nxc6 Bxc6 Kb1 h6 Be3 d5 e5 Nd7 f4 Qa5 Qf2 O-O Bd3 Rac8 Qg3 Qc7 Rhf1 Bb4 Bd2 Nc5 f5 f6 Qg4 Nxd3 cxd3 Bxc3 Bxc3 exf5 Qxf5 Ba4 Rc1 fxe5 Qe6+ Kh7 Qxd5 Bc6 Qxe5 Qd7 Qd4 Qxd4 Bxd4 Rxf1 Rxf1 Rd8 Bc3 Rxd3 Rf7 Rd1+ Kc2 Ba4+ b3 Rd7 Rxg7+ Rxg7 Bxg7 Bc6 Bc3 h5 Kd3 Kg6 g3 Kf5 Kd4 Bf3 Ba5 Bg2 Kc5 Ke6 Kb6 Bc6 Kc5 Bg2 a3 Bd5 b4 Be4 Bb6 Bc6 Bc7 Bd7 Kb6 Bc6 Kc5 Ke7 Be5 Kd7 Kd4 Ke6 Bf4 Bb5 Bc7 Bc6 Ke3 Kf5 Bf4 Kf6 Kf2 Ke6 Bb8 Kd5 h3 Bd7 g4 hxg4 h4 Kc4 h5 Be8 h6 Bg6 Bd6 Kb5 Bf4 Ka4 Bc1 Kb3 Kg3 Kc2 Be3 Kb3 Bc1 Bc2 Kf4 g3 Kxg3 Bh7 Kg4 Kc2 Be3 Kb2 a4 a5 bxa5 Ka3 Bb6 Kxa4 Kg5 Kb5 Kf6 Bd3 Kg7 Bc2 h7 Bxh7 Kxh7 Kc6 Kg6 Kd7 Kf6 Kc8 Ke6 Kb8 Kd7 Ka8 Bd4 Kb8 Be3 Ka8 Bf2 Kb8 Bg1 Ka8 Kc7 b6 Kxb6 Kb8 Bc5 Ka8 a6 Kb8 Be3 Ka8 Kc6 Kb8 Kb6 Ka8 Bg1 Kb8 Kb5 Ka8 Bb6 Kb8 Bf2 Ka8 Bb6 Kb8 Kb4 Ka8 Kb3 Kb8 Kc4 Ka8 Bd4 Kb8 Kb5 Ka8 Ka5 Kb8 Bb6 Ka8 Bd4 Kb8 Bg1 Ka8 Kb4 Kb8 Bf2 Ka8 Ka5 Kb8 Kb5 Ka8 Ka5 Kb8 Kb4 Ka8 Be3 Kb8 Bd4 Ka8 Bg1 Kb8 Ka4 Ka8 Bf2 Kb8 Bg1 Ka8 Bb6 Kb8 Kb5 Ka8 Kc6 Kb8 Kb5 Ka8 Bf2 Kb8 Bc5 Ka8 Bd4 Kb8 Bc5 Ka8 Kb6 Kb8 Bd4 Ka8 Bf2 Kb8 Bh4 Ka8 Bf2 Kb8 Bc5 Ka8 Be3 Kb8 Bd4 Ka8 Kc6 Kb8 a7+ Ka8 Kd7 Kb7 Bf2 Ka8 Kd6 Kb7 Ke6 Ka8 Kf7 Kb7 Kg6 Ka8 Bb6 Kb7 Kg5 Ka8 Be3 Kb7 Bd4 Ka8 Kf4 Kb7 Ke5 Ka8",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 h6 f3 exf3 Nxf3 Be7 Bf4 O-O O-O Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qa5 Qc2 Rbd8 Qd2 Qb6 Na4 Qb5 Nc3 Qb6 Na4 Qb5 Nc3 Qb6 Na4",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1766486196.2853923
+  "updated": 1766486395.3949459
 }
