@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "crosshair_22",
+  "rating": 3077,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 17+0",
-  "time_left": 880,
-  "timestamp": "2025-12-22T15:26:26.783243",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2025-12-23T07:19:56.688700",
   "last_game": {
-    "result": "win",
-    "opponent": "crosshair_22",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "draw",
+    "opponent": "FayEFish",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 O-O c3 Nb4 cxb4 Bxb4 Nxe5 d6 Nxf7 Rxf7 Bxf7+ Kxf7 Qb3+ Be6 Qxb4 Kg6 f4",
-    "duration": 1020,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bxe3 fxe3 Ne7 d4 Ng6 Be2 O-O O-O Bg4 Nd2 Bxe2 Qxe2 exd4 exd4 a5 b5 c5 dxc5 dxc5 Nd5 Qd6 Rae1 Rfe8 Nxf6+ gxf6 Rf5 Qd4+ Kh1 Rad8 Nf1 Qd3 Rxc5 Qxa3 Rc7 Re7 b6 Qd6 c5 Qe5 Ne3 Rxc7 bxc7 Qxc7 Qb5 Nf4 Rf1 a4 c6 bxc6 Qf5 a3 Ng4 a2 Qxf6 Rb8 Nh6+",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1766417186.7833247
+  "updated": 1766474396.6887999
 }
