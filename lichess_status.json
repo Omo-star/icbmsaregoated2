@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "Bharat_royals",
+  "rating": 3010,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 25,
-  "timestamp": "2025-12-23T09:44:12.895185",
+  "time_control": "TC: 10+0",
+  "time_left": 328,
+  "timestamp": "2025-12-23T09:54:54.751476",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "opponent": "RaspFish",
+    "rating_before": 3010,
+    "rating_after": 3010,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Be3 Nd4 Bxd4 exd4 Na4 c5 b4 axb4 axb4 Bc7 bxc5 Qe7 Nb6 Rxa1 Qxa1 Bxb6 cxb6 Nxe4 Be2 Nc3 Nxd4 Nxe2 Nxe2 O-O Kf1 Re8 Nf4 Bd7 Kg2 Bc6+ Nd5 h5 Qd4 Qe2 Ra1 f6 Ra3 Kf7 Ra1 Kg6 h4 Kf7 Ra5 Kg6 Ra3 Re5 Ra8 Qd2 Rd8 Re1 Rxd6 Qd1 Qf4 Rg1+ Kh2 Rh1+ Kg2 Qf1+ Kf3 Qd1+ Ke4 Re1+ Kd4 Qa1+ Kc5 Qa5+ Kd4 Qa1+ Kc5 Qa3+ Kd4 Qb2+ Kc5 Qa3+ Kd4 Qb2+ Kc5 Qa3+ Kd4",
-    "duration": 30,
+    "moves": "e4 e5 d3 d5 exd5 Qxd5 Nc3 Qd8 f4 exf4 Bxf4 Nf6 Nf3 Nc6 a3 Bc5 Qd2 Qe7+ Be2 Bg4 O-O-O O-O-O Ng5 Bxe2 Qxe2 Qd7 Rhe1 Bd4 Qd2 Bxc3 Qxc3 Nd5 Qd2 Rhe8 Bg3 f6 Rxe8 Rxe8 Nf3 g5 Re1 Rxe1+ Bxe1 Qe6 Qf2 b6 g3 Kd7 Bd2 Qf5 Qe2 Nde7 Bc3 Nd5 Bd2 Qe6 Qf2 Qf5 Qe2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766483052.8953218
+  "updated": 1766483694.7515812
 }
