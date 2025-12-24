@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2968,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 3010,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 138,
-  "timestamp": "2025-12-24T10:40:03.390545",
+  "time_control": "TC: 10+0",
+  "time_left": 330,
+  "timestamp": "2025-12-24T10:49:32.882575",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 2968,
-    "rating_after": 2968,
+    "opponent": "ArasanX",
+    "rating_before": 3010,
+    "rating_after": 3010,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 dxc4 O-O Bd7 Bxc4 Bxc3 bxc3 Rfd8 Qc2 Na5 Bd3 c5 Ne5 Rac8 f4 Nc6 Qb2 b6 Rae1 Be8 Rf3 Qe7 Rg3 Rc7 Bb1 f5 Nd3 Na5 Ne5 Nc6 Nf3 Qd6 a3 Ne7 Ba2 Kh7 Ne5 Ng6 h3 cxd4 cxd4 Rdc8 Kh2 Rc2 Qb3 Nf8 e4 Qxd4 exf5 Qxf4 Nd3 Qxg3+ Kxg3 R8c3",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 Qe7 a3 a5 Ne3 Bxe3 Bxe3 c5 Nd2 Nf8 f4 exf4 Bxf4 Ng6 Bg3 a4 Rf2 Be6 Nf3 O-O Qd2 h6 Ne5 Nh8 Nf3 Ng6 Qc3 Rfe8 Raf1 f6 Re1 Rac8 h3 Kh7 Kh2 Rcd8 d4 cxd4 Nxd4 Rd7 e5 Nxe5 Bxe5 fxe5 Rxe5 Qh4 Qd3+ Kg8 Qg6 Rde7 Nf5 Qxf2 Nxe7+ Rxe7 Rxe6 Qf4+ Kg1 Qc1+ Kh2 Qf4+ Kg1 Qc1+ Kh2 Qf4+",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766572803.3906476
+  "updated": 1766573372.8826826
 }
