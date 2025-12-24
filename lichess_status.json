@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3010,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 3076,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 429,
-  "timestamp": "2025-12-24T10:02:18.527644",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2025-12-24T10:02:52.032013",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3010,
-    "rating_after": 3010,
+    "opponent": "Cheszter",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Qe7 Bd3 Re8 Bxf5 f6 f4 fxe5 fxe5 gxf5 Qg3+ Qg7 exd6 Qxg3 hxg3 cxd6 Rf1 Ba6 Rxf5 Re1+ Kh2 Re2 Nf3 Rxb2 Ng5 Bd3 Rxd5 h6 Ne6 Rxg2+ Kh3 Rf2 Rxd6 Kf7 Nc7 Bf1+ Kh4 Rh2+ Kg4 Ke7 Rg6 Kf7 Rc6 Bh3+ Kf4 Bd7 Rc4 Rxa2 Ke5 Ra4 Rxa4 Bxa4 c4 Bb3 Nb5",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "c4 e5 g3 d6 Nc3 f5 Nf3 Be7 Bg2 Nf6 O-O O-O b4 a6 Bb2 Qe8 d3 h6 a4 Be6 e3 c6 b5 Nbd7 bxc6 bxc6 Rb1 Bd8 Qc2 Rc8 Ba3 c5 Nd2 Ba5 Nd5 Bf7 Nxf6+ Nxf6 Rb7 Be6 Ra7 Bxd2 Qxd2 Qxa4 Bb2 Rb8 Ra1 Qb3 Bc3 Bc8 f4 Qb6 Re7 Qd8 Ra7 Qb6 Re7 Qd8 Ra7 Qb6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766570538.5277693
+  "updated": 1766570572.0321066
 }
