@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "boreconstrictor",
+  "opponent": "Rinalds17",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 73,
-  "timestamp": "2025-12-25T14:56:17.079454",
+  "time_left": 159,
+  "timestamp": "2025-12-25T15:50:14.068160",
   "last_game": {
     "result": "win",
-    "opponent": "boreconstrictor",
+    "opponent": "Rinalds17",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 e3 e6 Bd3 c5 b3 b6 a3 cxd4 exd4 Ba6 O-O Bxd3 cxd3 Nc6 b4 Bd6 Bb2 a6 Re1 O-O Nbd2 Ne7 Rc1 Ne8 Nf1 Nc7 Ne5 a5 Qb3 axb4 axb4 Qe8 Rb1 Qa4 Ba1 Nb5 Nd7 Qxb3 Rxb3 Rfd8 Ne5 Rxa1 Rxa1 Nxd4 Nxf7 Nxb3 Ra3 Kxf7 Rxb3 Nc6 b5 Nd4 Rb2 Ra8 g3 Ra1 Kg2 Ba3 Rd2 Bb4",
-    "duration": 308,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "c4 e5 Nc3 d6 g3 c5 Bg2 f5 e3 Nf6 Nge2 Nc6 d4 cxd4 exd4 exd4 Nxd4 Nxd4 Qxd4 Be6 O-O Be7 Re1 Bf7 Bxb7 Rb8 Bc6+ Kf8 Qxa7 Rc8 Nd5 Nxd5 cxd5 Rc7 Qb6 Qc8 a4 Bd8 Bf4 Re7 Qb5 Rxe1+ Rxe1 g6 Bh6+ Kg8 Bb7 Qb8 Re8+ Bxe8 Qxe8#",
+    "duration": 282,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1766674577.0795603
+  "updated": 1766677814.068222
 }
