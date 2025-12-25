@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3087,
-  "opponent": "NimasBot",
+  "rating": 3088,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2025-12-25T07:43:59.525247",
+  "time_left": 11,
+  "timestamp": "2025-12-25T07:44:42.130666",
   "last_game": {
-    "result": "draw",
-    "opponent": "NimasBot",
-    "rating_before": 3087,
-    "rating_after": 3087,
+    "result": "win",
+    "opponent": "FayEFish",
+    "rating_before": 3088,
+    "rating_after": 3088,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 Re2 Kh8 Rae1 Rxe2 Rxe2 Rf8 g4 Bd7 h3 Qc7 Bxc6 bxc6 Nd3 Qd6 Qg5 Be6 b3 Kg8 Re4 Bd5 Rxd4 Rf3 Qe5 Qxe5 Nxe5 Rxh3 f3 Rh6 Nd7 g5 Rd3 Kf7 Nc5 a5 Kg2 Rh4 Rd4 h5 Kg3 hxg4 Rxg4 Kf6 Rxh4 gxh4+ Kg4 h3 Kxh3 Bxf3 Kg3 Bd1 Kf4 Bc2 a4 Bb1 b4 axb4 a5 b3 Nxb3 Bd3 Ke3 Bf1 Kd4 c5+ Kxc5 Kg7 Nd4 Kg8 Nb5 Kf8 a6 Ke7 a7 Bg2 Nc7 Bb7 Kb6 Be4 Kc5 Bb7 Kb6 Be4 Na6 Kd8 Nb8 Ba8 Na6 Kc8 Nb4 Kd8 Nc6+ Kc8 Nb8 Kd8 Nc6+ Kc8 Nb4 Kd8 Nc2 Kc8 Ne1 Kd8 Nd3 Kc8 Ne5 Kd8 Nd3 Kc8 Ne5 Kd8 Nc4 Kc8 Na5 Kd8 Nc4 Kc8 Nd6+ Kd8 Nb7+ Kc8 Nd6+ Kd8 Nb7+ Kc8 Nc5 Kd8 Nb3 Kc8 Nd4 Kd8 Nc2 Kc8 Nd4 Kd8 Ne6+ Kc8 Nc5 Kd8 Ne6+ Kc8 Ng5 Kd8 Nf7+ Ke8 Nh6 Kd8 Nf5 Kc8 Ne3 Kd8 Nd1 Kc8 Ne3 Kd8 Nf1 Kc8 Nd2 Kd8 Nb3 Kc8 Na5 Kd8 Nb3 Kc8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O d3 d6 Bd2 Bg4 c3 Na5 Bc2 c5 h3 Bh5 Bc1 Qc7 Nbd2 Rad8 Qe2 Rfe8 g4 Bg6 a4 b4 cxb4 cxb4 Nb3 Nc6 Be3 d5 Rac1 h6 Nh4 Bh7 Nf5 Bxf5 gxf5 Qd7 Qf3 Rc8 Kh1 Kh8 Rg1 Rg8 Qg3 Bd6 Qh4 Be7 Qg3 Bd6 Rg2 dxe4 dxe4 Nd4 Bxd4 exd4 e5 Nh5 Qh4 Bxe5 Qxh5 Bf4 Qd1 d3 Bxd3 Bxc1 Nxc1 Rxc1 Qxc1 Qxd3 Kh2 Qxf5 Qd2 Qe5+ Kg1 a5 Rg4 Re8 Qd7 Re7 Qd4 h5 Rf4 Kg8 Qxe5 Rxe5 Rc4 f6 Rc7 Kh7 Kg2 Kh6 h4 Re4 Rc5 Rxh4 Rxa5 Rg4+ Kf3 Rc4 Rb5 b3 a5 Ra4 Kg2 Ra2 Rxb3 Rxa5 Rb8 g5 b4 Ra2 b5 Kg7 b6 Rb2 Kf3 Rb4 Kg2 h4 Kh3 Rb3+ Kg2 g4 Rb7+ Kg6 Rb8 Rb4 Kf1 f5 b7 Kg7 Kg1 h3 Kh1 Rb2 Kg1 f4 Ra8 Rxb7 Ra4 Rf7 Ra6 Rf6 Ra4 Kg6 Rb4 Rf7 Rc4 Rf6 Kh2 Rf7 f3 Kg5 fxg4 f3 Rc5+ Kh4 Rh5+ Kxg4 Rxh3 f2 Rg3+ Kf4 Rg8 f1=Q Rg4+ Kf5 Rg8 Rh7+ Kg3 Rh3#",
     "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1766648639.525322
+  "updated": 1766648682.1307294
 }
