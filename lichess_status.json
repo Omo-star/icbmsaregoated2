@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "AMIR1391ABBAS1391",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 231,
-  "timestamp": "2025-12-25T20:53:57.154964",
+  "time_left": 155,
+  "timestamp": "2025-12-25T21:00:08.783638",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "AMIR1391ABBAS1391",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 b4 Bd6 Bb2 a5 a3 Rd8 Qc2 Nh5 Rfe1 Nf4 g3 Nh3+ Kg2 Qf6 Nf1 Bd7 Bc4 Ne7 Ne3 Qg6 Rad1 Nf4+ Kh1 Qh5 Ng1 b5 Bb3 Ne6 Bc1 h6 f3 axb4 axb4 Nf8 g4 Qg6 Nf5 Re8 Ne2 Be6 Neg3 Bxb3 Qxb3 Qe6 Qxe6 Nxe6 Nxd6 cxd6 Nf5 Ra2 Rd2 Rxd2 Bxd2 Nxf5 gxf5 Nf4 Bxf4 exf4 Rd1 Rc8 Rd3 g6 fxg6 fxg6 Rxd6 Kg7 Rd7+ Kf6 Rd6+ Kg7 Rd3 g5 Kg2 Kg6 Kf1 Kh5 Ke2 Kh4 e5 h5 Kf2 Rc6 Rd4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 O-O Bg5 h6 Bxf6 Qxf6 a3 Ne7 b4 Bb6 Qe2 c6 b5 Ng6 bxc6 bxc6 Na4 Nf4 Qd2 d5 Nxb6 axb6 exd5 cxd5 Bb3 e4 dxe4 dxe4 Ne1 Rd8 Qe3 Ba6 c4 Qxa1 g3 Nh3+ Kg2 Ng5 f3 Qd4 Qf4 exf3+ Nxf3 Bb7 Qxd4 Rxd4 Bd1 Rd2+ Kg1 Nh3+ Kh1 Rxa3 g4 Ra1 Bb3 Rxf1#",
     "duration": 300,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1766696037.1551325
+  "updated": 1766696408.7837002
 }
