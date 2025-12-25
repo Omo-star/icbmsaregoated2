@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "MishaKapi",
+  "opponent": "Rogsergey_2015",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 164,
-  "timestamp": "2025-12-25T14:00:22.273461",
+  "time_left": 190,
+  "timestamp": "2025-12-25T14:03:18.983314",
   "last_game": {
     "result": "win",
-    "opponent": "MishaKapi",
+    "opponent": "Rogsergey_2015",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "d4 Nf6 e3 e6 Bd3 d5 c3 c5 Nd2 Bd6 f4 cxd4 cxd4 b6 Ngf3 O-O O-O Ba6 Ne5 Bxe5 Bxa6 Bxf4 Rxf4 Nxa6 Qf3 Nb4 a3 Nd3 Rh4 Qc7 g4 Qc2 g5 Ne4 Nxe4 dxe4 Qxe4 Qf2+ Kh1 Qf1#",
-    "duration": 260,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 d5 exd5 Qxd5 Nc3 Qe6+ Be2 Bd7 Nf3 Nf6 d4 Nc6 d5 Qd6 Nb5 Qc5 Be3",
+    "duration": 214,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1766671222.273532
+  "updated": 1766671398.9834087
 }
