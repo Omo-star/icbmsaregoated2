@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "Rinalds17",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 159,
-  "timestamp": "2025-12-25T15:50:14.068160",
+  "time_control": "TC: 5+0",
+  "time_left": 293,
+  "timestamp": "2025-12-25T20:20:29.349570",
   "last_game": {
-    "result": "win",
-    "opponent": "Rinalds17",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 d6 g3 c5 Bg2 f5 e3 Nf6 Nge2 Nc6 d4 cxd4 exd4 exd4 Nxd4 Nxd4 Qxd4 Be6 O-O Be7 Re1 Bf7 Bxb7 Rb8 Bc6+ Kf8 Qxa7 Rc8 Nd5 Nxd5 cxd5 Rc7 Qb6 Qc8 a4 Bd8 Bf4 Re7 Qb5 Rxe1+ Rxe1 g6 Bh6+ Kg8 Bb7 Qb8 Re8+ Bxe8 Qxe8#",
-    "duration": 282,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 b4 a5 e5 fxe5 Nxe5 Qe8 c3 Nf7 Nf3 Nd6 Ne5 Nf7 Nf3 Nd6 Rfe1 Qh5 Ne5 c5 bxc5 bxc5 Qxc5 Ne4 Qd4 Nxf2 Nd5 Qg5 h4 Qg3 Ne7+ Kh8 N5g6+ hxg6 Re3 Nh3+ Kh1 Nf2+ Kg1 Nh3+ Kh1 Nf2+ Kg1",
+    "duration": 300,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1766677814.068222
+  "updated": 1766694029.3496768
 }
