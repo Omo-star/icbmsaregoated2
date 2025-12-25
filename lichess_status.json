@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3094,
-  "opponent": "Bharat_royals",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 34,
-  "timestamp": "2025-12-25T12:27:30.701562",
+  "rating": 3095,
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 56,
+  "timestamp": "2025-12-25T12:31:41.403553",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3094,
-    "rating_after": 3094,
+    "opponent": "YoBot_v2",
+    "rating_before": 3095,
+    "rating_after": 3095,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 Re2 Kh8 Rae1 Rxe2 Rxe2 Rf8 g4 Bd7 h3 Qc7 Bxc6 bxc6 Nd3 Qd6 Qg5 Be6 b3 Kg8 Re4 Bd5 Rxd4 Rf3 Qe5 Qxe5 Nxe5 Rxh3 f3 Rh6 Nd7 g5 Rd3 Kf7 Nc5 a5 Re3 Rf6 Kf2 Rh6 Kg2 Rh4 Kg3 Rh1 Nb7 Rg1+ Kh3 Kf6 Nxa5 c5 a4 Rd1 Kg2 Rd2+ Kg3 Rc2 Nc4 Bxc4 bxc4 Ra2 a5 Rxa5 Rd3 Ra4 Rd6+ Kf7 Rd5 Rxc4 Rxg5 Rc1 Kf4 c4 Rh5 Kg6 Ke4 Re1+ Kf4 Rc1 Rc5 c3 Rc6+ Kf7 Ke4 c2 Kd3 h5 Kd2 Rf1 Kxc2 hxg4",
-    "duration": 126,
+    "moves": "e4 c5 f4 a5 a4 f6 Nf3 e6 e5 d6 exd6 Nxd6 Nf2 Ng6 g3 Qc7 Ra3 Bf7 Qe2 Re8 Re3 Qc6 b3 Ne7 Ne4 Nd5 Nxd6 Qxd6 Re4 Bg6 Rc4 Rc8 d4 cxd4 Rxc8+ Kxc8 Bxd4 Ra6 Nh4 Qb4 Qc4+ Rc6 Qxb4 Bxb4 Nxg6 hxg6 Kb2 Bc5 Bxc5 Rxc5 Bd3 Ne7 Re1 Kd7 Bc4 Nd5 Bd3 Ne7 Bc4 Nd5 c3 Kd6 Kc2 Nc7 Re4 b6 h4 Rh5 Rd4+ Ke7 Re4 Kd6 Be2 Rc5 Rd4+ Ke7 Rc4 Rxc4 Bxc4 Ne8 Bd3 f5 Be2 Kd6 Kd3 Nf6 Bf3 Kc5 Kd2 Nd7 Be2 Kd6 b4 Nf6 Bf3 Ne4+ Kd3 Nxg3 Kc4 Nh5 Bxh5 gxh5 Kd4 Kd7 bxa5 bxa5 Ke5 Ke8 Kd4 Ke7 Ke5 Kf7 c4 Ke7 c5 Kd7 c6+ Kxc6 Kxe6 Kc5 Kxf5 Kb4 Kg5 Kxa4 f5 Ka3 Kxh5 a4 f6 gxf6 Kg6 Kb4 h5 Kc5 h6 a3 h7 a2 h8=Q a1=Q Qxf6 Qa8 Qf1 Qh8 Qb1 Qg8+ Kh5 Qh8+ Kg4 Qg8+ Kf3 Qh8 Qc1+ Kd6 Qb1 Qg8 Qa1 Qf8+ Ke2 Qg8 Qb1 Qh8 Qc1 Qg8 Qa1 Qe8+ Kd1 Qg8 Qb1 Qh8 Qc1 Qg8 Qb1 Qh8 Qc1 Qg8 Qb1 Qh8",
+    "duration": 238,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766665650.7016647
+  "updated": 1766665901.403616
 }
