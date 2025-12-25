@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "Bharat_royals",
+  "opponent": "DedektifConan",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 150,
-  "timestamp": "2025-12-25T12:48:26.824444",
+  "time_control": "TC: 3+2",
+  "time_left": 142,
+  "timestamp": "2025-12-25T13:17:41.060576",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bharat_royals",
+    "result": "win",
+    "opponent": "DedektifConan",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nc3 d5 e3 c5 dxc5 e6 Nf3 Bxc5 Bd3 Nc6 O-O e5 e4 d4 Ne2 O-O h3 h6 a3 a5 c3 dxc3 Nxc3 Be6 Be3 Bxe3 fxe3 Qd6 Rc1 Rac8 Nb5 Qb8 Qa4 b6 Rfd1 Ne7 Bc4 Bd7 Qb3 Bxb5 Qxb5 Rc5 Qa6 Ng6 b4 axb4 axb4 Rc7 Bb3 Rfc8 Rxc7 Rxc7 Qa1 Re7 Qa2 Qb7 Rd8+ Kh7 Qa8 Qc7 Qc8 Qa7 Qa8 Qc7 Qc8 Qa7 Qa8 Qc7",
-    "duration": 180,
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 Nd7 Nh4 Qa5+ b4 Qxb4+ c3 Qb6 Nxf5 O-O-O Nd2 c5 Qa4 cxd4 Rb1 Qg6 Qxa7 Qxf5 Qxb7#",
+    "duration": 230,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1766666906.8245468
+  "updated": 1766668661.0606382
 }
