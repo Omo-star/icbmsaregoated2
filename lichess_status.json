@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "AMIR1391ABBAS1391",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 155,
-  "timestamp": "2025-12-25T21:00:08.783638",
+  "time_left": 131,
+  "timestamp": "2025-12-25T21:07:45.909859",
   "last_game": {
-    "result": "win",
-    "opponent": "AMIR1391ABBAS1391",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 O-O Bg5 h6 Bxf6 Qxf6 a3 Ne7 b4 Bb6 Qe2 c6 b5 Ng6 bxc6 bxc6 Na4 Nf4 Qd2 d5 Nxb6 axb6 exd5 cxd5 Bb3 e4 dxe4 dxe4 Ne1 Rd8 Qe3 Ba6 c4 Qxa1 g3 Nh3+ Kg2 Ng5 f3 Qd4 Qf4 exf3+ Nxf3 Bb7 Qxd4 Rxd4 Bd1 Rd2+ Kg1 Nh3+ Kh1 Rxa3 g4 Ra1 Bb3 Rxf1#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Bf8 h4 c5 b5 Nb8 h5 a6 Qc1 Be6 Qb2 h6 Be3 Bg4 Rfb1 Qe8 Nh4 Bxh5 bxa6 Nxa6 a5 bxa5 Rxa5 Nb4 Qb3 Qd8 Raa1 Nc6 Qb7 Rxa1 Rxa1 Qd7 Ra8 Kh7 f3 Nb4 Na3 Bd6 Nf5 Rf8 Ra7 Nc6 Ra6 Nb8 Ra8 Nc6 Ra6 Nb8 Ra8 Nc6 Ra6",
     "duration": 300,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1766696408.7837002
+  "updated": 1766696865.9099984
 }
