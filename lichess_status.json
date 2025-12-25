@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3013,
-  "opponent": "NimasBot",
+  "rating": 2974,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 326,
-  "timestamp": "2025-12-25T08:49:53.890280",
+  "time_control": "TC: 3+1",
+  "time_left": 142,
+  "timestamp": "2025-12-25T08:52:15.240010",
   "last_game": {
     "result": "draw",
-    "opponent": "NimasBot",
-    "rating_before": 3013,
-    "rating_after": 3013,
+    "opponent": "RaspFish",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Nc3 Nd4 Ba4 c6 Nxe5 d6 Nd3 b5 Bb3 d5 e5 Ne4 O-O Nc5 Nxc5 Bxc5 Kh1 Qe7 Nxd5 cxd5 Bxd5 Bb7 Bxb7 Qxb7 c3 Nf5 d4 Bb6 a4 O-O Qd3 Nh4 f3 bxa4 Qe4 Qxe4 fxe4 a3 Rxa3 f5 exf5 Nxf5 Re1 Rad8 Ra6 Kf7 g3 Rc8 d5 Rc4 e6+ Ke8 Bf4 Ke7 Bg5+ Kd6 Bf4+ Ke7 Bg5+ Kd6 Bf4+ Ke7",
-    "duration": 600,
+    "moves": "c4 Nf6 Nc3 e5 Nf3 Nc6 g3 Bb4 Bg2 O-O Nd5 e4 Nh4 d6 Nxb4 Nxb4 a3 Na6 d3 exd3 Qxd3 Nc5 Qc2 a5 a4 Bd7 O-O Qe7 e4 Nfxe4 Re1 f5 f3 g5 Nxf5 Rxf5 fxe4 Bc6 b3 Raf8 Be3 Bxe4 Bd4 Re5 Qc3 Re6 Bh3 Bf5 Bg2 Be4 Bh3 Bf5 Bg2 Be4",
+    "duration": 234,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766652593.890376
+  "updated": 1766652735.2401056
 }
