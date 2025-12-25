@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3096,
-  "opponent": "FayEFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 26,
-  "timestamp": "2025-12-25T10:02:03.692865",
+  "opponent": "tbhOnBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2025-12-25T10:02:47.413255",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
+    "opponent": "tbhOnBot",
     "rating_before": 3096,
     "rating_after": 3096,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 b5 a4 bxa4 Qxa4 Be7 b5 O-O Ra1 c6 Ng3 Ng6 Nc3 cxb5 Bxb5 a6 Bxa6 Bxa6 Qxa6 Nc6 Qxa8 Rxa8 Rb1 d5 Nge2 h6 f4 Nh4 Kd1 Ra6 g3 Nf5 g4 Nd6 d3 Rfa8 Rf1 Bf6 Kd2 Bd8 Bb2 Ba5 Ra1 Rb8 Kc1 Ra7 Ra4 Nc8 Ra1 Nd6 Ra4 Nc8 Rg1 f6 h3 Kf7 Ra3 h5 f5 exf5 Nxd5 Rab7 Ra2 Nb6 Ndc3 Bxc3 Nxc3 Nb4 Ra1 f4 exf4 N6d5 Nxd5 Nxd5 Ba3 Nxf4 Rf1 Ne6 Bd6 Rd8 Ra6 Rbd7 Ba3 Rh8 Bd6 Rhd8 Bh2 Rc8 Kd2 hxg4 hxg4 Rc4 Rg1 Rc8 Rf1 Rc4 Rg1 Rc8 Rg2 Nd4 Ra2 Nf3+ Ke3 Ne1 Rf2 Rc3 Bf4 Nxc2+ Rfxc2 Rdxd3+ Ke4 Rxc2 Rxc2 Ra3 g5 Ra4+ Kd3 Rxf4 gxf6 Rxf6 Ke4 Kg8 Ke5 Kh8 Kd5 Kg8 Ke5 Kh8 Kd5 Kg8 Ke5",
-    "duration": 193,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Bg4 h6 Rd6 Bh4 gxh6 Rc4 Bd7 Rxc7 Bxb5 Bg3 Rc6 Rxc6 Bxc6 Bxe5 Ba4 Bxd4 Bxc2 Bxb6 Bxd3 e5",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766656923.6929271
+  "updated": 1766656967.4133542
 }
