@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "ArasanX",
+  "rating": 3093,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 344,
-  "timestamp": "2025-12-26T11:03:34.607453",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2025-12-26T11:04:23.130513",
   "last_game": {
-    "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "loss",
+    "opponent": "tbhOnBot",
+    "rating_before": 3093,
+    "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "c4 e5 Nf3 e4 Ng1 Nf6 e3 d5 cxd5 Qxd5 Nc3 Qa5 Qc2 Nc6 a3 Be6 f3 exf3 Nxf3 O-O-O Be2 Bf5 Qb3 Ne5 Nxe5 Qxe5 d4 Qe6 Bc4 Qc6 O-O Be6 Bxe6+ Qxe6 Qc2 Rd7 h3 g6 Bd2 Bg7 Rac1 Kb8 Rf3 Re8 Kh1 Nd5 e4 Nxc3 bxc3 Qc6 e5 f6 exf6 Bxf6 Qd3 b6 Re1 Rxe1+ Bxe1 Be7 c4 Bc5 Bf2 Qd6 Qe4 Qe7 Qd3 Qd6 Qe4 Qe7 Qd3 Qd6",
-    "duration": 600,
+    "moves": "e4 e6 d4 h6 Bd3 d5 Nc3 Nc6 Nf3 Nb4 Bb5+ c6 Be2 Nf6 e5 Ne4 a3 Na6 Nb1 c5 O-O Be7 c3 Bd7 Bd3 Qb6 Re1 cxd4 Nxd4 O-O Bxe4 dxe4 b4 Nb8 Rxe4 f5 exf6 Bxf6 Bf4 Nc6 Nf3 Be8 Nbd2 Bxc3 Rc1 Bxd2 Qxd2 Rd8 Qc3 Bh5 Be3 Qb5 Nd4 Nxd4 Bxd4 b6 Rce1 Rf7 Rxe6 Qd7 R6e4 Bg6 Rh4 Qc7 Qa1 Kh7 h3 Rd5 Be3 Qd8 Rc4 Rd3 Rec1 Qd6 Rd4 Qf6 Rxd3 Qxa1 Rxa1 Bxd3 Rc1 Bb5 Rc8 Rd7 Kh2 Kg6 Rb8 Kf7 g4 Bc6 h4 Rd1 Kg3 Ra1 b5 Bd5 h5 Ke7 Rh8 Rxa3 Kh4 Ra4 f4 Be6 Ra8 Bd5 Rc8 Be6 Rc3 Bd7 Bc1 Ke8 Rc7 Kd8 Rc2 Ke8 Rc7 Kd8 Rc2 Ke8 Kg3 Ra1 f5 Bxb5 Rc7 Kd8 Rc2 a5 Bb2 Rg1+ Rg2 Rd1 Bxg7 Rd3+ Kh4 Rd6 Bxh6 Rxh6 g5 Rh8 g6 Bc4 f6 Kd7 Kg5 b5 h6 b4 h7 b3 Rf2 Kc6 f7 Bxf7 gxf7 b2 Rxb2 Kc7 Rc2+ Kd6 Rd2+ Kc5 Kg6 Kc4 Rf2 Rf8 Kg7 Rd8 h8=Q Rxh8 Kxh8 Kd5",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1766747014.6075473
+  "updated": 1766747063.130575
 }
