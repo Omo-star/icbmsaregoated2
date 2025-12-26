@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3093,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 3017,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 58,
-  "timestamp": "2025-12-26T10:47:44.660449",
+  "time_control": "TC: 10+0",
+  "time_left": 571,
+  "timestamp": "2025-12-26T10:52:06.549077",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3093,
-    "rating_after": 3093,
+    "opponent": "tbhOnBot",
+    "rating_before": 3017,
+    "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Nc6 h3 e5 Nb3 Be6 Qf3 Rc8 O-O-O Na5 Nc5 Bc4 Nb3 Be6 Nc5 Bc4 Nb3 Be6",
-    "duration": 60,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Bg4 h6 Rd6 Be7 Rxh6 Rc4 Bd7 Rxc7 Bxb5 Kf2 Ba4 Kf3 Re6 Bb4 Rf6+ Ke2 Rh6 Kf3 Rf6+ Ke2 Rh6 Kf3 Rh2 Bd6 Rxc2 Rb7 Rd2 Bxe5 Rxd3+ Kf4 Rd1 Bxg7 Re1 Bxd4 Rxe4+ Kxe4",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766746064.660538
+  "updated": 1766746326.549163
 }
