@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3094,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 39,
-  "timestamp": "2025-12-26T08:58:31.257221",
+  "opponent": "Monastedrez",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2025-12-26T08:59:06.260223",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
+    "opponent": "Monastedrez",
     "rating_before": 3094,
     "rating_after": 3094,
     "rating_delta": 0,
-    "moves": "d4 c5 dxc5 Rxc5 f3 b6 Nd3 Rc8 c4 f5 b3 Qe6 h4 h5 Qd4 Ng6 Ne3 f4 Nd5 Bxd5 cxd5 Rxc1+ Nxc1 Qd6 Bc3 Rh6 Be4 e5 dxe6 Qxd4+ Bxd4 dxe6 Nd3 Nf6 Bxg6 Rxg6 g4 fxg3 Be5 Bxe5 Nxe5 g2 Rg1 Rg3 Ke1 Nd5 Kf2 Rh3 Ng6 Rh1 Rxg2 Ra1 a4 Ke8 Rg5 Ra3 Rxh5 Kf7 Ne5+ Kf6 Ng4+ Kf7 Ne5+ Kf6 Ng4+ Kf7 Rh8 Rxb3 Ne5+ Kf6 Ng4+ Kf7 Ra8 a5 Kg3 Nc3 e3 Nxa4 Ne5+ Kf6 f4 Rxe3+ Kg4 Nc5 Ra7 Rxe5 fxe5+ Kg6 Ra8 Nd3 h5+ Kh7 Kg5 Nxe5 Re8 Nf3+ Kf4 Nd4 Ke5 Nb3 Rb8 Nc5 Kd6 Ne4+ Kxe6 Nf6 Kf5 a4 Rxb6 Nxh5 Rb1 a3 Ra1 a2 Rxa2 Kg8 Ra1 Kf8 Rb1 Kg8 Ra1 Kf8 Rb1 Kg8 Ra1 Kf8",
-    "duration": 186,
+    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Bb4+ Bd2 Qxd4 Bxb4 Qxe4+ Be2 Na6 Ba5 b6 Qd6 Bd7 Bc3 f6 Nf3 Rd8 Nd2 Qg6 Qa3 Bc8 Bf3 Ne7 Ne4 c5 Qa4+ Kf7 O-O Qf5 Rfe1 Ng6 Rad1 Qf4 a3 Qc7 b4 Rhf8 g3 Kg8 Bg2 e5 h4 h6 h5 Ne7 Rxd8 Rxd8 f4 cxb4 axb4 exf4 gxf4 Qxc4 Nxf6+ gxf6 Bxf6 b5 Qa1 Nxb4 Bxe7 Nc2 Qf6 Qd4+ Qxd4 Rxd4 Re5 Rd1+ Kh2 Rd2 Kg3 Rd3+",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766739511.2572815
+  "updated": 1766739546.2603216
 }
