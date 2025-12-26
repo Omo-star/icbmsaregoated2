@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "Andy-Ary",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 199,
-  "timestamp": "2025-12-26T00:24:14.949934",
+  "time_left": 300,
+  "timestamp": "2025-12-26T01:48:47.383402",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "Andy-Ary",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 a5 a4 Nc5 g4 b5 Bxc5 Bxc5 Ne3 Be6 Qe2 Rf8 Nf5 g6 h4 Bd7 Ne3 Qc8 Nh2 Be6 h5 Qd7 Rg3 Bd4 hxg6 hxg6 c3 Bxe3 Qxe3 bxa4 Rxa4 g5 Kg2 Kf7 Qc5 Bb3 Rxa5 Rxa5 Qxa5 Bc2 Nf1 Kg6 Ne3 Bxd3 Qa4 Be2 Qc2 Bd3 Qa4 Be2 Qc2 Bd3",
+    "moves": "e4",
     "duration": 300,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1766708654.9503927
+  "updated": 1766713727.383483
 }
