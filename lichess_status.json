@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3093,
-  "opponent": "BOT_Stockfish13",
+  "rating": 2986,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2025-12-26T10:41:39.388206",
+  "time_control": "TC: 3+0",
+  "time_left": 69,
+  "timestamp": "2025-12-26T10:46:45.305345",
   "last_game": {
     "result": "draw",
-    "opponent": "BOT_Stockfish13",
-    "rating_before": 3093,
-    "rating_after": 3093,
+    "opponent": "Alehkine_cat",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "c3 d5 d4 e6 Bf4 Bd6 Bg3 Nf6 Nd2 c5 dxc5 Bxc5 Qc2 O-O e4 Nbd7 e5 Nh5 Be2 Nxg3 hxg3 h6 f4 Bxg1 Rxg1 b5 Rh1 Qb6 Qd3 b4 cxb4 Qxb4 a3 Qb6 b4 a5 b5 Bb7 Nf3 Rac8 Qd4 Nc5 Kf1 Qd8 Nd2 f6 exf6 Qxf6 Qxf6 Rxf6 Rc1 Kf8 Kf2 Rf7 Rhe1 g5 Rc3 Rfc7 Kg1 Ke7 Rec1 Kd6 Bg4 a4 Rd1 Nb3 Re3 Nd4 Ne4+ dxe4 Rxd4+",
-    "duration": 30,
+    "moves": "d4 d5 Bf4 Nf6 e3 c5 Nf3 Nc6 Nbd2 e6 c3 cxd4 exd4 Nh5 Be3 Bd6 Ne5 Nf6 Ndf3 Nd7 Nxd7 Bxd7 Bd3 O-O O-O Rc8 Bg5 Qe8 Bc2 f6 Qd3 Qg6 Qd2 Qh5 Bh4 f5 Rae1 f4 Qd3 Rce8 g3 a6 Bd1 Qf5 Qxf5 Rxf5 Kg2 Na5 a4 Nc4 Re2 h6 gxf4 Bxf4 Bc2 Rff8 Bg6 Rc8 Be7 Be8 Bxe8 Rfxe8 Bh4 Bd6 Rd1 Rc6 Ne1 e5 dxe5 Rxe5 Rxe5 Bxe5 Rxd5 g5 Nd3 Bf6 Bg3 Nb6 Rc5",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766745699.388307
+  "updated": 1766746005.3054564
 }
