@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3094,
-  "opponent": "OpeningsBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 2+1",
-  "time_left": 61,
-  "timestamp": "2025-12-26T08:29:51.169215",
+  "opponent": "bot1e",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2025-12-26T08:30:36.140195",
   "last_game": {
-    "result": "win",
-    "opponent": "OpeningsBot",
+    "result": "draw",
+    "opponent": "bot1e",
     "rating_before": 3094,
     "rating_after": 3094,
     "rating_delta": 0,
-    "moves": "e4 e5 g3 Nc6 f4 f6 Nc3 Nd4 Nb3 Bxb3 axb3 g6 Bg2 c6 Ne2 Nxe2 Rxe2 Kc7 d4 Bg7 d5 Nd6 fxe5 fxe5 Rf2 Qg8 c4 b6 c5 bxc5 Ra6 Reb8 Rc2 Nb5 Bxc5 Qc8 Qf7 Qxa6 dxc6 Qxc6 Bh3 Bf8 Be3 Qxc2+ Kxc2 Nd4+ Bxd4 exd4 Qxd7+ Kb6 Qxd4+ Kc7 e5 Rb7 Qc4+ Kb6 Qe6+ Kc7 Qc4+ Kb6 Qe6+ Kc7 Bg2 Rc8 Kb1 Rb6 Qf7+ Kb8 e6 Rd8 e7 Bxe7 Qxe7 Rd2 Bf3 Rd3 b4 Rxf3 Qd8+ Kb7 Qd5+ Ka6 Qxf3 Kb5 Qa8 a6 Qd5+ Kxb4 b3 Rb5 Qc4+ Ka5 Qc7+ Kb4 Kb2 Rc5 Qe7 h5 Qe4+ Ka5 Qb7 Rc7 b4+ Ka4 Qb6 Rc5 Qxc5 h4 Qa5#",
-    "duration": 229,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Ne4 cxd4 Qxd4 Qc6 Kh1 Bg6 Qf2 h6 f4 Bf5 Be3 Nxe3 Rxe3 Bd8 Ng3 Bxc2 Qxc2 Re8 Rxe8+ Qxe8 Nf5 Bc7 c4 Bxf4 cxb5 g6 Qc4 Be5 Nxh6+ Kg7 Ng4 Bxb2 Rf1 Rb8 Qxa4 Rxb5 Ne3 Be5 Qc4 Rb6 Ng4 Bb2 h3 Re6 a4 Qc6 Qf4 f5 Qh6+ Kg8 Nh2 Qxa4 Nf3 Bg7 Qg5 Qe8 h4 Kh7 Qg3 Be5 Nxe5 Rxe5 h5 g5 Qxg5 f4 Qxf4 Rxh5+",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1766737791.1692746
+  "updated": 1766737836.1402903
 }
