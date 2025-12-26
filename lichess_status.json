@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3093,
-  "opponent": "YoYoB3",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2025-12-26T10:16:38.764156",
+  "time_left": 20,
+  "timestamp": "2025-12-26T10:17:46.974586",
   "last_game": {
     "result": "draw",
-    "opponent": "YoYoB3",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 3093,
     "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 Nh4 Bf8 Ne3 Nc5 Nef5 Ne6 Qg4 Kh8 Qh5 Kg8 Qg4 Kh8 Qh5 Kg8 Qg4",
     "duration": 30,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1766744198.7642436
+  "updated": 1766744266.9746706
 }
