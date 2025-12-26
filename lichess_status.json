@@ -5,18 +5,18 @@
   "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 22,
-  "timestamp": "2025-12-26T11:06:15.273896",
+  "time_left": 19,
+  "timestamp": "2025-12-26T11:06:49.657019",
   "last_game": {
     "result": "draw",
     "opponent": "BOT_Stockfish13",
     "rating_before": 3088,
     "rating_after": 3088,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 Nh4 Bf8 Ne3 Nc5 Nef5 Ne6 Qg4 Kh8 Qh5 Kg8 Qg4 Kh8 Qh5 Kg8 Qg4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Bxe5 Qxe5 Qd7 Re1 Bc6 Qf4 Qd6 Qf3 Re8 Rxe8+ Bxe8 Bd3 Ne7 Qe3 Kg7 Nf3 Bd7 Ne5 Bc8 h4 h5 g3 Bf5 Bf1 Be4 Qf4 Qe6 a3 Nf5 Nd3 c6 Nb4 c5 dxc5 bxc5 Nd3 Qc8 Qe5+ f6 Qf4",
     "duration": 30,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766747175.2739875
+  "updated": 1766747209.6602285
 }
