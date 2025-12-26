@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "caissa-x",
+  "rating": 3019,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 38,
-  "timestamp": "2025-12-26T07:38:35.447686",
+  "time_control": "TC: 10+0",
+  "time_left": 452,
+  "timestamp": "2025-12-26T07:47:32.269336",
   "last_game": {
-    "result": "win",
-    "opponent": "caissa-x",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "result": "draw",
+    "opponent": "ArasanX",
+    "rating_before": 3019,
+    "rating_after": 3019,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 exd4 Re1 f5 Nxd4 Nxd4 Qxd4 c6 f3 Qa5 Kf1 d5 fxe4 dxe4 Bb3 Qc5 Qc3 a5 Be3 Qb5+ Bc4 Qb4 a4 Be7 Bd4 h5 Bxg7 Rh7 Be5 h4 Rd1 Bd7 Bf4 Bf8 Bb3 Qxc3 Nxc3 O-O-O Ne2 Re8 c3 Bc5 h3 Rhe7 Bc4 Be6 Bxe6+ Rxe6 Nd4 Rf6 Rd2 Rf7 Rf2 Rg8 Re1 b6 Be3 Rgf8 Nxc6 Re8 Bxc5 Kd7 Nd8 Kxd8 Bxb6+ Kc8 Be3 Kb7 Rf4 Rh8 Bf2 Rhf8 Rxh4 Kc7 Rh6 Rd7 Bb6+ Kb7 Bd4 Rdd8 Rb6+ Kc7 Rb5 Kc6 Rxa5 Rd5 Ra6+ Kb7 Ra7+ Kb8 Re7 Ra5 b4 Rxa4 b5 Rxd4 cxd4 Rf6 Rb1 Rb6 d5 f4 Rd1 Rxb5 d6 e3 d7 e2+ Rxe2 f3 d8=Q+ Ka7 Qc7+ Ka6 Re6+ Rb6 Qxb6#",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 Nxc3 bxc3 Bg7 Nf3 c5 Rb1 O-O Be2 cxd4 cxd4 Qa5+ Bd2 Qxa2 O-O Bg4 Bg5 Rd8 d5 Bf6 Bxf6 exf6 Rxb7 Nd7 h3 Bxf3 Bxf3 Rab8 Rc7 Ne5 Qc1 Rb4 Qc5 Rdb8 Rxa7 Qb2 Qc1 Qd4 Ra2 Rb2 Ra3 Rd2 Qc3 Rbb2 Qxd4 Rxd4 Raa1 Rbd2 Ra3 Rb2 Re1 h5 g3 Rdd2 Rae3 Kg7 Be2 g5 Kf1 g4 hxg4 Nxg4 Rc3 f5 exf5 Nh2+ Kg1 Rxe2 Rxe2 Rxe2 Kxh2 Rxf2+ Kh3 Rd2 Kh4 Rxd5 Kxh5 Rxf5+ Kg4 Rb5 Rc1 f6 Ra1 Rd5 Rb1 Rg5+ Kf3 Rf5+ Ke2 Kg6 g4 Rf4 g5 fxg5 Ke3 Kh5 Rh1+ Rh4 Rg1 Rh2 Kf3 Rh3+ Kg2 g4 Kf2 Rf3+ Kg2 Rd3 Kh2 Kh4 Rg2 g3+ Kh1 Rd1+ Rg1 Rd8 Rg2 Rd1+ Rg1 Rd2 Rg2 Rf2 Rxf2 gxf2 Kg2 f1=N",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1766734715.4477437
+  "updated": 1766735252.269398
 }
