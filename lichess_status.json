@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3090,
+  "rating": 2986,
   "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 48,
-  "timestamp": "2025-12-27T08:11:53.273191",
+  "time_control": "TC: 3+0",
+  "time_left": 130,
+  "timestamp": "2025-12-27T08:13:13.608737",
   "last_game": {
     "result": "draw",
     "opponent": "Bot1nokk",
-    "rating_before": 3090,
-    "rating_after": 3090,
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Nc3 Nd4 Nxd4 exd4 e5 dxc3 exf6 Qxf6 dxc3 Bc5 Qe2+ Qe6 Qxe6+ fxe6 f3 a5 Bf4 Kd8 b3 Be7 O-O-O d6 a4 Rf8 Bd2 e5 h4 Bf5 h5 c6 Be2 b6 Rde1 Kd7 Kd1 h6 Bd3 Rf7 Bxf5+ Rxf5 Re4 Bg5 Rg4 b5 Ke2 d5 Rh3 Ke7 Rh1 Kd7 Rh3 Ke7 Rh1 Kd7",
-    "duration": 120,
+    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Bc4 c6 Nf3 d6 d3 O-O O-O a6 Bb3 Re8 Kh1 h6 h3 a5 g4 b5 a3 a4 Ba2 Nh7 Rg1 Ng5 Bxg5 hxg5 Qd2 Be6 Bxe6 Rxe6 Raf1 Rh6 Kg2 Nd7 Qxg5 Qc7 Ne2 Re8 Qf5 Rf6 Qh5 Rh6 Qf5 Rf6 Qg5 Nf8 Qh4 Ng6 Qg3 d5 g5 Nf4+ Nxf4 Rxf4 Re1 f5 gxf6 Rxf6 d4 Ref8 dxc5 Rxf3 Qxf3 Rxf3 Kxf3 Qf7+ Ke2",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766823113.2733064
+  "updated": 1766823193.6088386
 }
