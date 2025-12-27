@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3084,
-  "opponent": "AlPhAbEtACeta",
+  "opponent": "ikram1849",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2025-12-27T12:38:12.381122",
+  "time_control": "TC: 1+1",
+  "time_left": 29,
+  "timestamp": "2025-12-27T22:08:56.409219",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlPhAbEtACeta",
+    "result": "win",
+    "opponent": "ikram1849",
     "rating_before": 3084,
     "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Bg5 dxc4 Nc3 a6 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 Be2 Bh6 Bxh6 Rxh6 Bf3 Bxf3 Qxf3 Rxf6 Qc6 Rb8 O-O Rb6 Qe4 Rg6 g3 Rd6 b3 Nf6 Qe5 Ng4 Qh8+ Ke7 Qxd8+ Rxd8 bxc4 bxc4 Rfd1 Rh6 h4 Rf6 Ne4 Rf3 Rac1 f5 Ng5 Rxf2 Rxc4 Rb8 Rxc7+ Kd6 Rdc1 Rbb2 R7c6+ Kd7 Rc7+ Ke8 Rc8+ Kd7",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 b6 d4 Bb7 Bd3 e6 Nf3 d5 exd5 exd5 O-O Bd6 Nc3 Ne7 Re1 Nc6 Nxd5 Bxh2+ Nxh2 Qxd5 Be4 Qd7 Bg5 f6 Qh5+ Kd8 d5 fxg5 dxc6 Nxc6 Rad1 Qxd1 Rxd1+ Kc8 Qf3 Na5 Ng4 Bxe4 Qxe4 Kb8 b4 Nb7 Ne5 Nd6 Nd7+ Kc8 Rxd6 cxd6 Qc6+ Kd8 Qxd6 Re8 Nxb6#",
+    "duration": 113,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1766839092.3812387
+  "updated": 1766873336.4092786
 }
