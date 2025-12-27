@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3089,
-  "opponent": "PositionalAI",
+  "rating": 2985,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 28,
-  "timestamp": "2025-12-27T08:29:49.674503",
+  "time_control": "TC: 3+0",
+  "time_left": 132,
+  "timestamp": "2025-12-27T08:33:19.213929",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3089,
-    "rating_after": 3089,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nc3 a6 Nxc6 bxc6 Bd3 Bb7 Qf3 d5 O-O Nf6 Re1 Be7 Qg3 O-O Bh6 Ne8 Bf4 Rc8 Rad1 Nf6 Bh6 Ne8 Bf4 Nf6 Bh6 Ne8 Bf4 Nf6",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 Qe3 d5 Nd2 Bf5 c3 Nd6 Nb3 b6 Qf3 Be4 Qg3 Bh4 Qe3 h6 Nd2 Bg5 c4 Nf5 Bxg5 Qxg5 Qc3 Nh4 Qe3 Nf5 Nxe4 Qh4 Nf6+ Qxf6 Qf3 Rd8 cxd5 g6 Rd1 Qd6 Bc4 Rd7 g3 h5 a3 Ne7 Rc1 Nf5 Rd1 Kg7 Bb3 Ne7 Rc1 Nf5 Rd1 h4 Kg2 a5 Bc4 Ne7 Rc1 Nf5 Rd1 Ne7 Rc1 Nf5 Rd1",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766824189.6746054
+  "updated": 1766824399.21406
 }
