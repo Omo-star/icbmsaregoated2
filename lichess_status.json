@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "PositionalAI",
+  "opponent": "AnatolyBugarovBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2025-12-27T11:37:02.759439",
+  "time_control": "TC: 1+0",
+  "time_left": 33,
+  "timestamp": "2025-12-27T11:37:52.389176",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
+    "opponent": "AnatolyBugarovBot",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 a3 f6 h4 h5 Ba4 a6 Bb3 Be6 Ne2 b5 Rdg1 Bd7 g4 hxg4 fxg4 e5 Qg3 b4 g5 f5 dxe5 Qxe5 Qxe5+ Rxe5 Nf4 Re4 Nxd5 Nd4 Re1 Rc8 Kb1 Nxb3 cxb3 bxa3 Rxe4 fxe4 Nb6 Rc7 Nxd7 a2+ Kxa2 Rxd7 Kb1 e3 Re1 Re7 Kc2 Re4 Kd3 Rb4 Kc3 Re4 Ra1 Kf7 Kd3 Rxh4 Rxa6 Rb4 Ra3 Rb5 Kxe3 Rxg5",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "d4 d5 c4 e6 Nf3 Nf6 Nc3 Be7 Bf4 O-O e3 Nbd7 c5 Nh5 Bd3 b6 b4 Nxf4 exf4 a5 a3 c6 O-O Ba6 Na4 Bf6 Re1 g6 cxb6 Nxb6 Nc5 Bxd3 Qxd3 Qc7 g3 Ra7 h4 Rfa8 b5 cxb5 h5 Qe7 Kg2 Nd7 Nxd7 Qxd7 hxg6 hxg6 Ne5 Qc8 Qxb5 Qc3 Nc6 Rc7 Rec1 Qd2 Qb6 Rcc8 Qb7 Rf8 Qb1 Qe2 Ra2 Qh5 Rb2 Rac8 a4 Kg7 Rb7 Qg4 Qb3 g5 Qf3 Qxf3+ Kxf3 gxf4 gxf4 Rh8 f5 exf5 Rb5 Rh3+ Kg2 Ra3 Rxd5 Rxa4 Rc3 f4 Rcc5 Bxd4 Nxd4 Rxd4 Rg5+ Kf6 Rgf5+ Kg6 Rg5+ Kf6 Rxa5 Rc6 Kf3 Rc3+ Kg4 Rc6 f3 Rdc4 Raf5+ Ke7 Ra5 Kf6 Ra7 R4c5 Rxc5 Rxc5 Kxf4 Kg7 Ra1 Kh8 Rb1 Kg8 Ra1 Kh8 Rb1 Kg8 Ra1 Kh8",
+    "duration": 60,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766835422.7595894
+  "updated": 1766835472.3892846
 }
