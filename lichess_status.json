@@ -5,18 +5,18 @@
   "opponent": "ikram1849",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+1",
-  "time_left": 29,
-  "timestamp": "2025-12-27T22:08:56.409219",
+  "time_left": 45,
+  "timestamp": "2025-12-27T22:10:25.098408",
   "last_game": {
     "result": "win",
     "opponent": "ikram1849",
     "rating_before": 3084,
     "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 b6 d4 Bb7 Bd3 e6 Nf3 d5 exd5 exd5 O-O Bd6 Nc3 Ne7 Re1 Nc6 Nxd5 Bxh2+ Nxh2 Qxd5 Be4 Qd7 Bg5 f6 Qh5+ Kd8 d5 fxg5 dxc6 Nxc6 Rad1 Qxd1 Rxd1+ Kc8 Qf3 Na5 Ng4 Bxe4 Qxe4 Kb8 b4 Nb7 Ne5 Nd6 Nd7+ Kc8 Rxd6 cxd6 Qc6+ Kd8 Qxd6 Re8 Nxb6#",
-    "duration": 113,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "d4 Nf6 e3 d5 b3 c5 Bb2 cxd4 exd4 Bf5 Nc3 Nc6 a3 e6 Qd2 Rc8 O-O-O Qa5 Nb1 Nb4 Nc3 Rxc3 Bxc3 Na2+ Kb2 Qxa3+ Kb1 Ne4 Bb5+ Kd8 Ba5+ Kc8 Qf4 Nac3+",
+    "duration": 94,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1766873336.4092786
+  "updated": 1766873425.0984735
 }
