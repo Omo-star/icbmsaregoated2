@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 3+1",
-  "time_left": 154,
-  "timestamp": "2025-12-27T10:31:42.407035",
+  "rating": 3087,
+  "opponent": "AnatolyBugarovBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+0",
+  "time_left": 21,
+  "timestamp": "2025-12-27T10:32:44.279441",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 2986,
-    "rating_after": 2986,
+    "opponent": "AnatolyBugarovBot",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "f4 f5 d4 d5 a4 a5 Nf2 Nf7 Nd3 e6 Bf2 Nd7 Nd2 Nd6 e3 Ne4 Qe2 Be7 Nxe4 fxe4 Ne5 Nxe5 fxe5 Qf7 Rf1 Rf8 Kb1 b6 c4 Kb7 Ka2 c5 Bb3 Qe8 Rac1 Rc8 Rc2 Ka7 Rfc1 Bf7 Be1 Qc6 Qg4 g5 Rf2 h5 Qe2 Be8 Rxf8 Bxf8 Qd1 Rd8 Bc3 Be7 h3 g4 Be1 gxh3 gxh3 Rc8 cxd5 exd5 dxc5 Bxc5 Qxd5 Qxd5 Bxd5 Bxa4 Bh4 Bc6 Bxc6 Rxc6 Rc4 Kb7 Rxe4 Re6 Bf6 Kc6 Rh4 Bxe3 Rxh5 Kd5 h4 Bf4 Rf5 Ke4 Rh5 b5 Bg7 a4 Ka3 Be3 Bf6 Bc5+ Ka2 b4 b3 axb3+ Kxb3 Bd4 Kxb4 Bxe5 Bxe5 Rxe5 Rh8 Rd5 Rg8 Rd1 Rh8 Ra1 Rg8 Rb1+ Kc5 Ra1 Rh8 Rb1 Rg8 Ra1 Rh8 Rb1 Rg8",
-    "duration": 301,
-    "bot_color": "white",
+    "moves": "e4 c5 Nc3 g6 d4 cxd4 Qxd4 Nf6 Be3 Qa5 f3 Nc6 Qd2 d6 O-O-O Bg7 Kb1 O-O Nge2 b5 Bh6 Be6 Bxg7 Kxg7 Nc1 Rab8 g4 Ne5 g5 Nh5 f4 Nc4 Qd4+ f6 f5 Bf7 Be2 Qb6 Qxb6 Rxb6 b3 Na3+ Kb2 b4 Na4 Rbb8 Bxh5 gxh5 gxf6+ Kxf6 Nd3 Be8 e5+ Kf7 Nc3 bxc3+ Kxa3 Rb5 exd6 exd6 Rhg1 Bd7 b4 a5 Kb3 Rxf5 a4 Be6+ Ka3 axb4+ Nxb4 Ra8 Rgf1 Rxf1 Rxf1+ Ke8 Rf4 Kd7 Nd3 Rg8 Kb4 Rg2 Rf2 Rg4+ Nf4 Kc6 Kxc3 Bf7 Kb4 Bg6 Kb3 Kb6 Nd5+ Kc5 Nf4 h4 Ne6+ Kd5 Nc7+ Kc6 Ne6 Re4 Nf4 Re3+ Kc4 Re4+ Kb3 Re3+ Kb4 Re4+ Ka3 Kb6 Nd5+ Kc5 Nf4 Kc4 Nxg6 hxg6 Rg2 Kc5 Rxg6 Re2 Kb2 Rxh2 a5 Kb5 Rxd6 Kxa5 Rd8 h3 Rh8 Rh1 Rg8 h2 Rh8 Rd1 Rh5+ Ka4 Rh4+ Ka5 Rh5+ Ka4 Rh4+ Ka5 Rh5+",
+    "duration": 60,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1766831502.4070992
+  "updated": 1766831564.2795367
 }
