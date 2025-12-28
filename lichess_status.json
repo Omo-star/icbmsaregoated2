@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "YoBot_v2",
+  "rating": 3015,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 100,
-  "timestamp": "2025-12-28T10:42:37.551234",
+  "time_control": "TC: 10+0",
+  "time_left": 175,
+  "timestamp": "2025-12-28T10:55:09.139857",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3015,
+    "rating_after": 3015,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Rc8 Rf2 Qb6 Qxb6 axb6 Rdf1 h5 e3 Rcd8 h3 Rde8 Nb5 Rc8 Kh2 Rfd8 Kh1 Rf8 Nc3 Rce8 Nb5 Rc8 Nc3 Rcd8 Kh2 Rc8 Kg1 Rcd8 Nb5 Rc8 Kh2 Rfd8 Bh1 Rh8 Na7 Rcf8 Nb5 Rc8 a4 Rhg8 Bf3 Rgf8 Nc3 Bd6 Bh1 Be7 Ra1 Bb4 Raf1 Bxc3 bxc3 Ne4 Bxe4 dxe4 d5 Bxd5 Nd7 Bc4 Rb1 Rfd8 Nxb6 Bd3 Nxc8 Bxb1 Ne7 Bd3 Nf5+ Kg6 Ne7+ Kg7 Nf5+ Kg6 Ne7+ Kg7",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Bf8 h4 Nb8 h5 Bg4 Ne3 Bxh5 g4 Bg6 Kg2 Na6 Qb1 Qd6 Nf5 Qe6 N3h4 Rd7 Rh1 Be8 Rh3 h6 c3 Rad8 Qc2 c5 b5 Nb8 c4 g5 Nf3 Bg6 Nh2 h5 Bc3 h4 Nf1 c6 Rb1 Rb7 N1e3 a5 Rb3 cxb5 axb5 Be7 Rb1 Re8 Nd5 Bd8 Qb2 Rh7 f4 exf4 Nxf6+ Bxf6 Bxf6 Nd7 Bxg5 f3+ Rxf3 Ne5 Qe2 Nxf3 Qxf3 Bxf5 gxf5 Qe5 Kh3",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1766918557.5514324
+  "updated": 1766919309.143561
 }
