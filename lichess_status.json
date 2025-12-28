@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 2984,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2025-12-28T07:36:31.052681",
+  "time_control": "TC: 3+0",
+  "time_left": 66,
+  "timestamp": "2025-12-28T07:42:00.416661",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2984,
+    "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Kf1 Rb8 Ke2 Nb4 Rxc5 Nxa2 Rc2 Nb4 Rc7 Na6 Rc2 Nb4 Rc7 Nd5 Rxg7+ Kf8 Ra7 Rxb2+ Kd3 Rxf2 Rxa4 Rxg2 Ra8+ Kf7 Ke4 Ra2 Rxa2 Nc3+ Kd3 Nxa2 Nxh6+",
-    "duration": 30,
+    "moves": "c3 e5 c4 Nf6 Nc3 Bb4 g3 Bxc3 bxc3 O-O Bg2 Re8 e4 c6 Ne2 d5 exd5 cxd5 cxd5 Nxd5 O-O Nc6 Rb1 Nb6 d4 Bf5 Rb2 Qc8 dxe5 Nxe5 Nd4 Bd3 Re1 Qxc3 Ne2 Qc4 Nf4 Bf5 Bxb7 Rad8 Rd2 Rb8 h3 Na4 Bb2 Nxb2 Rxb2 h6 Re3 Qc7 Nd5 Qd6 Qe2 Kf8 g4 Bh7 Rbb3 Bg8 Qa6 Qxa6 Bxa6 f6 Rxb8 Rxb8 Nc3 Rb4 Bd3 a5 Kg2 g5 Bf5 Rd4 Kg3 Nc4 Re1 Nd6 Bb1 Bf7 f3 Rc4 Re3 Rd4 h4 Nc4 Re1 Nd2 hxg5 fxg5 Rd1 Be6 Re1 Bc4 a3 Nxb1 Nxb1 Rd3 Rc1 Be6 Rc3 Rxc3 Nxc3 Ke7 f4 gxf4+ Kxf4 Kd6 a4 Kc5 g5 hxg5+ Kxg5 Kb4 Ne2 Kxa4 Nd4 Bd7 Kf4 Ka3 Ke3 Kb2 Kd2 a4 Ne2 a3 Nc3 Bb5 Nd1+ Kb3 Nc3 Bf1 Kc1 Kxc3 Kb1 Bc4 Ka1 Bg8 Kb1 Bd5 Ka1 Bb3 Kb1 Kd4 Ka1 Kc5 Kb1 Kb6 Ka1 a2 Kb2 Bd5 Ka1 Bf7 Kb2 Bd5 Ka1 Kb5 Kb2 Kc5 Ka1 Bf7 Kb2 Bg8 Ka1 Bb3 Kb2 Bd5 Ka1 Kb5 Kb2 Kc6 Ka1 Kd6 Kb2 Ke7 Ka1 Bc4 Kb2 Kd8 Ka1 Bg8 Kb2 Kc8 Ka1 Bd5 Kb2 Kd8 Ka1 Kc8 Kb2 Be6 Ka1 Kb8 Kb2 Kc7 Ka1 Kd7 Kb2 Bc4 Ka1 Kc7 Kb2 Bd5 Ka1 Kd6 Kb2 Bg8 Ka1 Bf7 Kb2 Bb3 Ka1 Kc5 Kb2 Kd6 Ka1 Bf7 Kb2 Ke7 Ka1 Bd5 Kb2 Bg8 Ka1 Bd5 Kb2 Bf7 Ka1 Kf8 Kb2 Bd5 Ka1 Bc4 Kb2 Kg7 Ka1 Bd5 Kb2 Kg8 Ka1",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1766907391.052782
+  "updated": 1766907720.4167225
 }
