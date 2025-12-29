@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3081,
-  "opponent": "Classic_BOT-v2",
+  "rating": 3082,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 56,
-  "timestamp": "2025-12-29T16:15:39.157007",
+  "time_left": 39,
+  "timestamp": "2025-12-29T16:16:27.474426",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 3081,
-    "rating_after": 3081,
+    "opponent": "abdcebot",
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Be2 Rc3 Ke1 Kd6 Kd2 Rc2+ Ke3 Rc3+ Kd2 Rc2+ Ke3 Rc3+ Kd2",
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 O-O-O Nc6 Bxg7 Kxg7 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 h3 h5 Bxc6 Bxc6 g4 Rh8 f4 Qe6 Qxe6 fxe6 g5 Bd7 Rhf1 b5 a3 Rb8 b4 e5 h4 Bg4 Rde1 Rhc8 Nxd5 e6 Nf6 Bf5 Rf2 exd4 Nd7 Ra8 Nc5 a5 Kb2 Ra7 Rd1 axb4 axb4 Rd8 Rff1 Kf8",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767024939.1571188
+  "updated": 1767024987.4745777
 }
