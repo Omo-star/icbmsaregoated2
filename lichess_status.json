@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "Classic_BOT-v2",
+  "rating": 3076,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 45,
-  "timestamp": "2025-12-29T16:26:55.711272",
+  "time_left": 12,
+  "timestamp": "2025-12-29T16:29:08.956700",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "result": "win",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d6 h3 Re8 d4 Bb7 Nbd2 Bf8 Bc2 g6 a3 Nb8 b4 Nbd7 Bb2 c5 bxc5 dxc5 dxe5 Nxe5 Nxe5 Rxe5 c4 Re6 Qe2 Bh6 Rad1 Qb6 e5 Rae8 Qf1 Bc6 exf6 Rxe1 Rxe1 Bxd2 Rxe8+ Bxe8 Qe2 Qd8 Bd3 Bh6 cxb5 Bxb5 Bxb5 axb5 Qxb5 Qd1+ Qf1 Qb3 Qa1 Qa4 Qe1 Bf8 Qc3 h5 g3 h4 g4 Qc6 Qe3 c4 Bc3 Qa6 Qd4 Qa4 Bb4 Bxb4 axb4 Qxb4 Qd8+ Qf8 Qc7 Qe8 Qxc4 Qe5 Qc1 Qxf6 g5 Qe5 Qc8+ Kg7 Qg4 f6 Qxh4 fxg5",
+    "moves": "Nf3 d5 c4 d4 b4 c5 e3 Nf6 b5 Qc7 g3 e5 d3 Bd6 Bg2 a6 a4 h6 Na3 O-O O-O Re8 Bd2 Bg4 e4 Nbd7 Qe1 Kh7 a5 Rg8 b6 Qb8 Kh1 g5 Ng1 Be6 Qe2 Rg7 Bh3 Qe8 f3 h5 Bxe6 Qxe6 Nc2 Rag8 Ne1 h4 g4 Be7 Rf2 Nf8 h3 N6d7 Ra3 Rh8 Qf1 Kg6 Ne2 Qf6 Nc2 Ne6 Na1 Rhg8 Ra4 Rc8 Bc1 Ndf8 Bd2 Rg8 Nc1 Nd8 Ra2 Qe6 Ra3 Qd7 Ncb3 Ra8 Be1 Rb8 Nc1 Kf6 Rc2 Qc6 Rb2 Kg7 Bd2 Qc8 Na2 Qc6 Qd1 Qd7 Be1 Qd6 Rg2 Qf6 Nb3 Nde6 Rh2 Nd8 Bd2 Qe6 Na1 Nc6 Rg2 Nd7 Nc1 Rbf8 Rh2 Re8 Na2 Nf8 Nb3 Nd8 Rf2 Qf6 Nac1 Bd6 Na2 Ng6 Kh2 Rgf8 Nac1 Bb8 Na1 Ne6 Be1 Rh8 Bd2 Rh6 Nab3 Rc8 Kh1 Nef4 Bxf4 Nxf4 Qf1 Bd6 Nd2 Rhh8 Ne2 Rce8 Nxf4 Qxf4 Ra2 Rc8 Nb3 Rcd8 Nd2 Rhe8 Qb1 Re6 Nf1 Kf8 Rg2 Be7 Kg1 Ke8 Qd1 Rb8 Rgf2 Rc6 Qd2 Qxd2 Nxd2 Kd7 f4 gxf4 Re2 Rbc8 Nf3 Ke6 g5 Rg8 Rg2 Rcc8 Rg4 Rg7 Rag2 Rh8 g6 fxg6 Rxg6+ Rxg6 Rxg6+ Bf6 Kf2 Kf7 Rg2 Rh6 Ng5+ Ke7 Nf3",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1767025615.7113802
+  "updated": 1767025748.956841
 }
