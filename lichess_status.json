@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "ToromBot",
+  "rating": 3070,
+  "opponent": "Alexandrya",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 32,
-  "timestamp": "2025-12-29T16:07:06.367513",
+  "time_left": 16,
+  "timestamp": "2025-12-29T16:09:07.655444",
   "last_game": {
-    "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "result": "win",
+    "opponent": "Alexandrya",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg3 Nxg3 hxg3 Bd7 Bb5 Bd6 Qe2 a6 Bxc6 Bxc6 dxc5 Bxc5 Ne5 Qc7 Nxc6 bxc6 O-O O-O Rac1 Qb8 Rc2 a5 c4 Be7 Rfc1 a4 Nf3 Bf6 cxd5 cxd5 Ne1 h6 Nd3 Be7 g4 Bd6 g3 Rd8 Rc6 Qa7 R1c2 Qb7 Qe1 Qd7 Qc3 Qe7 Qe1 Qf6 Qd1 Qg6 Qe2 Qe4 Kh2 Rab8 Ra6 Ra8 Rac6 g5",
+    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 e6 Nbd2 Nc6 c3 Nh5 Bg5 f6 Bh4 g6 Be2 Ng7 Bg3 cxd4 cxd4 Nf5 O-O Be7 Rc1 Qb6 Nb3 O-O a3 Rd8 Rc3 e5 Nc5 a6 b4 Nxg3 hxg3 e4 Nd2 f5 Qb3 Kg7 Rfc1 h5 Na4 Qa7 R3c2 Bf6 Rc5 Be7 R5c2 Bf6 Rc5 Be6 Rxc6 bxc6 Rxc6 Bf7 Nc5 h4 gxh4 Bxh4 Bxa6 Be7 b5 Bxc5 dxc5 d4 Qb4 dxe3 fxe3 Kh6 Qc3 Qe7 Nf1 Rd3 Qb2 Bc4 Bc8 Kh7 g4 f4 Qh2+ Kg7 Bf5 gxf5 Qh6+ Kf7 Qh5+ Kf8 Qh8+ Kf7 Qh5+ Kf8 Qxf5+ Qf7 Rf6 fxe3 Ng3 Rd1+ Kg2 Rd2+ Kh3 e2 Nxe2 Rxe2 c6 Rxa3+ Kh4 Rh2+ Kg5 Rg3 Rxf7+ Bxf7 Qxe4 Rb2 Qe5 Rbg2 Qd6+ Kg8 Qd8+ Kh7 Qd7 Rxg4+ Qxg4 Bd5 Qxg2 Bxg2 c7 Bb7 Kf6 Kh6 b6",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767024426.3676136
+  "updated": 1767024547.6555061
 }
