@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "tbhOnBot",
+  "rating": 3076,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 591,
-  "timestamp": "2025-12-29T13:37:59.633798",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 5,
+  "timestamp": "2025-12-29T13:39:29.297627",
   "last_game": {
-    "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "loss",
+    "opponent": "BorkaTower",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Ra1 Re2 Ra2 Bf1 Ra1 Bh3 Ra2 Bf1 Kf6 Kh3 Kg6 Kh2",
-    "duration": 600,
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O h6 a4 Ne7 a5 Qc7 b4 a6 Nh4 Bh7 f4 Nc8 f5 exf5 Nxf5 Bxf5 Rxf5 Bxb4 Rf1 Bxa5 Bh5 O-O Bf4 Qb6 c3 c5 Qa4 cxd4 Qxa5 d3+ Qxb6 Ncxb6 Rf3 Rfe8 Rxd3 Nxe5 Rd1 Rad8 Ra2 Rc8 Rb2 Rc6 Bg3 Nec4 Rb3 Nd6 Bf2 Nd7 Bf3 Nf6 Na3 Nde4 Bd4 Rec8 c4 dxc4 Rxb7 Re6 Ra7 c3 Nc2 Rd8 Bxf6 Rxd1+ Bxd1 Nxf6 Rc7 Ne4 Rc8+ Kh7 Ne3 g6 Rc7 Kh8 Rxf7 Ng5 Ra7 Rxe3 Bc2 a5 Rxa5 Re2 Bxg6 Kg7 Bf5 c2 Bxc2 Rxc2 h3 Ne4 Ra6 Ng3 Kh2 Nf1+ Kh1 Ne3 Ra7+ Kf6 Ra6+ Kg5 Ra8 Kf5 Rf8+ Kg6 Ra8 Re2 Ra6+ Kg5 Ra8 Kf4 Rf8+ Kg3 Rf3+ Kh4 Rf4+ Kh5 g3 Kg5 Ra4 Nf5 Kg1 Kf6 Rg4 Kf7 Rf4 Kg6 h4 Ne3 Rf8 Kh5 Rg8 Rd2 Rg7 Rg2+ Kh1 Nf5 Rb7 Rxg3 Rb5 Rf3 Kg2 Rf4 Kh3 Rxh4+ Kg2 Kg5 Kf2 h5 Kf3 Ra4 Ke2 h4 Kd1 h3 Ke2 h2 Rb1 h1=R Rxh1 Ng3+ Kf3 Nxh1 Ke2 Nf2 Ke3 Rc4 Kf3 Kf5 Kg3 Ke4 Kh4 Kf4 Kh5 Rc6 Kh4 Rh6#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767015479.6339328
+  "updated": 1767015569.2977483
 }
