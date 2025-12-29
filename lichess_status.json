@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "SF_Bot1nok",
+  "rating": 3067,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 43,
-  "timestamp": "2025-12-29T15:48:44.070843",
+  "time_left": 12,
+  "timestamp": "2025-12-29T15:50:16.348357",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "result": "loss",
+    "opponent": "abdcebot",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rxe2 Kxe2 Kg7 Kf3 Bc5 Ke4 Bb6 Bd4 Kf7 Be3 Kf8 Bd4 Kg7 Bc3 Kf7 Bd2 Kg7 Bf4 Kf8 Be3 Kf7 Bc1 Bc5 Bd2 Bb6 Bc3 Bf2 Bd2 Bb6 Be1 Kf8 Bc3 Kf7 Kf3 Bg1 g4 hxg4+ Kxg4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Ra8 Qf1 Bf6 Bxf4 Qa2 Bc1 Be7 e5 Rh8 Qh3 Rf8 Qg4 Qd5 Qe4 h3 Qxd5 cxd5 Bf4 Rg8 b5 c6 bxc6+ Kxc6 e6 Kb5 Be5 Rg6 f4 Rxe6 f5 Rh6 Bxg3 Bxa3 Kh2 Rf6 Rf2 Kc4 Kxh3 b5 Be5 Rf7 f6 Bf8 Kg4 b4 Nb2+ Kc3 Nd1+ Kc4 Nb2+ Kc3 Na4+ Kc4 Rf4 Kb5 Nb2 b3 cxb3 Kb4 Rf3 d3 Rxd3 Ka3 Na4 Rb7 Bd4 Ka2 Kf5 Rh7 Nb6 Ra7 Nxd5 Rb7 b4 Bh6 Be5 Bf8 b5 Kb1 b6 Bh6 Rc3 Bc1 Rc7 Bh6 Rxb7 Kc2 Rc7+ Kd3 b7 Bc1 Rxc1 Kd2 b8=Q Kxc1 Qb2+ Kd1 Nf4 Ke1 Qe2#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767023324.0709596
+  "updated": 1767023416.3484244
 }
