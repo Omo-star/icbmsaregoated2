@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3062,
-  "opponent": "ChessClassic_555",
+  "opponent": "Princesweden",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 48,
-  "timestamp": "2025-12-29T15:19:01.325906",
+  "time_left": 40,
+  "timestamp": "2025-12-29T15:19:52.414243",
   "last_game": {
     "result": "win",
-    "opponent": "ChessClassic_555",
+    "opponent": "Princesweden",
     "rating_before": 3062,
     "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "Nf3 c6 Nc3 d5 e4 e6 d4 dxe4 Nxe4 Nf6 Nxf6+ gxf6 Bd3 Be7 O-O Nd7 c4 e5 Re1 exd4 Bc2 Ne5 Nxe5 fxe5 Rxe5 Qd6 Bf4 f6 Re4 Qd8 Qh5+",
+    "moves": "g3 e5 Bg2 d5 h3 f5 h4 Nf6 d3 h6 Nf3 Nc6 O-O Be6 Bd2 e4 Bc1 exf3 Bxf3 Bc5 Bg2 O-O Nd2 f4 b3 fxg3 Bb2 Ng4 e3 Qxh4 fxg3 Qh2#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767021541.3259952
+  "updated": 1767021592.4143193
 }
