@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "SF_Bot1nok",
+  "rating": 3062,
+  "opponent": "ChessClassic_555",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 12,
-  "timestamp": "2025-12-29T15:18:17.671847",
+  "time_left": 48,
+  "timestamp": "2025-12-29T15:19:01.325906",
   "last_game": {
-    "result": "loss",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "result": "win",
+    "opponent": "ChessClassic_555",
+    "rating_before": 3062,
+    "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Bd7 f3 Qc7 Nxc6 Bxc6 h4 Be7 Ne2 h6 Be3 b5 Kb1 h5 Nd4 Bd7 Bd3 Qb7 Rhe1 a5 Bg5 Qb6 Be3 Qb7 Bg1 b4 e5 dxe5 Rxe5 O-O Rg5 Nd5 Rxh5 Nf6 Rg5 Nd5 Rh5 Nf6 Re5 Nd5 Qe1 Rfb8 Bh2 a4 Rh5 Nf6 Rg5 Ne8 Be5 Qb6 Qe4 Bxg5 hxg5 b3 cxb3 axb3 a3 Ra4 Bxb8 Qxb8 Nc6 Bxc6 Qxc6 Ra7 g6 Re7 Qc5 Rc7 Qb5 Qxb5 Bxb5 Rc8 Ba4 Kf8 Bxb3 Ke7 gxf7 Kxf7 Rc1 Rb8 Ka2 Nd6 Re1 Re8 a4 Nf5 Bc4 Kf6 a5 Nd6 Bd3 g5 b4 g4 Kb3 gxf3 gxf3 Rd8 Rc1 Ke5 a6 Kd4 Rd1 Nc8 Be4+ Ke3 Rxd8 Nb6 Rb8 Nd7 a7 Kf4 a8=Q Nxb8 Qxb8+ Kg5 Qe5+ Kh4 Qg7 e5 Qg4#",
+    "moves": "Nf3 c6 Nc3 d5 e4 e6 d4 dxe4 Nxe4 Nf6 Nxf6+ gxf6 Bd3 Be7 O-O Nd7 c4 e5 Re1 exd4 Bc2 Ne5 Nxe5 fxe5 Rxe5 Qd6 Bf4 f6 Re4 Qd8 Qh5+",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767021497.671911
+  "updated": 1767021541.3259952
 }
