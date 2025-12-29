@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3062,
-  "opponent": "TURAN_UNIFICATION",
+  "rating": 3066,
+  "opponent": "PatriciaBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 13,
-  "timestamp": "2025-12-29T15:59:55.066276",
+  "time_left": 17,
+  "timestamp": "2025-12-29T16:01:57.488150",
   "last_game": {
     "result": "win",
-    "opponent": "TURAN_UNIFICATION",
-    "rating_before": 3062,
-    "rating_after": 3062,
+    "opponent": "PatriciaBot",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Bg7 Kb1 Rc8 h3 Qc7 c3 h4 Bg5 Nb6 c4 O-O Rc1 Rfe8 Qa5 e4 Bxh4 Nfd7 Rc2 Ne5 fxe4 Nexc4 Bxc4 Nxc4 Qxc7 Rxc7 Bg3 Rcc8 Re1 b5 Ree2 a5 Nd2 Nxd2+ Rexd2 Rxc2 Kxc2 Be5 Be1 a4 Re2 f5 Kd3 Rc8 exf5 gxf5 Rc2 Re8 Bc3 Kf7 Rf2 Kg6 a3 Rh8 Bxe5 dxe5 Ke3 Kf6 Rc2 Rh4 Rc6+ Kg5 Re6 Re4+ Kf3 Rf4+ Ke2 Re4+ Kf3 Rf4+ Kg3 Re4 Kf2 Rf4+ Ke1 Re4+ Kf2 f4 Re8 Kf6 Rf8+ Ke7 Rb8 Rd4 Rxb5 Rd2+ Kf3 Kf6 h4 Kf5 g4+ fxg3 Kxg3 Rd3+ Kf2 e4 h5 Kf4 h6 Rh3 Rb6 Ke5 Kg2 Rh4 Kg3 Rh1 Kg2 Rh4 Ra6 Kxd5 Kg3 Rh1 Kf2 Rh2+ Kg3 Rh1 Ra5+ Kd4 Rxa4+ Kd3 Ra6 e3 Rd6+ Ke4 Re6+ Kd3 Rd6+ Ke4 Re6+ Kd3 Kg2 Rh4 Kf3 Rh3+ Kg2 Rh4 Rd6+ Ke4 Rb6 Kd3 Kf3 Rh3+ Kg2 Rh4 Rd6+ Ke4 Rc6 Kd4 Kf3 Rh3+ Kg2 Rh4 a4 Rh5 Kf3 Rh3+ Kg2 Rh5 Rd6+ Ke4 Re6+ Kd3 Kf3 Rh3+ Kg2 Rh5 Rd6+ Ke4 Kf1 Rh1+ Ke2 Rh2+ Ke1 Rh1+ Ke2 Rh2+ Kd1 Rh1+ Kc2 e2 Re6+ Kf3 Kd2 Rd1+ Kc3 e1=Q+ Rxe1 Rxe1 a5 Rh1 b3 Ke4 Kc4 Rxh6 Kc5 Kd3 Kb5",
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 a6 Nce2 c5 c3 Be7 Nf3 Nc6 Ng3 Qb6 a3 a5 Be2 a4 O-O f5 Kh1 g6 Rg1 c4 Nf1 h5 Ne3 Qd8 Bd2 Nb6 Be1 Na5 Bf2 Kd7 Qe1 Kc7 Bh4 Bxh4 Qxh4 Bd7 Qxd8+ Raxd8 g3 Na8 Rae1 b5 Ng5 Rb8 Kg2 Kb6 h3 Rbf8 g4 hxg4 hxg4 Rh4 Rh1 Rfh8 Rxh4 Rxh4 Kg3 Rh8 Ng2 Nc7 Nh4 Be8 gxf5 gxf5 Nxe6 Nxe6 Nxf5 Rf8 Bg4 Bg6 Ne7 Nxf4 Rf1 Nh5+ Bxh5 Rxf1 Bxg6 Kc7 Nxd5+ Kd7 Be4 Rd1 Ne3 Rd2 d5 Nb7 Nc2 Re2 Kf3 Rd2 Ke3 Rh2 Nd4 Rxb2 d6 Nxd6 Bc6+ Ke7 exd6+ Kxd6 Bxb5 Kc5 Bxa4 Ra2 Nc2 Rb2 Nb4 Rh2 Bd1 Rh3+ Kd2 Rh2+ Be2 Kb5 Nd5 Ka4 Ke3 Rh4 Bxc4 Kxa3 Bb5 Kb3 Kd3 Rh3+ Kd4 Kc2 c4 Rh4+ Kc5 Kb2 Kb6 Rh6+ Bc6 Kb3 c5 Kc4 Ne3+ Kd3 Ng4 Re6 Kc7 Kd4 Bd7 Rg6 c6 Kc5 Kb7 Rd6 Ne5 Rxc6 Nxc6 Kc4 Bf5 Kc3 Kb6 Kd2 Nd4 Ke3 Kc5 Kd2 Kc4 Ke3 Ne6 Ke2 Kd4 Kf3 Bd3 Kf2 Ke4 Ke1 Nd4 Kd2 Ne2 Ke1 Ke3 Kd1 Bh7",
     "duration": 60,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "resign"
   },
-  "updated": 1767023995.0663478
+  "updated": 1767024117.4882147
 }
