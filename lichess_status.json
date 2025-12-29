@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "HostFish",
+  "rating": 3067,
+  "opponent": "littlePatricia",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 13,
-  "timestamp": "2025-12-29T15:31:49.943721",
+  "time_left": 29,
+  "timestamp": "2025-12-29T15:32:58.432971",
   "last_game": {
     "result": "win",
-    "opponent": "HostFish",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "littlePatricia",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Nd4 Nd5 Nce2 Nb4 c4 Rg8 Ng3 Kb7 Kh2 Re8 f4 Bc8 Nh5 Na6 g4 Bb4 Kg2 Nc5 Bc1 Nd7 Ng3 g6 Ne4 Rgf8 Kg3 f5 gxf5 gxf5 Nf2 Nc5 Be3 Rd8 Rg1 Bd7 Kh4 Ne6 Nxe6 Bxe6 Rxd8 Rxd8 Rg6 Bf7 Rg7 Be8 Kg3 Bh5 h4 Rh8 Kh3 Bf8 Rg3 Kc8 Kg2 Be7 Kh3 Rd8 Rg7 Bf8 Rh7 Bg6 Rh8 Bg7 Rxd8+ Kxd8 Bd2 Bh5 c5 Be2 b4 b5 bxa5 bxa4 Bb4 Bf8 Nh1 Be7 Ng3 Bg4+ Kg2 Bxh4 Nf1 Be2 Ng3 Bd3 Nh5 Kc8 Kf3 Kb7 Ng7 Be7 Ne8 Bf8 Kg3 Bc4 Kf3 Bf7 Nf6 Ka6 Nd7 Bg7 Nb8+ Kb7 Nd7 h5 Ba3 h4 Nf6 Ka6 Kg2 Bh6 Bc1 Kxa5 Kh3 Kb4 Kxh4 a3 Nh5 a2 Bb2 Kxc5 e6 Bxe6 Kg3 Kc4 Kf2 Kd3 Kf1 c5 Ba1 c4 Ng3 Bxf4 Nh5 Bd2 Ng7 Bd5 Nxf5 c3 Ng3 c2 Ne2 Bf3 Nc1+ Bxc1 Kf2 Ke4 Bc3 Be3+ Kg3 c1=Q Ba1 Qxa1 Kh3 Qh1+ Kg3 Qg2+ Kh4 Qh2#",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Be7 Qd2 O-O O-O-O Nbd7 g4 b5 g5 b4 Ne2 Nh5 Ng3 Nxg3 hxg3 h6 f4 Rc8 Kb1 Rc7 gxh6 g6 Qxb4 Kh8 Bd3 Qb8 Qa5 Rfc8 f5 gxf5 exf5 Bc4 Bxc4 Rxc4 Qd5 R8c7 Qxf7 Qf8 Qg6 Qf6 g4 Bf8 g5 Qxg6 fxg6 Rxc2 Rdf1 Rg2 Rf7 Kg8 h7+ Kh8 Rc1 Rxc1+ Bxc1 Rg4 Rxd7 Rh4 Na5 e4 Nc4",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767022309.943782
+  "updated": 1767022378.4330716
 }
