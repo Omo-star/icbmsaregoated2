@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3070,
-  "opponent": "HonkuFish",
+  "rating": 3072,
+  "opponent": "TURAN_UNIFICATION",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 30,
-  "timestamp": "2025-12-29T15:43:37.812647",
+  "time_left": 23,
+  "timestamp": "2025-12-29T15:45:37.147525",
   "last_game": {
-    "result": "win",
-    "opponent": "HonkuFish",
-    "rating_before": 3070,
-    "rating_after": 3070,
+    "result": "draw",
+    "opponent": "TURAN_UNIFICATION",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 a6 Qd2 Be7 Bd3 O-O dxc5 Nxc5 Bxh7+ Kxh7 Bxc5 Bxc5 Ng5+ Kg8 Qd3 Re8 Qh7+ Kf8 Qh5 Qd7 Na4 Be3 Nh7+ Kg8 Nf6+ Kf8 Nxd7+ Bxd7 Rd1 Nd4 Nc3 Kg8 Rd3 Bc6 Rxe3 Nxc2+ Kf2 Nxe3 Kxe3 Bb5 Rd1 Rac8 Nxb5 axb5 f5 exf5 Rxd5 g6 Qh4 Rc4 Qf6 Rc6 Rd6 Rxd6 Qxd6 Re6 Qd5 b4 Kf4 Rc6 Qd8+ Kg7 Qd4 Re6 Qxb4 Kg8 Qxb7 Kg7 a4 Re8 a5 Kh6 Qxf7 Ra8 e6 Rxa5 Qf8+ Kh7 e7 g5+ Kxg5 f4+ Kf6 Ra6+ Kf7 Rf6+ Kxf6 f3 Qg7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Nb3 Nd6 Qe3 b6 Qf3 Be4 Qg3 Bh4 Qg4 Bf5 Qf3 Be4 Qe3 h6 Nd2 Bg5 c4 Bxf4 Qxf4 g5 Qe5 Qd7 Qf6 Bg6 cxd5 Rd8 Re1 Ne8 Qe5 Ng7 Rc1 Qxd5 Qxc7 Qxd4 Nf3 Qf6 Re1 Bh5 Ne5 Rd2 Qc8+ Rd8 Qh3 Rd5 Qc3 Nf5 g4 Nh4 Bg2 Nxg2 Kxg2 Rc5 Qf3 Qe6 Qe4 Bg6 Nxg6 Qxe4+ Rxe4 fxg6 Re7 a5 Re6 Rb5 b3 Kf7 Rc6 a4 Rc7+ Ke6 Rc6+ Kf7 bxa4 Rb4 h3 Rxa4 Rc7+ Kf8 Rc8+ Kg7 Rc7+ Kf6 Rc6+ Kf7 Rc7+ Kg8 Rc8+ Kh7 Rc7+ Kg8 Rc8+ Kg7 Rc7+ Kf8 Rc8+ Ke7 Rc7+ Kf6 Rb7 Ra3 Rb8 Ra6 a4 h5 Rb7 Rxa4 Rxb6+ Kg7 Rb7+ Kh6 Kg3 hxg4 f3 gxf3 Kxf3 g4+ Kg3 gxh3 Rb3 h2 Kxh2 Kh7 Re3 Kh8 Kh3 Kg8 Rf3 Kh8 Kg3 Kg8 Rb3 Kh8 Rf3 Kg8 Rb3 Kh8 Kh2 Kg8 Kg3 Kh8",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767023017.8127067
+  "updated": 1767023137.1475878
 }
