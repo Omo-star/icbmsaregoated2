@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "YoBot_v2",
+  "rating": 2984,
+  "opponent": "LeaderNaldo",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 73,
-  "timestamp": "2025-12-30T10:14:54.251517",
+  "time_left": 164,
+  "timestamp": "2025-12-30T20:17:29.502587",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "result": "win",
+    "opponent": "LeaderNaldo",
+    "rating_before": 2984,
+    "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Bc4 d6 Nf3 O-O d3 c6 a4 Re8 O-O h6 Bb3 Nbd7 Be3 Bxe3 fxe3 Nc5 Ba2 Be6 Bxe6 Rxe6 Qe1 Ncd7 a5 Rc8 h3 Qf8 Qf2 d5 exd5 cxd5 d4 Qe8 Rad1 e4 Nd2 Nf8 Nb3 Rec6 Qf5 Rd8 Qe5 Ng6 Qxe8+ Nxe8 Nc5 b6 axb6 axb6 Na6 Ne7 Ra1 Rc4 Ra3 f5 Rb3 Ra8 Rxb6 Nc8 Nxd5 Nxb6 Nxb6 Rc6 Nxa8 Rxa6 Rxf5 Rxa8 Kf2 Ra2 Rb5 Nd6 Rb4 Ra1 Rb6 Nf5 g4 Nh4 Rb8+ Kf7 Rb7+ Kf6 Rb6+ Ke7 Rb7+ Kf8 Rb8+ Ke7 Rb7+ Kf6 Rb6+ Kf7 Rb7+ Kf6",
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 cxd4 Nxd4 Bg6 O-O Nc6 Nxc6 bxc6 c4 Ne7 Qa4 Qc7 cxd5 Nxd5 Rc1 Rc8 Rxc6 Qxc6 Bb5 Nb6 Bxc6+ Kd8 Bxb6+ axb6 Qd4+ Ke7 Qd7#",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767089694.2516835
+  "updated": 1767125849.5026484
 }
