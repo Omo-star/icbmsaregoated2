@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2978,
-  "opponent": "brucedo",
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 65,
-  "timestamp": "2025-12-30T23:30:46.091812",
+  "time_left": 144,
+  "timestamp": "2025-12-30T23:32:00.528448",
   "last_game": {
-    "result": "win",
-    "opponent": "brucedo",
+    "result": "draw",
+    "opponent": "FayEFish",
     "rating_before": 2978,
     "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 h3 O-O O-O d6 Be3 Bxe3 fxe3 Na5 Nbd2 Nxc4 Nxc4 b5 Ncd2 a5 c3 h6 Qe2 a4 Kh2 Re8 a3 Rb8 Ng1 c5 Qf3 d5 exd5 Qxd5 e4 Qd7 Rad1 Qc7 Rf2 Rd8 Nf1 b4 axb4 cxb4 c4 a3 bxa3 bxa3 Ra1 Rb3 Rfa2 Rdxd3 Qe2 Be6 Nd2 Rbc3 Ngf3 Re3 Qd1 Bxc4 Qa4 Bxa2 Rxa2 Kh7 Nc4 Rxc4 Qa8 Rxf3 gxf3 Rc2+ Rxc2 Qxc2+ Kg3 Nh5+ Kg4 Qg2+ Kf5 Qg5#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Qxe1 b6 Nxf6+ Qxf6 d3 Bb7 Qe3 c5 Qf4 Qxf4 Bxf4 Nf5 a4 f6 a5 g5 Bd2 Re8 c4 Kf7 b4 h5 axb6 axb6 Ra7 Rb8 b5 h4 f4 Kg6 fxg5 fxg5 Bc3 Nd4 Bxd4 cxd4 Be2 Kf6 Kf2 d5 Bf3 Ke5 h3 Kd6 Ke2 Kc5 Kd1 Kb4",
     "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1767137446.0918741
+  "updated": 1767137520.5285494
 }
