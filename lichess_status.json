@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2984,
-  "opponent": "dimm555",
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 154,
-  "timestamp": "2025-12-30T20:34:19.156282",
+  "time_left": 150,
+  "timestamp": "2025-12-30T20:35:45.512123",
   "last_game": {
-    "result": "win",
-    "opponent": "dimm555",
+    "result": "draw",
+    "opponent": "Classic_BOT-v2",
     "rating_before": 2984,
     "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 Qe2 O-O a4 d5 exd5 e4 Ng5 Bg4 Qf1 Ne5 h3 Nd3+ Bxd3 exd3 Qxd3 Re8+ Kf1 Qe7 g3 Qe1+ Kg2 Qxf2#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Rf5+ Kg7 Re5 Kf7 Re6 Bf8 Re5 Bh6 Kg2 b5 d4 b4 Rf5+ Kg7 d6 cxd6 dxc5 dxc5 Rxc5 Kg6 Rc6+ Kh7 Rc7+ Kg6 Rc6+ Kh7 Rb6 Bf8 Re6 Bg7 e5 b3 Rb6 Bxe5 Rxb3 Kg6 Rb1",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767126859.156342
+  "updated": 1767126945.512263
 }
