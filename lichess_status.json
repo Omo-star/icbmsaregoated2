@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2984,
-  "opponent": "CloudNetBot",
+  "opponent": "Th3hobbit",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 140,
-  "timestamp": "2025-12-30T20:26:59.524615",
+  "time_left": 170,
+  "timestamp": "2025-12-30T20:27:37.981182",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "Th3hobbit",
     "rating_before": 2984,
     "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 dxc5 e6 c4 Bxc5 Nc3 O-O Bd3 dxc4 Bxc4 Qxd1+ Rxd1 Bb4 O-O Bxc3 bxc3 Ne4 Rc1 Rd8 Bc7 Rd7 Bf4 a6 Bb3 Nc5 Bc2 f6 Nd4 e5 Bg3 exd4 cxd4 Ne6 Bb3 Nd8 f4 Kf8 d5 Nc7 e4 a5 a4 b6 Bf2 Rb8 Rfd1 Na6 e5 Nc5 Bc2 Kg8 h3 g6 Rb1 Rdb7 e6 Ndxe6 dxe6 Bxe6 Rd6 Bd7 f5 Bxa4 Bxa4 Nxa4 fxg6 b5 Rxf6 b4 gxh7+ Kxh7 Rf4 Nc3 Rh4+ Kg6",
+    "moves": "d4 d5 c4 Nf6 cxd5 Nxd5 Nf3 Nf6 Nc3 Bf5 Qb3 e6 e4 Nxe4 Qxb7 Nxc3 Qxa8 Nd5 Bb5+ Ke7 Qxa7 g6",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767126419.524775
+  "updated": 1767126457.9812708
 }
