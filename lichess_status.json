@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2982,
-  "opponent": "Alehkine_cat",
+  "rating": 2981,
+  "opponent": "Tact1cal_Tal",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 128,
-  "timestamp": "2025-12-30T22:28:57.284698",
+  "time_left": 180,
+  "timestamp": "2025-12-30T22:29:21.882308",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 2982,
-    "rating_after": 2982,
+    "result": "win",
+    "opponent": "Tact1cal_Tal",
+    "rating_before": 2981,
+    "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 h5 Bc3 Bf6 Kg2 Qd7 f3 g5 Rh1 g4 Nd2 Rg8 Kf2 O-O-O Qe2 Rg5 Rag1 Be7 Kf1 Bc5 fxg4 hxg4 Qh2 Bxg1 Qxg1 Qg7 Qxa7 Kd7 Qxb7 Rh8 Rg1 Qh6 Ba5 Qh3+ Ke1 Qe3+ Kf1 Qh3+ Ke1 Qe3+ Kf1 Rh2 Qxc7+ Ke8 Qxc6+ Kf7 Qd7+ Kg8 Qe8+ Kh7 Qf7+ Rg7 Qf5+ Rg6 Qf7+ Rg7 Qf5+ Rg6 Qf7+ Kh8 Qf8+",
+    "moves": "",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767133737.2848134
+  "updated": 1767133761.8823922
 }
