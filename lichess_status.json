@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2979,
-  "opponent": "ANDREY_HERO",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 165,
-  "timestamp": "2025-12-30T23:22:19.136371",
+  "time_left": 111,
+  "timestamp": "2025-12-30T23:25:27.966096",
   "last_game": {
-    "result": "win",
-    "opponent": "ANDREY_HERO",
+    "result": "draw",
+    "opponent": "CloudNetBot",
     "rating_before": 2979,
     "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "e3 d5 d3 h6 e4 dxe4 dxe4 Qxd1+ Kxd1 Nc6 Nc3 Bd7 Nd5 O-O-O Nxe7+ Bxe7 Ba6 Bg4+ Ke1 Rd1#",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Re1 Bf5 Qb3 Qd7 Nc3 Nxc3 Bxf5 Qxf5 Qxb7 Ne4 Qxa8 Qd7 cxd5 cxd5 Rxe4 Nc6 Qxf8+ Kxf8 Re3 g5 Bd2 g4 Ne5 Bxe5 dxe5 d4 Re2 h5 Rf1 Qd5 f3 Nxe5 fxg4 hxg4 Bf4 Nd7 Bd2 Kg8 Rf4 Ne5 Re1 Qc5 Kh1 Qc2 Rxe5 Qxd2 Re8+ Kg7 Rxg4+ Kf6 h3 Qc1+ Kh2 d3 Rd4 Qc7+ Kh1 Qc1+ Kh2 Qc7+ Kg1 Qc1+ Kh2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767136939.136429
+  "updated": 1767137127.96618
 }
