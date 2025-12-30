@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "C0kval",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 135,
-  "timestamp": "2025-12-30T22:59:52.710951",
+  "time_left": 118,
+  "timestamp": "2025-12-30T23:03:04.819946",
   "last_game": {
-    "result": "win",
-    "opponent": "C0kval",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nf3 d5 cxd5 exd5 Nc3 c6 Qd3 g6 Qe3+ Be7 Qf4 O-O e4 dxe4 Nxe4 Nxe4 Qxe4 Re8 Qd3 Bf5 Qb3 Bb4+ Kd1 c5 d5 Nc6 Bg5 Qxg5 a3 Re1+ Nxe1 Qd2#",
+    "moves": "e4 e5 d3 Nc6 Be2 d5 exd5 Qxd5 Nf3 Bf5 Nc3 Qd7 O-O O-O-O Rb1 Nf6 a3 Bd6 Re1 h5 b4 Kb8 Nb5 Be7 Nc3 Ng4 Ne4 Qe6 Ng3 e4 Nxf5 exf3 Nxe7 fxe2 Nxc6+ Qxc6 Qxe2 Rhe8 Qf1 Rxe1 Qxe1 Re8 Qf1 Qd6 g3 Ne5 Qg2 Nxd3 Be3 Ne5 Bf4 a6 Qe4 Qg6 Qe2 Qg4 Qxg4 hxg4 Bxe5 Rxe5 Rd1 Kc8 Rd4 f5 Rd3 c5 f3 gxf3 Rxf3 b6 Kf2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767135592.7110136
+  "updated": 1767135784.8200665
 }
