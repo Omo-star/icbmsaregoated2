@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2982,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "orestleskiv",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 168,
-  "timestamp": "2025-12-30T21:05:20.797130",
+  "time_left": 125,
+  "timestamp": "2025-12-30T21:07:31.511120",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "orestleskiv",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Kg2 b5 e5 Bg7 Rc6 Bxe5 Rxc5 b4 d6 Bxd6 Rxg5 h4 d4 c6 Ra5 b3 Ra7+ Ke6 Rb7 Kd5 Rxb3 Kxd4 Kf1 h3 Ke2 h2 Rb1 h1=Q Rxh1 Ba3",
+    "moves": "c4 e5 Nc3 Nc6 Nf3 Bc5 a3 Qe7 b4 Bd6 c5 Bxc5 bxc5 Qxc5 Bb2 Nf6 Rc1 Ng4 e3 O-O Nb5 Qd5 h3 Nxf2 Kxf2 d6 Nxc7 Qa5 Nxa8 Nd4 Bxd4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767128720.7972562
+  "updated": 1767128851.5112417
 }
