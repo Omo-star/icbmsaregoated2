@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "FayEFish",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 150,
-  "timestamp": "2025-12-30T23:06:27.777958",
+  "time_left": 128,
+  "timestamp": "2025-12-30T23:08:58.013838",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 Qc2 a5 a4 Nb8 h3 h6 Re1 Rd8 Nf1 c6 Bc4 Na6 Ng3 Qc7 Rd1 Rxd1+ Qxd1 Bf8 Be3 Nc5 Nd2 b6 b4 Ne6 bxa5 Rxa5 Rb1 Nc5 Nb3 Nxb3 Qxb3 b5 axb5 Ra3 Qd1 cxb5 Bxb5 Rxc3 Ne2 Ra3 Rc1 Qb7 Ng3 Be6 Bc4 Bxc4 Rxc4 Ra8 Kh2 Rc8 Rxc8 Qxc8 f3 Nd7 Nf5 h5 Qd5 g6 Nd6 Bxd6 Qxd6 Qd8 Bd2 f6 f4 exf4 e5 f3 gxf3 Qe8 exf6 Qe5+ Qxe5 Nxe5 Kg3 Nd7 Bc3 Nf8 f4 Kf7 Bd4 Ne6 Be5 Nc5",
+    "moves": "Nf3 d5 a3 c5 c3 Bf5 b4 e6 d3 h6 Nbd2 Nd7 g3 Be7 bxc5 Rc8 a4 Nxc5 Ba3 b6 Bg2 Bf6 a5 Bxc3 Rc1 Bxa5 O-O Bxd2 Qxd2 Ne7 d4 Ne4 Qb4 Rxc1 Rxc1 f6 Nh4 Qd7 f3 Ng5 Bf1 Kf7 e4 dxe4 Bb5 Qd8 Qxe7+ Qxe7 Bxe7 a6 Bb4 axb5 Rc7+ Kg8 g4 Bxg4 fxg4 Nh3+ Kf1 Nf4 Rc6 Kf7 Rc7+ Kg8 Rc6 Kf7 Rc7+ Kg8",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767135987.7780766
+  "updated": 1767136138.0139503
 }
