@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2984,
-  "opponent": "Favourite12345",
+  "opponent": "dimm555",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 97,
-  "timestamp": "2025-12-30T20:31:41.985339",
+  "time_left": 154,
+  "timestamp": "2025-12-30T20:34:19.156282",
   "last_game": {
     "result": "win",
-    "opponent": "Favourite12345",
+    "opponent": "dimm555",
     "rating_before": 2984,
     "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 g6 Nc3 Nc6 Be3 Nf6 f3 h5 Qd2 Nxd4 Bxd4 Bh6 Be3 Bxe3 Qxe3 Qa5 O-O-O Be6 Bb5+ Kf8 Ba4 Rc8 Bb3 Bxb3 axb3 Rc6 Qd4 Kg7 Qa4 Qg5+ Kb1 Qxg2 f4 Qf2 Rhf1 Qc5 f5 Ra6 Qb5 Qxb5 Nxb5 Ra5 Nc3 Re5 Rd4 h4 h3 g5 Rg1 Kh6 Kc1 Rd8 Kd2 d5 exd5 Rxf5 Re1 Rd7 Re3 Nxd5 Red3 e6 Nxd5 Rfxd5 c3 Rxd4 cxd4 Kg6 Ke3 Rd5 Ke4 f5+ Ke3 Rb5 Rc3 Rb4 Kd3",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 Qe2 O-O a4 d5 exd5 e4 Ng5 Bg4 Qf1 Ne5 h3 Nd3+ Bxd3 exd3 Qxd3 Re8+ Kf1 Qe7 g3 Qe1+ Kg2 Qxf2#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1767126701.9854605
+  "updated": 1767126859.156342
 }
