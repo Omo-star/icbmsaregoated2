@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "ANDREY_HERO",
+  "opponent": "Favourite12345",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 119,
-  "timestamp": "2025-12-30T20:41:24.109858",
+  "time_left": 142,
+  "timestamp": "2025-12-30T20:43:06.201186",
   "last_game": {
     "result": "win",
-    "opponent": "ANDREY_HERO",
+    "opponent": "Favourite12345",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 e3 b6 Nbd2 Bb7 Bd3 Nbd7 O-O Be7 Qc2 c5 e4 dxc4 Nxc4 b5 Nce5 c4 Nxc4 bxc4 Bxc4 Bxe4 Bd3 Bxf3 gxf3 O-O Qa4 Nb6 Qa3 Bxa3 bxa3 Qxd4 Be3 Qxd3 Rfd1 Qg6+ Kf1 Nbd5 Rxd5 Nxd5 Rd1 Nxe3+ fxe3 Rac8 Rd2 Rfd8 Rxd8+ Rxd8 e4 Rd2 Ke1 Qg2 f4 Qe2#",
+    "moves": "c4 Nf6 Nc3 g6 e4 Bg7 d4 O-O Be3 d6 h3 Nc6 Qd2 e5 d5 Ne7 O-O-O Ne8 f4 f5 fxe5 Bxe5 Bh6 Ng7 Nf3 Bxc3 Qxc3 Rf7 Ng5 Nh5 g4 fxg4 Nxf7 Kxf7 Be2 Ng8 Qh8",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767127284.1099217
+  "updated": 1767127386.2012782
 }
