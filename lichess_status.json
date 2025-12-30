@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "BOT_Stockfish13",
+  "rating": 2978,
+  "opponent": "brucedo",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 175,
-  "timestamp": "2025-12-30T23:26:00.957460",
+  "time_left": 65,
+  "timestamp": "2025-12-30T23:30:46.091812",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "result": "win",
+    "opponent": "brucedo",
+    "rating_before": 2978,
+    "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 f5 Nc3 Bc5 Rc7 Bd6 Rc4 Bxa3 Rd1 Rbb8 g4 Be8 Ra1 Bb2 Ra2 f4 exf4 Rb3 Ne2 Bb5 Rc5 Bd4 Nxd4 Rxd4 Kg2 Bf1+ Kxf1 Rxf3 Kg2 Rfxf4 h3 Ra4 Re2 Rae4 Rxe4 Rxe4 f3 Ra4 h4 Ra7 Kg3 Kf7 g5 Ra1 Kg4 Rg1+ Kh5 hxg5 hxg5 e5 Rxe5",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 h3 O-O O-O d6 Be3 Bxe3 fxe3 Na5 Nbd2 Nxc4 Nxc4 b5 Ncd2 a5 c3 h6 Qe2 a4 Kh2 Re8 a3 Rb8 Ng1 c5 Qf3 d5 exd5 Qxd5 e4 Qd7 Rad1 Qc7 Rf2 Rd8 Nf1 b4 axb4 cxb4 c4 a3 bxa3 bxa3 Ra1 Rb3 Rfa2 Rdxd3 Qe2 Be6 Nd2 Rbc3 Ngf3 Re3 Qd1 Bxc4 Qa4 Bxa2 Rxa2 Kh7 Nc4 Rxc4 Qa8 Rxf3 gxf3 Rc2+ Rxc2 Qxc2+ Kg3 Nh5+ Kg4 Qg2+ Kf5 Qg5#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767137160.9575508
+  "updated": 1767137446.0918741
 }
