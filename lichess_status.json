@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2979,
-  "opponent": "FayEFish",
+  "opponent": "ANDREY_HERO",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2025-12-30T23:21:30.194265",
+  "time_left": 165,
+  "timestamp": "2025-12-30T23:22:19.136371",
   "last_game": {
-    "result": "draw",
-    "opponent": "FayEFish",
+    "result": "win",
+    "opponent": "ANDREY_HERO",
     "rating_before": 2979,
     "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb8 Qc2 Re8 Kh2 Nd7 Rae1 Qb6 Nh5 f6 Qc1 Re7 Nh4 g5 Nf3 Rf7 Ng3 Rh7 Rd1 Kh8 Be1 Rg8 Qc2 g4 Nh4 gxh3 gxh3 Rhg7 Qxa4 Nf8 Nhf5 Bxf5 exf5 h5 b4 Bd4 c5 dxc5 Bd2 cxb4 Bh6 Rh7 Bxf8 Rxf8 Ne4 Qb5 Qb3 Qb7 Rg1 Qc8 Qxb4 Rhf7 Qd2 Rh7 a3 Qxf5 a4 Ra8 a5 c5 h4 Qf3 Ree1 Qf4+ Qxf4 exf4 Rg6 Rg7 Rh6+ Rh7 Rg6 Rd7 Reg1 Ra6 Rh6+ Rh7 Rhg6 Re7 Rh6+ Rh7 Rhg6",
+    "moves": "e3 d5 d3 h6 e4 dxe4 dxe4 Qxd1+ Kxd1 Nc6 Nc3 Bd7 Nd5 O-O-O Nxe7+ Bxe7 Ba6 Bg4+ Ke1 Rd1#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767136890.1943781
+  "updated": 1767136939.136429
 }
