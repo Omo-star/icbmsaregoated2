@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2982,
-  "opponent": "FayEFish",
+  "opponent": "Favourite12345",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 144,
-  "timestamp": "2025-12-30T21:20:10.321323",
+  "time_left": 128,
+  "timestamp": "2025-12-30T21:22:34.965083",
   "last_game": {
-    "result": "draw",
-    "opponent": "FayEFish",
+    "result": "win",
+    "opponent": "Favourite12345",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Re8 Nh4 g6 Kh1 Nb6 Na5 Bf8 a4 Nd7 g4 Nc5 Ng2 Ne6 Nc4 Bc5 Nce3 Rf8 f3 Rf7 Qe1 Bd6 Qg3 b5 h4 Nd4 h5 Rg7 Qh3 g5 b3 Be6 Qg3 Rd7 Bc3 Qf8 Qe1 a5 Qd2 Rdd8 Nd1 Bb4 Nge3 Kf7 Qf2 Bxc3 Nxc3 Qc5 Qd2 Bxb3 cxb3 Nxb3 Qc2 Nxa1 Qa2+ Ke7 Nf5+ Kd7 Qxa1 Kc8 axb5 Rxd3 Na4 Qxb5 Rb1 Rb3 Rxb3",
+    "moves": "c4 Nf6 d4 e6 g3 d5 Bg2 c6 Nd2 Be7 b3 O-O Bb2 Nbd7 Nh3 b6 O-O Ba6 Rc1 Rc8 Nf4 c5 cxd5 Nxd5 Nxd5 exd5 Bxd5 Nf6 Bc4 Bxc4 Nxc4 cxd4 Qxd4 Qxd4 Bxd4 Rfd8 Bxf6 Bxf6 Rfd1 Re8 Nd6 Rxc1 Rxc1 Rd8 Rc8 a6 Kg2 Kf8 Kf3 Ke7 Rxd8 Kxd8 Ke4 Ke7 Nc8+",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1767129610.3214397
+  "updated": 1767129754.9651816
 }
