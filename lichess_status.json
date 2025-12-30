@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "ponnapalli",
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 108,
-  "timestamp": "2025-12-30T22:36:16.434547",
+  "time_left": 129,
+  "timestamp": "2025-12-30T22:38:20.537215",
   "last_game": {
-    "result": "win",
-    "opponent": "ponnapalli",
+    "result": "draw",
+    "opponent": "FayEFish",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 Nf3 Nd7 h4 h6 h5 Bh7 Bd3 Bxd3 Qxd3 e6 Bf4 Qa5+ c3 Ngf6 O-O Nxh5 Nxh5 Qxh5 Ne5 Bd6 Qg3 Nxe5 dxe5 Bc7 Rad1 O-O Rd7 Rac8 Rfd1 Rfd8 R1d4 Bb6 Rd3 Rxd7 Rxd7 Rd8 Qd3 Rxd7 Qxd7 Qe2 Qe8+ Kh7 Bg3 Qe1+ Kh2 Bxf2 Bxf2 Qxf2 Qe7 b5 Qd6 Qxb2 Qd3+ g6 Qf3 Kg8 Qf6 Qd2 Qe7 Qf4+ Kg1 Qxe5 Qe8+ Kg7 Qxc6 a5 Qd7 Qxc3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 b4 Bd6 a3 a5 Rb1 Be6 Re1 h6 Bf1 axb4 cxb4 Nh7 Qc2 Ng5 Bb2 Nxf3+ Nxf3 Rfd8 h3 f6 Nh4 Qf7 Nf5 Bf8 Re3 Rac8 Rd3 Kh7 Rbd1 Qe8 Ne3 Nd4 Bxd4 exd4 Nd5 c5 bxc5 Bxc5 Rb3 b6 Qb1 Kh8 Ba6 Ra8 Nc7 Qf7 Nxe6 Qxe6 Bd3 Ra7 Rc1 Qe5 Rc4 Rda8 Qd1 h5 h4 Rxa3 Rxa3 Rxa3 Ra4 Rxa4 Qxa4 g6 Qa8+ Kg7 g3 Qe6 Qb7+ Kh6 Qb8 Kg7 Qc7+ Kh6 Qb8 Kg7 Qc7+ Qe7 Qc8 Qf8 Qc6 Qe7 f4 Qf7",
     "duration": 180,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1767134176.4346383
+  "updated": 1767134300.5373397
 }
