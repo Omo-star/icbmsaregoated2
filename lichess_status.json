@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2978,
-  "opponent": "Blitzkrieg1968",
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 169,
-  "timestamp": "2025-12-30T23:39:54.817715",
+  "time_left": 152,
+  "timestamp": "2025-12-30T23:41:04.531350",
   "last_game": {
-    "result": "win",
-    "opponent": "Blitzkrieg1968",
+    "result": "draw",
+    "opponent": "FayEFish",
     "rating_before": 2978,
     "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 f4 exf4 Nf3 g5 Bc4 g4 O-O gxf3 d4 d5 Bxd5 c6 Bb3 Bg4 gxf3 Bh3 Rf2 Qh4 Nc3 Nf6 e5 Rg8+",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Re8 Nh4 g6 Kh1 Nb6 Na5 Bf8 a4 Nd7 g4 Nc5 Ng2 Ne6 Nc4 Bc5 Nce3 Rf8 f3 Rf7 Qe1 Bd6 Qg3 b5 h4 Nd4 Rf2 a5 b3 Rg7 Bc3 f5 f4 exf4 Nxf4 c5 g5 fxe4 Qg2 Rf7 Raf1 Rxf4 Rxf4 Bxf4 Rxf4 Rb8 dxe4 bxa4 bxa4 Rb1+ Rf1 Rxf1+ Qxf1 Qe7 Qg2 Bb7 Ng4 Bxe4 Nf6+ Qxf6 gxf6 Bxg2+ Kxg2 Kf7 Bxa5 Kxf6 Bxc7 Ke6 c3 Nf5 Bd8 Kd7 Bg5 h6 Bf6 Ke6 Bd8 Kd7 Bf6 Ke6 Bd8 Ne3+ Kf3 Nc4 Bc7 Kd5 Bf4 Ne5+ Bxe5 Kxe5 c4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767137994.817776
+  "updated": 1767138064.5314453
 }
