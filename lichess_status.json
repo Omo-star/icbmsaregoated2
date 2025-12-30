@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2982,
-  "opponent": "Caloguero",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 144,
-  "timestamp": "2025-12-30T21:13:42.963610",
+  "time_left": 112,
+  "timestamp": "2025-12-30T21:16:59.936301",
   "last_game": {
-    "result": "win",
-    "opponent": "Caloguero",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 d5 Ne5 bxc3 Nxc4 Qd4 O-O Qxc4 Nd6 Qd3 b6 Bf4 Qf6 Bg3 Re8 Rfe1 Bb7 c4 Ba6 Rac1 Rxe1+ Nxe1 Re8 Nf3 Bxc4 Qc3 Qxc3 Rxc3 b5 h3 Ne4 Re3 d6 Nd2 Bxd5 f3 Nf6 Rxe8+ Nxe8 Kf2 Bxa2 Ke3 a5 Ne4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 e5 Bg7 Kh2 b5 Rc6 Bxe5 Rxc5 b4 d4 Bd6 Rb5 g4 Kg2 Kf6 Rb8 Kf5 Rh8 Kg5 Rg8+ Kh4 Rh8 Kg5 Rg8+ Kf5 Re8 Kf6 Rg8 g3 Re8 Be7 Rc8 Bd6 Rb8 Kf7 Ra8 Ke7 Rb8 Kd7 Kh3 Be7 Kg2 h4 Rb7 Kc8 Rb5 Bd6 Kh3 Kd7 Kg2 Bf8 Rb8 Bd6 Ra8 Ke7 Rh8 Kd7 Rb8 Ke7 Rb7 Kd7 Rb5 Kc8 Kh3 Bf8 Kg2 Be7 Kh3 Bd6 Kg2 Be7 Kh3 Bd6 Kg2 Bf8 Kh3 Kd7 Kg2 Kc8 Kh3 Be7 Kg2 Kd8 Rb8+ Kd7 Kh3 Bd6 Rb7",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767129222.9637656
+  "updated": 1767129419.936453
 }
