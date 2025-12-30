@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "CloudNetBot",
+  "opponent": "ponnapalli",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 131,
-  "timestamp": "2025-12-30T22:31:44.686307",
+  "time_left": 108,
+  "timestamp": "2025-12-30T22:36:16.434547",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "ponnapalli",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Qc2 Na6 a3 Bg4 Ne5 Bxe5 dxe5 Nac5 f3 Nxd3 Qxd3 Nc5 Qd4 Nb3 Qxg4 Nxa1 Bh6 g6 Nc3 Nb3 Bxf8 Qxf8 cxd5 cxd5 Kh1 Qe7 f4 Qe6 Qe2 Rc8 h3 d4 Ne4 Qa6 Qf3 Rc2 Kh2 Nc5 Nf6+ Kg7 f5 Qe2 Ne8+ Kg8 fxg6 Qxf3 gxh7+ Kxh7 Rxf3 d3 Rxf7+ Kg8 e6 Nxe6 Rd7 Nc5 Nf6+ Kf8 Nh7+ Kg8 Nf6+ Kf8 Rd5 Kf7 b4 Kxf6 bxc5 d2 Kg3 Ke6 Rd8 Kf5 Kf3 Rxc5 Rxd2 Rc3+ Kf2 Rxa3 Rd8 Ra2+ Kf3 Ra3+ Kf2 b6 g4+ Kf4 Rf8+ Kg5 Rf5+ Kh6 h4 Rh3 h5",
+    "moves": "e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 Nf3 Nd7 h4 h6 h5 Bh7 Bd3 Bxd3 Qxd3 e6 Bf4 Qa5+ c3 Ngf6 O-O Nxh5 Nxh5 Qxh5 Ne5 Bd6 Qg3 Nxe5 dxe5 Bc7 Rad1 O-O Rd7 Rac8 Rfd1 Rfd8 R1d4 Bb6 Rd3 Rxd7 Rxd7 Rd8 Qd3 Rxd7 Qxd7 Qe2 Qe8+ Kh7 Bg3 Qe1+ Kh2 Bxf2 Bxf2 Qxf2 Qe7 b5 Qd6 Qxb2 Qd3+ g6 Qf3 Kg8 Qf6 Qd2 Qe7 Qf4+ Kg1 Qxe5 Qe8+ Kg7 Qxc6 a5 Qd7 Qxc3",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1767133904.68647
+  "updated": 1767134176.4346383
 }
