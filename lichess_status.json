@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "Licht94",
+  "rating": 3007,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 152,
-  "timestamp": "2025-12-30T09:13:14.309855",
+  "time_control": "TC: 10+0",
+  "time_left": 593,
+  "timestamp": "2025-12-30T09:14:17.989210",
   "last_game": {
     "result": "draw",
-    "opponent": "Licht94",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "opponent": "PositionalAI",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 c4 c6 e3 e6 Bd3 dxc4 Bxc4 c5 O-O a6 dxc5 Bxc5 Qxd8+ Kxd8 Be2 Ke7 b3 b6 Nbd2 Nbd7 Bb2 Bb7 a3 Rhc8 b4 Bd6 Nc4 Bc7 a4 Nd5 b5 Nc5 Nfd2 axb5 axb5 Na4 Ba3+ Ke8 Bf3 Nac3 Bb2 Nxb5 Bxg7 Nd6 Nxd6+ Bxd6 Ne4 Be7 Be5 Rxa1 Rxa1 Nb4 h3 Bd5 Nd6+ Bxd6 Bxd6 Nc2 Ra7 Bxf3 gxf3 Rc6 Be5 Ne1 Ra8+ Kd7 Ra7+ Ke8 Ra8+ Kd7 Ra7+ Ke8",
-    "duration": 332,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767085994.309958
+  "updated": 1767086057.9893274
 }
