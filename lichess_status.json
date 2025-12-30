@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2982,
-  "opponent": "ANDREY_HERO",
+  "opponent": "LoralyneJoan",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 145,
-  "timestamp": "2025-12-30T21:54:45.367152",
+  "time_left": 113,
+  "timestamp": "2025-12-30T21:57:25.302303",
   "last_game": {
     "result": "win",
-    "opponent": "ANDREY_HERO",
+    "opponent": "LoralyneJoan",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e3 d5 Be2 e5 Bf3 e4 Bg4 Bxg4 Qxg4 Nc6 Qxg7 Bxg7 Nf3 exf3 gxf3 Qg5 Rg1 Qxg1+ Ke2 Qxc1 Nc3 Qxa1 Nb1 Qxb1 d4 Qxc2+ Ke1 Nge7 f4 Rg8 f5 Bh8 f3 Rg1#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 b5 Bb3 Na5 O-O d6 d4 exd4 Re1 c5 Bd5 Bb7 c3 dxc3 Nxc3 Be7 Bxb7 Nxb7 Nd5 Nf6 Nxe7 Qxe7 e5 O-O exf6 Qxf6 Qd5 Rab8 Rb1 Na5 Bg5 Qg6 Be7 Rfe8 Bxd6 Rxe1+ Rxe1 Rd8 Bc7",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767131685.367222
+  "updated": 1767131845.3024561
 }
