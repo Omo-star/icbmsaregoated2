@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "CloudNetBot",
+  "opponent": "C0kval",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 166,
-  "timestamp": "2025-12-30T22:52:46.628742",
+  "time_left": 128,
+  "timestamp": "2025-12-30T22:55:39.293095",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "C0kval",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 e3 e6 c4 b6 b3 Bb7 Bb2 Bd6 Bd3 O-O Nc3 Nbd7 O-O Re8 Rc1 a6 Nd2 c5 cxd5 exd5 Ne2 Nf8 Ng3 g6 Nf3 Ne6 Ne5 cxd4 exd4 Nf4 Bc2 a5 Bb1 Ne4 Qg4 Qf6 Ne2 Nh5 Ng3 Nf4 Ne2 Nh5 Ng3 Nf4",
+    "moves": "d4 Nf6 Nf3 d5 Nc3 e6 Qd3 c5 dxc5 Na6 Qb5+ Bd7 Qxb7 Nxc5 Qxa8 Qxa8 Ne5 d4 Nxd7 Ncxd7 Nb5 Qc6 Nxd4 Bb4+ c3 Bxc3+ bxc3 Qxc3+ Kd1 Qxd4+ Kc2 O-O Bb2 Rc8+ Kb3 Rb8+ Kc2 Rxb2+ Kc1 Qd2#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767135166.6288333
+  "updated": 1767135339.2931545
 }
