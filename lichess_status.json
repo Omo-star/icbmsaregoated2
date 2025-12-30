@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "CloudNetBot",
+  "rating": 2984,
+  "opponent": "ANDREY_HERO",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2025-12-30T20:21:30.742397",
+  "time_left": 75,
+  "timestamp": "2025-12-30T20:24:41.685791",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "result": "win",
+    "opponent": "ANDREY_HERO",
+    "rating_before": 2984,
+    "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Re1 Bf5 Qb3 Qd7 Nc3 Nxc3 Bxf5 Qxf5 bxc3 b6 cxd5 cxd5 Qb5 Qd7 Rb1 Rd8 g3 Qxb5 Rxb5 Na6 Bd2 Nc7 Rb2 Rdb8 Reb1 b5 a4 Rb6 axb5 Rab8 Ra2 a6 Kf1 Rxb5 Rxb5 Rxb5 Ke2 Kf8 Ne1 Rb3 Kd3 Ke7 Nc2 Kd7 Ne3 Ra3 Rb2 g6 Kc2 Ra1 Rb6 Ra2+ Kd3 Be7 Nc2 Bd6 Ne3 Ra3 Ng4 Ne8 Rb7+ Nc7 Rb6 Ne8 Ne3 Bc7 Rb7 Ra5 c4 Ra3+ Bc3 Nd6 Rb2 dxc4+ Nxc4 Ra4 Nxd6 Kxd6 Rb7 Kc6 Ra7",
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 c4 Bg7 Be3 Nf6 Nc3 O-O Be2 d6 O-O Bd7 Qd2 Nxd4 Bxd4 Bc6 f3 Nd7 Be3 a5 b3 Rc8 Rab1 Nc5 h3 e6 Rfd1 Be5 Nb5 Bxb5 cxb5 Qe7 b6 Rfd8 Rbc1 Nd7 f4 Bf6 Rc7 Rxc7 bxc7 Rc8 e5 dxe5 Qxd7 Rxc7 Qxe7 Rxe7 fxe5 Bxe5 Bc4 Kg7 Bb6 a4 bxa4 Re8 Rd7 Kf6 Rxb7 Ra8 a5 Rxa5 Bd8+ Kg7 Bxa5 Bd4+ Kf1 Be5 Bxe6 Kf6 Bc4 Bc3 Bxc3+ Kf5 Rxf7+ Kg5 g3 h6 Be2 h5 Bd2#",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767126090.7425585
+  "updated": 1767126281.685848
 }
