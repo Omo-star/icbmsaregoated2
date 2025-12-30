@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "Tact1cal_Tal",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2025-12-30T23:16:44.622577",
+  "time_left": 178,
+  "timestamp": "2025-12-30T23:18:10.475287",
   "last_game": {
-    "result": "win",
-    "opponent": "Tact1cal_Tal",
+    "result": "draw",
+    "opponent": "CloudNetBot",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "c4 Nf6 Nc3 c5 Nf3 Nc6 g3 e6 Bg2 Be7 d4 d5 cxd5 exd5 O-O O-O Be3 c4 Ne5 h6 Rc1 Bf5 a3 Rc8 h3 Na5 g4 Bh7 f4 Nb3 Rc2 Na1 Rd2 Nb3 Rc2 Na1 Rd2 Nb3 Rc2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767136604.6226614
+  "updated": 1767136690.475374
 }
