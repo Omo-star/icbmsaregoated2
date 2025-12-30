@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2984,
-  "opponent": "BOT_Stockfish13",
+  "rating": 2983,
+  "opponent": "ANDREY_HERO",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 174,
-  "timestamp": "2025-12-30T20:38:48.003208",
+  "time_left": 119,
+  "timestamp": "2025-12-30T20:41:24.109858",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
-    "rating_before": 2984,
-    "rating_after": 2984,
+    "result": "win",
+    "opponent": "ANDREY_HERO",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Kh7 Ra4 Bg4 Rc4 Bxh5 Rc6 Rd6 Kf1 Rxc6 bxc6 Be8 Bd8 Bxc6 Bxc7 Ba4 Bxe5 b5 c3 dxc3 Bxc3 g5 Ke2 g4 Be1 Kg6 d4 Kg5 Ke3 Bd1 d5 b4 Bxb4 g3 e5",
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 e3 b6 Nbd2 Bb7 Bd3 Nbd7 O-O Be7 Qc2 c5 e4 dxc4 Nxc4 b5 Nce5 c4 Nxc4 bxc4 Bxc4 Bxe4 Bd3 Bxf3 gxf3 O-O Qa4 Nb6 Qa3 Bxa3 bxa3 Qxd4 Be3 Qxd3 Rfd1 Qg6+ Kf1 Nbd5 Rxd5 Nxd5 Rd1 Nxe3+ fxe3 Rac8 Rd2 Rfd8 Rxd8+ Rxd8 e4 Rd2 Ke1 Qg2 f4 Qe2#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767127128.0033197
+  "updated": 1767127284.1099217
 }
