@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3074,
-  "opponent": "DimaKush",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 86,
-  "timestamp": "2025-12-31T17:27:50.593915",
+  "time_left": 109,
+  "timestamp": "2025-12-31T17:30:59.170257",
   "last_game": {
-    "result": "win",
-    "opponent": "DimaKush",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 3074,
     "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "Nc3 d5 d4 Bf5 f3 e6 e4 dxe4 fxe4 Bg6 Bd3 Qh4+ g3 Qh5 Qxh5 Bxh5 Nh3 Bg4 Nf4 Bd6 h3 Bf3 O-O Bxf4 Bxf4 Bh5 Nb5 Na6 Bxc7 Ne7 g4 Bg6 Bg3 f5 Nd6+ Kd7 exf5 exf5 Bb5+ Ke6 Rfe1+ Kf6 Bh4#",
-    "duration": 163,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "Nf3 Nf6 c4 e6 g3 Be7 Bg2 O-O d4 d5 O-O c6 Qc2 dxc4 Qxc4 b5 Qc2 Bb7 Rd1 Nbd7 Nc3 Qb6 Ne5 Nxe5 dxe5 Nd5 Ne4 c5 Bg5 Nb4 Qc3 Bxg5 Rd6 Qc7 Nxg5 Bxg2 Kxg2 h6 Ne4 Rac8 Rad1 Nd5 Qc1 Qe7 Nxc5 a5 e4 Nb6 Rxb6 Rxc5 Qe3 b4 Ra6 Rfc8 Rdd6 Qc7 Qd4 Qb7 Rdb6 Qc7 Rd6 Qb7 Rab6 Qc7 b3 Rc2 Rd7 Qc3 Qxc3 bxc3 Rbb7 Rf8 a4 Rb2",
+    "duration": 194,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767202070.5939775
+  "updated": 1767202259.1703453
 }
