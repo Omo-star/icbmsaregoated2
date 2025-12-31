@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2984,
-  "opponent": "NimasBot",
+  "rating": 3012,
+  "opponent": "CodeThemOut",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 137,
-  "timestamp": "2025-12-31T08:35:13.538323",
+  "time_control": "TC: 10+0",
+  "time_left": 490,
+  "timestamp": "2025-12-31T08:39:28.110331",
   "last_game": {
     "result": "draw",
-    "opponent": "NimasBot",
-    "rating_before": 2984,
-    "rating_after": 2984,
+    "opponent": "CodeThemOut",
+    "rating_before": 3012,
+    "rating_after": 3012,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 a5 Bxc6 bxc6 Nxe5 Re8 Nb3 Bd6 Nxc6 Qd7 e5 Qxc6 exd6 a4 Nd4 Qxd6 Re1 Rxe1+ Qxe1 h6 h3 Bb7 Be3 Nd5 Bd2 Nb6 Nf5 Qd7 Qe5 f6 Qf4 Ra5 Ng3 Rb5 b3 axb3 axb3 Rxb3 f3 Rb2 Be3 Nd5 Qd4 Rc2 Re1 Qc6 Qg4 Qxc3 Bd2 Qxd2 Re8+ Kf7 Qd7+ Kg6 Qf5+ Kf7 Qd7+ Kg6 Qf5+ Kf7 Qe6+ Kg6 Qe4+ Kf7 Qe6+ Kg6 Qe4+ Kf7 Qe6+ Kg6",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "d4 Nf6 Bf4 g6 c3 d6 Nf3 Bg7 h3 b6 e3 Nbd7 Bc4 O-O Bf1 Ne4 Be2 Bb7 O-O Kh8 a4 e5 Bh2 a5 Nbd2 Nxd2 Nxd2 f5 Bb5 Qe7 Re1 Nf6 b4 exd4 exd4 Qf7 Qc2 Nh5 Bc4 Qd7 Bb5 Qd8 Be2 axb4 cxb4 Bxd4 Rac1 c5 Bf3 Bxf3 Nxf3 Bg7 Rcd1 f4 bxc5 bxc5 Re6 Rf6 Rdxd6 Qxd6 Rxd6 Rxd6 Kh1 Rda6 Qxc5 Rxa4 Qd5 Bf6 h4 R8a7 Qd6",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767170113.5384107
+  "updated": 1767170368.1104453
 }
