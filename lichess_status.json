@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2990,
-  "opponent": "Mustang_Chess",
+  "opponent": "Sayan_0330",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2025-12-31T00:45:09.819390",
+  "time_left": 147,
+  "timestamp": "2025-12-31T00:47:11.041717",
   "last_game": {
     "result": "win",
-    "opponent": "Mustang_Chess",
+    "opponent": "Sayan_0330",
     "rating_before": 2990,
     "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4 Nxd4 Ne7 Be3 Bd7 Nc3 Nxd4 Bxd7+ Qxd7 Qxd4 Nc6 Qc4 Ne7 O-O-O g6 Rhe1 Bg7 Bd4 Bxd4 Qxd4 O-O e5 Nc6 Qf4 Rfe8 Ne4 Kf8 Qh6+ Kg8 Nf6+ Kh8 Qxh7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Bxc6 dxc6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Nd3 Bf5 Nc3 Bxd3 cxd3 Qd7 Qf3 Nf5 Ne4 Nd4 Qe3 Nc2 Qf3 Nxe1 Qe2 Nxd3",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767141909.8194535
+  "updated": 1767142031.0418055
 }
