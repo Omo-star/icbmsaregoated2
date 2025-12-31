@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2990,
-  "opponent": "Sayan_0330",
+  "opponent": "la_muralla",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 147,
-  "timestamp": "2025-12-31T00:47:11.041717",
+  "time_left": 178,
+  "timestamp": "2025-12-31T00:48:06.820733",
   "last_game": {
-    "result": "win",
-    "opponent": "Sayan_0330",
+    "result": "draw",
+    "opponent": "la_muralla",
     "rating_before": 2990,
     "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Bxc6 dxc6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Nd3 Bf5 Nc3 Bxd3 cxd3 Qd7 Qf3 Nf5 Ne4 Nd4 Qe3 Nc2 Qf3 Nxe1 Qe2 Nxd3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 dxe5 Nxb5 a4 Nbd4 Nxd4 d5 exd6 Nxd4 Qxd4 Qxd6 Qe4+ Qe6 Qd4 Qd6 Qe4+ Qe6 Qd4 Qd6",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1767142031.0418055
+  "updated": 1767142086.8208299
 }
