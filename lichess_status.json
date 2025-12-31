@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "Classic_BOT-v2",
+  "rating": 3068,
+  "opponent": "OlympusBerserkCz",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 88,
-  "timestamp": "2025-12-31T15:37:35.908181",
+  "time_left": 14,
+  "timestamp": "2025-12-31T15:44:20.134303",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "result": "win",
+    "opponent": "OlympusBerserkCz",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 g6 Be3 Nf6 Nc3 Nc6 f3 h5 Bc4 Bd7 Qd2 Nxd4 Qxd4 Bg7 Qd3 a6 O-O-O b5 Bb3 Rb8 Bd4 a5 Nd5 a4 Nxf6+ Bxf6 Bxf6 exf6 Bd5 Qc7 f4 Ke7 Kb1 b4 f5 g5 Bc4 Rhc8 Rd2 Rb6 b3 axb3 Bxb3 Bb5 Qe3 Ra6 Rhd1 Ba4 e5 dxe5 Bxa4 Rxa4 Rd7+ Qxd7 Rxd7+ Kxd7 Qb3 Ra6 Qxf7+ Kd8 Qxh5 Rc3 Qh8+ Kc7 Qg7+ Kb8 Qf8+ Kb7",
-    "duration": 194,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 e6 g4 h6 Rg1 Nc6 Be3 g5 Qd2 Nd7 O-O-O a6 Be2 Be7 Kb1 Nxd4 Qxd4 Rg8 Rg3 b5 Rh3 Qa5 a3 Rb8 Rxh6 b4 axb4 Qxb4 Qxb4 Rxb4 b3 Ne5 Kb2 d5 Rd4 Rxd4 Bxd4 Nc6 Bh8 d4 Na4 Kd7 Kc1 Bd6 Bf6 Be5 Nb6+ Kc7 Nc4 Bf4+ Kd1 e5 f3 Rg6 Rxg6 fxg6 h3 a5 Nb2 Nb4 Bc4 Bd7 Be7 Bc6 Bxb4 axb4 Nd3 Bg3 Nxb4 Kd6 Nd3 Bd7 b4 Be8 b5 Kc7 Ke2 Bd7 Kf1 Be8 Kg2 Bh4 Nxe5 Be1 Nd3 Bh4 e5 Kb7 e6 Kb6 e7 Kc7 Ne5 Be1 b6+ Kxb6 Bf7 Ba4 e8=Q Bxe8 Bxe8 Bb4 f4 Kc7 fxg5 Bd2 Nf3 Bb4 h4 Bc3 Bxg6 d3 cxd3 Bh8 Be4 Bg7 g6 Kd6 g5 Kc5 h5 Kd6 h6 Bc3 g7 Bb2 g8=Q Kc7 Qa8 Bh8 Qc6+ Kd8 Qd6+ Kc8 Bc6 Bg7 Qd7+ Kb8 Qb7#",
+    "duration": 267,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767195455.9083335
+  "updated": 1767195860.1343668
 }
