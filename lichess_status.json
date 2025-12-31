@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3068,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 238,
-  "timestamp": "2025-12-31T13:05:19.999089",
+  "time_control": "TC: 2+1",
+  "time_left": 109,
+  "timestamp": "2025-12-31T15:18:32.497078",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Bd2 b6 a3 f6 Nh4 Nf8 b4 Be7 Nf5 Ne6 Nxe7+ Qxe7 Ne3 c5 Kh1 Qd6 Nf5 Qf8 h3 Bd7 f3 Rad8 Qe1 Nd4 Nxd4 cxd4 a4 c5 b5 h6 f4 Kh7 Qh4 exf4 Bxf4 Qg8 Bc7 Rc8 Bd6 Re6 Qf4 Kh8 Kh2 Qd8 e5 f5 Rf3 Rg6 Rg3 Rxg3 Qxg3 Kh7 a5 bxa5 e6 Bxe6 Qe5 Bd7 Bxc5 Qg5 Rxa5 Rxc5 Qxc5 Qf4+ Kh1 Qc1+ Kh2 Qf4+ Kg1 Qe3+ Kh2 Qf4+",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Bxe3 Nxe3 c5 Kh1 Ne6 b3 b6 Ng1 Nd4 Ne2 Qd6 Qd2 Be6 Rae1 Raf8 f4 Nxe2 fxe5 Ng3+ hxg3 fxe5 Rxf7 Rxf7 Kg1 Qd8 Rf1 Rxf1+ Nxf1 Qd4+ Kh2 c4 dxc4 Qxd2 Nxd2 Kf7 Nb1 Kf6 Kg1 Bf7 Kf2 Bg6 Kf3 Kg5 b4 Bh5+ Kf2 Bg6 Nd2 Be8 b5 c5 Nf3+ Kf6 g4 g5 Nd2",
+    "duration": 197,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767186319.9992034
+  "updated": 1767194312.4971719
 }
