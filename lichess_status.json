@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "la_muralla",
+  "rating": 2991,
+  "opponent": "C0kval",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 165,
-  "timestamp": "2025-12-31T00:36:34.227220",
+  "time_left": 132,
+  "timestamp": "2025-12-31T00:39:41.203689",
   "last_game": {
     "result": "win",
-    "opponent": "la_muralla",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "opponent": "C0kval",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nxe5 Qd4 Nf3 Qxe4+ Qe2 Qxe2+ Kxe2 Ne7 Kf1 Bg4 Kg1 Bxf3 a4",
+    "moves": "d4 d5 Nf3 Nf6 Nc3 c5 dxc5 Nc6 Nd4 e5 Nxc6 bxc6 b4 a5 Ba3 d4 b5 dxc3 Qxd8+ Kxd8 bxc6 Kc7 Rb1 Ne4 Rb6 Bxc5 Bxc5 Nxc5 Rb5 Rb8 a4 Rxb5 axb5 Rd8 e3 Rd2 Bc4 Rxc2 O-O Rd2 Bxf7 c2 f4 Rd1 b6+ Kxb6 Bh5 Rxf1+ Kxf1 c1=Q+ Kf2 Ne4+ Kf3 Bf5 Ke2 Qd2+ Kf3 Qf2#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1767141394.2273061
+  "updated": 1767141581.203753
 }
