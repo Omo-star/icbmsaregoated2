@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 3057,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 443,
-  "timestamp": "2025-12-31T10:47:47.975288",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2025-12-31T10:48:41.970769",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "opponent": "CloudNetBot",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Qa4+ Nc6 e3 O-O Qc2 Re8 Bd2 Bf8 Be2 b6 a3 Ne7 O-O dxc4 Bxc4 Bb7 e4 c5 dxc5 bxc5 Rfe1 Ng6 Bb5 Re7 e5 Nd7 Ne4 Ngxe5 Nxe5 Nxe5 Bg5 f6 Bf4 Qb6 Qxc5 Rc7 Qxb6 axb6 Re2 h6 h4 Kf7 Rd1 Bd5 Bxe5 fxe5 Nc3 Bb3 Rd3 Be7 g3 Rd8 Rxd8 Bxd8 Rxe5 Bf6 Re3 Bc2 Be2 Rc5 Bg4 Rc6 Bh5+ g6",
-    "duration": 600,
+    "moves": "e4 a6 d4 e6 Be3 d5 Nd2 c5 dxc5 Nf6 a3 Nc6 c3 Bd7 Qf3 Be7 Be2 h5 exd5 exd5 Rd1 O-O Qf4 Re8 Ngf3 Ng4 Nf1 Be6 h4 Bf6 Ng3 g6 Ne4 dxe4 Rxd8 Raxd8 Nh2 Nxe3 Qxe3 Ne5 O-O Bf5 g3 Kg7 Rd1 Nd3 Nf1 Re6 Kg2 Be7 b4 Bf6 Nd2 Nb2 Rb1 Na4 Nc4 Nxc3 Re1 Nxe2 Rxe2 Rd3 Qf4 e3 Nd6 Bg4 Rxe3 Rexe3 fxe3 Rd2+ Kf1 Rd1+ Kf2 Rd2+ Ke1 Rd1+ Kf2 Rd2+ Kf1 Rd1+ Kg2 Rd2+",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767178067.9754999
+  "updated": 1767178121.9709804
 }
