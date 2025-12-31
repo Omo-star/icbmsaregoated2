@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3057,
-  "opponent": "FayEFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2025-12-31T10:30:18.910877",
+  "rating": 3012,
+  "opponent": "GoblinAjedrezAI",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 369,
+  "timestamp": "2025-12-31T10:38:49.426102",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 3057,
-    "rating_after": 3057,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3012,
+    "rating_after": 3012,
     "rating_delta": 0,
-    "moves": "e4 e5 Ne3 a5 a4 Nhg6 Ng3 Nf4 Ngf5 N8e6 Qa2 Qa7 Qc4 Qa6 Qb5 f6 h4 Qxb5 axb5 g6 Nh6 Nd4 g3 Nh3 Nxg8 Rxg8 b6 cxb6 c3 Ne6 Kc2 b5 Bh2 Nxf2 Bf3 b4 Nd5 bxc3 dxc3 g5 Bg1 Nh3 Bg4 Nxg1 Rxg1 h5 Bxh5 gxh4 gxh4 Rh8 Be2 Rxh4 Rh1 Rxh1 Rxh1 Nf4 Nxf4 exf4 Rh4 f3 Bxf3 Ra6 Rh5 Re6 Kb3 b6 Rd5 Kc7 Rd4 Be7 Bg4 Rd6 Ka4 Rxd4+ cxd4 Kc6 d5+ Kc5 Bxd7 Bd6 b3 Bg3 Be8 Bc7 Bd7 Bh2 Be8 Bc7 Bc6 Bf4 Bd7 Bg3 Be8 Bh2 Bd7 Bb8 Be8 Be5 Bd7 Bc7 Bc6 Be5 Bd7 Bh2 Bc6 Bf4 Be8 Bh2 Bc6 Bc7 Bd7 Bf4 Bc6 Bh2 Be8 Bd6 Bc6 Bb8 Be8 Bg3 Bg6 Bf4 Be8 Bg3 Bd7 Be5 Bc6 Bd4 Be8 Bc3 Bc6 Be1 Bb5 Bd2 Bc6 Bf4 Be8",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Qc7 h3 Rd8 Qc2 Rc8 Qb1 Qe5 Bf1 Rd8 Rc3 Ne7 Nd4 Nf5 Nf3 Qb8 Qc2 Ne7 Nd4 Nc6 Nf3 Ne7 Rc4 Rc8 b4 Bc6 Nd4 Bd7 Rc5 Rxc5 Qxc5",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767177018.9109805
+  "updated": 1767177529.4262092
 }
