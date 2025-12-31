@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2990,
-  "opponent": "Alehkine_cat",
+  "opponent": "la_muralla",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2025-12-31T00:36:02.614782",
+  "time_left": 165,
+  "timestamp": "2025-12-31T00:36:34.227220",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
+    "result": "win",
+    "opponent": "la_muralla",
     "rating_before": 2990,
     "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bd6 d4 exd4 Nxd6 cxd6 Qxd4 Qf6 Nd2 Ne5 Qc3 c5 Rfe1 b5 f4 Ng4 Qxf6 Nxf6 e5 dxe5 Bxc5 exf4 Rxe8+ Nxe8 a4 bxa4 Rxa4 Bf5 c3 Rb8 Rd4 g6 Nc4 Be6 Na5 g5 Bxa7 Rxb2 Rd8 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 Nxe5 Qd4 Nf3 Qxe4+ Qe2 Qxe2+ Kxe2 Ne7 Kf1 Bg4 Kg1 Bxf3 a4",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767141362.6149082
+  "updated": 1767141394.2273061
 }
