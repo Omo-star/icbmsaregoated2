@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3055,
-  "opponent": "bot1e",
+  "rating": 2979,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2025-12-31T10:07:32.096764",
+  "time_control": "TC: 3+0",
+  "time_left": 115,
+  "timestamp": "2025-12-31T10:09:32.126638",
   "last_game": {
     "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3055,
-    "rating_after": 3055,
+    "opponent": "abdcebot",
+    "rating_before": 2979,
+    "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Qc2 c5 a3 Nc6 e3 d5 cxd5 Nxd5 Nf3 Be7 Bb5 O-O O-O Nxc3 dxc3 Qc7 Bc4 Na5 Bd5 c4 Rb1 Rd8 e4 Bg4 Be3 Rd7 Ng5 Bxg5 Bxg5 h6 Be3 Re8 h3 Be6 Rfd1 Bxd5 Rxd5 Rxd5 exd5 b6 Rd1 Nb7 Qa4 Nd6 f4 Qe7 fxe5 Qxe5 Bf2 b5 Qxa7 Qh5 Qd4 Re4 Qd2 Re5 Qd4 Re4 Qd2 Re5 Qd4 Re4 Qd2",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 Rhe1 h6 Bxc6 Bxc6 h4 Qh2 Qf2 Qd6 g4 b5 Ne2 Bd7 Qe3 b4 Qf4 a5 Qe5+ Qxe5 dxe5 e6 Rd2 f6 Nf4 fxe5 Nd3 Bb5 Nxe5 Rf4 b3 a4 bxa4 Bxa4 Red1 Rc8 Kb2 Kf6 Re1 h5 Rde2 Rd4",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767175652.096854
+  "updated": 1767175772.1267424
 }
