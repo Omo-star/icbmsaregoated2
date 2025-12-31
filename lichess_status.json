@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3073,
-  "opponent": "raalfe",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 71,
-  "timestamp": "2025-12-31T16:12:56.849129",
+  "time_left": 73,
+  "timestamp": "2025-12-31T16:18:18.669287",
   "last_game": {
-    "result": "win",
-    "opponent": "raalfe",
+    "result": "draw",
+    "opponent": "CloudNetBot",
     "rating_before": 3073,
     "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "c3 e5 Qb3 Nc6 e3 d5 c4 d4 c5 Bxc5 Bb5 Ne7 Nh3 Bxh3 O-O Bd7 Bc4 O-O Qd1 Nf5 h4 Qxh4 Be2 e4 f3 dxe3 dxe3 Nxe3 Qxd7 Ng4+ Rf2 Qxf2+ Kh1 Qg1#",
-    "duration": 154,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "Nf3 d5 c3 Nf6 d4 c6 Qc2 g6 Bf4 Bf5 Qb3 Qb6 Nh4 Nbd7 Nxf5 gxf5 e3 h5 Nd2 Bh6 Bxh6 Rxh6 c4 Qxb3 axb3 h4 Bd3 e6 b4 Rg6 g3 dxc4 Nxc4 Ke7 Na5 Rb8 Ke2 Rh6 Rhc1 hxg3 hxg3 Rh2 Rh1 Rxh1 Rxh1 Ne8 Rh8 Nd6 Rxb8 Nxb8 f3 f6 Nb3 e5 e4 fxe4 fxe4 Nd7 Ke3 Nf8 Nd2 exd4+ Kxd4 Nf7 Bc4 Ne5 Nb3 Kd6 Be2 Ne6+ Ke3 b6 Nd2 Ke7 Nf3 Nxf3 Bxf3 c5 b5 Nc7 e5",
+    "duration": 201,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767197576.849191
+  "updated": 1767197898.6693845
 }
