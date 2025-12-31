@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2978,
-  "opponent": "Alehkine_cat",
+  "opponent": "C0kval",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 140,
-  "timestamp": "2025-12-31T00:06:13.485315",
+  "time_left": 133,
+  "timestamp": "2025-12-31T00:09:40.134176",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
+    "result": "win",
+    "opponent": "C0kval",
     "rating_before": 2978,
     "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bd6 d4 exd4 Nxd6 cxd6 Qxd4 Qf6 Nd2 Ne5 Qc3 c5 Rfe1 b5 f4 Ng4 Qxf6 Nxf6 e5 dxe5 Bxc5 exf4 Rxe8+ Nxe8 a4 bxa4 Rxa4 Bf5 c3 Rb8 Rd4 g6 Nc4 Be6 Na5 g5 Bxa7 Rxb2 Rd8 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2",
+    "moves": "e4 e5 Bc4 Nf6 Nf3 Nxe4 Nxe5 d5 Qh5 g6 Qf3 f6 Bb5+ c6 d3 Nc5 Nxg6 hxg6 Qe3+ Kf7 d4 Bh6 f4 Re8 Bxc6 Nxc6 dxc5 Bxf4 Qxe8+ Qxe8+ Kf2 Qe4 Bxf4 Qxf4+ Kg1 Nd4 Nc3 Qe3+ Kf1 Bh3 gxh3 Re8 Rd1 Qf3+ Kg1 Re2 Nxe2 Nxe2#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767139573.4854205
+  "updated": 1767139780.1342378
 }
