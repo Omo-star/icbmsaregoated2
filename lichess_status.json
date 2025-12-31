@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2978,
-  "opponent": "C0kval",
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 133,
-  "timestamp": "2025-12-31T00:09:40.134176",
+  "time_left": 171,
+  "timestamp": "2025-12-31T00:11:25.592292",
   "last_game": {
     "result": "win",
-    "opponent": "C0kval",
+    "opponent": "FayEFish",
     "rating_before": 2978,
     "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Nf3 Nxe4 Nxe5 d5 Qh5 g6 Qf3 f6 Bb5+ c6 d3 Nc5 Nxg6 hxg6 Qe3+ Kf7 d4 Bh6 f4 Re8 Bxc6 Nxc6 dxc5 Bxf4 Qxe8+ Qxe8+ Kf2 Qe4 Bxf4 Qxf4+ Kg1 Nd4 Nc3 Qe3+ Kf1 Bh3 gxh3 Re8 Rd1 Qf3+ Kg1 Re2 Nxe2 Nxe2#",
+    "moves": "e4 c6 Nc3 d5 Nf3 dxe4 Nxe4 Nf6 Nxf6+ exf6 Bc4 Bd6 O-O O-O d4 Re8 Re1 Na6 Bxa6 bxa6 Rxe8+ Qxe8 Be3 Qe4",
     "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "timeout"
   },
-  "updated": 1767139780.1342378
+  "updated": 1767139885.5923793
 }
