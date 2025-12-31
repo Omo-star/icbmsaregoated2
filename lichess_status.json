@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3058,
-  "opponent": "tbhOnBot",
+  "rating": 2985,
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2025-12-31T08:39:54.374570",
+  "time_control": "TC: 5+0",
+  "time_left": 16,
+  "timestamp": "2025-12-31T08:47:22.697612",
   "last_game": {
-    "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3058,
-    "rating_after": 3058,
+    "result": "loss",
+    "opponent": "SF_Bot1nok",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rb8 Kf6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Ra8 Qf1 Bf6 Bxf4 Qa2 Bc1 Be7 Qh3 Qb1 Kg2 Rh8 e5 Qa2 Kg1 Qa1 Qg4 Qa2 Qg7 Re8 Qh7 Qe6 Kg2 Qc8 b5 cxb5 e6 Qd8 Qe4+ c6 Kh3 Rg8 Bf4 Qf8 Ne5 Qc8 Nd7 Re8 Qxd4 Bd8 Qg7 Re7 Qg8 Ka6 Nf6 Ka5 Bd6 Ra7 Ng4 Ra8 Qf7 g2 Kxg2 Bg5 e7 Qe8 Qxe8 Rxe8 f4 Bxe7 Rxe7 Ra8 f5 h3+ Kh2 b4 axb4+ Kb5 f6 Ra1 c4+ Kxc4 f7 Ra8 Re8 Ra2+ Kxh3 Ra3+ Ne3+ Kd4 Be5+ Kxe3 Bb2+ Kd3 Bxa3 Kc2 f8=Q Kb1 Qf2 b5 Re1#",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767170394.3746817
+  "updated": 1767170842.6976762
 }
