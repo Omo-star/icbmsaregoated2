@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "OlympusCz",
+  "rating": 3072,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 54,
-  "timestamp": "2025-12-31T16:57:06.305116",
+  "time_left": 98,
+  "timestamp": "2025-12-31T17:02:22.950710",
   "last_game": {
     "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 g3 f5 Nc5 Bxc5 bxc5 Rxc5 Rb8+ Kh7 h4 Kg6 Rf8 Ra5 Kh2 Bb3 h5+ Kh7 g4 Bc2 gxf5 Rxf5 Rxf5 exf5 Kg3 g5 hxg6+ Kxg6 Kf4 Bd3 Bd5 Kf6 Bc6 Ke6 Ba8 Kf6 Bc6 Ke6 Ba4 Bb1 Bb3+ Kf6 Bc4 Be4 Bf1 Bc2 Bg2 Bd3 Bb7 Kg7 Kg3 Kf6 Kf4 Bb1 Bc8 Bc2 Bb7 a5 Ba6 Be4 f3 Bc2 Bb5",
-    "duration": 229,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 O-O O-O Qc2 b6 Bf4 Bb7 Rd1 Nbd7 Nc3 dxc4 Nd2 Nd5 Nxc4 Nxf4 gxf4 Qc7 e3 Rac8 Rac1 Rfd8 h3 h6 a3 b5 Ne5 c5 Nxb5 Qb8 Qe2 a6 Nc3 cxd4 exd4 Rc7 Rd3 Nf6 Rcd1 Bxg2 Kxg2 Qb7+ Kg1 Nd5 Nxd5 Rxd5 a4 Bd6 Rc3 g6 Rcd3 Kg7 h4 h5 Rg3 Kh7 b3 Bf8 Qe4 Kg8",
+    "duration": 190,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767200226.3052075
+  "updated": 1767200542.9508328
 }
