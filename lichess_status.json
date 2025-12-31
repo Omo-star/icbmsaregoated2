@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2985,
-  "opponent": "Sayan_0330",
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2025-12-31T00:51:16.849421",
+  "time_left": 119,
+  "timestamp": "2025-12-31T00:55:28.212241",
   "last_game": {
-    "result": "win",
-    "opponent": "Sayan_0330",
+    "result": "draw",
+    "opponent": "Alehkine_cat",
     "rating_before": 2985,
     "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 Be2 Bg4 O-O Bxf3 Bxf3 Bb6 Rb1 Nd4 b4 Ne6 g3 a5 b5 Bd4 Ne2 Bc5 Nc3 Bd4 Nd5 a4 Kg2 O-O Bg4 Nxg4 Qxg4 c6 Ne3 g6 Nc2 h5 Qe2 Bc3 Bd2 Bxd2 Qxd2 d5 exd5 cxd5 Rbd1 dxc4 dxc4 Qxd2 Rxd2 Rfd8 Rfd1 Rxd2 Rxd2 Rc8 Ne3 Nd4 f4 f6 Nd5 Rxc4 Nxf6+ Kg7 Ne8+ Kf8",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767142276.8495004
+  "updated": 1767142528.2123308
 }
