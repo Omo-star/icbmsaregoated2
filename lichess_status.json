@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "Sayan_0330",
+  "rating": 3064,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2025-12-31T00:56:54.273380",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2025-12-31T07:38:58.347838",
   "last_game": {
-    "result": "win",
-    "opponent": "Sayan_0330",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "result": "draw",
+    "opponent": "FayEFish",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Bxf4 gxf4 Nc2 f3 Ra3 fxg2 Bxg2 Bxg2 Kxg2 Bh4 Qf3 d5 Qf4 Be7 Rf3 Rf8 a7 Rxf4 a8=Q+ Rf8 Rxf8+ Bxf8 Nb4 Qe6 a6 Qe4+ Kg1 Qe1+ Kg2 Qe4+ Kf1 Qh1+ Ke2 Qe4+ Kf1 Qb1+ Kg2 Qg6+ Kh1 Qe4+ Kg1 Ne6 Qxd5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767142614.2734597
+  "updated": 1767166738.3479433
 }
