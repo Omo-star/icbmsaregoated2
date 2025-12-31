@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3068,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "Imusing",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 74,
-  "timestamp": "2025-12-31T15:26:39.146453",
+  "time_left": 78,
+  "timestamp": "2025-12-31T15:29:56.125111",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "Imusing",
     "rating_before": 3068,
     "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 d6 Nc3 g6 Nf3 Nbd7 e4 Bg7 Be2 O-O O-O e5 Be3 Ng4 Bg5 Bf6 Bxf6 Ngxf6 Qc2 c6 Rad1 Qe7 Rfe1 a6 b4 b6 h3 Bb7 Bf1 Rfe8 a3 b5 Qd2 Kg7 Qb2 Kg8 dxe5 Nxe5 Nd2 Nh5 Re3 Rab8 a4 bxa4 Nxa4 c5 Rb3 Bc6 b5 axb5 cxb5 Bd7 Nc3 Be6 Nd5 Bxd5 exd5 Nf6 f4 Ned7 Nc4 Nh5 b6 Nxf4 Qf2 Nh5 Re3 Qd8 Rxe8+ Qxe8 b7 Qd8 Nxd6 Qf8 Ne4 Qe7 Qf3 Rxb7 d6 Qe5 Bc4 Qf4",
-    "duration": 204,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 a6 Bxc6 bxc6 Nxe5 d6 Nxc6 Qe7 Nxe7 Bxe7 c4 c6 Nc3 Be6 O-O d5 cxd5 Nxd5 exd5 cxd5 Qa4+ Bd7 Qd4 O-O Nxd5 Be6 Nxe7+ Kh8 Bh6 Rfc8 Qxg7#",
+    "duration": 157,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767194799.1466053
+  "updated": 1767194996.125173
 }
