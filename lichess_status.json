@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "CloudNetBot",
+  "rating": 2990,
+  "opponent": "la_muralla",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2025-12-31T00:31:28.345381",
+  "time_left": 178,
+  "timestamp": "2025-12-31T00:32:01.310723",
   "last_game": {
     "result": "win",
-    "opponent": "CloudNetBot",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "opponent": "la_muralla",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 e5 Nc3 Bc5 Nf3 Qh4 Nxh4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "noStart"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767141088.3454628
+  "updated": 1767141121.3108003
 }
