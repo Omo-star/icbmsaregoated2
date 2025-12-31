@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2978,
-  "opponent": "FayEFish",
+  "opponent": "Tact1cal_Tal",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 124,
-  "timestamp": "2025-12-31T00:02:07.511932",
+  "time_left": 180,
+  "timestamp": "2025-12-31T00:02:15.772447",
   "last_game": {
-    "result": "draw",
-    "opponent": "FayEFish",
+    "result": "win",
+    "opponent": "Tact1cal_Tal",
     "rating_before": 2978,
     "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Qxe1 b6 Nxf6+ Qxf6 d3 Bb7 Qe3 c5 Qf4 Qxf4 Bxf4 Nf5 a4 f6 a5 g5 Bd2 Re8 c4 h5 axb6 axb6 b4 Kf7 Ra7 Rb8 b5 h4 f4 Kg6 fxg5 fxg5 Bc3 d6 Be2 Re8 Bg4 Re7 Bb2 Rf7 Be2 Ne3 Bc1 Nc2 Bd1 Nd4 Bb2 Nf5",
+    "moves": "d4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767139327.5120344
+  "updated": 1767139335.7725205
 }
