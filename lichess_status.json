@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 3011,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 10,
-  "timestamp": "2026-01-01T08:05:51.211235",
+  "time_control": "TC: 10+0",
+  "time_left": 589,
+  "timestamp": "2026-01-01T08:09:31.269895",
   "last_game": {
-    "result": "loss",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "result": "draw",
+    "opponent": "DarkOnBot",
+    "rating_before": 3011,
+    "rating_after": 3011,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d6 h3 Na5 Bc2 c5 d4 cxd4 cxd4 exd4 Nxd4 Re8 b4 Nc4 Nc6 Qc7 Nxe7+ Qxe7 Nd2 d5 Nxc4 dxc4 e5 Qe6 Bd2 Nd5 Qh5 h6 Rad1 Bb7 Bf5 Qc6 Be4 Rad8 Bc1 Qe6 a3 Bc8 Kh2 Ne7 Bc2 Qb6 Be3 Qc6 f4 Bb7 Qe2 Rxd1 Rxd1 Nd5 Bd2 Qc7 Qg4 Bc8 Qf3 Rd8 Be1 Ne7 Rxd8+ Qxd8 f5 Qd5 Qxd5 Nxd5 g4 Bb7 Kg3 Ne3 Bb1 Nd1 f6 g5 Bd2 Bc8 Be4 Nb2 h4 gxh4+ Kxh4 Nd3 Bc3 Kf8 Bf3 Nf4 Kg3 Nd3 Bc6 Kg8 Kf3 Nc1 Bd5 Nd3 Ke3 Kf8 Bc6 Kg8 Bf3 Nc1 Bd2 Nb3 Be1 Kf8 Bc6 Nc1 Bd2 Nb3 Bc3 Nc1 Ke4 Nd3 Bd4 Kg8 Be3 Ne1 Bxh6 Bxg4 Kd4 Nf3+ Kd5 Bc8 Bc1 c3 Ke4 Nh4 Kd4 Ng6 Be3 Kh7 Be4 Kg8 Bh6 Kh7 Bc1 Kg8 e6 Bxe6 Bb7 c2 Bxa6 Bd7 Bb7 Nh4 Be4 Bf5 Bc6 Kh7 Bxb5 Nf3+ Kd5 Kg6 a4 Kxf6 a5 Ke7 a6 Bh3 Bd3 Bg2 Bxc2 f5 Kc5 Ne5 Kb6 Kd6 Bf4 Ke6 Bxe5 Kxe5 Bxf5 Kf4 Be4 Bf1 a7 Be2 a8=Q Bd1 Bd5 Kg4 Be4 Bb3 Qd8 Kf4 Qf6+ Kxe4 b5 Kd5",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Ra1 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bf3 Ra2 Kh3 Ra5 Kg2 Ra7 Rc2 Nf6 Re2 Ra5 Re5 Rb5 Re2 Ne4 Kh3 Ra5 Kg2 Ra2 Kh2 Ra8 Kh3 Ra5 Kg2",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767254751.211307
+  "updated": 1767254971.2699943
 }
