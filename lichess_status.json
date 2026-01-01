@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "BotsFanClub",
+  "rating": 3074,
+  "opponent": "Bright_Vega",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
   "time_left": 11,
-  "timestamp": "2026-01-01T16:17:14.355226",
+  "timestamp": "2026-01-01T16:19:51.985370",
   "last_game": {
-    "result": "draw",
-    "opponent": "BotsFanClub",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "result": "win",
+    "opponent": "Bright_Vega",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Bd3 g6 Nd2 Ng7 Nf3 Bf5 Bxf5 Nxf5 Qd2 Qd7 Ne5 Bxe5 dxe5 Ng7 Bh6 Re8 Re1 c5 h4 Ne6 f4 d4 h5 Qd5 f5 gxf5 Qd3 f4 Qf5 d3 Qg4+ Kh8 Qf5 Kg8 Qg4+ Kh8 Qf5 c4 Qxf7 Qc5+ Kf1 Qe7 Qf5 b5 a3 a6 Re4 Qd8 Re1 Qe7 Re4 Qd8 Re1 Qh4 Qf7 Qe7 Qf5 Qh4 Qf7 Qe7 Qf5 a5 Re4 a4 Re1 Qa7 Bg5 Nxg5 Qxg5 Qg7 Qh4 h6 e6 Qg5 Qf2 Qf6 Kg1 Rxe6 Rxe6 Qxe6 Qxf4 Kg8 Qg3+ Kf7 Qc7+ Qe7 Qf4+ Qf6 Qb8 Qc6 Qf4+ Qf6 Qb8 Ke6 Qxb5 Qf4 Qe8+ Kf6 Qf8+ Kg5 Qe7+ Kxh5 Qe8+ Kg5 Qe7+ Qf6 Qc5+ Qf5 Qe3+ Kh5 Qe8+ Kg4 Qe3 Qd5 Qh3+ Kg5 Qg3+ Kh5 Qh3+ Kg6 Qg3+ Kh5 Qh3+ Kg6 Qg3+ Kf7 Qf2+ Ke7 Qa7+ Kd6 Qb6+ Kd7 Qa7+ Kc6 Qa6+ Kd7 Qa7+ Kc8 Qa6+ Kc7 Qa7+ Kc6 Qa6+ Kc7 Qa7+ Kd6 Qb8+ Kc5 Qc7+ Kb5 Qb8+ Ka6 Qc8+ Kb6 Qb8+ Qb7 Qd6+ Qc6 Qb4+ Ka6 Kf2 h5 g3 Qb6+ Kf1 Qc6 Kf2 Qb6+ Kf1 Qxb4 cxb4 Kb7 Ke1 Kc7 Kd2 Kd6 Kc1 Kc7 Kd2 Kd6 Kd1 Kc7 Kd2 Kd7",
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 exd4 Qxd4 Na6 Nf3 Bc5 Qe5+ Be7 O-O O-O Nc3 Re8 Qd4 Nc5 Qd1 Nce4 Nxe4 Nxe4 Nd2 Nxd2 Qxd2 a5 b3 Bb4 Qd4 Rxe2 Be3 Qe7 Bh3 a4 bxa4 g6 Qd1 Rxe3 fxe3 Ra5 Rb1 Rh5 Kg2 Bc5 Qd3 Re5 Rf3 f5 Kh1 h5 a5 d6 Bg2 Kh7 Rb3 Qc7 Qc3 Qf7 Rb1 Re4 Qb3 Qxc4 Rff1 Qe6 a6 b5 Qxe6 Rxe6 e4 Re7 Rbe1 Ra7 e5 b4 exd6 Bxd6 Re8 Bxa6 Rd1 Be7 Bxc6 Bc4 Ra8 Rc7 Bd5 Be2 Re1 Bd3 Rb8 h4 Rb7 Rxb7 Bxb7 Bf8 Rd1 Bc2 Rd7+ Kh6 gxh4 b3 axb3 Bxb3 Bf3 Bg7 Rd6 Kh7 h5 g5 h3 Be5 Rc6 Bd4 Kg2 Ba2 Rd6 Be5 Rg6 Bf4 Rb6 Bc4 Rb4 Bd3 h4 Kg7 Rb7+ Kh6 Rb6+ Kh7 hxg5 Bxg5 Kf2 Kh8 Be2 Bc2 Bf3 Bd3 Bd5 Kh7 Rb7+ Kh6 Bf3 Bh4+ Ke3 Bc2 Rb6+ Kg7 Kd2 Ba4 Bc6 Bd8 Rb7+ Kh6 Bxa4 Kxh5 Rb5 Bg5+ Ke2 Kg6 Kf3 Kg7 Rxf5 Bd2 Kg4 Bc3 Kh5 Bf6 Bb3 Kf8 Rxf6+ Ke7 Rc6 Kd8 Be6 Ke7 Kg6 Kf8 Kf6 Ke8 Rc8#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767284234.355387
+  "updated": 1767284391.9854355
 }
