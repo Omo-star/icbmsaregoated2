@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "ArasanX",
+  "rating": 3071,
+  "opponent": "jpg-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 53,
-  "timestamp": "2026-01-01T08:54:51.592866",
+  "time_control": "TC: 1+1",
+  "time_left": 29,
+  "timestamp": "2026-01-01T08:57:51.958831",
   "last_game": {
-    "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "win",
+    "opponent": "jpg-bot",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qf3 Bg5 a4 Bg6 g3 Bxf4 Qxf4 a5 h4 h5 Nf3 Bf5 b3 Bc2 Qc1 Be4 Ng5 Bg6 Re5 Qb6 Qa3 Qd8 Nh3 Ne4 Nf4 Nxc3 Nxg6 fxg6 Qe7 Qxe7 Rxe7 b5 Rc7 bxa4 bxa4 Nxa4 Rxc6 Nb2 Bg2 Kf8 Rb6 Na4 Rb3 Rc8 Rf3+ Ke7 Ra3 Nc3 Rxa5 Ne2+ Kf1 Nxd4 Bxd5 Rd8 Bc4 Nf5 Re5+ Kf8 Ba2 Ra8 Be6 Re8 Re4 Ra8 Kg2 Ra6 Bc4 Ra4 Bd3 Rxe4 Bxe4 Ne7 Bd3 Kf7 Bc4+ Kf6 f4 Nf5 Bb5 Nd6 Bc6 Ke6 Ba8 Kf5 Bd5 Kf6 Ba2 Nf5 Bb1 Ne3+ Kf3 Nf5 Kf2 Nd4 Bd3 Nf5 Ba6 Nd6 Be2 Ne4+ Kf3 Nc5 Bd1 Nb7 Kf2 Nd6 Be2 Ne4+ Kf3 Nc5 Kg2 Ne6 Kh3 Nc5 Bd1 Ne6 Bc2 Nc5 Kg2 Ne6 Be4 Nd4 Bd3 Nf5 Ba6 Ne3+ Kf2 Nf5 Be2 Nh6 Bf3 Ng4+ Kg1 Kf5 Kg2 Ne3+ Kf2 Ng4+ Ke2 Nf6 Bg2 Ne4 Ke3 Nd6 Bh3+ Kf6 Bf1 Nf5+ Kf2 Ne7 Bg2 Nc8 Bb7 Nd6 Ba8 Ke6 Kg2 Nf5 Bc6 Ne7 Be4 Kf6 Bb1 Nd5 Kf2 Nc3 Bc2 Nd5 Bd3 Ne7 Bc2 Nf5 Bb3 Ke7 Bd5 Kf6 Be6",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Re1 Kc8 b3 a5 h3 Bb4 Bb2 Be6 Re4 Ne7 Ne2 Bd5 Rg4 Ng6 Ng5 h5 Rg3 b5 a3 Bc5 Rd1 b4 axb4 axb4 Rxd5 cxd5 Nxf7 Rf8 e6 Ne7 Nc1 Ra6 Nd3 Ba7 Rf3 Re8 Ng5 c5 Bxg7 Ra2 Bf6 Nc6 Nf4 d4 Nxh5 Rxc2 g3 Rc3 Ng7 Rf8 Rf5 c4 bxc4 d3 Ne4 d2 Nxd2 Rxg3+ Kf1 Rxg7 Ne4 Rg6 Ke2 b3 Kd3 b2 Bxb2 Rxf5 Nd6+ Kd8 Nxf5 Rxe6 h4 Kd7 h5 Ne5+ Kc2 Rf6 Bxe5 Rxf5 f4 Rxh5 Kd3 Bc5 Bb2 Rh3+ Kc2 Be3 Be5 Rh4 Ba1 Bxf4 Kd3 Bg5 Bb2 Rh3+ Kc2 Kc6 Bd4 Be3 Ba1 Kc5 Kb3 Bd4+ Ka2 Bxa1 Kb1 Kxc4 Kc2 Rd3 Kb1 Rc3 Ka2 Rb3 Kxa1 Kd3 Ka2 Kc2 Ka1 Ra3#",
+    "duration": 198,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767257691.5930252
+  "updated": 1767257871.9588954
 }
