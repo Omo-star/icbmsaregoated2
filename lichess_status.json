@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "Bright_Vega",
+  "rating": 3075,
+  "opponent": "BotsFanClub",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 15,
-  "timestamp": "2026-01-01T16:27:51.041253",
+  "time_left": 11,
+  "timestamp": "2026-01-01T16:30:12.838205",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bright_Vega",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "result": "win",
+    "opponent": "BotsFanClub",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c6 Nf3 a6 g3 Nf6 Bg2 dxc4 a4 e6 Ne5 c5 Na3 cxd4 Naxc4 Bc5 Bd2 Nd5 Nd3 Ba7 O-O O-O Qc2 Nd7 Rfc1 h6 b4 N7b6 b5 Nxc4 Qxc4 Bb6 bxa6 Rxa6 Nb4 Ba5 Nxd5 exd5 Qxd4 Bxd2 Qxd2 Be6 Qb4 Qd7 Rc5 b6 Rb5 Rc8 h4 Qa7 Qb3 Bd7 Rb4 Rc4 Bxd5 Rxb4 Qxb4 Rxa4 Rxa4 Bxa4 Bf3 Be8 Qd6 Qa1+ Kg2 Qf6 Qxf6 gxf6 Bd5 Kf8 Kf3 Bd7 Ke4 Ke7 Kd4 f5 e3 f6 Bf3 Be6 Be2 Kd6 Bd3 Bd7 Bc2 Be6 Kc3 Kc5 Kb2 b5 Bb1 Kb6 Bd3 b4 Bb1 Bd7 Ba2 Ka5 Bb3 Bc8 Kc2 Kb5 Kb2 Kc5 Bg8 Kb5 Bf7 Bd7 Kb3 Bc8 Kc2 Kc5 Kb2 Bd7 Ba2 Kb6 Bb3 Kc5 Bf7 Kb6 Kc2 Kb5 Ba2 Ka4 Kb2 Kb5 Bb3 Kc5 Bf7 Bc8 Bh5 Be6 Be2 Bc4 Bd1 Be6 Bc2 Kd6 Bd1 Kc5 Bc2 Kb6 Kb1 Kb5 Kb2 Kc5 Bd3 Kd6 Be2 Kc5 Bd1 Kd5 Bb3+ Kd6 Bxe6 Kxe6 Kb3 Kd5 Kxb4 Ke4 Kc5 Kf3 Kd6 Kxf2 Ke6 Kxg3 h5 f4 exf4 Kxf4 Kxf6 Ke4 Kg7 Kf5 Kxh6 Kf6 Kh7 Kf7 h6 Kf8 Kg6 Kg8 Kf6 Kh8 Kf5 Kg8 Kg4 Kh8 h7 Kxh7",
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 a6 Ne2 Qb6 Qc1 Be7 c3 f6 h4 O-O h5 Qc7 Kf2 fxe5 fxe5 Ncxe5 dxe5 Nxe5 Kg1 Ng4 h6 e5 hxg7 Rf7 Rh5 Rxg7 Nh2 Kh8 a4 Bd7 Nxg4 Bxg4 Rh2 Rag8 b4 Bf3 Kh1 Be4 Bxc5 Bxc5 bxc5 Qxc5 Qe1 Qc6 Qf2 Rg5 a5 Rf5 Qb6 Qd7 Qh6 Rg6 Qh4 Qg7 Kg1 Rg4 Qe1 Qg5 Qc1 Qe7 Qa3 Qg5 Qc1 Qe7 Rh3 Qg7 g3 Qe7 Qe3 Rf3 Qa7 Rf8 Rh2 Bf3 Bh3 Re4 Rb1 Rf7 Bg2 Rxe2 Bxf3 Rxf3 Rxe2 Rxg3+ Kf1 Qf8+ Rf2 Qc8 Re1 d4 Qb6 Rg6 Qb2 Qh3+ Ke2 Rg2 Kd1 Qd3+ Rd2 dxc3 Rxd3 cxb2 Rb3 Kg7 Re2 Rg1+ Kc2 b1=B+ Rxb1 Rxb1 Kxb1 Kf6 Rh2 Kg7 Kc2 Kg6 Kd3 h5 Ke4 Kg5 Kxe5 Kg4 Rxh5 Kxh5 Kd6 Kh4 Kc7 b5 axb6 a5 b7 a4 b8=Q Kg3 Qe8 Kf3 Qxa4 Ke2 Kd6 Kd2 Ke5 Ke2 Ke4 Ke1 Ke3 Kf1 Qg4 Ke1 Qe2#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767284871.0413175
+  "updated": 1767285012.838271
 }
