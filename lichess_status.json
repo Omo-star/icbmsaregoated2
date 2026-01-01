@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3081,
-  "opponent": "Bright_Vega",
+  "rating": 3084,
+  "opponent": "HostFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 17,
-  "timestamp": "2026-01-01T15:46:24.774695",
+  "time_left": 44,
+  "timestamp": "2026-01-01T15:48:05.211335",
   "last_game": {
-    "result": "win",
-    "opponent": "Bright_Vega",
-    "rating_before": 3081,
-    "rating_after": 3081,
+    "result": "draw",
+    "opponent": "HostFish",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 Be7 Qd2 a6 Bd3 b5 Qf2 c4 Be2 b4 Na4 Nb6 Nc5 a5 O-O O-O c3 a4 Bd2 a3 b3 bxc3 Bxc3 Rb8 Kh1 Nd7 bxc4 Nb6 Rac1 dxc4 Rfd1 Nd5 Bd2 c3 Bxc3 Nxf4 Bc4 Nd5 Bd2 Rb2 Nd3 Rb6 Bb3 Rxb3 axb3 Qb6 Bg5 Ba6 Bxe7 Ncxe7 Nc5 Bb5 Ra1 Ra8 Nd2 Nf5 Nc4 Bxc4 bxc4 Nde3 Qf3 Qa7 g4 Nxd1 gxf5 Nb2 fxe6 fxe6 Nxe6 Rb8 Rxa3 Qf7 Qxf7+ Kxf7 Nf4 Nxc4 Ra7+ Kg8 Kg2 Re8 Nh5 Nxe5 Rxg7+ Kf8 dxe5 Rxe5 Rxh7 Rf5 h3 Kg8 Rh6 Rg5+ Kh1 Ra5 h4 Ra2 Ng3 Kf7 h5 Kg7 Rb6 Ra5 h6+ Kh8 Ne4 Kh7 Kg2 Kh8 Kf3 Ra4 Ng5 Ra8 h7 Re8 Kg4 Kg7 Rb7+ Kf6 Nf7 Kg7 h8=Q+ Rxh8 Nxh8+ Kf6 Nf7 Ke6 Rc7 Kd5 Kf4 Kd4 Ne5 Kd5 Rc6 Kd4 Kf3 Kd5 Ke3 Kxe5 Rc8 Ke6 Rd8 Ke5 Rd4 Kf5 Re4 Kg5 Rf4 Kg6 Kf3 Kg5 Kg3 Kg6 Kh4 Kh6 Rg4 Kh7 Kh5 Kh8 Kg6 Kg8 Rf4 Kh8 Rf8#",
+    "moves": "e4 a6 d4 e6 Nf3 d5 exd5 exd5 Bd3 Bd6 O-O Ne7 c3 O-O Bg5 Nbc6 Bh4 f6 Re1 Bf5 Bg3 Bxd3 Qxd3 Bxg3 hxg3 Qe8 Qc2 Qf7 Nbd2 Rae8 Nf1 Nc8 Ne3 Nd6 b3 Ne7 c4 c6 Rac1 h5 a4 g6 Qd3 Rd8 Rcd1 Nef5 Nh4 Nxe3 Rxe3 dxc4 bxc4 Nxc4 Re2 c5 Nxg6 Rxd4 Ne7+ Kh8 Qc2 Rxd1+ Qxd1 Ne5 Nf5 Qg6 Nh4 Qg4 Qd6 Kg7 Rxe5 fxe5 Qxe5+ Kg8 Qxc5 Qxa4 Qg5+ Kh7 Qe7+ Kg8 Qg5+ Kh7 Qxh5+ Kg8 Qg5+ Kh7 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8 Qg5+ Kh7 Qh5+ Kg8 Qd5+ Rf7 Qg5+ Kf8 Qd8+ Kg7 Qg5+ Kf8 Qd8+ Kg7 Qg5+ Kf8",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767282384.774754
+  "updated": 1767282485.2115104
 }
