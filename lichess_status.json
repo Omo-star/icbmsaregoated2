@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3072,
-  "opponent": "AetherBot",
+  "opponent": "AnIndianAnand",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 32,
-  "timestamp": "2026-01-01T16:38:32.570235",
+  "time_left": 29,
+  "timestamp": "2026-01-01T16:40:56.025610",
   "last_game": {
-    "result": "win",
-    "opponent": "AetherBot",
+    "result": "draw",
+    "opponent": "AnIndianAnand",
     "rating_before": 3072,
     "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Kg8 Kh2 Qb7 d4 Bxc4 dxc5 Bxe2 Qxe2 Nxc5 Nh4 d5 Qg4 Ne6 Nh5 Ng5 f4 exf4 Qf5 Re7 Qg6 Rf7 Nf5 Kh8 h4 Nxe4 Bxf6 Qxb2 Qxf7 Rg8 Ne7 Nxf6 Nxf6 Qxc2 Qxg8#",
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qc2 Bb7 Bg2 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nc3 d5 cxd5 exd5 O-O Nbd7 b4 Re8 Qb2 c6 Rfd1 a5 b5 c5 e3 Rc8 Rac1 h5 dxc5 Rxc5 Na4 Rc4 Rxc4 dxc4 Nc3 Qc8 Rd4 Bxf3 Bxf3 Ne5 Bg2 Nd3 Qc2 Rd8 Nd5 Nxd5 Bxd5 Nb4 Qxc4 Nxd5 Qxc8 Rxc8 Rxd5 Rc1+ Kg2 Ra1 Rd2 a4 Kf3 g6 h4 Kg7 e4 Rb1 Rd4 a3 Ra4 Rxb5 Rxa3 Rb2 Ra7 b5 e5 Kf8 Ra8+ Ke7 Ra6 b4 Ke3 b3 axb3 Rxb3+ Kf4 Kf8 Ra8+ Kg7 Ra4 Rb2 f3 Rb7 g4 Kh6 gxh5 Kxh5 Kg3 Rb5 Ra8 Kh6 f4 Rb3+ Kg4 Rb1 Ra3 Rg1+ Rg3 Ra1 h5 f5+ Kh3 Kxh5 Re3 g5 e6 Ra8 e7 Re8 Kg3 gxf4+ Kxf4 Kg6 Re6+ Kf7 Kxf5 Rh8 e8=Q+ Rxe8 Rxe8 Kxe8",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767285512.570299
+  "updated": 1767285656.0256782
 }
