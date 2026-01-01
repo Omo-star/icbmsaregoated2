@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "ArasanX",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 274,
-  "timestamp": "2026-01-01T11:08:26.158155",
+  "rating": 3075,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 15,
+  "timestamp": "2026-01-01T11:12:26.480817",
   "last_game": {
-    "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "result": "win",
+    "opponent": "Bharat_royals",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Qh4 g3 Qh3 Bxd5 cxd5 Be3 Bxd3 Nd2 Qf5 Qxf5 Bxf5 Nb3 b4 Rad1 Be6 Bc5 Bxc5 Nxc5 bxc3 bxc3 Rfe8 Re3 a5 Nxe6 fxe6 Rb1 Kf7 Rb6 g5 Rc6 Kf6 a4 h5 h3 Rab8 Kg2 Kf5 Rc7 Kf6 Rc6 Kf5 Ra6 Kf6 Kf3 Rb2 Kg2 g4 hxg4 hxg4 Rxa5 Rf8 Kf1 Rh8 Ra6 Rh1+ Kg2 Rbb1 Raxe6+ Kf7 Re7+ Kg6 R3e6+ Kf5 Re5+ Kf6 R7e6+ Kf7 Re7+ Kg6 R5e6+ Kf5 Re5+ Kf6 f4 Rhg1+ Kh2 Rh1+ Kg2 Rhg1+ Kf2 Rbf1+ Ke2 Rf3 R5e6+ Kf5 Re5+ Kf6 R5e6+ Kf5 Re3 Rgxg3 Rxf3 Rxf3 Re5+ Kxf4 Rxd5 Rxc3 a5 Ke4 Rd1 Ra3 a6 g3 a7 Rxa7 Kf1 Kf3 Kg1 Ra6 Kh1 Rh6+ Kg1 g2 Rd3+ Ke2 Rd8 Kf3 Rh8 Rxh8",
-    "duration": 600,
+    "moves": "g4 Nb6 f4 g6 Nb3 f5 gxf5 gxf5 Rxg8 Qxg8 Ne3 Qe6 Qh3 Bg6 d3 Nc6 O-O-O Nd4 Kb1 Nxb3 axb3 Bd4 Bd2 a5 c4 a4 Nc2 Bg7 b4 a3 Nxa3 Na4 d4 Bxd4 Bc1 Bg7 Qb3 Nb6 Be3 Bf7 Rc1 Ra8 Rc2 Bf6 Bc5 h5 Qd3 Kb8 Bg2 Ra4 Bh3 Qc6 Bxf5 d6 Be4 Qe8 Bxb6 cxb6 Bd5 Bxd5 Qxd5 Rxb4 e4 Qc6 Qg8+ Qc8 Qf7 Qh3 Qe8+ Qc8 Qxh5 Rb3 Ka2 Rh3 Qf7 Rh8 Rg2 b5 cxb5 Qc5 Qb3 Bd4 h4 d5 Rg5 e5 fxe5 dxe4 e6 Qc8 b6 Bf2 e7 Re8 Nb5 Rxe7 Nd6 Qd8 Rg8 Bxb6 Rxd8+ Bxd8 Qc4 Bb6 Qc8+ Ka7 Qg8 e3 Nc8+ Kb8 Nxe7+ Kc7 Nd5+ Kc6 Qe6+ Kc5 Qxe3+ Kxd5 Qxb6 Ke5 h5 Kf5 h6 Kg5 h7 Kh5 Qg1 Kh4 h8=Q#",
+    "duration": 258,
     "bot_color": "white",
-    "termination": "stalemate"
+    "termination": "mate"
   },
-  "updated": 1767265706.158244
+  "updated": 1767265946.480912
 }
