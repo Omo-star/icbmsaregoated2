@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3084,
-  "opponent": "Ivan16_om55",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 53,
-  "timestamp": "2026-01-01T16:07:53.300633",
+  "time_left": 50,
+  "timestamp": "2026-01-01T16:08:33.947143",
   "last_game": {
-    "result": "win",
-    "opponent": "Ivan16_om55",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 3084,
     "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 Nc6 Nc3 Nxd4 Qxd4 e5 Qxe5+ Ne7 cxd5 Qxd5 Nxd5",
+    "moves": "d4 d5 c4 e6 Nf3 Nf6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 a3 Ba5 Qxd4 Rd8 Qc5 Qxc5 Nxc5 Nd7 Nb3 Bb6 Be2 Nf6 Ne5 Bd7 Nxd7 Rxd7 a4 a5 Rfd1 Rxd1+ Bxd1 Kf8 Kf1 Ne4 Bf3 Nd6 Ke2 Rb8 Rc3 Bd8 Nc5 Ke7 Kd1 b5 axb5 Rxb5 Nd3 f6 h3 Rb8 Kc2 Rc8 Kb3 Rb8+ Kc2 Rc8 Kb3 Rb8+ Kc2",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767283673.3007154
+  "updated": 1767283713.947283
 }
