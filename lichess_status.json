@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "tbhOnBot",
+  "rating": 3007,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 124,
-  "timestamp": "2026-01-01T10:57:07.420567",
+  "time_control": "TC: 10+0",
+  "time_left": 274,
+  "timestamp": "2026-01-01T11:08:26.158155",
   "last_game": {
     "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "opponent": "ArasanX",
+    "rating_before": 3007,
+    "rating_after": 3007,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Kf6 Kh2 Re1 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kg2 Ra1 Rc2 Ra5 Re2 Ra7 Rc2 Nf6 Re2 Ra5 Re7 Rb5 Re2 Ra5 Kh2 Ne4 Bg2 Rb5 Bf1 f6 Rc2 Ra5 f3 Nd6 Rg2+ Kf7 Be2 Ra1 Rf2 Rc1 Bf1 Nc8 Bh3 Ne7 Re2 Rb1 Kg3 Ra1 Kf2 Rb1 Kg2 Rd1 Kf2 Rc1 Re1 Rc2+ Re2 Rc1 Kg2 Ng6 Kg3 Ne7 Kf2 Rb1 Kg2 Ra1 Kg3 Rc1 Kh2 Ra1 Re3 Rc1 Re2",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Qh4 g3 Qh3 Bxd5 cxd5 Be3 Bxd3 Nd2 Qf5 Qxf5 Bxf5 Nb3 b4 Rad1 Be6 Bc5 Bxc5 Nxc5 bxc3 bxc3 Rfe8 Re3 a5 Nxe6 fxe6 Rb1 Kf7 Rb6 g5 Rc6 Kf6 a4 h5 h3 Rab8 Kg2 Kf5 Rc7 Kf6 Rc6 Kf5 Ra6 Kf6 Kf3 Rb2 Kg2 g4 hxg4 hxg4 Rxa5 Rf8 Kf1 Rh8 Ra6 Rh1+ Kg2 Rbb1 Raxe6+ Kf7 Re7+ Kg6 R3e6+ Kf5 Re5+ Kf6 R7e6+ Kf7 Re7+ Kg6 R5e6+ Kf5 Re5+ Kf6 f4 Rhg1+ Kh2 Rh1+ Kg2 Rhg1+ Kf2 Rbf1+ Ke2 Rf3 R5e6+ Kf5 Re5+ Kf6 R5e6+ Kf5 Re3 Rgxg3 Rxf3 Rxf3 Re5+ Kxf4 Rxd5 Rxc3 a5 Ke4 Rd1 Ra3 a6 g3 a7 Rxa7 Kf1 Kf3 Kg1 Ra6 Kh1 Rh6+ Kg1 g2 Rd3+ Ke2 Rd8 Kf3 Rh8 Rxh8",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "stalemate"
   },
-  "updated": 1767265027.420704
+  "updated": 1767265706.158244
 }
