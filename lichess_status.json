@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "NimasBot",
+  "rating": 2978,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 103,
-  "timestamp": "2026-01-01T12:18:01.738754",
+  "time_control": "TC: 3+1",
+  "time_left": 117,
+  "timestamp": "2026-01-01T12:23:51.818987",
   "last_game": {
     "result": "draw",
-    "opponent": "NimasBot",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "opponent": "YoBot_v2",
+    "rating_before": 2978,
+    "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra5 Bg2 Ra2 Bf1 Kf6 Kh3 Kg6 f3 Nf6 Kg3 Nd7 Kg2 Kg7 Kg3 Nb6 Bh3 Na4 Kf2 Kf6 Kf1 Rxb2 Rxb2 Nxb2 Ke2 Na4 Kd2 Nb6 Kd1 Nc8 Ke2 Ne7 Kf2 Ng6 Kg3 Ke6 Bf1 Kd6 Be2 Kc6 Bd1 Kb5 Bc2 Nf8 Bd1 Ka5 Kf2 Ne6 Ke3 Nf8 Kf2 Ng6 Kg3 Kb5 Bc2 Ne7 Bd1 Nc8 Kf2 Ne7 Kg3 Nc8 Kf2 Ka5 Bc2 Ne7 Kg3 Ng8 Kf2 Ne7 Kg3 Kb6 Ba4 Nc8 Kf2 Kb7 Be8 Nd6 Bd7 Kc7 Ba4 Nc8 Bc2 Nd6 Ba4 Nb7 Be8 Nd8 Ba4 Kd6 Ke3 Ne6 Bc2 Ke7 Kf2 Kf6 Ke3 Nf8 Kf2 Ne6 Kg3 Nc7 Ba4 Ke7 Kf2 Ne6 Bc6 Kd6 Be8 Ke7 Bc6 Kd6 Be8 Nd8 Bb5 Ke7 Ba4 Kd6 Bb5 Ke6 Ke2 Ke7 Ba4 Kd6",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 d5 c4 c5 cxd5 Nf6 e4 Nxe4 dxc5 Qa5+ Bd2 Nxd2 Qxd2 Qxd2+ Nxd2 g6 Rc1 Bh6 Bb5+ Nd7 c6 bxc6 dxc6 Nb6 Ngf3 O-O O-O a6 Be2 Bg4 Rc2 Bf5 Rc5 Na4 Re5 Ra7 g4 Bxg4 Re4 Bxf3 Nxf3 Nb6 Ne5 Bg7 Bf3 Rd8 Rfe1 a5 R4e3 a4 Re4 Nd5 Nd7 e6 Rc4 Rc7 Re2 Bf8 Rd2 Rdc8 Bxd5 exd5 Nf6+ Kg7 Nxd5 Rxc6 Rxa4 Rc1+ Kg2 Re8 Nc3 h5 Re4 Rxe4 Nxe4 Be7 Nc3 Bg5 Re2 f5 h3 Kf7 Nd5 h4 b4 Rd1 Ne3 Rb1 Nc2 Rb2 a4 Be7 Nd4 Rxe2 Nxe2 Bxb4 Nd4 Bc3 Nb5 Ba5 Na3 Ke6 Nc4 Bc7 a5 Kd7 a6 Kc8 Ne3 Kb8 Nd5 Bd6 Nb6 Bf4 Kf3 Bc1 Nd5 g5 Ne3 Bxe3 fxe3 Ka7 e4 fxe4+",
+    "duration": 304,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767269881.7388723
+  "updated": 1767270231.8190918
 }
