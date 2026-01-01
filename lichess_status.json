@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "Bright_Vega",
+  "rating": 3080,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 58,
-  "timestamp": "2026-01-01T15:57:23.442547",
+  "time_left": 28,
+  "timestamp": "2026-01-01T15:58:45.498479",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bright_Vega",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "win",
+    "opponent": "AetherBot",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 c6 Nf3 d5 d3 e6 Be3 Nd7 Nbd2 Ngf6 Bf4 Nh5 Be3 Nhf6 Bf4 Nh5 Be3 Nhf6 e5",
+    "moves": "c3 d5 e3 Nc6 Nf3 e5 d4 e4 Nfd2 f5 c4 Nf6 Nc3 Be6 Be2 Bb4 a3 Bd6 cxd5 Nxd5 Qb3 Na5 Qa4+ Nc6 Nxd5 Bxd5 Qb5 Be7 Bc4 Bxc4 Nxc4 Qc8 d5 a6 Qb3 Nd8 Bd2 Nf7 Rc1 Ra7 Nb6 Qd8 Qa4+ Kf8 Nd7+ Kg8 Qd4 b6 Bc3 Bf8 Nxf8 Qxf8 f3 exf3 O-O Nd6 Rxf3 h5 e4 Nxe4 Rxf5 Nf6 Qh4 Qe7 Re1 Qc5+ Bd4 Qc4 Rxf6 Qxd5 Re8+ Kh7 Re5 Qxe5 Bxe5 gxf6 Qxf6 c5 Qxh8+ Kg6 Qf6+ Kh7 Qg5 h4 Qh5+ Kg8 Qg6+ Kf8 Bd6+ Re7 Qf6+ Kg8 Qxe7 c4 Be5 a5 Qg7#",
     "duration": 60,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1767283043.4426389
+  "updated": 1767283125.498555
 }
