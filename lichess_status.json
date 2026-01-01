@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "AetherBot",
+  "rating": 3084,
+  "opponent": "Ivan16_om55",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 35,
-  "timestamp": "2026-01-01T16:07:12.988225",
+  "time_left": 53,
+  "timestamp": "2026-01-01T16:07:53.300633",
   "last_game": {
     "result": "win",
-    "opponent": "AetherBot",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "opponent": "Ivan16_om55",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Ne5 Bxe5 Bxe5 Ng5 Bg2 Nh3+ Bxh3 Bxh3 b4 f6 b5 Qe6 Bf4 Qf5 Be3 Re7 f3 Rae8 Kf2 g5 Qb1 Re4 Qd1 h4 gxh4 g4 Rc1 R4e7 Qe2 Rxe3 Qxe3 Rxe3 Rxe3 Qf4 Rh1 Kf7 Rd1 Qxh2+ Ke1 gxf3 Rxf3 Bg4 Rd2 Qg1+ Ke2 Qh1 Ra2 Qxf3+ Ke1 Qe3+ Kf1 Bh3+ Rg2 Qd2 h5 Qxg2+ Ke1 Bg4 a5 Qe2#",
+    "moves": "d4 d5 c4 Nc6 Nc3 Nxd4 Qxd4 e5 Qxe5+ Ne7 cxd5 Qxd5 Nxd5",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1767283632.988293
+  "updated": 1767283673.3007154
 }
