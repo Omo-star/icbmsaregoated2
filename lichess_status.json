@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "AnIndianAnand",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 41,
-  "timestamp": "2026-01-01T15:29:06.051396",
+  "time_left": 26,
+  "timestamp": "2026-01-01T15:30:54.135014",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "AnIndianAnand",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Bh6 Rf5+ Kg6 Re5 Bf8 Kh2 g4 Kg2 b5 Re8 Kf7 Re5 b4 Rf5+ Ke8 Rxf4 b3 fxg4 b2 Rf1 hxg4 Kg3 Kd7 Kxg4 Kd6 Rh1 c6 Kf5 Bg7 dxc6 Kxc6 e5 Kd5 e6 Kd6 d4 Bxd4 e7",
+    "moves": "d4 Nf6 c4 e6 g3 d5 Nf3 Bb4+ Bd2 Be7 Bg2 O-O O-O c6 Qc2 b6 Nc3 Nbd7 e4 dxc4 e5 Nd5 Ne4 h6 g4 c5 g5 cxd4 gxh6 Qc7 hxg7 Kxg7 Nxd4 Rh8 f4 Bb7 Nb5 Bc5+ Kh1 Qd8 Ng5 Rh5 Qe4 Qh8 h3 Bc6 f5 Rh4 Qf3 Nxe5 Bc3 Nxc3 Qxc3 Kf6 Bxc6 Kxg5 Qg3+ Rg4 Qh2 exf5 hxg4 Nxg4 Qxh8 Rxh8+ Kg2 Rh2+ Kf3 Rxb2 Rab1 Ne5+ Kg3 f4+ Kh3 Rxb1 Rxb1 Nxc6 Rc1 Ne5 Nxa7 f3 Nb5 Kf4 a3 f6 Rc3 Ke4 Kh2 f5 Kg3 f4+ Kh3 Bd4 Rc1 f2 Kg2 Kd3 a4 c3 Kf1 Nf3 Nxd4 Nxd4 Kxf2 c2 Ra1 Nb3 Rh1 c1=Q Rxc1 Nxc1 Kf3 Na2 Kxf4 Nc3 Ke5 Nxa4 Kf6 b5 Kf5 b4 Kg6 b3 Kh7 b2 Kg7 b1=Q Kf6 Nc5 Kg7 Ne6+ Kh7 Kd4+ Kh8 Qb7 Kg8 Qg7#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767281346.0515852
+  "updated": 1767281454.1350732
 }
