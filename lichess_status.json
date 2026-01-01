@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3078,
-  "opponent": "HostFish",
+  "opponent": "BotsFanClub",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 34,
-  "timestamp": "2026-01-01T16:01:10.357543",
+  "time_left": 8,
+  "timestamp": "2026-01-01T16:03:20.107271",
   "last_game": {
-    "result": "draw",
-    "opponent": "HostFish",
+    "result": "win",
+    "opponent": "BotsFanClub",
     "rating_before": 3078,
     "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Nd4 Nd5 Nce2 Nb4 c4 Rg8 Ng3 Kb7 Kh2 Re8 f4 Bc8 Nh5 Na6 g4 Bb4 Kg2 Nc5 Bc1 Nd7 Ng3 g6 Ne4 Rgf8 Nc2 Nc5 Nxb4 Nxe4 Nd3 h5 Kf3 f5 exf6 Nxf6 Nf2 g5 f5 hxg4+ hxg4 Nxg4 Nxg4 Bxf5 Kg3 Bc2 Rxf8 Rxf8 Rd7 Bxb3 c5 Be6 Re7 Bxg4 Kxg4 b5 Bxg5 bxa4 Re4 Ka6 Rxa4 Kb5 Ra1 a4 Rb1+ Kc4 Rc1+ Kd5 Rd1+ Kc4 Rc1+ Kb3 Rb1+ Kc3 Ra1 Kb4 Rb1+ Kc3 Ra1 Kb3 Rb1+ Kc3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O a4 Bb7 d3 d6 Nbd2 Na5 Ba2 c5 Nf1 bxa4 Ne3 Bc6 Nh4 Rb8 Nef5 Kh8 Nxe7 Qxe7 Nf5 Qc7 Qd2 Ne8 Qg5 f6 Qh5 g6 Qh6 Ng7 Ne3 c4 Nxc4 Nxc4 Bxc4 Bb5 Bd5 Qxc2 Be3 Qc7 Rac1 Qe7 d4 Ne6 Bxe6 Qxe6 Rc7 Qg8 Qh3 Rbc8 Re7 Rce8 Rb7 Rb8 Rc7 Rbc8 Rec1 Rxc7 Rxc7 Rf7 Rc8 Rf8 Rc1 g5 d5 Qf7 Bd2 Kg7 Ba5 Qg6 Qe3 f5 h3 fxe4 Rc7+ Kg8 Bd2 g4 h4 h6 Kh2 Bd3 Qe1 Rf5 Qe3 Rf8 Qb6 Qf6 Kg3 Bf1 Rc1 e3 Qxe3 Bb5 Rc7 h5 Qa7 Bf1 Bg5 Qf5 Qe3 Bb5 Bh6 Rf7 Qg5+ Qxg5 Rc8+ Qd8 Rxd8+ Kh7 Bf8 Kg6 Bxd6 Kf6 Bb4 Rd7 Rf8+ Kg7 Rf5 Rxd5 Rg5+ Kf7 Rxh5 Be2 Rh7+ Kg6 Rc7 Bb5 Bc3 Kh5 f3 gxf3 gxf3 Be2 Re7 Kg6 Bxe5 Rd3 Rg7+ Kf5 Rg5+ Ke6 Kf2 Bxf3 h5 Bxh5 Rxh5 Rd5 Rh6+ Kxe5 Rxa6 Rb5 Ke1 Kd4 Rxa4+ Kd3 Ra8 Kc2 Rh8 Rxb2 Rg8 Kd3 Rh8 Rg2 Rf8 Re2+ Kf1 Rc2 Rh8 Ke3 Rg8 Rh2 Rf8 Rc2 Rh8 Rc1+ Kg2 Kf4 Rg8 Rc2+ Kh3 Ra2 Rh8 Ra3+ Kh4 Ke5 Rg8 Ra1 Rf8 Rg1 Re8+ Kd5 Rf8 Rg7 Rh8",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1767283270.3577123
+  "updated": 1767283400.1073637
 }
