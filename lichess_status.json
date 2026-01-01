@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "FayEFish",
+  "rating": 3076,
+  "opponent": "MEGA-NOOB-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 137,
-  "timestamp": "2026-01-01T08:04:16.785221",
+  "time_control": "TC: 1+0",
+  "time_left": 10,
+  "timestamp": "2026-01-01T08:05:51.211235",
   "last_game": {
-    "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "result": "loss",
+    "opponent": "MEGA-NOOB-BOT",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bxe3 fxe3 Ne7 d4 Ng6 Bd3 O-O O-O a5 b5 c6 h3 Re8 Qd2 Bd7 Rac1 Rc8 d5 h6 Qe1 Rb8 Nd2 c5 Nf3 b6 Be2 Nh7 Qg3 Rf8 Kf2 h5 Ke1 h4 Qh2 f5 exf5 Bxf5 g4 hxg3 Qxg3 e4 Nd2 Qg5 Qxg5 Nxg5 Rg1 Nf3+ Nxf3 exf3 Bxf3 Ne5 Be2 Bxh3 Ne4 Rbd8 Kd2 Bf5 Ng5 g6 e4 Bc8 Rg3 Kg7 Rcg1 Rf6 Nf3 Nxf3+ Bxf3 Rh8 Ke3 Bd7 Be2 Rh6 Bd3 Be8 R1g2 Rf8 e5 dxe5 Rg5 Kf6 Rf2+ Kxg5 Rxf8",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d6 h3 Na5 Bc2 c5 d4 cxd4 cxd4 exd4 Nxd4 Re8 b4 Nc4 Nc6 Qc7 Nxe7+ Qxe7 Nd2 d5 Nxc4 dxc4 e5 Qe6 Bd2 Nd5 Qh5 h6 Rad1 Bb7 Bf5 Qc6 Be4 Rad8 Bc1 Qe6 a3 Bc8 Kh2 Ne7 Bc2 Qb6 Be3 Qc6 f4 Bb7 Qe2 Rxd1 Rxd1 Nd5 Bd2 Qc7 Qg4 Bc8 Qf3 Rd8 Be1 Ne7 Rxd8+ Qxd8 f5 Qd5 Qxd5 Nxd5 g4 Bb7 Kg3 Ne3 Bb1 Nd1 f6 g5 Bd2 Bc8 Be4 Nb2 h4 gxh4+ Kxh4 Nd3 Bc3 Kf8 Bf3 Nf4 Kg3 Nd3 Bc6 Kg8 Kf3 Nc1 Bd5 Nd3 Ke3 Kf8 Bc6 Kg8 Bf3 Nc1 Bd2 Nb3 Be1 Kf8 Bc6 Nc1 Bd2 Nb3 Bc3 Nc1 Ke4 Nd3 Bd4 Kg8 Be3 Ne1 Bxh6 Bxg4 Kd4 Nf3+ Kd5 Bc8 Bc1 c3 Ke4 Nh4 Kd4 Ng6 Be3 Kh7 Be4 Kg8 Bh6 Kh7 Bc1 Kg8 e6 Bxe6 Bb7 c2 Bxa6 Bd7 Bb7 Nh4 Be4 Bf5 Bc6 Kh7 Bxb5 Nf3+ Kd5 Kg6 a4 Kxf6 a5 Ke7 a6 Bh3 Bd3 Bg2 Bxc2 f5 Kc5 Ne5 Kb6 Kd6 Bf4 Ke6 Bxe5 Kxe5 Bxf5 Kf4 Be4 Bf1 a7 Be2 a8=Q Bd1 Bd5 Kg4 Be4 Bb3 Qd8 Kf4 Qf6+ Kxe4 b5 Kd5",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767254656.7853794
+  "updated": 1767254751.211307
 }
