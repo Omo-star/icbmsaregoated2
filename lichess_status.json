@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2978,
-  "opponent": "FayEFish",
+  "rating": 3006,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 107,
-  "timestamp": "2026-01-02T07:41:51.949067",
+  "time_control": "TC: 10+0",
+  "time_left": 427,
+  "timestamp": "2026-01-02T07:48:43.438393",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 2978,
-    "rating_after": 2978,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3006,
+    "rating_after": 3006,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Be7 Ne5 Nd7 Nxd7 Bxd7 Be2 O-O O-O Be8 Re1 Rc8 h3 f6 Nb3 e5 Bh2 c4 Nd2 Bg6 a4 Kh8 b3 cxb3 Qxb3 Na5 Qb2 Bd6 Rad1 Qc7 Nf3 e4 Bxd6 Qxd6 Nd2 f5 Qb5 b6 c4 Be8 Qxd5 Qb4 Nf1 Bxa4 Rb1 Qe7 c5 Bb3 Qd6 Qxd6 cxd6 Rfd8 g4 g6 Ng3 f4 exf4 Rxd6 Rbc1 Rxc1 Rxc1 Rc6 Re1 Rd6 Rc1",
-    "duration": 180,
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Be7 e3 O-O Bd3 Re8 Nf3 h6 Bf4 c5 dxc5 Bxc5 O-O Nc6 h3 a6 Rc1 Ba7 Ne2 Ne4 Bb1 Ng5 Nc3 Be6 Re1 Rc8 a3 b5 Qe2 d4 exd4 Nxf3+ Qxf3 Nxd4 Qg3 Bb8 Bxb8 Rxb8 Qd3 Nf5 Qc2 g6 Rcd1 Qc7 Qc1 Kh7 Bc2 Rbc8 Bxf5 Bxf5 Rxe8 Rxe8 Qd2 Re6 f3 h5 Qf2 Rc6 Rd2 Rc4 Rd4 a5 Rxc4 Qxc4 Qe3 b4 Ne2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767339711.9491758
+  "updated": 1767340123.4384887
 }
