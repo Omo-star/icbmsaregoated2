@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3012,
-  "opponent": "caissa-x",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 234,
-  "timestamp": "2026-01-02T12:01:25.903954",
+  "rating": 3083,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 20,
+  "timestamp": "2026-01-02T12:05:50.864280",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 3012,
-    "rating_after": 3012,
+    "opponent": "PetersBot",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 d3 Nf6 Nf3 Nc6 Be2 d5 exd5 Nxd5 O-O Bd6 c3 O-O Re1 h6 Nbd2 Bf5 Bf1 Re8 Nc4 Qf6 Qb3 Nb6 Nxd6 Qxd6 Be3 Nd5 d4 exd4 Bxd4 Bg4 Nd2 Nxd4 cxd4 Nb6 Qc3 Rad8 Ne4 Qg6 Nc5 Rxe1 Rxe1 Nd5 Qa3 b6 Nd3 a5 Ne5 Qg5 Nc6 Rd6 Re8+ Kh7 Ne5 Be6 h4 Qxh4 Bd3+ g6 Nc4 Rd8 Bxg6+ Kxg6 Ne5+ Kh7 Rxe6 Nf4 Qe7 Nh3+ gxh3 Rg8+ Ng4 Rxg4+ hxg4 Qxg4+ Kh2 Qxe6 Qxc7 Qf6 f4 Qf5 Kg3 Qg6+ Kf2 Qf5 Kg3 Qe6 Qc3 Qg6+ Kf3 Qe6 Kg3 Qg6+ Kf2 Qe4 Qe3 Qxe3+ Kxe3 Kg6 Kf3 Kf5",
-    "duration": 600,
+    "moves": "f4 f5 Nb3 Nb6 g3 d5 d3 g6 e4 dxe4 dxe4 Qxd1+ Rxd1 e5 fxe5 fxe4 Nfd2 Nfd7 Re1 Nxe5 Nxe4 O-O-O O-O-O Bd5 Nbc5 Bc6 Rxd8+ Kxd8 Rd1+ Kc8 Bd4 Bg7 Bg2 Bh6+ Kb1 Nec4 b3 Ne3 Bxe3 Bxe3 Bh3+ Kb8 Nf6 Rf8 Nfe4 Re8 Nf6 Rf8 Nfe4 Rh8 Re1 Nd5 Nd7+ Bxd7 Bxd7 Bd4 Rf1 Rd8 c4 Ne7 Bg4 h6 Nf6 a6 Nd7+ Ka7 Rf7 Nf5 Bxf5 gxf5 Nf6 c6 Kc2 Bg1 h3 Bc5 Nd7 Bd6 g4 fxg4 hxg4 Ba3 Rh7 Re8 Kd3 Re6 Rf7 a5 Rf5 Bb4 Nf6 Kb6 Ne4 Rg6 Rf4 Ba3 Ke2 Rg7 Nf2 Bc1 c5+ Ka6 Rc4 Bb2 Kf3 Bf6 Ne4 Be5 Ra4 Rf7+ Ke2 Rg7 Kf3 Rd7 Ke2 Rd8 Ke3 Rg8 Kf3 Rf8+ Ke3 Rf1 Nd6 Bh2 Ke2 Rf8 a3 Bxd6 cxd6 Re8+ Kf2 Rd8 Rd4 Kb6 Rd1 c5 d7 Kc7 Rc1 b6 b4 Rxd7 bxc5 b5 Rh1 Rf7+ Ke3 Rf6 Kd3 Kc6 Rh5 Rf3+ Kd4 Rf4+ Kc3 Rf3+ Kd4 Rf4+ Kc3 Rxg4 Rxh6+ Kxc5 Rh5+ Kb6 Rh6+ Kc5 Rh5+ Kb6 Rh6+ Kc5",
+    "duration": 230,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767355285.904041
+  "updated": 1767355550.8644128
 }
