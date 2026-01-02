@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3084,
-  "opponent": "AlPhAbEtACeta",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-01-02T12:17:05.180019",
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 48,
+  "timestamp": "2026-01-02T12:20:03.166494",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
+    "opponent": "YoBot_v2",
     "rating_before": 3084,
     "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Bg5 dxc4 Nc3 a6 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 Be2 Bh6 Bxh6 Rxh6 Bf3 Bxf3 Qxf3 Rxf6 Qc6 Rb8 O-O Rb6 Qe4 Rg6 g3 Rd6 b3 Nf6 Qe5 b4 Ne2 c3 a3 Rd5 Qe3 Rh5 Qf3 Rgh6 h4 Nd5 axb4 Rxh4 gxh4 Qxh4 Rfc1 Qh2+ Kf1 Rf6 Qg3 Qh1+ Qg1 Qf3 Ra5 Ne3+ Ke1 Ng2+ Kf1 Ne3+",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "f4 d5 g3 Nc6 Bg2 f6 d4 e6 Nd2 Nd6 e4 Qe8 Qe2 O-O-O e5 Nf5 Ndf3 h5 O-O-O Na5 Kb1 Bh7 Bf2 Nc4 Nd3 Qb5 Ka1 Nh6 Rhe1 Be4 Rc1 Nf5 Bg1 Be7 b3 Na5 Kb2 Qa6 a4 Bxd3 Qxd3 Qxd3 cxd3 Kd7 Bh3 Nc6 Bxf5 exf5 Nh4 fxe5 Nxf5 exf4 Rxc6 Bb4 Rc3 Rde8 Re5 Bxc3+ Kxc3 Rxe5 dxe5 fxg3 hxg3 g6 Nd4 g5 b4 h4 g4 b6 b5 h3 Nf3 h2 e6+ Ke7 Bxh2 Rh3 Bxc7 Rxf3 Bb8 Rf8 Bxa7 Ra8 Bxb6 Rxa4 Kb3 Ra1 Kb4 Rd1 Kc5 Kxe6 Kc6 Rxd3 Ba5 d4 b6 Rb3 b7 Rxb7 Kxb7 Kd5 Be1 d3 Bd2 Ke4 Bxg5 Kf3 Kc8 Kxg4 Bh6 d2 Bxd2",
+    "duration": 173,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767356225.1801784
+  "updated": 1767356403.1665578
 }
