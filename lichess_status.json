@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3007,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3082,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 212,
-  "timestamp": "2026-01-02T08:11:03.347624",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2026-01-02T08:11:50.512963",
   "last_game": {
-    "result": "win",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3007,
-    "rating_after": 3007,
+    "result": "draw",
+    "opponent": "FayEFish",
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 b4 a6 Kf1 Rh5 Kg2 Rgh8 a4 Qg7 Rb1 Qe7 Rhf1 Qe8 Rb2 b6 b5 cxb5 axb5 axb5 Na3 c6 Ra1 Qc8 Bb4 R5h7 c4 Ra7 cxb5 c5 Bc3 c4 dxc4 Qc5 Bb4 Qd4 Raa2 Be7 Rd2 Qe3 Bxe7 Rxe7 Rd6 Rc7 Rad2 Kb7 Nb1 Qc5 Nc3 Kb8 Na4 Qb4 Nxb6 Kb7 Nd7 Rh6 R6d5 Rxc4 Nxe5 Rc5 Rd8 Rc7 Nc6 Qxd2+ Rxd2 Rh5 e5 Kb6 e6 Rc8 e7 Re8 Rd8 Rxe7 Nxe7 Ka5 b6 Rc5 Rd5 Kxb6 Qe6+ Kb5 Qc6+ Kb4 Rxc5",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Nh4 g6 Bh6 Rf7 Nf3 Bf8 Qd2 c5 Kh1 b6 b3 Ba6 a4 Bxc4 bxc4 Bxh6 Qxh6 Nb8 Ng1 Nc6 Ne2 Qd7 f3 a6 Nc3 Nd4 Ra2 Re8 Nd5 a5 Rf2 Ne6 Ra1 Ref8 Qe3 h5 Qh6 Rg7 f4 Nxf4 Nxf4 exf4 Rxf4 Qe8 Rf2 Rff7 h3 Rf8 Rf3 Rh7 Qf4 Rg7 g4 hxg4",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767341463.347686
+  "updated": 1767341510.5130608
 }
