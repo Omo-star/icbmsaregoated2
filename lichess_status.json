@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "HostFish",
+  "rating": 3070,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 56,
-  "timestamp": "2026-01-03T16:30:34.326642",
+  "time_left": 26,
+  "timestamp": "2026-01-03T16:32:19.467627",
   "last_game": {
-    "result": "draw",
-    "opponent": "HostFish",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "result": "win",
+    "opponent": "AetherBot",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 f3 e5 Nb3 Be6 Be3 Nbd7 g4 Nb6 g5 Nh5 Qd2 Be7 O-O-O O-O Kb1 Rc8 Rg1 g6 Qf2 Nc4 Bxc4 Bxc4 Na4 Be6 Nb6 Rc7 Qg2 Rc6 Nd5 Qd7 Na5 Bxd5 Rxd5 Rc7 Nb3 Rfc8 Rd2 b5 Rgd1 Bf8 h4 Qe8 Qf2 f6 a3 Rf7 Rd3 Rfc7 R1d2 Rf7 Rd1 Rfc7 R1d2 Rf7 Rd1",
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qb6 Qxb6 axb6 Rc1 Rbc8 Nb5 h5 e3 Rfd8 Rfe1 Bf8 Rc7 Rxc7 Nxc7 Bd6 Rc1 Bxe5 dxe5 Nd7 Nxd5 Nxe5 Nxb6 Rd6 Na4 b6 Nc3 Rd2 b4 g4 e4 Bc4 a4 Nf3+ Kh1 h4 gxh4 Nxh4 Rg1 Kf6 Nd5+ Kg5 a5 bxa5 bxa5 Bd3 Nb4 Be2 Rc1 Bf3 Rc5+ f5 Bxf3 Nxf3 Rxf5+ Kh4 Rxf3 gxf3 Kg1 Rg2+ Kf1 Rxh2 Nd3 Ra2 Nc1 Rxa5 Kf2 Ra3 e5 Rc3 Na2 Rc2+ Kxf3 Rxa2 Kf4 Kh5 e6 Kg6 Ke5 Ra6 e7 Kf7 e8=Q+ Kxe8 Kd4 Ke7 Kd5 Ra4 Ke5 Rh4 Kd5 Kf6 Kd6 Rh5 Kd7 Ke5 Kc6 Ke6 Kc7 Rc5+ Kb7 Kd7 Kb6 Rh5 Kb7 Rh6 Kb8 Kc6 Ka7 Rh8 Ka6 Ra8#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767457834.3267605
+  "updated": 1767457939.4676874
 }
