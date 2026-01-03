@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "HostFish",
+  "rating": 3071,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 9,
-  "timestamp": "2026-01-03T16:10:25.642372",
+  "time_left": 22,
+  "timestamp": "2026-01-03T16:12:53.117756",
   "last_game": {
     "result": "win",
-    "opponent": "HostFish",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "opponent": "AetherBot",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 d4 e6 Bg5 c5 c3 cxd4 cxd4 Qb6 Qc2 Nc6 Bxf6 gxf6 e3 d5 Nc3 Bd7 Be2 Bd6 O-O Ne7 Qd2 h5 a4 a5 g3 Kf8 Rfc1 Kg7 h4 Rh6 Nb5 Bb4 Qd1 Rg8 Rc2 Nf5 Kh2 Qd8 Rac1 Qb6 b3 Bxb5 Bxb5 Ba3 Rb1 Bd6 Bd3 Ne7 Kh1 Nc6 Ng1 Qd8 Nh3 Kh8 Bb5 Nb4 Rd2 f5 Be2 Qf6 Rc1 Nc6 Bb5 Nb4 Be2 Nc6 Bb5 Nb4 Qe2 Qg6 Nf4 Qg7 Qd1 Qf6 Qf3 Qd8 Bf1 Nc6 Rdc2 Ba3 Ra1 Bd6 Bh3 Ne7 Rac1 Ba3 Rg1 Ng6 Nxh5 Bd6 Rc3 Bb4 Rcc1 Ba3 Rc3 Bb4 Rcc1 Ba3 Rcd1 Bd6 Nf4 Qb6 Rd3 Qc7 Bf1 Qc2 Nh3 Kg7 Qd1 Rc8 Rd2 Qe4+ Rg2 Rch8 f3 Qxe3 Rd3 Rxh4 gxh4 Qh6 Qe1 Kf8 f4 Nxh4 Rc2 Ke7 Qg3 Qf6 Qg5 Qxg5 fxg5 f4 Kg1 Nf5 Kf2 Rg8 Rc1 Ng3 Bg2 Ne4+ Ke1 Ng3 Kf2 Ne4+ Bxe4 dxe4 Rdd1 f5 gxf6+ Kxf6 Rg1 Rh8 Rh1 Rd8 Ng1 e5 Ne2 exd4 Nxd4 Bb8 Rh6+ Kf7 Rh7+ Kf6 Rxb7 Rxd4 Rxb8 Rd2+ Ke1 Rb2 Rf8+ Ke5 Re8+ Kd5 Rd1+ Kc5 Rxe4 Rxb3 Rxf4 Rh3 Rc1+ Kd6 Rf5 Rh1+ Kd2 Rh2+ Kc3 Rh4 Rxa5 Kc6 Rb5 Rxa4 Rb4 Ra5 Rd4 Rc5+ Kd2 Kb5 Rxc5+ Kxc5 Kc3 Kb5 Rc4 Ka5 Rb4 Ka6 Rb3 Ka7 Kd4 Ka6 Kc5 Ka7 Kc6 Ka8 Kc7 Ka7 Ra3#",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Nf6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qb6 c4 Bb4+ Ke2 f5 exf6 Nxf6 Be3 Qd8 Nd6+ Bxd6 Qxd6 Bb7 Rd1 Rc8 g4 c5 Rg1 Qc7 g5 Ne4 Qe5 Kf7 Qxc7 Rxc7 Bh3 d5 f5 exf5 cxd5 g6 Bg2 Re8 Bxe4 Rxe4 d6 Rd7 Kf2 Rc4 Kg3 Rc2 Rc1 Rxb2 Bxc5 Be4 a4 Ke6 Rcd1 Rdb7 h3 R7b3+ Kh4 Kd7 Rg3 Bf3 Rd4 a5 Rf4 Bc6 Rd4 Rb1 Rc4 Bf3 Rf4 Rf1 Rc4 Rd1 Rc2 Rd5 Rf2 Rdd3 Rc2 Rdc3 Rxc3 Rxc3 Bd4 Ra3 Rxf3 Rxf3 Bb6 Rf4+ Kg3 Rxa4 Bc7 Ra3+ Kg2 a4 h4 Rb3 h5 a3 hxg6 a2 Bb6 Rxb6 gxh7 a1=Q h8=Q Qxh8 Kf3 Qd4 g6 Rb2 Kg3 Qg4#",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1767456625.6424444
+  "updated": 1767456773.1178179
 }
