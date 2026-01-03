@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3056,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2972,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-01-03T10:40:57.527616",
+  "time_control": "TC: 3+0",
+  "time_left": 174,
+  "timestamp": "2026-01-03T10:42:40.332741",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3056,
-    "rating_after": 3056,
+    "opponent": "Cheszter",
+    "rating_before": 2972,
+    "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Bg5 dxc4 Nc3 a6 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 Be2 Bh6 Bxh6 Rxh6 Bf3 Bxf3 Qxf3 Rxf6 Qc6 Rb8 O-O Rb6 Qe4 Rg6 g3 Rd6 b3 Nf6 Qe5 b4 Ne2 c3 a3 Rd5 Qe3 Rh5 Qf3 Rgh6 h4 Nd5 axb4 Rxh4 gxh4 Qxh4 Rfc1 Qh2+ Kf1 Rf6 Qg3 Qh1+ Qg1 Qf3 Rxa6 Rg6 Qh2 Ne3+ Ke1 Ng2+",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "d4 Nf6 Nf3 d5 Bf4 e6 c3 Bd6 e3 O-O Ne5 c5 Nd2 Qc7 Bd3 a5 Bg5 cxd4 Bxf6 gxf6 Nd7 Nxd7 Bxh7+ Kh8 Qh5 Kg7 Qg4+ Kxh7 Qh5+ Kg8 Qg4+ Kh8 Qh5+ Kg8 Qg4+ Kh7 Qh5+ Kg7 Qg4+ Kh8 Qh4+ Kg7 Qg4+ Kh6 Qh3+ Kg6 Qg4+ Kh7 Qh5+",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767436857.5277414
+  "updated": 1767436960.3328264
 }
