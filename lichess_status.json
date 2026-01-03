@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3053,
-  "opponent": "CaissaChessEngine",
-  "variant": "Variant: Standard",
+  "opponent": "FayEFish",
+  "variant": "Variant: Chess960",
   "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2026-01-03T08:39:30.575136",
+  "time_left": 12,
+  "timestamp": "2026-01-03T08:40:24.597719",
   "last_game": {
     "result": "draw",
-    "opponent": "CaissaChessEngine",
+    "opponent": "FayEFish",
     "rating_before": 3053,
     "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 Ng5 Be8 Rd3 b6 g4 Ne7 Rf3 Ng6 Nxf7 Bxf7 Rxf7 Nxe5 Rf4 h5 gxh5 Bd6 Ne4 Rxh5 Nxd6+ cxd6 Rf8+ Kb7 Rxa8 Kxa8 Kg2 Kb7 Bf4 Kc7 Rg1 g6 Re1 Rf5 Re4 Kd7 Bxe5 dxe5 Kg3 g5 f3 Ke6 Rc4 Kd5 Rg4 a5 Kf2 Kd6 h3 Ke6 Kg3 Kd5 Kf2 Kd6 Ke3 Kd5 b3 Kd6 Kf2 Ke6 Ke3 Kd5 c4+ Ke6 h4 gxh4 Rxh4 Rf6 Ke4 Kd6 a3 b5 cxb5 cxb5 Rg4 Rh6 b4 axb4 axb4 Rh1 Rg6+ Kc7 Kd5 Ra1 Rc6+ Kb7 Rf6 Rb1 Kc5 Rc1+ Kxb5 Kc7 Rg6 Rc3 Rf6 Rc1 Rg6 Rc3 Rf6 Rc1",
+    "moves": "e4 e5 f3 f6 d4 exd4 Bxd4 Nc6 Bf2 d5 exd5 Bxd5 Nc3 Bf7 b3 Bd6 Nd3 O-O Be2 Re8 O-O Nb6 Rfe1 Bf8 Nb5 Rbc8 c4 Nb4 Qc3 c6 Nd4 Nxa2 Qa5 c5 Nc2 Nb4 Ncxb4 cxb4 f4 Rcd8 Nxb4 Qb8 Bf3 Qxf4 Rxe8 Rxe8 Nd3 Qb8 Ra1 Nc8 c5 b6 Qb5 Qc7 b4 Rd8 Rd1 Ne7 cxb6 axb6 Bxb6 Qd7 Qa5 Bb3 Ra1 Re8 Nc5 Qd4+ Kh1 Nc8 Nxb3 Qxb6 Qxb6 Nxb6 Nc5 Re3 Kg1 Rc3 Ra6 Bxc5+ bxc5 Nd7 Ra8+ Kf7 Ra7 Ke6 Bg4+ f5 Bxf5+ Kxf5 Rxd7 Rxc5 Rxg7 h5 h3 Kf6 Rg8 Kf7 Rg3 Kf6 Kf2 Rg5 Rf3+ Kg6 Ra3 Kh7 Ra4 Kg7 g3 Rb5 Ra7+ Kh6 g4 hxg4 hxg4 Kg6 Ra8 Kh7 Rf8 Kg7 Re8 Kh7 Rf8 Kg7 Re8 Kh7 Rf8 Kg7",
     "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767429570.575244
+  "updated": 1767429624.5978076
 }
