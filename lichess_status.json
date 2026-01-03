@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3058,
-  "opponent": "HostFish",
+  "rating": 3063,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 12,
-  "timestamp": "2026-01-03T15:35:45.791937",
+  "time_left": 31,
+  "timestamp": "2026-01-03T15:38:19.899314",
   "last_game": {
     "result": "win",
-    "opponent": "HostFish",
-    "rating_before": 3058,
-    "rating_after": 3058,
+    "opponent": "AetherBot",
+    "rating_before": 3063,
+    "rating_after": 3063,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nf3 Be7 Bc4 O-O O-O Nc6 Re1 b5 Bf1 Rb8 Bg5 Ng4 Bc1 Nf6 a4 b4 Nd5 Nxd5 exd5 Na5 Bd2 f5 c3 b3 c4 Bf6 Bc3 e4 Nd4 Bd7 Qd2 Bg5 Qd1 Bf6 Qd2 Bg5 Re3 Bxe3 fxe3 Nb7 Nxb3 Qg5 Bd4 h5 c5 Nxc5 Nxc5 dxc5 Bxc5 f4 exf4 Rxf4 Be3 Rxf1+ Rxf1 Qg6 d6 Qe6 Re1 Bxa4 Bf4 Rf8 h4 Rf5 Kh2 Rd5 Qe2 Bb5 Qxe4 Qxe4 Rxe4 Kf7 Kg1 Kf6 Re7 Kf5 g3 g6 Rf7+ Ke6 Re7+ Kf5 Kf2 Rd3 Re5+ Kf6 Rc5 Ke6 Rc7 Kf6 Re7 Kf5 Re5+ Kf6 Rg5 Kf7 Rc5 Ke6 Rc7 Kf6 Ra7 Kf5 Rf7+ Ke6 Rh7 Kf6 Rc7 Ke6 b4 Kf5 Re7 Kf6 Ra7 Kf5 Rf7+ Ke6 Rg7 Kf6 Re7 Kf5 Rf7+ Ke6 Rc7 Bd7 Ke2 Bb5 Re7+ Kf6 Kf2 Kf5 Re5+ Kf6 Rc5 Kf7 Rc7+ Kf6 Ra7 Ke6 Rb7 Kf6 Rc7 Ke6 Rg7 Kf6 Rc7 Kf5 Rc5+ Ke6 Re5+ Kf6 Re1 Kf5 Re7 Kf6 Rh7 Ke6 Ra7 Kf6 Rb7 Kf5 Rc7 Ke6 Rc5 Kf6 Rg5 Kf7 Rc5 Kf6 Rc8 Kf5 Rf8+ Ke6 Rg8 Kf6 Rb8 Kf5 Rb7 Ke6 Ra7 Kf6 Rb7 Ke6 Rh7 Kf5 Rh6 Ra3 Rh8 Ke4 Rh7 Ra2+ Ke1 Ra3 Re7+ Kf5 Re5+ Kf6 Kd2 Rd3+ Kc2 Rd4 Kc3 Rxd6 Rxb5 Re6 Ra5 Re4 Ra1 Kf5 Bg5 Ke6 Bf4 Kf5 Bg5 Rxh4 gxh4 Ke5 Ra5+ Ke6 Kd4 Kd7 Kc4 Kc6 Rxa6+ Kd7 b5 Ke8 Kd5 Kd7 Ra7+ Ke8 b6 Kf8 b7 Kg8 b8=Q#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Ne5 Bxe5 Bxe5 Ng5 Bg2 Nh3+ Bxh3 Bxh3 b4 f6 b5 Qe6 Bf4 Qf5 Be3 Re7 Rc1 Rae8 Ra1 h4 Ra2 hxg3 hxg3 Bg4 Qc2 Qh5 f4 Rxe3 Rxe3 Rxe3 Qf2 Rd3 Rd2 Bf3 Qh2 Rxd2 Qxd2 Qh1+ Kf2 Qg2+ Ke3 Qxg3 Qf2 Qxf2+ Kxf2 Bd1 a5 bxa5 Ke1 Bb3 Ke2 Kf7 Kd2 Ke6 Kc1 Kf5 Kb2 Kxf4 Kb1 g5 Kc1 Ke3 Kb2 g4 b6 axb6 Kc1 g3 Kb2 g2 Kc1 Kd3 Kb1 Kxc3 Kc1 g1=Q#",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1767454545.7919972
+  "updated": 1767454699.8993876
 }
