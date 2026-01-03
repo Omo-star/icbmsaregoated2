@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "CloudNetBot",
+  "opponent": "HostFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 36,
-  "timestamp": "2026-01-03T16:07:37.027000",
+  "time_left": 9,
+  "timestamp": "2026-01-03T16:10:25.642372",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "HostFish",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kh3 Ra1 Kh2 Rb1 Bg2 Kg7 Bf3 Kg6 Kg2 Rc1 Kh2 Ra1 Kg2 Rb1 Kh3 Rf1 Kh2 Ra1",
+    "moves": "Nf3 Nf6 d4 e6 Bg5 c5 c3 cxd4 cxd4 Qb6 Qc2 Nc6 Bxf6 gxf6 e3 d5 Nc3 Bd7 Be2 Bd6 O-O Ne7 Qd2 h5 a4 a5 g3 Kf8 Rfc1 Kg7 h4 Rh6 Nb5 Bb4 Qd1 Rg8 Rc2 Nf5 Kh2 Qd8 Rac1 Qb6 b3 Bxb5 Bxb5 Ba3 Rb1 Bd6 Bd3 Ne7 Kh1 Nc6 Ng1 Qd8 Nh3 Kh8 Bb5 Nb4 Rd2 f5 Be2 Qf6 Rc1 Nc6 Bb5 Nb4 Be2 Nc6 Bb5 Nb4 Qe2 Qg6 Nf4 Qg7 Qd1 Qf6 Qf3 Qd8 Bf1 Nc6 Rdc2 Ba3 Ra1 Bd6 Bh3 Ne7 Rac1 Ba3 Rg1 Ng6 Nxh5 Bd6 Rc3 Bb4 Rcc1 Ba3 Rc3 Bb4 Rcc1 Ba3 Rcd1 Bd6 Nf4 Qb6 Rd3 Qc7 Bf1 Qc2 Nh3 Kg7 Qd1 Rc8 Rd2 Qe4+ Rg2 Rch8 f3 Qxe3 Rd3 Rxh4 gxh4 Qh6 Qe1 Kf8 f4 Nxh4 Rc2 Ke7 Qg3 Qf6 Qg5 Qxg5 fxg5 f4 Kg1 Nf5 Kf2 Rg8 Rc1 Ng3 Bg2 Ne4+ Ke1 Ng3 Kf2 Ne4+ Bxe4 dxe4 Rdd1 f5 gxf6+ Kxf6 Rg1 Rh8 Rh1 Rd8 Ng1 e5 Ne2 exd4 Nxd4 Bb8 Rh6+ Kf7 Rh7+ Kf6 Rxb7 Rxd4 Rxb8 Rd2+ Ke1 Rb2 Rf8+ Ke5 Re8+ Kd5 Rd1+ Kc5 Rxe4 Rxb3 Rxf4 Rh3 Rc1+ Kd6 Rf5 Rh1+ Kd2 Rh2+ Kc3 Rh4 Rxa5 Kc6 Rb5 Rxa4 Rb4 Ra5 Rd4 Rc5+ Kd2 Kb5 Rxc5+ Kxc5 Kc3 Kb5 Rc4 Ka5 Rb4 Ka6 Rb3 Ka7 Kd4 Ka6 Kc5 Ka7 Kc6 Ka8 Kc7 Ka7 Ra3#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767456457.0271678
+  "updated": 1767456625.6424444
 }
