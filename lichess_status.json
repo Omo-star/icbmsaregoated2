@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "DarkOnBot",
+  "rating": 3053,
+  "opponent": "CaissaChessEngine",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 593,
-  "timestamp": "2026-01-03T07:58:15.704947",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2026-01-03T07:59:33.666024",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "opponent": "CaissaChessEngine",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Ke8 Re5 Kf7",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "Nc3 d5 d4 Nf6 e3 Bf5 h3 e6 Bd3 Bg6 Nf3 c5 dxc5 Bxc5 O-O O-O Bxg6 hxg6 Qe2 Re8 a3 Nbd7 e4 d4 Na4 e5 c3 Bd6 b4 a5 Bb2 axb4 axb4 dxc3 Bxc3 Qe7 Rfb1 b5 Qxb5 Nxe4 Qc4 Ndf6 Be1 Rac8 Qb3 Qb7 Rd1 Bb8 Rac1 Rxc1 Rxc1 Nd5 Qc4 Nef6 Nc5 Qe7 Bd2 e4 Re1 Qc7 Qb5 Qd8 Nh2 Nc7 Qe2 Qd4 Qe3 Qe5 Bc3 Qxh2+ Kxh2 Ncd5+ g3 Nxe3 Bxf6 gxf6 Rxe3 f5 Nd7 Kg7 Nxb8 Rxb8 Rb3 Rb5 Kg2 Kf6 h4 Ke5 f3 f4 gxf4+ Kxf4 fxe4 Kxe4 Rg3 Kd5 Rg5+ Kc6 Rxb5 Kxb5 Kf3 Kb6 Ke3 Kb7 Ke4 Kc6 Ke5 f5 b5+ Kc7 h5 f4 h6 f3 h7 f2 b6+ Kxb6 Ke6 Kc7 Ke7 Kb7 Ke8 Kc8 Ke7 Kc7 Ke8 Kc8 Ke7 Kc7 Ke8 Kc8 Ke7",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767427095.705072
+  "updated": 1767427173.6661024
 }
