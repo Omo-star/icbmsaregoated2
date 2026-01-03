@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "Monastedrez",
+  "rating": 3053,
+  "opponent": "CaissaChessEngine",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 352,
-  "timestamp": "2026-01-03T08:38:44.563103",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2026-01-03T08:39:30.575136",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "opponent": "CaissaChessEngine",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Bf8 h4 Nb8 h5 Bg4 Ne3 Bxh5 g4 Bg6 Nh4 Bd6 Nxg6 hxg6 Kg2 Nd7 Rh1 Nf8 Rh3 Ne6 Nf5 Rf8 c3 Qd7 Qb3 Qf7 Qc2 Qd7 Qb3 Kf7 Rh7 gxf5 gxf5 Rg8 Rg1 Rae8 Kf1 Kf8 fxe6 Qxe6 Qd1 Re7 Qh5 Qa2 Ke2 c5 Qh3 cxb4 Qc8+ Re8 Qd7",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 Ng5 Be8 Rd3 b6 g4 Ne7 Rf3 Ng6 Nxf7 Bxf7 Rxf7 Nxe5 Rf4 h5 gxh5 Bd6 Ne4 Rxh5 Nxd6+ cxd6 Rf8+ Kb7 Rxa8 Kxa8 Kg2 Kb7 Bf4 Kc7 Rg1 g6 Re1 Rf5 Re4 Kd7 Bxe5 dxe5 Kg3 g5 f3 Ke6 Rc4 Kd5 Rg4 a5 Kf2 Kd6 h3 Ke6 Kg3 Kd5 Kf2 Kd6 Ke3 Kd5 b3 Kd6 Kf2 Ke6 Ke3 Kd5 c4+ Ke6 h4 gxh4 Rxh4 Rf6 Ke4 Kd6 a3 b5 cxb5 cxb5 Rg4 Rh6 b4 axb4 axb4 Rh1 Rg6+ Kc7 Kd5 Ra1 Rc6+ Kb7 Rf6 Rb1 Kc5 Rc1+ Kxb5 Kc7 Rg6 Rc3 Rf6 Rc1 Rg6 Rc3 Rf6 Rc1",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767429524.5632057
+  "updated": 1767429570.575244
 }
