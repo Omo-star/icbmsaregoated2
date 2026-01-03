@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3058,
-  "opponent": "HostFish",
+  "rating": 3057,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 13,
-  "timestamp": "2026-01-03T15:27:55.716257",
+  "time_left": 32,
+  "timestamp": "2026-01-03T15:29:23.961730",
   "last_game": {
-    "result": "draw",
-    "opponent": "HostFish",
-    "rating_before": 3058,
-    "rating_after": 3058,
+    "result": "win",
+    "opponent": "AetherBot",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 Bd3 d5 O-O Bf5 c4 c6 Qc2 Na6 a3 O-O Nc3 Re8 Re1 Bf6 Bf4 Bg6 cxd5 cxd5 Nb5 Rc8 Qd1 Qb6 Rc1 Rxc1 Qxc1 h6 Qc2 Bf5 h3 Bd7 Nc3 Nxc3 Rxe8+ Bxe8 Qxc3 Bd7 g4 Qc6 Qxc6 Bxc6 b4 b5 Bd6 Bd8 Bf5 Bc7 Bc5 Nxc5 dxc5 Kf8 Kf1 Ke7 Ke2 Kd8 Ke3 g5 Kd4 Ke7 Kc3 Kd8 Kd4 Ke7 Ng1 Kd8 Ne2 a6 Nc1 Bh2 Ne2 Bb8 Nc1 Bh2 Nd3 Bb7 Ne5 Ke7 Nf3 Bf4 Ne5 Bh2 Nd3 Kd8 Nb2 Bc6 Bh7 Ke7 Bf5 Kd8 Nd1 f6 Nc3 Be5+ Kd3 Kc7 Be6 d4 Nd5+ Bxd5 Bxd5 Bf4 Bb3 Bc1 a4 Bb2 axb5 axb5 f3 Kc6 Ke4 Bc3 Bd5+ Kc7 Bb3 Kc6 Bd5+ Kc7 Bf7 Bxb4 Kxd4 Kd7 Bg6 Be1 Bd3 b4 Bc2 Bc3+ Kd5 Kc7 Bb3 Be1 Bc2 Bc3 Bd1 Bd2 Ba4 Be1 Bb3 Bc3 Ba4 Bd2 Kc4 Bc3 Bd1 Kc6 Ba4+ Kc7 Kd5 Bd2 Bb3 Be1 Bd1 Bc3 Kc4 Kc6 Bc2 Be1 Be4+ Kc7 Bc2 Bc3 Ba4 Be1 Bd1 Kc6 Ba4+ Kc7 Kb5 Bd2 Bb3 Bc3 c6 Bd2 Bf7 Be1 Bd5 Bd2 Bc4 Be1 Kc5 Bc3 Bf7 Bd2 Kb5 Be1 Bd5 Bd2 Bb3 Bc3 Bc4 Bd2 Ba2 Bc1 Bb3 Bd2 Ba4 Bc3 Kc5 Bd2 Kb5 Bc3 Bd1 Bd2 Kc5 Bc3 Bc2 Bd2 Ba4 Bc3 Bb3 Bd2 Bg8 Bc3 Bd5 Be1 Bc4 Bc3 Bg8 Bd2 Ba2 Be1 Bd5 Bd2 Kb5 Be1 Be6 Bc3 Bc4 Bd2 Ba2 Be3 Be6 Bd2 Bc4 Be3 Be6 Bd2 Bd5 Bc3 Bb3 Bd2",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 b3 h5 Qe1 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Rhe8 Qd2 Bxg4 hxg4 Nxe4 Nf5 Qe5+ Bxe5 Nxd2 Bf6 Re2 Bxg5 Nxf1+ Rxf1 Rh8 Bf6 Rh7 Bf3 Rxf2+ Rxf2 Bxf2 Be4 Kd7 Kh3 c6 g5 d5 cxd5 cxd5 Bxd5 Bc5 Be4 Ke6 Nxh4 Rh5 Kg4 Rxh4+ Kxh4 Be7 Bxe7 Kxe7 Bxb7 Kd6 b4 axb4 a5 b3 a6 Kc7 Bh1 Kb6 a7 Kxa7 Bd5 b2 Ba2 Kb6 Kg4 b1=Q Bxb1 Kc7 Ba2 Kd6 Bxf7 Ke7 g6 Kf6 Be8 Ke7 g7 Kxe8 g8=Q+ Kd7 Qc4 Kd6 Kf5 Kd7 Ke5 Ke8 Ke6 Kd8 Kd6 Ke8 Qg8#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767454075.7164233
+  "updated": 1767454163.9617953
 }
