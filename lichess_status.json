@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3061,
-  "opponent": "CatChessX",
+  "rating": 3059,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-01-04T15:21:49.177083",
+  "time_left": 31,
+  "timestamp": "2026-01-04T15:23:12.652974",
   "last_game": {
-    "result": "draw",
-    "opponent": "CatChessX",
-    "rating_before": 3061,
-    "rating_after": 3061,
+    "result": "win",
+    "opponent": "AetherBot",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 h6 O-O Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O Nc3 c6 h3 a5 b5 Re8 a4 d5 exd5 cxd5 Nxd5 Nxd5 cxd5 Qxd5 Rfc1 Rad8 Rc7 e4 dxe4 Rxe4 Qb6 Rf4 Qe3 Rd4 Ra3 Kh7 Kh2 Rd7 Rxd7 Qxd7 Qe5 Rd5 Qe4+ f5 Qf3 Rd4 g3 Qd5 Qxd5 Rxd5 Rf3 Kg6 Rc3 Rd4 Rc7 Rxa4 Rxb7 Ra2 Kg2 Rb2 h4 a4 b6 a3 Ra7 Rxb6 Rxa3 Kf6 h5 g6 hxg6 Kxg6 f3 Rb5 f4",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Bd3 Qd6 Rd1 Qb8 Qe2 Ne5 Nd4 Ba4 b3 Nxd3 Qxd3 Be8 f4 Qd6 a4 Rd8 a5 e5 fxe5 Qxe5 b4 Bc6 Re1 Be4 Qc4 Qg5 g3 Re8 Qb5 Qe7 Qc5 Qd7 b5 Qh3 Re2 Rc8 Qa3 Qh5 a6 bxa6 bxa6 Rc6 Re1 Rc2 h4 Qg4 Qd6 Qh3 Qf8+ Kxf8 Ne6+ Ke7 Re2 Rxe2 Nxg7 Qg2#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767540109.1772256
+  "updated": 1767540192.6530585
 }
