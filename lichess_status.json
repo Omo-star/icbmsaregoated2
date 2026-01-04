@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3053,
-  "opponent": "pGOD1000",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 44,
-  "timestamp": "2026-01-04T15:56:12.813637",
+  "time_left": 38,
+  "timestamp": "2026-01-04T15:57:43.243702",
   "last_game": {
-    "result": "win",
-    "opponent": "pGOD1000",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 3053,
     "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e3 Nf6 d4 d5 Nf3 e6 Nc3 c5 Bd3 c4 Be2 a6 Bd2 b5 b3 b4 Na4 Bd7 c3 Bxa4 bxa4 a5 cxb4 axb4 Rb1 Ne4 Bxb4 Bxb4+ Rxb4 Qa5 Qb1 Nc6 O-O Qxb4",
+    "moves": "Nf3 d5 e3 Nf6 d3 c5 c4 dxc4 d4 Be6 Nc3 Nc6 dxc5 Qxd1+ Nxd1 Rc8 Nd4 Bd5 Nxc6 Bxc6 b4 cxb3 axb3 a6 f3 g6 Bb2 Bg7 Bc4 O-O Nf2 Bd5 Nd3 Bxc4 bxc4 Nd7 Bxg7 Kxg7 Ra5 Rc7 Ke2 Rb8 Rb1 f6 Kd2 g5 Kc3 Kf7 g3 Rbc8 Rb2 Nf8 f4 Ne6 Rb6 gxf4 gxf4 h6 Rb2 Rd7 Rb6 Rdc7 Rb2 Rh8 c6 Rxc6 Rxb7 Rhc8 Rb4 Nc7",
     "duration": 60,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1767542172.813732
+  "updated": 1767542263.2438064
 }
