@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "Cheszter",
+  "rating": 2974,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2026-01-04T12:01:58.720921",
+  "time_control": "TC: 3+0",
+  "time_left": 126,
+  "timestamp": "2026-01-04T12:04:20.523026",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "opponent": "YoBot_v2",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Nc3 Nd4 Bc4 Bc5 d3 O-O Nxe5 d6 Nxf7 Rxf7 Bxf7+ Kxf7 h3 Qe8 Bg5 Kf8 Bxf6 gxf6 Qd2 Qg6 Nd5 c6 Ne3 d5 c3 Ne6 O-O-O dxe4 dxe4 Qxe4 Rhe1 Kf7 g3 h5 f4 Ng7 f5 Bxf5 Nxf5 Qxf5 g4 hxg4 Qd7+ Qxd7 Rxd7+ Kg6 hxg4 Rb8 b4 Bf8 Kc2 f5 gxf5+ Kf6 Red1 Nxf5 Rd8 Rxd8 Rxd8 Be7 Ra8 a6 Ra7 Nd6 c4 Nxc4 Rxb7 Ne3+ Kb3 Nd5 Ra7 Nxb4 Rxe7 Kxe7 Kxb4 Kd6 Kc4 c5 Kd3 Kc6 Kc4 a5 Kc3 Kb5 Kd3 Kb4 Kc2 a4 Kb2 a3+ Kc2 Kc4 Kd2 Kd5 Ke3 Kc4 Kd2 Kd5 Ke3 c4 Ke2 Kd4 Kd2 Kc5 Ke3 Kb5 Ke4 Ka4 Ke3 Kb5 Ke4 Kc5 Ke3 Kd5 Ke2 Ke4 Kd2 Kd4 Kc2 Kd5 Kc3 Kc5 Kd2 Kd4 Kc2 Kd5 Kc3 Kc5 Kd2 Kb6 Ke3 Ka5 Ke4 Ka4 Ke3 c3 Kd3 Kb4 Ke3 c2 Kd2 c1=Q+ Kxc1 Kc3 Kd1 Kb2 Kd2 Ka1 Kd3 Kxa2 Kc2 Ka1 Kb3 a2 Kc2",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 Kf8 h3 Be8 Rc1 Ra2 Rc3 Ra1+ Kh2 Rd7 Ra8 Rd8 Rxd8 Bxd8 Rc8 Ke7 Ra8 Ra2 g4 Bc6 Ra7+ Kf8 Kg3 Rc2 Bd1 Rb2 Bf3 Rc2 h4 Bd5 Ra4 Bc6 Ra6 Bb7 Ra4 Bc6 Ra7 Bd5 Ra4 Bc6",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "stalemate"
+    "termination": "draw"
   },
-  "updated": 1767528118.7209885
+  "updated": 1767528260.5231895
 }
