@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3052,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "AlphaOneBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-01-04T15:31:59.849577",
+  "time_left": 44,
+  "timestamp": "2026-01-04T15:32:58.561219",
   "last_game": {
     "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "opponent": "AlphaOneBot",
     "rating_before": 3052,
     "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c3 e6 Bg5 h6 Bxf6 Qxf6 Nbd2 c5 e4 cxd4 exd5 exd5 Bb5+ Nc6 Nxd4 Bc5 N2b3 Bb6 Qe2+ Kf8 O-O g6 Qf3 Qd6 Qg3 Qxg3 hxg3 Bd7 Rfd1 a5 Nf3 a4 Nc1 Ra5 Bxc6 bxc6 Nd3 f6 b4 axb3 axb3 Rxa1 Rxa1 Ke7 Nf4 Kf7 b4 Bf5 Ne2 Bd3 Ned4 c5 bxc5 Bxc5 Nc6 Ke6 Ncd4+ Ke7 Ne1 Bc4 Nec2 Re8 Re1+ Kd7 Rxe8 Kxe8 g4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 Na5 Bg5 Nxc4 dxc4 h6 Bxf6 Qxf6 Nd5 Qd8 b4 Bb6 Qd3 O-O Rfd1 Bg4 h3 Bh5 a4 a5 g4 Bg6 Nxb6 cxb6 Rab1 Qc7 Nh4 Rfd8 bxa5 Rxa5 Ng2 f6 Ne3 Rxa4 Qb3 Ra6 Qd3 Ra4 Qb3 Ra6 Qd3 Ra4",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767540719.849689
+  "updated": 1767540778.5613258
 }
