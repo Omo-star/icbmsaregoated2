@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3053,
-  "opponent": "CatChessX",
+  "rating": 3052,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 33,
-  "timestamp": "2026-01-04T15:31:01.805347",
+  "time_left": 39,
+  "timestamp": "2026-01-04T15:31:59.849577",
   "last_game": {
     "result": "draw",
-    "opponent": "CatChessX",
-    "rating_before": 3053,
-    "rating_after": 3053,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3052,
+    "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Bd3 d5 Nc3 c5 dxc5 Bxc5 exd5 exd5 Nxd5 Bxf2+ Kxf2 Qxd5 Qf3 Nf6 Qxd5 Nxd5 Nf3 O-O a3 h6 b3 Nc6 Bb2 Be6 Rad1 Rad8 c4 Nf4 Bc2 b5 Ne5 Ne7 Bc1 g5 c5 a5 Rd6 Rc8 Be3 Nfd5 Bd4 Rfd8 Rc1 Nf6 Bb2 Rxd6 cxd6 Nf5 Bxf5 Rxc1 Bxc1 Bxf5 Nc6 Ng4+ Kg3 Be6 Nxa5 Ne5 Nb7 Nd7 b4 f6 Kf2 Bd5 Nc5 Nxc5 bxc5 Kf7 Bb2 Ke6 g4 Bc6 Ke3 f5 gxf5+ Kxf5 Bg7 h5 Kd4 h4 d7 Bxd7 Kd5 g4 Bd4 Be6+ Kc6 Ke4 Bf2 g3 Bxg3 hxg3 hxg3 Bc4 Kb6 Kf3 c6 Kxg3 c7 Be6 Kxb5 Kf4 a4 Ke5 Kb6 Bc8 a5 Kd6 a6 Bxa6 Kxa6 Kxc7",
+    "moves": "d4 Nf6 Nf3 d5 c3 e6 Bg5 h6 Bxf6 Qxf6 Nbd2 c5 e4 cxd4 exd5 exd5 Bb5+ Nc6 Nxd4 Bc5 N2b3 Bb6 Qe2+ Kf8 O-O g6 Qf3 Qd6 Qg3 Qxg3 hxg3 Bd7 Rfd1 a5 Nf3 a4 Nc1 Ra5 Bxc6 bxc6 Nd3 f6 b4 axb3 axb3 Rxa1 Rxa1 Ke7 Nf4 Kf7 b4 Bf5 Ne2 Bd3 Ned4 c5 bxc5 Bxc5 Nc6 Ke6 Ncd4+ Ke7 Ne1 Bc4 Nec2 Re8 Re1+ Kd7 Rxe8 Kxe8 g4",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767540661.8054316
+  "updated": 1767540719.849689
 }
