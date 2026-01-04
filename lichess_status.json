@@ -3,20 +3,20 @@
   "playing": false,
   "rating": 3075,
   "opponent": "FayEFish",
-  "variant": "Variant: Chess960",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2026-01-04T08:50:16.695170",
+  "time_left": 20,
+  "timestamp": "2026-01-04T08:51:10.203715",
   "last_game": {
     "result": "draw",
     "opponent": "FayEFish",
     "rating_before": 3075,
     "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "Nfe3 Ng6 d4 b5 a4 d5 axb5 c5 c4 cxd4 Nxd5 Qxd5 cxd5 Rxc1 O-O Rxd1 b6 a6 g3 d3 exd3 Bb5 Bc3 Rxf1+ Kxf1 O-O b4 f6 Bd4 Ne5 Bc5 Nb7 Kg1 Nd6 Qc3 Nd7 Qe1 Re8 h4 g6 h5 Kg7 Qe3 Ne5 d4 Ng4 Qc1 f5 f3 Nf6 h6+ Kf7 Qe3 Bc4 Qa3 g5 Bxd6 Bxd6 Bxf5 Bxg3 b7 Bxd5 Qd3 Rh8 Be4 Bb8 Bxd5+ Nxd5 Qc4 e6 Qc6 Re8 Qd7+ Ne7 Kg2 Bf4 Kf2 Rg8 Kf1 Rg6 Qd8 Rg8 Qd7 Rg6 Qd8 Nc6 Qd7+ Ne7 Qc8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Re8 Nh4 g6 Kh1 Nb6 Na5 Bf8 a4 Nd7 g4 Nc5 Ng2 Ne6 Nc4 Bc5 Nce3 Rf8 f3 Rf7 Qe1 Bd6 Qg3 b5 h4 Nd4 Rf2 a5 b3 Bd7 Bc3 Qf8 Raf1 Ne6 g5 fxg5 Ng4 Nf4 Nxe5 Nh3 hxg5 Nxf2+ Qxf2 Bxe5 Bxe5 h6 Qg3 Re8 Bxc7 Rh7 Kg1 bxa4 gxh6 Qxh6 bxa4 Qg7 Bxa5 Rf8 Qd6 Qh6 Qg3 Qg7 Be1 Qf6 Bd2 Rh3 Qg5 Qxg5 Bxg5 Rfxf3 Rxf3",
     "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767516616.6953459
+  "updated": 1767516670.2038157
 }
