@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2970,
-  "opponent": "LimboBot",
+  "rating": 2971,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 67,
-  "timestamp": "2026-01-04T09:51:35.164226",
+  "time_control": "TC: 3+0",
+  "time_left": 85,
+  "timestamp": "2026-01-04T09:56:09.532782",
   "last_game": {
-    "result": "win",
-    "opponent": "LimboBot",
-    "rating_before": 2970,
-    "rating_after": 2970,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2971,
+    "rating_after": 2971,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 e6 c4 Nf6 Nc3 Bb4 e3 O-O Bd2 b6 cxd5 exd5 Bd3 c5 dxc5 bxc5 O-O Nc6 Rc1 c4 Bb1 Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Qc2 g6 Nh2 Bh3 Ne2 Qg5+ Ng3 Bxf1 Nxf1 Bxd2 Nxd2 Rab8 b3 Ne5 bxc4 Rfc8 Qc3 h5 Kh1 Nxc4 Nf3 Qg4 Nh2 d4 Qe1 Qh4 exd4 Re8 Qc3 Ne3 fxe3 Qxg3 Nf1 Qh4+ Kg1 Rb5 Nh2 Qg5+ Kh1 Rxe3 Qc6 Rb2 Bxg6 Rxh2+ Kxh2 Re2+ Kh1 Qh4+ Kg1 Qh2+ Kf1 Qf2#",
-    "duration": 262,
+    "moves": "d4 Nf6 Nf3 d5 c4 c6 Nc3 e6 Bg5 Nbd7 e3 Be7 Qc2 O-O a3 b6 cxd5 cxd5 Bd3 Bb7 O-O Rc8 Qa4 h6 Bf4 a6 Ne2 b5 Qd1 Nb6 b3 Ne4 h3 Nd7 Ne5 Nxe5 Bxe5 Re8 b4 Nd6 Ng3 Bf8 Nh5 Nc4 f4 Nxe3 Qf3 Nxf1 Bxg7 Bxg7 Qg4 Kf8 Qxg7+ Ke7 Rxf1 Kd6 Nf6 Re7 f5 Kc7 fxe6 Rxe6 Ng4 Re7 Qxh6 Kb8 Ne5 Rc3 Qf6 Qc7 Bf5 Rc1 h4 Rxf1+ Kxf1 Qc1+ Kf2 Rc7 Nd7+ Ka7 Qb6+ Ka8 Qd6 Ka7 Qb6+ Ka8 Qd6 Ka7 Nc5 Rc6 Qe7 Qf4+ Ke2 Rb6 Nxb7 Rxb7 Qc5+ Kb8 Qf8+ Ka7 Qc5+ Kb8 Qf8+ Ka7 Qc5+",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1767520295.1642876
+  "updated": 1767520569.532898
 }
