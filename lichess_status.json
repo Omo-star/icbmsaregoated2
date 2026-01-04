@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2971,
-  "opponent": "CloudNetBot",
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 155,
-  "timestamp": "2026-01-04T10:07:07.283222",
+  "time_control": "TC: 3+0",
+  "time_left": 112,
+  "timestamp": "2026-01-04T10:10:23.998321",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
+    "opponent": "FayEFish",
     "rating_before": 2971,
     "rating_after": 2971,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Nf3 c5 Bd2 cxd4 Nxd4 d5 Nf3 dxc4 Bxc4 Be7 O-O a6 a4 b6 h3 Bb7 Qe2 Nc6 Rac1 Nd7 Rfd1 Nce5 Nxe5 Nxe5 Be1 Bd6 Ba2 Nf3+ gxf3 Qg5+ Kh1 Qf5 Kg2 Qg5+ Kh1 Qh5 Kg2 Qg6+ Kf1 Qh5 Kg2 Qg6+ Kf1 Qf5 Kg2 Qg6+",
-    "duration": 234,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 cxd5 exd5 Bg5 h6 Bh4 c5 dxc5 Nbd7 Rc1 Qa5 Qd4 O-O a3 Bxc5 Qd2 Bb6 e3 Ne4 Nxe4 dxe4 Qxa5 Bxa5+ Nd2 Bxd2+ Kxd2 Ne5 Be2 Be6 Rc3 f6 Rhc1 Rfd8+ Ke1 Nd3+ Bxd3 exd3 Kd2 Rd6 Rd1 Rb6 Kc1 Rd8 Rdxd3 Rxd3 Rxd3 Bc4 Rd4 Rc6 Kd2 Bf1 g4 Rb6 Kc1 Bg2 a4 Bf3 Bg3 a6 b4 Rc6+ Kd2 Rc8 a5 g5 h3 Bg2 Rd7 Bxh3 f3 Bg2 Rxb7 Bxf3 Rb6 Rd8+ Ke1 Kf7",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767521227.2833216
+  "updated": 1767521423.9984305
 }
