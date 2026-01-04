@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3052,
-  "opponent": "AlphaOneBot",
+  "rating": 3047,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 44,
-  "timestamp": "2026-01-04T15:32:58.561219",
+  "time_left": 33,
+  "timestamp": "2026-01-04T15:34:58.160408",
   "last_game": {
     "result": "draw",
-    "opponent": "AlphaOneBot",
-    "rating_before": 3052,
-    "rating_after": 3052,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3047,
+    "rating_after": 3047,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 Na5 Bg5 Nxc4 dxc4 h6 Bxf6 Qxf6 Nd5 Qd8 b4 Bb6 Qd3 O-O Rfd1 Bg4 h3 Bh5 a4 a5 g4 Bg6 Nxb6 cxb6 Rab1 Qc7 Nh4 Rfd8 bxa5 Rxa5 Ng2 f6 Ne3 Rxa4 Qb3 Ra6 Qd3 Ra4 Qb3 Ra6 Qd3 Ra4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Bxe3 Nxe3 c5 Kh1 Ne6 b3 Nd4 Ng1 Qd6 Ne2 Be6 Qd2 b6 Rae1 Raf8 f4 Nxe2 fxe5 Ng3+ hxg3 Qxe5 Rf4 Re8 Ref1 c6 Qf2 Qh5+ Rh4 Qe5 Rf4 Qh5+ Kg1 Qe5 Kh2 Qc3 Qe1 Qd4 a5 Rfe7 axb6 axb6 Qf2 Qe5 Qf3 Qc3 Rf2 b5 Rh4 h6 Ng4",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767540778.5613258
+  "updated": 1767540898.1605327
 }
