@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3059,
-  "opponent": "CatChessX",
+  "rating": 3057,
+  "opponent": "Rojer_madura",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 37,
-  "timestamp": "2026-01-04T15:24:48.474700",
+  "time_left": 46,
+  "timestamp": "2026-01-04T15:26:00.905161",
   "last_game": {
-    "result": "draw",
-    "opponent": "CatChessX",
-    "rating_before": 3059,
-    "rating_after": 3059,
+    "result": "win",
+    "opponent": "Rojer_madura",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 a5 Be3 Nd4 h3 c6 a4 Nxf3+ Qxf3 Bb6 Rad1 Be6 b3 Bxe3 Qxe3 O-O Bxe6 fxe6 Rfe1 Nh5 d4 exd4 Rxd4 d5 Rd2 Nf6 e5 Nd7 Ne2 Rf7 c4 Qb6 Qxb6 Nxb6 cxd5 Nxd5 h4 Rd8 Ng3 Rf4 Ne4 Rxh4 g3 Rh6 f4 Rg6 Kf2 Rh6 Kg2 Rg6 Kf3 Rh6 Rc1 Rf8 Ng5 Rb8 Ne4 Rf8 Re1 Rb8 Kg2 Rf8 Kf3 Rb8",
+    "moves": "e4 g6 d4 Bg7 Nc3 e6 h4 d6 h5 Bf6 Be3 e5 dxe5 dxe5 Qxd8+ Bxd8 Nf3 c6 hxg6 fxg6 Nxe5 Ne7 Bc4 Bc7 Bf7+ Kf8 Bh6#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767540288.4748025
+  "updated": 1767540360.9052467
 }
