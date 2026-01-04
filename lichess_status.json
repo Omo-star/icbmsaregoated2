@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3051,
-  "opponent": "AlphaOneBot",
+  "rating": 3053,
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 27,
-  "timestamp": "2026-01-04T15:42:17.193693",
+  "time_left": 20,
+  "timestamp": "2026-01-04T15:45:18.698165",
   "last_game": {
     "result": "win",
-    "opponent": "AlphaOneBot",
-    "rating_before": 3051,
-    "rating_after": 3051,
+    "opponent": "AetherBot",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 Na5 Bg5 Nxc4 dxc4 h6 Bxf6 Qxf6 Nd5 Qd8 b4 Bb6 Qd3 O-O Rfd1 Be6 h3 f5 c5 dxc5 Qe3 Qe8 exf5 Bxf5 bxc5 Ba5 Qa3 c6 Ne3 Bc7 Nxf5 Rxf5 Re1 b5 Qb3+ Qf7 Rad1 Kh7 Qd3 Kg8 Qb3 Kh7 c4 Qxc4 Qb1 g6 Nd2 Qxc5 Ne4 Qe7 Qc2 Qe6 Re3 Rd8 Rxd8 Bxd8 Rc3 Rf7 Rxc6 Qf5 g4 Qf4 Nc5 Bf6 Kg2 e4 Qxe4 Qxe4+ Nxe4 Bd8 Rd6 Bc7 Rd5 b4 Rb5 a5 h4 Kg7 h5 Re7 Ng3 Bxg3 Kxg3 g5 Rxa5 Rb7 f3 b3 axb3 Rxb3 Kf2 Rc3 Ra7+ Kg8 Rd7 Kh8 Rd8+ Kh7 Rd7+ Kg8 Ke2 Ra3 Rd3 Rxd3 Kxd3 Kf7 f4 gxf4 Ke4 f3 Ke3 f2 Kxf2 Kg8 Kf3 Kf8 Kf4 Ke8 g5 Kf8 g6 Kg8 Ke5 Kh8 Kd5 Kg8 Kd4 Kh8 Kd3 Kg8 Kc3 Kh8 Kc4 Kg8 Kd3 Kh8 Kd4 Kg8 Ke5 Kh8 Kd4 Kg8 Kc3 Kh8 Kd2 Kg8 Kc2 Kh8",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 e5 h3 f5 Rd1 Rxd1 Qxd1 Bf7 Qc2 Bd5 Nd2 Qe6 b4 a6 Qc5 e4 Nc4 b5 Nd6 g5 Ne8 Ne7 Qd4 Kf8 Bh5 Qg8 Qf6+ Bf7 Nd6 Qg7 Qxf7+ Qxf7 Nxf7 Kg7 Nd6 Kf6 g4 fxg4 hxg4 Ke5 Nb7 Nc6 Be8 Ne7 Nc5 Nd5 Nxa6 Nf6 Bxb5 Nxg4 Nc5 Nf6 Nd7+ Nxd7 Bxd7 h5 Kh2 Kd6 Bb5 Ke6 a4 Kd6 Kh3 Kc7 a5 h4 Be2 Kd7 b5 Kc7 Bh5 Kb7 Be8 Kb8 b6 Kb7 Bb5 g4+ Kxh4 Kb8 Kxg4 Kb7 Kg5 Kb8 Bc6 Kc8 a6 Kd8 Kf6 Kc8 a7 Kd8 a8=Q#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767541337.1937723
+  "updated": 1767541518.6982503
 }
