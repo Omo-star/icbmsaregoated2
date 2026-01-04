@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3057,
-  "opponent": "CatChessX",
+  "rating": 3062,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 46,
-  "timestamp": "2026-01-04T15:19:28.743556",
+  "time_left": 30,
+  "timestamp": "2026-01-04T15:20:46.505279",
   "last_game": {
-    "result": "win",
-    "opponent": "CatChessX",
-    "rating_before": 3057,
-    "rating_after": 3057,
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3062,
+    "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 a5 Be3 Nd4 h3 c6 a4 Nxf3+ Qxf3 Bb6 Rad1 Be6 b3 Bxe3 Qxe3 O-O d4 Bxc4 bxc4 Qe7 Rd3 Rfe8 Rb1 exd4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Nd7 Nf1 d5 Ne3 dxe4 dxe4 Re8 a4 Ncb8 Qc2 c6 Bf1 Qc7 Bd2 Nb6 b4 Be7 Rec1 Bf8 g4 g6 Rd1 N8d7 g5 h5 bxa5 Rxa5 c4 Raa8 a5 Nc8 Bc3 Bc5 Rd3 Bf8 Rdd1 Bc5 Bg2 Ra7 Qd2 Ra8 Qb2 Bxe3 fxe3 Nd6 Bxe5 Nxc4 Bxc7 Nxb2 Rdb1 Nc4 Rxb7",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767539968.743648
+  "updated": 1767540046.5054183
 }
