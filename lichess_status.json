@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "ToromBot",
+  "rating": 3064,
+  "opponent": "CatChessX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 149,
-  "timestamp": "2026-01-04T12:51:28.040627",
+  "time_control": "TC: 1+0",
+  "time_left": 33,
+  "timestamp": "2026-01-04T15:15:16.023588",
   "last_game": {
     "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "CatChessX",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 g6 Bc4 d6 d4 cxd4 Nxd4 Nc6 Nc3 Bg7 Be3 Nf6 Be2 Bd7 f3 O-O Qd2 Nxd4 Bxd4 Qa5 g4 Be6 a3 Rfc8 O-O-O Rab8 Kb1 b5 Nd5 Qxd2 Rxd2 Bxd5 exd5 Rc7 h4 h5 g5 Nd7 Re1 a5 f4 Nc5 Bxg7 Kxg7 Rd4 b4 axb4 Rxb4 Rxb4 axb4 Bb5 f5 Be8 Ra7 Rd1 Rb7 Kc1 Rc7 Bc6 e5 fxe5 dxe5 Kd2 Ne4+ Ke2 Nd6 Re1 Kf8 c3 bxc3 bxc3",
-    "duration": 253,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 a5 Be3 Nd4 h3 c6 a4 Nxf3+ Qxf3 Bb6 Rad1 Be6 b3 Bxe3 Qxe3 O-O Bxe6 fxe6 Rfe1 Nh5 d4 exd4 Rxd4 d5 Rd2 Qf6 Ne2 Qg6 Kh2 Nf6 Ng3 h5 exd5 exd5 Qd4 Rae8 Rde2 Kh7 Re7 Ne4 Rxe8 Rxe8 Nxe4 Rxe4 Rxe4 Qxe4 Qd2 h4 Qg5 Kg8 Qd8+ Kh7 Qg5 Kg8 Qd8+ Kf7 Qxa5 Qf4+ Kg1 Qc1+ Kh2 Qf4+ Kg1 Qc1+ Kh2 Qf4+",
+    "duration": 60,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767531088.0408044
+  "updated": 1767539716.023689
 }
