@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3053,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "AetherBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 56,
-  "timestamp": "2026-01-04T15:53:42.371224",
+  "time_left": 36,
+  "timestamp": "2026-01-04T15:54:52.459871",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "AetherBot",
     "rating_before": 3053,
     "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 a3 Ba5 Qxd4 Rd8 Qc5 Qxc5 Nxc5 Nd7 Nb3 Bb6 Be2 Nf6 Ne5 Bd7 Nc5 Be8 Nxb7 Rd2 Bf3 Rxb2 Nd6 Rd8 Nec4 Rb3 g3 Bb5 Nxb5 Rxb5 a4 Rf5 Kg2 Bc7 Na3 Bb6 Nc4 Bc7 Nb2 Bb6 Nc4 Bc7",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qb7 Ne5 Bf5 Bg2 b5 f3 Nd6 Qd2 bxa4 Nxg6 fxg6 Bxd6 Rxe1+ Rxe1 Rd8 Be5 Qc6 g4 hxg4 fxg4 Bxg4 Qh6 Qe8 Re3 Bxe5 Rxe5 Be6 Qe3 Kf7 Bxd5 Bxd5 Rxe8 Rxe8 Qg5 Be4 d5 Bd3 Qf4+ Kg8 d6 Rf8 Qd4 Rf1+ Kg2 Rb1 d7 Rxb2+ Kg3 Rb8 Qd5+ Kh7 Qf7+ Kh8 Kg4 Bc2 Qe8+ Rxe8 dxe8=Q+ Kg7 Kg5 Be4 Qe7+ Kh8 Kf6 Kg8 Qg7#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767542022.371339
+  "updated": 1767542092.4599507
 }
