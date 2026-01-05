@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "FayEFish",
+  "rating": 3017,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 129,
-  "timestamp": "2026-01-05T08:06:49.196770",
+  "time_control": "TC: 10+0",
+  "time_left": 370,
+  "timestamp": "2026-01-05T08:13:39.840543",
   "last_game": {
     "result": "draw",
-    "opponent": "FayEFish",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "CloudNetBot",
+    "rating_before": 3017,
+    "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Bxf4 gxf4 Nc2 f3 Ra3 fxg2 Bxg2 Bh4 d5 Qb5 b4 Qxa6 Qd4 Qe2 Qxh4 Qxc2 Rg3 Qb2 a6 Qa1+ Kh2 Qe5 b5 Bxd5 Bxd5+ Qxd5 a7 Rf8 Qe7 Rxf2+ Kg1 Rf7 Qd8+ Rf8 Qb8 Qe4 Rg2 h4 Qxc7 Qe3+ Kh2 Qe5+ Kg1 Qd4+ Kh2 Qe5+ Kg1 Qe3+ Kh2 Qf4+ Kh1 Qf1+ Kh2 Qf4+ Kh1",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 h4 d5 cxd5 Nxd5 g3 Bc5 Bg2 O-O O-O Nf6 d3 h6 b3 Qe7 Bb2 Rd8 Qc2 a5 a3 Be6 Na4 Ba7 Rac1 Nd7 Nd2 f5 Bxc6 bxc6 Qxc6 Rf8 Nc3 Qf7 Qg2 Rab8 a4 Bc5 Nb5 Bd5 e4 fxe4 Nxc7 Bxb3 Nxe4 Be7 Bc3 Ba3 Ra1 Be7 Rac1 Bxa4 Bxa5 Rb2 Nd2 Bc5 Qd5 Qxd5 Nxd5 Rb5 Nc4 Bxf2+ Rxf2 Rxd5 Rxf8+ Kxf8 Rc3 Ke7 Bc7 Bb5 Nb6 Nxb6 Bxb6 Kd6 Bc7+ Ke6 Bb6 Rd6",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767600409.1968749
+  "updated": 1767600819.8406544
 }
