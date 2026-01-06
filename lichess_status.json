@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "LeelaChessTest",
+  "rating": 3017,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 71,
-  "timestamp": "2026-01-06T12:56:40.278835",
+  "time_control": "TC: 10+0",
+  "time_left": 332,
+  "timestamp": "2026-01-06T13:07:40.026095",
   "last_game": {
     "result": "draw",
-    "opponent": "LeelaChessTest",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "opponent": "RaspFish",
+    "rating_before": 3017,
+    "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 g3 Bb4 Bg2 O-O O-O e4 Ng5 Bxc3 bxc3 Re8 Qc2 Qe7 d3 exd3 exd3 h6 Nf3 d6 Be3 Bf5 Bd4 Rab8 Rfe1 Nxd4 cxd4 Qd7 d5 a6 Nd4 Bg6 Bf1 Rxe1 Rxe1 Re8 Rb1 Qg4 Qc3 b6 h3 Qc8 g4 h5 f3 Nd7 Re1 hxg4 hxg4 Rxe1 Qxe1 Ne5 Qe3 Qd8 g5 Qd7 f4 Qg4+ Kf2 Qh4+ Kg2 Qg4+ Kf2 Qh4+ Kg2 Ng4 Qg3 Qxg3+ Kxg3 Ne3 Be2 Nf5+ Nxf5 Bxf5 Kf2 Kh7 Kg3 Kg6 Kh4 Kh7 a3 f6 gxf6 gxf6 Kg3 Kg6 Kf2 Bd7 Bf3 b5 cxb5 Bxb5 Be2 Ba4 Bg4 Bb3 Bf3 Bc2 Be4+ Kh5 Kg3 a5 Kh3 Ba4 Bf3+ Kh6 Kg4 Bd7+ Kg3 Ba4 Kg4 Bd7+ Kg3 Bf5 Be4 Bc8 Kh4 Bd7 d4 Be8",
-    "duration": 180,
+    "moves": "e4 e5 f4 exf4 Nf3 g5 d4 g4 Ne5 Qh4+ g3 fxg3 Qxg4 Qxg4 Nxg4 Nc6 c3 gxh2 Be2 f5 exf5 d6 Bf4 Bxf5 Ne3 Bg6 Nd2 O-O-O Rxh2 Kb8 O-O-O Bg7 Rg1 a6 Ng2 Bf6 Bh5 Bxh5 Rxh5 Be7 Ne4 Re8 Re1 Bd8 Bd2 Nf6 Nxf6 Rxe1+ Nxe1 Bxf6 Kc2 Kc8 Nd3 Kd7 Nf2 Nd8 Ne4 Be7 a4 Nf7 b4 h6 Kd3 Ke8 b5 axb5 axb5 Kf8 Ng3 Kg7",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767704200.278923
+  "updated": 1767704860.0262063
 }
