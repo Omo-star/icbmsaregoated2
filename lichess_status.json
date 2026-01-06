@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "atwell-chess-bot",
+  "rating": 3053,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 33,
-  "timestamp": "2026-01-06T12:51:11.325854",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2026-01-06T12:51:55.746467",
   "last_game": {
-    "result": "win",
-    "opponent": "atwell-chess-bot",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "result": "draw",
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Bg5 dxc4 e3 b5 Be2 Bb7 O-O Nbd7 h3 Be7 Ne1 O-O Nd2 c5 Bf3 Qb6 Nc2 cxd4 exd4 Rfc8 Bxb7 Qxb7 Nf3 a5 Re1 h6 Bxh6 gxh6 Qd2 Kh7 Qe2 Rg8 Rac1 Rg6 Nh4 Rg7 Nf3 Rag8 Ne3 Bb4 Red1 Qe4 Qc2 Nb6 Ne5 Qxc2 Rxc2 Nfd5 Nc6 Nxe3 fxe3 Nd5 Re2 Rxg2+ Rxg2 Rxg2+ Kxg2 Nxe3+ Kf3 Nxd1 b3 c3 Nxb4 axb4 Ke2 Nb2 Ke3 Kg6 Ke2 Kf6 h4 h5 Ke3 Kf5 Ke2 Kf4 Ke1 Kf3 a4 bxa3 Kf1 c2 Kg1 c1=Q+ Kh2 Qc2+ Kh3 Qg2#",
-    "duration": 274,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qd6 Qc2 Rbc8 Qd2 Qb8 Qd3 Bd6 Nf3 b5 Qd2 Kg6 Ne1 Kg7 Nd3 Ng4 b4 Ne3 Qxe3 Rxc3 Qf2 f5 e3 Bg8 Qd2 Qc7 Rc1 Rxc1 Rxc1 Qe7 Re1 h5 Qa2 Qf7 Qc2 Qf6 Qf2 Re8 Nc5 Re7 Rf1 Qg6 Qxf5 Rxe3 Qf2 Rxa3 Nd7 h4 gxh4 gxh4 Kh1 h3 Bxh3 Rxh3 Rg1 Rxh2+ Qxh2 Bxh2 Kxh2 Qxg1+ Kxg1 Kf7 Kf2 Ke7 Nc5 Bh7 Ke3 Kd6 Nb7+ Kc6 Na5+ Kd6 Ke2 Bc2 Nb7+ Kc7 Na5 Be4 Ke3 Kd7 Kf2 Bd3 Kf3 Be4+ Ke3 Kd6 Kf4 Bd3 Ke3",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767703871.3259158
+  "updated": 1767703915.7465992
 }
