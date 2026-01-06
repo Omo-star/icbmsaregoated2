@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2974,
+  "opponent": "PestoPasta-Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 161,
-  "timestamp": "2026-01-06T13:25:27.526816",
+  "time_control": "TC: 3+2",
+  "time_left": 74,
+  "timestamp": "2026-01-06T13:30:30.614283",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "win",
+    "opponent": "PestoPasta-Bot",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 Nc5 g4 b5 Na5 Bd7 a3 Ne6 g5 c5 c3 Nxg5 Nxg5 fxg5 Rxg5 Qf6 Qe2 Re7 b4 Rf7 Rg2 Qe6 bxc5 Be7 Qa2 Qxa2 Rxa2 h5 a4 bxa4 c6 Bh3 Rxa4 Bxg2+ Kxg2 Raf8 Nc4 Bg5 Bc5 Re8 Rxa7 Re6 Bd6 Ref6 Bc5 Re6 Rb7 Bh4 Na5 Rg6+ Kf1 Rgf6 Rb2 Bg5 Ke2 Bh4 Kf1 Bg5 Ke2 Bh4 Ke1 Bg5 d4 Rf3 d5 Rxc3 Rb8+ Kh7 Rf8 Kg6 Rxf7 Kxf7 Nb7 Ke8 d6 cxd6 Nxd6+ Kd8 c7+ Kxc7 Nb5+ Kc6 Nxc3 Kxc5 Nd5 Kd4 f3 Kd3 Kf1",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 Bc4 Nxe4 O-O Nxc3 dxc3 f6 Qd5 Qe7 Be3 Nd8 Rae1 c6 Qd1 d5 Be2 Be6 a4 Qc7 c4 Bd6 c3 O-O h3 Kh8 b4 b6 c5 bxc5 bxc5 Be7 Qb1 f5 Ng5 h6 Nf3 Bg8 a5 Ne6 a6 f4 Bc1 e4 Nd4 Bxc5 Qb7 Qd6 Qb2 f3 gxf3 exf3 Bd3 Nf4 Bxf4 Qxf4 Qc1 Qh4 Be2 Qxh3 Nxf3 Rxf3 Bxf3 Bd6 Re5 Bxe5 Qxh6+ gxh6 Re1 Bh2+ Kh1 Bg3+ Kg1 Qh2+ Kf1 Qxf2#",
+    "duration": 340,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1767705927.5269096
+  "updated": 1767706230.6143436
 }
