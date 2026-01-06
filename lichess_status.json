@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3020,
-  "opponent": "MAGIC11BOT",
+  "rating": 3053,
+  "opponent": "LeelaChessTest",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 295,
-  "timestamp": "2026-01-06T12:28:54.448744",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2026-01-06T12:29:41.889458",
   "last_game": {
     "result": "draw",
-    "opponent": "MAGIC11BOT",
-    "rating_before": 3020,
-    "rating_after": 3020,
+    "opponent": "LeelaChessTest",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 c6 Nf3 d5 Nc3 e6 Bg5 h6 Bh4 Be7 e3 O-O Qc2 Nbd7 a3 b6 cxd5 cxd5 Bd3 Bb7 O-O Rc8 Qa4 a6 Rfc1 Ne4 Bxe7 Qxe7 Qb4 Qxb4 axb4 Nxc3 bxc3 Ra8 Nd2 Rfc8 Kf1 a5 Ke2 Kf8 bxa5 Rxa5 Rxa5 bxa5 Rb1 Bc6 f3 f5 e4 dxe4 fxe4 a4 exf5 e5 Bb5 Bxb5+ Rxb5 exd4 cxd4 Ra8 Rb2 Nf6 Nb1 Nd5 Kf3 Kf7 Na3 Rc8 Ke4 Nc3+ Kf3 Nd5 Ke4 Nc3+ Kd3 Nd5 Ke4",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 e3 b6 Bd3 Bd6 Nbd2 O-O Qc2 Bb7 c5 Be7 b4 a5 b5 c6 a4 Nbd7 cxb6 c5 dxc5 Bxc5 Ba3 Bxa3 Rxa3 Nxb6 O-O Qd6 Qb2 Rfc8 h3 Nfd7 Rfa1 g6 Bf1 e5 Rc3 f6 Rxc8+ Rxc8 Ne1 Nc5 Qa3 Qf8 Nb3 Ncxa4 Nxa5 Qxa3 Rxa3 Ba8 Nd3 Kf7 Ra1 Ke7 g4 Kd6 h4 Rc2 g5 fxg5 hxg5 Rc3 Nb4 Nc5 Nac6 Bxc6 Nxc6 Nba4 Rd1 Nb6 Ra1 Nba4 Na5 d4 exd4 exd4 Nc4+ Kd5 b6 Rb3 b7 Rxb7 Bg2+ Kxc4 Bxb7 d3 Ba6+ Kc3 Bxd3 Kxd3 Kg2 Ke4 Rh1 Kf5 Rxh7 Nd3 Rf7+ Kxg5 Kg3 Nc3 f4+ Nxf4 Kf3 Ne6 Ra7 Nd4+ Ke3 Nf5+ Kf3 Nh4+ Ke3 Nf5+ Kf3 Nh4+ Ke3 Nf5+",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767702534.4489112
+  "updated": 1767702581.889584
 }
