@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3020,
-  "opponent": "NimasBot",
+  "rating": 3060,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 312,
-  "timestamp": "2026-01-06T09:19:50.570921",
+  "time_control": "TC: 1+0",
+  "time_left": 36,
+  "timestamp": "2026-01-06T09:20:25.467149",
   "last_game": {
     "result": "draw",
-    "opponent": "NimasBot",
-    "rating_before": 3020,
-    "rating_after": 3020,
+    "opponent": "FayEFish",
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O Bg5 c5 Rc1 cxd4 Nxd4 h6 Bh4 Nc6 e3 Be7 Be2 d5 O-O Bd7 cxd5 Nxd4 Qxd4 Nxd5 Bxe7 Nxe7 Rfd1 Bc6 Qb4 Qe8 Nb5 a5 Qc4 Bxb5 Qxb5 Qxb5 Bxb5 Rab8 Kf1 g5 Ke2 Kg7 g3 Rbc8 Bd7 Rxc1 Rxc1 Kf6 Rc7 Rb8 e4 g4 Ke3 Nc6 Rc8 Rxc8 Bxc8 b6 Bb7 Nd8 Ba6 Ke5 Be2 f5 exf5 exf5 f4+ gxf3 Bxf3 Ne6 Kd3 b5 Kc3 Nc5 Bc6 Ne4+ Kd3 Nc5+ Kc3 Ne4+ Kd3 Nc5+ Kc3",
-    "duration": 600,
+    "moves": "d4 d5 Nf3 Nf6 Bf4 c5 e3 Nc6 dxc5 e6 c4 Bxc5 a3 O-O Nc3 Re8 Bg5 h6 Bh4 Be7 Qc2 d4 Nxd4 Nxd4 exd4 Qxd4 Bg3 Bd7 Bd3 a5 O-O Qb6 Rab1 a4 Nb5 Bxb5 cxb5 Bc5 Rbc1 Bd4 Bc7 Qa7 Qd2 Re7 Rc4 Rd7 h3 Bc5 Be5 Rad8 Qc2 Bxf2+ Qxf2 Qxf2+ Rxf2 Rxd3 Bxf6 gxf6 Rg4+ Kf8 Rxf6 R8d4 Rxd4 Rxd4 Rxh6 Kg7 Rh5 f5 b6 Kg6",
+    "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767691190.5710042
+  "updated": 1767691225.4672453
 }
