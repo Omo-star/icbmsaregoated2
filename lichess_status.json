@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3053,
-  "opponent": "LeelaChessTest",
+  "rating": 2973,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2026-01-06T12:29:41.889458",
+  "time_control": "TC: 3+0",
+  "time_left": 91,
+  "timestamp": "2026-01-06T12:32:45.057336",
   "last_game": {
     "result": "draw",
-    "opponent": "LeelaChessTest",
-    "rating_before": 3053,
-    "rating_after": 3053,
+    "opponent": "Cheszter",
+    "rating_before": 2973,
+    "rating_after": 2973,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 e3 b6 Bd3 Bd6 Nbd2 O-O Qc2 Bb7 c5 Be7 b4 a5 b5 c6 a4 Nbd7 cxb6 c5 dxc5 Bxc5 Ba3 Bxa3 Rxa3 Nxb6 O-O Qd6 Qb2 Rfc8 h3 Nfd7 Rfa1 g6 Bf1 e5 Rc3 f6 Rxc8+ Rxc8 Ne1 Nc5 Qa3 Qf8 Nb3 Ncxa4 Nxa5 Qxa3 Rxa3 Ba8 Nd3 Kf7 Ra1 Ke7 g4 Kd6 h4 Rc2 g5 fxg5 hxg5 Rc3 Nb4 Nc5 Nac6 Bxc6 Nxc6 Nba4 Rd1 Nb6 Ra1 Nba4 Na5 d4 exd4 exd4 Nc4+ Kd5 b6 Rb3 b7 Rxb7 Bg2+ Kxc4 Bxb7 d3 Ba6+ Kc3 Bxd3 Kxd3 Kg2 Ke4 Rh1 Kf5 Rxh7 Nd3 Rf7+ Kxg5 Kg3 Nc3 f4+ Nxf4 Kf3 Ne6 Ra7 Nd4+ Ke3 Nf5+ Kf3 Nh4+ Ke3 Nf5+ Kf3 Nh4+ Ke3 Nf5+",
-    "duration": 30,
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 Bg5 d5 Bxf6 Bb4+ Nc3 Qxf6 e3 Bxc3+ bxc3 Nd7 cxd5 cxd5 c4 Qc6 cxd5 Qc3+ Kf1 Nf6 Ne2 Qa5 h3 b6 Kg1 Bb7 g4 O-O Ng3 Qxd5 Qb3 Qg5 a4 Bd5 Qb5 h6 a5 Rfb8 axb6 Rxb6 Qa5 Rb2 Qc7 Ba2 Rc1 Rxf2 Kxf2 Nd5 Qc6 Qxe3+ Kf1 Rb8 Nf5 Bc4+ Qxc4 Rb2 Nxe3 Nxe3+ Ke1 Nxg2+ Kd1 Ne3+ Ke1 Ng2+ Kd1 Ne3+ Ke1 Ng2+",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767702581.889584
+  "updated": 1767702765.0574896
 }
