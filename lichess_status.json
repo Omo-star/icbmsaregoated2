@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2971,
+  "rating": 3055,
   "opponent": "FayEFish",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 100,
-  "timestamp": "2026-01-06T09:35:16.352921",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-01-06T09:36:21.379927",
   "last_game": {
     "result": "draw",
     "opponent": "FayEFish",
-    "rating_before": 2971,
-    "rating_after": 2971,
+    "rating_before": 3055,
+    "rating_after": 3055,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 d5 Nf3 c6 Bc3 dxc4 Ne5 b5 Nxc6 Nxc6 Bxc6+ Bd7 Bxa8 Qxa8 f3 h5 a3 h4 g4 a5 O-O O-O e4 Rd8 Nd2 Qa7 Kh1 Qc7 b4 axb4 axb4 Bc6 Qe1 Nd7 d5 Bb7 dxe6 fxe6 g5 Bxg5 Ra5 Ne5 Rxb5 Nd3 Qa1 e5 Rxb7 Qxb7 Nxc4 Qb5 Nxe5 Nxe5 Bxe5 Rd7 f4 h3 Qa2+ Kh7 Qf2 Bh6 Qf3 Qxb4",
-    "duration": 180,
+    "moves": "e4 d5 exd5 Nb6 O-O Nxd5 f4 Qa4 Nb3 Nxf4 d4 Nd5 Bd2 O-O Rc1 Qe8 c4 Nf6 h4 Bg4 Bxg4 Nxg4 Nf2 Nf6 Ne4 Ng4 Nf2 Nf6 Ne4 Ng4 Nf2 Nf6",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767692116.3530214
+  "updated": 1767692181.3800256
 }
