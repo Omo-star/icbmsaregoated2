@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3015,
-  "opponent": "CloudNetBot",
+  "rating": 3054,
+  "opponent": "AlPhAbEtACeta",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 19,
-  "timestamp": "2026-01-08T10:57:30.530203",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2026-01-08T10:58:15.625810",
   "last_game": {
-    "result": "loss",
-    "opponent": "CloudNetBot",
-    "rating_before": 3015,
-    "rating_after": 3015,
+    "result": "draw",
+    "opponent": "AlPhAbEtACeta",
+    "rating_before": 3054,
+    "rating_after": 3054,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 Bg4 Be2 O-O O-O Nfd7 Be3 Nc6 d5 Bxf3 Bxf3 Na5 Be2 Bxc3 bxc3 e5 Bh6 Qe7 Qd2 b6 Bxf8 Rxf8 Qh6 Re8 Rae1 Qf8 Qh3 Qe7 Bd3 Nc5 Qe3 Nxd3 Qxd3 Nb7 Re2 Nc5 Qh3 h5 g3 Qf6 Qg2 Kg7 h4 Qe7 Qh3 Qf6 Re3 a6 Qh2 Qd8 Qh3 Qf6 Qg2 Nd7 f3 Qe7 Qh3 Qd8 Rf2 Nc5 Rf1 Qf6 Rfe1 Rf8 Rf1 Re8 Rfe1 Rg8 Qh2 Nd7 f4 Qe7 Rf3 exf4 gxf4 Nf6 e5 Ng4 Qg3 dxe5 fxe5 Qc5+ Kh1 Qxc4 e6 f6 Rd1 Qe2 Rff1 Rc8 Qf4 Qe3 Rde1 Qc5 Qd4 Qd6 Re2 b5 Rf4 Kh7 Kg1 Re8 Rf3 Rd8 Rg2 f5 Re2 a5 Rd3 Rb8 Kf1 Rd8 Kg1 Rb8 Kf1 Rd8 a4 bxa4 Qxa4 Qe7 Kg1 Nf6 Qxa5 Ne4 Qa7 Rg8 Rf3 Rg7 Rh2 Nf6 Qd4 Ng4 Rhh3 Rg8 Qb4 Qg7 Rf1 Qe5 Qd4 Qe2 Qf4 Qa2 Rd3 Qa5 c4 Qc5+ Qd4 Qe7 Rh3 Qb4 Ra1 Rd8 Kh1 Rc8 d6 Qxd6 Qxd6 cxd6 Ra7+ Kh6 Rb3 f4 e7 Re8 Rb6 f3 Rxd6 Rb8 Ra1 Kg7 Rd4 Re8 Ra7 Ne5 Rc7 Kf6 c5 Ng4 Rd8 Rxe7 Rxe7 Kxe7 Rd4 Ne5 Kg1 Ke6 Rd6+ Kf7 c6 Ke7 c7 Kxd6 c8=Q Kd5 Qb7+ Kd4 Kf2 Kc5 Qe4 Kd6 Ke3 Ke6 Kd4 Kd6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be7 f3 Be6 Qd2 h5 O-O-O Nbd7 Kb1 b5 Nd5 Bxd5 exd5 Nb6 Bxb6 Qxb6 Na5 Qc5 Nc6 Bd8 b4 Qb6 Rc1 O-O c4 Nd7 a3 bxc4 Bxc4 a5 b5 Re8 Rhe1 g6 a4 Nc5 f4 e4 f5 g5 f6 Bxf6 Rf1 e3 Qc2 Bg7 Qf5 Qb7 Be2 Nxa4 h4 gxh4 Rf4 Nc3+ Rxc3 Bxc3 Qxh5 Bg7 Rg4",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767869850.530295
+  "updated": 1767869895.625985
 }
