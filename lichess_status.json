@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3052,
-  "opponent": "Alehkine_cat",
+  "rating": 2974,
+  "opponent": "FayEFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-01-08T08:25:27.503790",
+  "time_control": "TC: 3+0",
+  "time_left": 144,
+  "timestamp": "2026-01-08T08:27:06.554741",
   "last_game": {
     "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3052,
-    "rating_after": 3052,
+    "opponent": "FayEFish",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 b3 Kc8 Bb2 Be7 Rad1 a5 a4 b6 Rd3 Nh4 Nxh4 Bxh4 Ne4 Be6 Rfd1 Be7 f3 h5 g3 Kb7 Kg2 Bf5 h3 Rae8 R3d2 Be6 Bc1 Rhg8 Re2 Bc8 Rd3 Bd8 Bb2 Rh8 Rde3 Be6 Rd3 Bc8 Rd1 Be7 Bc1 Bd8 Bb2 Be7 Rde1 Bb4 Rf1 Be7 Bc1 Rd8 Bg5 Rhe8 Rfe1 Rd4 Bxe7 Rxe7 f4 c5 c4 Bf5 Re3 Kc8 R1e2 Kd8 Ng5 Rd1 Ne4 Rd4 Ng5 Rd1 Ne4 Rd4",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 Nbd2 Be6 O-O Bd6 Nb3 a5 Qe1 a4 Na5 Qb8 b4 O-O Ng5 Bg4 Nc4 h6 f3 Bd7 f4 hxg5 fxe5 Nxe4 Qxe4 Be7 Ne3 Qa7 Kh1 f5 Nxf5 Bxf5 Rxf5 Rxf5 Qxf5 Qd4 Qe6+ Kh7 Qf5+ Kg8 Rb1 Rf8 Qe6+ Kh7 Qh3+ Kg8 Qe6+ Kh7 Qh3+ Kg6 Qe6+ Kh7",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1767860727.5039346
+  "updated": 1767860826.5562031
 }
