@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2970,
+  "rating": 3015,
   "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 164,
-  "timestamp": "2026-01-08T10:38:24.981729",
+  "time_control": "TC: 10+0",
+  "time_left": 19,
+  "timestamp": "2026-01-08T10:57:30.530203",
   "last_game": {
-    "result": "draw",
+    "result": "loss",
     "opponent": "CloudNetBot",
-    "rating_before": 2970,
-    "rating_after": 2970,
+    "rating_before": 3015,
+    "rating_after": 3015,
     "rating_delta": 0,
-    "moves": "d4 c6 e4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 Qb6 Nc3 Nc6 O-O Qxb2 Qe1 cxd4 Bxd4 Nxd4 Nxd4 Bb4 Rb1 Bxc3 Rxb2 Bxe1 Rxe1 b6 h4 h5 Nxf5 exf5 c4 Ne7 Rd2 O-O-O Red1 Ng6 cxd5 Nxe5 Ba6+ Kb8 Re2 Nc6 a3 Rd6 Kh2 Rhd8 dxc6 Rxd1 Re7 Rc1 Rb7+ Ka8 Rxf7 Kb8 Rb7+ Ka8 Rxg7 Kb8 Rb7+ Ka8 Rh7 Kb8 Rxh5 Rc5 Be2 Kc7 Bf3 a5 Rh7+ Kd6 h5 b5 Rb7 Ke5 Rd7 Rh8 g3 b4 axb4 axb4 Rb7 Rc4 Kh3 Rc3 Kg2 b3 c7 Rc8 Rb5+ Kf6 Rb6+ Kg7 Rb5 R8xc7 Bd1 Rc8 Bxb3 Kh6 Be6 R8c5 Rb6 Rc6 Rxc6 Rxc6 Bxf5",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 Bg4 Be2 O-O O-O Nfd7 Be3 Nc6 d5 Bxf3 Bxf3 Na5 Be2 Bxc3 bxc3 e5 Bh6 Qe7 Qd2 b6 Bxf8 Rxf8 Qh6 Re8 Rae1 Qf8 Qh3 Qe7 Bd3 Nc5 Qe3 Nxd3 Qxd3 Nb7 Re2 Nc5 Qh3 h5 g3 Qf6 Qg2 Kg7 h4 Qe7 Qh3 Qf6 Re3 a6 Qh2 Qd8 Qh3 Qf6 Qg2 Nd7 f3 Qe7 Qh3 Qd8 Rf2 Nc5 Rf1 Qf6 Rfe1 Rf8 Rf1 Re8 Rfe1 Rg8 Qh2 Nd7 f4 Qe7 Rf3 exf4 gxf4 Nf6 e5 Ng4 Qg3 dxe5 fxe5 Qc5+ Kh1 Qxc4 e6 f6 Rd1 Qe2 Rff1 Rc8 Qf4 Qe3 Rde1 Qc5 Qd4 Qd6 Re2 b5 Rf4 Kh7 Kg1 Re8 Rf3 Rd8 Rg2 f5 Re2 a5 Rd3 Rb8 Kf1 Rd8 Kg1 Rb8 Kf1 Rd8 a4 bxa4 Qxa4 Qe7 Kg1 Nf6 Qxa5 Ne4 Qa7 Rg8 Rf3 Rg7 Rh2 Nf6 Qd4 Ng4 Rhh3 Rg8 Qb4 Qg7 Rf1 Qe5 Qd4 Qe2 Qf4 Qa2 Rd3 Qa5 c4 Qc5+ Qd4 Qe7 Rh3 Qb4 Ra1 Rd8 Kh1 Rc8 d6 Qxd6 Qxd6 cxd6 Ra7+ Kh6 Rb3 f4 e7 Re8 Rb6 f3 Rxd6 Rb8 Ra1 Kg7 Rd4 Re8 Ra7 Ne5 Rc7 Kf6 c5 Ng4 Rd8 Rxe7 Rxe7 Kxe7 Rd4 Ne5 Kg1 Ke6 Rd6+ Kf7 c6 Ke7 c7 Kxd6 c8=Q Kd5 Qb7+ Kd4 Kf2 Kc5 Qe4 Kd6 Ke3 Ke6 Kd4 Kd6",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767868704.9848907
+  "updated": 1767869850.530295
 }
