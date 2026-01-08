@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3052,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 67,
-  "timestamp": "2026-01-07T14:04:36.152931",
+  "opponent": "AlPhAbEtACeta",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-01-08T07:39:38.985880",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
+    "opponent": "AlPhAbEtACeta",
     "rating_before": 3052,
     "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "O-O g6 g3 c5 c4 Nc6 Nc2 O-O b3 Bxa1 Nxa1 b6 Nc2 e5 Nc3 f5 e3 Nf6 d4 e4 f3 cxd4 exd4 d5 Nxd5 Nxd5 cxd5 Qxd5 Qd2 Ne5 fxe4 fxe4 Ne3 Rxc1 Rxc1 Qd7 Rc2 Ng4 Bg2 h5 Rc1 Nxe3 Qxe3 Re8 h4 Bc6 Kh2 Qd6 Qh6 Bd5 Rd1 Bf7 Qe3 Bd5 Qh6 Rc8 Rf1 Re8 Rd1",
-    "duration": 178,
-    "bot_color": "black",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Qb6 Nb3 Nbd7 Qe2 Qc7 O-O-O b5 a3 Be7 Kb1 h6 Bh4 Rb8 g4 b4 axb4 Rxb4 Bg2 Nc5 Na2 Rb8 Nxc5 Qxc5 e5 Qb6 b3 dxe5 fxe5 Nd5 Bxe7 Nxe7 Nc3 a5 Rd6 Qa7 Kb2 O-O Ra1 Ng6 Be4 Nxe5 Bh7+ Kxh7 Qxe5 Qe7 Rxa5 f6 Qc5 Bb7 Rb6 Qxc5 Rxc5 Bf3 Rxe6 Bxg4 Re7 Rbe8 Ra7",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767794676.1530638
+  "updated": 1767857978.986047
 }
