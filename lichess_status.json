@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2981,
-  "opponent": "shakthitssmp",
+  "rating": 3059,
+  "opponent": "AlPhAbEtACeta",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+0",
-  "time_left": 265,
-  "timestamp": "2026-01-09T03:06:10.379192",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-01-09T07:39:46.199344",
   "last_game": {
-    "result": "win",
-    "opponent": "shakthitssmp",
-    "rating_before": 2981,
-    "rating_after": 2981,
+    "result": "draw",
+    "opponent": "AlPhAbEtACeta",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 c3 d6 O-O a5 a4 h6 h3 g5 Be3 g4 hxg4 Bxg4 Bxc5 dxc5 Nbd2 Qd6 Qb3 O-O-O Bxf7 Rhf8 Bg6 Kb8 Bf5 Bxf5 exf5 Qxd3",
-    "duration": 300,
-    "bot_color": "black",
-    "termination": "timeout"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Qb6 Nb3 Nbd7 Qe2 Qc7 O-O-O b5 a3 Be7 Kb1 h6 Bh4 Rb8 g4 b4 axb4 Rxb4 Be1 Qb8 Bg2 Nc5 e5 Nxb3 exf6 Nc5 fxe7 Rxb2+ Ka1 Bd7 Qc4 Rxc2 Rb1 Qc7 Rg1 Qa5+ Na2 Rxc4 Bxa5 Kxe7 Rb4 Rxb4 Bxb4 g5 fxg5 hxg5 Bxc5 dxc5 h3 f5 Re1 fxg4 hxg4 Rh4 Bf3 Rh3 Ba8 Rg3 Re5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1767927970.37927
+  "updated": 1767944386.1994398
 }
