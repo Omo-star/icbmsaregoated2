@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3010,
-  "opponent": "RaspFish",
+  "rating": 3070,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 393,
-  "timestamp": "2026-01-09T12:39:46.282888",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 7,
+  "timestamp": "2026-01-09T12:42:11.591404",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3010,
-    "rating_after": 3010,
+    "opponent": "BorkaTower",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "b3 e5 c4 Nc6 Bb2 Nge7 Nf3 d5 cxd5 Nxd5 e4 Ndb4 d3 Bg4 a3 Na6 b4 Bxf3 gxf3 Nd4 f4 Nb8 Nd2 Nbc6 Rc1 a5 b5 Nxb5 fxe5 a4 Nf3 Bxa3 Bxa3 Nxa3 d4 Qe7 Be2 O-O O-O Rfd8 d5 Nxe5 Nxe5 Qxe5 Qd3 Qb2 Ra1 Nc2 Rab1 Qa2 Bg4 Rd6 Bf5 g6 e5 Nb4 Rxb4 Rxd5 Qb1 Qd2 Be4 Rxe5 Rxb7 a3 Rxc7 a2 Qb3 Rf8 Bg2 Qa5 Rcc1 Rd8 Qb2 Rb5 Qf6 Rdb8 Rcd1 Rf5 Qd6 Qe5 Qxe5 Rxe5 h4 Kg7 Bf3 Rb3 Kg2 Rf5 Bc6 Rc5 Bf3 Rf5",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "b3 e5 c4 Nf6 e3 Nc6 a3 d5 cxd5 Nxd5 b4 Bd6 Bb2 O-O b5 Na5 Nc3 c6 Nf3 Re8 Qc2 Bd7 Bd3 Nf6 Ne4 Nxe4 Bxe4 cxb5 Bxh7+ Kf8 Be4 Nc4 O-O Rc8 Bc3 b6 h4 Nxa3 Qb3 Be6 Qb2 Qe7 Bxe5 Bxe5 Nxe5 Nc4 Nxc4 bxc4 d4 Qxh4 f3 Qg5 Kf2 Qh4+ Kg1 c3 Qa3+ Kg8 Rac1 Qg3 Rf2 a5 Rxc3 Rxc3 Qxc3 Rc8 Qa3 g6 Bd3 Bd7 Qe7 Rc1+ Rf1 Bh3 Qe8+ Kg7 Qe5+ Qxe5 dxe5 Rxf1+ Kxf1 Bd7 Ke2 b5 Kd2 b4 Bc4 a4 Kd3 a3 Bb3 Kf8 e4 Ke7 Kc2 g5 g3 Bc6 Kd3 Bb5+ Kd4 Bd7 Kc5 Be6 Kxb4 a2 Bxa2 Bxa2 Kc3 Bb1 Kb3 Ke6 Kc3 Kxe5 Kd2 Bxe4 Kc3 Bxf3 Kd2 f5 Ke3 g4 Kd2 f4 Kd3 fxg3 Kc4 g2 Kc5 g1=B+ Kb5 g3 Ka6 g2 Kb5 Ba7 Ka6 g1=N Kb5 Bb6 Kc4 Ba5 Kc5 Ne2 Kb5 Bc6+ Kc4 Nc1 Kc5 Bb5 Kxb5 Bc7 Kc6 Bd6 Kb7 Nd3 Ka8 Nc5 Ka7 Kd5 Ka8 Kc6 Ka7 Be5 Ka8 Nd7 Ka7 Nb6 Ka6 Bb8 Ka5 Nd5 Ka4 Kc5 Kb3 Nb4 Kb2 Bf4 Kc3 Bh6 Kb3 Bd2 Ka4 Nd5 Kb3 Ne3 Ka4 Bb4 Kb3 Kb5 Ka2 Ka4 Kb2 Bd2 Ka2 Nc4 Kb1 Kb3 Ka1 Bf4 Kb1",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1767962386.2830062
+  "updated": 1767962531.5914652
 }
