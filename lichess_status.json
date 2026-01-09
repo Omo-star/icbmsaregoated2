@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2976,
-  "opponent": "Neilgupta2022",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 148,
-  "timestamp": "2026-01-09T01:17:58.268964",
+  "time_left": 32,
+  "timestamp": "2026-01-09T01:28:13.397631",
   "last_game": {
     "result": "win",
-    "opponent": "Neilgupta2022",
+    "opponent": "BorkaTower",
     "rating_before": 2976,
     "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e3 d5 Nf3 e6 d4 h6 Bd3 Nf6 Nc3 c5 e4 cxd4 Nxd4 e5 Nf3 d4 Ne2 Bb4+ c3 dxc3 bxc3 Bd6 Be3 O-O O-O Qa5 Qc2 Be6 Rfb1 Qc7 Rc1 Ba3 Rd1 Nbd7 Nd2 Rfc8 Kh1 Ng4 h3 Nxe3 fxe3 Rd8 Nb3 Nb6 Nec1 Nc4 Bxc4 Rxd1+ Qxd1 Qxc4 Ne2 Qxe4 Qd2 Bxh3 Ng3 Qh4 gxh3 Qxg3 Qh2 Qxe3 Rg1 Qxc3 Qg2 g6 h4 Rd8 h5 Rd3 hxg6 Rh3+ Qh2 f5 g7 Bd6 Rd1 Qf3+ Kg1 Qxd1+ Kf2 Rxh2+",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Be7 d4 d6 dxe5 dxe5 Qxd8+ Bxd8 a4 Bb7 axb5 axb5 Rxa8 Bxa8 Re1 O-O Nc3 b4 Nd5 Na5 Ba2 Nc6 Bd2 Re8 Bc4 Na5 Bb5 c6 Nxf6+ Bxf6 Bd3 c5 Ra1 Nc6 Bb5 Bb7 Be3 Rc8 Bxc5 Nd4 Bxd4 exd4 Bd3 Ra8 Re1 h6 Kf1 g5 e5 Bh8 Nxd4 Ra5 Nf5 Rxe5 Ra1 Re6 Ra7 Rb6 b3 Kf8 g3 h5 Nd6 Rxd6 Rxb7 Bc3 Rb5 f6 h4 gxh4 gxh4 Rd4 Rxh5 Rf4 Ke2 Bd4 f3 Ke7 Rb5 Rxh4 Rxb4 Rh2+ Kd1 Be5 Rc4 Ke6 b4 Kd5 c3 Ra2 Rc5+ Kd6 Bc2 Bf4 Rc4 Bh6 f4 Ra1+ Ke2 Ra2 Kd2 Kd7 Kc1 Bf8 Kb1 Ra6 Bf5+ Kd8 Bc8 Rb6 Kc2 Bd6 f5 Ke7 Kb3 Be5 Be6 Ra6 Rc8 Ra1 Rc6 Rb1+ Kc2 Ra1 b5 Kf8 b6 Kg7 Rc5 Ra6 Rb5 Kh6 c4 Kg5 Kd3 Ra8 c5 Rd8+ Kc2 Rh8 c6 Rh2+ Kd3 Rh7 Rxe5 fxe5 c7 Rh1 c8=Q Kf4 b7 e4+ Kc2 Rh2+ Kb3 Rh3+ Kb4 e3 b8=Q+ Kf3 Qc6+ Ke2 Qf4 Rg3 Qc2+ Ke1 Qc1+ Ke2 Qff1#",
     "duration": 300,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1767921478.2690256
+  "updated": 1767922093.3977273
 }
