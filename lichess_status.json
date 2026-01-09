@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "BorkaTower",
+  "rating": 2978,
+  "opponent": "GlueWinner",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 64,
-  "timestamp": "2026-01-09T01:44:09.728339",
+  "time_left": 300,
+  "timestamp": "2026-01-09T01:44:32.330473",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "result": "win",
+    "opponent": "GlueWinner",
+    "rating_before": 2978,
+    "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Nc3 Bc5 d3 d6 O-O O-O a3 h6 Na4 Bb6 h3 Ne7 Re1 Be6 Bxe6 fxe6 b4 Qe8 c3 Nh5 Nxb6 axb6 a4 Ng6 Kh2 Nhf4 Ra2 Qf7 Ng1 Ne7 Re3 Nh5 Re1 Nf4 Be3 Nc6 Qc2 Qg6 f3 Kh7 Rea1 Ne7 Qd2 Qf7 Rb1 Nc6 Ne2 Qf6 Ng1 g5 Qc2 Rf7 Re1 Kg8 Kh1 d5 b5 Ne7 g3 d4 Bc1 Nh5 Kg2 c5 bxc6 Nxc6 Bd2 Qd8 Rc1 Nf6 Qb3 Re7 Ne2 Nd7 cxd4 exd4 Bb4 Rf7 Ba3 Qf6 f4 Nc5 Bxc5 bxc5 Rf1 Qe7 Raa1 Raf8 a5 Kh7 Rac1 gxf4 Nxf4 Ne5 Qxe6 Qxe6 Nxe6 Rxf1 Rxf1 Rxf1 Kxf1 Nxd3 Nd8 c4 Ne6 Nc1 Nxd4 Nb3 Nb5 Kg7 Kf2 Kf6 Ke2 Nxa5 Ke3 Nb3 Nd6 c3 Kd3 Nc5+ Kxc3 Ke5 Nf7+ Ke6 Nxh6 Nxe4+ Kb2 Nxg3 h4 b5 h5 b4 Ng4 b3 Kxb3 Nxh5 Nh6 Ke7 Ng8+ Kd6 Ne7 Kxe7",
+    "moves": "",
     "duration": 300,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "noStart"
   },
-  "updated": 1767923049.728404
+  "updated": 1767923072.33058
 }
