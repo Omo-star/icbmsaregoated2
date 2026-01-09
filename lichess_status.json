@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3061,
-  "opponent": "BorkaTower",
+  "rating": 2976,
+  "opponent": "Neilgupta2022",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 9,
-  "timestamp": "2026-01-08T12:46:56.290350",
+  "time_control": "TC: 5+0",
+  "time_left": 148,
+  "timestamp": "2026-01-09T01:17:58.268964",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3061,
-    "rating_after": 3061,
+    "result": "win",
+    "opponent": "Neilgupta2022",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Qe6 Nd2 h5 f3 g4 Nc4 Bf6 Rh1 O-O-O Qf2 b6 Rag1 c5 fxg4 hxg4 a4 Kb7 b3 Rdg8 Ke1 a6 Ke2 Rxh1 Rxh1 Rg5 Be1 Rg8 Qg1 g3 Qg2 Qg4+ Qf3 Qd7 Ne3 Qd4 Ng4 Bg7 Kf1 Bf8 Qe2 c4 bxc4 Qd6 Bc3 Qe6 Bxe5 Rxg4 Kg2 Bg7 Bxg7 Rxg7 e5 Rg8 Qe4+ Ka7 a5 Rf8 Kf3 bxa5 Rb1 Rb8 Rxb8 Kxb8 Qxf4 Qh3 Qf8+ Kb7 Qc5 Kb8 Qxa5 g2+ Kf2 Qh2 Qb4+ Ka8 Qf8+ Ka7 Qc5+ Kb8 Qf8+ Kb7 Qf3+ Kb8 Qf8+ Ka7 Qc5+ Ka8 Qd5+ Kb8 Qg8+ Kb7 Qd5+ Kb8 Qxg2 Qxg2+ Kxg2 a5 Kf2 a4 c3 a3 c5 a2 Ke3 a1=Q Kd4 c6 e6 Kc8 Ke4 Qxc3 e7 Qe1+ Kd4 Qxe7 Kc4 Qxc5+ Kxc5",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e3 d5 Nf3 e6 d4 h6 Bd3 Nf6 Nc3 c5 e4 cxd4 Nxd4 e5 Nf3 d4 Ne2 Bb4+ c3 dxc3 bxc3 Bd6 Be3 O-O O-O Qa5 Qc2 Be6 Rfb1 Qc7 Rc1 Ba3 Rd1 Nbd7 Nd2 Rfc8 Kh1 Ng4 h3 Nxe3 fxe3 Rd8 Nb3 Nb6 Nec1 Nc4 Bxc4 Rxd1+ Qxd1 Qxc4 Ne2 Qxe4 Qd2 Bxh3 Ng3 Qh4 gxh3 Qxg3 Qh2 Qxe3 Rg1 Qxc3 Qg2 g6 h4 Rd8 h5 Rd3 hxg6 Rh3+ Qh2 f5 g7 Bd6 Rd1 Qf3+ Kg1 Qxd1+ Kf2 Rxh2+",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767876416.290412
+  "updated": 1767921478.2690256
 }
