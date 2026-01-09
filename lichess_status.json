@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2976,
+  "rating": 3011,
   "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 153,
-  "timestamp": "2026-01-09T09:52:31.840792",
+  "time_control": "TC: 10+0",
+  "time_left": 441,
+  "timestamp": "2026-01-09T10:01:48.623272",
   "last_game": {
     "result": "draw",
     "opponent": "Moment-That-Inspires",
-    "rating_before": 2976,
-    "rating_after": 2976,
+    "rating_before": 3011,
+    "rating_after": 3011,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Be7 Bg2 Bb7 O-O O-O Nc3 d5 Ne5 Nbd7 Bf4 c6 e4 dxc4 Nxc4 Ba6 Qa4 Qc8 Nd6 Bxd6 Bxd6 Bxf1 Rxf1 b5 Qc2 Rd8 e5 Nd5 Ne4 h6 Qe2 a5 h4 N7b6 Bc5 Na4 Bd6 Nab6 Bc5 Na4 Bd6 Nab6",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 dxc4 Bxc4 e5 O-O exd4 Nd5 Qd6 Nxb4 Nxb4 Rfd1 Bd7 Bb5 Bxb5 Qxb5 c6 Qc4 Qe7 Nxd4 Nd5 Nf5 Qg5 Nd6 Qe7 Nf5 Qg5 Ng3 Rad8 Qc5 a6 h3 Rde8 Rd4 Re5 Ne4 Qf5 Ng3 Qg5 Ne4 Qf5 Ng3 Qg5",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1767952351.8408842
+  "updated": 1767952908.6233692
 }
