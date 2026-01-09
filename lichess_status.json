@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "BorkaTower",
+  "rating": 2981,
+  "opponent": "shakthitssmp",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 55,
-  "timestamp": "2026-01-09T02:56:00.408456",
+  "time_left": 186,
+  "timestamp": "2026-01-09T03:03:03.821550",
   "last_game": {
     "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "opponent": "shakthitssmp",
+    "rating_before": 2981,
+    "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 d6 Bg5 e6 Qd2 a6 O-O-O Bd7 f3 Qc7 Kb1 Be7 Be3 h6 Bd3 b5 h4 b4 Nce2 d5 Nxc6 Bxc6 e5 Nd7 f4 Nc5 Nd4 Nxd3 cxd3 Rc8 g4 Qb8 f5 Ba4 Rde1 b3 Qf2 Bb5 Rd1 a5 Ka1 Bd7 a3 a4 Qf4 Rf8 Qf2 Rg8 Rde1 Qa8 g5 exf5 g6 Rc2 e6 fxe6 Nxc2 bxc2 Bd4 Qb8 Qxc2 Bd6 Qc3 Qb3 Qd2 f4 h5 Qb8 Rhf1 Kd8 Qa5+ Bc7 Qc3 Qb3 Bf6+ Kc8 Bxg7 Qxc3 Bxc3 Bd6 Bf6 Kb7 d4 Bc7 Rf2 Bb5 Be5 Bd3 Rxf4 Bf5 Rc1 Bb8 Bxb8 Kxb8 Rf3 Re8 g7 Rg8 Rg3 Kb7 b3 axb3 Kb2 Ka6 Rc7 e5 Rf7 Bh7 Rf8 exd4 Rxg8 Bxg8 Rxb3 Be6 Rb8 Ka5 Kc2 Bf5+ Kd2 Be6 g8=Q Bxg8 Rxg8 Kb6 Kd3 Kc7 Rg6 Kd8 Kxd4 Kc7 Kxd5 Kb7 Rg7+ Kb8 Kc6 Ka8 Kb6 Kb8 Rg8#",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 c3 d6 Bg5 a5 O-O Ba7 Nbd2 O-O h3 h6 Be3 Bxe3 fxe3 Ne7 Nh4 c6 Nf5 Bxf5 exf5 b5 Bb3 a4 Bc2 Ned5 e4 Ne3 Qc1 Nxf1 Qxf1 b4 cxb4 Qb6+ Qf2 Qxb4 Rb1 d5 a3 Qd6 Qb6 dxe4 Nxe4 Nxe4 dxe4 Qd2 Qf2 Rfd8 Rd1 Qxf2+ Kxf2 Rxd1 Bxd1 Rb8 Bxa4 Rxb2+ Kf3 c5 g4 Ra2 Bc6 Rxa3+ Kg2 c4",
     "duration": 300,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1767927360.408529
+  "updated": 1767927783.8216598
 }
