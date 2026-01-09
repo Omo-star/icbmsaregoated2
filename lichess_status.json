@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "Alehkine_cat",
+  "rating": 3071,
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2026-01-09T10:20:38.132177",
+  "time_left": 18,
+  "timestamp": "2026-01-09T10:21:07.352014",
   "last_game": {
-    "result": "win",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "draw",
+    "opponent": "SF_Bot1nok",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Nf8 Bxc5 Ng6 Be3 f5 Bg5 Qd7 exf5 Qxf5 Ne3 Qf8 Bh4 Nxh4 Nxh4 Qf6 Nf3 e4 dxe4 Rxe4 c3 a5 Qb3+ Kh8 Rad1 Bh3 Rd4 Bxg2 Kxg2 Rf8 Qd1 Ree8 Rg4 Rd8 Qe2 Rde8 Rg3 c5 Qd3 Qc6 c4 Re6 Qc3 Rg6 Ng4 Qa4 Re1 Kg8 Re7 Rf7 Rxf7 Qc6 Ne5 Qe6 Rxc7 Rxg3+ hxg3 h6 Qd3 Qe8 Ng6 a4 Qf5 a3 Ne7+ Kh8 Rc8 g5 Qg6 g4 Rxe8#",
+    "moves": "e4 h6 d4 e6 Bd3 d5 Nc3 Nc6 Nf3 Nb4 Bb5+ c6 Be2 Nf6 e5 Ne4 a3 Nxc3 bxc3 Na6 O-O b6 c4 Nc7 cxd5 cxd5 c3 Qd7 Ne1 Be7 a4 Ba6 Nd3 Bc4 Nf4 Qc6 Nh5 g6 Nf6+ Bxf6 exf6 a5 Bf4 O-O-O Rb1 Kb7 Re1 Ne8 Bxc4 Qxc4 Re2 Rc8 Rb5 Rc6 Reb2 Nc7 R5b3 Ne8 Rb5 Nc7 R5b3 Ne8 h4 h5 Qa1 Nd6 Bxd6 Rxd6 Qa3 Qc7 Qc5 Ra8 Qxc7+ Kxc7 f3 Re8 Re2 Rc6 Kf2 Rc4 Ra3 Kd6 g4 Rcc8 Kg3 Rc4 Kf4 Rh8 Kg5 Kc7 Rb2 Rc6 Rab3 Kb7 Rc2 Rc4 Rc1 Ka7 Rcb1 Rc6 Rb5 Ka6 Rc1 Ka7 Rb2 Ka6",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1767954038.1322417
+  "updated": 1767954067.3521287
 }
