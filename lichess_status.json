@@ -4,19 +4,19 @@
   "rating": 3012,
   "opponent": "angeei",
   "variant": "Variant: Standard",
-  "time_control": "TC: 20+0",
-  "time_left": 1000,
-  "timestamp": "2026-01-10T00:55:05.212500",
+  "time_control": "TC: 14+0",
+  "time_left": 455,
+  "timestamp": "2026-01-10T01:07:48.470274",
   "last_game": {
     "result": "win",
     "opponent": "angeei",
     "rating_before": 3012,
     "rating_after": 3012,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 g3 d5 Bg2 g6 O-O Bg7 e3 c5 a4 O-O c3 c4 d3 cxd3 Qxd3 Nc6 Rd1 Bf5",
-    "duration": 1200,
+    "moves": "d4 Nf6 c4 Nc6 Nf3 e6 g3 d5 e3 dxc4 Bxc4 Bd6 Nc3 O-O h3 Re8 e4 e5 d5 Nd4 Be3 b5 Bd3 b4 Nb1 Nxe4 Bxe4 f5 Bc2 Nxc2+ Qxc2 f4 Bc5 e4 Nfd2 fxg3 fxg3 Bxg3+ Ke2 Ba6+ Kd1 e3 Qb3 e2+ Kc2 Qg5 Bxb4 Qf5+ Ne4 Qxe4+ Kc1 Qxh1+ Kc2 Qd1+ Kc3 Qd3#",
+    "duration": 840,
     "bot_color": "black",
-    "termination": "timeout"
+    "termination": "mate"
   },
-  "updated": 1768006505.2125924
+  "updated": 1768007268.4703348
 }
