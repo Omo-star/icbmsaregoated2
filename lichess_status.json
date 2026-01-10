@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3012,
-  "opponent": "Monastedrez",
+  "rating": 3068,
+  "opponent": "ISARFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 591,
-  "timestamp": "2026-01-10T08:44:24.650750",
+  "time_control": "TC: 1+2",
+  "time_left": 19,
+  "timestamp": "2026-01-10T08:48:33.222686",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3012,
-    "rating_after": 3012,
+    "opponent": "ISARFish",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O c6 Nc3 Re8 Rac1 h6 h3 a5 b5 d5 exd5 cxd5 Qf3 Rc8 Nxd5 Nxd5 cxd5 Qd6 a4 Rcd8 Rfe1 Qxd5 Qxd5 Rxd5 Rc7 b6 Rb7 Re6 Rc1 Rf6 Rc6 e4 Rxf6 exd3 Rfxf7 d2 Rxg7+ Kh8 Rh7+ Kg8 Rbg7+ Kf8 Rf7+ Kg8 Rhg7+ Kh8 Rh7+ Kg8 Rhg7+ Kh8 Rh7+ Kg8 Rhg7+",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 a4 c6 a5 Nc7 h3 Qd7 a6 Nxa6 Bxa6 bxa6 Qe2 a5 Nb3 Re8 Qa6 h5 Nc5 Qc8 Qxc8 Bxc8 Rxa5 Re1+ Kh2 Re2 Rxa7 Bf5 Be3 Rxb2 Ra6 Bh4 Kg1 Rb1+ Kh2 Rb2 g3 Bf6 Rxc6 Be7 Ra6 f6 Ra8+ Kf7 Ra7 Rc2 c4 Rxc4 Bf4 Kf8 Ra8+ Kf7 Ra7 Kf8 Ra8+ Kf7 Ra7",
+    "duration": 226,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768034664.6508121
+  "updated": 1768034913.2228417
 }
