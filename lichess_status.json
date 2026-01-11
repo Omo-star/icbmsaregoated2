@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3055,
-  "opponent": "CatChessX",
+  "rating": 3059,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 7,
-  "timestamp": "2026-01-11T16:23:50.965775",
+  "time_left": 35,
+  "timestamp": "2026-01-11T16:24:42.288981",
   "last_game": {
-    "result": "win",
-    "opponent": "CatChessX",
-    "rating_before": 3055,
-    "rating_after": 3055,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 Nd6 h3 a5 a4 Bg5 Nf3 Bxc1 Rxc1 c6 Qd2 Bf5 Rce1 h6 Qf4 Bd3 Re3 Bxf1 Kxf1 Ne4 Kg1 Re8 Ne5 Qc7 f3 Nf6 Kf2 Re7 R3e2 Nd7 Nd3 Rxe2+ Rxe2 Qxf4 Nxf4 Kf8 Re1 g5 Nd3 b5 Ra1 Nb6 Nc5 Kg7 b3 bxa4 Nxa4 Nxa4 Rxa4 Rb8 Ra3 f5 Ke3 Kg6 g4 h5 Kd2 h4 Rxa5 Rxb3 Kc2 Rb6 Ra7 Kf6 Ra8 fxg4 fxg4 Kf7 Ra7+ Kg6 Ra8 Kg7 Ra7+ Kg6 Rd7 Ra6 Kb1 Kf6 Rd6+ Kg7 Rd7+ Kh6 Rd6+ Kg7 Kb2 Rb6+ Kc2 Ra6 Kb2 Rb6+ Kc2 Ra6 Rd7+ Kf6 Kb1 Rb6+ Kc1 Kg6 Rd6+ Kf7 Rd7+ Kg6 Kc2 Ra6 Kb2 Rb6+ Kc1 Ra6 Kb2 Rb6+ Kc1 Ra6 Rd6+ Kg7 Kb1 Ra8 Rxc6 Rf8 Rc7+ Kh6 Rd7 Rf3 Kc2 Rxh3 Rd6+ Kh7 Rxd5 Kg6 Rd6+ Kh7 Re6 Rg3 d5 h3 Re1 Rg2+ Kb3 h2 Rh1 Kg7 c4 Kf6 c5 Ke7 Kc3 Kd7 Kd4 Rxg4+ Ke3 Rg2 Kf3 Rc2 c6+ Kd6 c7 g4+ Kxg4 Kxc7 d6+ Kxd6 Kh5 Rg2 Kh6 Kc6 Kh5 Kd6 Kh6 Kc6 Kh5 Rd2 Kh6 Rc2 Kg6 Rd2 Kh6 Rd4 Kh7 Rd7+ Kh6 Rd2 Kg6 Kd6 Kh6 Ke5 Kh5 Ke4 Kh4 Kf3 Kh3 Rc2 Rf1+ Ke3 Kg3 Rd2 Kh3 Rc2 Kg3 Rc8 Kh3 Rh8+ Kg2 Rg8+ Kxh2 Ke2 Rf7 Rg5 Rf8 Rh5+ Kg3 Rg5+ Kh4 Rc5 Rh8 Ra5 Rg8 Ra4+ Kh5 Kf3 Rh8 Ra5+ Kh6 Ra6+ Kh7 Rb6 Rg8 Ra6 Rh8 Rc6 Rg8 Rc7+ Kh8 Ra7 Rf8+ Kg3 Kg8 Ra2 Kh8 Kg4 Kg8",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 e3 O-O dxc5 a5 a3 Bxc3+ Qxc3 Ne4 Qc2 Nxc5 b3 e5 Bb2 Nc6 Be2 d6 Nf3 Ra6 O-O Qf6 Bd3 Nxd3 Qxd3 Be6 e4 a4 b4 Raa8 Nd2 Qg5 Rfd1 h6 Rac1 Rad8 Qg3 Qxg3 hxg3 Na7 Nf1 b5 Ne3 bxc4 Nd5 Nb5 Rxc4 Ra8 Rcc1 Bxd5 Rxd5 Rfb8 g4 f6 g3 Kf7 f4 Rb7 Kf2 Rb6 Ke3 Re8 Rd2 Ke6 Rd5 Reb8 Kf3 Ra8 Ke2 Re8 Kf2 Kd7 Ke3 Ke6 Rd2 Kd7",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768148630.9658372
+  "updated": 1768148682.2890909
 }
