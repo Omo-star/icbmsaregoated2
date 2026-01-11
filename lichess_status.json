@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "Tacticall_Bot",
+  "rating": 3014,
+  "opponent": "jpg-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-01-11T09:03:10.394675",
+  "time_control": "TC: 10+2",
+  "time_left": 64,
+  "timestamp": "2026-01-11T09:27:54.090602",
   "last_game": {
-    "result": "draw",
-    "opponent": "Tacticall_Bot",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "result": "win",
+    "opponent": "jpg-bot",
+    "rating_before": 3014,
+    "rating_after": 3014,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Be7 Nc3 Nf6 O-O O-O Bxc6 dxc6 Nxe5 Nxe4 Nxe4 Qd5 Nxc6 Qxc6 Re1 Bf5 d3 Rfe8 Bf4 Bf8 Qd2 Bxe4 dxe4 Rad8 Qe2 Qf6 Bc1 Bc5 h3 Rd5 Qf1 Rde5 Be3 Qb6 b3 Rxe4 Bxc5 Qxc5 Rxe4 Rxe4 Rd1 g6 Qd3 Qc6 c4 Kg7 Kf1 b6 Qc3+ Qf6 Qxf6+ Kxf6 Rd7 Re7 Rxe7 Kxe7 Ke2 Kd6 Ke3 Kc5 a3 Kd6 f4 c5 Kf3 f5 Ke2 Ke6 Kd3 Ke7 b4 h6 Kc2 Kd6 h4 a6 bxc5+ bxc5 Kc3 Kc6 Kb2 Kc7 g3 Kc6 Kb3 a5",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qc2 c5 d5 exd5 cxd5 Bb7 Bg2 Nxd5 O-O Be7 Rd1 Qc8 Qf5 Nf6 Bg5 O-O Nc3 h6 Bxf6 Bxf6 Nb5 Bc6 Nd6 Qd8 Rd2 Na6 Rad1 Qe7 Qg4 Qe6 Nf5 h5 Nh6+ Kh7 Qxh5 gxh6 Bh3 Qe7 Bf5+ Kg7 Rd6 Bxf3 exf3 Rad8 Qg4+ Kh8 Qh3 Kg7 Qg4+ Kh8 Be4 Rfe8 R1d5 Bg7 Qf5 Kg8 Rxh6 f6 Qg4 Kf8 Rh7 Qf7 Rdh5 Re5 Rxe5 fxe5 Bd5 Qf6 Rh5 Nc7 Bb3 c4 Bxc4 d5 Rf5 dxc4 Rxf6+ Bxf6 Qxc4 Ne8 h4 Ke7 Qc2 Ng7 Qh7 Kf8 h5 a6 h6 Ne6 Qb7 Rd6 Qb8+ Ke7 h7 Nf8 Qc7+ Rd7 Qxb6 Nxh7 Qxa6 Ng5 Kg2 e4 Qa3+ Kf7 Qb3+ Kg7 fxe4 Nxe4 Qe3 Ng5 a4 Re7 Qd2 Ne6 b4 Rc7 a5 Bc3 Qd5 Kf6 f4 Rg7 Qd6 Bd4 b5 Rg8 b6 Rd8 Qc6 Bc5 a6 Rd2+ Kh3 Rd8 a7 Rh8+ Kg2 Rd8 a8=Q Rxa8 Qxa8 Bxb6 g4 Nxf4+ Kf1 Kg5 Qe4 Nh3 Qd5+ Kf4 g5 Ng1 g6 Ne2 Kxe2 Bg1 g7 Bd4 Qxd4+ Kf5 g8=R Ke6 Rf8 Ke7 Qd7+ Kxd7 Rf6 Kc7 Rh6 Kb7 Kf3 Ka7 Rg6 Kb7 Ke4 Ka7 Rc6 Kb7 Kd5 Ka7 Ke6 Kb7 Kd7 Kb8 Rc7 Ka8 Kc6 Kb8 Kb6 Ka8 Rc8#",
+    "duration": 1002,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768122190.3947573
+  "updated": 1768123674.0906744
 }
