@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "is_BOSS",
+  "opponent": "NimasBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-01-11T12:33:25.411805",
+  "time_left": 25,
+  "timestamp": "2026-01-11T12:34:04.548589",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
+    "opponent": "NimasBot",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 Nc3 a6 Ba4 d6 O-O Bd7 Re1 b5 Bb3 Na5 d4 Ng6 dxe5 Nxb3 Bg5 Qb8 axb3 dxe5 Nh4 Nxh4 Bxh4 Bd6 Re3 f6 Qh5+ g6 Qf3 O-O Nd5 Be6 Rd3 Bxd5 Rxd5 Qb6 Kf1 Be7 Qd3 Qe6 h3 c6 Rd7 Bc5 Rc7 Rf7 Rxf7 Kxf7 Rd1 Be7 Qe2 Rd8 Ra1 Bb4 Rxa6 Rd2 Qf3 Rxc2 Ra7+ Kg8 Kg1 Be7 Qd1 Rxb2 Kh2 c5 Qa1 Rxb3 Ra6 Qd7 Bxf6 Bxf6 Rxf6 Qe7 Rb6 Rd3 Rxb5 Rd2 Qe1 Rd4 Qa5 Qf8 Qa2+ c4 g3 Rxe4 Kg2 Rd4 Rxe5 Qc8 Qe2 Rd8 Re7 Qc6+ Kg1 Rb8 Qa2 Kh8 Kh2 Ra8 Qd2 Rf8 Kg1 Kg8 Qh6 Rf7 Rxf7 Kxf7 Qxh7+ Kf6",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Ke8 Re5 Kf7",
     "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768134805.4119306
+  "updated": 1768134844.548693
 }
