@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "AlphaOneBot",
+  "rating": 3057,
+  "opponent": "CatChessX",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
   "time_left": 35,
-  "timestamp": "2026-01-11T16:08:16.748856",
+  "timestamp": "2026-01-11T16:10:11.202370",
   "last_game": {
     "result": "draw",
-    "opponent": "AlphaOneBot",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "CatChessX",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 Qg3 Bh4 Qf3 Bg5 Re1 Bxf4 Qxf4 Qd7 b3 h6 Re5 c6 c4 dxc4 bxc4 Bg6 Re1 b5 cxb5 cxb5 Nb3 Rd8 h3 Qc6 Qd2 Be4 Nc5 Bd5 Re7 Nc4 Qe1 a5 a3 Rc8 Nd7 Be6 Nc5 Qd6 Rb7 Qc6 Re7 Qd6 Rb7 Qc6 Re7",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Bf8 b4 c5 b5 Nb6 Ne3 Be6 Qe2 c4 dxc4 Bc5 Rfd1 Qc8 Nd5 c6 Nxb6 axb6 Be3 Bxe3 Qxe3 Rd7 Rxd7 Qxd7 Nd2 Rd8 bxc6 Qxc6 h4 Rd4 Rb1 Qd6 Kh2 Rxd2 Rxb6 Qd4 Rxe6 Qxe3 fxe3 Rxc2 h5 Rxc4 Re8+ Kf7 Rb8 Rc7 Kh3 Ke6 Kg4 g6 h6 Rc4 Kf3 Rxa4 Rxb7 f5 exf5+ gxf5 Rxh7 Kf6 Rh8 Rh4 h7 Kf7 g3 Rh5 e4 fxe4+ Kxe4 Kg6 g4 Rh1 Kxe5 Rf1 g5 Re1+ Kd4 Kg7 Ra8 Kxh7 Rf8 Kg6 Rh8 Kxg5 Rg8+ Kf6 Rh8 Ra1 Rg8 Kf5 Rh8 Rd1+ Kc5 Rc1+ Kd6 Rd1+ Ke7 Re1+ Kf8 Kg6 Rg8+ Kf6 Rh8 Ra1 Rh6+ Kf5 Kg8 Ra7 Kh8 Ke4 Kg8 Ra8+ Kh7 Ra7+ Kh8 Kf4 Kg8 Kg5 Rh7 Ra8+ Kg7 Ra7+ Kh8 Rxh7+ Kxh7",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768147696.7489686
+  "updated": 1768147811.202431
 }
