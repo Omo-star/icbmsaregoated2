@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3064,
-  "opponent": "BorkaTower",
+  "rating": 2986,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2026-01-11T13:20:19.710299",
+  "time_control": "TC: 3+0",
+  "time_left": 139,
+  "timestamp": "2026-01-11T13:23:11.317826",
   "last_game": {
-    "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 3064,
-    "rating_after": 3064,
+    "result": "draw",
+    "opponent": "Alehkine_cat",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 d5 exd5 Qxd5 Nc3 Qd6 d4 Nf6 Nf3 c6 Ne5 Nbd7 f4 Nb6 g4 g6 Bg2 Bg7 O-O O-O a4 a5 f5 Rd8 Ne2 Qc7 Ra3 Nfd5 Qe1 f6 Nxg6 hxg6 fxg6 Nd7 c4 N5b6 Rg3 Nf8 h4 c5 d5 Nxc4 h5 Ne5 h6 Nfxg6 hxg7 Ra6 g5 f5 Nf4 Kxg7 Qc3 Kf7 Rh3 Rg8 Re1 Ke8 Rh7 c4 Kf1 Kd8 Bd2 Bd7 d6 Qxd6 Bxb7 Ra7 Nxg6 Nxg6 Qxc4 Rf8 Rd1 Ke8 Bd5 Rc7 Qb3 f4 Bc3 Qa6+ Kf2 f3 Rd2 Kd8 Rh6 Kc8 Be5 Bh3 Rxh3 Nxe5 Be6+ Nd7 Qe3 Kb8 Bxd7 Qa7 Qxa7+ Kxa7 g6 Rg8 Bb5 Rxg6 Rxf3 e5 Rd7 Rxd7 Bxd7 Rd6 Bb5 Kb6 b3 Kc5 Ke3 Rh6 Bc4 Kd6 Kd2 Ke7 Ke3 Rh4 Rf5 Rh3+ Ke4 Kd6 Rf6+ Kc5 Re6 Rh4+ Kxe5 Rh5+ Kf4 Kd4 Rf6 Rh4+ Kg5 Rh8 Ra6 Kc5 Rxa5+ Kd4 Rb5 Rh1 Rd5+ Ke3 b4 Ke4 a5 Rh8 Rb5 Kd4 Be6 Rh1 a6 Rg1+ Kf6 Ra1 Ra5 Rh1 a7 Rh6+ Kg5 Rh8 Rb5 Kc3 Ra5 Rh1 a8=Q Rg1+ Bg4 Ra1 Qc6+ Kb2 Qg2+ Kb1 Bf5+ Kc1 Rxa1#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Qc2 Na6 a3 Bg4 Ne5 Bxe5 dxe5 Nac5 f3 Nxd3 Qxd3 Nc5 Qd4 Nb3 Qxg4 Nxa1 Bh6 g6 Nc3 Nb3 Bxf8 Qxf8 cxd5 cxd5 Kh1 Qc8 Nxd5 Qxg4 Nf6+ Kg7 fxg4 Na5 g5 Nc6 e6 fxe6 g3 Rd8 Rf2 Rd3 Ne4 Nd4 Nd6 Nf5 Nxb7 Ne3 h3 Nf5 Nc5 Rxg3 Nxe6+ Kf7 Nd8+ Ke7 Kh2 Rb3 Nc6+ Kd7 Nxa7 Rb7 Rd2+",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1768137619.7103612
+  "updated": 1768137791.3179402
 }
