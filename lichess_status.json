@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "Tacticall_Bot",
+  "rating": 3068,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2026-01-11T11:34:18.073986",
+  "time_control": "TC: 1+1",
+  "time_left": 81,
+  "timestamp": "2026-01-11T11:35:09.157573",
   "last_game": {
     "result": "draw",
-    "opponent": "Tacticall_Bot",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "opponent": "YoBot_v2",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 c5 Nf3 e6 c3 Nc6 Bd3 Nge7 O-O cxd4 cxd4 Nf5 Be3 Nb4 Bxf5 exf5 Nc3 Be6 Ne2 Be7 a3 Nc6 Ne1 Qb6 Nd3 O-O Nc3 Qd8 Ne2 Qd7 Re1 b6 Bd2 Rac8 Rc1 h6 h3 Rfe8 Ndf4 Na5 Bxa5 bxa5 Qd2 Qb5 g3 g5 Nxe6 fxe6 h4 Kg7 hxg5 Bxg5 Nf4 Kh7 Kg2 a4 Rxc8 Rxc8 Qd3 Qc6 Qf3 Qe8 Rh1 Rc7 Nh5 Qg6 Rh3 Rc4 b3 axb3 Qxb3 Qf7 Qb2 Qc7 g4 Rc2 Qb1 Rc1 Qd3 Qc2 gxf5 Qxd3 Rxd3 exf5 Ng3 f4 Ne2 Rc2 Nc3 Kg6 Nxd5 Kf5 Nb4 Rc4 f3 a5 Nd5 Rc2+ Kh3 Re2 Nc3 Re3 Rxe3 fxe3 a4 h5",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 Rc3 Ne7 Nd4 Nc6 Nb3 Ne7 Nd4 Nc6 Nb3 Ne7",
+    "duration": 114,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768131258.0741236
+  "updated": 1768131309.1576672
 }
