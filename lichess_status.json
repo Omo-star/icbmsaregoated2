@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3057,
-  "opponent": "CatChessX",
+  "rating": 3061,
+  "opponent": "Tuna_Alp123",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 11,
-  "timestamp": "2026-01-11T16:31:37.776492",
+  "time_left": 37,
+  "timestamp": "2026-01-11T16:32:58.913388",
   "last_game": {
     "result": "win",
-    "opponent": "CatChessX",
-    "rating_before": 3057,
-    "rating_after": 3057,
+    "opponent": "Tuna_Alp123",
+    "rating_before": 3061,
+    "rating_after": 3061,
     "rating_delta": 0,
-    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Nf3 d6 Bc4 c6 d3 O-O a4 Re8 O-O h6 Bb3 Nbd7 h3 Nf8 Be3 Bb4 Ne2 Ng6 Nd2 d5 f4 exf4 Nxf4 d4 Nf3 dxe3 Nxg6 Qc7 c3 Bc5 d4 Rxe4 Qe2 Bd6 Nfe5 Be6 Bxe6 fxe6 Rf3 c5 Rxe3 Rxe3 Qxe3 cxd4 cxd4 Qc2 Rc1 Qxa4 Ng4 Re8 Nxf6+ gxf6 Qxh6 Qxd4+ Kh1 f5 Qg5 Qg7 Rd1 Be5 Rd8 Rxd8 Qxd8+ Kf7 Nxe5+ Qxe5 Qd7+ Kf6 Qxb7 Qe1+ Kh2 Qe5+ Kh1 Qe1+ Kh2 Qe5+ Kg1 Qc5+ Kh1 e5 b4 Qd4 Qh7 Ke6 Qg6+ Kd5 Qf7+ Kc6 Qe8+ Kc7 Qh8 Qf4 Qf8 Qf1+ Kh2 Qf4+ Kh1 e4 Qe7+ Kb6 Qc5+ Kb7 Qd5+ Kc7 Qa5+ Kc6 Qa6+ Kd5 Qa2+ Kd6 Qxa7 Qc1+ Qg1 Qc3 Qb6+ Kd5 Qc5+ Qxc5 bxc5 Kxc5 g4 e3 Kg2 f4 g5 Kd4 g6 e2 g7 e1=Q g8=Q f3+ Kh2 Qe5+ Kg1 Kc3 h4 Qd4+ Kh1 Qxh4+ Kg1 Qe1+ Kh2 Qe2+ Kh1 Qf1+ Kh2 Qe2+ Kh1 Qe1+ Kh2 Qf2+ Kh3 Qf1+ Kh2 Qe1 Qh8+ Kd3 Qg8 Qh4+ Kg1 Qe1+ Kh2 Qf2+ Kh3 Qf1+ Kh2 Qe1 Qd8+ Ke2 Qf6 Kf2 Qg7 Qe3 Qf6 Qd2 Qb6+ Ke2 Qa6+ Kf2 Qa7+ Qe3 Qa2+ Kf1 Qg2+ Ke1 Qg7 Kf1 Qg2+ Ke1 Qg7 Qf2+ Kh3 Qf1+ Kh2 Qe2+ Kh3 Qf1+ Kh2 Qe2+ Kh3 Qd2 Qb7 Kf2 Qg7 Ke1 Qb7 f2 Qe7+ Kf1 Qe4 Qc3+ Kh2 Qc7+ Kh3 Qc3+ Kh2 Qh8+ Kg3 Qg7+ Kh2 Qc7+ Kh3 Qc8+ Kh4 Qc1 Kh3 Qc8+ Kh4 Qh8+ Kg3 Qg7+ Kh2 Qh6+ Kg3 Qd6+ Kh3 Qh6+ Kg3 Qd6+ Kh3 Qa3+ Kh2 Qb3 Qe8 Qd3 Qh5 Qd6+ Kh3 Qd3+ Kh2 Qd7 Qg6 Qc7+ Kh3 Qc8+ Kg3 Qc3+ Kh2 Qe5+ Kh3 Qe3+ Kh2 Qe5+ Kh3 Qh8+ Kg3 Qc3+ Kh2 Qh8+ Kg3 Qb8+ Kh3 Qb3+ Kh2 Qb8+ Kh3 Qc8+ Kg3",
+    "moves": "d3 d5 Bf4 Nf6 Bg5 e5 Bxf6 Qxf6 Nf3 e4 dxe4 Qxb2 Qd4 Qc1+ Qd1 Qxd1+ Kxd1 dxe4 Ne5 g6 Nc4 Bg7 Ne3 Bxa1 f3 Be5 fxe4 Be6 Ng4 Bxg4 h3 Be6 g4 Nc6 h4 Rd8+ Ke1 Bg3#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1768149097.776553
+  "updated": 1768149178.9134493
 }
