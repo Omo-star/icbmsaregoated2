@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3015,
-  "opponent": "tbhOnBot",
+  "rating": 3064,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 440,
-  "timestamp": "2026-01-11T13:18:06.706431",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-01-11T13:20:19.710299",
   "last_game": {
-    "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3015,
-    "rating_after": 3015,
+    "result": "win",
+    "opponent": "BorkaTower",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Rc3 Rd4 g3 Nxb2 Rxc5 Nd1 Nf5 Rxg4 Ke2 Nb2 f4 g6 Ng7+ Kd6 Rc3 Kd7 Kf3 h5 Rc2 a3 Rd2+ Ke7 Rc2 f5 Rc7+ Kd6 Ra7 h4 gxh4 Rxh4 Ra6+ Kc5 Rxg6 Nd3 Nxf5 Rxf4+ Ke2",
-    "duration": 600,
+    "moves": "e4 d5 exd5 Qxd5 Nc3 Qd6 d4 Nf6 Nf3 c6 Ne5 Nbd7 f4 Nb6 g4 g6 Bg2 Bg7 O-O O-O a4 a5 f5 Rd8 Ne2 Qc7 Ra3 Nfd5 Qe1 f6 Nxg6 hxg6 fxg6 Nd7 c4 N5b6 Rg3 Nf8 h4 c5 d5 Nxc4 h5 Ne5 h6 Nfxg6 hxg7 Ra6 g5 f5 Nf4 Kxg7 Qc3 Kf7 Rh3 Rg8 Re1 Ke8 Rh7 c4 Kf1 Kd8 Bd2 Bd7 d6 Qxd6 Bxb7 Ra7 Nxg6 Nxg6 Qxc4 Rf8 Rd1 Ke8 Bd5 Rc7 Qb3 f4 Bc3 Qa6+ Kf2 f3 Rd2 Kd8 Rh6 Kc8 Be5 Bh3 Rxh3 Nxe5 Be6+ Nd7 Qe3 Kb8 Bxd7 Qa7 Qxa7+ Kxa7 g6 Rg8 Bb5 Rxg6 Rxf3 e5 Rd7 Rxd7 Bxd7 Rd6 Bb5 Kb6 b3 Kc5 Ke3 Rh6 Bc4 Kd6 Kd2 Ke7 Ke3 Rh4 Rf5 Rh3+ Ke4 Kd6 Rf6+ Kc5 Re6 Rh4+ Kxe5 Rh5+ Kf4 Kd4 Rf6 Rh4+ Kg5 Rh8 Ra6 Kc5 Rxa5+ Kd4 Rb5 Rh1 Rd5+ Ke3 b4 Ke4 a5 Rh8 Rb5 Kd4 Be6 Rh1 a6 Rg1+ Kf6 Ra1 Ra5 Rh1 a7 Rh6+ Kg5 Rh8 Rb5 Kc3 Ra5 Rh1 a8=Q Rg1+ Bg4 Ra1 Qc6+ Kb2 Qg2+ Kb1 Bf5+ Kc1 Rxa1#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1768137486.7065406
+  "updated": 1768137619.7103612
 }
