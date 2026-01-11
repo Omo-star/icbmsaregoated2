@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3069,
-  "opponent": "Tacticall_Bot",
+  "opponent": "jpg-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-01-11T10:35:46.360531",
+  "time_control": "TC: 1+1",
+  "time_left": 20,
+  "timestamp": "2026-01-11T10:39:34.427111",
   "last_game": {
-    "result": "draw",
-    "opponent": "Tacticall_Bot",
+    "result": "win",
+    "opponent": "jpg-bot",
     "rating_before": 3069,
     "rating_after": 3069,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 O-O-O Nc6 Bxg7 Kxg7 Re1 Bf5 f3 h5 Bb5 Nb4 Ba4 b5 Bb3 Rab8 h4 Rfc8 a3 Nc6 g4 Bxc2 Bxc2 b4 axb4 Qxb4 Nd3 Qa5 Na4 Qxd2+ Kxd2 hxg4 fxg4 Nxd4 Bd1 Ne4+ Ke3 Rc4 Rhf1 f6 Nc3 e6 Nxe4 dxe4 Nc5 f5 b3 Rxc5 Kxd4 Rd5+ Ke3 Kf6 Kf2 Rc8 h5 gxh5 gxh5 Rd2+ Re2 Rcd8 Rxd2 Rxd2+ Kg3 Kg5 Rg1 a5 Kh3+ Kh6 Rg6+ Kh7 Rg1 e5 Re1 Rd3+ Kh4 Kh6 Rg1 e3 Be2 Rd2 Rg6+ Kh7 Rg2 Kh6 Rg6+ Kh7 Rg2 f4 Kg4 Kh6 Kf5 f3 Rg6+ Kh7",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Re1 Kc8 Ng5 Be8 Nf3 b6 Bf4 Bb4 Bd2 Be7 Rad1 h6 a3 Kb7 g4 Nh4 Nxh4 Bxh4 Bf4 Rd8 Bg3 Rxd1 Nxd1 Be7 h3 Bd7 Kg2 c5 Ne3 Rd8 Nf5 Bf8 Bf4 Ba4 Re2 c4 c3 Bc6+ Kg3 Rd3+ Be3 Ka6 Nd4 Bd7 Nf3 Kb5 Rd2 c5 Rxd3 cxd3 Nd2 Ka4 Kf4 Bc6 e6 fxe6 Ke5 Bd7 h4 b5 Ke4 c4 Ke5 a5 h5 Be7 f4 Bxa3 bxa3 Kxa3 g5 Kb2 gxh6 gxh6 Kd6 Be8 f5 exf5 Bxh6 a4 Bf8 Bxh5 Ke5 a3 Bxa3+ Kxa3 Kxf5 b4 Ke4 bxc3 Nxc4+ Kb4 Kxd3 Bg6+ Kd4 c2 Ne3 c1=Q Nd5+ Kb3 Ke5 Qc5 Kf6 Qxd5 Kxg6 Qe5 Kf7 Kc4 Kg6 Kd5 Kh7 Qg5 Kh8 Ke6 Kh7 Kf7 Kh8 Qg8#",
+    "duration": 196,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1768127746.3606527
+  "updated": 1768127974.4271731
 }
