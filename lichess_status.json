@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3053,
-  "opponent": "CloudNetBot",
+  "opponent": "CatChessX",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 32,
-  "timestamp": "2026-01-11T16:17:20.515963",
+  "time_left": 26,
+  "timestamp": "2026-01-11T16:19:30.392015",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "CatChessX",
     "rating_before": 3053,
     "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 h4 Nf6 Nc3 Bg7 Nge2 Nbd7 h5 Nxh5 g4 Nhf6 g5 Ng8 Qd3 c6 Qg3 h6 a4 Qc7 f3 Nf8 gxh6 Nxh6 Qg1 Ng8 Rxh8 Bxh8 Bd2 Bd7 f4 d5 exd5 Nh6 O-O-O Nf5 Kb1 Rc8 dxc6 Bxc6 Bh3 Bxa4 Bxf5 gxf5 d5 b5 Rc1 Bxc2+ Kxc2 b4 Kd1 bxc3 Bxc3 Bxc3 Rxc3 Qb7 Rxc8+ Qxc8 Qxa7 Nd7 Qd4 e6 b4 Qb8 Kc2 Ke7 dxe6 fxe6 Qg7+ Kd6 Qd4+ Ke7 Qg7+ Kd8 Qg8+ Kc7 Qxe6 Qxb4 Qxf5 Nc5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 Nc3 Bxd4 Nd5 d6 Bg5 f6 Qe4 fxg5 Bc4 Be5 Nf6+ Kf8 Nxh7+ Ke7 Nxg5 c6 Re1 Kd7 f4 Qf6 Bf7 Bd4+ Kf1 Nc7 c3 Bb6 Be8+ Nxe8 Qxe8+ Kc7 Re7+ Kb8 Rf7 Qd8 Qxd8 Bxd8 Rxg7 a5 h4 Ka7 h5 Bf5 h6 Bb1 Ne6 Bb6 g4 Rh8 g5 Be3 a3 Bc1 Rf7 Bxb2 f5 Bxc3 f6 Bb2 Rf8 Rh7 a4 d5 Kf2 d4 Rd8 d3 Nf4 Kb6 Nh5 Ba3 Ng7 Bc2 Kf3 Bb4 Ke3 d2 Rxd2 Bxd2+ Kxd2 Bg6 Ne6 Rh8 Nf4 Be8 Ke3 Ka7 Kd3 b5 Kc2 bxa4 Kb2 Bf7 Nd3 Rb8+ Ka1 Re8 g6 Bxg6 Nc5 Kb6 f7 Bxf7 Nd7+ Kc7 Nc5 a3 Nd3 Kb6 h7 Rh8 Kb1 Rxh7 Ne1 Rh2 Nc2 Rh1+ Ne1 a2+ Ka1 Rxe1+ Kb2 a1=Q+ Kc2 Bc4 Kd2 Re2#",
     "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1768148240.5160832
+  "updated": 1768148370.3920755
 }
