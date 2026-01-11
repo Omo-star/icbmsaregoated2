@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3061,
-  "opponent": "Tuna_Alp123",
+  "opponent": "AlphaOneBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 37,
-  "timestamp": "2026-01-11T16:32:58.913388",
+  "time_left": 35,
+  "timestamp": "2026-01-11T16:34:07.986450",
   "last_game": {
-    "result": "win",
-    "opponent": "Tuna_Alp123",
+    "result": "draw",
+    "opponent": "AlphaOneBot",
     "rating_before": 3061,
     "rating_after": 3061,
     "rating_delta": 0,
-    "moves": "d3 d5 Bf4 Nf6 Bg5 e5 Bxf6 Qxf6 Nf3 e4 dxe4 Qxb2 Qd4 Qc1+ Qd1 Qxd1+ Kxd1 dxe4 Ne5 g6 Nc4 Bg7 Ne3 Bxa1 f3 Be5 fxe4 Be6 Ng4 Bxg4 h3 Be6 g4 Nc6 h4 Rd8+ Ke1 Bg3#",
+    "moves": "d4 d5 Bf4 c5 dxc5 e6 e4 Bxc5 Nc3 Ne7 exd5 Qb6 Qd2 Nxd5 O-O-O Nxf4 Na4 Qc7 Nxc5 Nd5 Ne4 O-O Ne2 Nd7 N2c3 N7b6 Qd3 Bd7 Qg3 Rac8 Qxc7 Rxc7 Rd2 Rd8 Nxd5 Nxd5 g3 Kf8 Bh3 Ke7 Re1 h6 f4 Bb5 f5 Nb4 Nc3 Rxc3 bxc3 Nxa2+ Kd1 Nxc3+ Kc1 Na2+ Kd1 Nc3+ Kc1 Na2+ Kd1 Nc3+ Kc1",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1768149178.9134493
+  "updated": 1768149247.986555
 }
