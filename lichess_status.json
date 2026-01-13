@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "BorkaTower",
+  "rating": 3078,
+  "opponent": "Hogwartspro",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-01-13T15:19:10.032969",
+  "time_left": 44,
+  "timestamp": "2026-01-13T15:24:25.307642",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "win",
+    "opponent": "Hogwartspro",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 g3 Bb4 Bg2 O-O Nf3 e4 Nd4 Nc6 Nc2 Bxc3 dxc3 h6 O-O d6 Ne3 Re8 Qc2 a5 Bd2 a4 Rfe1 Bd7 Rad1 Ra5 Nd5 Ne5 Nxf6+ Qxf6 Qxe4 Bc6 Qd4 Qe6 b3 axb3 axb3 Ra3 Rb1 Ra2 Bf4 Ng4 h3 Bxg2 Kxg2 Nxf2 Kxf2 g5 Be3 Qxh3 Qd3 Re6 Rg1 h5 Qd5 Re5 Qd3 Re6 Qd5 Re5 Qd3 Re6",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Bc5 c3 Qf6 d4 exd4 e5 Nxe5 Qe2 Bd6 cxd4 Qe6 dxe5 Bb4+ Nc3 Bxc3+ bxc3 c6 Bd3 Ne7 Ng5 Qd5 O-O Ng6 Bc4 Qxe5 Bxf7+ Kf8 Qxe5 Nxe5 Ba3+ c5 Bxc5+ d6 Bxd6#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768317550.033082
+  "updated": 1768317865.3077042
 }
