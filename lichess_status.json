@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "startback",
+  "rating": 3022,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+2",
-  "time_left": 37,
-  "timestamp": "2026-01-13T07:47:57.960386",
+  "time_control": "TC: 10+0",
+  "time_left": 475,
+  "timestamp": "2026-01-13T07:56:47.966967",
   "last_game": {
     "result": "draw",
-    "opponent": "startback",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "opponent": "Monastedrez",
+    "rating_before": 3022,
+    "rating_after": 3022,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 O-O c3 d5 exd5 Nxd5 a4 a6 Nbd2 Ba7 Re1 f6 Ne4 Kh8 b4 Be6 Bd2 Nce7 Rc1 Ng6 d4 exd4 Nxd4 Bg8 Nb3 c6 a5 Qc7 Nec5 Rad8 Qc2 Bb8 g3 Qc8 Be2 Rfe8 c4 Nh4 Kh1 b6 axb6 Nxb6 gxh4 Rxe2 Rxe2 Bxc4 Bc3 Bd5+ f3 Bxf3+ Kg1 Qh3 Rce1 Bxe2 Qxe2 Bxh2+ Qxh2 Qxc3 Re4 h6 Qf2 f5 Qe3 Qf6 Re8+ Kh7 Rxd8 Qxd8 Qf4 Qd1+ Kg2 Qe2+ Kh3 Qh5 Nd4 Nd5 Qxf5+ Qxf5+ Nxf5 Kg6 Nd6 Nxb4 Kg4 h5+ Kf4",
-    "duration": 246,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 a6 h5 Ne6 Nf5 axb5 axb5 Rxa1 Qxa1 Bf8 Qa8 Bd7 Qd5 Qe8 Ra1 c6 bxc6 Bxc6 Qa2 b5 Ne3 Nf4 h6 c4 hxg7 Rxg7 Nh4 Bd7 g3 Qh5 Nef5 Bxf5 Nxf5 Qh3 Bxf4 exf4 Qa8 fxg3 Qd5+ Kh8 Nxg3 Rxg3+ fxg3 Qxg3+ Kf1 Qf3+ Kg1 Qg3+ Kf1 Qf3+ Kg1 Qg3+",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768290477.9605615
+  "updated": 1768291007.9671094
 }
