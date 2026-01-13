@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3075,
-  "opponent": "penguin-000",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-01-13T16:33:20.623218",
+  "time_left": 38,
+  "timestamp": "2026-01-13T16:34:29.384036",
   "last_game": {
-    "result": "win",
-    "opponent": "penguin-000",
+    "result": "draw",
+    "opponent": "BorkaTower",
     "rating_before": 3075,
     "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nf3 d6 Nc3 Bd7 e4 Be7 e5 dxe5 dxe5 Ng8 Bd3 Nc6 O-O Bh4 a3 Qe7 b4 h6 b5 Nd8 a4 f6 Nxh4 fxe5 Ng6 Qf7 Nxh8 Qf8 Bg6+ Ke7 Ba3+ Kf6 Ne4#",
+    "moves": "d4 d5 Nf3 Nf6 e3 e6 c4 b6 b3 Bb7 Bb2 Bd6 g3 Bb4+ Bc3 c5 Bg2 Bxc3+ Nxc3 dxc4 bxc4 Ne4 Nxe4 Bxe4 dxc5 Qxd1+ Rxd1 bxc5 Kf1 Ke7 Ne5 Bxg2+ Kxg2 f6 Nd3 Nd7 g4 Rab8 f4 Rhd8 Kf3 Rb6 h4 Ra6 g5 Ra3 gxf6+ gxf6 Rhg1 f5 Rg7+ Kf8 Rxh7 Nf6 Rh8+ Ng8 Rg1 Rdxd3 Rhxg8+ Kf7 R8g7+ Kf8 Rg8+ Kf7 R8g7+ Kf8 Rg8+",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768322000.6233034
+  "updated": 1768322069.3841476
 }
