@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3076,
-  "opponent": "Hogwartspro",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 51,
-  "timestamp": "2026-01-13T15:36:54.405725",
+  "time_left": 43,
+  "timestamp": "2026-01-13T15:41:23.420935",
   "last_game": {
-    "result": "win",
-    "opponent": "Hogwartspro",
+    "result": "draw",
+    "opponent": "BorkaTower",
     "rating_before": 3076,
     "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nc6 Nf3 Nf6 Bg5 Bb4 e3 Bxc3+ bxc3 O-O cxd5 Qxd5 Bd3 e5 Bxf6 gxf6 Qc2 f5 Bxf5 Bxf5 Qxf5 Rad8 Ng5 Qxg2 Qxh7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 h3 h6 b4 Bd6 a3 a5 Rb1 Rd8 Qe2 Na7 Bd3 Be6 bxa5 Nc6 a6 bxa6 Nc4 Nd7 a4 Bc5 Rd1 Nb6 Nxb6 Bxb6 Bd2 Qc5 Be3 Qa5 Bxb6 cxb6 Kh2 Rdc8 Qb2 Rab8 Qe2 Ra8 Qe3 Rab8 Bf1 Ne7 Rb4 Nc6 Rb2 Ne7 Rb4 Nc6 Rbb1 Ne7 Rb4",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768318614.405788
+  "updated": 1768318883.4210498
 }
