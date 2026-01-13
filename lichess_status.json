@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2992,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-01-13T09:41:49.685826",
+  "time_control": "TC: 3+0",
+  "time_left": 173,
+  "timestamp": "2026-01-13T09:42:13.161548",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "opponent": "PositionalAI",
+    "rating_before": 2992,
+    "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nf3 Nf6 Bg5 dxc4 Nc3 a6 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 Be2 Bh6 Bxh6 Rxh6 Bf3 Bxf3 Qxf3 Rxf6 Qc6 Rb8 O-O Rb6 Qe4 Rg6 g3 Rd6 b3 Nf6 Qe5 b4 Ne2 c3 a3 Rd5 Qe3 Rh5 Qf3 Rgh6 h4 Nd5 axb4 Rxh4 gxh4 Qxh4 Qg2 Rg6 Ng3 Nf4 Qf3 Nh3+ Kg2 Nf4+ Kg1 Nh3+ Kg2 Nf4+ Kg1 Nh3+",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 a6 c4 Nc6 d4 cxd4 Nxd4 e5 Nf5 d5 cxd5 Bxf5 exf5 Nd4 Nc3 Nf6 Bd3 Be7 O-O O-O Re1 Nxd5 Nxd5 Qxd5 Qg4 Bf6 Bh6 Qd7 h4 Rad8 Red1 Rfe8 Be4 Kh8 Bg5 Bxg5 hxg5 g6 Qh3 Kg8 Rac1 Qa4 f6 h5 Qe3 Qxa2 Rc7 Ne6 Rxd8 Rxd8 Re7 Qc4 b3 Qb4 Bxg6 fxg6 Rxe6 Rd1+ Kh2 Re1 Re8+ Kf7 Re7+ Kg8 Rxb7 Qh4+ Qh3 Qf4+ Qg3 Qd4 Qf3 Qh4+ Qh3 Qf4+ Qg3 Qd4 Qf3 Qh4+ Qh3 Qf4+",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768297309.6859293
+  "updated": 1768297333.161656
 }
