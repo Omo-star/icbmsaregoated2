@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3069,
-  "opponent": "jamal_junkin",
+  "opponent": "monstertruck22",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 41,
-  "timestamp": "2026-01-14T15:56:19.019353",
+  "time_left": 37,
+  "timestamp": "2026-01-14T16:39:05.632095",
   "last_game": {
     "result": "win",
-    "opponent": "jamal_junkin",
+    "opponent": "monstertruck22",
     "rating_before": 3069,
     "rating_after": 3069,
     "rating_delta": 0,
-    "moves": "e4 c5 Bc4 e6 d3 d5 exd5 exd5 Bb3 Nf6 Nf3 Nc6 Bf4 Qe7+ Qe2 Qxe2+ Kxe2 Bg4 h3 Bxf3+ Kxf3 Nd4+ Kg3 Nh5+ Kg4 Nf6+ Kg3 Nh5+ Kg4 g6 Re1+ Kd7 c3 f5+ Kg5 h6+ Kxg6 Nxf4+ Kf6 Nxb3 axb3 Bd6",
+    "moves": "c4 Nc6 d4 d6 d5 Ne5 Nc3 Ng6 f4 Nf6 e4 e6 dxe6 Bxe6 f5 Bxf5 exf5 Ne5 Bf4 Be7 Qc2 O-O O-O-O Re8 Bxe5 dxe5 Rxd8 Raxd8 Be2 Bb4 Nh3 Bxc3 Qxc3 Ne4 Qe3 Nf6 Nf2 e4 Rd1 Rc8 Ng4 Nh5 Qg5 g6 Nh6+ Kh8 Bxh5 gxh5 Nxf7#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768406179.019487
+  "updated": 1768408745.632177
 }
