@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2996,
-  "opponent": "PositionalAI",
+  "opponent": "DeKoog",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 175,
-  "timestamp": "2026-01-14T10:03:01.479390",
+  "time_control": "TC: 3+1",
+  "time_left": 110,
+  "timestamp": "2026-01-14T10:06:52.133570",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
+    "opponent": "DeKoog",
     "rating_before": 2996,
     "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qb8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+ Kg8 Qb8",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e3 Bb4 Qc2 Bxc3 bxc3 d6 e4 O-O Be2 b6 O-O h6 Re1 Bd7 h3 Qe7 Bf1 Nh7 d4 Rfe8 Be3 Nf8 Rad1 Rad8 Kh2 Qf6 Rd2 g5 Red1 Qg6 c5 exd4 cxd4 Qxe4 cxd6 cxd6 d5 Qxc2 Rxc2 Ne7 Rc7 Ba4 Rd4 Rd7 Rc1 b5 h4 Nf5 hxg5 Nxd4 Bxd4 hxg5 Bd3 Ng6 Nxg5 Rde7 Bxg6 fxg6 Rc6 Rd7 Rc3 a5 Rh3 Rg7",
+    "duration": 250,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768384981.4795392
+  "updated": 1768385212.1336946
 }
