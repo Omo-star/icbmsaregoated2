@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "Weiawaga",
+  "rating": 3020,
+  "opponent": "Monastedrez",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 60,
-  "timestamp": "2026-01-15T08:29:27.748560",
+  "time_control": "TC: 10+0",
+  "time_left": 468,
+  "timestamp": "2026-01-15T08:38:43.762820",
   "last_game": {
     "result": "draw",
-    "opponent": "Weiawaga",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "opponent": "Monastedrez",
+    "rating_before": 3020,
+    "rating_after": 3020,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "aborted"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 a6 h5 Ne6 Nf5 axb5 axb5 Rxa1 Qxa1 Bf8 Qa8 Bd7 Qd5 Qe8 Ra1 c6 bxc6 Bxc6 Qa2 b5 Ne3 Nf4 h6 c4 hxg7 Rxg7 Nh4 Bd7 g3 Qh5 Nef5 Bxf5 Nxf5 Qh3 Bxf4 exf4 Qa8 fxg3 Qd5+ Kh8 Nxg3 Rxg3+ fxg3 Qxg3+ Kf1 Qf3+ Kg1 Qg3+ Kf1 Qf3+ Kg1 Qg3+",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1768465767.7486677
+  "updated": 1768466323.7629507
 }
