@@ -5,18 +5,18 @@
   "opponent": "OlympusCz",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 63,
-  "timestamp": "2026-01-15T10:02:45.049854",
+  "time_left": 120,
+  "timestamp": "2026-01-15T10:03:20.270312",
   "last_game": {
     "result": "draw",
     "opponent": "OlympusCz",
     "rating_before": 3064,
     "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Ne4 a4 Nxc6 Bh4 Nd4 axb3 axb3 Ra2 Rb1 Rd8 Kf1 Bd7 Re3 h5 Nf5 hxg4 hxg4 Bc6 Nxg7 Nf4 Nf5 Rh8 Kg1 Bg5 e6 Rxb2 Rxb2 fxe6 Nd4 Bb7 Rb1 Nh3+ Rxh3 Rxh3 Re1 Rh6 Kg2 Bf4 Kf3 Rf6 g5 Bxg5+ Kg4 Rf4+ Kxg5 Rxe4 Rxe4 Bxe4 Kf4 Bg6 c3 Kd7 Ke5 Bh5 b4 Bg4 Kf4 Bh3 Ke5 Ke7 Nc6+ Kd7 Nd4 Bg4 Kf4 Bd1 Ke5 Bg4",
-    "duration": 222,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4",
+    "duration": 121,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1768471365.0499494
+  "updated": 1768471400.2703924
 }
