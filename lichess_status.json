@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3019,
-  "opponent": "alekhine_warriorss",
+  "rating": 3059,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 600,
-  "timestamp": "2026-01-15T12:51:15.542819",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-01-15T12:52:15.391926",
   "last_game": {
     "result": "draw",
-    "opponent": "alekhine_warriorss",
-    "rating_before": 3019,
-    "rating_after": 3019,
+    "opponent": "Lili-ai",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "Nf3",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 O-O O-O Qc2 Nbd7 Bf4 a5 Rd1 b6 Nbd2 Nh5 Be5 Ba6 e4 Rc8 Rac1 Bb7 a3 f6 cxd5 exd5 exd5 fxe5 d6 Bxd6 dxe5 Bc7 Ne4 Qe7 Neg5 g6 Qc4+ Kh8 Qe6 Qxe6 Nxe6 Nxe5 Nxf8 Rxf8 Nd4 Nf6 h3 b5 Nxc6 Nc4 Rc2 Bc8 Ne7 Bd7 b3 Bd8 Nd5 Bf5 Ra2 Nb6 Nxb6 Bxb6 Rd6 Bc5 Rc6 Nd7 g4 Bd3 Rc7 Rd8 Bf1 Bd6 Rxd7 Rxd7 Bxd3 Bh2+ Kxh2 Rxd3 b4 a4 Kg2 Kg7 Rc2 Rxa3 Rc5 Rb3",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768481475.5428967
+  "updated": 1768481535.3920512
 }
