@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3020,
-  "opponent": "Monastedrez",
+  "rating": 3065,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 501,
-  "timestamp": "2026-01-15T11:42:48.525096",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-01-15T11:43:32.406494",
   "last_game": {
     "result": "draw",
-    "opponent": "Monastedrez",
-    "rating_before": 3020,
-    "rating_after": 3020,
+    "opponent": "Lili-ai",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 a6 h5 Ne6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 Rd7 h6 Bf7 hxg7 Kxg7 Nb4 Bxb4 Rxb4 Rd8 Ra4 Be8 Ra7 Rc8 f4 f5 exf5 Kf6 g4 h5 fxe5+ Kxe5 gxh5 Bxh5 Be1 c6 Rh7 Bg4 f6 Kxf6 Rh6+ Ke5 bxc6 Kd5 Bf2 Rxc6 Rxc6 Kxc6 Bxd4",
-    "duration": 600,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Nd4 Bxd4 Bxd4 Nxd4 exd4 Ne2 c5 Qd2 O-O Ng3 a6 bxc5 dxc5 a4 h5 h4 Bg4 a5 b5 axb6 Qxb6 Be2 Bxe2 Nxe2 Ng4 O-O Ne5 Rfd1 Qg6 Qg5 Qxg5 hxg5 a5 Ra3 Rfb8 Nf4 Rb2 f3 g6 Rda1 Nc6 Re1 Rab8 Raa1 Ra8 Ra3 Rab8 Raa1 Ra8 Ra3",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768477368.5252256
+  "updated": 1768477412.4066627
 }
