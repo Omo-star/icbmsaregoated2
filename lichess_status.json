@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3019,
-  "opponent": "Lili-ai",
+  "rating": 3059,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 137,
-  "timestamp": "2026-01-15T13:13:48.735056",
+  "time_control": "TC: 1+0",
+  "time_left": 51,
+  "timestamp": "2026-01-15T15:19:28.712414",
   "last_game": {
     "result": "draw",
-    "opponent": "Lili-ai",
-    "rating_before": 3019,
-    "rating_after": 3019,
+    "opponent": "CloudNetBot",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "d4 c6 e4 a6 Nd2 d5 e5 c5 Ngf3 e6 c3 Nc6 Bd3 Bd7 dxc5 f6 exf6 Nxf6 b4 e5 Be2 Be7 Nf1 O-O Ne3 Be6 Ng5 Bc8 O-O Kh8 a3 h6 Nf3 Be6 Nh4 Qe8 Nef5 g5 Nxe7 Nxe7 Nf3 Ng6 a4 Bf5 Ne1 Nf4 f3 Qg6 b5 a5 Rf2 Rac8 Bf1 Qf7 Ba3 Rg8 g3 g4 Bg2 Nh3+ Bxh3 gxh3 Nc2 h5 Ne3 Bh7 Raa2 Rge8 Rae2 Rcd8 Re1 Bg6 Rd2 Rd7 Rf2 Kh7 Nf1 d4 c6 bxc6 bxc6 Rdd8 Qd2 Nd5 cxd4 Nb4 Bxb4 Rxd4 Qb2 Rxb4 Qc3 Rc4 Qxa5 Qf6 Ne3 Rxc6 Rd1 Rf8 f4 exf4 Rxf4 Qe7 Rxf8 Qxf8 Rd7+ Kh6 Qd2 Qc5 a5 Re6",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Qc2 Na6 a3 Bg4 Ne5 Bxe5 dxe5 Nac5 f3 Nxd3 Qxd3 Nc5 Qd4 Nb3 Qxg4 Nxa1 Bh6 g6 Nc3 Nb3 Bxf8 Qxf8 cxd5 cxd5 Kh1 Qe7 f4 Qe6 Qe2 Rc8 h3 d4 Ne4 Qa6 Qf3 Rc2 Kh2 Nc5 Nf6+ Kg7 f5 Qe2 Ne8+ Kg8 fxg6 Qxf3 gxh7+ Kxh7 Rxf3 d3 Rxf7+ Kg8 e6 Nxe6 Rd7 Nc5 Nf6+ Kf8 Nh7+ Kg8 Nf6+ Kf8 Nh7+ Ke8 Nf6+ Kf8 Nh7+",
+    "duration": 60,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768482828.7351892
+  "updated": 1768490368.712583
 }
