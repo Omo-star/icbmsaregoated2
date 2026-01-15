@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "supergm2030",
+  "opponent": "pokhodiloven",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 41,
-  "timestamp": "2026-01-15T16:14:25.635190",
+  "time_left": 40,
+  "timestamp": "2026-01-15T16:27:57.237247",
   "last_game": {
     "result": "win",
-    "opponent": "supergm2030",
+    "opponent": "pokhodiloven",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 d5 exd5 Nf6 d4 Nxd5 c4 Nb4 a3 N4c6 d5 Ne5 Nc3 Bf5 f4 Ng6 g4 Bd7 f5 Ne5 Bf4 f6 Nf3 Nxf3+ Qxf3 c6 O-O-O cxd5 Nxd5 Bc6 g5 Qa5 Qh5+ g6 fxg6 hxg6 Qxg6+ Kd7 Nb6+ Ke6 Rd6+ exd6 Qxf6#",
+    "moves": "e4 e5 Bc4 Nf6 Nc3 Nc6 Nf3 Nxe4 Nxe4 d5 Bb5 dxe4 Bxc6+ bxc6 Nxe5 Qg5 Nxc6 Qxg2 Rf1 Bg4 Qxg4 Qxg4 f3 exf3 Rf2 Bb4 c3 O-O d4 Qg1+ Rf1 Rfe8+ Kd1 Qxf1+ Kc2 Bd6 Bg5 Qe2+",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1768493665.6352532
+  "updated": 1768494477.2373416
 }
