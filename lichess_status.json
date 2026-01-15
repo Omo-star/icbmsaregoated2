@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3064,
-  "opponent": "OlympusCz",
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 120,
-  "timestamp": "2026-01-15T10:03:20.270312",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-01-15T10:04:03.754423",
   "last_game": {
     "result": "draw",
-    "opponent": "OlympusCz",
+    "opponent": "GoblinAjedrezAI",
     "rating_before": 3064,
     "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "d4",
-    "duration": 121,
+    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Nf3 d6 Bc4 a5 O-O c6 a4 O-O d3 Bb6 h3 h6 Be3 Bxe3 fxe3 Be6 b3 Nbd7 Qd2 Rc8 Rac1 Re8 Ne2 Bxc4 bxc4 d5 cxd5 cxd5 exd5 Nxd5 e4 Nb4 c3 Na6 Rcd1 Nac5 Qc2 Nb6 Kh1 Ncxa4 d4 Qe7 Nxe5 f6 Ng4 Qxe4 Qb3+ Qe6 Qc2 Qe4 Qb3+ Qe6 Qc2 Qe4 Qb3+",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1768471400.2703924
+  "updated": 1768471443.7545073
 }
