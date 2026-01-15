@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "Lili-ai",
+  "rating": 2990,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 9,
-  "timestamp": "2026-01-15T11:44:32.956969",
+  "time_control": "TC: 3+0",
+  "time_left": 109,
+  "timestamp": "2026-01-15T11:47:23.629393",
   "last_game": {
-    "result": "loss",
-    "opponent": "Lili-ai",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "draw",
+    "opponent": "Alehkine_cat",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 c6 Bg2 d5 O-O O-O Ne5 Bb7 Nc3 Nbd7 Rac1 Qe7 cxd5 exd5 Nd3 Ne4 Qc2 Ndf6 e3 Rfc8 Rfe1 h6 Qa4 Rc7 Rc2 c5 dxc5 Nxc3 Rxc3 bxc5 Qa3 Ne4 Rc2 g5 Rec1 Rac8 h3 h5 b3 Kh7 Qa4 Rc6 Qa3 R6c7 Kh2 Kg8 Qa5 c4 Kg1 Kg7 Nb2 Rc5 Qxa7 cxb3 Rxc5 Rxc5 Rxc5 Qxc5 Qxc5 Nxc5 axb3 Nxb3 Nd3 Nd2 h4 Kg6 Ne5+ Kf6 Nd3 Ne4 Nb4 Nd6 hxg5+ Kxg5 Nxd5 h4 gxh4+ Kxh4 Nb4 Bxg2 Kxg2 Kg5 Kf3 Kf5 Nc6 f6 Nb4 Ke6 Kf4 f5 Na6 Ne4 f3 Nd6 Nc5+ Kf6 e4 Kg6 e5 Nc4 Ne6 Nb6 Nc7 Na4 Ke3 Kf7 Kd4 Nb2 Nd5 Na4 Nf4 Ke7 Nh5 Kf7 Kd5 Ke7 Ng7 Nc3+ Kc4 Nd1 f4 Ne3+ Kd4 Nf1 Nxf5+ Kd8 Kd5 Kc7 e6 Nd2 e7 Kd7 Ke5 Nb1 Kf6 Nc3 Kf7 Kc6 e8=Q+ Kd5 Ne3+ Kd4 Nf5+ Kd3 Qe3+ Kc4 Nd6+ Kd5 Qxc3 Kxd6 Qc4 Kd7 Qc5 Kd8 Ke6 Ke8 Qc8#",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 h3 d5 exd5 Qxd5 Nf3 Bd7 Nc3 Qe6 Be2 Nc6 d4 Nxd4 Nxd4 exd4 Qxd4 Ne7 Bg5 Nf5 Qd2 f6 Bf4 O-O-O O-O-O Bc5 Nd5 Nd4 Bc4 Bb5 Qa5 Bb6 Nxb6+ Qxb6 Qxb6 axb6 Bxb5 Nxb5 a4 Nd4 Rhe1 Nf5 b3 h5 Rxd8+ Rxd8 c3 Nh4 g3 Ng2 Re4 Rd3 Bd2 Rf3 Re8+ Kd7 Rh8 Rxf2 Rh7 Kd6 Kd1 g5 Rxh5 Rf3 g4 Nh4 Rh6 Ke7 Rh7+ Kd6 Rh6",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1768477472.957033
+  "updated": 1768477643.629502
 }
