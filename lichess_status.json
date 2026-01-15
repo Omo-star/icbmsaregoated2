@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "CloudNetBot",
+  "opponent": "supergm2030",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 51,
-  "timestamp": "2026-01-15T15:19:28.712414",
+  "time_left": 41,
+  "timestamp": "2026-01-15T16:07:29.632119",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "supergm2030",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Qc2 Na6 a3 Bg4 Ne5 Bxe5 dxe5 Nac5 f3 Nxd3 Qxd3 Nc5 Qd4 Nb3 Qxg4 Nxa1 Bh6 g6 Nc3 Nb3 Bxf8 Qxf8 cxd5 cxd5 Kh1 Qe7 f4 Qe6 Qe2 Rc8 h3 d4 Ne4 Qa6 Qf3 Rc2 Kh2 Nc5 Nf6+ Kg7 f5 Qe2 Ne8+ Kg8 fxg6 Qxf3 gxh7+ Kxh7 Rxf3 d3 Rxf7+ Kg8 e6 Nxe6 Rd7 Nc5 Nf6+ Kf8 Nh7+ Kg8 Nf6+ Kf8 Nh7+ Ke8 Nf6+ Kf8 Nh7+",
+    "moves": "b3 e5 Bb2 Nc6 e3 Nf6 Nf3 e4 Nd4 Bc5 Nxc6 dxc6 Bc4 Qe7 O-O Bf5 d3 O-O-O Qe2 Bg4 Qd2 b5 b4 Bxb4 c3 Bd6 Bb3 Bf3 Bd1 Ng4 gxf3 Qh4 Re1 Qxh2+ Kf1 Qh1+ Ke2 exf3#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1768490368.712583
+  "updated": 1768493249.6321797
 }
