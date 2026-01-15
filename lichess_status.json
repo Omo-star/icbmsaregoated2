@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3059,
-  "opponent": "tbhOnBot",
+  "rating": 2990,
+  "opponent": "Ultra_Master2000",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2026-01-15T12:15:43.885255",
+  "time_control": "TC: 3+0",
+  "time_left": 94,
+  "timestamp": "2026-01-15T12:20:38.124020",
   "last_game": {
     "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3059,
-    "rating_after": 3059,
+    "opponent": "Ultra_Master2000",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qd6 Qc2 Rbc8 Qd2 Qb8 Qd3 Bd6 Nf3 b5 Qd2 Kg6 Ne1 Kg7 Nd3 Ng4 b4 Ne3 Qxe3 Rxc3 Qf2 f5 e3 Bg8 Qd2 Qc7 Rc1 Rxc1 Rxc1 Qe7 Re1 h5 Qa2 Qf7 Qc2 Qf6 Qf2 Re8 Nc5 Re7 Rf1 Qg6 Qxf5 Rxe3 Qf2 Rxa3 Nd7 h4 gxh4 gxh4 Kh1 h3 Bxh3 Rxh3 Rg1 Rxh2+ Qxh2 Bxh2 Kxh2 Be6 Rxg6+ Kxg6 Nc5 Bg4 Kg3 Kf5 Nb7 Ke4 Kxg4 Kxd4 Na5",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nc3 d5 cxd5 exd5 Bg2 c6 O-O Nbd7 Rfe1 Re8 Qc2 Bb7 e4 Nxe4 Nxe4 Rxe4 Rxe4 dxe4 Qxe4 Rb8 Rd1 c5 Qe2 Qe8 Qxe8+ Rxe8 dxc5 Nxc5 b4 Na6 a3 Kf8 Rd7 Bxf3 Bxf3 Re7 Rd8+ Re8 Rxe8+ Kxe8 Kg2 Nc7 Be2 f5 Kf3 Ke7 Bd3 g6 Ke3 Kd6 Kd4 Nd5 Be2 Nf6 f4 Ng4 h3 Nf2 Ba6 Ne4 g4 Nf6 gxf5 gxf5 Bc8 Nd5 Bxf5 Nxf4 Ke4 Nd5 h4 a5 bxa5 bxa5 Kd4 h6 Be4 Nf4 Kc4 a4 Kb5 Ne2 Kc4 h5 Kb4 Nd4 Kxa4 Kc5 Ka5 Ne2 Ka6 Nd4 Bd3 Ne6 Bc2 Nd4 Bd3 Ne6 a4 Kc6 Bb5+ Kc7 Be8 Nc5+ Kb5 Nxa4 Kxa4 Kd8 Bxh5 Kc8 Bg6 Kd8 h5 Ke7 h6 Kf8 Ka3 Kg8 Kb3 Kh8 Kc2 Kg8 Kd2 Kh8 Ke3 Kg8 Bf5 Kh8 Bg6 Kg8 Bd3 Kh8 Kf4 Kg8 Be4 Kh8 Kf3 Kg8 Bb1 Kh8 Kg4 Kg8 Kh4 Kh8 Bg6 Kg8 Bb1 Kh8 Kg3 Kg8 Kf4 Kh8 Bc2 Kg8 Bb1 Kh8 Bc2 Kg8 Be4 Kh8 Bf5 Kg8 Bc2 Kh8 Bd3 Kg8",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1768479343.8854206
+  "updated": 1768479638.1240835
 }
