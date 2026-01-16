@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3013,
-  "opponent": "TanishqYekula",
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+0",
-  "time_left": 272,
-  "timestamp": "2026-01-16T03:55:30.199315",
+  "time_left": 298,
+  "timestamp": "2026-01-16T04:04:20.761876",
   "last_game": {
-    "result": "win",
-    "opponent": "TanishqYekula",
+    "result": "draw",
+    "opponent": "Alehkine_cat",
     "rating_before": 3013,
     "rating_after": 3013,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Bb4 Bf4 dxc4 Nf3 a6 e3 b5 Be2 Nf6 O-O Bxc3 bxc3 Nd5 Qc2 Nxf4 exf4 Nc6 Ne5 Nxe5 fxe5 Bb7 Rad1 Qg5 g3 Qe7 f4 c5 Bf3 Bxf3 Rxf3 cxd4 cxd4 O-O g4 Rac8 f5 Qg5 Rg3 c3 h3 b4 Kg2 Rfd8 Rdd3 Qf4 Rgf3 Qe4 fxe6 fxe6 Qf2 c2 Kg3 c1=Q",
+    "moves": "d4 d5 c4 e6 cxd5 exd5 Nc3 c6 Bf4 Bd6 Bxd6 Qxd6 Qb3 Ne7 e3 a5 Bd3 O-O Nge2 Na6 O-O Nb4 Bb1 Bf5 Ng3 Bxb1 Raxb1 Na6 h3 Qb4 Qc2 Qd6 Rfe1 Nc7 Na4 Qg6 Qxg6 hxg6 Nc5 Ra7 h4 Nf5 Nxf5 gxf5 a4 Na6 Nxa6 Rxa6 b4 axb4 Rxb4 b6 Reb1 Rc8 Kf1 c5 Rxb6 Rxa4 Rc1 Rc4 Rxc4 dxc4 Ke2 cxd4 exd4 g6 Rb2 Kf8 Rc2 Ke7",
     "duration": 480,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1768535730.1994007
+  "updated": 1768536260.7620268
 }
