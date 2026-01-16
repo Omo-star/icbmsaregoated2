@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3055,
-  "opponent": "advait121",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-01-16T15:37:10.827551",
+  "time_left": 15,
+  "timestamp": "2026-01-16T15:40:25.023468",
   "last_game": {
-    "result": "win",
-    "opponent": "advait121",
+    "result": "draw",
+    "opponent": "BorkaTower",
     "rating_before": 3055,
     "rating_after": 3055,
     "rating_delta": 0,
-    "moves": "e4",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O a3 Bxc3+ Qxc3 b6 Bg5 Bb7 e3 d6 f3 Nbd7 Bd3 h6 Bh4 e5 Ne2 e4 fxe4 g5 Bf2 Nxe4 Bxe4 Bxe4 O-O f5 Rad1 Qe7 Ng3 Nf6 Be1 Qd7 c5 Qe6 Nxe4 Nxe4 Qd3 Qd5 cxb6 cxb6 Rc1 Rac8 Bb4 h5 Rc2 Rxc2 Qxc2 Qe6 Rc1 Nf6 Qd3 Rf7 Rc6 Rd7 Be1 h4 h3 Nd5 Bd2 Kf7 a4 Qe4 Qe2 g4 hxg4 fxg4 Qf2+ Ke6 Rc8 Re7 Rf8 Kd7 Qxh4 Nxe3 Bxe3 Qxe3+ Kh2 Qxd4 Qh5 Qe4 Rf7 d5 Rxe7+ Kxe7 Qg5+ Ke6 Qh6+ Ke5 Qh8+ Ke6 Qh6+ Kf5 Qh5+ Kf4 Qh6+ Kf5 Qh5+ Kf4 Qh6+ Ke5 Qh8+ Kd6 Qf8+ Kc7 Qf7+ Kc6 Qf6+ Kc5 Qc3+ Kd6 Qf6+ Kc5 Qc3+ Kd6 Qf6+ Qe6 Qf4+ Kc6 Qc1+ Kd6 Qf4+ Kc6 Kg3 Qe1+ Kxg4 Kc5 Kh3 Qe4",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "noStart"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768577830.8276308
+  "updated": 1768578025.0236104
 }
