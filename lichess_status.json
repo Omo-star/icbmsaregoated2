@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3055,
-  "opponent": "BorkaTower",
+  "rating": 3054,
+  "opponent": "sluicing",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 15,
-  "timestamp": "2026-01-16T15:40:25.023468",
+  "time_left": 20,
+  "timestamp": "2026-01-16T15:42:11.511678",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3055,
-    "rating_after": 3055,
+    "opponent": "sluicing",
+    "rating_before": 3054,
+    "rating_after": 3054,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O a3 Bxc3+ Qxc3 b6 Bg5 Bb7 e3 d6 f3 Nbd7 Bd3 h6 Bh4 e5 Ne2 e4 fxe4 g5 Bf2 Nxe4 Bxe4 Bxe4 O-O f5 Rad1 Qe7 Ng3 Nf6 Be1 Qd7 c5 Qe6 Nxe4 Nxe4 Qd3 Qd5 cxb6 cxb6 Rc1 Rac8 Bb4 h5 Rc2 Rxc2 Qxc2 Qe6 Rc1 Nf6 Qd3 Rf7 Rc6 Rd7 Be1 h4 h3 Nd5 Bd2 Kf7 a4 Qe4 Qe2 g4 hxg4 fxg4 Qf2+ Ke6 Rc8 Re7 Rf8 Kd7 Qxh4 Nxe3 Bxe3 Qxe3+ Kh2 Qxd4 Qh5 Qe4 Rf7 d5 Rxe7+ Kxe7 Qg5+ Ke6 Qh6+ Ke5 Qh8+ Ke6 Qh6+ Kf5 Qh5+ Kf4 Qh6+ Kf5 Qh5+ Kf4 Qh6+ Ke5 Qh8+ Kd6 Qf8+ Kc7 Qf7+ Kc6 Qf6+ Kc5 Qc3+ Kd6 Qf6+ Kc5 Qc3+ Kd6 Qf6+ Qe6 Qf4+ Kc6 Qc1+ Kd6 Qf4+ Kc6 Kg3 Qe1+ Kxg4 Kc5 Kh3 Qe4",
+    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Bb4+ Bd2 Qxd4 Bxb4 Qxe4+ Be2 Na6 Ba5 b6 Qd6 Bd7 Bc3 f6 Nf3 Nh6 Rd1 Rd8 Qa3 Bc8 Nd2 Qf4 Bh5+ Nf7 O-O c5 Qa4+ Ke7 Rfe1 Rhe8 a3 Kf8 b4 Bb7 Bxf7 Kxf7 b5 Nb8 Qxa7 Qc7 Qa4 Nd7 Qc2 Nf8 a4 e5 Ra1 Qd7 a5 bxa5 Bxa5 Qd3 Qxd3 Rxd3 Re3 Rd6 Bc3 Ra8 Rxa8 Bxa8 Kf1 Ne6 f3 Ke7 h4 h5 Kf2 Bb7 g3 Ba8 Ke2 Rd7 Ba5 Nd4+ Kf2 Ra7 Ra3 Ke6 Bb4 Rxa3 Bxa3 Kd6 g4 g6 Bb2 Ne6 Nb3 Bb7 Bc3 Ba8 Bb2 Bb7 Bc3 Ba8 Nc1 Nf4 Kg3 g5 hxg5 fxg5 gxh5 Nxh5+ Kg4 Nf6+ Kg3 Be4 Kf2 g4 fxg4 Nxg4+ Ke2 Bf5 Nd3 Be6 Nb2 e4 Bg7 Kc7 Kd2 Kb6 Kc3 Bxc4 Nxc4+ Kxb5 Nb2 Ne3 Nd1 Nxd1+ Kd2 Nf2 Ke3 Nd3 Kxe4 c4 Bh8 Nc5+ Kf5 Kc6 Bg7 Kd5 Bh8 Nd3 Bg7 Nc5 Bh8 Na4 Bg7 c3 Bf8 Nc5 Bh6 Kc4 Ke5 Kd3 Bc1 Nb3 Ba3 Nd2 Kd5 Nc4 Bc1 Nd2 Ke6 Kd4 Kd6 Nb3 Bg5 Kd3 Bf6 Nd4 Bg5 Nb3 Bf6 Nd4 Bg5 c2 Bc1 Kc4 Kc7 Ne2 Bh6 Kc5 Kb7 Kd5 Kb6 Ke4 Bd2 Kd3 Bh6 Nd4 Bc1 Kc4 Kc7 Kc5 Kd7 Ne2 Bd2 Nd4 Bc1 Kd5 Ke7 Ne2 Bd2 Nd4 Bc1 Nb3 Bb2 Nc5 Bc1 Nb3 Bb2 Nc5 Bc1 Nd3 Bd2 Ne5 Bc1 Nd3 Bd2 Ne5 Bc1 Nc4 Kd7 Na5 Ke7 Nc4 Kd7 Na5 Ke7 Kc4 Kd6 Nb3 Ba3 Nd4 Ke5 Nb3 Kd6 Nd2 Kc6 Ne4 Kc7 Nc3 Bc1 Ne2 Bh6 Kc5 Kb7 Kd5 Kb6 Ke4 Bd2 Kd3 Bh6 Nf4 Bxf4 Ke2 Kc7 Kf3 Bh6 c1=Q+ Bxc1",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768578025.0236104
+  "updated": 1768578131.5117438
 }
