@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3055,
-  "opponent": "sluicing",
+  "rating": 3057,
+  "opponent": "Ruslan2015_07",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 13,
-  "timestamp": "2026-01-16T15:31:22.911191",
+  "time_left": 50,
+  "timestamp": "2026-01-16T15:31:59.898614",
   "last_game": {
-    "result": "draw",
-    "opponent": "sluicing",
-    "rating_before": 3055,
-    "rating_after": 3055,
+    "result": "win",
+    "opponent": "Ruslan2015_07",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 Kh8 d4 g6 Nh6 Bd6 Bd2 Rd8 b3 Qe7 Qb1 Rde8 h3 Bc8 Ra2 Qg7 Qc2 c5 d5 Nb8 Ng4 Qe7 Rb2 Nd7 Nh6 Qg7 Bc1 Nb8 Ng4 Qe7 c4 h5 Nh4 Qg7 Bh6 Qh7 Bxf8 hxg4 Bxd6 cxd6 g3 g5 Nf5 Qxh3 f4 gxf3 Qh2 Bxf5 exf5 Qxh2+ Rxh2+ Kg7 Kf2 Rh8 Rxh8 Kxh8 Rh1+ Kg7 Kxf3 Na6 Rh2 Nb4 Rh5 Na6 Rh3 Nb4 Rh2 Na6 Rh1 Nb4 Rh2 Na6 Rh1 Nb4 Ke3 Nc2+ Kd2 Nb4 Rh5 Na6 Rh2 Nb4 Ke3 Na6 Rh1 Nb4 Kf3 Na6 Kg2 Nb8 Rh2 Na6 Rh1 Nb8 Rh2 Na6 Rh5 Nb8 Rh1 Na6 g4 Nb8 Kf3 Kg8 Rh6 Kg7 Rg6+ Kf7 Rh6 Kg7 Rh1 Nd7 Ke3 Nb8 Kd2 Nd7 Kc2 Nb8 Kd2 Na6 Rh5 Nb8 Rh2 Na6 Rh3 Nb4 Rh2 Na6 Rh3 Nb8 Kc2 Nd7 Kc3 Nb8 Kc2 Na6 Kb1 Nb4 Rh2 Na6 Rh5 Nb8 Rh1 Na6 Kc2 Nb8 Kb1 Nd7 Rh3 Nb8 Rh2 Na6 Rh3 Nb8 Rh5 Na6 Rh1 Nb8 Kc2 Na6 Kd2 Nb4 Ke3 Na6 Ke4 Nb8 Rh2 Nd7 Rh1 Nb8 Ke3 Nd7 Kd2 Nb8 Rh5 Na6 Rh2 Nb4 Rh1 Na6 Rh2 Nb8 Rh3 Na6 Rh1 Nb4 Rh3 Kg8 Rh6 Kg7 Rg6+ Kf7 Rh6 Kg7 Rg6+ Kf7 Kc3 Na2+ Kc2 Nb4+ Kb1",
+    "moves": "e4 Nf6 e5 Nd5 c4 Nb6 d4 Nxc4 Bxc4 e6 a3 d5 exd6 e5 Qh5 cxd6 Qxf7#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768577482.9113722
+  "updated": 1768577519.8986802
 }
