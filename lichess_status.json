@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3011,
-  "opponent": "Ashvashan",
+  "rating": 3059,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 8+0",
-  "time_left": 391,
-  "timestamp": "2026-01-16T04:31:33.463614",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-01-16T07:43:56.951991",
   "last_game": {
-    "result": "win",
-    "opponent": "Ashvashan",
-    "rating_before": 3011,
-    "rating_after": 3011,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "d4 e6 e4 d5 Nc3 dxe4 Nxe4 Nf6 Nxf6+ Qxf6 Nf3 Nc6 Bg5 Qg6 Bd3 f5 Bb5 Bd6 O-O O-O c4 Bd7 c5 Be7 Bxe7 Nxe7 Bxd7 Nd5 c6 Nf4 g3 Qg4 Ne5 Nh3+ Kg2 Nf4+ Kh1 Ne2 Nxg4",
-    "duration": 480,
+    "moves": "c3 e5 c4 Nf6 e3 d5 cxd5 Nxd5 a3 Bd6 Bc4 Nb6 Ba2 Qe7 Ne2 Be6 O-O Bxa2 Rxa2 Qe6 Nbc3 Nc6 b4 O-O-O b5 Na5 d4 Qc4 Rc2 Rhe8 Bd2 Kb8 a4 f5 h3 g6 Ne4 Qxa4 Bxa5 Qxa5 Nxd6 Rxd6 Qb1 Rd5 Rb2 exd4 Nxd4 Qc3 Rb3 Qc5 Rc1 Qd6 Qa2 f4 Ra1 fxe3 Qxa7+ Kc8 fxe3 Rde5 Re1 h5 Rc3 Nd5 Rcc1 Rxe3 Rxe3 Rxe3 Qa8+ Kd7 Qxb7 Nc3 Qc6+ Qxc6 bxc6+ Ke7 Kf2 Rd3 Re1+ Kf6 Nf3 Nb5 Ne5 Rc3 Nd7+ Kf7 Re4 Rc2+ Kf3 Na7 Ne5+ Kf6 Nd7+ Kf7 Ne5+ Kg7 g4 Nxc6 gxh5 gxh5 Nxc6 Rxc6 h4",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1768537893.4637036
+  "updated": 1768549436.952089
 }
