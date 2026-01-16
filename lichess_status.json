@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3056,
-  "opponent": "StephenPS",
+  "rating": 3057,
+  "opponent": "viswapathi",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-01-16T15:19:34.214266",
+  "time_left": 45,
+  "timestamp": "2026-01-16T15:29:04.036347",
   "last_game": {
     "result": "win",
-    "opponent": "StephenPS",
-    "rating_before": 3056,
-    "rating_after": 3056,
+    "opponent": "viswapathi",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "d4",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bc5 c3 Nf6 Ng5 O-O cxd4 Bxd4 Be3 Bxb2 Bd4 Nxd4 Nxf7 Rxf7 Bxf7+ Kxf7 Qxd4 Bxd4 Nc3 Bxc3+ Ke2 d5 exd5 Qxd5 Rad1 Qc4+ Kf3 Qg4+ Ke3 Qe4#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1768576774.2143428
+  "updated": 1768577344.0364072
 }
