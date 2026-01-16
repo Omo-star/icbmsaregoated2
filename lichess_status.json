@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3013,
-  "opponent": "Alehkine_cat",
+  "opponent": "minhluc6868",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+0",
-  "time_left": 297,
-  "timestamp": "2026-01-16T03:38:51.440247",
+  "time_left": 327,
+  "timestamp": "2026-01-16T03:44:33.243913",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
+    "result": "win",
+    "opponent": "minhluc6868",
     "rating_before": 3013,
     "rating_after": 3013,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 cxd5 exd5 Nc3 c6 Bf4 Bd6 Bxd6 Qxd6 Qb3 Ne7 e3 a5 Bd3 O-O Bb1 Bf5 Qxb7 Nd7 Bxf5 Nxf5 Qb3 Qg6 g3 c5 Nge2 cxd4 exd4 Nf6 Qd1 Rfb8 Rb1 h5 O-O h4 Re1 Re8 Nf4 Rxe1+ Qxe1 Qg5 Qd2 hxg3 hxg3 Nh4 Qd3 Qg4 Qd1 Nf3+ Kg2 Nh4+ Kh2 Nf3+ Kg2 Nh4+ Kh2 Nf3+ Kg2",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4 Nxd4 Bd7 Nc3 Nf6 Bxc6 Bxc6 Qf3 Be7 Nxc6 bxc6 e5 dxe5 Qxc6+ Kf8 O-O Rc8 Re1 Qd6 Qb7 Rd8 Be3 h6 Red1 Qe6 Rxd8+ Bxd8 Qb8 Ke8 Rd1 Nd7 Qc8 f5 Bc5 Kf7 Rxd7+ Kf6 Nd5+ Kg6 Rxg7+ Kxg7 Qxe6 Re8 Qxe8",
     "duration": 480,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768534731.4404032
+  "updated": 1768535073.2439961
 }
