@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3059,
-  "opponent": "lekshmisnair2014",
+  "rating": 3019,
+  "opponent": "GlueWinner",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 38,
-  "timestamp": "2026-01-15T16:40:04.374270",
+  "time_control": "TC: 8+0",
+  "time_left": 145,
+  "timestamp": "2026-01-16T01:19:17.663877",
   "last_game": {
     "result": "win",
-    "opponent": "lekshmisnair2014",
-    "rating_before": 3059,
-    "rating_after": 3059,
+    "opponent": "GlueWinner",
+    "rating_before": 3019,
+    "rating_after": 3019,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 Nc3 Nf6 O-O O-O Ng5 Nd4 d3 c6 Be3 d5 Bxd4 exd4 b4 dxc3 bxc5 dxc4 e5 Nd5 Qh5 Bf5 g4 Nf4 Qh4 Bg6 Qg3 Ne2+ Kh1 Nxg3+",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "d4 Nf6 c4 e5 dxe5 Ng4 e3 Nxe5 f4 Ng6 Nc3 Bb4 Ne2 d6 a3 Bxc3+ Nxc3 O-O g3 Be6 b3 Nc6 Bb2 Qd7 Be2 Bh3 Qd3 a5 O-O-O Bg2 Rhg1 Qh3 e4 Rfe8 Rd2 Qxh2 Qe3 Qh3 Bd1 Bh1 Qe1 Bxe4 Nxe4 Qd7 Re2 f5 Ng5 h6 Nf3 Rxe2 Qxe2 Re8 Qd2 a4 Nh4 Qe6 Qc3 Re7 Bf3 Kh7 Bd5 Qe3+ Qxe3 Rxe3 Nxf5 Rxb3 Re1 Nce5 fxe5 Nxe5 Bxe5 dxe5 Re3 Rxe3 Nxe3 c6 Be4+ g6 c5 Kg7 Nc4 h5 Na5 g5 Nxb7 h4 g4 h3 Bxc6 e4 Bxe4 Kf6 Kd2 Ke5 Ke3 h2 c6 Ke6 Kd4 Ke7 Ke5 h1=Q Bxh1 Kf7 c7 Ke7 c8=Q Kf7 Qc7+ Kg8 Kf6 Kh8 Qg7#",
+    "duration": 480,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768495204.3743703
+  "updated": 1768526357.66394
 }
