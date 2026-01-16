@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "bot1e",
+  "rating": 3010,
+  "opponent": "Ultra_Master2000",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 17,
-  "timestamp": "2026-01-16T09:53:58.236320",
+  "time_control": "TC: 10+0",
+  "time_left": 198,
+  "timestamp": "2026-01-16T10:10:12.794168",
   "last_game": {
-    "result": "loss",
-    "opponent": "bot1e",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "result": "draw",
+    "opponent": "Ultra_Master2000",
+    "rating_before": 3010,
+    "rating_after": 3010,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Ra8 Qf1 Bf6 Bxf4 Qa2 Bc1 Be7 Qh3 Qb1 Kg2 Rh8 e5 Qa2 e6 Ka6 Kg1 Kb7 Qg4 Qd5 Kg2 Rf8 Bf4 Rf6 a4 Rf5 a5 bxa5 bxa5 c5 Re5 Rxe5 Bxe5 Ka6 Qe4 Qxe4 fxe4 c4 Nf4 d3 cxd3 cxd3 Bc3 Kb7 Nxd3 Bg5 Nf4 Kc8 Nd5 h3+ Kxh3 Kb7 Kxg3 Ka6 e7 Bxe7 Nxe7 Kb5",
-    "duration": 180,
+    "moves": "d4 d5 c4 e6 Nc3 Bb4 a3 Bxc3+ bxc3 Nf6 cxd5 exd5 e3 Bf5 f3 O-O Ne2 Nc6 h3 Ne7 g4 Bd7 Kf2 Ng6 h4 Bxg4 fxg4 Ne4+ Kg1 Nxh4 Nf4 Nxc3 Qb3 Ne4 Be2 c6 Qd1 h6 Qe1 Ng6 Nh5 Qd6 Kg2 Rae8 Ng3 Qf6 Nxe4 Rxe4 Bf3 Nf4+ Kh2 Nd3 Qg3 Re6 Bd2 Nb2 Rhf1 Qd8 Be2 b5 e4 Rxe4 Bf3 Re6 g5 Nc4 Bc1 hxg5 Bxg5 Qb8 Bf4 Qb6 Rfd1 Rfe8 Bh5 c5 Rg1 g6 Bg4 Re4 Bf3 Rxd4 Qg5 Rxf4 Qxf4 Ne3 Rg5 Kg7 Rh1 Qf6 Kg3 Nf5+ Rxf5 Qxf5 Qh6+ Kf6 Rh5 Qb1 Qg5+ Kg7 Qh6+ Kf6 Qf4+ Kg7 Qh6+ Kf6",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1768557238.236423
+  "updated": 1768558212.7973795
 }
