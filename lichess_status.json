@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3012,
-  "opponent": "Alehkine_cat",
+  "rating": 3011,
+  "opponent": "Ashvashan",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+0",
-  "time_left": 342,
-  "timestamp": "2026-01-16T04:25:31.550234",
+  "time_left": 391,
+  "timestamp": "2026-01-16T04:31:33.463614",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3012,
-    "rating_after": 3012,
+    "result": "win",
+    "opponent": "Ashvashan",
+    "rating_before": 3011,
+    "rating_after": 3011,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 Nf3 Nc6 e3 cxd4 exd4 d5 cxd5 Qxd5 Bc4 Qd6 O-O O-O Be2 h6 Rd1 Rd8 Be3 Qe7 Ne5 Bd7 a3 Bxc3 bxc3 Nxe5 dxe5 Nd5 Bd2 Nb6 Be3 Nd5 Bd2 Nb6 Be3 Be8 Rxd8 Rxd8 Bxb6 axb6 Qxb6 Bc6 Qe3 Ra8 c4 Qg5 Qxg5 hxg5 Bf3 Bxf3 gxf3 Ra4 Rb1 Rxa3 Rxb7 Rxf3 c5 Rc3 Rc7 Kh7 Rxf7 Rxc5 Ra7 Rxe5 Ra4 Kg6 Kg2 Kf5 Ra7 Kg6",
+    "moves": "d4 e6 e4 d5 Nc3 dxe4 Nxe4 Nf6 Nxf6+ Qxf6 Nf3 Nc6 Bg5 Qg6 Bd3 f5 Bb5 Bd6 O-O O-O c4 Bd7 c5 Be7 Bxe7 Nxe7 Bxd7 Nd5 c6 Nf4 g3 Qg4 Ne5 Nh3+ Kg2 Nf4+ Kh1 Ne2 Nxg4",
     "duration": 480,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768537531.5503306
+  "updated": 1768537893.4637036
 }
