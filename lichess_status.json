@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "BorkaTower",
+  "rating": 2983,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2026-01-16T12:08:36.921314",
+  "time_control": "TC: 3+0",
+  "time_left": 151,
+  "timestamp": "2026-01-16T12:09:50.205186",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "CloudNetBot",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 Bd6 a4 Nf8 b3 Ng6 Bd2 b6 Ne3 f6 Ng1 Be6 Ne2 Qd7 Bc3 Rad8 Ng3 Ne7 Nh5 Ng6 g4 Nf4 Qf3 Rf8 Nxf4 exf4 Nf5 c5 Rg1 Be5 Bxe5 fxe5 Qh3 Rde8 Qh5 Kh8 Rg2 a5 Rag1 Qd8 Qh4 g6 Qxd8 Rxd8 Nh4 Bxb3 cxb3 Rxd3 g5 f3 Rg3 Rf4 Rh3 Kg8 Rgg3 Rd1+ Rg1 Rd3 Rgg3 Rxb3 Rxf3 Rbxf3 Nxf3 Rxe4 Kg2 Rxa4 Nxe5 Re4 Nd7 Rg4+ Kf3 Rxg5 Ke4 Rf5 f4 b5 Rc3 c4 Rc1 a4 Ne5 Rf6 Rb1 c6 h4 h5 Rg1 Kh7 Ra1 Kg7 Ra3 Re6 Kd4 Rf6 Rf3 a3 Rxa3 Rxf4+ Ke3 Rxh4 Ra6 Rh3+ Ke4 Rh4+ Ke3 Rh3+ Ke4 Rg3 Rxc6 Rg2 Rc7+ Kf6 Rc6+ Kg7 Rc7+ Kf8 Kd5",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 exd5 cxd5 Bb3 a5 Nc3 Bb4 a3 Bxc3+ bxc3 a4 Ba2 Qc7 O-O O-O Bg5 Nbd7 c4 d4 c3 dxc3 Re1 Re8 Qc2 b6 d4 exd4 Rxe8+ Nxe8 Nxd4 Nef6 Nb5 Qc6 Qxc3 Ne4 Qe3 Bb7 Bf4 Nc3 f3 Nxa2 Rxa2 Qxc4 Rb2 Qc5 Qxc5 bxc5 Nc7 Ra7 Re2 Nf6 Rc2 Nd7 Re2 Nf6 Rc2 Nd7 Re2",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768565316.9214764
+  "updated": 1768565390.205287
 }
