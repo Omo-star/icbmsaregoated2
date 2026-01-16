@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3056,
-  "opponent": "BorkaTower",
+  "rating": 3055,
+  "opponent": "advait121",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 46,
-  "timestamp": "2026-01-16T15:36:15.788719",
+  "time_left": 60,
+  "timestamp": "2026-01-16T15:37:10.827551",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3056,
-    "rating_after": 3056,
+    "result": "win",
+    "opponent": "advait121",
+    "rating_before": 3055,
+    "rating_after": 3055,
     "rating_delta": 0,
-    "moves": "g3 Nf6 Nf3 d5 d4 c5 Bg2 cxd4 O-O h6 Bf4 e6 Nxd4 g5 Be5 Nbd7 Bxf6 Nxf6 e3 Qb6 Nd2 Bg7 c4 Qxb2 cxd5 exd5 N2b3 O-O a3 Qc3 Rc1 Qb2 Ra1 Bg4 Bf3 Bh3 Re1 Qc3 Rc1 Qb2 Ra1 Qc3 Rc1 Qb2 Ra1",
+    "moves": "e4",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1768577775.7928302
+  "updated": 1768577830.8276308
 }
