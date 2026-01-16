@@ -4,19 +4,19 @@
   "rating": 3060,
   "opponent": "QuirkPMothei",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 36,
-  "timestamp": "2026-01-16T18:40:24.986477",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-01-16T18:41:25.450820",
   "last_game": {
     "result": "win",
     "opponent": "QuirkPMothei",
     "rating_before": 3060,
     "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4 Nxd4 a6 Bxc6+ bxc6 Nxc6 Qd7 Na5 Nf6 Nc3 Be7 O-O O-O Bf4 Qe6 Re1 h6 Qf3 Qg4 Nc6 Qxf3 Nxe7+ Kh8 gxf3 Rd8 Nxc8 Rdxc8 Rad1 Rab8 b3 Rb4 Kf1 Nh5 Nd5 Nxf4 Nxb4",
-    "duration": 60,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 Bc4 Nxe4 Nxe4 d5 Bxd5 Qxd5 Neg5 h6 Nh3 Bxh3 gxh3 Nd4",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1768588824.9865913
+  "updated": 1768588885.450906
 }
