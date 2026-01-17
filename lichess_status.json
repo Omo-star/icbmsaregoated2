@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "Classic_BOT-v2",
+  "rating": 3066,
+  "opponent": "The_king_of_world12",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 38,
-  "timestamp": "2026-01-17T16:03:52.440422",
+  "time_left": 45,
+  "timestamp": "2026-01-17T16:05:05.189363",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "win",
+    "opponent": "The_king_of_world12",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 Bd5+ Kh8 Be6 Bxe6 Nxe6 Re7 Rad1 Kg8 Kg2 Rae8 Nf4 Qb5 Rxe7 Rxe7 h4 Qf5 Qd3 Qxd3 Nxd3 Kf7 Kf3 Kf6 b3 a5 a3 h6 b4 axb4 axb4 g5 b5 Ne5+ Nxe5 Rxe5 Rxd4 Rxb5 Rd6+ Kg7 hxg5 hxg5 Kg4 b6 f3 Rb3",
+    "moves": "c4 c6 Nf3 d5 d4 dxc4 e3 Nf6 Bxc4 e6 O-O Be7 Qe2 O-O e4 h6 Nc3 Nh7 e5 Nd7 Re1 Nb6 Bd3 Nd5 Bc2 Nxc3 bxc3 Qa5 Qd3 f5 exf6 Nxf6 Ne5 c5 Bxh6 gxh6 Qg6+ Kh8 Re3 Nh7 Qxh7#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768665832.4405117
+  "updated": 1768665905.189431
 }
