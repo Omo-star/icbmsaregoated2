@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3061,
-  "opponent": "CloudNetBot",
+  "rating": 3017,
+  "opponent": "Nathaniel_Leo",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-01-17T13:09:54.924629",
+  "time_control": "TC: 10+3",
+  "time_left": 605,
+  "timestamp": "2026-01-17T13:11:08.632970",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3061,
-    "rating_after": 3061,
+    "result": "win",
+    "opponent": "Nathaniel_Leo",
+    "rating_before": 3017,
+    "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Qb3 c5 cxd5 exd5 Bg5 Nc6 dxc5 Be6 O-O-O O-O e4 dxe4 Rxd8 Bxb3 Rxf8+ Kxf8 Nd2 Be6 Bxf6 gxf6 Ndxe4 f5 a3 fxe4 axb4 Nxb4 Nxe4 Rc8 Kd2 Bf5 Nc3 Rxc5 Be2 Rc6 g4 Be6 f4 Bc4 Bxc4 Rxc4 Ke3 a5 Rd1 a4 Nb5 Nc6 Nd6 Rb4 Rd2 Rb3+ Ke4 Rb4+ Kf3 Rb3+ Ke4 Rb4+ Kf3 Rb3+ Ke4 Rb4+",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 Nxe5 Nxe5 Nd5 Nxd5 exd5 d6 Bb5+ c6 dxc6 bxc6 Bxc6+ Nxc6 Qe2+",
+    "duration": 657,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1768655394.9248133
+  "updated": 1768655468.63609
 }
