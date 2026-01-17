@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2971,
-  "opponent": "Brainy60",
+  "rating": 2972,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 168,
-  "timestamp": "2026-01-17T10:18:29.296775",
+  "time_control": "TC: 3+0",
+  "time_left": 83,
+  "timestamp": "2026-01-17T10:22:27.001237",
   "last_game": {
     "result": "draw",
-    "opponent": "Brainy60",
-    "rating_before": 2971,
-    "rating_after": 2971,
+    "opponent": "RaspFish",
+    "rating_before": 2972,
+    "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg5 f6 Bh4 g6 Rc1 cxd4 cxd4 Bd6 Bd3 O-O O-O Qe7 Ne1 Bd7 Be2 Ng7 Bg3 Nf5 Bxd6 Nxd6 Nd3 Rfd8 Qb3 Be8 Rfe1 Rac8 Nb4 Nxb4 Qxb4 g5 Bd3 Kg7 h3 b6 Ba6 Rxc1 Rxc1 Rd7 Bb5 a5 Qb3 Nxb5 Qxb5 Rb7 Qb3 Qb4 Qc3 Qxc3 Rxc3 Bg6 g4 a4 Rc8 Ra7 Rc6 b5 Kg2 Kf7 Rc5 Bd3 Kg3 h6 Rc8 Be2 Nb1 Bd3 Nd2 Be2 Nb1 Bd3",
-    "duration": 262,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bb4+ c3 Bd6 O-O O-O c4 c6 Qc2 h6 c5 Bc7 Nc3 Nxc3 Qxc3 Qf6 Re1 Bg4 Ne5 Bf5 Bf1 Nd7 Bf4 Qd8 b4 Nxe5 Bxe5 Re8 Bxc7 Qxc7 a4 a6 Re3 Qd7 Rae1 g5 h3 Kg7 R1e2 Bg6 Re1 Bh7 Qc1 Bg6 Qd2 Bf5 g3 Bg6 Bg2 f6 Bf3 Rxe3 Rxe3 Re8 Bg4 Qd8 Qe2 Re4 Bf3 Rxe3 Qxe3",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768645109.2968786
+  "updated": 1768645347.0013285
 }
