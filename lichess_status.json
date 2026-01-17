@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3064,
-  "opponent": "Classic_BOT-v2",
+  "rating": 3065,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-01-17T16:00:06.583562",
+  "time_left": 44,
+  "timestamp": "2026-01-17T16:01:32.803415",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 3064,
-    "rating_after": 3064,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Re1 Bf5 f3 h5 Bb5 Nb4 Ba4 b5 Bb3 Rab8 h4 Rfc8 a3 Nc6 g4 Bxc2 Bxc2 b4 axb4 Qxb4 Nd3 Qa5 Na4 Qxd2+ Kxd2 hxg4 fxg4 Nxd4 Bd1 Ne4+ Ke3 Rc4 Rhf1 f6 Nc3 e6 Rg1 g5 h5 a5 Ne2 f5 Nxd4 f4+ Nxf4 gxf4+ Kxf4 Rxd4 Ke5 Rdb4 g5 Rxb2 Ref1 Nf2 h6+ Kg6 Kd6 R8b6+ Ke7 Rb7+ Kd6 R2b6+ Ke5 Rb2 Kd6 Rf7 Kxe6 Rb6+ Kxd5 Rf5+ Kd4 Rd6+ Ke3 Rxd1 Rxd1 Nxd1+ Rxd1 Rxg5",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 a3 Ba5 Qxd4 Rd8 Qc5 Qxc5 Nxc5 Nd7 Nb3 Bb6 Be2 Nf6 Ne5 Bd7 Nc5 Be8 Nxb7 Rd2 Bf3 Rxb2 Nc4 Ra2 Bd1 Rb8 Bb3 Re2 Bd1 Ra2 Bb3 Re2 Bd1 Ra2",
     "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768665606.583668
+  "updated": 1768665692.803499
 }
