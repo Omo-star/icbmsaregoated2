@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3063,
-  "opponent": "The_king_of_world12",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 46,
-  "timestamp": "2026-01-17T15:55:03.947940",
+  "time_left": 23,
+  "timestamp": "2026-01-17T15:56:21.905769",
   "last_game": {
-    "result": "win",
-    "opponent": "The_king_of_world12",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 3063,
     "rating_after": 3063,
     "rating_delta": 0,
-    "moves": "c4 c6 Nf3 d5 d4 dxc4 e3 Nf6 Bxc4 e6 O-O Be7 Qe2 O-O e4 h6 Nc3 Nh7 e5 Kh8 Bd3 Nd7 h4 c5 d5 Nb6 d6 Bxh4 Qe4 Bg5 Qxh7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Bxe3 Nxe3 Ne6 Kh1 c5 Ng1 Nd4 Ne2 Be6 Qd2 Qd7 f3 Raf8 Ng3 g6 Ne2 Kg7 b3 g5 a5 h5 Rab1 Qd6 Nc3 Kh8 Rf2 Ra8 g3 Rg8 Ne2 b5 axb6 cxb6 b4 cxb4 Qxb4 Rd7 Qxd6 Rxd6 Nc3 Rc6 Ncd5 Bxd5 exd5 Rc3 h4 gxh4 gxh4 Rc7 Re1 a5 d6 Rd7 c3 Ne6 Nf5 Ng7 Ne7",
     "duration": 60,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1768665303.9480085
+  "updated": 1768665381.905862
 }
