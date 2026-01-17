@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "CloudNetBot",
+  "rating": 3064,
+  "opponent": "The_king_of_world12",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 32,
-  "timestamp": "2026-01-17T15:58:04.521283",
+  "time_left": 44,
+  "timestamp": "2026-01-17T15:59:14.948415",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "result": "win",
+    "opponent": "The_king_of_world12",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 Bb5 Qa5+ Nc3 Ne4 Bxc6+ bxc6 O-O Nxc3 bxc3 Qxc3 e4 dxe4 Ng5 Bf5 Qe2 cxd4 Nxe4 Bxe4 Qxe4 e6 Rab1 Qc5 Rfd1 Bd6 Bxd6 Qxd6 Qxd4 Qxd4 Rxd4 O-O g3 h6 Rc4 Rfc8 Rb7 g5 a4 Kg7 h4 c5 Kf1 Rc6 Rc3 Rb6 Rd7 Ra6 hxg5 hxg5 Rxc5 Kg6 a5 g4 Ke2 f5 Rdc7 Kf6 R7c6 Rxc6 Rxc6 Re8 a6 Re7 c4 Ke5 Kd3 Rd7+ Ke3 Kf6 Ke2 Ke7 Ke3 Kf6 Ke2 Ke5",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 Re1 O-O d3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 Qf3 Be6 Nd2 Bd4 Re2 Bf6 Ne4 Qd7 Bxd5 cxd5 Nxf6+ gxf6 Bh6 Bf5 h3 Bg6 Qxf6",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768665484.521398
+  "updated": 1768665554.9484856
 }
