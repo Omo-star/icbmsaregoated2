@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3057,
-  "opponent": "Asadik2015",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-01-17T15:19:55.039990",
+  "time_left": 38,
+  "timestamp": "2026-01-17T15:20:50.130576",
   "last_game": {
-    "result": "win",
-    "opponent": "Asadik2015",
+    "result": "draw",
+    "opponent": "CloudNetBot",
     "rating_before": 3057,
     "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "d4",
+    "moves": "Nf3 e6 d4 c5 dxc5 Nf6 a3 Bxc5 b4 Be7 Bb2 a5 b5 d6 e3 a4 Be2 Nbd7 c4 Qc7 O-O O-O Qc2 Nb6 Nbd2 e5 Rfd1 Nfd7 Rac1 Kh8 Ne4 f5 Nc3 Nc5 Nd5 Nxd5 cxd5 Qd8 Nxe5 dxe5 d6 Bxd6 Rxd6 Qxd6 Qxc5 Qxc5 Rxc5 Be6 Rxe5 Rae8 b6 Bd7 Rd5 Bc6 Rc5 f4 Bd4 Re6 Bd3 fxe3 fxe3 h6 Bc2 Rd6 Rh5 Kg8 Bd3 g5 Bc4+ Kh7 Bd3+ Kg8 Bc4+ Kh7 Bd3+ Kg8",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768663195.0400784
+  "updated": 1768663250.1306705
 }
