@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "QuirkPMothei",
+  "rating": 2982,
+  "opponent": "bfiedler-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-01-16T18:41:25.450820",
+  "time_control": "TC: 1+3",
+  "time_left": 62,
+  "timestamp": "2026-01-17T07:37:16.577740",
   "last_game": {
     "result": "win",
-    "opponent": "QuirkPMothei",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "bfiedler-bot",
+    "rating_before": 2982,
+    "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 Bc4 Nxe4 Nxe4 d5 Bxd5 Qxd5 Neg5 h6 Nh3 Bxh3 gxh3 Nd4",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Bd2 c5 dxc5 Bxc5 e4 Nc6 Be2 O-O Nf3 d5 cxd5 exd5 exd5 Nxd5 Nxd5 Qxd5 O-O Be6 Rc1 Bb6 Bc4 Qf5 Bxe6 Qxe6 Qb3 Qxb3 axb3 Rad8 Rfe1 f6 Bc3 Rd5 Rcd1 Rxd1 Rxd1 Rd8 Rxd8+ Nxd8 Nd4 Kf7 Nf5 Bc5 b4 Bf8 Kf1 Ke6 Nd4+ Kd5 b5 Bc5 Nf5 Ne6 b4 Bb6 Bd2 Bc7 Ke2 Nd4+ Nxd4 Kxd4 Be3+ Kc4 Bc5 Kxb5 g3 a5 Bf8 a4 Bxg7 Be5 f4 Bd4 Kd3 a3 Kxd4 a2 Ke4 a1=Q Kf5 Qb1+ Ke6 Qa2+ Kxf6 Qxh2 Bf8 Qxg3 f5 Qf4 Ke6 Qe4+ Kf6 Kc6 Kg5 b6 Bg7 Qxb4 Be5 h6+ Kxh6 b5 Kg5 Qb1 Bg7 b4 Bf6 b3 Be5 b2 Kf6 Qxf5+ Kxf5 b1=Q+ Kg5 Kd5 Bg3 Ke4 Bh4 Kf3 Kh6 Qh1 Kg5 Qh2 Kh5 Kf4 Kg6 Qxh4 Kf7 Kf5 Kf8 Kf6 Ke8 Ke6 Kf8 Qh8#",
+    "duration": 480,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1768588885.450906
+  "updated": 1768635436.577806
 }
