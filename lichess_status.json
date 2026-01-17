@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "Alehkine_cat",
+  "rating": 2972,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 4,
-  "timestamp": "2026-01-17T12:28:24.024282",
+  "time_control": "TC: 3+1",
+  "time_left": 210,
+  "timestamp": "2026-01-17T12:29:13.211344",
   "last_game": {
     "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "CloudNetBot",
+    "rating_before": 2972,
+    "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nf3 b6 g3 Ba6 Qc2 c5 d5 exd5 cxd5 Bb7 Bg2 Nxd5 O-O Be7 Rd1 Nc6 Qf5 Nf6 e4 g6 Qf4 O-O e5 Nh5 Qc4 Re8 Bh6 d5 exd6 Bxd6 Nc3 Na5 Qf1 Qb8 Ng5 Bf8 Nxf7 Bxg2 Qxg2 Qb7 Qxb7 Nxb7 Bxf8 Kxf7 Bh6 Rad8 Nb5 a6 Nc3 Nf6 Bg5 b5 Rac1 Rxd1+ Rxd1 c4 a4 b4 Bxf6 Kxf6 Nd5+ Kg7 Nxb4 Nc5 Rd4 Nxa4 Rxc4 Nxb2 Rc7+ Kg8 Nxa6 Nd3 Rd7 Ne5 Rd5 Ng4 Kg2 Rf8 Rd2 Rf5 Ra2 Rd5 h3 Nf6 Nb4 Rd6 Ra8+ Kg7 Ra7+ Rd7 Ra5 Ne4 Nd5 Kf7 h4 Nf6 Nf4 Ng4 Rg5 Nf6 Ra5 Ng4 Rg5 Nf6 f3 Rd2+ Kg1 Nd7 Ra5 Nb8 Rb5 Nc6 Rb7+ Ke8 Ne6 h6 f4 Ne7 Rb6 Nf5 Nc5 Nxg3 Rxg6 Nf5 h5 Kf7 Rb6 Rd4 Ra6 Rxf4 Nd7 Re4 Kf2 Re6 Ra5 Ne3 Kg3 Nc4 Rf5+ Ke7 Nc5 Re3+ Kf4 Re1 Rd5 Rf1+ Kg3 Rc1 Rd7+ Ke8 Rd3 Ne5 Rd5 Nc6 Kf4 Ne7 Re5 Kf7 Ne4 Ra1 Rb5 Rf1+ Ke5 Rf5+ Kd4 Rxb5 Nd6+ Kf6 Nxb5 Nf5+ Kd5 Nd6 Nc7 Nb5 Ne8+ Kg5 Ng7 Na7 Kd6 Kf6 Ne8+ Kf7 Kd7 Nb5 Nd6+ Nxd6 Kxd6 Kf6 Kd7 Kg5 Ke6 Kxh5 Kf5 Kh4 Kf4 h5 Kf3 Kh3 Kf4 Kh4 Kf3 Kh3 Kf4 h4 Kf3 Kh2 Kf2 h3 Kf1 Kg3 Kg1 Kf3 Kh2 Kg4 Kh1 Kg3 Kg1 Kf3 Kh2 Kg4 Kh1 Kg5 Kh2 Kh4 Kh1 Kg5 Kh2 Kh4 Kh1 Kg4 Kh2",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Nf6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qb6 c4 Bb4+ Ke2 f5 exf6 Nxf6 Be3 Qd8 Nd6+ Bxd6 Qxd6 Bb7 Rd1 Rc8 g4 c5 Rg1 Qc7 g5 Ne4 Qe5 d6 Qxe6+ Kd8 g6 Re8 gxh7 Rxe6 h8=Q+ Re8 Qxg7 Qb6 Rg6 Rc7 Rgxd6+ Nxd6 Qf6+ Kc8 Rxd6 Rc6 Rxc6+ Bxc6 Kf2 Bd7 Qg5 Qxb2+ Be2 Qa3 Qxc5+ Qxc5 Bxc5 Rh8 Bxa7 Rxh2+ Ke3 Be6 a3 Kb7 Bd4 Rxe2+ Kxe2 Bxc4+ Kd1",
+    "duration": 261,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1768652904.0243454
+  "updated": 1768652953.2114356
 }
