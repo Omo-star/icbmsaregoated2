@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "CloudNetBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 494,
-  "timestamp": "2026-01-17T09:58:41.242099",
+  "rating": 3065,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 22,
+  "timestamp": "2026-01-17T10:00:57.323926",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "opponent": "Bharat_royals",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O e4 d5 e5 Ne4 a3 Bxc3+ bxc3 c5 Ne2 cxd4 Nxd4 Nc6 Nxc6 bxc6 Bd3 Qc7 f3 Nc5 Bxh7+ Kh8 O-O Qxe5 f4 Qh5 Be3 Qxh7 Qxh7+ Kxh7 Bxc5 Rd8 Rfd1 Ba6 cxd5 cxd5 Rd2 Rdb8 g4 Rb3 Bd4 Bc4 Kf2 a5 h4 Rab8 h5 Rb2 Rd1 a4 Rxb2 Rxb2+ Kg3 Ba6 Re1 Be2 Rh1 Bd3 Rh2 Rxh2 Kxh2 f5 g5 Be2 Kg3 Bxh5 Kf2 Kg6 Be5 Kf7 Ke3 Kg6 Kd4 Bd1 Kc5 Kf7 Kb5 Kg8 g6 Kf8",
-    "duration": 600,
+    "moves": "f4 a5 a4 d5 Nf3 e6 e3 Nd6 Bf2 f6 Bd3 Ne4 O-O b6 Rbc1 Nf7 Be1 Nfd6 Be2 Bf7 c3 h5 b4 Nf5 b5 Bd6 Nd4 O-O Nc6 Rbe8 c4 Qc8 Qb1 Ba3 Rc2 Ned6 Ng3 dxc4 Bxc4 Nxc4 Rxc4 h4 Ne4 h3 g4 Ne7 Qd3 Nxc6 Rxc6 Bb4 Rf3 Qd8 Qc2 Bg6 f5 exf5 gxf5 Bf7 Nxf6+ gxf6 Rg3+ Kh8 Rxh3+ Kg7 Rg3+ Kh8 Rh3+ Kg7 Rg3+ Kh8 Rh3+",
+    "duration": 142,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768643921.2422094
+  "updated": 1768644057.324057
 }
