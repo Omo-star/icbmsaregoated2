@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3057,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "Asadik2015",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-01-17T15:19:22.331258",
+  "time_left": 60,
+  "timestamp": "2026-01-17T15:19:55.039990",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "Asadik2015",
     "rating_before": 3057,
     "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Qc7 h3 Rc8 Qb1 Qb8 Rd1 Ne5 Nd4 Nd7 Nb3 Nf6 Rc1 Rc7 Re1 Ba4 Nd4 Qc8 b3 Bc6 Bd3 a6 Rc1 Bd5 Rxc7 Qxc7 Qb2 e5 Nf5 h5 Ng3 Qd6 Be2 g6 b4",
+    "moves": "d4",
     "duration": 60,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1768663162.3314028
+  "updated": 1768663195.0400784
 }
