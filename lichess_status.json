@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3017,
-  "opponent": "Lili-ai",
+  "opponent": "Jibbby",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 369,
-  "timestamp": "2026-01-17T12:44:29.442238",
+  "time_control": "TC: 10+2",
+  "time_left": 323,
+  "timestamp": "2026-01-17T12:53:12.977423",
   "last_game": {
-    "result": "draw",
-    "opponent": "Lili-ai",
+    "result": "win",
+    "opponent": "Jibbby",
     "rating_before": 3017,
     "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Ne5 Bb7 Rd1 Nbd7 Bf4 Nh5 Bd2 Nhf6 cxd5 cxd5 Nc6 Qe8 Nxe7+ Qxe7 Qc7 Ba6 Nc3 Rfd8 Rac1 Ne8 Qc6 Ndf6 Qa4 Bb7 Bf1 h6 f3 Rdc8 Nb1 a5 Rxc8 Rxc8 Qb3 Qd8 Rc1 Bc6 a4 Nd6 Na3 Nfe8 Rc3 Nf5 e3 Ned6 Qc2 Ne7 b3 f6 Qb2 Qd7 Rc1 Nf7 Nc2 Rb8 Qc3 Qe8",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "c3 c5 e4 e5 Nf3 Nc6 Bc4 Nf6 d3 d6 Ng5 d5 exd5 Nxd5 Qh5 g6 Qf3 Be6 Nxe6 fxe6 Be3 Qd6 Nd2 Nxe3 fxe3 Bg7 Ne4 Qe7 Qg4 Rf8 Bxe6 Bh6 Rf1 Rxf1+ Kxf1 Rd8 Ke2 b5 Rf1 Rd6 Bg8 Kd8 Rf7 Rxd3 Kxd3 Qe8 Nxc5 Ne7 Qe6 e4+ Ke2 Qc6 Qxe7+ Kc8 Ne6 Kb8 Qxa7+ Kc8 Rc7+ Qxc7 Qxc7#",
+    "duration": 722,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768653869.4423313
+  "updated": 1768654392.9774835
 }
