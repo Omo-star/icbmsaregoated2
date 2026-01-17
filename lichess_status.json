@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "Nathaniel_Leo",
+  "rating": 2972,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+3",
-  "time_left": 605,
-  "timestamp": "2026-01-17T13:11:08.632970",
+  "time_control": "TC: 3+0",
+  "time_left": 18,
+  "timestamp": "2026-01-17T13:17:19.461402",
   "last_game": {
-    "result": "win",
-    "opponent": "Nathaniel_Leo",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "draw",
+    "opponent": "ArasanX",
+    "rating_before": 2972,
+    "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 Nxe5 Nxe5 Nd5 Nxd5 exd5 d6 Bb5+ c6 dxc6 bxc6 Bxc6+ Nxc6 Qe2+",
-    "duration": 657,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Be7 e3 h6 Bh4 Bg4 Qc2 O-O h3 Be6 Nf3 Ne8 Bg3 Bd6 Ne5 Nc6 a3 Ne7 Bd3 f6 Ng6 Nxg6 Bxd6 Nxd6 Bxg6 c6 h4 Bf7 Bxf7+ Rxf7 h5 Qd7 Ne2 Re8 O-O Re4 Nf4 Nb5 Qd2 Qf5 Rae1 Re8 a4 Nd6 Rb1 Qg5 b4 a6 Rfc1 Rfe7 Qd1 Re4 Qf3 Kh7 Nh3 Qh4 b5 axb5 axb5 Nxb5 Rxb5 cxb5 Qf5+ Kh8 g3 Qg4 Qxg4 Rxg4 Rb1 Ra8 Rxb5 Ra7 Kg2 Re4 Nf4 Re8 Nxd5 Rea8 Ne7 Re8 Nf5 Rb8 Ne7 Re8 Nd5 Rea8 Rb6 Rd8 Ne7 Rd7 Nf5 Ra6 Rb5 b6 g4 Rb7 Nd6 Rc7 Nf5 Rb7 Nd6 Rc7 Rb3 Rc2 Kg3 Raa2 f3 Rcb2 Rc3 Rc2 Rb3 Rcb2 Rd3 b5 d5 Rd2 Rb3 Rab2 Ra3 Rxd5 Ra8+ Kh7 Nf5 Rd7 Nh4 Rbd2 Rb8 R2d5 Nf5 Rc7 Nd4 Rc4 Ne6 b4 Rb7 Kh8 Rb8+ Kh7 Rb7 Kh8 e4 Rd6 Rb8+ Kh7 Nf4 Rcd4 Ng6 Rd8 Rb7 Ra8 Kf4 Rad8 Nh4 R8d6 Rb5 Rc4 Rb8 Rdc6 Nf5 Rc8 Rb7 R8c7 Rb6 R7c6 Rb8 Rc8 Rb7 R8c7 Rb6 Rd7 Rb8 Ra7 Kg3 Rac7 Ne3 Rc3 Nd5 R7c4 Kf2 Rc2+ Kg3 R2c3 Kg2 Rc2+ Kh3 Rb2 Kg3 Rb3 Nf4 Rcc3 Ng6 Rxf3+ Kh2 Rh3+ Kg1 Rbg3+ Kf1 Rf3+ Ke1 Re3+ Kd1 Rd3+ Ke1 Rhe3+ Kf2 Rf3+ Ke1 Rfe3+ Kf1 Rf3+ Kg2 Rg3+ Kf1 Rgf3+ Kg2 Rg3+ Kh2 Rh3+ Kg1 Rhg3+ Kh2 Rh3+ Kg1 Rhg3+ Kh1 Rh3+ Kg1",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1768655468.63609
+  "updated": 1768655839.4616067
 }
