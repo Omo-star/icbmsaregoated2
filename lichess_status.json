@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "Jibbby",
+  "rating": 3060,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+2",
-  "time_left": 323,
-  "timestamp": "2026-01-17T12:53:12.977423",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-01-17T12:53:55.570608",
   "last_game": {
-    "result": "win",
-    "opponent": "Jibbby",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "draw",
+    "opponent": "Alehkine_cat",
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "c3 c5 e4 e5 Nf3 Nc6 Bc4 Nf6 d3 d6 Ng5 d5 exd5 Nxd5 Qh5 g6 Qf3 Be6 Nxe6 fxe6 Be3 Qd6 Nd2 Nxe3 fxe3 Bg7 Ne4 Qe7 Qg4 Rf8 Bxe6 Bh6 Rf1 Rxf1+ Kxf1 Rd8 Ke2 b5 Rf1 Rd6 Bg8 Kd8 Rf7 Rxd3 Kxd3 Qe8 Nxc5 Ne7 Qe6 e4+ Ke2 Qc6 Qxe7+ Kc8 Ne6 Kb8 Qxa7+ Kc8 Rc7+ Qxc7 Qxc7#",
-    "duration": 722,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 Nf3 O-O dxc5 Na6 a3 Bxc3+ Qxc3 Nxc5 g3 b6 Bg2 Bb7 O-O Rc8 Be3 d5 Rfc1 Ba6 b3 Nce4 Qb4 dxc4 bxc4 Ng4 c5 Nxe3 Qxe4 Nxg2 c6 Qd5 Qxd5 exd5 Nd4 Rfe8 Kxg2 Bxe2 Re1 Ba6 Kf3 Kf8 Kf4 f6 g4 Rxe1 Rxe1 Re8 Rxe8+ Kxe8 g5 Bd3 Ke3 Bc4 h4 a5 f4 fxg5 fxg5 g6 Kf4 b5 Ke5 Ke7 Ne6 d4 Nc5 d3 c7 d2 c8=Q d1=Q Qb7+ Ke8",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768654392.9774835
+  "updated": 1768654435.5707533
 }
