@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2972,
-  "opponent": "Lili-ai",
+  "rating": 3060,
+  "opponent": "Weiawaga",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 126,
-  "timestamp": "2026-01-17T11:46:39.179857",
+  "time_control": "TC: 2+1",
+  "time_left": 120,
+  "timestamp": "2026-01-17T11:46:41.638550",
   "last_game": {
     "result": "draw",
-    "opponent": "Lili-ai",
-    "rating_before": 2972,
-    "rating_after": 2972,
+    "opponent": "Weiawaga",
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 Ba6 b3 O-O Bg2 d5 O-O c6 Ne5 Nfd7 Nxd7 Nxd7 Rc1 Bb7 Qb2 Qe7 Nd2 c5 cxd5 Bxd5 dxc5 Nxc5 Bxd5 exd5 Nf3 Qe4 Rc2 h6 Nd4 a5 Rd1 Rac8 Rc3 Rfe8 Qc2 h5 e3 h4 Qxe4 dxe4 gxh4 Nd3 Rxc8 Rxc8 Kg2 g6 h5 gxh5 f3 Nb4 Rd2 Rc3 Nf5 Rd3 Re2 a4 bxa4 Ra3 fxe4 Rxa4",
-    "duration": 180,
+    "moves": "",
+    "duration": 120,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1768650399.1799564
+  "updated": 1768650401.6386337
 }
