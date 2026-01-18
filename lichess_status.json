@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3054,
-  "opponent": "CloudNetBot",
+  "opponent": "NihadA",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 43,
-  "timestamp": "2026-01-18T14:15:48.646500",
+  "time_left": 49,
+  "timestamp": "2026-01-18T14:16:18.740411",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "NihadA",
     "rating_before": 3054,
     "rating_after": 3054,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 d4 exd4 Nxd4 Bb4 Bg5 h6 Nxc6 bxc6 Bh4 O-O Bd3 d5 O-O Bxc3 bxc3 dxe4 Bxf6 Qxf6 Bxe4 Qxc3 Qd3 Qc5 Rfe1 a5 Re3 Re8 h3 g6 Rd1 Kg7 Qb3 Be6 Qb2+ Kg8 Qc3 Qxc3 Rxc3 Red8 Rxd8+ Rxd8 a3 Rd1+ Kh2 Bd5 Bxd5 cxd5 Rxc7 a4 Ra7 Rd4 Rc7 Rd1 Ra7 Rd4 Rc7 Rd1",
+    "moves": "e4 d5 exd5 c6 dxc6 Nxc6 Nc3 e5 Bc4 Nf6 d3 Bc5 Nge2 O-O O-O Be6 Bxe6 fxe6 Ng3 Nd5 a3 Nxc3 bxc3 Qf6 Ne4 Qe7 Bg5",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768745748.6466622
+  "updated": 1768745778.7404993
 }
