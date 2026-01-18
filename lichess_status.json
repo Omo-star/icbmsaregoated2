@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "sluicing",
+  "rating": 3070,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 25,
-  "timestamp": "2026-01-18T16:31:32.339229",
+  "time_left": 41,
+  "timestamp": "2026-01-18T16:33:05.791123",
   "last_game": {
     "result": "draw",
-    "opponent": "sluicing",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "opponent": "CloudNetBot",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 g6 Nh6+ Kh8 d4 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 Rde1 Rae8 c4 Kg7 Rg3+ Kf8 Rge3 Kg7 Bg3 Bb7 b3 Rf8 Bf4 Rfe8 Rg3+ Kf8 Rge3 Kg7 f3 Kf6 Nd7+ Kf7 Ne5+ Kf6 Nd7+ Kf7 Rxe6 Rxe6 Ne5+ Kf6 Nd7+ Ke7 Rxe6+ Kxe6 Bxd6 Kxd6 Nf6 h6 Ne8+ Ke5 Kf2 Kd4 Nxc7 f4 g4 fxg3+ Kxg3 Kc3 Nd5+ Kxb3 Nxb6 Ba6 f4 Bxc4 Nxc4 Kxc4 f5 Kd5 Kf4 c4 Ke3 c3 Kd3 c2 Kxc2 Ke5 Kb3 Kxf5 Kc4 Ke4 Kb5 Kd4 Kxa5 Kc5 Ka6 Kc6 a5 h5 h4 Kc7 Kb5 Kb7 Kc4 Ka6 Kb4 Kb7 Kb5 Ka7 Kc5 Ka6 Kb4 Kb7 Kb5 Ka7 a6 Kb8 Kb6 Ka8 Kc6 Ka7 Kb5 Kb8 Kb6 Ka8 Kc5 Ka7 Kd5 Kxa6 Ke5 Kb7 Kf6 Kc8 Kg5 Kd8 Kxh5 Ke8 Kh6 Kf8 Kg6 Kg8 Kh6 Kh8 h5 Kg8 Kg6 Kh8 Kh6 Kg8 Kg6 Kh8 h6 Kg8 Kg5 Kh8 Kg6 Kg8 Kf6 Kh8 Kf5 Kg8 Kg6 Kh8 Kf6 Kg8 Kg6 Kh8 Kf6 Kg8 Kf5 Kh8 Kf4 Kg8 Kg5 Kh8 Kg4 Kg8 Kh4 Kh8 Kg4 Kg8 Kh4 Kh8 Kg5 Kg8 Kg4 Kh8 Kh4 Kg8 Kg4 Kh8 Kg5 Kg8 Kg6 Kh8",
+    "moves": "d4 d5 c4 e6 Nc3 c5 cxd5 exd5 Nf3 Nc6 dxc5 d4 Na4 Bxc5 Nxc5 Qa5+ Bd2 Qxc5 b4 Nxb4 Rc1 Qd6 e3 Ne7 Nxd4 O-O Nb5 Nd3+ Bxd3 Qxd3 Nc7 Qg6 O-O Bh3 Qf3 Bg4 Qf4 Rad8 Bb4 Rd7 h4 Rfd8 Bxe7 Rxe7 f3 Be6 Rf2 Red7 Qe5 Rd1+ Rxd1 Rxd1+ Kh2 h5 Nxe6 Qxe6 Qxe6 fxe6 Rc2 Rd3 Rc8+ Kf7 Rc7+ Kf6 Rxb7 Ra3 Rb5 e5 Rb3 Rxa2 Kh3 g6 g4 e4 gxh5 gxh5 fxe4 Ra4 Kg3 Rxe4 Rb1",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768753892.3392904
+  "updated": 1768753985.7912228
 }
