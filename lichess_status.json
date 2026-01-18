@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3056,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 2974,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-01-18T11:22:48.303500",
+  "time_control": "TC: 3+0",
+  "time_left": 136,
+  "timestamp": "2026-01-18T11:25:35.443366",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3056,
-    "rating_after": 3056,
+    "opponent": "RaspFish",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 d5 Nf3 dxc4 Bxc4 c5 O-O cxd4 exd4 b6 Qb3 Bxc3 bxc3 Nc6 Bd3 Bb7 Bg5 Na5 Qd1 Rc8 Rc1 Nc4 Bxc4 Rxc4 Ne5 Qd5 f3 Rc7 c4 Qd6 Bf4 Nh5 Be3 Nf6 Re1 h6 c5 bxc5 Nc4 Qa6 dxc5 Bd5 Nd6 Rd8 Qd2 Ne8 Bf4 Nxd6 cxd6 Rxc1 Rxc1 f6 h3 Qxa2 Rc2 Qa4 Rc7 Rd7 Qb2 e5 Qb8+ Kh7 Be3 Be6 Kh2 Qd1 Bc5 Qa4 Be3 e4 Qe8 Qa2 f4 Rxc7 dxc7 Qc4 Bxa7 Qxc7 Qxe6 Qxa7 Qxe4+ g6 f5",
-    "duration": 30,
+    "moves": "d4 d5 c4 dxc4 Nf3 a6 e4 b5 a4 Bb7 Nc3 e6 axb5 axb5 Rxa8 Bxa8 Nxb5 Bxe4 Bxc4 Nf6 O-O c6 Ne5 cxb5 Bxb5+ Nfd7 Bf4 Be7 Qa4 Bd5 Nxd7 Nxd7 Rc1 O-O Bc7 Qa8 Qxa8 Rxa8 Bxd7 h5 Bf4 Ra2 Be3 Rxb2 Bc6 Ba2 g3 h4 Kg2 f5 d5 Bxd5+ Bxd5 exd5 Rc7 Bf6 gxh4 Bxh4 Rd7 g5 Bxg5 Bxg5 Rxd5 f4 Rxg5+",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768735368.3036299
+  "updated": 1768735535.4434662
 }
