@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3070,
-  "opponent": "BorkaTower",
+  "rating": 3075,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-01-18T14:49:19.165862",
+  "time_left": 43,
+  "timestamp": "2026-01-18T14:51:37.981269",
   "last_game": {
-    "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 3070,
-    "rating_after": 3070,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4",
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 cxd5 exd5 dxc5 Nc6 Bg5 Be6 O-O-O O-O e4 dxe4 Rxd8 Bxb3 Rxa8 Rxa8 Nd2 Be6 Bxf6 e3 fxe3 gxf6 Nce4 Bxa2 Bc4 Bxd2+ Nxd2 Bxc4 Nxc4 Nb4 Nd6 Nd3+ Kc2 Nxc5 Rf1 Rd8 Rxf6 Rd7 Rh6 Re7 Rh5 b6 Nf5 Re4 Rg5+ Kf8 Rh5 Kg8 Rg5+ Kf8 Rh5 Kg8",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "noStart"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768747759.1659558
+  "updated": 1768747897.9814074
 }
