@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "Bot1nokk",
+  "rating": 2974,
+  "opponent": "Fruity23",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 16,
-  "timestamp": "2026-01-18T09:53:28.542498",
+  "time_control": "TC: 3+1",
+  "time_left": 125,
+  "timestamp": "2026-01-18T09:56:11.040668",
   "last_game": {
-    "result": "loss",
-    "opponent": "Bot1nokk",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "result": "draw",
+    "opponent": "Fruity23",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Bd6 Qe6 h3 Qb3 Qa1 Re1 Rh7 Qg8 Qb1 Qxh7 Qxc2 Qxh3 Be5 Kh1 Qxd3 Qf1 Qb3 Kg2 Ka7 Rd1 Qa2+ Rd2 Qf7 Bb2 Qh5 Kg1 Kb8 Qd3 Ka7 Bxd4 Bxd4+ Qxd4 Qxf3 b5 cxb5 e5 Qc6 Qxf4 Qg6 Re2 Qe6 Qe4 g2 Kxg2 Qg8+ Kf2 Qe6 Rc2 Qf7+ Ke1 c5 Rd2 Qc7 e6 Qg3+ Kd1 b4 axb4 Qb3+ Ke2 Qa4 Kf2 Qxb4 Ra2+ Kb8",
-    "duration": 180,
+    "moves": "e3 e6 Nf3 b6 d4 Nf6 b3 Bb7 Bb2 c5 Nbd2 cxd4 exd4 Nc6 a3 Ne7 Bd3 g6 c4 Bg7 b4 Nh5 Qb3 b5 cxb5 Nf4 Bf1 g5 Nxg5 Nxg2+ Bxg2 Bxg2 Rg1 Bd5 Qh3 Rc8 Nge4 Kf8 Nc3 h5 O-O-O Qc7 Kb1 Qf4 Nxd5 Nxd5 Rge1 Bxd4 Re4 Qc7 Rxd4 Qc2+ Ka1 Qxd1+ Nb1 Qh1 Rxd5 Qxd5 Bxh8 e5 Qg3 Qd4+ Ka2 d6 Bf6 Qc4+ Kb2 Qc1+ Ka1 Rc2",
+    "duration": 250,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1768730008.542582
+  "updated": 1768730171.0407882
 }
