@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "pengyibot",
+  "rating": 3022,
+  "opponent": "HakoAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 179,
-  "timestamp": "2026-01-18T10:00:38.929679",
+  "time_control": "TC: 10+0",
+  "time_left": 119,
+  "timestamp": "2026-01-18T10:17:36.423791",
   "last_game": {
     "result": "draw",
-    "opponent": "pengyibot",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "HakoAI",
+    "rating_before": 3022,
+    "rating_after": 3022,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 c4 d6 Nc3 Nbd7 Nf3 Bg7 h3 O-O e3 b6 Be2 Bb7 O-O Ne4 Nxe4 Bxe4 Nd2 Bb7 Bf3 Bxf3 Nxf3 Re8 Bg3 a6 b4 Rc8 Rb1 c5 Qd3 cxb4 Rxb4 e5 Qb3 Qc7 Rc1 Qc6 Rd1 h5 dxe5 dxe5 Rd5 Qc7 Qd3 Nc5 Qb1 Re6 Nd4 Ree8 Nf3 Re6 Nd4 Ree8 Nf3",
-    "duration": 294,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 Bd7 f4 e6 Qf3 h6 Bh4 Be7 O-O-O Nc6 e5 Nxd4 Rxd4 Bc6 Qd1 Nd5 Bxe7 Nxe7 exd6 Nf5 Rd2 Qa5 Be2 O-O-O Bf3 Bxf3 gxf3 Kb8 Kb1 Ne3 Qe2 Nd5 Qe5 f6 Qxe6 Nxc3+ bxc3 Qxc3 Rd3 Qb4+ Qb3 Qxf4 d7 Qc7 Rhd1 g5 Qf7 Rhf8 Qb3 Rh8 R1d2 Rhg8 Rc3 Qf4 Rd5 g4 fxg4 Rg7 Rc4 Qxh2 Qd3 Qg1+ Kb2 Qb6+ Ka1 Qg1+ Kb2 Qb6+ Ka3 Rg5 Rxg5 fxg5 Qd5 Qe3+ Kb2 Qb6+ Kc3 Qe3+ Kb2 Qb6+ Kc1 Qg1+ Kd2 Qf2+ Kd3 Qg3+ Ke2 Qh2+ Kd3 Qg3+ Ke2 Qh2+ Kf1 Qh3+ Kf2 Qh2+ Kf1 Qh3+ Kf2 Qh2+ Ke3 Qg1+ Kd2 Qf2+ Kc3 Qe3+ Kb2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768730438.9298103
+  "updated": 1768731456.423926
 }
