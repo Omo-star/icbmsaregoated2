@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2978,
-  "opponent": "bot1e",
+  "rating": 3016,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 257,
-  "timestamp": "2026-01-18T08:18:40.369025",
+  "time_control": "TC: 10+0",
+  "time_left": 20,
+  "timestamp": "2026-01-18T08:39:00.899451",
   "last_game": {
-    "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 2978,
-    "rating_after": 2978,
+    "result": "win",
+    "opponent": "RaspFish",
+    "rating_before": 3016,
+    "rating_after": 3016,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
-    "duration": 352,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bxf3 Qxf3 Nd7 Nd2 f6 Nc4 O-O Bd2 Rf7 a4 Qe7 Rfb1 Nf8 b4 Bd6 Qg4 Ne6 Be3 Re8 Ra3 Ref8 a5 a6 Ra2 Rd8 c3 Qe8 Rd2 Bf8 Qe2 Rfd7 g3 Bd6 h4 Qf7 Kg2 Rf8 Qf3 h5 Kh2 Rfd8 Rbb2 Re8 Rd1 Red8 Qe2 Qg6 Qf1 Kh7 Re1 Bf8 Rd1 Bd6 Bc1 Rf8 Re1 Kg8 Qh3 Qg4 Qg2 Qg6 Qh3 Qg4 Qg2 Qg6 Qf1 Kh7 Qh3 Qg4 Qg2 Qg6 Be3 Kg8 Rg1 Qf7 Rd1 Qg6 Rg1 Qf7 Re1 Qg6 Qf3 Rfd8 Qe2 Be7 Rd1 Bd6 Bc1 Kh8 Qf1 Kh7 Be3 Kg8 Bc1 Rf8 Re1 f5 exf5 Rxf5 Be3 Rdf7 Nd2 Be7 Qg2 R7f6 Rg1 Rf7 Rbb1 Nf8 f3 Ne6 Qe2 Qh7 Rbf1 g5 hxg5 Bxg5 f4 Bf6 Nc4 exf4 gxf4+ Kf8 d4 Ke8 Qg2 Re7 Ne5 Rg7 Qa2 Ke7 Rxg7+ Bxg7 Qc2 h4 Qe4 Bxe5 dxe5 Qg6 Qf3 Qg7 Qg2 Qf7 c4 Qh5 Qe4 h3 Qf3 Qg6 Qg3 Qh5 Rf2 Ke8 Qf3 Qg6 b5 Kf8 bxa6 bxa6 Rf1 Qf7 Qe4 Qh5 Rf3 Ke7 Qxc6 Qg4 Rf2 Rf7 Bc5+ Nxc5 Qxc5+ Ke8 Qc6+ Kf8 Qa8+ Ke7 Qf3 Qe6 Qd3 Rg7 Rd2 Rg2+ Rxg2 hxg2 Kxg2 Qg4+ Qg3 Qe2+ Kh3 Kf7 Qg4 Qxc4 Qf5+ Kg7 e6 Qf1+ Kh4 Qf2+ Kg5 Qg1+ Qg4 Qc5+ f5 Qe3+ Kh5+ Kf6 Qg6+ Ke5 Qg5 Qh3+ Kg6 Qb3 Kg7 Ke4 Qg4+ Kd5 e7 Qc3+ f6 Qe1 Qh5+ Kc6 Qg6 Qa1 e8=Q+ Kc5 Qc2+ Qc3 Qxc3+",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768724320.3691308
+  "updated": 1768725540.899516
 }
