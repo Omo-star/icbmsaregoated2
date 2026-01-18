@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3022,
-  "opponent": "ArasanX",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 592,
-  "timestamp": "2026-01-18T12:01:36.390408",
+  "rating": 3057,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 30,
+  "timestamp": "2026-01-18T12:05:42.784770",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3022,
-    "rating_after": 3022,
+    "opponent": "Bharat_royals",
+    "rating_before": 3057,
+    "rating_after": 3057,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 g3 Bb7 Bg2 Qb6 exf6 O-O-O O-O c5 d5 b4 Rb1 Qa6 dxe6 Bxg2 e7 Bxf1 Kxf1 Bxe7 fxe7 Rdg8 Ne4 Rxg5 Nxg5 Re8 Qd5 Rxe7 Kg1 f6 Ne4 Kc7 Nd2 Qxa2 Rd1 Re5 Qf7 Qa4 Rc1 c3 bxc3 a5 Nc4 Re4 cxb4 axb4 Ne3 Qc6 Qa2 Qe6 Qa7+ Kc6 Ra1 Nb6 Ra6 Kb5 Ra5+ Kc6 Ra6 Kb5 Ra5+ Kc6 Ra6",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "c4 g6 d4 b6 b3 c5 e3 O-O Ne2 d5 g3 Bc6 Na3 dxc4 d5 Bb7 Nxc4 b5 Ne5 Qc7 f4 Nb6 O-O N8d7 Nxd7 Nxd7 Bxh8 Kxh8 Nc3 Qa5 Qd2 Kg8 Rc1 b4 Ne4 Rc8 h4 Qb6 g4 Rfd8 g5 Nf8 Nf2 h5 gxh6 Qf6 Bf3 Qxh4 Kg2 f5 Rh1 Qf6 Rcd1 Kh8 e4 Ne6 e5 Qf8 Nh3 Nd4 Ng5 Nxf3 Kxf3 e6 Kg3 Rxd5 Qf2 Qe7 Rxd5 Bxd5 Rd1 Qb7 Rc1 Qc7 Rd1 Qb7 Rc1 Qe7 Qf1 Qb7 Qg1 Qc7 Qf1 Qc6 Nf7+ Kh7 Ng5+ Kh8 Nf7+ Kh7 Qg1 a5 Ng5+ Kh8 Nf7+ Kh7 Ng5+ Kh8 Rd1 Qd7 Rd2 a4 Qf2 Qb7 Qg1 Qd7 Qf2 Qb7 Qg1 Qc6 Nf7+ Kh7 Ng5+ Kh8 Nf7+ Kh7 Qh2 c4 Ng5+ Kh8 Nf7+ Kh7 Qh4 Qc5 Ng5+ Kh8 Nf7+ Kh7 Ng5+ Kh8 Nf7+ Kh7",
+    "duration": 264,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1768737696.3905406
+  "updated": 1768737942.7849236
 }
