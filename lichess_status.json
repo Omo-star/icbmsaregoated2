@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "sluicing",
+  "rating": 3075,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 8,
-  "timestamp": "2026-01-18T15:33:23.244498",
+  "time_left": 40,
+  "timestamp": "2026-01-18T15:34:37.172126",
   "last_game": {
     "result": "draw",
-    "opponent": "sluicing",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "opponent": "CloudNetBot",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Nh4 Nb6 Ne3 Be6 Kh1 Qd7 Nef5 Kh8 g4 Nc8 Qf3 g5 Ng2 h5 Qg3 h4 Qf3 b6 b3 Bd4 Rb1 Ne7 Bd2 Rad8 Rg1 Ng6 h3 Rf7 Rgd1 Qe8 c3 Bc5 Nh6 Rf8 Nf5 Be7 b4 Ra8 b5 Bd7 Nge3 Rf7 d4 Bf8 c4 exd4 Nxd4 Bd6 Bc3 Qe5 Kg1 Raf8 bxc6 Qh2+ Kf1 Ne5 Qg2 Qxg2+ Kxg2 Nxc6 Nb5 Be5 Bxe5 fxe5 Rd2 Nd4 Nxc7 Bxa4 Ncd5 Bb3 Nxb6 a4 Nf5 Rd8 c5 Ra7 Nxd4 Rxd4 Re2 Rc7 Rc1 Kg7 Re3 Rc6 Rcc3 Kg6 Kf1 Kg7 Kg1 Bd1 f3 Bb3 Re1 Kf7 Rb1 Rd2 Ra1 Rd4 Rb1 Ke6 Kf2 Rd2+ Ke3 Rd4 Kf2 Rd2+ Ke3 Rd4 Rcc1 Ke7 Kf2 Rd2+ Ke3 Rd4 Rb2 Ke6 Kf2 Rd3 Ke2 Rd4 Ke3 Rc7 Rc3 Rc6 Rc1 Rc7 Rc3 Rc6 Rb1 Kf7 Kf2 Ke6 Ke1 Kf6 Kf1 Kf7 Ke1 Ke6 Rcc1 Rd3 Ke2 Rd4 Kf2 Rd3 Ke2 Rd4 Ke1 Ke7 Rc3 Ke6 Ra1 Rb4 Kd2 Rb5 Nxa4 Bxa4 Rxa4 Rbxc5 Rxc5 Rxc5 Ra8 Kf7 Ra7+ Kf6 Ra6+ Kg7 Ra7+ Kf6 Ra8 Kf7 Kd3 Rc6 Ra5 Kf6 Ra8 Kf7 Ra7+ Kg6 Ra5 Kf6 Ra7 Kg6 Ra3 Rc8 Ra5 Kf6 Ra6+ Kg7 Re6 Rc5 Rd6 Rc1 Re6 Rc5 Ra6 Kf7 Ra7+ Kf6 Ra8 Kf7 Ra7+ Kf6 Ra6+ Kf7 Ra3 Rc6 Ra8 Rd6+ Kc4 Rd4+ Kc3 Rd6 Ra7+ Kg6 Kc2 Rf6 Ra3 Rd6 Ra5 Rf6 Ra3 Rf8 Kd2 Rd8+ Ke2 Re8 Ra5 Kg7 Kd3 Kf6 Ra6+ Kg7 Kc4 Rf8 Kd5 Rxf3 Kxe5 Kf7 Ra7+ Kg6 Rc7 Rxh3 Rc6+ Kf7 Kf5 Rf3+ Kxg5 h3 Rc2 Kg7 e5 Kf7 Re2 Ke6 Kh4 Ra3 Rh2 Kxe5 Rxh3 Ra8 Rf3 Rh8+ Kg3 Rg8 Rf4 Ke6 Kh4 Ke5 Rf2 Rh8+ Kg5 Rg8+ Kh4 Rh8+ Kg3 Rg8 Rf4 Ke6 Kh4 Ke5 Rf1 Rh8+ Kg3 Rg8 Kh4 Rh8+ Kg5 Rg8+ Kh5 Rh8+ Kg5 Rg8+ Kh5 Rh8+ Kg6 Rg8+ Kh5 Rh8+",
+    "moves": "e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 Nc3 Bb4 O-O Nxe5 dxe5 Nxc3 bxc3 Bxc3 Ba3 Bxa1 Qxa1 Be6 Rb1 a6 Rxb7 Qc8 Qb2 c5 Qb6 O-O Bxc5 Re8 f4 Rb8 Bxa6 Rxb7 Bxb7 Qd8 Qxd8 Rxd8 Bd6 d4 a4 Rd7 Be4 Ra7 f5 Bc4 Bc5 Rxa4 Kf2 Ba2 Ke2 g6 g4 Rc4 Bb6 Rc3 Bxd4 Rh3 e6 fxe6 fxg6 hxg6 Bxg6 Rxh2+ Kf3 Bb1 Be5 Rd2 Be4 Rd8 g5 Rc8 g6 Bxc2 Bxc2 Rxc2 g7",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768750403.244562
+  "updated": 1768750477.172242
 }
