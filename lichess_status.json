@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3016,
-  "opponent": "RaspFish",
+  "rating": 3052,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 20,
-  "timestamp": "2026-01-18T08:39:00.899451",
+  "time_control": "TC: 1+0",
+  "time_left": 39,
+  "timestamp": "2026-01-18T08:39:51.564768",
   "last_game": {
-    "result": "win",
-    "opponent": "RaspFish",
-    "rating_before": 3016,
-    "rating_after": 3016,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 3052,
+    "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bxf3 Qxf3 Nd7 Nd2 f6 Nc4 O-O Bd2 Rf7 a4 Qe7 Rfb1 Nf8 b4 Bd6 Qg4 Ne6 Be3 Re8 Ra3 Ref8 a5 a6 Ra2 Rd8 c3 Qe8 Rd2 Bf8 Qe2 Rfd7 g3 Bd6 h4 Qf7 Kg2 Rf8 Qf3 h5 Kh2 Rfd8 Rbb2 Re8 Rd1 Red8 Qe2 Qg6 Qf1 Kh7 Re1 Bf8 Rd1 Bd6 Bc1 Rf8 Re1 Kg8 Qh3 Qg4 Qg2 Qg6 Qh3 Qg4 Qg2 Qg6 Qf1 Kh7 Qh3 Qg4 Qg2 Qg6 Be3 Kg8 Rg1 Qf7 Rd1 Qg6 Rg1 Qf7 Re1 Qg6 Qf3 Rfd8 Qe2 Be7 Rd1 Bd6 Bc1 Kh8 Qf1 Kh7 Be3 Kg8 Bc1 Rf8 Re1 f5 exf5 Rxf5 Be3 Rdf7 Nd2 Be7 Qg2 R7f6 Rg1 Rf7 Rbb1 Nf8 f3 Ne6 Qe2 Qh7 Rbf1 g5 hxg5 Bxg5 f4 Bf6 Nc4 exf4 gxf4+ Kf8 d4 Ke8 Qg2 Re7 Ne5 Rg7 Qa2 Ke7 Rxg7+ Bxg7 Qc2 h4 Qe4 Bxe5 dxe5 Qg6 Qf3 Qg7 Qg2 Qf7 c4 Qh5 Qe4 h3 Qf3 Qg6 Qg3 Qh5 Rf2 Ke8 Qf3 Qg6 b5 Kf8 bxa6 bxa6 Rf1 Qf7 Qe4 Qh5 Rf3 Ke7 Qxc6 Qg4 Rf2 Rf7 Bc5+ Nxc5 Qxc5+ Ke8 Qc6+ Kf8 Qa8+ Ke7 Qf3 Qe6 Qd3 Rg7 Rd2 Rg2+ Rxg2 hxg2 Kxg2 Qg4+ Qg3 Qe2+ Kh3 Kf7 Qg4 Qxc4 Qf5+ Kg7 e6 Qf1+ Kh4 Qf2+ Kg5 Qg1+ Qg4 Qc5+ f5 Qe3+ Kh5+ Kf6 Qg6+ Ke5 Qg5 Qh3+ Kg6 Qb3 Kg7 Ke4 Qg4+ Kd5 e7 Qc3+ f6 Qe1 Qh5+ Kc6 Qg6 Qa1 e8=Q+ Kc5 Qc2+ Qc3 Qxc3+",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nc3 Bb4 Bg5 h6 Bh4 O-O Nxc6 bxc6 Bd3 d5 O-O Bxc3 bxc3 g5 Bg3 dxe4 Bc4 Bf5 Qxd8 Rfxd8 Bxc7 Rd7 Be5 Ng4 Bg3 Nf6 Be5 Nd5 Rfe1 Re8 Bd4 c5 Bxc5 Nxc3 Bb4 Rc8 Bb3 Kg7 a3 Rd4 h3 Kg6 Bxc3 Rxc3 Rad1 Rxd1 Rxd1 h5 Rd6+ f6 Ra6 Rc7 Kf1 h4 Ke2 Kg7 Ke3 Bg6 Kd4 f5 Bd5 Rd7 c4 f4 Re6 g4 c5 Rxd5+ Kxd5 f3 c6 fxg2 c7 Bf7",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768725540.899516
+  "updated": 1768725591.5648725
 }
