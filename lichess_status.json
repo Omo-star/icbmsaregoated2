@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "Nimfish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+10",
-  "time_left": 794,
-  "timestamp": "2026-01-18T09:41:57.484949",
+  "rating": 3054,
+  "opponent": "bot1e",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 23,
+  "timestamp": "2026-01-18T09:42:13.381367",
   "last_game": {
-    "result": "win",
-    "opponent": "Nimfish",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "result": "draw",
+    "opponent": "bot1e",
+    "rating_before": 3054,
+    "rating_after": 3054,
     "rating_delta": 0,
-    "moves": "d4 d5 b3 b6 c4 e6 h4 h5 Rh3 c5 Nd2 Nd7 e4 dxe4 d5 exd5 cxd5 Bxd5 Nc3 Bc6 Ncxe4 Qc7 Rg3 Rh6 Qc3 f6 Qc4+ Kh8 Rge3 Ne5 Bxe5 Rxe5 Nf3 Re7 b4 Rg6 Qc2 cxb4 Ned2 Rxe3 Rxe3 f5 Qxf5 Rf6 Qxh5+ Rh6 Qf5 Rf6 Qc2 Bc5 Ng5 g6 Nde4 Bxe3 Nxf6 Qg7 Ng4 Bc5 Qd3 Be7 Qe3 Bc5 Qf4 Bd7 Ne5 Be8 Bc4 a5 g3 Qf8 Ngf7+ Bxf7 Qf6+ Kg8 Nxf7 Nxf7 Qxg6+ Kh8 Bxf7 Qg7 Qh5+ Qh7 Qxh7+ Kxh7 Be8 Be7 Kg2 Kg7 f4 Kh6 Kf3 Bd8 h5 a4 Bxa4 Kxh5 Be8+ Kh6 g4 b3 g5+ Kg7 axb3 Kf8 Bb5 Kf7 Bc4+ Kg7 Kg4 Be7 f5 Bd8 f6+ Bxf6 gxf6+ Kxf6 b4 Ke5 b5 Kd4 Bf7 Ke4 Be8 Ke5 Bc6 Ke6 Kf4 Kd6 Kf5 Kc5 Ke6 Kd4 Kd7 Kc4 Kc7 Kc5 Kb7 Kc4 Kxb6 Kd4 Kc7 Kc4 b6 Kd3 b7 Kd4 b8=Q Ke3 Qf8 Kd3 Qf2 Kc3 Bb5 Kb4 Qg3 Kxb5 Qc3 Ka4 Qb2 Ka5 Qb3 Ka6 Qb6#",
-    "duration": 1690,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1768729317.485018
+  "updated": 1768729333.381492
 }
