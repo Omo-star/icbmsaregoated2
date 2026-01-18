@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3054,
-  "opponent": "CloudNetBot",
+  "rating": 3055,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 35,
-  "timestamp": "2026-01-18T14:21:24.285697",
+  "time_left": 5,
+  "timestamp": "2026-01-18T14:24:33.015441",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3054,
-    "rating_after": 3054,
+    "result": "win",
+    "opponent": "BorkaTower",
+    "rating_before": 3055,
+    "rating_after": 3055,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 Bb3 a5 a4 Bb4+ Nbd2 Nbd7 O-O O-O c3 Bd6 h3 Qc7 Re1 Nc5 Bc2 dxe4 Nxe4 Nfxe4 dxe4 Rd8 Be3 Be6 Ng5 Bc4 b3 h6 bxc4 hxg5 Qg4 Be7 Bxg5 Bxg5 Qxg5 Ne6 Qe3 Ra6 Red1 Rxd1+ Rxd1 Qb6 Qf3 Qc7 g3 Ra8 Qe3 Rd8 Qa7 b6 Qxc7 Rxd1+ Bxd1 Nxc7 Kg2 Ne6 Bc2 g6 Kf3 Nc5 Kg4 Kg7 Kg5 Nb7 Bd3 f6+ Kg4 Nc5 Bc2 Nb7 h4 Nd6 Bd3 Kh6 Kh3 Kh5",
+    "moves": "Nf3 d5 c3 Nf6 d4 c5 dxc5 e6 Be3 Qc7 b4 a5 Qb3 Be7 a4 O-O g3 Nbd7 Bg2 Ng4 Bd2 b6 h3 Nxf2 Kxf2 bxc5 Bf4 Qa7 Be3 axb4 cxb4 Bb7 Na3 d4 Bg5 Bd5 Qb1 f6 Nb5 Qb7 Bd2 e5 Rc1 c4 Nh4 Bxg2 Nxg2 Rfc8 e3 d3 Kg1 e4 Rf1 Ne5 Nh4 Qd7 Kh2 Nf7 Nf5 Bf8 Bc3 g6 Nfd4 f5 a5 Ng5 Qe1 Bg7 a6 Rcb8 Ra5 Rf8 h4 Nf7 Na3 Ne5 b5 Qc8 Nb1 Ng4+ Kg1 Rf7 Ra4 Qb8 Rxc4 Ne5 Ra4 Ng4 Rf4 h5 Rb4 Qc8 Bd2 Kh7 Nc3 Rd7 Rxg4 hxg4 Qf2 Qc5 Ra4 Re7 Qf4 Bh6 Qf2 Bg7 Qf4 Bh6 Qf1 Bg7 h5 Re5 Qb1 Qd6 Qb4 Qxb4 Rxb4 gxh5 b6 Rxa6 b7 Re8 b8=Q Rxb8 Rxb8 Kg6 Kg2 Rd6 Rg8 Rf6 Re8 Rf7 Re6+ Kh7 Rc6 Bxd4 exd4 Rb7 Kf1 Rb2 Bf4 Rc2 d5 d2 Nd1 Ra2 d6 Ra8 d7 Rd8 Rc7 Kg6 Bxd2 h4 gxh4 f4 Bxf4 Rf8 Ke2 g3 Bxg3 Kf5 Nf2 Rd8 Rc5+ Ke6 Re5+ Kf7 Rf5+ Ke6 Re5+ Kxd7 Rd5+ Ke7 Rxd8 Kxd8 Nxe4 Ke7 h5 Kd8 h6 Ke7 h7 Kf7 h8=Q Ke6 Qg8+ Ke7 Qe8+ Kxe8 Nc5 Kd8 Bd6 Kc8 Kf3 Kd8 Ke4 Kc8 Kd5 Kd8 Kc6 Kc8 Nd7 Kd8 Nf6 Kc8 Nd5 Kd8 Bc7+ Ke8 Kd6 Kf7 Bd8 Ke8 Bg5 Kf7 Nf4 Ke8 Ke6 Kf8 Nh5 Ke8 Ng7+ Kf8 Kf6 Kg8 Ne6 Kh7 Kf7 Kh8 Bf4 Kh7 Nf8+ Kh8 Be5#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1768746084.285802
+  "updated": 1768746273.015501
 }
