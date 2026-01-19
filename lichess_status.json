@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3022,
-  "opponent": "ArasanX",
+  "rating": 3075,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 416,
-  "timestamp": "2026-01-19T13:32:09.101821",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2026-01-19T13:32:49.693556",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3022,
-    "rating_after": 3022,
+    "opponent": "PositionalAI",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Nd5 Nxd5 exd5 Nb8 a4 Be7 Be2 O-O O-O Nd7 Bd2 a6 Na3 a5 Nb5 f5 f3 f4 b4 Rf6 Bd3 Rh6 c4 axb4 Bxb4 Qe8 h3 Qh5 Nc7 Rb8 Qc2 Nf8 c5 dxc5 Bxc5 Bxc5+ Qxc5 Qg5 Ne6 Bxe6 dxe6 Nxe6 Qc3 Kh8 Rae1 Rd8 Rxe5 Rxd3 Rxe6 Rxe6 Qxd3 h6 Rc1 Qg6 Qxg6 Rxg6 Rc4 Rb6 Rxf4 Kh7 Kh2 Rb2 Rd4 b5 axb5 Rxb5 Rd7 h5 Kg3 Rg5+ Kf2 Ra5 g4 Kh6 f4 g5 Rd6+ Kh7 Rd7+ Kh6 Rd6+ Kh7 f5 Ra2+ Kg3 Ra3+ Kh2 Ra4 gxh5 Rf4 Rf6 Rh4 Kg2 g4 hxg4 Rxg4+ Kf1 Rh4 h6 Rxh6 Rf8 Kg7 Re8 Rb6 Rd8 Rb1+ Kg2 Kf6 Rh8 Kxf5 Rg8 Kf4 Rh8 Kg4 Rg8+ Kh4 Rh8+ Kg4 Rg8+ Kf5 Rh8 Rb6 Rg8 Rh6 Rf8+ Kg5 Rg8+ Kf6 Rf8+ Ke7 Rg8 Rd6 Rh8 Rd7 Rg8 Rc7 Rh8 Kf6 Rg8 Rc6 Rh8 Re6 Rg8 Rb6 Rh8 Rb4 Rg8 Rb6 Rh8 Rb4 Rg8 Rb6 Rh8",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Be2 Rc3 Ke1 g5 Ra2 Rc1+ Kd2 Rb1 Bd3 Rd1+ Ke3 Re1+ Kd2 Rd1+ Ke3 Re1+ Kd2 Rd1+ Ke3",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768829529.1018832
+  "updated": 1768829569.6936657
 }
