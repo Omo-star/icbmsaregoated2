@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 3025,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 42,
-  "timestamp": "2026-01-19T09:09:00.925950",
+  "time_control": "TC: 10+0",
+  "time_left": 434,
+  "timestamp": "2026-01-19T09:18:51.131500",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "opponent": "Lili-ai",
+    "rating_before": 3025,
+    "rating_after": 3025,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Be7 Bxf6 gxf6 f4 Nxd4 Qxd4 Bd7 h4 Qa5 g4 Qc5 Qd2 h5 g5 O-O-O Rh3 Kb8 Kb1 fxg5 hxg5 Bc6 Qh2 f6 g6 f5 exf5 exf5 Bg2 d5 Rxh5 Rxh5 Qxh5 d4 Bxc6 dxc3 Rxd8+ Bxd8 Qh1 Bf6 Bf3 Bg7 b3 Qd6 a4 Qa3 Qc1 Qd6 Qe1 Qa3 Qc1 Qb4 Ka2 Bf8 Kb1 Bg7",
-    "duration": 60,
-    "bot_color": "black",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O Re8 Nc3 c6 Rac1 a5 b5 d5 exd5 cxd5 Nxd5 Nxd5 cxd5 Qxd5 b6 h6 h3 Rad8 Rc7 Re6 h4 Rf6 h5 g5 Re1 Kg7 Qxe5 Qxe5 Rxe5 Rxd3 Rxb7 Rd1+ Kh2 Rd2 f3 Rxf3 Re6 Rb2 Rc7 Rf6 Rxf6 Kxf6 b7 Ke6 Rc6+ Kf5 Rc5+ Ke6 Rxa5",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768813740.926052
+  "updated": 1768814331.1315992
 }
