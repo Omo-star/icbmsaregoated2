@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3021,
-  "opponent": "angeei",
+  "rating": 3068,
+  "opponent": "smallfriend",
   "variant": "Variant: Standard",
-  "time_control": "TC: 14+0",
-  "time_left": 591,
-  "timestamp": "2026-01-19T00:40:45.560434",
+  "time_control": "TC: 0+2",
+  "time_left": 7,
+  "timestamp": "2026-01-19T05:20:21.440024",
   "last_game": {
     "result": "win",
-    "opponent": "angeei",
-    "rating_before": 3021,
-    "rating_after": 3021,
+    "opponent": "smallfriend",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Nc3 Nc6 d3 Na5 Bd5 c6 Bb3 d5 Bd2 Bd6 h3 O-O Nf3 Re8 g4 b5 Qe2 b4 Nd1 Nb7 Ne3 Nc5 Nf5 Bxf5 gxf5 a5 a4 bxa3 bxa3 dxe4 Ng5 Nxb3 cxb3 exd3 Qxd3 e4 Qc4 Nd5 Qxc6 Bf4 Bxf4 Nxf4 h4 Qd3 Qc4 Ng2#",
-    "duration": 840,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d4 Nxd4 Be3 Qf6 Bxd4 exd4 c3 d5 Bxd5 c6 Bb3 Bg4 cxd4 O-O-O e5 Qg6 Bc2 Qh5 O-O Bxf3 Qxf3 Qxf3 gxf3 Bxd4 Nc3 Bxe5 Rfe1 Bd4 Bb3 Nh6 Re7 Bf6 Re2 Nf5 Ne4 Nd4 Re3 Nxb3 Rxb3 Bd4 Rc1 f5 Nc3 Rhe8 Ra3 Re3 Rc2 Rxf3 Ra4 Rd3 Nb5 Bb6 Na3 Rd2 Rc3 Rxf2 Nc4 Rd1#",
+    "duration": 128,
     "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1768783245.560496
+  "updated": 1768800021.440085
 }
