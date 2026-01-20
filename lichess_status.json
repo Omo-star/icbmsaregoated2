@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "OlympusCz",
+  "rating": 3081,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 253,
-  "timestamp": "2026-01-20T13:35:09.227485",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 5,
+  "timestamp": "2026-01-20T13:36:12.408996",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "loss",
+    "opponent": "Cheszter",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 Bg5 h6 Bh4 dxc4 e4 g5 Bg3 b5 Be2 Bb7 O-O Nbd7 Ne5 h5 Nxd7 Qxd7 Qc1 Rg8 Rd1 a6 a4 Rg6 h3 g4 h4 Bb4 Qe3 Kf8 Bf1 Kg8 Ne2 Bf8 Nf4 Rh6 b3 c5 bxc4 Nxe4 cxb5 axb5 Bxb5 Qd6 Rab1 Nxg3 fxg3 Rd8 d5 Bxd5 Kh2 Rf6 Bc4 Rf5 Qe2 Be7 Nxh5 Kf8 Qxg4 Qe5 Rxd5 exd5 Re1 Rg5 Qxg5 Qxg5 hxg5 dxc4 Nf6 c3 Rc1 Ra8 Rxc3 Rxa4 Nd5 Ra5 Kh3 Bxg5 Kg4 Bd2 Rc4 Be1 Re4",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "c4 c5 Nf3 Nc6 Nc3 Nf6 g3 e5 Bg2 d6 O-O h6 a3 Be6 d3 Be7 b4 cxb4 axb4 Nxb4 Qb3 d5 Nxe5 O-O Nxd5 Nbxd5 Qxb7 Rb8 Qxa7 Nb4 Bd2 Rc8 Rab1 Nc2 Bc3 Bc5 Qa2 Nd4 e3 Nf5 Bb7 Rb8 d4 Rxb7 Rxb7 Qc8 Qb2 Ba3 Qb1 Bd6 d5 Ne4 Qxe4 Qxb7 Rb1 Qa8 Ra1 Qb7 Rb1 Qa8 Ra1 Qb7 Qb1 Qxb1+ Rxb1 Bc8 Rb6 Bc7 Rc6 Bxe5 Bxe5 f6 Bb2 Bd7 Rc7 Rf7 Ra7 Nd6 c5 Nc4 Bd4 Bf5 Ra4 Nd2 Bc3 Ne4 Bb4 Ng5 f4 Nh3+ Kg2 Nxf4+ exf4 Be4+ Kf2 Bxd5 Ke3 Rc7 Ra6 h5 Kd4 Bg2 Rb6 Kf7 Kc4 Rc8 f5 Be4 Rd6 Bxf5 c6 Ke8 Kc5 Rd8 Ba5 Rxd6 Kxd6 Be4 Kc7 Ke7 Bb4+ Ke6 Bf8 g6 Bc5 Bg2 Be3 Ke7 Bc5+ Ke6 Be3 Bh1 Bg1 Be4 Bd4 f5 Bf2 Ke7 Bc5+ Ke6 Be3 Bh1 Bb6 Bf3 Be3 Be4 Bc5 Bh1 Be3 f4 gxf4 Kd5 Kd7 Bg2 c7 Ke4 f5 Bh3 Kd8 Bxf5 Bg5 Ke5 h4 Bg4 c8=Q Kd4 Qd7+ Bxd7 Kxd7 Kd5 Ke7 Ke5 Kf7 Kf5 Be7 Ke5 Kxg6 Ke6 Ba3 Kd7 Bf8 Ke8 Bh6 Kd8 Kxh5 Ke8 Bc1 Kf8 Kg5 Kg8 Kg6 Kh8 Ba3 Kg8 h5 Kh8 h6 Kg8 h7+ Kh8 Bb2#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1768916109.2276027
+  "updated": 1768916172.4090586
 }
