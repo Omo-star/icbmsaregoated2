@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2972,
-  "opponent": "Alanmanoj",
+  "rating": 3075,
+  "opponent": "cgnksk1912",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 78,
-  "timestamp": "2026-01-20T14:42:41.659419",
+  "time_control": "TC: 1+0",
+  "time_left": 59,
+  "timestamp": "2026-01-20T14:42:58.207942",
   "last_game": {
     "result": "win",
-    "opponent": "Alanmanoj",
-    "rating_before": 2972,
-    "rating_after": 2972,
+    "opponent": "cgnksk1912",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bxc6 dxc6 Nc3 O-O d4 Re8 Bf4 Bf5 d5 cxd5 Qxd5 c6 Qb3 Bf8 Rad1 Qf6 h4 Bxc2 Qxc2 Qxf4 g3 Qf5 Qxf5 Nxf5 Rd7 Nd6 Kf1 f6 Nd3 Red8 Rc7 Rab8 Nc5 Ne8 Rd7 Bxc5 Rxd8 Rxd8 a3 h5 Ne4 Bf8 Nd6 Nxd6 Re6 Nc4 Re2 Kf7 Kg2 Rd2 Re4 Nxb2 Rb4 Bxb4 axb4 Nd3 Kf3 Nxf2 Ke3 Rc2 g4 hxg4 Kf4 Rc3 h5 Rf3#",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "c4 c5 Nf3 Nc6 Nc3 Nf6 g3 g6 Bg2 Bg7 a4",
+    "duration": 60,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768920161.659479
+  "updated": 1768920178.2080293
 }
