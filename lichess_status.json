@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2975,
-  "opponent": "Moment-That-Inspires",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 70,
-  "timestamp": "2026-01-20T09:14:42.570047",
+  "opponent": "SleepyCPU",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+2",
+  "time_left": 186,
+  "timestamp": "2026-01-20T09:18:31.885376",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
+    "opponent": "SleepyCPU",
     "rating_before": 2975,
     "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rc8 Rxd6 Qxd6 Qe4 Qd8 h3 Qb6 Rc3 Ne7 Qc2 Qd8 Nd4 Kf8 Qd2 Nc6 Qc2 Ne7 Nb5 Rxc3 Nxc3 Nf5 Bd3 Nd6 Ne4 b6 b4 Nxe4 Bxe4 Qf6 Qc1 Qe5 Bd3 Bd7 Be2 Ke7 Bf1 g6 Qc4 a5 b5 Qd5 Qc7 Qd6 Qb7 h5 a4 Kd8 Qe4 Qc5 Be2 Qc1+ Bf1 Qc7 Be2 Ke8 Bf3 Qc1+ Kh2 Qc7+ Kg1 e5 Qa8+ Bc8 Bd5 h4 Bf3 Qc1+ Kh2 Qc7 Kg1 Qc1+ Kh2 Qc7 Kh1 Qc1+ Kh2",
-    "duration": 180,
+    "moves": "e4 e5 a4 a5 Ng3 g5 Nf3 f6 d4 Ng6 Ra3 b6 dxe5 Be7 Rb3 fxe5 Nf5 Bb4 Nxg5 Bb7 h4 Nf6 f3 Bc6 Be2 Bxa4 Nh6 Qg7 Nf5 Qg8 Nh6 Qg7 Nf5 Qg8 Nh6",
+    "duration": 250,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1768900482.57014
+  "updated": 1768900711.8854594
 }
