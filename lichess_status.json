@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "CloudNetBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 129,
-  "timestamp": "2026-01-21T14:05:04.603857",
+  "rating": 3079,
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 18,
+  "timestamp": "2026-01-21T14:10:56.279373",
   "last_game": {
-    "result": "loss",
-    "opponent": "Classic_BOT-v2",
+    "result": "draw",
+    "opponent": "YoBot_v2",
     "rating_before": 3079,
     "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 60,
-    "bot_color": "white",
-    "termination": "noStart"
+    "moves": "d4 g6 Qd2 f5 Nc3 Nc6 f4 d5 g4 Qd7 gxf5 gxf5 Qd3 Qd6 e3 e6 O-O-O Nd7 Nd2 O-O-O Bf2 Bf7 Kb1 Kb8 Na4 Qb4 b3 Qa3 c3 Ne7 Ka1 Rg8 Rc1 Be8 Qc2 b6 b4 Nf6 Nb2 Ne4 Bh4 Rd7 Qd3 c5 Nb1 c4 Nxa3 cxd3 Nxd3 Ng6 Rg1 Rdg7 Be1 Ne7 Rxg7 Rxg7 Kb2 Rg6 Bf3 Bf6 Ne5 Rh6 Bg3 Bh4 Bxh4 Rxh4 Rc2 Rh3 Rg2 Ba4 Nb1 Bb5 Be2 Ba4 Bf3 Bb5 Be2 Ba4 Ba6 Ng6 Nd2 b5 Nxg6 hxg6 Nxe4 fxe4 Rxg6 Rxh2+ Kb1 Kc7 Rxe6 Rh1+ Kb2 Rh2+ Ka1 Rh1+ Kb2 Rh2+ Kc1 Rxa2 Re5 Kb6 Bc8 Bb3 Bg4 Bc4 f5 Rf2 Kd1 Rf1+ Kd2 Rf2+ Kc1 Rf1+ Kb2 Rf2+ Kc1 Rf1+ Kc2 Rf2+ Kd1 Rf1+ Kc2 Rf2+ Kb1 Rf1+ Kb2 Rf2+ Ka1 Rf1+ Kb2",
+    "duration": 191,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1769004304.6039398
+  "updated": 1769004656.279563
 }
