@@ -5,18 +5,18 @@
   "opponent": "Alanmanoj",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 97,
-  "timestamp": "2026-01-21T03:10:41.394709",
+  "time_left": 157,
+  "timestamp": "2026-01-21T03:12:13.267023",
   "last_game": {
     "result": "win",
     "opponent": "Alanmanoj",
     "rating_before": 2972,
     "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Nxc6 dxc6 Ba4 O-O Nc3 Re8 d3 a5 a3 Be6 Ne4 Nxe4 Rxe4 Bf5 Rf4 Bg6 Be3 Bd6 Rd4 Qe7 Qf3 Be5 Rg4 Bxb2 Rb1 Qxa3 Bb3 a4 Bxa4 Rxa4 Rxa4 Qxa4 Qd1 Qa2 h3 b6 Qf1 Be5 f4 Bc3 Rb3 Qxc2 Rxc3 Qxc3 Qf2 Qxd3 Bd4 f6 Bb2 c5 Ba1 Qb1+ Kh2 Qxa1 Qd2 Qd4 Qa2+ Bf7 Qa7 Qxf4+ g3 Qf2+ Kh1 Re1#",
+    "moves": "e4 d6 d4 e5 Nf3 exd4 Nxd4 Nf6 Nc3 g6 Be3 Bg7 Qd2 Nbd7 f3 O-O O-O-O Nc5 h4 h5 g4 hxg4 h5 Nxh5 Bc4 gxf3 Rdg1 a6 Rxg6 b5 Rxg7+ Nxg7 Qh2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768965041.3947704
+  "updated": 1768965133.267086
 }
