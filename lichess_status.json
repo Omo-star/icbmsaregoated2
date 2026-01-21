@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2972,
-  "opponent": "OlympusCz",
+  "opponent": "Alanmanoj",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 82,
-  "timestamp": "2026-01-20T14:48:15.480524",
+  "time_left": 169,
+  "timestamp": "2026-01-21T03:03:30.135754",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusCz",
+    "result": "win",
+    "opponent": "Alanmanoj",
     "rating_before": 2972,
     "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "c4 d6 Nc3 e5 e3 f5 d4 c6 e4 Nf6 exf5 exd4 Qxd4 Bxf5 Bd3 Qe7+ Be2 Na6 Nf3 Qd7 Bf4 Be7 O-O-O Rd8 h3 O-O g4 Bg6 Nh4 Qe8 Nxg6 Qxg6 Bd3 Qf7 Rhe1 d5 Bf5 Kh8 Be6 Qg6 Bf5 Qf7 a3 Nc5 Kb1 dxc4 Qe5 Rxd1+ Rxd1 Re8 Be3 Nd3 Qa5 a6 Ka1 Rd8 Qc7 Qe8 Bxd3 Rd7 Qe5 cxd3 g5 Bf8 Qf5 Nd5 Rxd3 Rf7 Qg4 Nxe3 Rxe3 Qd7 Qe2 Kg8 Rd3 Qf5 Ne4 Re7 Re3 Rd7 Rd3 Rxd3 Qxd3 Qd5 Qe2 a5",
+    "moves": "d4 Nf6 c4 g6 h3 Bg7 Nc3 d6 e4 O-O Nf3 Nbd7 Be2 e5 dxe5 dxe5 Be3 b6 Qc2 Nc5 Rd1 b5 Rxd8 Rxd8 Bxc5",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1768920495.4806197
+  "updated": 1768964610.1358466
 }
