@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2981,
-  "opponent": "Nimfish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 3+5",
-  "time_left": 519,
-  "timestamp": "2026-01-21T10:35:27.964812",
+  "rating": 3076,
+  "opponent": "Lili-ai",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-01-21T10:36:49.196717",
   "last_game": {
-    "result": "win",
-    "opponent": "Nimfish",
-    "rating_before": 2981,
-    "rating_after": 2981,
+    "result": "draw",
+    "opponent": "Lili-ai",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "b4 d6 a4 a6 d4 g6 a5 Bc6 Nf3 b5 axb6 Rxb6 Ne3 Ne6 g3 Nf6 Qa2 Be4 d5 Ng7 Ng5 Bxh1 Nxf7 Rf8 Nxh8 Nf5 Nxf5 gxf5 f3 Rxh8 Bf2 Rb8 c4 Bg2 Rd3 Qb7 b5 Nd7 Ra3 a5 Rxa5 Kd8 Ra7 Qc8 Qd2 Rg8 Qh6 Nf8 Bd4 Ke8 Bg7 Kf7 Bxf8 Qxf8 Qe6+ Kg7 Rxc7 Kh8 b6 f4 Qxe7 Qxe7 Rxe7 fxg3 hxg3 Rxg3 Kd2 Bh3 b7 Rg7 Rxg7 Kxg7 Kc3 h5 c5 dxc5 Kc4 h4 Kxc5 Bc8 bxc8=Q Rxc8+ Kd4 h3 Rh1 Rh8 Ke3 Kf8 Kf4 Ke7 Kg3 Kd6 Rxh3 Rg8+ Kf2 Kxd5 e3 Rb8 e4+ Ke5 Rh5+ Kf6 f4 Rb3 e5+ Ke6 Rh6+ Kd5 e6 Rb8 e7 Re8 Kf3 Rxe7 Kg4 Rg7+ Kf5 Re7 Kg6 Re6+ Kh5 Re2 f5 Rf2 Kg6 Ke5 Rh5 Rf3 Rg5 Rf1 Rg2 Rf4 Re2+ Kd4 f6 Rg4+ Kf5 Rg1 f7 Rf1+ Kg6 Kc4 Rg2 Kc5 Kg7 Rf4 f8=Q+ Rxf8 Kxf8 Kd4 Kf7 Kd3 Ke6 Kd4 Rg4+ Kd3 Ke5 Ke3 Rd4 Kf3 Re4 Kg3 Rf4 Kh3 Kf5 Kg3 Kg5 Kh3 Rg4 Kh2 Kh4 Kh1 Kg3 Kg1 Rf4 Kh1 Rf1#",
-    "duration": 1065,
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc7 g4 g6 Be2 Rc6 Bf3 Rc7 Be2 Rc6 Bf3 Rc7 Be2",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1768991727.964876
+  "updated": 1768991809.1968546
 }
