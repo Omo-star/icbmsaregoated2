@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "Cheszter",
+  "rating": 3010,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 91,
-  "timestamp": "2026-01-21T13:00:02.850396",
+  "time_control": "TC: 10+0",
+  "time_left": 43,
+  "timestamp": "2026-01-21T13:11:42.186418",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "result": "win",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3010,
+    "rating_after": 3010,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 Bg5 d5 Bxf6 Bb4+ Nc3 Qxf6 e3 Bxc3+ bxc3 Nd7 cxd5 cxd5 c4 dxc4 Bxe4 Qa6 Ne2 Nf6 Bg2 O-O O-O Bf5 a4 Rfe8 Qd2 Be4 Nc3 Bxg2 Kxg2 Rad8 f3 Nd7 Qf2 f5 Rab1 Nf6 Rfe1 Nd5 Nxd5 Rxd5 Rb4 h6 h4 Re7 h5 Rc7 Qc2 Kh8 Qc3 Rd8 Reb1 Qc6 Rb5 Rd5 Rxd5 Qxd5 Rb5 Qd7 Rb4 Qe6 Rb5 Qd7 Re5 Rc8 d5 Kh7 Kf2 a5 Kg2 Qxa4 d6 Qd1 Re7 Rg8 d7 Qe2+ Kg1 Qd1+ Kg2 Qd6 Rf7 a4 Qxc4 Qd2+ Kh3 Qd1 Kg2 Qd2+ Kh3 Qd1 Kg2 Qd2+",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 a6 a4 b6 Kf1 Rc8 Re2 Rcd8 b3 Rh7 Kg2 c5 Rb1 Qe8 Ba1 Rh8 Rh1 Rh5 Nd2 Qc6 Nc4 Rg8 Rd2 Rd8 Rdd1 a5 Nb2 Rdh8 Rd2 R8h6 Rhd1 Qe8 Kf1 Qc8 Kg2 Qe8 Nc4 Qf8 Nb2 Rg5 Nc4 Qg7 Rb1 Rgh5 Kg1 Rh8 Rg2 Rg5 Kf1 Rgh5 Rd2 Qf7 Re2 Rf8 Rg2 Qe7 Re1 Rg8 Nd2 Qe8 Ke2 Ka7 Rd1 Rg7 Rdg1 c6 Kf1 Bd8 Rh1 b5 Re2 Bb6 Kg2 Rd7 Bc3 Qd8 Bb2 Kb7 Ra1 Rf7 axb5 cxb5 Nb1 b4 Nd2 Bc7 Nc4 Rf6 c3 Ra6 cxb4 Qxd3 Rd2 Qxb3 b5 Qxb5 Rc1 Rh7 Ba3 Qe8 Rd5 Rc6 Bb2 Re7 Bc3 a4 Qxh4 Ree6 Rh1 Re7 Rb1+ Ka7 Ra1 Ra6 Rxc5 Bb8 Rb1 a3 Nxe5 Rc7 Rxc7+ Bxc7 Qh7 Qd8 Qf7 Rh6 Ng4 Rc6 Qb3 Bb6 Qxa3+ Kb7 Ra1 Qc8 Qa6+ Kc7 Be5+ Kd8 Bxf4 Qxa6 Rxa6 Kc8 Be3 Rc2+ Kxg3 Bd8 Ra8+ Kd7 Bf4 Be7 Ne5+ Kc7 Ng6+ Bd6 Bxd6+ Kxd6 Kg4",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1769000402.850491
+  "updated": 1769001102.1865163
 }
