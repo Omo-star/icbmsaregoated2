@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3081,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "AlexNovikov2025",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 48,
-  "timestamp": "2026-01-21T16:23:53.228873",
+  "time_left": 38,
+  "timestamp": "2026-01-21T16:25:36.008362",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "AlexNovikov2025",
     "rating_before": 3081,
     "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Kh7 Ra4 Bg4 Rc4 Bxh5 Rc6 Rd6 Kf1 Rxc6 bxc6 Be8 Bd8 Bxc6 Bxc7 Ba4 Bxe5 b5 c3 dxc3 Bxc3 g5 Ke2 g4 Be1 Kg6 Ke3 Bc2 d4 Kf6 d5 Bb3 Kf4 b4 Bxb4 g3 Kxg3",
+    "moves": "e4 g6 Bc4 Bg7 Qf3 e6 Qb3 Ne7 Nc3 O-O Nf3 c5 d3 d5 exd5 exd5 Bb5 a6 Ba4 b5 Bxb5 axb5 Nxb5 Bg4 d4 Bxf3 Qxf3 Qa5+ Nc3 cxd4 Bd2 dxc3 Bxc3 Bxc3+ Qxc3 Qxc3+ bxc3 Nbc6 O-O Ra3 Rfe1 Rxc3 Re3 Rxc2 Rae1 d4 Rxe7 Nxe7 Rxe7 Rc1+ Re1 Rxe1#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1769012633.2289724
+  "updated": 1769012736.0084262
 }
