@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "MontyPythonFlying",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1.5+2",
-  "time_left": 50,
-  "timestamp": "2026-01-21T14:31:19.848809",
+  "rating": 3078,
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 18,
+  "timestamp": "2026-01-21T14:39:10.980610",
   "last_game": {
     "result": "draw",
-    "opponent": "MontyPythonFlying",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "opponent": "is_BOSS",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Qa4+ Nc6 a3 Bxc3+ bxc3 Bd7 cxd5 exd5 Qc2 O-O Bg5 h6 Bh4 Na5 Ne5 g5 Bg3 c5 e3 Rc8 dxc5 Rxc5 Bd3 Re8 O-O Ne4 Bxe4 dxe4 Nxd7 Qxd7 Rad1 Qf5 Rd4 Nc6 Rd2 Rd8 Rxd8+ Nxd8 c4 Qe6 Rd1 Nc6 Qb2 b6 Bd6 Qg4 Rd2 Rxc4 h3 Qf5 Kh2 h5 a4 Kh7 Qb3 Rc1 Qa3 Rc4 Qb3 Na5 Qd1 Kg6 Ba3 Rc3 Rd6+ f6 Rd8 Rc8 Rxc8 Qxc8 Qd5 Qc4 Qa8 Qe6 Qxa7 Qe5+ g3 h4 Bf8 hxg3+ Kg2 gxf2 Qg7+ Kf5 Qh7+ Ke6 Qe7+ Kd5 Qd8+ Kc6 Qc8+ Kd5 Qd8+ Kc6 Qc8+ Qc7 Qxc7+ Kxc7 Be7 Kd7 Bxf6 Nb3 Kxf2 Nc5 Kg3 Ke6 Bd4 Nxa4 Kg4 b5 Kxg5 b4 h4 b3 h5 b2 Bxb2 Nxb2 h6 Nd3 h7 Ne5 h8=Q Nf7+ Kf4 Nxh8 Kxe4 Nf7 Kd3 Nh8 e4 Nf7 e5 Nh8 Kc2 Nf7 Kb1 Nh8 Ka1 Nf7 Kb1 Nh8 Kc2 Nf7 Kb1 Nh8",
-    "duration": 398,
+    "moves": "e4 c6 d4 g5 g3 h6 a4 Ne6 c3 Bh7 Qa2 Nd6 f3 O-O Nd3 Bg7 Nd2 Kh8 Bf2 Qe8 O-O f5 Bg2 b6 Rae1 Rc8 a5 fxe4 fxe4 c5 d5 Nc7 c4 Nf7 b4 d6 Bh3 e6 Bg4 Qd7 bxc5 bxc5 a6 Rb8 Rb1 Rxb1 Rxb1 Nd8 Be3 Qe7 Nf2 Bg6 Rb8 Ne8 Qb3 exd5 cxd5 Nf6 Be6 Re8 g4 Nxe6 dxe6 Rxb8 Qxb8+ Kh7 Qb3 d5 e5 d4 Bxd4 cxd4 exf6 Qxf6 Nf3 Qf4 Kg2 Qd6 Qb7 Qxe6 Nxd4 Qa2 Nf5 Bf7 Ne3 Be8 Qe4+ Bg6 Qb7 Be8 Qe4+ Bg6 Qb7 Be8",
+    "duration": 188,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769005879.8488774
+  "updated": 1769006350.9855976
 }
