@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "Sulukofte-3305",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 45,
-  "timestamp": "2026-01-21T16:17:41.875014",
+  "time_left": 47,
+  "timestamp": "2026-01-21T16:18:45.218298",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "Sulukofte-3305",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Kh7 Ra4 Bg4 Rc4 Bxh5 Rc6 Rd6 Kf1 Rxc6 bxc6 Be8 Bd8 Bxc6 Bxc7 Ba4 Bxe5 b5 c3 dxc3 Bxc3 Kh6 Ke2 g5 d4 g4 d5 Kg5 Ke3 g3 Kf3 Bc2 d6 Bd1+ Kxg3 Bg4 e5",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 Ng5 Qxg5 d3 Qxg2 Rf1 d5 Bxd5 Nd4 Be3 Bb4+ c3 Bg4 Qa4+ b5 Qxb4 Nc2+ Kd2 Nxb4 cxb4 Qxf1 Nc3 Qxa1",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1769012261.8751209
+  "updated": 1769012325.2183862
 }
