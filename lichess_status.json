@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "ChessMasschine999",
+  "rating": 2986,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 74,
-  "timestamp": "2026-01-22T13:54:40.911298",
+  "time_control": "TC: 3+1",
+  "time_left": 212,
+  "timestamp": "2026-01-22T13:54:54.519401",
   "last_game": {
     "result": "draw",
-    "opponent": "ChessMasschine999",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "opponent": "PositionalAI",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c4 d4 b4 c5 e3 Nf6 b5 Qc7 g3 e5 d3 Bd6 Bg2 h6 a4 a6 Na3 O-O O-O Re8 Bd2 Qd8 Re1 Bf5 e4 Be6 Nh4 Bc7 f4 Bg4 Bf3 Bxf3 Nxf3 Nbd7 Rf1 Ba5 Bc1 Bb4 Ra2 Bxa3 Rxa3 axb5 axb5 Rxa3 Bxa3 Qb6 Qe2 Ra8 Bc1 Qe6 Qg2 Ra1 Qb2 Ra4 Qc2 Ra5 Qg2 Ra1 f5 Qe8 g4 Qa8 g5 hxg5 Bxg5 Nh5 Qh3 Qa3 Rxa1 Qxa1+ Kg2 Qb2+ Kf1 Qb1+ Ke2 Qc2+ Nd2 Nf4+ Bxf4 exf4 f6 gxf6 Qg4+ Kf8 Qxf4 Ne5 Qg3 Qc1 Nb3 Qc2+ Nd2 Qc1 h4 Qh1 Nf3 Nxf3 Qxf3 Qxh4 e5 Qh2+ Kd1 Qg1+ Kc2 Qh2+ Kd1 Qg1+ Kc2 fxe5 Qxb7 Qh2+ Kd1 Qg1+ Kc2 Qf2+ Kb3 Kg7 Qe4 Qd2 Qxe5+ Kg6 Qg3+ Kf5 Qf3+ Kg5 Qg3+ Kh5 Qe5+ Kg6 Qxc5",
-    "duration": 442,
+    "moves": "d4 Nf6 Bf4 d5 Nf3 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg5 f6 Bh4 g6 Bd3 Be7 O-O a5 dxc5 O-O a3 e5 c4 d4 Be4 Bxc5 Nb3 Ba7 exd4 a4 d5 Ne7 Nbd2 Nf5 Bxf5 Bxf5 Nxe5 Qc7 Ng4 Qf4 h3 Bd7 Kh1 Rae8 Rc1 Bb8 Nf3 g5 d6 Be6 Nd4 Bxg4 Qxg4 Bxd6 Nf3 Ng7 c5 Qxg4 hxg4 Bb8 Bg3 Bxg3 fxg3 Re4 Rfd1 Rxg4 Rd7 Rf7 Rd8+ Rf8 Rd7 Rf7 Rd8+ Rf8 Rd7",
+    "duration": 257,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769090080.9115248
+  "updated": 1769090094.5195968
 }
