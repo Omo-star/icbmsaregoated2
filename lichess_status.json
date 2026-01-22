@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "PositionalAI",
+  "rating": 3018,
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 171,
-  "timestamp": "2026-01-22T13:25:54.354203",
+  "time_control": "TC: 10+0",
+  "time_left": 92,
+  "timestamp": "2026-01-22T13:42:31.342024",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 2986,
-    "rating_after": 2986,
+    "opponent": "caissa-x",
+    "rating_before": 3018,
+    "rating_after": 3018,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh3 Ra2 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3",
-    "duration": 180,
+    "moves": "c4 e6 Nc3 d5 d4 Nf6 cxd5 exd5 Bg5 Be7 e3 h6 Bh4 O-O Bd3 c6 Nge2 Nbd7 Qc2 a5 Rc1 Re8 O-O Nh5 Bxe7 Qxe7 Bh7+ Kh8 Bd3 Nb6 Nd1 Kg8 f3 a4 Kh1 Nf6 a3 Bd7 Re1 Nh5 g4 Nf6 Nf4 Rac8 Qg2 g5 Ne2 c5 h4 Nc4 Bxc4 dxc4 Rxc4 Nd5 Ng3 Nf4 Qh2 Qf6 Ne4 Rxe4 fxe4 Nd3 Rg1 Bxg4 Rxg4 Qf3+ Rg2 Rc6 Qg1 Qh3+ Qh2 Qf3 Rc3 c4 Qg1 Qh3+ Qh2 Qf3 Qg3 Qxd1+ Rg1 Qe2 Rg2 Qd1+ Kh2 Ne1 Rf2 Nd3 Rg2 Ne1 Rf2 Nd3 Rcc2 Nxf2 Qb8+ Kg7 Qe5+ Kg8 Rxf2 Qh5 Qe8+ Kg7 Qe5+ Kg8 d5 Qxh4+ Kg1 Qg4+ Kh2 Qh5+ Kg2 Qg4+ Kh2 Qh5+ Kg1 Qd1+ Kg2 Rc8 Qf6 Qg4+ Kf1 Qd1+ Kg2 Qg4+ Kf1 Qh3+ Ke2 Rf8 Kd2 b5 Qe5 Qg4 Rf6 b4 axb4 Qg2+ Ke1 Qh1+ Kd2 Qg2+ Ke1 Qh3 Kd2 Qg2+",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769088354.3544347
+  "updated": 1769089351.3422627
 }
