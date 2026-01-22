@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3018,
-  "opponent": "CloudNetBot",
+  "opponent": "neppi1",
   "variant": "Variant: Standard",
   "time_control": "TC: 10+0",
-  "time_left": 343,
-  "timestamp": "2026-01-22T09:56:19.789125",
+  "time_left": 588,
+  "timestamp": "2026-01-22T09:56:43.866617",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "neppi1",
     "rating_before": 3018,
     "rating_after": 3018,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 Nf3 Bg7 e3 d6 h3 c5 c3 cxd4 exd4 O-O Nbd2 Nc6 Be2 Re8 Bh2 e5 dxe5 dxe5 Nc4 Qe7 Qd6 Be6 O-O Nd7 Rad1 f6 Nfd2 Bf8 Ne4 Red8 Qxe7 Bxe7 f4 Nc5 Ned6 Kg7 g4 exf4 Bxf4 Rd7 Rd2 Rad8 Rfd1 g5 Bg3 Ne5 Nf5+ Bxf5 gxf5 Rxd2 Rxd2 Nxc4 Rxd8 Bxd8 Bxc4 Na4 Bd5 Nxb2 Bxb7 Nd1 Be1 Ba5 Bf3 Bxc3 Bf2 Nxf2 Kxf2 Be5 Ke3 Kf8 Ke4 Ke7 Kd5 Kd7 Bd1 Bb2 Be2 Ba1",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 dxc6 Qxd8+ Kxd8 Bf4 Bd6 Bxd6 Bd7",
     "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1769075779.7892313
+  "updated": 1769075803.8667054
 }
