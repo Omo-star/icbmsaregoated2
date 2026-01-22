@@ -5,18 +5,18 @@
   "opponent": "neppi1",
   "variant": "Variant: Standard",
   "time_control": "TC: 10+0",
-  "time_left": 588,
-  "timestamp": "2026-01-22T09:56:43.866617",
+  "time_left": 482,
+  "timestamp": "2026-01-22T09:59:40.041659",
   "last_game": {
     "result": "win",
     "opponent": "neppi1",
     "rating_before": 3018,
     "rating_after": 3018,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 dxc6 Qxd8+ Kxd8 Bf4 Bd6 Bxd6 Bd7",
+    "moves": "e4 a6 f3 d5 d4 dxe4 fxe4 e5 Nf3 exd4 Nxd4 Qh4+ g3 Qxe4+ Qe2 Qxe2+ Bxe2 Nf6 Bg5 Ne4 O-O Nxg5 Re1 Bc5 c3 Nc6 Bf3+ Be6 Bxc6+ bxc6 Kh1 Bxd4 cxd4 O-O-O",
     "duration": 600,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1769075803.8667054
+  "updated": 1769075980.041759
 }
