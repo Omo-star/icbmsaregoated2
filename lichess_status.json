@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3018,
-  "opponent": "Licht94",
+  "rating": 2986,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+10",
-  "time_left": 37,
-  "timestamp": "2026-01-22T13:25:00.963659",
+  "time_control": "TC: 3+0",
+  "time_left": 171,
+  "timestamp": "2026-01-22T13:25:54.354203",
   "last_game": {
     "result": "draw",
-    "opponent": "Licht94",
-    "rating_before": 3018,
-    "rating_after": 3018,
+    "opponent": "PositionalAI",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "Nf3 c5 e4 d6 d4 cxd4 Nxd4 g6 Be3 Nf6 f3 Bg7 Qd2 Nc6 Nc3 O-O O-O-O d5 exd5 Nxd5 Nxc6 bxc6 Bd4 e5 Bc5 Re8 Ne4 Be6 h4 h5 Bc4 Nf4 Bxe6 Nxe6 Qc3 Qb8 b3 Nxc5 Qxc5 Qb6 Rd6 Qxc5 Nxc5 Rec8 Nd7 Rc7 Re1 Rd8 Red1 Re8 Kd2 e4 f4 f5 Nf6+ Bxf6 Rxf6 Kg7 Rd6 Kf7 Ke3 Re6 Rd8 Re8 Rxe8 Kxe8 Rd6 Kf7 a3 a5 Rd8 Ra7 a4 Ke7 Rg8 Kf7 Rc8 Ra6 Rc7+ Kf6 Kd2 Ke6 Rg7 Kf6 Rh7 Ke6 Rg7 Kf6 Rd7 Ke6 Rb7 Ra8 Rg7 Kf6 Rc7 Ra6 Kc3 Ke6 Kd4 Rb6 Ke3 Ra6 Rb7 Kf6 Kd2 Ke6 Rc7 Kf6 g3 Ke6 Rg7 Kf6 Rb7 Ke6 Kc3 Kf6 Rc7 Ke6 Kd2 Kf6 Ke2 Ke6 Ke3 Kf6 Kd4 Ke6 Kc4 Kf6 Kc3 Ke6 Kd2 Kf6 Rh7 Ra8 Ke2 Ke6 Rg7 Kf6 Rc7 Ra6 Kd2 Ke6 Rg7 Kf6 Rb7 Ke6 Ke3 Kf6 Rc7 Ke6 Ke2 Kf6 Kd1 Ke6 Kc1 Kf6 Kb2 Ke6 Kc3 Kf6 Kc4 Ke6 Kd4 Kf6 Ke3 Ke6 Rg7 Kf6 Rh7 Ke6 Rc7 Kf6 Rd7 Ke6 Rg7 Kf6 Rb7 Ke6 Kd4 Kf6 Ke3 Ke6 Kd2 Ra8 Ke2 Ra6 Rg7 Kf6 Rg8 Kf7 Rh8 Kf6 Kd2 Kf7 Rh7+ Ke6 Kc3 Ra8 Rc7 Ra6",
-    "duration": 2180,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh3 Ra2 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769088300.963893
+  "updated": 1769088354.3544347
 }
