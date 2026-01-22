@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "BorkaTower",
+  "rating": 2986,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-01-22T14:57:18.976564",
+  "time_control": "TC: 3+0",
+  "time_left": 129,
+  "timestamp": "2026-01-22T14:59:38.080408",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 c5 Nf3 cxd4 Nxd4 Nc6 Nxc6 bxc6 Bd3 e6 O-O Ne7 Nd2 a5 Qe2 c5 c3 Qc7 h4 Nc6 Re1 h6 h5 Be7 Nf1 Bb7 Bc2 O-O-O a3 g6 hxg6 fxg6 b4 cxb4 axb4 axb4 Bb2 Rhf8 cxb4 Rf4 Nd2 Kb8 Qe3 Rdf8 Nf3 d4 Bxd4 Nxd4 Nxd4 Rxf2 Be4 Bg5 Qa3 Qb6 Bxb7 Qxb7 Qh3 Bd2 Nxe6 R8f5 Nc5 Bxe1 Nxb7 Rf1+ Kh2 Rh5 Qxh5 gxh5 Ra3 Kxb7 Rf3 Rf2 Rxf2",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 g4 Bd7 Nd3 Be6 b3 Rad8 Re4 Bf7 Rxe8+ Rxe8 Re1 Rxe1+ Qxe1 Qd8 Qe2 Qf6 Be4 h6 f3 Qd6 Kg2 g5 Qe1 Qa3 Qd2 Qd6 f4 Bd5 Qe2 Kg7 h3 Bf7 Qd2 Bd5 Bxd5 Qxd5+ Kg3 Ne7 Qe2 Ng6 f5 Qd6+ Kf3 Nf4 Qe4 Nxd3 Qxd3 Qf4+",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769093838.9767747
+  "updated": 1769093978.0806448
 }
