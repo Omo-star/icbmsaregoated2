@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "Alehkine_cat",
+  "opponent": "PestoPasta-Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 117,
-  "timestamp": "2026-01-22T10:48:36.080253",
+  "time_control": "TC: 3+2",
+  "time_left": 29,
+  "timestamp": "2026-01-22T10:56:53.288887",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
+    "result": "win",
+    "opponent": "PestoPasta-Bot",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c6 cxd5 cxd5 Bf4 Nc6 e3 Nf6 Bd3 Bg4 Nf3 e6 O-O Bd6 Bxd6 Qxd6 Nbd2 O-O Rc1 Rac8 h3 Bxf3 Nxf3 h6 a3 Rc7 Qa4 Rfc8 Rc2 a6 Ra1 Nd7 Rac1 Kf8 Ne1 g6 Nf3 Na7 Kf1 Nc6 Qb3 Ke7 Qa4 Nb6 Qb3 Nd7 g3 Na5 Qa4 Nc4 Qb3 Na5 Qa4 Nc4 Qb3 Na5",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Bd6 O-O Nf6 d4 b5 Bb3 O-O dxe5 Nxe5 Nxe5 Bxe5 f4 Bd6 e5 Bc5+ Kh1 c6 exf6 Qxf6 Nd2 d5 Nf3 Bg4 c3 Rad8 Bc2 a5 h3 Bf5 Bxf5 Qxf5 a4 b4 cxb4 axb4 Re1 Rfe8 Rxe8+ Rxe8 Bd2 Bd6 a5 Bxf4 a6 Bxd2 Qxd2 c5 Qf2 d4 a7 Qd5 Qg3 Rf8 Qb8 Qa8 Qc7 d3 Qxc5 Rd8 Qc7 d2 Qxd8+ Qxd8 Nxd2 Qa8 Nc4 h5 Nb6 Qd8 a8=Q Qxa8 Rxa8+ Kh7 Kg1 Kg6 Kf2 Kf5 Ke3 Ke6 Ra7 g5 Kd4 g4 h4 f5 Nd5 b3 Ra6+ Kd7 Rf6 Ke8 Kc5 Kd7 Rf7+ Ke8 Ra7 Kf8 Kd6 Kg8 Ke6 f4 Nf6+ Kh8 Rh7#",
+    "duration": 402,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1769078916.080426
+  "updated": 1769079413.2890232
 }
