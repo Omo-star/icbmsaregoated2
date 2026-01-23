@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3017,
-  "opponent": "BCEM_XAHA229",
+  "rating": 3074,
+  "opponent": "is_BOSS",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 556,
-  "timestamp": "2026-01-23T12:53:48.414174",
+  "time_control": "TC: 0+1",
+  "time_left": 28,
+  "timestamp": "2026-01-23T12:55:23.040081",
   "last_game": {
-    "result": "win",
-    "opponent": "BCEM_XAHA229",
-    "rating_before": 3017,
-    "rating_after": 3017,
+    "result": "draw",
+    "opponent": "is_BOSS",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 Nd7 O-O Ne7 Nbd2 Nc6 c4 Be7 cxd5 exd5 Rc1 c4 b3 b5 bxc4 bxc4 Ne1 Nb6 g4 Bd7 Nb1 O-O Ng2",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 e5 c5 Qh4 Nf5 Nxf5 Bxf5 exf6 Rxf6 Rfe1 Re8 Qc4+ Be6 Qc3 a5 Ne5 Qd4 Qxd4 cxd4 Nc6 Bd7 Rxe8+ Bxe8 Nxd4 Bg6 c3 c5 Nf3 Re6 Rd1 h6 Rd2 Be8 Rd8 Kf8 b3 Ke7 Rb8 Bg6 h4 Bc2 Nd2 Kd7 Rb7+ Kc6 Rxg7 Re1+ Kh2 Re2 Nc4 Rxf2 Ne5+ Kd5 Nd7 Kc6 Ne5+ Kd5",
+    "duration": 88,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1769172828.4142675
+  "updated": 1769172923.04021
 }
