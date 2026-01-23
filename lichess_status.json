@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "PositionalAI",
+  "rating": 3017,
+  "opponent": "Ultra_Master2000",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2026-01-23T12:30:59.595202",
+  "time_control": "TC: 10+0",
+  "time_left": 594,
+  "timestamp": "2026-01-23T12:37:05.390095",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "opponent": "Ultra_Master2000",
+    "rating_before": 3017,
+    "rating_after": 3017,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 f4 gxf4 hxg4 Nxg4+ Kh1 Ne5 Nf5 Qe6 Qd2 Kb8 Bxe5 Qxe5 Qd5 h3 Bf3 Qc3 Rac1 Qb2 Rb1 Qc3 Rbc1 Qb2 Rb1 Qc3 Rbc1",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 b4 a5 e5 fxe5 Nxe5 Qe8 c3 Nf7 Nf3 Nd6 Ne5 Nf7 Nf3 Nd6 Ne5",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769171459.595295
+  "updated": 1769171825.3902183
 }
