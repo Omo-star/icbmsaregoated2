@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "Lili-ai",
+  "rating": 2976,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 6,
-  "timestamp": "2026-01-24T11:12:20.710302",
+  "time_control": "TC: 3+0",
+  "time_left": 43,
+  "timestamp": "2026-01-24T11:17:44.832418",
   "last_game": {
-    "result": "win",
-    "opponent": "Lili-ai",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c6 Nf3 e6 e3 Nf6 Bd3 Nbd7 O-O dxc4 Bxc4 Bd6 Nc3 b5 Bb3 b4 Na4 Bb7 Qe2 Qa5 Rd1 Qh5 Bc4 g5 e4 g4 Ne5 Rc8 Be3 c5 h3 Nxe5 dxe5 Qxe5 Rxd6 Qxd6 Rd1 Qe5 Bb5+ Kf8 hxg4 h5 f4 Qxe4 Nxc5 Qxg2+ Qxg2 Bxg2 Kxg2 Nxg4 Bd4 Rg8 Kf3 Nh2+ Kf2 Ke7 Na6 Ng4+ Ke1 Nh2 Bf2 Rg2 Nxb4 Kf8 Bc6 Rg4 Rc1 Rxf4 Ke2 Ng4 Bc5+ Kg8 Nd3 Rf5 Be4 Rg5 b4 f5 Bf3 Rg7 a4 h4 a5 h3 a6 h2 Rh1 Rh7 Bb7 Rcc7 Nf4 Nf6 Nxe6 Rce7 Bxe7 Rxe7 b5 Rxe6+ Kf3 Rb6 Bc6 Ne4 Rxh2 Nc3 Rb2 Kf7 Rb3 Na4 Kf4 Nc5 Rh3 Nxa6 Bd5+ Kg6 bxa6 Rxa6 Ke5 Ra5 Rh8 a6 Rf8 Rb5 Rf6+ Kg5 Rxf5+ Kg4 Rf1 a5 Rg1+ Kh5 Ke4 Kh6 Rg8 Kh5 Bc4 Rg5 Rc8 Kg6 Kf4 Rf5+ Ke4 Rh5 Rc6+ Kg7 Be6 a4 Ra6 Rc5 Bd5 a3 Ke5 Rc7 Ra5 a2 Rxa2 Kf8 Kd6 Rh7 Rf2+ Kg7 Be4 Rh8 Ke7 Rc8 Rf7+ Kh6 Kf6 Rh8 Bd3 Kh5 Kf5 Rh6 Be2+ Kh4 Kf4 Rh8 Bd3 Rh6 Rc7 Rf6+ Bf5 Kh5 Rg7 Rd6 Rg2 Kh6 Ke5 Rd8 Rg3 Rf8 Rg6+ Kh7 Rg1+ Kh6 Rg6+ Kh7 Rg2+ Kh6 Kf4 Rh8 Rg6+ Kh7 Rg2+ Kh6 Rg6+ Kh7 Rg4+ Kh6 Rg1 Rf8 Rg6+ Kh7 Rg3+ Kh8",
-    "duration": 30,
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 Bg5 d5 Bxf6 Bb4+ Nc3 Qxf6 e3 Bxc3+ bxc3 Nd7 cxd5 cxd5 c4 dxc4 Bxe4 Qa6 Ne2 Nf6 Bg2 O-O O-O Bf5 a4 Rac8 Nc3 Bd3 Re1 Qa5 Qd2 Rfd8 Ra2 h5 h4 Rb8 Ne4 Qxd2 Nxf6+ gxf6 Rxd2 Rdc8 Bf1 Bf5 Rb2 c3 Rb4 Bc2 d5 Bf5 Rc1 Kf8 Be2 Bd7 Bb5 Bxb5 Rxb5 a6 Rb6 Rc5 Kf1 Rbc8 d6 Rd5 Ke2 Rd2+ Ke1 Rd3 Rd1 c2 Rc1 Kg7 Rxb7 Rxd6 Rb2 Rdc6 Kd2 Rd8+ Ke1 Rdc8 Kd2 Rd6+ Ke2 Rdc6 Kd3 Rd6+ Ke2 Rdc6 Ke1 Rc5 Kd2 Rd5+ Ke2 Rdc5 Kd3 Rd5+ Ke2 Rdc5 Kd2 Rf5 Ke1 Rfc5 Rb6 a5 Kd2 Rf5 Ke2 Kg6 Rb5 Rxb5 axb5 Rc5 b6 Rb5 Rxc2 Rxb6 Ra2 Ra6 Ra4 f5 Kf3 Kf6 Kf4 Ra7 e4 fxe4 Kxe4 Ra6 f3 Kg6 Ke5 Ra7 Kf4 f5 g4 hxg4 fxg4 fxg4 Kxg4 Ra6 h5+ Kf6 h6 Rb6 Rf4+ Kg6 h7 Kxh7 Kf5 Kh8 Ra4 Kg8 Rxa5 Kh8 Ra7 Kg8 Ra1 Kh8 Ra7 Kg8 Ke5 Kh8 Kd5 Kg8 Ra8+ Kh7",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1769253140.7103658
+  "updated": 1769253464.8324816
 }
