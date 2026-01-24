@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "RaspFish",
+  "rating": 3085,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 385,
-  "timestamp": "2026-01-24T11:52:11.301728",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2026-01-24T11:53:41.184636",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3085,
+    "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "e4 e5 Be2 Nf6 Nf3 Nc6 Nc3 d5 exd5 Nxd5 Bb5 Bg4 h3 Bh5 O-O Nxc3 bxc3 Bd6 d4 O-O Bxc6 bxc6 dxe5 Bxf3 Qxf3 Bxe5 Qxc6 Qd6 Qa4 Bxc3 Ba3 c5 Rad1 Qe5 Bc1 Bd4 Rfe1 Qf6 Be3 Bxe3 Rxe3 Rad8 Rde1 Rd2 Rf3 Qg6 c3 Rd3 Rxd3 Qxd3 Re3 Qb1+ Kh2 Qb8+ g3 g6 Qc4 Qd6 Rd3 Qc6 Rd5 Rc8 a3 Qe6 a4 Qf6 Kg2 Qc6 Qb3 Qe6 c4 Qe4+ Kh2 Qe2 Kg2 Qe4+",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 c6 Nc3 d5 cxd5 cxd5 Bf4 Nc6 e3 Bg4 Nf3 a6 h3 Bxf3 Qxf3 Qb6 Rb1 e6 Bd3 Nb4 Be2 Bd6 O-O Bxf4 Qxf4 Qa5 a3 Nc6 b4 Qxa3 b5 Nd8 Qc7 Qe7 Qa5 O-O Rfc1 g6 Bf1 h5 Bd3 Kg7 Rc2 Re8 g3 Qd6 bxa6 bxa6 Rb6 Qe7 Qa1 Nb7 e4 dxe4 Bxe4 Ra7 Bc6 Rd8 d5 Nd6 dxe6 Nc4 Rxa6 Rxa6 Qxa6 Qxe6 Re2 Ne5 Qb5 Qxc6 Qxe5 Re8 Qd4 Rxe2 Nxe2 Qd7 Qxd7 Nxd7 Kg2 Nc5 Kf3 Kf6 Ke3 Ne6 Nc3 Kf5 Ne4 Ke5 f4+ Kd5 Nf6+ Kd6 f5 Ng7 fxg6 fxg6 Ke4 Ne6 Nxh5 Ng5+ Kf4 Nxh3+ Kg4 Nf2+ Kf4 gxh5 Kg5 Ke7 Kxh5 Kf8 Kh4 Kg8 Kg5 Kh8 g4 Kg8 Kh4 Kh8 Kg5 Kg8 Kf4 Kh8 Kf3 Kg8 Kg3 Kh8 Kf4 Kg8 g5 Kh8 Ke5 Kg8 Ke6 Kh8 Kf7 Ng4 Kf8 Kh7 g6+ Kh6 g7 Nf6 Kf7 Kh7 Kxf6 Kg8 Kg6",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "stalemate"
   },
-  "updated": 1769255531.301871
+  "updated": 1769255621.1847022
 }
