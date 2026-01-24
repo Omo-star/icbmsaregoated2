@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3025,
-  "opponent": "caissa-x",
+  "rating": 3075,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 274,
-  "timestamp": "2026-01-24T08:51:20.710909",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-01-24T08:51:59.917724",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 3025,
-    "rating_after": 3025,
+    "opponent": "CloudNetBot",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bxc3+ bxc3 Nd7 g3 Nc5 Nh4 a6 Bg2 b5 cxb5 axb5 O-O O-O Rb1 Na4 Qc2 Bd7 Nf5 d5 Be3 Nxc3 Qxc3 d4 Bxd4 Nxd4 Nxd4 exd4 Qc5 Re8 Rb4 Rxa3 Rxd4 Ra4 Rd5 Qc8 h4 h6 Re1 Ra6 Rb1 Ra4 Re1 Ra8 Rb1 Ra6 Qd4 Ra4 Qc5 Ra6 Kh2 Ra2 Qd4 Ra4 Qe3 c6 Rc5 Ra3 e5 Qb8 Be4 Qa7 Rb2 f6 Bg6 Re6 Bf5 Rxe5 Rxe5 fxe5 Qxe5 Bxf5 Qxf5 Qa8 Qe6+ Kh8 Rc2 Rxd3 Qxc6 Qxc6 Rxc6 b4 Rb6",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 cxd5 exd5 Qb3 a5 Bg5 O-O e3 c5 dxc5 Be6 Qc2 h6 Bf4 Nbd7 Bd6 Re8 Bb5 b6 O-O Bxc3 bxc3 bxc5 Bf4 Nh5 Be5 Bg4 Bg3 Nxg3 hxg3 Be6 c4 dxc4 a3 Rb8 Bxc4 Qf6 Rac1 Rb2 Qa4 Bxc4 Qxc4 Qb6 g4 Nf6 g5 Ne4 gxh6 Qxh6 Rc2 Rxc2 Qxc2 Qc6 Rc1 Qd7 Nh2 Qd5 Nf1 Rc8 f3 Nd6 Rd1 Qe6 Kf2 c4 Qc3 a4 Ng3 Nf5 Nxf5 Qxf5 Rd4 Qf6 Kf1 g6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769244680.7110198
+  "updated": 1769244719.917854
 }
