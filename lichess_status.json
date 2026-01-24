@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "Alehkine_cat",
+  "rating": 2976,
+  "opponent": "Ultra_Master2000",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2026-01-24T13:11:18.560087",
+  "time_control": "TC: 3+0",
+  "time_left": 120,
+  "timestamp": "2026-01-24T13:15:16.359891",
   "last_game": {
-    "result": "win",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "result": "draw",
+    "opponent": "Ultra_Master2000",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Bc5 a4 Rb8 c3 d6 d4 Bb6 a5 Ba7 h3 Bb7 Be3 Nxe4 d5 Bxe3 dxc6 Nxf2 Qe2 Nxh3+ Kh1 Nf2+ Rxf2 Bxf2 cxb7 Ba7 Bd5 Qd7 Nd4 Qe7 Bc6+ Kf8 Nf3 Qe6 c4 Qh6+ Nh2 Qc1+ Qf1 Qxf1+ Nxf1 b4 Nbd2 f5 Re1 g5 Ne3 Bxe3 Rxe3 g4 Rb3 e4 Kg1 h5 Rxb4 h4 Nf1 g3 Ra4 Rh6 b4 Re6 b5 e3 bxa6 e2 a7 Rxb7 a8=Q+ Kg7 Qxb7 e1=Q Qb2+ Rf6 Ra1 Qe7 a6 d5 a7 Qc5+ Kh1 Qxc6 a8=Q Qe6 Qbb8 f4 Qh8+ Kg6 Qag8+ Qxg8 Qxg8+ Kh6 Ra8 dxc4 Qg4 Rf7 Rg8 Rg7 Rxg7 c3 Qg6#",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 Re1 Bd6 d3 Bf5 Qf3 Qh4 g3 Qh3 Be3 Bxd3 Nd2 Bf5 Bd4 Rfd8 a4 Bg4 Qe4 Rac8 Nf3 Qh5 Ne5 Bxe5 Qxe5 Qxe5 Rxe5 f6 Bxd5+ cxd5 Re3 Bd7 axb5 Bxb5 g4 Re8 Rf3 h6 h3 Rb8 Kh2 Be2 Rf5 Rxb2 Rxd5 Rbb8 Kg3 Bc4 Rd7 Bb5 Rc7 Rbc8 Rxc8 Rxc8 f4 Ra8 Bb6 Rc8 Bd4 Ra8 Bb6 Rb8 Bd4 Ra8",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1769260278.5601578
+  "updated": 1769260516.3599963
 }
