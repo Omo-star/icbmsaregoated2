@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2976,
-  "opponent": "caissa-x",
+  "rating": 3023,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 132,
-  "timestamp": "2026-01-24T12:25:01.905658",
+  "time_control": "TC: 10+0",
+  "time_left": 382,
+  "timestamp": "2026-01-24T12:36:23.507026",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2976,
-    "rating_after": 2976,
+    "opponent": "Lili-ai",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 a6 Nf3 b5 h4 h6 e5 e6 Bd3 Nd7 a4 bxa4 O-O Ne7 Rxa4 Bb7 Re1 Bc6 Ra3 dxe5 Nxe5 Nxe5 dxe5 Bxe5 Ra5 Bd6 h5 Nf5 g3 O-O hxg6 fxg6 Qg4 Qe8 Bc5 Qf7 Rxe6 Kh7 Qc4 Rae8 Rxe8 Qxc4 Bxc4 Rxe8 f4 Re1+ Kf2 Rc1 Bd3 Bb5 Bxd6 Bxd3 cxd3 Rc2+ Kf3 Nxd6 Rxa6 Rd2 Ke3 Rxb2 Ra7 Rb7 Rxb7 Nxb7 Nb5",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 c3 a5 Nbd2 O-O h3 Be6 Bb5 h6 Re1 Qb8 Bxc6 bxc6 d4 exd4 cxd4 Bb6 Nf1 d5 e5 Ne4 Be3 a4 Rb1 Qe8 Rc1 a3 b4 Qe7 Bd2 Nxd2 Qxd2 Ra4 Rb1 Rb8 Ne3 Ba7 Nc2 Bf5 g4 Bxc2 Qxc2 Raxb4 Rxb4 Qxb4 e6 fxe6 Qxc6 Rf8 Rxe6 Qb1+ Kg2 Qxa2 Re8 Rxe8 Qxe8+ Kh7 Qh5 Kg8 Qe8+ Kh7",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769257501.9057794
+  "updated": 1769258183.507172
 }
