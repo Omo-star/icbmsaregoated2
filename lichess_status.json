@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "OlympusCz",
+  "rating": 3074,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 148,
-  "timestamp": "2026-01-23T13:16:29.664205",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 21,
+  "timestamp": "2026-01-24T07:16:42.188960",
   "last_game": {
     "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "opponent": "Lili-ai",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O Re1 h6 h3 a5 Nbd2 Be6 Bb5 Bb6 b3 Nd7 Nc4 f5 exf5 Bxf5 d4 e4 Nh2 Ne7 f3 d5 Nxb6 Nxb6 Ba3 Rf7 Bc5 Nd7 fxe4 Bxe4 Rxe4 Nxc5 Re5 c6 dxc5 cxb5 Nf3 Qc7 b4 axb4 cxb4 Rxf3 Rxe7 Qxe7 Qxf3 Qe5 Rd1 Rxa2 Qxd5+ Qxd5 Rxd5 Rb2 Rd7 Rxb4 Rxb7 Kh7 Rb6 Rb1+ Kf2 b4 Ke3 b3 c6 b2 c7 Rc1 Rxb2 Rxc7 g3 h5 g4",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Qc7 h3 Rc8 Qb1 Qb8 Rd1 Kf8 Rd2 Qc7 Rc2 Qb8 Rd2 b6 Qh7 Qe5 Qc2 Ne7 Qd1 Nd5 Nd4 a5 Qe1 Nf6 Rd1 Qc5 Ba6 Rc7 Bf1 Qe7 Rb1 Qc5 Rd1 Ba4 Rb1",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769174189.6643224
+  "updated": 1769239002.1890836
 }
