@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3081,
-  "opponent": "Lili-ai",
+  "rating": 2975,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 27,
-  "timestamp": "2026-01-24T10:40:36.778589",
+  "time_control": "TC: 3+0",
+  "time_left": 123,
+  "timestamp": "2026-01-24T10:43:10.526011",
   "last_game": {
     "result": "draw",
-    "opponent": "Lili-ai",
-    "rating_before": 3081,
-    "rating_after": 3081,
+    "opponent": "Alehkine_cat",
+    "rating_before": 2975,
+    "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O Re1 Bb6 Nbd2 Ng4 Rf1 Kh8 h3 f5 exf5 Nxf2 Rxf2 d5 d4 exd4 Bb5 Bxf5 Bxc6 dxc3 bxc3 Bxf2+ Kxf2 Qd6 Qa4 Qc5+ Kg3 Qd6+ Kf2 Qc5+ Kg3 Qd6+ Kf2",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "d4 d5 c4 c6 cxd5 cxd5 Bf4 Nc6 e3 Nf6 Bd3 Bg4 Nf3 e6 O-O Bd6 Bxd6 Qxd6 Nbd2 O-O Rc1 Rac8 h3 Bxf3 Nxf3 h6 a3 Rc7 Qa4 Rfc8 Rc3 a6 Rfc1 Ne7 Rxc7 Rxc7 Rc2 Nc8 Qa5 Rxc2 Bxc2 Qb6 Qc5 Qd8 Nd2 Nd7 Qc3 Nd6 Nb3 Kf8 Bd3 Qc8 Nc5 Ke7 f3 Qc7 Kf2 f6 Ke2 g5 g3 f5 g4 a5 Ne4 Qxc3 Nxc3 Nf6 Ke1 Kf7",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769251236.7786834
+  "updated": 1769251390.526181
 }
