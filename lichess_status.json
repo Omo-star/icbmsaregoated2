@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3024,
-  "opponent": "PositionalAI",
+  "rating": 3079,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 597,
-  "timestamp": "2026-01-25T10:18:38.352159",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-01-25T10:19:24.949690",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3024,
-    "rating_after": 3024,
+    "opponent": "abdcebot",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Nbd2 dxc4 Qc2 b5 a4 c6 Bg2 Bb7 O-O O-O b3 c5 bxc4 bxc4 Nxc4 cxd4 Rd1 Be4 Qb3 Nc6 Bb2 Bc5 Qb5 Qd5 Ne3 Qd6 Nc4 Qd5 Ne3 Qd6 Nc4 Qd5 Ne3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 g6 d4 d6 Nc3 Nf6 Be3 a6 h3 Nbd7 Nf3 e6 e5 Nd5 Nxd5 exd5 h4 Bg7 exd6 cxd6 h5 O-O h6 Bh8 Bd3 Nf6 c3 Bd7 O-O Ne4 Re1 Re8 a4 f5 c4 Be6 Qb3 dxc4 Bxc4 d5 Bd3 Bf6 a5 Re7 Qb6 Qxb6 axb6 Rf7 Rac1 Bd8 Bxe4 fxe4 Ng5 Re7 Rc7 Bxc7 bxc7 Bd7 Bf4 Ree8 Re3 a5 Rc3 Rf8 Be5 Rf5 f4 exf3 Nxf3 Rc8 Bg3 Bc6 Nh2 g5 Ng4 Kf8 b3 Ke7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769336318.3522503
+  "updated": 1769336364.9498718
 }
