@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3023,
-  "opponent": "PositionalAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 480,
-  "timestamp": "2026-01-25T08:10:11.253200",
+  "opponent": "Nimfish",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 5+9",
+  "time_left": 593,
+  "timestamp": "2026-01-25T08:19:45.226509",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
+    "opponent": "Nimfish",
     "rating_before": 3023,
     "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Qc7 Be3 a6 Qf3 Nf6 O-O-O Ne5 Qg3 b5 f4 Neg4 Bg1 h5 Bd3 h4 Qf3 Bb7 Kb1 Nh6 Bf2 Bc5 Rhe1 Qb6 Be2 d6 Qd3 e5 Ndxb5 axb5 Qxb5+ Nd7 Bxc5 Qxc5 Qxb7 Rb8 Qd5 Qxc3 Bb5 Qb4 a4 Ke7 c3 Qc5 Qxc5 Nxc5 fxe5 dxe5 b4 Ne6 Rd7+ Kf6 Kc2 Rhc8 Ba6 Rc7 Rxc7 Nxc7 Bf1 Ke7 Kb3 f6 Bc4 Nf7 Bxf7 Kxf7 Rd1 Ke7 c4 Ne6 b5 Nd4+ Kb4 f5",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 f5 exf5 Rxf5 c3 Rf8 f4 c6 g3 g5 f5 Nd6 Ne3 b5 Nf3 b4 Nxg5 Qb5 Rf4 a5 Bg2 Rb8 c4 Qa6 Bf1 a4 c5 Nb5 Nc4 Kc7 Be3 Nb7 Kd1 Rbe8 Ke1 a3 bxa3 Qa8 Nb6 Qxa3 Bxb5 cxb5 Kf2 Rd8 Rxb4 Bxa1 Rxb5 Qxa2 Qe4 e5 g4 Qa6 Qb4 Bd4 Bxd4 exd4 Ne4 Rde8 Nd6 Qa1 Nd5+ Kc6 Nxe8 Rxe8 Ne7+ Rxe7 Rb6+ Kd5 Qb3+ Ke5 Qg3+ Kd5 Qb3+ Ke5 Qg3+ Kd5 Qb3+",
+    "duration": 993,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769328611.2533798
+  "updated": 1769329185.2267292
 }
