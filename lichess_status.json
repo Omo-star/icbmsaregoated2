@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "Alehkine_cat",
+  "rating": 3022,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 133,
-  "timestamp": "2026-01-25T12:04:28.449608",
+  "time_control": "TC: 10+0",
+  "time_left": 296,
+  "timestamp": "2026-01-25T12:15:27.633001",
   "last_game": {
     "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "opponent": "RaspFish",
+    "rating_before": 3022,
+    "rating_after": 3022,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Re1 Bf5 Qb3 Qd7 Nc3 Nxc3 Bxf5 Qxf5 bxc3 b6 cxd5 cxd5 Qb5 Qd7 Rb1 Rd8 g3 Qxb5 Rxb5 Na6 Bd2 Nc7 Rb2 b5 Reb1 a6 Kf1 Rdc8 Ra1 Rab8 Rb3 a5 a4 b4 Rc1 Na6 Ke2 f6 Nh4 g6 Ng2 Kf7 Ne3 bxc3 Rbxc3 Rxc3 Rxc3 Nb4 Rc1 Ke6 Rc3 Re8 h4 h5 Kf3",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 e3 d5 b3 c5 dxc5 Bxc5 a3 O-O Nf3 b6 Bb2 dxc4 Bxc4 Qxd1+ Kxd1 Be7 Nbd2 Nbd7 Ke2 Bb7 Rhc1 Rfc8 g3 a6 b4 h5 Nd4 a5 bxa5 bxa5 a4 Nc5 Bb5 Nd5 N4b3 Nxb3 Nxb3 Bb4 Bd4 Nc3+ Bxc3 Bxc3 Ra2 Bb4 Rac2 Rxc2+ Rxc2 Rd8 f4 Be4 Rc1 Ba3 Rc7 Bd6 Rc3 Bb4 Rc1 Ba3 Rc3 Bb4 Rc7 Bd6 Rc3 Bb4",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769342668.4497643
+  "updated": 1769343327.633108
 }
