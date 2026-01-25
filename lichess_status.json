@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "CloudNetBot",
+  "rating": 3023,
+  "opponent": "Ultra_Master2000",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 89,
-  "timestamp": "2026-01-25T12:32:06.201196",
+  "time_control": "TC: 10+0",
+  "time_left": 57,
+  "timestamp": "2026-01-25T12:51:18.886007",
   "last_game": {
-    "result": "win",
-    "opponent": "CloudNetBot",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "result": "draw",
+    "opponent": "Ultra_Master2000",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 c6 Bf4 Qb6 b3 d6 a4 a5 h3 Nd5 Bc1 Bf5 e3 Nd7 Bd3 Bxd3 Qxd3 e5 Ba3 Be7 Nbd2 Qc7 c3 O-O Qc2 Rae8 O-O f5 dxe5 dxe5 Bxe7 Rxe7 e4 fxe4 Nxe4 N7f6 Nfd2 Nf4 Rae1 Qd7 Kh2 N6d5 Rg1 Qf5 Nc4 Re6 Ne3 Qh5 Ng4 Qf5 Ne3 Qh5 Ng4 Qf5 f3 h5 Ngf2 Rg6 b4 axb4 cxb4 Kh8 Qb2 Nxg2 Rxg2 Rxg2+ Kxg2 Qxf3+ Kh2 Ne3 Rxe3 Qxe3 Kg2 Rf4 Qc2 g5 b5 g4",
-    "duration": 260,
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Bd7 Kb1 Nxd4 Qxd4 Be7 f3 Qc7 Qd2 b5 h4 h6 Be3 h5 Bd3 b4 Ne2 a5 Rc1 O-O c4 Rfe8 Rhd1 Rac8 Rg1 a4 g4 hxg4 h5 Qb7 Nf4 Bc6 Rce1 Bd8 Qf2 Rb8 Ref1 Ra8 Rg3 Rc8 Rgg1 Rb8 Qg3 Ra8 Rf2 Ra5 h6 g6 h7+ Kh8 Rh2 Qe7 Rh6 Rg5 Nh3 Rh5 Rxh5 Nxh5 Qxg4 b3 a3 e5 c5 Bd7 Qg2 Qe6 Ng5 Bxg5 Qxg5 dxc5 Be2 c4 Bd2 Bb5 Bc3 Qf6 f4 Qxg5 Rxg5 Nxf4 Rxe5 Kxh7 Rxe8 Bxe8 Bxc4 Nh3 Kc1 Nf2 Bd5 Ng4 Kd2 Kh6 Bc4 Nf2 Bd5 Ng4 Bc4 Nf2 Bd5 Kg5 Be5 Ng4 Bg3 f6 Be6 Ne5 Ke3 Kh5 Kd4 Nf3+ Ke3 Ne5 Kd4 Nc6+ Ke3 Ne5",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "timeout"
+    "termination": "draw"
   },
-  "updated": 1769344326.2013135
+  "updated": 1769345478.886154
 }
