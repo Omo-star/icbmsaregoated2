@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "Bot1nokk",
+  "rating": 2990,
+  "opponent": "Fruity23",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 25,
-  "timestamp": "2026-01-26T08:26:31.075945",
+  "time_control": "TC: 3+1",
+  "time_left": 135,
+  "timestamp": "2026-01-26T08:31:12.249752",
   "last_game": {
     "result": "draw",
-    "opponent": "Bot1nokk",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "opponent": "Fruity23",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kg3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "d4 f5 Bg5 h6 Bh4 g5 e3 Bg7 Bg3 c5 c3 Qb6 Na3 cxd4 Nc4 Qe6 cxd4 Nf6 Ne5 O-O Ngf3 Ne4 Nd2 Nd6 Ndf3 Ne4 Rc1 d5 Bd3 f4 exf4 gxf4 Bh4 Nc6 Bb1 Bxe5 Nxe5 Nxe5 dxe5 Qxe5 O-O Bf5 Rc2 e6 f3 Ng5 Re2 Qg7 Bxf5 Rxf5 Qd3 Re5 Rxe5 Qxe5 Bf2 Qg7 Kh1 Rd8 Bxa7 e5 Re1 d4 Bb6 Rd5 Rc1 Ne6 h3 Qh7 Rc8+ Kg7",
+    "duration": 250,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769415991.076008
+  "updated": 1769416272.2498512
 }
