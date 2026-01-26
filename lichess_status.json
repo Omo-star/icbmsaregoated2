@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 10+0",
   "time_left": 598,
-  "timestamp": "2026-01-26T13:52:55.373117",
+  "timestamp": "2026-01-26T13:53:09.194524",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "Bookinist_1",
     "rating_before": 3030,
     "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 dxe5 Nxb5 a4 Nbd4 Nxd4 d5 exd6 Nxd4 Qxd4 Qxd6 Qe4+ Qe6 Qd4 Qd6 Qe4+ Qe6 Qd4 Qd6",
+    "moves": "e4 e5 Nf3 Ba3",
     "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1769435575.373218
+  "updated": 1769435589.194605
 }
