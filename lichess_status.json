@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "Ultra_Master2000",
+  "rating": 3023,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 115,
-  "timestamp": "2026-01-26T07:22:39.542277",
+  "time_control": "TC: 10+0",
+  "time_left": 592,
+  "timestamp": "2026-01-26T07:23:05.131422",
   "last_game": {
-    "result": "win",
-    "opponent": "Ultra_Master2000",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "result": "draw",
+    "opponent": "PositionalAI",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 e6 c4 Nf6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Ke7 Ke2 Bxd4 exd4 Rxd4 Rc1 Bb5+ Ke1 a6 Bc6 f5 Rc5 Bc4 Ra5 g5 Bb7 Rd6 Bf3 Rd4 Bb7 Rd6 Bf3 Bb5 Be2 Rb6 Kd2 g4 f4 gxf3 gxf3 e5 f4 exf4 Bxb5 axb5 Ke2 Kf6 Kf3 Kg5 h4+ Kxh4 Kxf4 h5 a4 bxa4 Rxa4 Rb5 Ra1 Rxb4+ Kxf5 Kg3 Kg5 Rb5+ Kh6 h4 Ra3+ Kg2 Ra4 h3 Ra2+ Kf1 Ra1+ Kg2 Ra2+ Kg3 Ra3+ Kh4 Ra4+ Kg3 Ra3+ Kg4 Ra4+ Kf5 Ra2 Kg4 Ra4+ Kf5 Ra2 Rb8 Ra5+ Ke4 Ra4+ Kf3 Ra3+ Kf4 Ra4+ Kf5 Ra5+ Kf6 Kh7 Rb7+ Kh6 h2 Ra6+ Ke5 Ra5+ Kf4 Ra4+ Kf3 Ra3+ Ke4 Ra4+ Ke3 Ra3+ Kf2 Ra2+ Kg3 Ra3+ Kg4 Ra4+ Kg3 Ra3+ Kg2 Ra2+ Kh3 Ra3+ Kg4 Ra4+ Kf3 Ra3+ Kf4 Ra4+ Ke3 Ra3+ Ke4 Ra4+ Kd5 Ra5+ Kd4 Ra4+ Kd3 Ra3+ Kd4 Ra4+ Ke5 Ra5+ Ke6 Ra6+ Kf5 Ra5+ Ke6 Ra6+ Kd5 Ra5+ Kc4 Ra4+ Rb4 Ra1 Rb8 Rh1 Kd3 Kg5 Rh8 Kf4 Ke2 Kg3 Rg8+ Kf4 Rf8+ Kg4 Rh8 Kg3 Rg8+ Kf4 Rg2 Rc1 Kf2 Rc2+ Ke1 Rc1+ Ke2 Rb1 Kf2 Rb2+ Ke1 Rb1+ Ke2 Rb2+ Kd3 Rb3+ Kd2 Rb1 Kd3 Rb3+ Kc2 Rh3 Kd1 Kf3 Ra2 Rh8",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Kh3 Ra8 Kg2 Ra6 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Re2 Rb1 Kh2 Kg7 Bh3 Kg6 Kg2 Kf6 f3 Nd6 Kg3 Rg1+ Kh2 Rb1 Kg3 Rg1+ Kf2 Rb1 Kg3",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1769412159.5423374
+  "updated": 1769412185.131526
 }
