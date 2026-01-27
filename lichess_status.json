@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2985,
-  "opponent": "YoBot_v2",
+  "opponent": "PestoPasta-Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 79,
-  "timestamp": "2026-01-27T10:40:29.644339",
+  "time_control": "TC: 3+2",
+  "time_left": 124,
+  "timestamp": "2026-01-27T10:45:50.814573",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
+    "result": "win",
+    "opponent": "PestoPasta-Bot",
     "rating_before": 2985,
     "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 d6 Nc3 g6 e4 Bg7 Nf3 O-O Be2 Bg4 Ng1 Bxe2 Ngxe2 c5 d5 b5 cxb5 a6 bxa6 Nxa6 O-O Qa5 Rb1 Rfb8 Bg5 h6 Bd2 Qb4 f3 Nc7 b3 Nd7 Rc1 Qa3 Be3 Nb5 Nxb5 Rxb5 Rc2 c4 Rxc4 Qxa2 Nd4 Rc5 Rxc5 Nxc5 b4 Ra3 Rf2 Qc4 Nc2 Rd3 Qf1 Nb3 Ne1 Rc3 Qxc4 Rxc4 Nc2 f5 exf5 gxf5 g3 Rc3 Re2 Kf7 b5 Nc5 Nb4 Bf6 Nc6 Rb3 Kg2 Rxb5 Bd4 Rb1 Bxf6 Kxf6 Rxe7 Rd1 Rh7 Kg6 Rh8 Kg7 Rd8 Rxd5 Kf2 Ne6 Rd7+ Kf6 Nb4 Rd2+ Ke3 Rd4 Nc6 f4+ gxf4 Rd3+ Kxd3 Nc5+ Ke3 Nxd7 Nd4 Nb6 Ne2 Nd5+ Ke4 Ne7 Ng3 d5+ Kd4 Ke6 h3 Nf5+ Nxf5 Kxf5 Kxd5 Kxf4",
-    "duration": 300,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Bd6 c3 Nf6 O-O O-O Re1 Re8 d4 b5 Bc2 Bb7 Nbd2 Rb8 h3 exd4 cxd4 Bb4 e5 Nd5 a3 Ba5 b4 Bb6 Ne4 d6 Bg5 Nce7 Qd3 dxe5 dxe5 h6 Bxe7 Rxe7 Rad1 c6 Nc5 g6 e6 f5 Nd7 Rxd7 exd7 Qxd7 Qe2 Kh7 Qe6 Qxe6 Rxe6 Nf4 Re7+ Kg8 Rdd7 Kf8 Rh7 Kg8 Ne5 Bxf2+ Kxf2 Bc8 Bb3+ Nd5 Rdg7+ Kf8 Nxg6+ Ke8 Rh8#",
+    "duration": 326,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1769510429.644452
+  "updated": 1769510750.8146322
 }
