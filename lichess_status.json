@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3070,
-  "opponent": "Wilaret",
+  "opponent": "AlPhAbEtACeta",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 36,
-  "timestamp": "2026-01-27T06:29:54.672870",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2026-01-27T07:17:44.070521",
   "last_game": {
-    "result": "win",
-    "opponent": "Wilaret",
+    "result": "draw",
+    "opponent": "AlPhAbEtACeta",
     "rating_before": 3070,
     "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 e5 Qh5 Nc6 Qf3 d5 exd5 Nd4 Qd3 Bf5 Qxf5 Nxf5 f4 Nd4 Bb5+ Nxb5 fxe5 Qxd5 d3 Qxg2 Bg5 Qxh1 Nc3 Qxg1+ Ke2 Nd4+ Kd2 Qxg5+ Ke1 Qg2 Kd1 Bc5 Ke1 Nf3+ Kd1 Qd2#",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "c3 e5 d4 exd4 cxd4 d5 Bf4 c5 e3 cxd4 Qxd4 Nc6 Bb5 Be7 Qd2 Nf6 Nc3 O-O Nge2 Qb6 O-O Rd8 Rfd1 Ne4 Qe1 Be6 Rab1 Bf5 Rbc1 Bf6 Ba4 Nxc3 Nxc3 Qa5 Bxc6 bxc6 h3 h6 Qd2 Be7 Qe2 Rac8 Qf3 Bg6 Rd2 Qa6 a3 Qb7 Na4 Qb5 Nc3 Qb3 Qg4 Kh7 h4 h5 Qf3 Qb7 Bg5 f6 Bf4 Bf7 Rcd1 Rd7 e4 d4 Rxd4 Rxd4 Rxd4 Qxb2 Ra4 Bg6 Rxa7 Bc5 Rd7 Ra8 Bc7 Be8 Rd3 Bg6 a4 Bb4 Ne2 Ra7 Bb8 Rxa4 Nf4 Bd2 Nxg6",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1769495394.6729424
+  "updated": 1769498264.0706227
 }
