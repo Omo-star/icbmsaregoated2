@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "goofygooberbot104",
+  "rating": 3029,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-01-27T08:32:11.926018",
+  "time_control": "TC: 10+0",
+  "time_left": 348,
+  "timestamp": "2026-01-27T08:42:23.209374",
   "last_game": {
     "result": "draw",
-    "opponent": "goofygooberbot104",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "opponent": "RaspFish",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "e4 e5 a3 Nf6 Nc3 Nc6 Nf3 d5 exd5 Nxd5 Bb5 Nxc3 bxc3 Bd6 d4 Bd7 O-O O-O Rb1 Re8 Re1 h6 dxe5 Nxe5 Nxe5 Bxb5 Rxb5 Rxe5 Rbxe5 Bxe5 Qf3 Bf6 g3 c6 Re4 Be7 a4 b6 Kg2 Qd7 Rd4 Qc8 Be3 Qe6 Re4 Qd7 Rd4 Qe6 Re4 Qd7 Rg4 f5 Rd4 Qe6 Rd2 Re8 h4 Bf6 Rd3 Rf8 Bd4 Be7 Re3 Qd7 Rd3 Qe6 Re3 Qd7 Rd3 Qe6",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1769502731.9260924
+  "updated": 1769503343.2094684
 }
