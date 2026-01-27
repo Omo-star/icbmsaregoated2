@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "Bharat_royals",
+  "rating": 2985,
+  "opponent": "goofygooberbot104",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 33,
-  "timestamp": "2026-01-27T08:31:14.453393",
+  "time_control": "TC: 3+0",
+  "time_left": 180,
+  "timestamp": "2026-01-27T08:32:11.926018",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "opponent": "goofygooberbot104",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Be2 Rc3 Ke1 Kd6 Kd2 Rc2+ Ke3 Rc3+ Kd2 Rc2+ Ke3 Rc3+ Kd2",
-    "duration": 73,
+    "moves": "e4",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1769502674.4535055
+  "updated": 1769502731.9260924
 }
