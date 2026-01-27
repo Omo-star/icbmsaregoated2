@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "caissa-x",
+  "rating": 3070,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 131,
-  "timestamp": "2026-01-27T09:49:08.760416",
+  "time_control": "TC: 1+1",
+  "time_left": 65,
+  "timestamp": "2026-01-27T09:50:32.791974",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "opponent": "YoBot_v2",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 a3 Ba5 Qxd4 Rd8 Qc5 Qxc5 Nxc5 Nd7 Nb3 Bb6 a4 Nf6 Be2 Bd7 a5 Ba4 Nfd4 Bxd4 Nxd4 Rab8 g3 Be8 Rc2 Nd5 Rfc1 e5 Nf5 Kf8 g4 Ba4 Rd2 Ne7 Rxd8+ Rxd8 Nxe7 Kxe7 Bf3 b6 Kg2 Be8 Kg3 Rd2 Rc7+ Rd7 axb6 axb6 Rc6 Rd6 Rc7+ Rd7 Rc6 Rd6 Rc7+ Rd7",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 dxc4 e4 h6 Bxf6 Qxf6 Bxc4 c5 O-O cxd4 e5 Qd8 Ne4 Nc6 Qc1 O-O Qf4 Be7 Rfe1 Bd7 a3 Rc8 Ba2 Qc7 Rac1 Qb8 b4 a6 h4 f6 Qd2 Nxe5 Nxd4 Kh8 Bxe6 Rfd8 Rxc8 Bxc8 Qc2 a5 bxa5 Bxa3 Ra1 Re8 Bxc8 Rxc8 Qb3 Bf8 Ne6 Ng4 Qg3 Qxg3 Nxg3 Bc5 Nxc5 Rxc5 Ne4 Rd5 f3 Ne3 Kf2 Nf5 h5 Ne7 Rb1 Ng8 Rxb7 Rxa5 Nd6 Rxh5 g4 Ra5 Nf5 h5 Nxg7 hxg4 fxg4 Rg5 Nf5 Rxg4 Ne3 f5",
+    "duration": 150,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769507348.7605152
+  "updated": 1769507432.7920702
 }
