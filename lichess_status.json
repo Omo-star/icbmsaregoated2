@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "startback",
+  "rating": 3069,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 6,
-  "timestamp": "2026-01-28T14:30:38.873888",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2026-01-28T14:32:28.426025",
   "last_game": {
-    "result": "loss",
-    "opponent": "startback",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "result": "draw",
+    "opponent": "BorkaTower",
+    "rating_before": 3069,
+    "rating_after": 3069,
     "rating_delta": 0,
-    "moves": "d4 c6 e4 a6 Nd2 d5 Ngf3 Bg4 c3 dxe4 Nxe4 Nd7 h3 Bxf3 Qxf3 e6 Bd2 Ngf6 Nxf6+ Qxf6 Qg3 Qd8 Bc4 Nf6 Qf3 Be7 O-O-O Nd5 Kb1 b5 Bd3 h5 Qe4 Rb8 Bc2 g6 Bc1 Qd6 g3 a5 Rhe1 Bf6 f4 Kd8 Qf3 Kc7 Re2 Kb7 Be4 Ka7 Rc2 Be7 Qf2 Qc7 Bg2 Bd6 Rf1 Qd7 Qe2 Rhc8 g4 hxg4 hxg4 Rh8 Qf3 Rhc8 Qe2 Rh8 Qf3 Rbc8 a3 Nb6 Rd1 Rc7 Re1 Rcc8 Ka1 Nc4 Bf1 Nb6 Bg2 Rhe8 Be3 Rc7 Qf2 Kb7 Qf1 Ka7 Qf2 Rb8 Bc1 Rcc8 Be4 Rg8 Qg2 Rbc8 Qf3 Kb8 f5 exf5 gxf5 g5 Rg2 f6 Rge2 g4 Qg2 Rg7 Bd3 Nd5 Re6 Bf4 Be4 Bxc1 Rxc1 g3 Qf1 Re8 Bxd5 cxd5 Rb6+ Kc7 Rxf6 g2 Qf4+ Kb7 Rg1 Ree7 Rf8 Re8 Rxe8 Qxe8 Qf2 Qf7 a4 bxa4 Ka2 Qc7 f6 Rf7 Rxg2 Qc4+ Ka1 Ka6 Qf5 Qc6 Qd3+ Kb6 Rg8 a3 Rb8+ Ka7 Rb5 axb2+ Kxb2 Qc7 Qf5 Qh2+ Kb3 Qe2 Rxa5+ Kb6 Rxd5 Rb7 c4 Qd1+ Kc3 Qc1+ Kd3 Qd1+ Ke3 Qe1+ Kf4 Rc7 f7 Qh4+ Kf3 Qh1+ Ke2 Qh2+ Kd3 Qg3+ Kd2 Qg2+ Kc3 Qg3+ Qd3 Qxd3+ Kxd3 Rc5",
-    "duration": 370,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 Nc6 d4 e5 d5 Nce7 Nf3 d6 c4 Ng6 h4 Be7 h5 Nf8 c5 h6 Bb5+ Bd7 Qb3 Nf6 Nc3 a6 Be2 Bc8 Qc2 N8h7 cxd6 Bxd6 Nd2 O-O Nc4 Re8 Nxd6 Qxd6 f3 c6 dxc6 Qxc6 Be3 b5 Qd2 Be6 Rc1 Rac8 b3 Red8 Qb2 Qb7 Nd1 Rxc1 Qxc1 Rc8 Qb2 Nd7 Bd3 Rc6 O-O Qc7 Nf2 f6 Rc1 Rxc1+ Qxc1 Qxc1+ Bxc1 Ng5 Be2 Bf7 g4 Ne6 Nd1 Nb8 Kf2 Nc6 Ba3 Ncd4 Bf1 Ng5 Bg2 Nc2 Bd6 Ne6 Bf1 Nf4 Bc5 Be8 Nc3 Bf7 Nd1 Be8 Kg3 Bc6 Bb6 Bd7 Ba5 Kf7 Bd2 Ne6 Bd3 Ncd4 Bf1 Nc2 Bd3 Ncd4 Bf1 Nc2 Bd3",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1769610638.8740952
+  "updated": 1769610748.4261308
 }
