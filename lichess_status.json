@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3027,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 177,
-  "timestamp": "2026-01-28T10:00:31.489515",
+  "time_control": "TC: 10+0",
+  "time_left": 466,
+  "timestamp": "2026-01-28T10:05:46.229329",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "opponent": "CloudNetBot",
+    "rating_before": 3027,
+    "rating_after": 3027,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe3 Nd6 Nb3 b6 Qf3 Be4 Qg3 Bh4 Qg4 Bf5 Qf3 Be4 Qg4 Bf5 Qf3 Be4 Qg4 Bf5",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "c4 c6 d4 Nf6 Nc3 d5 Nf3 e6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 g3 Rg8 h4 Rxg5 hxg5 Nd5 g6 fxg6 Qg4 Qe7 Bg2 Kd8 Qxg6 Rb8 Bxd5 exd5 O-O-O b4 Ne2 Bg7 Qxc6 c3 Nf4 Rb6 Qxd5 cxb2+ Kxb2 b3 Qa5 bxa2+ Ka1 Bb7 Rhe1 Bh6 e6 Nf6 Qxa7 Qc7 e7+ Kd7 Qa4+ Bc6 Qc2 Rb1+ Rxb1 axb1=Q+ Kxb1 Qb8+ Ka1 Qa7+ Kb1 Qb8+ Ka2 Qa7+ Kb2 Qxd4+ Ka2 Qa7+ Kb1 Qb8+ Kc1 Bxf4+ gxf4 Qxf4+ Qd2+",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769594431.4896016
+  "updated": 1769594746.2294905
 }
