@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3065,
-  "opponent": "Moment-That-Inspires",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2026-01-28T12:02:49.786606",
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 44,
+  "timestamp": "2026-01-28T12:06:00.497082",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
+    "opponent": "is_BOSS",
     "rating_before": 3065,
     "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a6 a4 O-O Nbd2 Be6 b4 Ba7 Bxe6 fxe6 Ra2 h6 Re1 Ne7 h3 Ng6 d4 exd4 cxd4 Qd7 Nf1 c5 bxc5 dxc5 Ba3 Rf7 Rd2 cxd4 Nxd4 Kh7 Nh2 Qe8 Nhf3 e5 Nf5 Qe6 Kh2 Rb8 a5 b5 Bb4 Rd7 Rxd7 Nxd7 Qc2 Qc4 Qd2 Nf6 Rc1 Qxe4 Nxg7 Rb7 Ne6 Qd5 Qxd5 Nxd5 Bc5 e4 Nd2 e3 fxe3 Nxe3 Bxa7 Rxa7 Rc7+ Rxc7 Nxc7 Ne5 Nxa6 N3c4 Nxc4 Nxc4 Nc7 Nxa5 Nxb5 Nc6 g3 Kg6 g4 h5 gxh5+ Kxh5 Nc7 Nd4 Ne8 Ne2 Ng7+ Kg5 Ne8 Nf4 Ng7 Nxh3 Ne8 Kf4 Ng7 Kf3 Ne8 Ng1 Ng7 Ne2 Ne8 Ng3 Ng7 Ke2 Ne8 Kf2 Ng7 Nh5 Ne8 Ng3 Ng7 Nf1+ Kh3 Nd2 Ne8 Nf3 Ng7 Ng5+ Kh4 Kg2 Ne8 Nh7 Ng7 Ng5 Ne8 Ne6 Ng7 Ng5 Ne8",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 f6 f4 c5 Ng3 Bf7 Be3 Ng6 O-O O-O Na3 Bb6 c3 Nc6 Qb1 Rcd8 b3 Qb8 Nc4 Bc7 f5 Nh4 Bf2 e6 Ne3 exf5 exf5 d5 Bh5 Bf4 Bxf7+ Rxf7 Nh5 Bg5 Ng4 Qc8 Bxh4 Bxh4 Nf4 Bg5 Ne6 Re8 Qd3 h5 h4 Bxh4 Ne3 Ne5 Qe2 Rxe6 fxe6 Qxe6 Qxh5 Bg5 Qh3 Qxh3 gxh3 Rd7 Rcd1 Nd3 Kh2 d4 Ng4 Bh4 Rf5 b6 Rg1 Kf7 Rf3 dxc3 dxc3 Ne1 Rf4 Rd2+ Kh1 Re2 Nh2 Bf2 Rxf2 Rxf2 Rxe1 Rxa2 c4 a5 Nf1 Rc2 Rb1 Rc3 Kg2 g5 Kf2 Rxh3 Ne3 Kg6 Nd5 f5 Nxb6 f4 Nd7 Rh2+ Kg1 Rd2 Nxc5 g4 Ne4 Rc2 Re1 a4 bxa4 Rxc4 Nf2 Rxa4 Nxg4 f3 Nf2 Ra2 Nd1 f2+ Nxf2 Kh7 Ng4 Kh8 Nh6 Kh7 Ng8 Kh8 Ne7 Kh7 Ng8 Kh8 Ne7 Kh7 Ng8 Kh8",
+    "duration": 268,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769601769.7866695
+  "updated": 1769601960.497144
 }
