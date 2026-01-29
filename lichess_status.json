@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 182,
-  "timestamp": "2026-01-29T15:22:15.778591",
+  "rating": 2983,
+  "opponent": "Mr-Best",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 3+0",
+  "time_left": 127,
+  "timestamp": "2026-01-29T17:34:00.076796",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "result": "win",
+    "opponent": "Mr-Best",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Kh2 Rfe8 Bc3 Bb4 Bxb4 Qxb4 a3 Qb3 Qxb3 axb3 d4 exd4 Nxd4 c5 Nxe6 fxe6 Rc3 Ra4 f4 Nb6 Rxb3 Rxc4 f5 exf5 Nxf5 Re6 Rg3 g5 b3 Rcxe4 Rxe4 Rxe4 Nxh6+ Kg7 Ng4 c4 bxc4 Kg6 Rf3 Nxc4 Rf6+ Kg7 Rf5 Kg6 Rf6+ Kg7 Rf5 Kg6 Rf6+",
-    "duration": 263,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nc3 e6 d4 Nc6 Nh3 Qh4 g3 Nb4 Ng5 f5 Nd5 Qe4 Nxe4 Nxc2+ O-O-O Bb4 d5 c5 dxe6 Bd2+ Kb1 Ne7 e4 c4 e5 b6 e6 d6 f4 Bb7 Rg1 Rc8 g4 c3 b3 c2+ Kb2 Bc1+ Ka1 Bb2+",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1769700135.7786927
+  "updated": 1769708040.076859
 }
