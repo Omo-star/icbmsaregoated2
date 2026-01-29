@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "Mr-Best",
+  "opponent": "demon8941",
   "variant": "Variant: Atomic",
-  "time_control": "TC: 3+0",
-  "time_left": 162,
-  "timestamp": "2026-01-29T18:12:49.783788",
+  "time_control": "TC: 5+0",
+  "time_left": 298,
+  "timestamp": "2026-01-29T18:13:32.954536",
   "last_game": {
     "result": "win",
-    "opponent": "Mr-Best",
+    "opponent": "demon8941",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 d5 Ng5 fxg5 Qh5+ g6 Qe5 Be6 Bb5+ c6 Qc7 Qxc7 O-O Nf6 f4 Bg4 f5 Be2 Rf2 Ng4",
-    "duration": 180,
+    "moves": "b3 e5 Bb2 Qh4 g3 Bb4 c3 Qd4 d3 Qxf2+",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "variantEnd"
   },
-  "updated": 1769710369.7838476
+  "updated": 1769710412.9545908
 }
