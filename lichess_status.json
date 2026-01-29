@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3027,
-  "opponent": "HakoAI",
+  "rating": 3074,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 189,
-  "timestamp": "2026-01-29T15:09:46.064255",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-01-29T15:10:55.014417",
   "last_game": {
-    "result": "win",
-    "opponent": "HakoAI",
-    "rating_before": 3027,
-    "rating_after": 3027,
+    "result": "loss",
+    "opponent": "BorkaTower",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 Ng5 Be8 Rd3 b6 g4 Ne7 Bd2 h6 Nf3 Bd7 h3 c5 Re1 Be6 Bf4 Kb7 a3 Nc6 Kg2 g5 Bd2 Bc4 Rde3 a5 Ne4 a4 Rd1 Bg7 Ree1 Rhd8 Bc3 Rxd1 Rxd1 Bf8 h4 gxh4 Nxh4 b5 f3 Be6 Nf5 b4 Bd2 Nxe5 Nxh6 Rd8 Rh1 b3 Bg5 Rd4 cxb3 Bd5 Re1 Bxe4 fxe4 axb3 Nf5 Rd3 Bf4 Nxg4 a4 f6 Rc1 Ne5 Bxe5 fxe5 Kf2 Rd2+ Kf3 Rxb2 Ne3 Ka6 Rg1 Rd2 Rb1 Rd3 Ke2 Rxe3+ Kxe3 c4 Rd1 Bb4 Kf3 c3 Rb1 b2 Kg4 Ka5 Kf5 Kxa4 Kg6 Kb3 Kf7 c2 Rxb2+ Kxb2 Ke6 Bd6 Kf6 c1=Q Ke6 Qf1 Kd5 Qf7+ Kc6 Qe6 Kb7 Qe8 Ka7 Qb5 Ka8 Qa6+ Kb8 c6#",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 Bb6 Re1 O-O Nbd2 a5 h3 h6 Nf1 Be6 Bb5 Ne7 Ng3 Ng6 d4 exd4 cxd4 d5 e5 Ne4 Bd3 Nxg3 fxg3 c5 Bd2 Re8 Kh1 cxd4 Qb1 Qe7 Re2 Nf8 g4 Bd7 g5 h5 Nh4 Rac8 Qf1 g6 Rae1 Rc6 Rf2 Re6 Rf6 Bc7 Nf3 Qd8 Bf4 Nh7 Bh2 Nxg5 Rxe6 Nxe6 Bg3 Bc6 a3 Qd7 Qe2 a4 Qd2 Bb5 Bh4 Bxd3 Bf6 Kh7 Qxd3 Qc6 Qd2 Qc4 Rc1 Ba5 Qd1 Qb3 Nxd4 Nxd4 Qxd4 Bb6 Qc3 Qxc3 Rxc3 d4 Rd3 Rc8 Kh2 g5 Bxg5 Kg6 h4 Rc2 Rg3 Bc7 Be7+ Kf5 Bd6 Ke4 Bxc7 Rxc7 Rg7 Kxe5 Kg1 Ke4 Kf2 Rc2+ Ke1 Rxb2 Rxf7 b5 g4 hxg4 Re7+ Kd3 Ra7 Rh2 Rb7 g3 Kf1 Kc2 Rxb5 d3 Rc5+ Kb3 Rd5 d2 Kg1 Kc2 Rc5+ Kb2 Rb5+ Kxa3 Rd5 d1=R+ Rxd1 Rxh4 Kg2 Rh2+ Kf3 g2 Rd3+ Kb2 Rd2+ Kc3 Rd7 g1=B Kg3 a3 Rc7+ Kb2 Rc8 a2 Rc7 a1=R Rb7+ Kc1 Rb3 Ra4 Rc3+ Rc2 Rxc2+ Kxc2 Kh3 Bh2 Kg2 Kd2 Kh3 Ke3 Kg2 Rg4+ Kh3 Kf4 Kxh2 Rg3 Kh1 Kf3 Kh2 Kf2 Kh1 Rh3#",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1769699386.0643232
+  "updated": 1769699455.0144918
 }
