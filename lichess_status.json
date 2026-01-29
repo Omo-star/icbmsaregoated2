@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "khunglongcon",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-01-29T12:00:17.169570",
+  "rating": 2990,
+  "opponent": "get-rekt-bot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+2",
+  "time_left": 181,
+  "timestamp": "2026-01-29T12:03:28.357932",
   "last_game": {
-    "result": "draw",
-    "opponent": "khunglongcon",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "result": "win",
+    "opponent": "get-rekt-bot",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 60,
+    "moves": "d4 d5 c4",
+    "duration": 186,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "outoftime"
   },
-  "updated": 1769688017.1696448
+  "updated": 1769688208.3580055
 }
