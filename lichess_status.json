@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "Cheszter",
+  "rating": 2994,
+  "opponent": "pruningBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-01-29T14:03:26.882619",
+  "time_control": "TC: 3+2",
+  "time_left": 161,
+  "timestamp": "2026-01-29T14:14:04.814332",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "opponent": "pruningBot",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 dxc4 Bg2 Bb4+ Bd2 a5 Qc2 c5 a3 Bxd2+ Qxd2 O-O O-O Bd7 Nc3 Qb6 dxc5 Qxc5 Qd4 Qxd4 Nxd4 Ra6 Bxb7 Rb6 Bg2 Rxb2 Rab1 Rxb1 Rxb1 Na6 Rb6 Nc5 Nc6 Nb3 Ra6 Bxc6 Rxc6 Nd2 Rd6 Nb3 Rc6 Rb8 Rxc4 Kf8 Bc6 Rc8 Nb5 Ke7 Na7 Rc7 Nb5 Rc8 Na7 Rc7 Nb5 Rc8 Na7",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 O-O Ng6 c3 Be7 d4 O-O Bxc6 bxc6 Nxe5 Nxe5 dxe5 d6 exd6 Bxd6 Nd2 Qh4 e5 Bxe5 Nf3 Qh5 Nxe5 Qxe5 Re1 Qf5 Qa4 Bd7 h3 a5 Rd1 h5 Be3 Rfd8 Qf4 Be6 Rxd8+ Rxd8 Qxc7 Rc8 Qg3 a4 a3 Qd3 Re1 Bb3 Qg5 Qd5 Qe7 f6 Bd4 Qf7 Kh2 Bd5 f3 Rb8 Qe2 Qb7 c4 Bf7 Qc2 c5 Bg1 Qxb2 Qxa4 Rd8 Be3 Rd3 Qa8+ Kh7 Qf8 Qe5+ f4 Qe6 Qxc5 Qe4 a4 Qxc4 a5 Rc3 Qxc4 Bxc4 g4 Ra3 Bb6 h4 Rc1 Bd5 Rc5 Rd3 Kg1 Rg3+ Kf2 Bb7 Rh5+ Kg8 Rxh4 Rf3+ Ke2 Rxf4 Rh5 Ba6+ Kd2 Rf3 Be3 Rg3 Rd5 Rxh3 Rd6 Rh2+ Kc3 Be2 g5 fxg5 a6 Bxa6 Rxa6 g4 Kd4 g3 Ra1 g2 Rg1 g6 Ke4 g5 Bxg5 Rh1 Rxg2 Kh8 Kf5 Kg8 Bf6+ Kh7 Ke6 Rh3 Rg4 Rb3 Kf7 Rb7+ Be7 Rb6 Rg7+ Kh8 Rg1 Kh7 Bc5 Rc6 Bf8 Rc7+ Be7 Rc6 Bf6 Rc7+ Ke6 Rb7 Kf5 Rb3 Rh1+ Kg8 Kg6 Rg3+ Bg5 Rf3 Rh7 Rd3 Rg7+ Kf8 Rf7+ Kg8 Rb7 Rf3 Rg7+ Kh8 Re7 Kg8 Rd7 Rf2 Rg7+ Kh8 Rc7 Kg8 Be3 Rf3 Rc8+ Rf8 Rc1 Rf7 Bd4 Rf3 Rh1 Kf8 Bf6 Rg3+ Bg5 Kg8 Ra1 Rf3 Ra7 Rf2 Ra8+ Rf8 Ra4 Rf7 Be7 Rg7+ Kf6 Kh7 Rh4+ Kg8 Ke6 Rh7 Rc4 Rh3 Rg4+ Kh7 Bg5 Rf3 Bf4 Rb3 Be5 Rf3 Bd6 Kh8 Be7 Kh7 Bd6 Kh8 Be7",
+    "duration": 646,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769695406.8827276
+  "updated": 1769696044.8144145
 }
