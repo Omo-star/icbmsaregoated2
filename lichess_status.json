@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
-  "opponent": "DarkOnBot",
+  "rating": 3073,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 594,
-  "timestamp": "2026-01-29T13:23:38.657569",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-01-29T13:25:04.603812",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "result": "win",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Be3 Nd4 Bxd4 exd4 Na4 c5 b4 axb4 axb4 Bc7 bxc5 Qe7 Nb6 Rxa1 Qxa1 Bxb6 cxb6 Nxe4 Be2 Nc3 Nxd4 Nxe2 Nxe2 O-O Kf1 Re8 Nf4 Bd7 Kg2 Bc6+ Nd5 h5 Qd4 Qe2 Ra1 f6 Ra3 Kf7 h4 Re5 Ra1 Kg6 Ra8 Qd2 Rd8 Re1 Rxd6 Qd1 Qf4 Rg1+ Kh2 Rh1+ Kg2 Qf1+ Kf3 Qd1+ Ke4 Re1+ Kd4 Qa1+ Kc5 Qa3+ Kd4 Qb2+ Kc5 Qa3+ Kd4 Qa1+ Kc5 Kf7 Rxc6 Qa3+ Kd4 Qb2+ Kc5 Qa3+ Kd4 Qb2+ Kc5 Qa3+ Kd4",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 a6 Bg5 e6 f4 Nbd7 Qe2 h6 Bh4 e5 O-O-O exd4 e5 dxe5 fxe5 Be7 Rxd4 O-O Bxf6 Bxf6 exf6 Qxf6 Qe3 Qe5 Re4 Qa5 Be2 b5 Nd5 Bb7 Ne7+ Kh8 Rh4 Qb6 Qxb6 Nxb6 Nf5 Rae8 Nxh6 gxh6 Rxh6+ Kg8 Rxb6 Rxe2 Rxb7 Rc8 c3 Rd8 Rd1 Rxd1+ Kxd1 Rxb2 c4 Rxa2 c5 Ra4 c6 Rc4 Rb6 a5 Rxb5 Rxc6 Rxa5 f6 Ra7 f5 Ke2 Rc1 h3 Rc2+ Kf1 f4 Kg1 f3 gxf3 Rb2 Rd7 Ra2 h4 Rb2 h5 Rb1+ Kg2 Rb5 h6 Rb1 Rd8+ Kh7 Rd6 Ra1 Kh3 Rb1 Ra6 Rc1 Re6 Ra1 Kh2 Rb1 Rf6 Ra1 Kh3 Rh1+ Kg4 Rg1+ Kf5 Rf1 f4 Rg1 Ke6 Rb1 Kd7 Rb5 f5 Ra5 Ke6 Ra1 Kd5 Rf1 Kd6 Rd1+ Ke7 Rf1 Kd7 Rf4 Ke8 Rf1 Kd7 Rf2 Ke6 Rf1 Ke5 Re1+ Kd4 Rf1 Ke5 Re1+ Kd6 Rd1+ Ke7 Rf1 Ke8 Rf3 Kf7 Rf2 Kf8 Rf4 Kf7 Rf1 Ke6 Ra1 Rg6 Re1+ Kf7 Rf1 f6 Ra1 Rg2 Ra7+ Kf8 Kxh6 f7 Ra8+ Ke7 Ra7+ Ke6 Ra6+ Kf5 Ra5+ Ke4 Ra4+ Ke5 Ra5+ Kf4 Ra4+ Ke3 Ra3+ Ke4 Ra4+",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1769693018.6576738
+  "updated": 1769693104.6038785
 }
