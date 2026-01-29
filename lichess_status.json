@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "BorkaTower",
+  "rating": 2990,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2026-01-29T15:10:55.014417",
+  "time_control": "TC: 3+0",
+  "time_left": 117,
+  "timestamp": "2026-01-29T15:13:34.667463",
   "last_game": {
-    "result": "loss",
-    "opponent": "BorkaTower",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "draw",
+    "opponent": "YoBot_v2",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 Bb6 Re1 O-O Nbd2 a5 h3 h6 Nf1 Be6 Bb5 Ne7 Ng3 Ng6 d4 exd4 cxd4 d5 e5 Ne4 Bd3 Nxg3 fxg3 c5 Bd2 Re8 Kh1 cxd4 Qb1 Qe7 Re2 Nf8 g4 Bd7 g5 h5 Nh4 Rac8 Qf1 g6 Rae1 Rc6 Rf2 Re6 Rf6 Bc7 Nf3 Qd8 Bf4 Nh7 Bh2 Nxg5 Rxe6 Nxe6 Bg3 Bc6 a3 Qd7 Qe2 a4 Qd2 Bb5 Bh4 Bxd3 Bf6 Kh7 Qxd3 Qc6 Qd2 Qc4 Rc1 Ba5 Qd1 Qb3 Nxd4 Nxd4 Qxd4 Bb6 Qc3 Qxc3 Rxc3 d4 Rd3 Rc8 Kh2 g5 Bxg5 Kg6 h4 Rc2 Rg3 Bc7 Be7+ Kf5 Bd6 Ke4 Bxc7 Rxc7 Rg7 Kxe5 Kg1 Ke4 Kf2 Rc2+ Ke1 Rxb2 Rxf7 b5 g4 hxg4 Re7+ Kd3 Ra7 Rh2 Rb7 g3 Kf1 Kc2 Rxb5 d3 Rc5+ Kb3 Rd5 d2 Kg1 Kc2 Rc5+ Kb2 Rb5+ Kxa3 Rd5 d1=R+ Rxd1 Rxh4 Kg2 Rh2+ Kf3 g2 Rd3+ Kb2 Rd2+ Kc3 Rd7 g1=B Kg3 a3 Rc7+ Kb2 Rc8 a2 Rc7 a1=R Rb7+ Kc1 Rb3 Ra4 Rc3+ Rc2 Rxc2+ Kxc2 Kh3 Bh2 Kg2 Kd2 Kh3 Ke3 Kg2 Rg4+ Kh3 Kf4 Kxh2 Rg3 Kh1 Kf3 Kh2 Kf2 Kh1 Rh3#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nb8 Ne3 Be6 h5 c5 b3 Nc6 Nh4 Qd7 Bc3 Rad8 Nef5 Bxf5 Nxf5 g6 Ne3 Nd4 Ng4 Qe6 Re1 Kf7 Bb2 Rd7 c3 Nc6 Qf3 Bg7 Rad1 Red8 Re3 Ke8 h6 Bh8 Qh3 Rd6 Ree1 Kf7 Qf3 f5 b4 cxb4 cxb4 a6 a4 Qb3 Rb1 Qxd3 exf5 Qxf3 fxg6+ Rxg6 gxf3 Nd4 Kg2 Ke7 Bxd4 Rxd4 Kg3 Rf4 Red1 Rd6 Re1 Rg6 Red1 Rg8 Rbc1 Rc8 Re1 Rxb4 f4 Rxf4 Nxe5 Rxa4 Ng6+ Kd7 Re7+ Kd6 Rxh7 Bd4 Rd1 Kc5 f4 Ra1 Rxa1 Bxa1 Rd7 a5 Ne7 Rh8 Rxc7+ Kb6 Rc1 Bd4 Nd5+ Kb5 Nc7+ Kb6 Nd5+ Kb5 Nc7+",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1769699455.0144918
+  "updated": 1769699614.667598
 }
