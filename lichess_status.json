@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "Boller1910",
+  "rating": 3036,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 163,
-  "timestamp": "2026-01-29T09:39:07.226203",
+  "time_control": "TC: 10+0",
+  "time_left": 345,
+  "timestamp": "2026-01-29T09:50:03.146565",
   "last_game": {
     "result": "draw",
-    "opponent": "Boller1910",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "RaspFish",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 h3 h6 Bb5 O-O Re1 Ba7 Nbd2 Ne7 d4 Ng6 Nf1 exd4 cxd4 d5 e5 Ne4 Ng3 f5 exf6 Qxf6 Nxe4 dxe4 Rxe4 Bxh3 gxh3 Qxf3 Qxf3 Rxf3 Be3 Raf8 Rc1 c6 Bf1 R3f6 h4 Rf5 Be2 Bb6 Bg4 R5f6 Be6+ Kh7 Bc4 Nf4 Re7 Rg6+ Kf1 Rg4 Rxb7 Rxh4 Kg1 Rg4+ Kf1 Rh4 Kg1 Rg4+ Kf1 Rh4",
-    "duration": 250,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 Qc2 c5 d5 exd5 cxd5 Bb7 Bg2 Nxd5 O-O Be7 Rd1 Qc8 Qf5 Nf6 Nc3 O-O Bg5 d6 Qxc8 Rxc8 Nb5 Bc6 Bh3 Nbd7 Nxd6 Rd8 Bg2 h6 Bf4 Nh5 Nf5 Bf8 Ne5 Bxg2 Kxg2 Nxe5 Bxe5 g6 Ne3 Bg7 Nc4 b5 Bxg7 Nxg7 Ne5 a6 Kf1 Ne6 Nc6 Re8 Rd6 Kg7 f3 h5 Rad1 Rac8 R1d5 c4 h4 Nc7 Re5 Re6 Rexe6 Nxe6 Ke1 Kf8 Na7 Ra8 Nc6 Rc8 Kd2 Nc5 Kc2",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769679547.226359
+  "updated": 1769680203.1466866
 }
