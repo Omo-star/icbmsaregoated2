@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "SF_Bot1nok",
+  "rating": 2984,
+  "opponent": "get-rekt-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 606,
-  "timestamp": "2026-01-29T08:59:42.483189",
+  "time_control": "TC: 3+2",
+  "time_left": 181,
+  "timestamp": "2026-01-29T09:02:53.086674",
   "last_game": {
     "result": "win",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "opponent": "get-rekt-bot",
+    "rating_before": 2984,
+    "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7",
-    "duration": 600,
+    "moves": "e4 c5 Nf3",
+    "duration": 186,
     "bot_color": "white",
     "termination": "outoftime"
   },
-  "updated": 1769677182.4833393
+  "updated": 1769677373.086757
 }
