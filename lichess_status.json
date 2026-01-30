@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
+  "rating": 2983,
   "opponent": "MOCKBA_CBEPXCEKPETHO",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+2",
-  "time_left": 17,
-  "timestamp": "2026-01-30T08:38:50.644881",
+  "time_control": "TC: 3+2",
+  "time_left": 83,
+  "timestamp": "2026-01-30T08:52:56.430363",
   "last_game": {
     "result": "draw",
     "opponent": "MOCKBA_CBEPXCEKPETHO",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a6 a4 O-O Nbd2 a5 Re1 Be6 h3 Bxc4 Nxc4 h6 Be3 Bxe3 Nxe3 Re8 Qb3 Qd7 Qb5 Qc8 b4 Nh5 Qc4 Nf4 b5 Ne7 d4 Neg6 Rad1 exd4 Rxd4 Ne5 Nxe5 Rxe5 h4 Rc5 Qb3 Qe6 Qd1 Re8 g3 Ng6 Nd5 Qh3 c4 Ne5 Nf4 Qc8 Qe2 c6 Kg2 cxb5 cxb5 Rc2 Qd1 Qc3 Rxd6 Ra2 Nd5 Qa3 Ne3 Qxa4 Qxa4 Rxa4 Rc1 Rb8 Rc7 Rxe4 Rb6 Rb4 Rcxb7 Rxb7 Rxb7 a4 b6 a3 Ra7 Rxb6 Rxa3 Kh7 Ra5 Nc6 Rf5 Rb7 h5 Nd4 Ra5 g6 hxg6+ fxg6 Ng4 Ne6 Ne5 Nf8 Ra6 Rg7 f4 Nd7 Kf3 Nxe5+ fxe5 Rb7 g4 Rb4 g5",
-    "duration": 290,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Qd3 d5 Nd2 c5 c3 Qd7 Nf3 Rae8 Qd1 Qf5 Be3 Qc8 a4 a5 Bf4 Re7 Bd3 Rfe8 h3 h6 Bb5 Bc6 Bd3 Bg5 Be5 f6 Bh2 c4 Bc2 Qf5 Bd6 Rd7 Bg3 Rde7 Bd6 Re6 Bg3 Bf4 Nh4 Qg5 Nf3 Qf5 Nh4 Qg5 Nf3 Qf5",
+    "duration": 320,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769762330.6449971
+  "updated": 1769763176.4304643
 }
