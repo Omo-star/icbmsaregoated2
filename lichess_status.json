@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "Mr-Best",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 3+0",
-  "time_left": 174,
-  "timestamp": "2026-01-29T18:18:05.694099",
+  "opponent": "bfiedler-bot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+3",
+  "time_left": 37,
+  "timestamp": "2026-01-30T07:31:38.313212",
   "last_game": {
     "result": "win",
-    "opponent": "Mr-Best",
+    "opponent": "bfiedler-bot",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "Nc3 e6 e4 Qf6 Nf3 Qf4 d3 Qd2+",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O Rc8 Nbd2 g6 c3 Bg7 h3 h5 Re1 Ne7 b4 a5 a4 axb4 cxb4 O-O a5 Ra8 Nb3 Be4 Ng5 Bf5 g4 Be4 f3 hxg4 fxe4 gxh3 Qd3 h2+ Kh1 Re8 Qf3 f6 Nxe6 dxe4 Qh3 Qc8 Nxg7 Kxg7 Qh6+ Kf7 Qh7+ Ke6 exf6 Kxf6 Bc4 Nd5 Rf1+ Ke6 Nc5+ Kd6 Rf7 Re7 Rxe7 Kc7 Rxd7+ Kb8 Rxb7+ Qxb7 Qxb7#",
+    "duration": 273,
+    "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1769710685.6941705
+  "updated": 1769758298.313275
 }
