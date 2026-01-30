@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 27,
-  "timestamp": "2026-01-30T11:29:51.295033",
+  "rating": 3032,
+  "opponent": "RaspFish",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 365,
+  "timestamp": "2026-01-30T11:38:40.182482",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "RaspFish",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "f4 g6 Nc3 f5 d4 d5 g4 c6 g5 Ne6 e3 Bf7 Bf2 O-O Ne2 Nc7 Nd2 Ne8 c4 Nd6 cxd5 cxd5 O-O Bg7 Nf3 Nc6 h4 Qd7 Qd1 Rfc8 Ne5 Bxe5 fxe5 Ne4 Be1 Nd8 a4 Kg7 Bf3 Rab8 Qd3 Rc6 Qd1 Ne6 Nc3 a6 Qb3 Nd8 a5 Be6 Qa3 Nf7 Bd1 h6 gxh6+ Kh8 Ba4 g5 h7 Kxh7 Kh2 Rg8 Rg1 Qe8 Qb4 Qf8 Bxc6 bxc6 Nxe4 fxe4 Rc1 Nh6 Rxg5 Ng4+ Kg1 Nxe3 Bf2 Ng4 Rf1 Qf4 Qxe7+ Bf7 Rh5+ Nh6+ Rg5 Ng4 Rh5+ Nh6+ Rg5 Ng4",
-    "duration": 150,
-    "bot_color": "black",
+    "moves": "c4 h6 d4 e6 e3 Nf6 Nf3 d5 Qb3 a6 cxd5 exd5 Bd2 c5 dxc5 Bxc5 Bb4 Bxb4+ Qxb4 Nc6 Qa3 d4 Nxd4 Nxd4 exd4 Qxd4 Nc3 Ne4 Qa4+ Qxa4 Nxa4 Be6 Bd3 Nf6 Nc5 Bd5 f3 Rc8 Rc1 Bxa2 O-O Bd5 Nxa6 O-O Nb4 Bb3 Rxc8 Rxc8 Kf2 Ne8 Ra1 Nd6 Ra3 Be6 Nc2 Kf8 Rc3 Rd8 Ke3 Ra8 Nd4 Ke7 Ra3 Rc8 Rc3 Ra8 Ra3 Rc8 Rc3 Ra8",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769772591.295133
+  "updated": 1769773120.182599
 }
