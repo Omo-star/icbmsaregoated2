@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 2983,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-01-30T09:36:59.847931",
+  "time_control": "TC: 3+0",
+  "time_left": 148,
+  "timestamp": "2026-01-30T09:40:01.465925",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "opponent": "ArasanX",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 exd5 cxd5 Bb3 Nc6 O-O Be6 Re1 Qc7 Nc3 a6 Qe2 O-O-O Nxe5 Nd4 Qe3 Nxb3 axb3 d4 Qf3 dxc3 Rxa6 bxa6 Qa8+ Qb8 Qc6+ Qc7 Qa8+ Qb8 Qc6+ Qc7 Qa8+",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nb6 Qf2 Rc8 c3 O-O h4 Kg7 g4 Rce8 Bc1 d5 Bc2 hxg4 fxg4 Nxg4 Qg3 f5 h5 Qd7 hxg6 Nc4 Qh3 Rh8 Qf1 Rhf8 Qe2 e4 Rf1 Qb5 Rde1 d4 Rxf5 Na3+ bxa3 Qxe2 Rxe2 Rxf5 Rxe4 Rf1 Rxg4 Bxa3 Re4 Rh8 Rxd4 Rhh1 Rd7+ Kg8 Bd1 Rxd1 Rxd1 Rxd1 Kc2 Rxc1+ Nxc1 Bxc1 Kxc1 Kg7 a3 Kxg6 a4 Kf5 a5 Ke5 Kb2 Kd5 Kb3 Kc5 c4 Kd4 Kb4 Kd3 Kb3 Kd4 Kb4 Ke3 Ka3 Kf3 Ka2 Kg3 c5 Kf4 Kb3 Kf5 c6 bxc6 Kc4 Ke6 Kc5 Kd7 Kb6 Kd6 Kxa6 Kc7 Ka7 c5 Ka8 c4 a6 Kc8 a7 Kc7",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "stalemate"
   },
-  "updated": 1769765819.8480144
+  "updated": 1769766001.4660103
 }
