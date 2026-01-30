@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "PositionalAI",
+  "rating": 2987,
+  "opponent": "goofygooberbot104",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-01-30T11:58:52.233249",
+  "time_control": "TC: 3+0",
+  "time_left": 180,
+  "timestamp": "2026-01-30T11:59:39.526273",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "goofygooberbot104",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Nbd2 Qc8 Kh1 f5 Qe1 f4 Nxe5 fxe3 Qxe3 Bf6 f4 Bxe5 fxe5 Qd8 Qg3 Be6 Nf3 Qd7 Rg1 Rg8 Qg5 h6 Qh5+ Bf7 Qf5 Be6 Qg6+ Bf7 Qf5 Be6 Qg6+ Bf7 Qf5 Be6",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "c4",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1769774332.2333417
+  "updated": 1769774379.52634
 }
