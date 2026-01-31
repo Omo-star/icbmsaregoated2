@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3064,
-  "opponent": "PetersBot",
+  "rating": 2990,
+  "opponent": "Fruity23",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 61,
-  "timestamp": "2026-01-31T10:50:50.831608",
+  "time_control": "TC: 3+1",
+  "time_left": 153,
+  "timestamp": "2026-01-31T10:53:19.894631",
   "last_game": {
-    "result": "win",
-    "opponent": "PetersBot",
-    "rating_before": 3064,
-    "rating_after": 3064,
+    "result": "draw",
+    "opponent": "Fruity23",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 Na6 Nf3 g5 Nxg5 f6 Qh5#",
-    "duration": 67,
+    "moves": "d4 d5 c4 e6 Nf3 Nf6 Nc3 c5 cxd5 cxd4 Qxd4 exd5 e4 dxe4 Qxd8+ Kxd8 Ng5 Be6 Nxe6+ fxe6 Bg5 Nc6 Bc4 Ke7 Nxe4 Kf7 Nd2 h6 Be3 Nd5 O-O Be7 Rac1 Rhd8 Nb3 Rac8 Bb5 Ne5 Bd4 Bf6 Rxc8 Rxc8 Re1 Nc6 Bxf6 Kxf6 Rc1 Nce7 Nc5 b6 Nd7+ Kf7 Ne5+ Kf6 Nd7+ Kf7 Ne5+ Kf6 Nd7+",
+    "duration": 239,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1769856650.8316948
+  "updated": 1769856799.894837
 }
