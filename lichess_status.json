@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "NICE_BOT",
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+2",
-  "time_left": 54,
-  "timestamp": "2026-01-31T08:51:59.237769",
+  "time_control": "TC: 2+1",
+  "time_left": 75,
+  "timestamp": "2026-01-31T08:54:39.743021",
   "last_game": {
-    "result": "win",
-    "opponent": "NICE_BOT",
+    "result": "draw",
+    "opponent": "SF_Bot1nok",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 e6 Nc3 d5 e5 Bb4 a3 Bxc3+ bxc3 f6 Bd3 fxe5 Qh5+ Kf8 dxe5 Qe8 Qe2 Bd7 h4 Nge7 h5 Rd8 h6 gxh6 Bxh6+ Kg8 Bg5 h5 Bf6 Rh6 Qe3 Qf8 Qg5+ Kf7 Rxh5 Nf5 Bxf5 exf5 Rxh6 Qg8 Qh5+ Kf8 Rh8 Rc8 Rxg8+ Kxg8 Qg6+ Kf8 Qg7+ Ke8 Qg8#",
-    "duration": 166,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Nc6 O-O-O Qd6 Bxg7 Kxg7 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Nb5 Qe6 Qxe6 Bxe6 Nc7 Rad8 Nxe6+ fxe6 Bb5 Rd6 c3 a6 Bxc6 Rxc6 Kc2 b5 Kb3 Rb8 a3 Kf7 Rde1 a5 Re5 Ke8 Rhe1 Kd7 R1e3 h6 h4 Rcb6 Re2 Rc8 g3 Rc4 Rd2 Rc8 Rd3 Rf8 Rde3 Rg8 Re1 Rf8",
+    "duration": 190,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1769849519.23783
+  "updated": 1769849679.7431448
 }
