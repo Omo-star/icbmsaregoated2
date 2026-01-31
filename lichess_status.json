@@ -5,18 +5,18 @@
   "opponent": "Mr-Best",
   "variant": "Variant: Antichess",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-01-31T23:21:53.799136",
+  "time_left": 168,
+  "timestamp": "2026-01-31T23:22:35.873741",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "Mr-Best",
     "rating_before": 2985,
     "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e3 b5 Bxb5 Bb7 Bxd7+ Bxg2 Bxe8 Bxh1 Bxf7 Qxd2+ Bxd2 h5 Qxh5 Rxh5 Bxg8 Rxh2 e4 Rxf2 Kxf2 Bxe4 Nc3 Bxc2 Bh6 gxh6 Ne4 Bxe4 Kg2 Bxg2 Nf3 Bxf3 Rd1 Bxd1 a4 Bxa4 Bb3 Bxb3",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "variantEnd"
   },
-  "updated": 1769901713.799247
+  "updated": 1769901755.8738017
 }
