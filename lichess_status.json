@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "Cheszter",
+  "rating": 2985,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 6,
-  "timestamp": "2026-01-31T12:33:39.558428",
+  "time_control": "TC: 3+0",
+  "time_left": 141,
+  "timestamp": "2026-01-31T12:35:10.972119",
   "last_game": {
-    "result": "win",
-    "opponent": "Cheszter",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "result": "draw",
+    "opponent": "PositionalAI",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "c3 e6 c4 d5 Nf3 d4 e3 Nc6 a3 e5 b4 Nf6 Bb2 Bg4 h3 Bxf3 Qxf3 g6 d3 Bg7 Be2 O-O O-O Re8 Rd1 Nd7 Ra2 dxe3 fxe3 e4 dxe4 Qe7 Qf2 Bxb2 Rxb2 Nce5 c5 c6 Nd2 b6 cxb6 axb6 Ra2 Ra4 Qf1 Rea8 Rda1 h6 Nb3 Nf6 Nd2 h5 Qc1 Nfd7 Bd1 R4a7 Qc3 c5 b5 c4 Be2 Rc7 a4 Kh7 Rf1 Qg5 Kh1 Qe7 a5 bxa5 Rxa5 Rb8 Rb1 Rc5 Ra7 Rcxb5 Rxb5 Rxb5 Qd4 Qd8 Bf1 Rb4 Bxc4 Kh6 Kg1 h4 Kh1 Qc8 Qd6 Rb6 Qd4 Rc6 Kg1 f6 Bf1 Rc2 Ra1 Qb8 Rb1 Qc7 Rb2 Rc6 Ra2 Nf8 Nf3 Nxf3+ gxf3 Qg3+ Rg2 Qxf3 e5 g5 exf6 Rc1 Rf2 Qg3+ Rg2 Qf3 Rf2 Qxh3 f7 Qg3+ Rg2 Qf3 Rf2 Qg3+ Rg2 Qf3 Qd6+ Kh5 Rf2 Qg4+ Kh2 Rxf1 Rxf1 Qe2+ Kg1 Qxe3+ Kh1 Qh3+ Kg1 Qg4+ Kh2 Qe2+ Kg1 Qg4+ Kh2 Qe2+ Kg1 h3 Qg3 h2+ Qxh2+ Qxh2+ Kxh2 Kg6 Kg3 Kg7 Ra1 Kf6 Rb1 Kg7 Rb7 Kf6 Ra7 g4 Ra1 Kg7 Kxg4 Kxf7 Kh5 Kf6 Kh6 Nd7 Kh7",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Ke2 Nf4+ Kf1 Nd5 Nf5 g6 Ng3 Nf4 f3 f5 gxf5+ gxf5 Ne2 Nd3 g3 h5 b3 axb3 axb3 Kd6 Rc3 Kc6 Kg2 Kb5 Kh3 Kb4 Kh4 Ne5 Re3 Nd3 Kxh5 Kxb3 Nc1+ Kc3 Rxd3+ Rxd3 Nxd3",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1769862819.558498
+  "updated": 1769862910.9722843
 }
