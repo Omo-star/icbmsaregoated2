@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "LeelaChessTest",
+  "rating": 3062,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 236,
-  "timestamp": "2026-01-31T10:05:55.229908",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-01-31T10:06:59.932048",
   "last_game": {
     "result": "draw",
-    "opponent": "LeelaChessTest",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "YoBot_v2",
+    "rating_before": 3062,
+    "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 c5 b4 e6 bxc5 Bxc5 d4 Bd6 e3 Nf6 Be2 O-O O-O b6 c4 Bb7 cxd5 Nxd5 Re1 Bb4 Bd2 Nc6 a3 Bxd2 Qxd2 Rc8 Qb2 Na5 Nbd2 Re8 Bf1 Re7 e4 Nf6 Rad1 h6 h3 Rd7 Bd3 Nh5 Bf1 Rdc7 Ne5 Nf6 Bd3 Rc3 Ndf3 Qf8 a4 Qa3 Qd2 Qxa4 Ng4 Nxg4 hxg4 Qb4 g5 Nb3 Qe3 Ba6 gxh6 Rxd3 Rxd3 Bxd3 Qg5 Qf8 Re3 Nc1 Kh2 f6 Qg4 Qf7 hxg7 Be2 d5 Re8 Qh3 Kxg7 dxe6 Qxe6 Qg3+ Kf8 Nh4 Bg4 f3 Kf7 Kh1 Qe5 Qxg4 Qg5 Qh3 Qxe3 Qd7+ Re7 Qd5+ Ke8 Qa8+ Kd7 Qb7+ Kd8 Qb8+ Kd7 Qb7+ Ke8 Qa8+ Kf7 Qd5+ Ke8 Qa8+",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 Rc3 Ne7 Qc1 Qe5 Rc5 Qb8 Nd4 Bd7 Rc2 Rc8 Rc3 Qd6 Rxc8+ Nxc8 Qc3 Ne7 g3 Nc8 Bb5 Nb6 Qc2 Nd5 Bxd7 Qxd7 Qc5 a6 Kf1 Nf6 Ke2 Ne4 Qc4 e5 Nf3 Qg4 b3 b5 Qc6 Ng5 h4 e4 hxg5 Qxf3+ Ke1 Qh1+ Ke2 Qf3+ Ke1 Qh1+ Kd2 Qf3 Ke1",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769853955.2300584
+  "updated": 1769854019.9322119
 }
