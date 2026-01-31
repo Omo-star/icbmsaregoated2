@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "YoBot_v2",
+  "rating": 2989,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-01-31T08:10:20.641815",
+  "time_control": "TC: 3+0",
+  "time_left": 91,
+  "timestamp": "2026-01-31T08:14:25.219151",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "opponent": "ArasanX",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nb8 Ne3 Be6 h5 c5 b3 Nc6 Nh4 Qd7 Bc3 Rad8 Nef5 Bxf5 Nxf5 g6 Ne3 Nd4 Ng4 Qe6 Re1 Kf7 Bb2 Rd7 c3 Nc6 Qf3 Bg7 Rad1 Red8 Re3 Ke8 h6 Bh8 Qh3 Rd6 Ree1 Kf7 Qf3 f5 b4 cxb4 cxb4 a6 a4 Qb3 Rb1 Qxd3 exf5 Qxf3 fxg6+ Rxg6 gxf3 Nd4 Kg2 Ke7 Bxd4 Rxd4 Kg3 Rf4 Red1 Rd4 b5 Kd7 Re1 a5 Re4 Kd6 Rc1 c6 bxc6 bxc6 Rb1 Kc7 Rbe1 c5 Rb1 Rb4 Rc1 Kc6 Kh3 Rd4 Rb1 Rb4 Rc1 Re6 Kg2 Rxe4 fxe4 Bf6 Rb1 Bg5 Rb5 c4 Nxe5+ Rxe5 Rxe5 c3 Rxg5 c2 Rg8",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Nf5 Bf4 h6 Nd2 d5 Bd3 Be6 Nf3 b6 h3 c5 Be5 Bxe5 Qxe5 Qd6 Bxf5 Qxe5 Nxe5 Bxf5 g4 Bc2 Rc1 Ba4 b3 Be8 dxc5 bxc5 Rd1 f6 Nd3 Rc8 Nf4 d4 cxd4 cxd4 Rxd4 Rc1+ Kg2 Bc6+ f3 Rc2+ Kg3 Rxa2 Rd8+ Kf7 Rc8 Be8 Nh5 Rd2 Ra8 Rd7 Nxg7 Kxg7 Rxe8 Rb7 Re3 Kg6 f4 f5 b4 Rxb4 Ra3 Rb6 Ra5 Rb3+ Kh4 Rb6 Rd5 Rc6 Re5 Ra6 Rb5 Rf6 Kg3 a6 Rd5 Rf7 Re5 Rf8 Ra5 Ra8 Kf3 Kg7 Kg3 Kg6 Kf2 Kh7 Kf3 Kg7 g5 hxg5 fxg5 Rb8 Rxf5 a5 Kg4 Ra8 Rf3 a4 Ra3 Ra5 h4 Ra6 h5 Ra5 Rc3 a3 h6+ Kg6 Rc6+ Kh7 Rc7+ Kg8 Rc8+ Kh7 Rc7+ Kg8 Rc8+ Kh7 Rc7+",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769847020.64194
+  "updated": 1769847265.2193117
 }
