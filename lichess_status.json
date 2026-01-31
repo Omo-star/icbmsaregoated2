@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "maiaRosen",
+  "rating": 3066,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 419,
-  "timestamp": "2026-01-30T15:06:22.619437",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-01-31T07:56:26.485952",
   "last_game": {
-    "result": "win",
-    "opponent": "maiaRosen",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "result": "draw",
+    "opponent": "PositionalAI",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 Nc6 Nxc6 dxc6 d3 Bc5 Be2 h5 c3 Ng4 d4 Qh4 g3 Qf6 f3 h4 fxg4 hxg3 Be3 Rxh2 Rg1 Qh4 dxc5 Be6 Bd4 O-O-O Qd3 g2+ Bf2 Qxf2+ Kxf2 Rxd3 Bxd3 Bxg4 Rxg2 Rh4 Nd2 Be6 Rxg7 Rh2+ Ke3 Rh3+ Nf3 b6 Bf1 Rh1 Ba6+ Kd7 Rxh1 Ke7 Ng5 Kf6 Nxe6 Kxe6 Rh6+ Ke7 Bc4 bxc5 Rxf7+ Ke8 Rh8#",
-    "duration": 600,
+    "moves": "Nf3 d5 g3 Nf6 c4 dxc4 Qa4+ Nbd7 Qxc4 e6 Bg2 a6 Qb3 Rb8 d4 b5 O-O Bb7 Ne5 Bxg2 Kxg2 Nxe5 dxe5 Qd5+ Qxd5 Nxd5 Rd1 Be7 a4 O-O axb5 axb5 Nc3 Nxc3 bxc3 Rfc8 Ra7 Kf8 Kf3 Ra8 Rb7 Rab8 Ra7 Ra8 Rb7 Rab8 Ra7",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1769785582.6194973
+  "updated": 1769846186.4860463
 }
