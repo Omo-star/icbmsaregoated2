@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "caissa-x",
+  "rating": 3032,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 145,
-  "timestamp": "2026-01-31T12:12:22.604773",
+  "time_control": "TC: 10+0",
+  "time_left": 593,
+  "timestamp": "2026-01-31T12:15:44.895750",
   "last_game": {
     "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "opponent": "Cheszter",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "e4 e5 Ne2 Bc5 Nbc3 Nf6 d4 exd4 Nxd4 O-O Bg5 Re8 Be2 Nc6 Nxc6 bxc6 O-O Rb8 Bc4 h6 Bh4 Qe7 Re1 Rb4 b3 Qe5 Na4 Rxa4 bxa4 Nxe4 Bd3 d5 Bg3 Qg5 c4 Bb4 Re3 Bc5 Re1 Bb4 Re3 Bc5 Re1",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 O-O Re1 Bb6 Nbd2 Ng4 Rf1 Kh8 h3 f5 exf5 Nxf2 Rxf2 d5 d4 exd4 Bb5 Bxf5 Bxc6 dxc3 bxc3 Bxf2+ Kxf2 Qd6 Qa4 Qc5+ Kg3 Qd6+ Kf2 Qc5+ Kg3 Qd6+ Kf2",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769861542.6079404
+  "updated": 1769861744.8958569
 }
