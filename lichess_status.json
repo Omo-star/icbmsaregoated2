@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "CloudNetBot",
+  "rating": 3064,
+  "opponent": "PetersBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-01-31T10:50:44.257182",
+  "time_control": "TC: 1+1",
+  "time_left": 61,
+  "timestamp": "2026-01-31T10:50:50.831608",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "result": "win",
+    "opponent": "PetersBot",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 d3 d5 Bg2 c6 Nf3 Bd6 O-O h6 d4 e4 Ne5 Nbd7 cxd5 cxd5 Bf4 Qe7 Nc3 O-O Rc1 Rd8 Nxd7 Bxd7 Bxd6 Qxd6 f3 exf3 exf3 b5 Re1 Qb6 Qd2 b4 Ne2 Rac8 Bf1 b3 a3 Rxc1 Rxc1 Bb5 Rc3 Bc4 Nc1 Qa5 Nd3 Nd7 Bh3 Nb6 Ne5 Na4 Nc6 Qb6 Nxd8 Nxc3 Qxc3 Qxd8 Qe3 a5 a4 Qf6 Qf4 Qxf4 gxf4 Kf8 Kf2 Ke7 Ke3 Ba6 Kd2 g6 Bg2 Ke6 Bh3+ f5 Kc3 Bc4 Kd2 Ba6",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 Na6 Nf3 g5 Nxg5 f6 Qh5#",
+    "duration": 67,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1769856644.2573345
+  "updated": 1769856650.8316948
 }
