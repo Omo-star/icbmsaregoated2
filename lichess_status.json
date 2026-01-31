@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "Bharat_royals",
+  "rating": 3032,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-01-31T10:42:15.383015",
+  "time_control": "TC: 10+0",
+  "time_left": 342,
+  "timestamp": "2026-01-31T10:49:54.809908",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "CloudNetBot",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bg5 d5 e3 c5 Nc3 cxd4 Bxf6 gxf6 exd4 Bf5 Bd3 Qd7 Bxf5 Qxf5 Qf3 Qxf3 Nxf3 e6 Ke2 Nc6 Nd1 h5 a4 Rc8 c3 Na5 Ne3 Bh6 g3 Bxe3 Kxe3 Nc4+ Ke2 Kd7 Ra2 a5 Kd3 Nd6 Nh4 Ne4 Rf1 Rc6 Ng2 Nd6 Re1 Nf5 Raa1 h4 g4 h3 Ne3 Nd6 f3 Rhc8 Ra3 Rb6 Re2 Rbc6 Ra2 Rb6 Ra1 Rb3 Kc2 Rb4 Kd1 Rb6 Kc2 Rb4 Kd3",
-    "duration": 60,
+    "moves": "c3 e5 h3 d5 d4 e4 Bf4 Nd7 e3 Ngf6 c4 Bb4+ Nd2 O-O a3 Be7 Ne2 c5 Rc1 Re8 dxc5 dxc4 Nxc4 Nxc5 Nd4 Ne6 Be5 Nxd4 Bxd4 Bf8 Nd2 Nd5 Bb5 Bd7 Bc4 Qg5 Nf1 Be6 Ng3 Bd6 O-O Bxg3 Bxd5 Qxd5 fxg3 Rac8 Bxa7 Qe5 Bd4 Qxg3 Qe1 Qg5 h4 Qg6 Rc3 h5 Kh2 Kh7 Qg3 Rxc3 Bxc3 Rd8 a4 Bb3 Ra1 Rd3 Qxg6+ Kxg6 Bd4 f6 a5 Rd2 a6 bxa6 Rxa6 Bd1 Kg1 Be2 Ra5 Rd1+ Kf2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769856135.3832254
+  "updated": 1769856594.8100777
 }
