@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "PositionalAI",
+  "rating": 3068,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 428,
-  "timestamp": "2026-01-31T12:41:41.424856",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2026-01-31T12:42:22.111432",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "YoBot_v2",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Kh3 Ra8 Kg2 Ra6 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Kh2 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Kh2 Ra2 Bh3 Kf6 Bg2 Ra1 Kh3 Kg6 Re2 Rb1 f3 Nf6 Kh2 Nd7 Bh3 Nb6 Rg2+ Kf6 Rg5 Rxb2+ Kg3 Ke6 Rxf5 Na4 Rxh5+ Kd6 Rh8 Nxc3 h5 Ne2+ Kh4 Ke7 h6 Nxf4 Kg4 Rh2 Kxf4 Rxh3 Kg4 Rh1 Kg5 Rg1+ Kf4 Rg6 Ke5 Rg5+ Kf4 Rh5 Kg4 Rh1 Kg5 Rg1+ Kf5 Rh1 Kg5",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Qxc8 Qa5 Qc1+ Bf1 Qxb2 Qxa7 Nc6 Qc5 Qb3 Qd6 Qa4 Be2 Qb3 Bf1 Qa4 Be2 Qb3 Bd3 Qd1+ Kh2 Qa4 Nd2 b5 Be4 Qa7 Bxc6 Qb6 f3 Qxc6 Qxc6 Bxc6 Kg3 Kf8 Kf4 f6 e4 g5+ Ke3 Ke7 g3 Kd6 f4 e5 fxg5 fxg5 Nf3 Bd7 g4 Be8 h4 Bd7 hxg5 hxg5 Nh2 Kc5 Kd3 Kb6 Nf3 Bxg4 Nxg5 b4 axb4 Kb5 Nf7 Bf3 Kc3 Kb6 Nxe5 Bxe4 Kc4 Kc7 Kc5 Kd8 Kb6 Kc8 Ka7 Kd8 b5 Ke8 Kb8 Kd8 b6 Ke7 Kc7 Ba8 Ng6+ Ke8 Kc8 Kf7 Kd7 Bb7 Nf4 Kg7 Ke7 Kg8 Ne6 Ba8 Kf6 Kh8 Nd8 Kg8 Ke7 Kg7 Kd7 Kf6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1769863301.4250214
+  "updated": 1769863342.1114979
 }
