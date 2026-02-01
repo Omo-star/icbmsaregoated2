@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "bot1e",
+  "rating": 2985,
+  "opponent": "Boller1910",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 24,
-  "timestamp": "2026-02-01T08:13:03.629743",
+  "time_control": "TC: 3+1",
+  "time_left": 7,
+  "timestamp": "2026-02-01T08:21:29.309926",
   "last_game": {
-    "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "result": "loss",
+    "opponent": "Boller1910",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 g6 d4 Bg7 Nf3 a6 Bd3 d6 O-O e5 dxe5 dxe5 Nbd2 Nd7 Re1 Ne7 a4 O-O Bf1 Nc6 c3 a5 Qc2 Nb6 b3 Qf6 Bb5 Be6 Nf1 h6 Be3 Nd7 Qc1 Bg4 Be2 Rfd8 h3 Bxf3 Bxf3 Kh7 Be2 Qe7 Qc2 h5 Bc1 Qf6 Bb2 Bh6 Red1 Nb6 Nd2 Rxd2 Rxd2 Bxd2 Qxd2 Nd8 Rd1 Qe7 Qd3 Ne6 Bc1 Rd8 Qb5 Rxd1+ Bxd1 Qc5 Qxc5 Nxc5 f3 Kg7 h4 Ne6 b4 c6 Kf2 axb4 cxb4 Kf8 g4 Nf4 Kf1 Nd3 Ba3 Ke8 Bb3 Nd7 g5 Nf4 a5 Ne6 Bb2 Ke7 b5 cxb5 Bd5 b4 Bxb7 Nc7 Bc6 Nb8 Ba4 Kd6 Ke2 Ne6 Be8 Ke7 Bb5 Kd6 a6 Nc6 Bxc6 Kxc6 Bxe5 Kb6 Kd3 Kxa6 Kc4 b3 Kxb3 Kb5 Kc3 Kc5 f4 Nd8 Bd4+ Kc6 Bf6 Ne6 f5 Nc5 Kd4 Nb3+ Ke3 Kc5 Bc3 Kc4 Bb2 Nc5 e5 gxf5 Kf4 Kd5 Kxf5 Ne4 Ba1 Ng3+ Kf6 Ne4+ Kxf7 Kc4 e6 Kb3 e7 Nd6+ Kf8 Nc4 e8=Q Nb2",
+    "duration": 338,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1769933583.6298676
+  "updated": 1769934089.310051
 }
