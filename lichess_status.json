@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "beastie1",
+  "rating": 3034,
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+4",
-  "time_left": 82,
-  "timestamp": "2026-02-01T08:59:14.019373",
+  "time_control": "TC: 10+0",
+  "time_left": 450,
+  "timestamp": "2026-02-01T09:04:03.655303",
   "last_game": {
-    "result": "win",
-    "opponent": "beastie1",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "result": "draw",
+    "opponent": "SF_Bot1nok",
+    "rating_before": 3034,
+    "rating_after": 3034,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nbd7 g4 Be7 Qd2 h6 O-O-O b5 h4 Nb6 Na5 Qc7 a3 Rb8 Bxb5+ axb5 Nxb5 Qd7 Nxd6+ Kf8 Qb4 Qc7 Qc5 Qxc5 Bxc5 Nfd7 Nc6 Ra8 Bb4 Bxd6 Rxd6 Ke8 Rhd1 h5 g5 Nc8 R6d3 f6 Rg1 Kf7 g6+ Ke8 Rc3 Ndb6 Rd1 Nd7 Na5 Ne7 Rd6 Nf8 Rc7 Rc8 Ra7 Bd7 Rd2 Rg8 a4 Nexg6 Nb7 Rb8 Nd6+ Kd8 Ba5+ Ke7 Nf5+ Ke8 Bc7 Nxh4 Nd6+ Ke7 Bxb8 Kd8 Bc7+ Ke7 Nf5+ Nxf5 exf5 Ke8 Bb6 g6 fxg6 Rxg6 Bc5 Kf7 b4 Rg3 Bxf8 Rg5 Raxd7+ Ke6 a5 Rg8 a6 Rxf8 Rd8 Rf7 R2d6+ Kf5 R6d7 h4 a7 Ke6 Rxf7 Kf5 a8=Q Kf4 Qe4+ Kg3 Rg7+ Kh2 Qxh4#",
-    "duration": 800,
+    "moves": "c4 e5 Nc3 Nf6 g3 Bb4 Bg2 O-O e4 Bxc3 bxc3 c6 Ne2 d5 exd5 cxd5 cxd5 Nxd5 d4 exd4 Qxd4 Be6 O-O Nc6 Qc5 Qb6 Qxb6 axb6 Rd1 Rfd8 Rd2 b5 h3 Nb6 Rxd8+ Rxd8 Be3 Nc4 Bc5 Bd5 Rd1 Bxg2 Rxd8+ Nxd8 Kxg2 Ne6 Bd4 Kf8 Kf3 Ke7 Ke4 Kd6 g4 Ng5+ Kf5 Ne6 f4 Nxd4+ Nxd4 Kd5 Nxb5 Ne3+ Kg5 Nd1 Nc7+ Ke4 c4 Nf2 f5 Ke5 Ne8",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1769936354.019434
+  "updated": 1769936643.6554534
 }
