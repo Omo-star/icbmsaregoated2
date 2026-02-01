@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2985,
-  "opponent": "Mr-Best",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: 3+0",
-  "time_left": 163,
-  "timestamp": "2026-01-31T23:24:45.961184",
+  "rating": 3071,
+  "opponent": "abdcebot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 23,
+  "timestamp": "2026-02-01T07:56:19.632169",
   "last_game": {
-    "result": "win",
-    "opponent": "Mr-Best",
-    "rating_before": 2985,
-    "rating_after": 2985,
+    "result": "draw",
+    "opponent": "abdcebot",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e3 b5 Bxb5 e6 Bxd7+ Nxd7 b4 Bxb4 Nf3 Bxd2+ Bxd2 g5 Nxg5 Qxg5 e4 Qxg2 e5 Qxf2+ Kxf2 Nxe5 c4 Nxc4 Bh6 Nxh6 Qg4 Nxg4+ Rd1 Nxf2 Rd8+ Kxd8 Na3",
-    "duration": 180,
+    "moves": "e4 e5 Bc4 Nf6 Nc3 Nc6 d3 Na5 Bb3 Nxb3 axb3 d5 Nf3 d4 Ne2 Bd6 h3 c5 O-O O-O Nh2 Ne8 f4 exf4 Bxf4 f5 Bxd6 Nxd6 b4 cxb4 Nxd4 Qb6 c3 Re8 Qb3+ Be6 Qxb4 Qxb4 cxb4 fxe4 dxe4 Bc4 Rfc1 Rxe4 Nhf3 Re7 Ra5 a6 Rc5 Bd3 Rd5 Nb5 Nc6 Re3 Re5 Rxe5 Nfxe5 Be4 Ne7+ Kf8 Nc8 Bf5 Nb6 Re8 Rf1 g6 Ned7+ Kg7 Nc5 Re2 g4",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1769901885.9612453
+  "updated": 1769932579.6322806
 }
