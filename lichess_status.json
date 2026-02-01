@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "BorkaTower",
+  "rating": 2988,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 5,
-  "timestamp": "2026-02-01T12:25:27.787888",
+  "time_control": "TC: 3+0",
+  "time_left": 94,
+  "timestamp": "2026-02-01T12:29:03.832543",
   "last_game": {
-    "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "draw",
+    "opponent": "RaspFish",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nc6 a3 g6 Bg5 f6 Be3 Nge7 Qd2 Qd7 Bd3 b5 O-O Bg7 h4 O-O Rfe1 Rb8 b4 Rf7 Rab1 Bf8 a4 Qd8 axb5 axb5 Qe2 dxe4 Nxe4 Nf5 c3 Nxe3 Qxe3 Ne7 Ra1 Nd5 Qd2 Kh8 Bc2 Bb7 Bb3 Rd7 Ra7 Bc6 Ra6 Rb6 Ra2 Bd6 Nxd6 Rxd6 Nh2 Qf8 Nf1 Ne7 Qe2 Bd5 Nd2 Rd8 Ra5 Rdb8 g3 Qe8 Bxd5 Nxd5 Qf3 Qf7 Ne4 Kg7 Nc5 h5 Qd3 Kg8 Rea1 Kg7 Ra7 Re8 R1a5 g5 hxg5 fxg5 R5a6 Rxa6 Rxa6 h4 Qe4 Nb6 gxh4 gxh4 Qxh4 Qg6+ Qg3 Qxg3+ fxg3 e5 dxe5 Rxe5 Kf2 Nd5 Rc6 Rf5+ Ke1 Nxc3 Rxc7+ Kg8 Nd3 Ne4 Ke2 Nxg3+ Ke3 Nh5 Ke4 Rg5 Ne5 Nf6+ Kd4 Rh5 Ra7 Rh7 Ra8+ Kg7 Ra7+ Kg8 Ra8+ Kg7 Ra3 Rh5 Ra6 Rh4+ Kc5 Nd5 Rg6+ Kh7 Kxd5 Rxb4 Rg3 Rh4 Kc6 b4 Kb5 b3 Rxb3 Rh1 Nf7 Rg1 Nh8 Kxh8 Kc6 Rd1 Kc7 Rd5 Kc8 Ra5 Kd8 Re5 Kc8 Re6 Kd8 Rg6 Ke8 Ra6 Kf8 Ra8+ Kf7 Ra7+ Kf8 Kh7 Ke8 Ra6 Kf8 Kh6 Kg8 Ra4 Kf8 Kg6 Ke8 Ra2 Kf8 Kf5 Kg8 Rf2 Kh8 Kf4 Kg8 Kg5 Kh8 Kf5 Kg8 Rf1 Kh8 Kg4 Kg8 Kf4 Kh8 Ke5 Kg8 Kf4 Kh8 Rf2 Kg8 Kf5 Kh8 Re2 Kg8 Kg4 Kh8 Re1 Kg8 Kh4 Kh8 Ra1 Kg8 Ra8+ Kh7 Rf8 Kg7 Ra8 Kh7 Ra5 Kh8 Ra6 Kg8 Kg5 Kh8 Rg6 Kh7 Re6 Kh8",
-    "duration": 30,
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 Qd7 Ng3 Bxd3 Qxd3 h5 h4 Ng8 Nd2 O-O-O Nf3 Qe8 Be3 Nh6 O-O Ne7 Bf2 Qg6 Qd2 Ng4 b4 Kb8 a4 Nc8 f5 exf5 Ne2 Rg8 Bg3 Qe8 Qd3 g6 b5 Bh6 a5 g5 exf6 gxh4 Bxh4 Qg6 f7 Qxf7 Bxd8 Be3+ Kh1 Rxd8 Ne5 Qe7 g3 Nd6 Kg2 Rg8 Rae1 Qg5 Nxg4 hxg4 Nf4 Bxf4 Rxf4 Rh8 Rff1 a6 bxa6 Rh3 Qe3 Ne4 Qxg5",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1769948727.787953
+  "updated": 1769948943.8326466
 }
