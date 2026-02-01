@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3064,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 131,
-  "timestamp": "2026-02-01T11:33:37.089739",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2026-02-01T11:34:31.133809",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "PositionalAI",
+    "rating_before": 3064,
+    "rating_after": 3064,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qf3 Bg5 h4 Bxf4 Qxf4 h5 c4 g6 c5 Ne8 Nf3 Nc7 g3 Ne6 Qd2 Be4 Ne5 Qf6 Bg2 Bxg2 Kxg2 Re8 a4 a6 b4 Qe7 Qd3 Ng7 b5 axb5 axb5 Nf5 b6 Qd8 Ra1 Kg7 Ra7 Qc8 Qd2 Re7 Qf4 Qe6 Kh2 f6 Nf3 Qe2 Kg1 Qd1+ Kg2 Qe2 Kg1 Qd1+ Kg2 Qe2 Ra3 Qe4 Ra8 Qxf4 gxf4 Kf7 Rb8 Rd7 Kh3 Ke6 Kg2 Rf7 Re8+ Re7 Rb8 Ng7 Rc8 Kf5 Rc7 Ke6 Rc8 Kf7 Nd2 Nf5 Nb3 Nxh4+ Kh2 Ke6 Rb8 Kf5 Kg3 g5 Na5 Re1 fxg5 fxg5 f3 Rf1 Rf8+ Kg6 Rg8+ Kf6 Nxb7 Rxf3+ Kh2 Rb3 Nd6 Rb2+ Kh3 Rb3+ Kh2 Rb2+ Kh3 Rb3+ Kh2",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Nc3 Nd4 Bc4 Bc5 d3 c6 Nxe5 d5 exd5 O-O O-O cxd5 Bb3 Re8 Bf4 b5 Bg3 a6 Re1 Ra7 Ne2 Rae7 c3 Nxb3 axb3 Rxe5 Bxe5 Rxe5 d4 Rxe2 Qxe2 Bd6 c4 bxc4 bxc4 dxc4 d5 a5 Qxc4 h6 h3 Bf5 Qa6 Nh5 Rxa5 Kh7 g3 Nxg3 fxg3 Bxg3 d6 Bg6 Re2 Bxd6 Qc6 Bd3 Rd5 Bxe2 Rxd6 Qe7 Qc5 Qe4 Rd2 Bd3 Qf2 f5 Qg3 Be2 b4 Bb5 Rg2 Qd4+ Kh2 Qd7 Qc3 Qe7 Rf2 Qd6+ Qg3 Qxb4 Qf4 Qxf4+ Rxf4 Kg6 h4 Bc6 Rf1 Be4 Ra1 Kh5 Rg1 g5 hxg5 hxg5 Ra1",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1769945617.089868
+  "updated": 1769945671.1339116
 }
