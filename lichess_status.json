@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "bot1e",
+  "rating": 2986,
+  "opponent": "Fischer_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-02-02T08:55:56.536205",
+  "time_control": "TC: 3+0",
+  "time_left": 118,
+  "timestamp": "2026-02-02T08:58:27.996913",
   "last_game": {
     "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "Fischer_Bot",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 a6 Nf3 d5 Nc3 Bg4 h3 Bxf3 Qxf3 e6 Bd3 Nd7 Be3 dxe4 Nxe4 Ngf6 Nd2 Nd5 O-O-O Qc7 Kb1 Be7 h4 b5 g4 b4 g5 a5 Ne4 a4 Rc1 O-O h5 c5 c3 bxc3 Nxc3 Nxe3 Qxe3 Rfb8 Qe4 Nf8 f4 Ra5 h6 c4 hxg7 Ng6 Rxh7 Kxh7 Qh1+ Kg8 Bxg6 fxg6 Qh8+ Kf7 d5 exd5 Qh7 Rg8 f5 Qb6 Rf1 a3 fxg6+ Ke8 Qxg8+ Kd7",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Rd1+ Ke8 Nc3 Ne7 Be3 Ng6 h3 Bb4 Ne2 a5 a3 Be7 Rd2 a4 Rad1 h5 Bg5 Be6 Ned4 Nxe5 Nxe5 Bxg5 Nxe6 fxe6 Re2 Rd8 Rde1 Bf6 Nd3 Kf7 Rxe6 Rhe8 Rxe8 Rxe8 Rxe8 Kxe8 b3 axb3 cxb3 Ke7 Kf1 Kd6 Ke2 g5 Nb4 c5 Nc2 Ke5 g3 b5 Kd3 c6 Ne3 Be7 Ng2 Kf5 f4 Bd6 Ne3+ Kf6 fxg5+ Kxg5 g4 hxg4 Nxg4 c4+ bxc4 Bxa3",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770022556.5363343
+  "updated": 1770022707.9970846
 }
