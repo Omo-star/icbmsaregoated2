@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3033,
-  "opponent": "shakthitssmp",
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00be+15",
-  "time_left": 193,
-  "timestamp": "2026-02-02T14:00:08.500581",
+  "time_control": "TC: 10+0",
+  "time_left": 474,
+  "timestamp": "2026-02-02T14:06:45.660234",
   "last_game": {
-    "result": "win",
-    "opponent": "shakthitssmp",
+    "result": "draw",
+    "opponent": "caissa-x",
     "rating_before": 3033,
     "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c5 cxd5 cxd4 Qxd4 Nf6 Nc3 e6 e4 Nc6 Qd1 exd5 exd5 Ne7 d6 Nf5 Bb5+ Bd7 Qe2+ Ne7 Nf3 Bxb5 Nxb5 Qa5+ Bd2",
-    "duration": 450,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "b3 e5 Bb2 Nc6 c4 Nge7 Nf3 d5 cxd5 Nxd5 e4 Ndb4 d3 Bg4 a3 Na6 b4 Bxf3 gxf3 Nd4 f4 Nb8 Nd2 Nbc6 Rc1 a5 b5 Nxb5 Nf3 a4 fxe5 Bxa3 Bxa3 Nxa3 d4 Qe7 Be2 O-O O-O Rfd8 d5 Nxe5 Nxe5 Qxe5 Qd3 Qb2 Ra1 Nc2 Rab1 Qa2 Qd2 c5 Rfc1 Nb4 Qe1 Nc2 Qd2 Nb4 Rb2 Qa3 Kg2 Rd6 Rc3 Qa1 Rc1 Qa3 Rc3 Qa1 Rc1 Qa3",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770040808.5006711
+  "updated": 1770041205.6603491
 }
