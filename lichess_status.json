@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "Fischer_Bot",
+  "rating": 3035,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 43,
-  "timestamp": "2026-02-02T10:57:38.378867",
+  "time_control": "TC: 10+0",
+  "time_left": 318,
+  "timestamp": "2026-02-02T11:07:18.294758",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 2986,
-    "rating_after": 2986,
+    "opponent": "CloudNetBot",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 h3 e5 d5 a5 Be3 Na6 Nf3 Bd7 Be2 h5 a3 Nc5 Bd3 Nxd3+ Qxd3 Nh7 g3 b6 O-O-O f5 exf5 gxf5 Rhe1 Qf6 Qc2 Kd8 Nxe5 Qxe5 Bg5+ Nxg5 Rxe5 dxe5 d6 c5 Nd5 Rb8 g4 hxg4 hxg4 Nf3 gxf5 Nd4 Rxd4 exd4 Qe4 Re8 Qh4+ Kc8 Ne7+ Kb7 f6 Bf8 f7 Red8 b3 Bc6 Qg3 Ra8 Kd2 a4 b4 cxb4 axb4 a3 b5 Bh1 Qh2 Bf3 Qf4 Bd5 Qe5 Bg2 f3 Bxf3 Qf5 Bg2 Qg5 Bf3 Qg3 Bh1 Qh4 Bd5 Nxd5 a2 Qe4 a1=Q Nb4+ Kb8 Nc6+ Kc8 Ne7+ Kb8 Nc6+ Kc8 Ne7+ Kb8 Nc6+",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "Nf3 d5 d4 Nf6 e3 e6 c4 b6 Nbd2 Bb7 cxd5 exd5 b3 Bd6 Be2 O-O Bb2 Nbd7 O-O Re8 Rc1 Qe7 Rc2 a5 Bb5 Rec8 Qc1 Ba6 Bxa6 Rxa6 a4 Raa8 Nb1 Nb8 Ba3 Bxa3 Qxa3 c5 Nc3 Na6 Rcc1 Nb4 h3 Ne4 Qa1 h6 Rfd1 Rab8 Qb1 Rc7 dxc5 Nxc3 Rxc3 bxc5 Qf5 Rb6 h4 Rf6 Qg4 Rfc6 Qf5 Na2 Rc2 Nb4 Rc3 c4 Qe5 Qf8 Nd4 Rc5 h5 Na2 Rc2 Nb4 Rc3 Nd3 Qg3 Qe7 Nf5 Qf6 Nd4 Nb2",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770029858.37905
+  "updated": 1770030438.2948792
 }
