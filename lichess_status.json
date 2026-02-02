@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "maia1",
+  "rating": 3067,
+  "opponent": "bot1e",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 480,
-  "timestamp": "2026-02-02T08:26:58.808934",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-02-02T08:27:55.407967",
   "last_game": {
-    "result": "win",
-    "opponent": "maia1",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "result": "draw",
+    "opponent": "bot1e",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 h3 Nf6 Nc3 Bb4 Nd5 Nxd5 exd5 Nd4 Nxd4 exd4 Be2 O-O O-O d6 c4 dxc3 bxc3 Bc5 a4 Qg5 d4 Bxh3 Bxg5 Bxg2 Kxg2 Bb6 Bd3 f6 Qh5 fxg5 Bxh7+ Kh8 Bg6+ Kg8 Qh7#",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rxe2 Kxe2 Kg7 Kf3 Bc5 Ke4 Kf7 Ba5 Bb6 Bc3 Bf2 Ba5 Bb6 Bc3 Bc5 Bd4 Bb6 Be3 Kg7 Bd2 Kf8 Bc3 Kf7 Bd4 Ke7 Bc3 Kf7 Bd2 Kg7 Bf4 Kf7 Be3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1770020818.8090026
+  "updated": 1770020875.4081044
 }
