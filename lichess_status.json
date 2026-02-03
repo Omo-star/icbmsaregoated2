@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3072,
-  "opponent": "Alehkine_cat",
+  "rating": 3071,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 41,
-  "timestamp": "2026-02-03T15:56:36.216577",
+  "time_left": 57,
+  "timestamp": "2026-02-03T15:57:42.119258",
   "last_game": {
     "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3072,
-    "rating_after": 3072,
+    "opponent": "ToromBot",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Bc5 a4 Rb8 c3 d6 d4 Bb6 a5 Ba7 h3 Bb7 Be3 Nxe4 d5 Bxe3 dxc6 Nxf2 Qe2 Nxh3+ Kh1 Nf2+ Rxf2 Bxf2 cxb7 Ba7 Bd5 Qd7 Nd4 Qe7 Bc6+ Kf8 Nf3 d5 Qxe5 Qxe5 Nxe5 Ke7 Nd3 Kd6 Nb4 Bc5 Nxa6 Kxc6 Nxc5 Kxc5 a6 b4 Nd2 bxc3 bxc3 Kb6 a7 Rxb7 a8=Q Rxa8 Rxa8 g6 Kg1 Ra7 Rd8 c6 Nf3 Kc7 Rf8 Kd6 Kh2 h6 Rd8+ Kc5 Rc8 Kd6 Rd8+",
+    "moves": "c4 e5 b3 Nc6 Bb2 Nge7 Nf3 d5 cxd5 Nxd5 e4 Ndb4 d3 Bg4 a3 Na6 b4 Bxf3 gxf3 Nd4 f4 Nb8 Nd2 Nbc6 Rc1 a5 b5 Nxb5 fxe5 a4 Nf3 Bxa3 Bxa3 Nxa3 d4 Qe7 Be2 O-O O-O Rfd8 d5 Nxe5 Nxe5 Qxe5 Qd3 Qb2 Ra1 Nc2 Rab1 Qa2 Qd2 c5 Rfc1 Nb4 Qe3 Nc2 Qd2 Nb4 Qe1 Nc2 Qd2 Nb4",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770134196.2167218
+  "updated": 1770134262.1193635
 }
