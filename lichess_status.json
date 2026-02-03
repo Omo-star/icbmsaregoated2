@@ -5,18 +5,18 @@
   "opponent": "reallybadatatomic",
   "variant": "Variant: Atomic",
   "time_control": "TC: 1+0",
-  "time_left": 51,
-  "timestamp": "2026-02-03T21:06:26.386104",
+  "time_left": 34,
+  "timestamp": "2026-02-03T21:07:48.258779",
   "last_game": {
     "result": "win",
     "opponent": "reallybadatatomic",
     "rating_before": 3060,
     "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 d5 Ne5 Bg4 Qf3 e6 Nd7 Bb4 c3 Bd6 Nf8 c6 Nxh7 d4 Qf5 Be2 Qh5+ Bxf1",
+    "moves": "Nf3 f6 e3 e6 Nd4 f5 Qh5+ g6 Nb5 Qh4 Qxh4 Nf6 f3 Ne4 fxe4 Bb4 N1c3 a6 Nxc7+ O-O Bb5 f4 O-O f3 g3 f2+ Kh1 Bxc3 Be2 h5 d4 b5 e4 d5 h4 e5 Bg5 Re8 c4 exd4 c5 dxe4 Bf3 Re1 Rd1 Re8 Rd7 Re7 Bd5+ Kh8 Bf6+ Kh7 Bg8+ Kh6 Bg7+",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770152786.3861668
+  "updated": 1770152868.2588384
 }
