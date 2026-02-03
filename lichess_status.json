@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "Fruity23",
+  "rating": 3033,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 144,
-  "timestamp": "2026-02-03T09:25:07.671527",
+  "time_control": "TC: 10+0",
+  "time_left": 400,
+  "timestamp": "2026-02-03T09:33:40.437501",
   "last_game": {
     "result": "draw",
-    "opponent": "Fruity23",
-    "rating_before": 2986,
-    "rating_after": 2986,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3033,
+    "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 c5 Nf3 cxd4 Nxd4 Nc6 Nxc6 bxc6 Bd3 a5 O-O e6 c4 dxc4 Bc2 Qxd1 Rxd1 Ne7 Ba4 Rb8 Nd2 Rb4 b3 cxb3 axb3 Bd7 Ba3 Rd4 Nc4 Rxd1+ Rxd1 Nd5 Bxf8 Kxf8 Nxa5 g5 h4 gxh4 Nxc6 Kg7 Nd4 Nc3 Nf5+ exf5 Rxd7 Kg6 Rc7 Nxa4 bxa4 Ra8 Rc4 Kg5 Rd4 Ra5 Rb4 Ra6 Kh2 f4 f3 Kf5 Kh3 Kg5 e6 fxe6 Rb5+ Kf6 a5",
-    "duration": 251,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 Nf8 Ne3 c5 b5 a6 h5 Ne6 Nf5 axb5 axb5 Rxa1 Qxa1 Bf8 Qa8 Bd7 Qd5 Qe8 Ra1 c6 bxc6 Bxc6 Qa2 b5 Ne3 Nf4 h6 c4 hxg7 Rxg7 Nh4 Bd7 g3 Qh5 Nef5 Bxf5 Nxf5 Qh3 Bxf4 exf4 Qa8 Rxg3+ fxg3 fxg3 Nxg3 Qxg3+ Kf1 Qf3+ Ke1 Qe3+ Kf1 Qf3+ Ke1 cxd3 cxd3 Qe3+ Kf1 Qf3+ Kg1 Qg3+ Kf1 Qxd3+ Kf2 Qd4+ Ke2 Qc4+ Kd2 h5 Qd5+ Kg7 Rg1+ Kh6 Qxc4 bxc4 Kc3",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770110707.671685
+  "updated": 1770111220.4375918
 }
