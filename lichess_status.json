@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "RaspFish",
+  "rating": 3066,
+  "opponent": "speedcoresryzenpower",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 43,
-  "timestamp": "2026-02-03T17:18:10.988832",
+  "time_left": 36,
+  "timestamp": "2026-02-03T17:19:25.297149",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "speedcoresryzenpower",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Bg5 h6 Bxf6 Bb4+ Nd2 Qxf6 a3 Bxd2+ Qxd2 c5 Nf3 d6 e3 Nc6 Be2 b6 O-O Bb7 Rfd1 O-O b4 Rac8 e4 cxd4 Nxd4 Ne5 Nb5 Nxc4 Bxc4 Rxc4 Nxd6 Rd8 Rac1 Rxc1 Qxc1 Qe7 e5 Bd5 f4 Rd7 Qc8+ Rd8 Qc1 Rd7 Qc8+ Rd8 Qc1 Rd7",
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Bf5 Qf3 Bg6 Bxf6 Qxf6 Qxf6 gxf6 Nf3 Nd7 g3 Nb6 a3 a5 b3 a4 b4 Nc8 Be2 b5 Nh4 Nd6 Ra2 O-O-O Ng2 Bf5 Nf4 Nc4 O-O Kb7 Rc1 Bd6 Nh5 Be7 Bf3 Rhg8 Be2 Rh8 Bd1 Rhg8 Ne2 Bg4 Nef4 f5 Nd3 Bg5 Nhf4 Bxd1 Rxd1 Rde8 Kf1 Kc7 Rc1 Bf6 Nh5 Be7 Nhf4 Bd6 Ke2 Rg4 Kf3",
     "duration": 60,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770139090.9889534
+  "updated": 1770139165.2972484
 }
