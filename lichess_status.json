@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "ToromBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 31,
-  "timestamp": "2026-02-02T14:09:23.399495",
+  "rating": 3033,
+  "opponent": "gafni",
+  "variant": "Variant: From Position",
+  "time_control": "TC: 5+10",
+  "time_left": 398,
+  "timestamp": "2026-02-03T03:05:43.662814",
   "last_game": {
-    "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "result": "win",
+    "opponent": "gafni",
+    "rating_before": 3033,
+    "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "c4 c5 g3 d6 h3 Nf6 Bg2 g6 Nc3 Bg7 e3 e5 Nge2 Nc6 d3 O-O O-O Be6 Nd5 Ne7 Nxf6+ Bxf6 Rb1 Qd7 b4 cxb4 Rxb4 Rab8 Kh2 Rfd8 Nc3 d5 Ba3 b6 Qb1 Bg7 Rd1 d4 exd4 Qxd4 Nd5 Nc6 Rb2 Bf8 Bxf8 Kxf8 Nc7 Qd6 Nxe6+ Qxe6 Re1 Rbc8 f4 Qd7 fxe5 Qxd3 Qc1 Nd4 Qf4 Qc3 Rf2 Nf5 Re4 Rd4 g4 Rcxc4 Rfe2 Ng7 Rf2 Nf5 gxf5",
-    "duration": 131,
+    "moves": "e4 e5 d3 f5 exf5 d6 f4 Bxa2 Bh5 Bf7 Bxf7 Kxf7 fxe5 Qxf5+ Bf2 Rxe5 O-O Bf6 Nb3 Nc6 Nc3 Rxe1 Bxe1 Qg6 Ne4 Nb6 Qe3 Re8 Qh3 Kg8 Nxf6+ gxf6 Qf3 Rf8 h3 f5 Bd2 Nd7 Na5 Nxa5 Qd5+ Kg7 Qxa5 b6 Qxa7 Rf7 Qxc7 Ne5 Qxb6",
+    "duration": 790,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1770041363.3996122
+  "updated": 1770087943.6629229
 }
