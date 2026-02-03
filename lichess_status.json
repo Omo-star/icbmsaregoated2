@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3073,
-  "opponent": "Alehkine_cat",
+  "opponent": "Dummy67",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-02-03T16:25:10.090593",
+  "time_left": 45,
+  "timestamp": "2026-02-03T16:26:10.481465",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
+    "result": "win",
+    "opponent": "Dummy67",
     "rating_before": 3073,
     "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 dxc5 Bxc5 Nf3 b6 Bf4 Bb7 Rd1 O-O e3 Nh5 Bd6 Bxd6 Rxd6 Nf6 Rd2 Qe7 Be2 d5 O-O Rc8 cxd5 Nxd5 Nxd5 Bxd5 Qa4 Nd7 Rc2 Nc5 Qf4 a5 b3 a4 bxa4 Qf6 Qxf6 gxf6 Bb5 Rd8 Nd4 Be4 Rb2 Nxa4 Bxa4 Rxa4 Ne2 Raa8 Rxb6 Bd3 Rb2 Rab8 Rd2 Ba6 Rc2 Bd3 Rd2 Bc4 Rc2 Bd3 Rd2",
+    "moves": "e4 d5 exd5 Nf6 d4 Bg4 Be2 Bxe2 Qxe2 Qxd5 Nf3 Qc6 O-O Nbd7 c4 O-O-O Ng5 e5 d5 Qd6 Nxf7 Qe7 Nxh8 Nc5 Nc3 e4 Bg5 Qe5 Nf7 Qf5 Bxf6 Qxf6 Nxd8 Kxd8 Nxe4 Nxe4 Qxe4 Qxb2 Rfe1 Qf6 Qe8#",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770135910.0907264
+  "updated": 1770135970.4815269
 }
