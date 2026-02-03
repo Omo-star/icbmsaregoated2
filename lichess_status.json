@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3072,
-  "opponent": "Alehkine_cat",
+  "rating": 3071,
+  "opponent": "Dummy67",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 38,
-  "timestamp": "2026-02-03T16:37:08.003018",
+  "time_left": 58,
+  "timestamp": "2026-02-03T16:37:28.455872",
   "last_game": {
-    "result": "draw",
-    "opponent": "Alehkine_cat",
-    "rating_before": 3072,
-    "rating_after": 3072,
+    "result": "win",
+    "opponent": "Dummy67",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 dxc5 Bxc5 Nf3 Nc6 Bg5 Qb6 Qxb6 Bxb6 h3 h6 Bd2 Bc5 Rd1 b6 a3 Bb7 e4 Nd4 Bd3 Nxf3+ gxf3 Bd6 h4 Nh5 Ne2 f5 Rh3 fxe4 Bxe4 Bxe4 fxe4 Be7 Bb4 Rf8 Bxe7 Kxe7 b3 a6 Rd4 d6 Re3 Rad8 Rd2 g5 hxg5 hxg5 Nd4 Rc8 e5 d5 cxd5 exd5 Rh3 Nf4 Rh7+ Rf7 Nf5+ Ke6 Nd4+ Ke7 Nf5+ Ke6",
+    "moves": "e4 d5 exd5 Qxd5 Nc3 Qc6 Bb5",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770136628.0031662
+  "updated": 1770136648.4559658
 }
