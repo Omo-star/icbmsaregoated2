@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "Botyuliirma",
+  "rating": 2986,
+  "opponent": "Fischer_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2026-02-03T08:45:26.483650",
+  "time_control": "TC: 3+0",
+  "time_left": 152,
+  "timestamp": "2026-02-03T08:46:52.528146",
   "last_game": {
     "result": "draw",
-    "opponent": "Botyuliirma",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "opponent": "Fischer_Bot",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 h6 Bh4 Be7 Bd3 O-O Nge2 a5 O-O Re8 Rc1 Nbd7 h3 Nh5 Bxe7 Qxe7 Re1 Qh4 Nb1 g6 Nd2 Ng7 Nc3 Qd8 a3 Nf6 b4 Bf5 Nf3 Bxd3 Qxd3 Ne6 Qb1 axb4 axb4 Qd6 Ne5 h5 Nd3 b5 Qc2 Nd7 Nb1 Rec8 Nd2 Nb6 Ra1 Nc4 Nf3 Qe7 Ra2 Ng5 Nfe5 Rxa2 Qxa2 Nxe5 dxe5 Qe8 Qb2 Ra8 Kh2 Qc8 Nc5 Ne6 Nb3 Ra4 Nd4 Nxd4 exd4 Qf8 e6 Qd6+ g3 fxe6 Kg2 Kg7 Qc1 Rxb4 Qa3 Qe7 h4 c5 dxc5 Rc4 Qa6 e5 c6 Qd6 Qxb5 Rxc6 Ra1 Rc7 Ra6 Qd7 Qb6 Qf7 Qd6 e4 Qe5+ Kh7 Rf6 Qg7 Qf4 Qe7 g4 e3 gxh5 e2 hxg6+ Kg8 Rf8+ Qxf8 Qxc7 Qf6 Qc8+ Kg7 Qd7+ Kf8 Qc8+ Kg7 Qc7+ Kxg6 Qc2+ Kf7 Qxe2 Qxh4 Qf3+ Ke6 Qe3+ Qe4+ Qxe4+ dxe4 Kh3 Ke5 Kg4 Kd5 Kh5 Kd4 Kh6 Kd3 Kg6 Ke2 Kf5 e3 fxe3 Kxe3",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c5 cxd5 cxd4 Qxd4 exd5 e4 dxe4 Qxd8+ Kxd8 Ng5 Be6 Nxe6+ fxe6 Bg5 Nc6 Bc4 Ke7 Nxe4 Kf7 Bxf6 gxf6 O-O-O Rd8 Rxd8 Nxd8 Rd1 Be7 Rd7 f5 Nd6+ Kf6 Kd1 b6 Bb5 a6 Bxa6 Nc6 Nb5 Nb8 Ra7 Rd8+ Ke2 Rd5 Nc7 Ra5 Ne8+ Kf7 Nd6+ Kf6 Ne8+ Kf7 Nd6+ Kf6 Ne8+",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770108326.4837523
+  "updated": 1770108412.528265
 }
