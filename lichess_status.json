@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3074,
-  "opponent": "ANAtol2016",
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 33,
-  "timestamp": "2026-02-03T15:43:44.317723",
+  "time_left": 23,
+  "timestamp": "2026-02-03T15:45:13.087606",
   "last_game": {
-    "result": "win",
-    "opponent": "ANAtol2016",
+    "result": "draw",
+    "opponent": "RaspFish",
     "rating_before": 3074,
     "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c5 g3 g6 Bg2 Bg7 Nf3 Nc6 O-O d6 Nc3 Bg4 d3 Ne5 h3 Nxf3+ Bxf3 Bxh3 Bg2 Qd7 Kh2 Be6 Qf3 h5 Kg1 Bg4 Qe3 Bd4 Qf4 h4 gxh4 Be5 Qg5 Rh5 Qe3 Rxh4 Re1 Bh3 Bxh3 Rxh3 Kf1 Qg4 Qxh3 Qxh3+ Ke2 Qg4+ Kd2 Bf4+ Re3 Nf6 Ke1 Qg1+ Kd2 Qxf2+ Kd1 Bxe3 Bxe3 Qxe3 Ne2 O-O-O Nf4 Rh8 Ne2 Rh1+ Ng1 Rxg1#",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 Qd7 Ng3 Bxd3 Qxd3 h5 h4 O-O-O Nd2 Qe8 Nf3 Ng8 Be3 Nh6 O-O Ne7 Rac1 Qg6 Qxg6 Nxg6 Bd2 Be7 Kh2 fxe5 fxe5 Nxh4 Ng5 Kd7 Kh3 N6f5 Nf7 Nxg3 Kxg3 g5 b4 Nf5+ Kh2 g4 a4 Rhg8 Nxd8 Bxd8 g3 h4 gxh4 g3+ Kh3 Nxh4 Rf7+ Ke8 Rf4 Nf5 Rg1 Kd7 Kg2 Nh4+ Kf1 Nf5 Be1 a5 bxa5 c5 dxc5 Bc7 Ke2 Rg7 Kd3",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770133424.317787
+  "updated": 1770133513.0877843
 }
