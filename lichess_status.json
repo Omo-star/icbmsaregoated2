@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "gafni",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+10",
-  "time_left": 67,
-  "timestamp": "2026-02-03T20:00:19.523964",
+  "rating": 3060,
+  "opponent": "reallybadatatomic",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 1+0",
+  "time_left": 51,
+  "timestamp": "2026-02-03T21:06:26.386104",
   "last_game": {
     "result": "win",
-    "opponent": "gafni",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "reallybadatatomic",
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "d4 d5 c3 c6 Nd3 Ne6 g3 h5 Bc2 Bc7 Ne3 g6 Bd2 Bd7 O-O-O Nd6 f3 f6 Ng2 Nc4 e4 dxe4 fxe4 Nxd2 Rxd2 O-O-O Re1 Ng5 Qf1 Bg4 Rf2 Qh6 Kb1 Nh3 Rfe2 Kb8 Nc5 e5 Ne3 Bxe2 Rxe2 Ng5 h4 Nh7 d5 Bb6 b4 Bxc5 bxc5 Qf8 d6 Rg7 c4 Rc8 Qd1 Qd8 Qd2 Nf8 a4 Nd7 Qb4 a5 Qa3 b6 cxb6 Qxb6+ Qb3 Qxb3+ Bxb3 Nc5 Bc2 Rd8 Rd2 Rgd7 Ka2 Rxd6 Rxd6 Rxd6 Nf1 Rd4",
-    "duration": 1100,
+    "moves": "Nf3 f6 e3 d5 Ne5 Bg4 Qf3 e6 Nd7 Bb4 c3 Bd6 Nf8 c6 Nxh7 d4 Qf5 Be2 Qh5+ Bxf1",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "variantEnd"
   },
-  "updated": 1770148819.5240605
+  "updated": 1770152786.3861668
 }
