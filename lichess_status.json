@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "Bot1nokk",
+  "rating": 3068,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+5",
-  "time_left": 726,
-  "timestamp": "2026-02-03T09:40:27.041506",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-02-03T09:40:54.183439",
   "last_game": {
     "result": "draw",
-    "opponent": "Bot1nokk",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "opponent": "PositionalAI",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bd7 Nf5 Qe6 Ng7 Qe7 Nf5 Qe6 Ng7 Qe7 Nf5",
-    "duration": 865,
+    "moves": "d4 Nf6 Bf4 d5 e3 c5 Nf3 Nc6 h3 Qb6 Nc3 c4 Rb1 Qa5 Be2 e6 O-O Bb4 Ne5 Bxc3 bxc3 Ne4 Nxc6 bxc6 Bf3 Nxc3 Qe1 Qa3 e4 Nxb1 exd5 c3 Qxb1 cxd5 Bxd5 exd5 Qb5+ Bd7 Re1+ Kd8 Qxd5 Rc8 Qxf7 Qf8 Bg5+ Kc7 Bf4+ Kd8 Bg5+ Kc7 Bf4+ Kd8 Bg5+",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770111627.0416012
+  "updated": 1770111654.1835253
 }
