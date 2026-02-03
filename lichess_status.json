@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3072,
-  "opponent": "Dummy67",
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-02-03T16:35:14.335998",
+  "time_left": 33,
+  "timestamp": "2026-02-03T16:36:19.306621",
   "last_game": {
-    "result": "win",
-    "opponent": "Dummy67",
+    "result": "draw",
+    "opponent": "ToromBot",
     "rating_before": 3072,
     "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 g6 Nf3 d6 Bc4 Nf6 O-O Nxe4 Re1 Nf6 Qe2 e6 Ng5 Bg7 d4 O-O c3 b6 Bd3 c5 Qc2 Bb7 Nxe6 fxe6 Rxe6 Qd7 Bc4 d5 Re1 dxc4 Bf4 cxd4 cxd4 Qd5 Be5 Qxg2#",
+    "moves": "d4 f5 g3 e6 c4 Be7 Nf3 Nf6 Bg2 O-O O-O d6 Nc3 Ne4 Nxe4 fxe4 Nd2 d5 f3 Nc6 fxe4 Rxf1+ Kxf1 dxc4 Nf3 b5 Be3 Qe8 d5 Nb4 a3 Na6 b4 Bb7 Bh3 exd5 Be6+ Kh8 Ne5 Bf6 Nf7+ Kg8 exd5 Kf8 Ng5 Qg6 Qb1 Qxb1+ Rxb1 Bxg5 Bxg5 Bc8 Bxc8 Rxc8 Ra1 c6 dxc6 Rxc6 Be3 Rc7 Rd1 Ke8 Ke1 Re7 Bg5 Rd7 Be3 Re7 Bf2 Nb8 Bc5 Rc7 Rd5 a6 Bb6 Rd7 Rc5",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770136514.3360589
+  "updated": 1770136579.3067553
 }
