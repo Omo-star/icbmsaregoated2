@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3060,
-  "opponent": "reallybadatatomic",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2026-02-03T21:09:27.483195",
+  "rating": 3031,
+  "opponent": "gafni",
+  "variant": "Variant: From Position",
+  "time_control": "TC: 5+10",
+  "time_left": 247,
+  "timestamp": "2026-02-03T21:44:40.349716",
   "last_game": {
     "result": "win",
-    "opponent": "reallybadatatomic",
-    "rating_before": 3060,
-    "rating_after": 3060,
+    "opponent": "gafni",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 e6 Nd4 f5 Qh5+ g6 Qg5 Qxg5 Nb5 Nf6 f3 Ne4 fxe4 Bb4 N1c3 a6 Nxc7+ O-O Bb5 f4 O-O f3 g3 f2+ Kh1 Ba3 bxa3 axb5 Ba3 d6 N3xb5 Ra4 Nc7 Rb4 Bxb4 b5 a4 Ra8 Nxa8 bxb4 a5 b3 a6 b2 a7 b1=Q Raxb1 Kg7 a8=Q Kh6 Qg8 Kh5 Qxg6+",
-    "duration": 30,
+    "moves": "b4 b6 f4 f6 d3 g6 Bd4 a5 b5 c5 Bb2 d5 g3 Qa7 a4 Qc7 e4 d4 Ne2 e5 c3 Bg7 O-O Ne7 Ba3 Nb7 cxd4 exd4 Bg2 O-O-O Rc1 Qd7 Nb2 Kb8 Nc4 Ka7 Rc2 f5 e5 Bd5 Qe1 Bxg2 Kxg2 Nd5 Nxd4 cxd4 e6 Qe7 Bxe7 Nxe7 Nxa5 bxa5 Rc7 Kb6 Rxe7 Bf6 Rxb7+ Kxb7 e7 Bxe7 Qxe7+ Kb6 Re1",
+    "duration": 930,
     "bot_color": "white",
-    "termination": "variantEnd"
+    "termination": "resign"
   },
-  "updated": 1770152967.4832563
+  "updated": 1770155080.3497775
 }
