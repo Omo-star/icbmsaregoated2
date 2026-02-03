@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "speedcoresryzenpower",
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 36,
-  "timestamp": "2026-02-03T17:19:25.297149",
+  "time_left": 38,
+  "timestamp": "2026-02-03T17:20:36.907302",
   "last_game": {
     "result": "draw",
-    "opponent": "speedcoresryzenpower",
+    "opponent": "ToromBot",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Bf5 Qf3 Bg6 Bxf6 Qxf6 Qxf6 gxf6 Nf3 Nd7 g3 Nb6 a3 a5 b3 a4 b4 Nc8 Be2 b5 Nh4 Nd6 Ra2 O-O-O Ng2 Bf5 Nf4 Nc4 O-O Kb7 Rc1 Bd6 Nh5 Be7 Bf3 Rhg8 Be2 Rh8 Bd1 Rhg8 Ne2 Bg4 Nef4 f5 Nd3 Bg5 Nhf4 Bxd1 Rxd1 Rde8 Kf1 Kc7 Rc1 Bf6 Nh5 Be7 Nhf4 Bd6 Ke2 Rg4 Kf3",
+    "moves": "c4 c5 Qa4 e6 Nf3 Nc6 e3 Nf6 d4 cxd4 Nxd4 Bc5 Nxc6 dxc6 Qc2 O-O Nc3 Re8 Bd3 e5 O-O h5 Bd2 Bd6 Ne4 Nxe4 Bxe4 Bc7 h3 Be6 Bh7+ Kh8 Bf5 Bxf5 Qxf5 Qxd2 Rad1 Qe2 Rd7 Bd8 Rxf7 h4 Qg6 Bf6 Rxf6 gxf6 Qh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770139165.2972484
+  "updated": 1770139236.907371
 }
