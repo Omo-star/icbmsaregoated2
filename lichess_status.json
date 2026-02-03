@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "SF_Bot1nok",
+  "rating": 3074,
+  "opponent": "ANAtol2016",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 129,
-  "timestamp": "2026-02-03T10:31:17.019233",
+  "time_control": "TC: 1+0",
+  "time_left": 33,
+  "timestamp": "2026-02-03T15:43:44.317723",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "result": "win",
+    "opponent": "ANAtol2016",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 h3 Bf5 Ne5 Bxe5 dxe5 Nc5 g4 hxg4 hxg4 Be4 f3 Bd3 Bg5 Bxf1 Kxf1 Nd3 Bf6 Re6 Re3 Rae8 Rxd3 cxd3 Qxd3 Rxf6 exf6 Re5 Kf2 Qxf6 Kg3 Qd6 Kf2 Re7 Rh1 Qc5+ Kg3 Qd6+ Kg2 Re8 Qd4 Re2+ Kf1 Rh2 Rxh2 Qxh2 b4 Qa2 b5 Qb2 Qxd5 Qxc3 Qe4 Qa1+ Kf2 Kg7 Ke2 Qc3 Kf2 Qb2+ Ke3",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 c5 g3 g6 Bg2 Bg7 Nf3 Nc6 O-O d6 Nc3 Bg4 d3 Ne5 h3 Nxf3+ Bxf3 Bxh3 Bg2 Qd7 Kh2 Be6 Qf3 h5 Kg1 Bg4 Qe3 Bd4 Qf4 h4 gxh4 Be5 Qg5 Rh5 Qe3 Rxh4 Re1 Bh3 Bxh3 Rxh3 Kf1 Qg4 Qxh3 Qxh3+ Ke2 Qg4+ Kd2 Bf4+ Re3 Nf6 Ke1 Qg1+ Kd2 Qxf2+ Kd1 Bxe3 Bxe3 Qxe3 Ne2 O-O-O Nf4 Rh8 Ne2 Rh1+ Ng1 Rxg1#",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770114677.0194001
+  "updated": 1770133424.317787
 }
