@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "gafni",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+10",
-  "time_left": 260,
-  "timestamp": "2026-02-03T22:01:27.178014",
+  "rating": 2992,
+  "opponent": "Mr-Best",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 3+0",
+  "time_left": 180,
+  "timestamp": "2026-02-04T00:56:40.204563",
   "last_game": {
-    "result": "win",
-    "opponent": "gafni",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "result": "draw",
+    "opponent": "Mr-Best",
+    "rating_before": 2992,
+    "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "b4 h6 d3 Bh7 g3 g5 c3 Ne6 Qb2 Rg8 Qd2 c6 e4 f5 f3 Nd6 a4 h5 Ne2 b5 a5 O-O-O Ne3 Qb8 Nc2 g4 exf5 Nxf5 O-O-O Qc7 Kb1 d5 Nc1 Ng5 f4 Nf7 Ka2 Rde8 Rde1 Bg7 Re6 Nd8 Re2 e5 fxe5 Rxe5 Rxe5 Qxe5 Nd4 Bh6 Qe2 Qxe2+ Ndxe2 a6 Kb3 Ne6 c4 bxc4+ dxc4 dxc4+ Kxc4 Rd8 Be4 Nd6+ Kd3 Nxe4+",
-    "duration": 960,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "Nf3",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1770156087.178099
+  "updated": 1770166600.2046394
 }
