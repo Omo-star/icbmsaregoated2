@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3063,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 2993,
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-02-04T10:28:09.049835",
+  "time_control": "TC: 3+0",
+  "time_left": 133,
+  "timestamp": "2026-02-04T10:30:25.454833",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3063,
-    "rating_after": 3063,
+    "opponent": "Alehkine_cat",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Qxd4 Rd8 Qe5 Nd7 Qf4 Nf8 Ne5 Bd7 Nxd7 Rxd7 Bb3 Ng6 Qg4 Ne5 Qe2 Rad8 a3 Nd3 Rc2 Ba5 Ba4 Rd5 b4 Bb6 Bb3 R5d7 Ba4 Rd5 Bb3 R5d7 Ba4 Rd5",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Bc5 a4 Rb8 c3 d6 d4 Bb6 a5 Ba7 h3 Bb7 Be3 Nxe4 d5 Bxe3 dxc6 Nxf2 Qe2 Nxh3+ Kh1 Nf2+ Rxf2 Bxf2 cxb7 Ba7 Bd5 Qd7 Nd4 Qe7 Bc6+ Kf8 Nf3 d5 Qxe5 Qxe5 Nxe5 Ke7 Bxb5 axb5 a6 Kd6 Nxf7+ Kc6 Nxh8 Rxh8 Nd2 Rd8 Nf3 Kb6 b4 Re8 Nd4 Bb8 g4 c6 Nb3 Ka7 g5 Re4 Nd4 Kb6 Nb3 Ka7 Nd4 Kb6 Rf1 Rh4+ Kg2 Rg4+ Kh1 Rh4+ Kg2 Rg4+ Kh3 Rg3+ Kh4 Rxc3 Rf8",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770200889.0499382
+  "updated": 1770201025.454956
 }
