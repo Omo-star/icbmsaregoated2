@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
+  "rating": 3060,
   "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 306,
-  "timestamp": "2026-02-04T08:39:12.439120",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 9,
+  "timestamp": "2026-02-04T08:40:38.467174",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "CloudNetBot",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "rating_before": 3060,
+    "rating_after": 3060,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 Nc3 d5 Nf3 Bg7 Qd2 O-O Bh6 c6 Bxg7 Kxg7 e3 Nbd7 Bd3 Re8 O-O e5 Nxe5 Nxe5 dxe5 Rxe5 h3 d4 exd4 Qxd4 Rfe1 Rxe1+ Rxe1 Be6 a3 b6 Qe3 Qxe3 Rxe3 Rd8 h4 Ng4 Re1 Nh6 f3 Nf5 Bxf5 Bxf5 Re2 Rd4 g3 h6 Kf2 g5 hxg5 hxg5 Ke1 g4 f4 Rd8 Rh2 b5 Nd1 Be4 Ne3 f5 Rh5 Kg6 Rg5+ Kf6 Rh5 Kg6 Rg5+ Kf6 Rh5 a5 b3 Kg6 Rg5+ Kf6 Rh5 Kf7 Rh7+ Ke6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qh4+ Qf2 Qxf2+ Kxf2 Be7 Rhb1 Bd8 Rb8 Rxb8 Rxb8 O-O Rb7 Bc6 Ra7 Ba5 Rxa6 Bxc3 Bxc3 Rc8 Ke3 Bb7 Ra3 h5 g3 Kh7 Kd3 Bc6 Ra5 Be8 f5 exf5 a3 h4 gxh4 Kg6 Rxd5 f4 Bd4 Ra8 c3 Rxa3 e6 fxe6 Rg5+ Kh6 Ke4 Bg6+ Kxf4 Ra2 h5 e5+ Bxe5 Ra4+ Bd4 Bxh5 Rg3 g6 Rh3 g5+ Kf5 Ra5+ Kf6 Ra6+ Kf5 Ra5+ Kf6 Ra6+ Ke5 Ra5+ Kd6 Ra6+ Kc5 Kg6 c4 Be2 Rc3 Kf5 Kd5 g4 Bf2 Bf3+ Kc5 Rh6 Bg3 Re6 Rc2 Ke4 Rd2 Ke3 Ra2 Kd3 Ra3+ Kc2 Kb4 Rb6+ Kc5 Re6 Bf2 Re5+ Kd6 Rh5 Bg3 Kb2 Re3 Kc2 Be5 Kd2 Ra3 Rh6+ Kc5 Rh7 Bf4+ Kc2 Kd6 Rh5 Be5 Rh6+ Kd7 Rh7+ Kd6 Rh6+ Kd7 Rh5 Re3 Rh7+ Kd8 Rh6 c5 Re6 Kd7 Bd5 Bf4 Rc6 Bd6 Ra6 Ke7 Bc6 Ke6 Ra5 Kf6 Ra4 Ke7 Ra6 Ke6 Ra5 Kf5 Ra4 Kf6 Rc4 Rg3 Bd7 Ke7 Bc6 Ra3 Kd2 Kd8 Be4 Kd7 Kc2 Kc7 Rc3 Ra6 Rh3 c6 Kc3 Ra4 Bf3 Bf4 Kc2 Ra5 Rh4 Kb6 Kd3 c7 Rh8 Re5 Rg8 Re6 Be4 Bg3 Bf5 Rd6+ Kc4 Be5 Re8 Rd4+ Kb3 Bg3 Re6+ Kb7 Re8 Rd8 Re4 Rf8 Bd7 c8=R Rb4+ Kc7 Bxc8 Kxc8 Ra4 Kd7 Ra6 Rg8 Kc4 Rxg4+ Kd3 h4 Ke3 Rg5 Ke4 Ke7",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1770194352.43922
+  "updated": 1770194438.4672687
 }
