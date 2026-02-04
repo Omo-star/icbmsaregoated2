@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "demon8941",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: 10+0",
-  "time_left": 594,
-  "timestamp": "2026-02-04T01:12:40.028638",
+  "rating": 2992,
+  "opponent": "SacrificeTheROOOOK36",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 114,
+  "timestamp": "2026-02-04T01:36:54.566353",
   "last_game": {
     "result": "win",
-    "opponent": "demon8941",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "SacrificeTheROOOOK36",
+    "rating_before": 2992,
+    "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "b3 e6 g3 Qh4",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 d5 exd5 Qxd5 Nc3 Qa5 d4 Nf6 Nf3 Bg4 h3 Bxf3 Qxf3 c6 Bd2 e6 Ne4 Bb4 Nxf6+ gxf6 c3 Be7 Bc4 Nd7 a4 O-O-O b4 Qc7 a5 b6 axb6 Qxb6 Ra6 Qb7 Rxc6+ Kb8 Ba6 Qa8 Bf4+ Ne5 dxe5 fxe5 Bxe5+ Rd6 Rxd6 Bxd6 Bxd6#",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770167560.0287004
+  "updated": 1770169014.5664437
 }
