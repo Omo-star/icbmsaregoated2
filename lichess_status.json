@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2987,
-  "opponent": "NewChessEngine-ai",
-  "variant": "Variant: Atomic",
+  "opponent": "Lili-ai",
+  "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-02-04T12:22:45.705300",
+  "time_left": 175,
+  "timestamp": "2026-02-04T12:25:26.867696",
   "last_game": {
     "result": "draw",
-    "opponent": "NewChessEngine-ai",
+    "opponent": "Lili-ai",
     "rating_before": 2987,
     "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 Nxg3 hxg3 c5 dxc5 bxc5 Ne4 Bxe4 Qxe4 Rb8 Rd1 Rxb2 Qf5 d6 Rd3 Rb6 c4 Bd4 Rf3 Qe7 Bd3 f6 Bc2 Rb2 Rb3 Rxb3 axb3 Qe1+ Kh2 Bxf2 Be4 Bxg3+ Kh3 Be5 Qxh7+ Kf8 Qh6+ Ke8 Qg6+ Kd8 Qg8+ Ke7 Qg7+ Ke6 Qg8+ Ke7 Qg7+ Ke6 Qg8+ Ke7 Qg7+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770207765.7053711
+  "updated": 1770207926.8677838
 }
