@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2992,
-  "opponent": "bfiedler-bot",
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+3",
-  "time_left": 33,
-  "timestamp": "2026-02-04T09:39:07.980214",
+  "time_control": "TC: 3+0",
+  "time_left": 135,
+  "timestamp": "2026-02-04T09:40:42.773867",
   "last_game": {
-    "result": "win",
-    "opponent": "bfiedler-bot",
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
     "rating_before": 2992,
     "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Bb4+ Bd2 Bxd2+ Qxd2 O-O O-O Ne4 Qe3 d5 Ne5 Nf6 Rd1 Nc6 b3 Rc8 Nc3 Re8 Nb5 a6 Nxc6 Bxc6 Na7 Bd7 Nxc8 Bxc8 Qc3 Ne4 Bxe4 dxe4 d5 exd5 Rxd5 Qe7 Rad1 Be6 R5d4 Bc8 Qd2 Kf8 Rd8 Be6 Rxe8+ Kxe8 Qd4 f5 g4 Qg5 Qe5 Qxg4+ Kh1 f4 Qxc7 Bd7 Qe5+ Kd8 Qxe4 Kc7 f3 Qf5 Qd4 g6 Qd6+ Kd8 Rd5 Qf7 Qxb6+ Ke7 Qd6+ Kd8 Qb6+ Ke7 Qd6+ Kd8 Re5 Kc8 Rc5+ Kd8 Re5 Kc8 Qc5+ Kb7 Re7 Qf5 Qxf5 gxf5 Rxd7+ Kc6 Rxh7 Kc5 h4 Kb6 h5 Kc5 h6 Kb4 Rd7 Ka3 h7 Kxa2 h8=Q Kxb3 Qd4 Kc2 Rb7 Kc1 Qd3 a5 Rb1#",
-    "duration": 411,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bg2 Bf5 Bf4 Qd7 Ne5 Bxe5 dxe5 Rad8 Bxe4 dxe4 Qxd7 Rxd7 a5 bxa5 Rxa5 Red8 Bg5 Rd1 Rxd1 Rxd1+ Kg2 Bg4 Ra3 Be2 Kh3 Rh1 Kg2 Rb1 Kh3 Rh1 Kg2 Bf3+ Kh3 Bg4+ Kg2 Bf3+ Kh3 Bg4+ Kg2 Rb1 Rxa7 Rxb2 Kf1 Be2+ Ke1 Bf3 h3 Re2+ Kf1 Rb2 Ke1 Re2+ Kf1 Rc2 Ra8+ Kh7",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770197947.9802756
+  "updated": 1770198042.7739787
 }
