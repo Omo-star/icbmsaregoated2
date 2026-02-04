@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "RaspFish",
+  "rating": 3067,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 425,
-  "timestamp": "2026-02-04T10:17:50.587678",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2026-02-04T10:19:03.176895",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "Lili-ai",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 e5 Be2 Nf6 Nf3 Nc6 Nc3 d5 exd5 Nxd5 Bb5 Bg4 h3 Bh5 O-O Nxc3 bxc3 Bd6 d4 O-O Bxc6 bxc6 g4 Bg6 dxe5 Bc5 Qe2 f5 Ng5 Qe7 Kh2 h6 Qc4+ Bf7 Nxf7 Rxf7 Bf4 fxg4 Bg3 h5 Kh1 gxh3 Rad1 Kh8 e6 Rf5 Rd7 Qg5 Rg1 Qg4 Qxg4 hxg4 Bxc7 Re8 Rxg4 Rxe6 f4 Re1+ Kh2 Rh5 Rdxg7 Re2+ Kh1 Re1+ Kh2 Re2+ Kh1 Re1+ Kh2",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 c3 a5 Nbd2 O-O Re1 Ba7 h3 Be6 Bb5 h6 Nf1 Ne7 d4 exd4 Nxd4 Bd7 Bxd7 Qxd7 Ng3 Ng6 f4 a4 Kh2 Rfe8 Qf3 Nh4 Qf1 Ng6 Bd2 h5 Qf3 Nh4 Qf1 c5 Nb5 Ng6 Nxa7 h4 Nh1 Rxa7 f5 Ne5 Bg5 Qe7 Kg1 a3 b3 c4 Bxh4 Nd3 Re3 b5 Qf3 cxb3 axb3 Nc5 Nf2 Qe5 Ra2 Nfxe4 Ng4 Qd5 f6 Re6 c4 bxc4 bxc4 Qxc4 Raxa3 Nd2 Qd1 Rxa3 Rxa3 Nce4 Nh6+ Kh7 Nxf7 Rxf6 Bxf6 gxf6 Qh5+ Kg7 Qg4+ Kh7 Qh4+ Kg7 Qg4+ Kh7 Qf5+ Kg7 Qg4+ Kh7",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770200270.5877676
+  "updated": 1770200343.176982
 }
