@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "PositionalAI",
+  "rating": 3029,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 175,
-  "timestamp": "2026-02-04T11:14:31.487505",
+  "time_control": "TC: 10+0",
+  "time_left": 599,
+  "timestamp": "2026-02-04T11:24:55.672729",
   "last_game": {
-    "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "result": "win",
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Rc2 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Kh3 Kf6 Kh2 Kg6 Bh3 Kf6 Bg2",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nf3 d5 d4 Nf6 e3 e6 c4 Be7 b3 O-O Bb2 b6",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1770203671.4876273
+  "updated": 1770204295.6728134
 }
