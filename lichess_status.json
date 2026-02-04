@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "Mr-Best",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-02-04T01:00:52.703800",
+  "rating": 3031,
+  "opponent": "demon8941",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: 10+0",
+  "time_left": 572,
+  "timestamp": "2026-02-04T01:08:42.022050",
   "last_game": {
-    "result": "draw",
-    "opponent": "Mr-Best",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "result": "win",
+    "opponent": "demon8941",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "Nf3",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "b3 e6 b4 Bxb4 c3 Bxc3 dxc3 Qg5 Bxg5 Kd8 Bxd8 Nc6 Qxd7 Bxd7 Bxc7 Nb4 cxb4 Rb8 Bxb8 a5 bxa5 e5 Bxe5 h5 Bxg7 h4 Bxh8 b6 axb6 Bh3 gxh3 Nf6 Bxf6",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "variantEnd"
   },
-  "updated": 1770166852.7038786
+  "updated": 1770167322.0221162
 }
