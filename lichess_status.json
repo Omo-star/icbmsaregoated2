@@ -5,18 +5,18 @@
   "opponent": "Mr-Best",
   "variant": "Variant: Atomic",
   "time_control": "TC: 3+0",
-  "time_left": 165,
-  "timestamp": "2026-02-05T21:34:02.244249",
+  "time_left": 179,
+  "timestamp": "2026-02-05T21:36:41.601508",
   "last_game": {
     "result": "win",
     "opponent": "Mr-Best",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "Nf3 f6 Nc3 Nh6 g4 c6 d4 e6 e4 f5 exf5 Bb4 Ng5 d5 h4 e5 f3 Bxg4 Bg5 Qb6 Bh3 exd4 c3 Qf2+",
+    "moves": "Nf3 f6 Nc3 Nh6 d4 Ng4",
     "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1770327242.244309
+  "updated": 1770327401.6015797
 }
