@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3037,
-  "opponent": "CruelKen",
+  "rating": 3046,
+  "opponent": "angeei",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 363,
-  "timestamp": "2026-02-05T10:32:52.029174",
+  "time_control": "TC: 13+0",
+  "time_left": 556,
+  "timestamp": "2026-02-05T15:37:02.544893",
   "last_game": {
-    "result": "draw",
-    "opponent": "CruelKen",
-    "rating_before": 3037,
-    "rating_after": 3037,
+    "result": "win",
+    "opponent": "angeei",
+    "rating_before": 3046,
+    "rating_after": 3046,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Qc2 Nbd7 Bg2 c6 O-O b6 a4 Ba6 b3 O-O Rc1 Ne4 e3 Rc8 Nc3 Nxd2 Nxd2 g6 Qb2 Re8 h4 Bb4 Na2 Bf8 Nc3 e5 cxd5 exd4 exd4 c5 Nb5 Bg7 Nf3 cxd4 Rxc8 Bxc8 Nfxd4 Nc5 Qa3 a6 Nc6 Qf6 Nbd4 Nd3 Rf1 a5 Qa2 Ne1 Qd2 Nxg2 Kxg2 Qd6 Nb5 Qd7 Kg1 Bb7 Re1 Rxe1+ Qxe1 Bxc6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nc3 Qc7 Be3 a6 Qf3 Nf6 O-O-O Ne5 Qg3 d6 f4 Ned7 Be2 g6 e5 dxe5 fxe5 Qxe5 Bf4 Qa5 Nb3 Qb4 a3 Qb6 Rhf1 h5 h4 Nc5 Nxc5 Qxc5 Bg5 Nd7 Ne4 Qb6 Rxd7 Bxd7 Nf6+",
+    "duration": 780,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770287572.0292754
+  "updated": 1770305822.544991
 }
