@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2988,
-  "opponent": "Cheszter",
+  "rating": 2987,
+  "opponent": "Jibbby",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 138,
-  "timestamp": "2026-02-05T09:26:54.089844",
+  "time_control": "TC: 2+2",
+  "time_left": 106,
+  "timestamp": "2026-02-05T09:30:07.430679",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2988,
-    "rating_after": 2988,
+    "result": "win",
+    "opponent": "Jibbby",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Kf8 Nd2 Ne7 Nf1 Qc8 Qa5 Qa8 Qb4 b6 Bf3 Qb8 Ng3 Qe5 Ne4 Qc7 Nd6 Bd7 Qd4 Qc1+ Kh2 Qc7 Kg1 Qc1+ Kh2 Qc7 Kg1",
-    "duration": 180,
+    "moves": "e4 d5 exd5 Qxd5 Nc3 Qd4 Nf3 Qb4 d4 Bf5 Ne5 Nc6 Bb5 O-O-O Bxc6 Rxd4 Qf3 e6 a3 Qb6 Be3 bxc6 Bxd4 Qxd4 Nxf7 Bc5 Rd1 Qc4 Rd8+ Kb7 Ne5 Qa6 Nd7 Qb6 Rb8+ Ka6 Qe2+ Bd3 Qxd3+ Ka5 Nxc5 Qxc5 b4+ Qxb4 axb4#",
+    "duration": 210,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1770283614.0900106
+  "updated": 1770283807.4307413
 }
