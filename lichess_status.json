@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2987,
-  "opponent": "Jibbby",
+  "opponent": "CruelKen",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+2",
-  "time_left": 106,
-  "timestamp": "2026-02-05T09:30:07.430679",
+  "time_control": "TC: 3+2",
+  "time_left": 182,
+  "timestamp": "2026-02-05T09:33:33.416327",
   "last_game": {
-    "result": "win",
-    "opponent": "Jibbby",
+    "result": "draw",
+    "opponent": "CruelKen",
     "rating_before": 2987,
     "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 d5 exd5 Qxd5 Nc3 Qd4 Nf3 Qb4 d4 Bf5 Ne5 Nc6 Bb5 O-O-O Bxc6 Rxd4 Qf3 e6 a3 Qb6 Be3 bxc6 Bxd4 Qxd4 Nxf7 Bc5 Rd1 Qc4 Rd8+ Kb7 Ne5 Qa6 Nd7 Qb6 Rb8+ Ka6 Qe2+ Bd3 Qxd3+ Ka5 Nxc5 Qxc5 b4+ Qxb4 axb4#",
-    "duration": 210,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "Nf3 d5 g3 g6 Bg2 Bg7 d4 c6 O-O Nf6 a4 a5 Nbd2 O-O Re1 c5 dxc5 Nc6 c3 e5 Qb3 e4 Nd4 Qe7 Nf1 Qxc5 Be3 Qe7 Nb5 Be6 Qa3 Qxa3 Rxa3 Rfc8 Raa1 Ne5 Bd4 Nc6 Be3 Ne5 Bd4 Nc6 Be3",
+    "duration": 266,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770283807.4307413
+  "updated": 1770284013.4172087
 }
