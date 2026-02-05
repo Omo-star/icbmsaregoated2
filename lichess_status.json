@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3038,
-  "opponent": "ISARFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 10+2",
-  "time_left": 649,
-  "timestamp": "2026-02-05T08:47:05.068756",
+  "rating": 2988,
+  "opponent": "AlwaysPlayMystery",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 109,
+  "timestamp": "2026-02-05T08:49:21.432579",
   "last_game": {
-    "result": "loss",
-    "opponent": "ISARFish",
-    "rating_before": 3038,
-    "rating_after": 3038,
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "g3 g5 c4 a5 Nc3 Ba7 Nb5 Ne6 e3 h5 h4 Nd6 Nxd6 exd6 Be4 Nc5 Bd5 c6 Bg2 b5 cxb5 Qh7 bxc6 Ne4 d3 Nxg3+ fxg3 Qf5+ Ke2 Bxe3 Rgf1 Qg4+ Bf3 Qb4 Nb3 Bxc6 Bxc6 Bd2+ Be4 Bxe1 hxg5 Rxg5 Qf3 Rg7 Qxh5 d5 Qxd5 a4 Rxe1 axb3 Rf1 Qb6 Kd1 Qa6 Rh1 Rxg3 Qxb3 d6 Rf1 Re7 Qd5 Re3 Qa8+ Qxa8 Bxa8 Rxd3+ Kc2 Rg3 Kb1 Ree3 b3 Ke7 Bb2 Re2 Bf3 Rh2 Bc1 Rh4 Rf2 f6 Bc6 Rg8 Kb2 Rc8 Bg2 Ke6 a4 Rb8 Ka3 f5 Bf4 Rc8 a5 d5 Bf1 Kf6 a6 d4 Kb4 Rd8 Bd3 Rh7 Rc2 Rh3 Rc6+ Kg7 Kc4 Rh1 b4 Ra1 Kb3 Rd1 Kc2 Re1 b5 Re4 Bh6+ Kf7 b6 Ree8 Bc4+ Ke7 Bg5+ Kd7 Rc7+ Kd6 Bf4+ Re5 a7 d3+ Bxd3 Kd5 Bxe5 f4 b7 Kxe5 b8=Q Rxd3 Kxd3 Kd5 Qb6 Ke5 Rc5#",
-    "duration": 886,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Qc3 Rc8 Qd2 Ne7 Rd1 Nc6 Nd4 Rd8 Qc3 Nxd4 Rxd4 Rc8 Rc4 Rxc4 Qxc4 Bc6 Qd4 a6 b4 Qf8 Bh5 Qe7 Qe5 g6 Be2 Qe8 Qc7 Qd7 Qb8+ Kg7 Qe5+ Kg8 Qb8+ Kh7 Qg3 Kg7 Qe5+ Kh7 Qf6 h5 Qd4",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770281225.0688155
+  "updated": 1770281361.4327266
 }
