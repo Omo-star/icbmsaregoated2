@@ -5,18 +5,18 @@
   "opponent": "angeei",
   "variant": "Variant: Standard",
   "time_control": "TC: 13+0",
-  "time_left": 296,
-  "timestamp": "2026-02-05T16:46:07.023738",
+  "time_left": 511,
+  "timestamp": "2026-02-05T17:03:57.135426",
   "last_game": {
     "result": "win",
     "opponent": "angeei",
     "rating_before": 3046,
     "rating_after": 3046,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 Nc3 Bc5 O-O b5 Bb3 d6 d3 Bg4 h3 Bxf3 Qxf3 Nd4 Qd1 a5 a4 Nxb3 cxb3 b4 Ne2 O-O Ng3 Nd7 Be3 g6 Rc1 Bxe3 fxe3 Qg5 Rf3 Nc5 d4 exd4 exd4 Ne6 Rc6 h5 d5 Nc5 Rxc7 h4 Nf5 gxf5 Rxf5 Qg6 Rh5 Nxe4 Rxh4 f5 Rch7 Qxh7 Rxh7 Kxh7 Qh5+ Kg7 Qh4 Rae8 Qf4 Re5 g4 fxg4 Qe3 gxh3 Kh2 Rf2+ Kxh3 Kg6 Qd3 Rh5+ Kg4 Rg5+ Kh3 Kf5 Kh4 Rh2+",
+    "moves": "d4 Nf6 c4 c5 d5 d6 Nc3 e5 e4 a6 h4 h5 Bg5 Nbd7 Be2 Qc7 g3 g6 Nh3 Bg7 f3 Qa5 Nf2 Rb8 a4 Qb4 a5 Qxb2 Na4 Qd4 Qc1 b5 axb6 Nxb6 Rb1 Bd7 Nxb6 Rxb6 Rxb6 O-O Be3 Ne8 Bxd4 exd4 Bd3 Kh7 Qb1 Bh6 f4 a5 e5 dxe5 Bxg6+ Kg8 Bh7+ Kg7 Bf5 Bxf5 Qxf5 exf4 gxf4 a4 Rg1+",
     "duration": 780,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1770309967.0238059
+  "updated": 1770311037.1354895
 }
