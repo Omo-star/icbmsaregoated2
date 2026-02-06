@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "AlPhAbEtACeta",
+  "rating": 2987,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-02-06T10:43:35.620967",
+  "time_control": "TC: 3+0",
+  "time_left": 126,
+  "timestamp": "2026-02-06T10:46:27.691634",
   "last_game": {
     "result": "draw",
-    "opponent": "AlPhAbEtACeta",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "opponent": "Lili-ai",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Bg5 dxc4 Nc3 a6 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 Be2 Bh6 Bxh6 Rxh6 Bf3 Bxf3 Qxf3 Rxf6 Qc6 Rb8 O-O Rb6 Qe4 Rg6 g3 Rd6 b3 Nf6 Qe5 b4 Ne2 Rd5 Qe3 Rh5 Qf3 Rgh6 h4 c3 a3 Nd5 axb4 Rxh4 gxh4 Qxh4 Qg2 Rg6 Ng3 Nf4 Qc6+ Ke7 Qf3 Nh3+ Kg2 Nf4+ Kg1 Rh6 Rfe1 Qh2+",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 Nc3 Nf6 d3 h6 O-O O-O h3 a6 Nd5 d6 a4 Be6 c3 Bxd5 exd5 Ne7 d4 exd4 cxd4 Bb4 Qb3 a5 Ne1 c6 dxc6 bxc6 Bd3 Rb8 Nc2 Nfd5 Nxb4 Rxb4 Qd1 Qb6 b3 Rxb3 Ba3 Qb8 Re1 Rb7 Qg4 g6 Bc1 Kg7 Qd1 Nb4 Bc4 Qd8 Qd2 Rh8 Rb1 Nf5 d5 c5 Re4 Nd4 Rf4 Kh7 Re4 Kg7 Rf4 Re7 Bb2 Rf8 Be2",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770374615.6210668
+  "updated": 1770374787.6917374
 }
