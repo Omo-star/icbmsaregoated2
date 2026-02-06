@@ -5,18 +5,18 @@
   "opponent": "demon8941",
   "variant": "Variant: Atomic",
   "time_control": "TC: 10+0",
-  "time_left": 595,
-  "timestamp": "2026-02-06T00:46:00.384377",
+  "time_left": 589,
+  "timestamp": "2026-02-06T00:46:19.460100",
   "last_game": {
     "result": "win",
     "opponent": "demon8941",
     "rating_before": 3046,
     "rating_after": 3046,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 Nc6 Ne5 Nxe5 Qh5+ g6 Qd5 d6 Qf7+",
+    "moves": "e4 e6 Qf3 f5 exf5 Bb4 Qf8+ Bxd2+",
     "duration": 600,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "variantEnd"
   },
-  "updated": 1770338760.384459
+  "updated": 1770338779.46018
 }
