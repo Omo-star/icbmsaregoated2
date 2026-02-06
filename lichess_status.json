@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "Mr-Best",
+  "rating": 3046,
+  "opponent": "demon8941",
   "variant": "Variant: Atomic",
-  "time_control": "TC: 3+0",
-  "time_left": 95,
-  "timestamp": "2026-02-06T00:44:12.626933",
+  "time_control": "TC: 10+0",
+  "time_left": 595,
+  "timestamp": "2026-02-06T00:46:00.384377",
   "last_game": {
     "result": "win",
-    "opponent": "Mr-Best",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "demon8941",
+    "rating_before": 3046,
+    "rating_after": 3046,
     "rating_delta": 0,
-    "moves": "Nf3 f6 Nc3 Nh6 g4 c6 d4 e6 e4 f5 exf5 Bb4 Ng5 d5 h4 e5 Nxh7 exd4 c3 Qe7+ Be3 Bc5 Rh3 Na6 a3 Bxg4 Qh5+ Qxh4 Bh3+ g5 Bc8+ Rxc8 O-O-O+ g4 Bxc5+ g3 fxg3+ Kf7 Rf1+ Kg6 Rf6+ Kg5 Rg6+ Kf4 Kd2+ Ke3+ Ke2+ Nb8+ Rg5+ Nd7+ Kf3+ Ne5+ Kf4+ Nd3# c4+ d4# c5+ b5# a4+ b4# a5+ Ne5+ Rg6+ Nxg6# Kf3+ d3+ Kf2+ d2+ Kf3+ d1=Q+ Ke4+ Kd3# Ke3+ Kc4 Kd4+ Qf3# Kd5+ Qe3+ Kd4+ Kb5+ Kc4+ Ka6+ Kb5+ Qxc5+",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "Nf3 f6 e3 Nc6 Ne5 Nxe5 Qh5+ g6 Qd5 d6 Qf7+",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770338652.6270218
+  "updated": 1770338760.384459
 }
