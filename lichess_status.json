@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "AlwaysPlayMystery",
+  "opponent": "cinder-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 136,
-  "timestamp": "2026-02-06T08:52:14.089315",
+  "time_control": "TC: 5+1",
+  "time_left": 197,
+  "timestamp": "2026-02-06T09:00:20.532313",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
+    "opponent": "cinder-bot",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bg2 Bf5 Bf4 Qd7 Ne5 Bxe5 dxe5 Rad8 Bxe4 dxe4 Qxd7 Rxd7 a5 bxa5 Rxa5 Red8 Bg5 Rd1 Rxd1 Rxd1+ Kg2 Bg4 Ra2 Be2 Kh3 Rh1 Kg2 Bf3+ Kh3 Bg4+ Kg2 Bf3+ Kh3 Be2 Kg2 Rd1 Kh3 Rh1",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Bd3 g6 Nd2 Ng7 Nf3 Bf5 Bxf5 Nxf5 Qd2 Qd7 Re1 Ng7 Be5 Bxe5 Nxe5 Qd6 Qd3 c6 Qf3 f6 Nd3 Re8 Rxe8+ Nxe8 Qe3 Kf7 Qh3 Kg7 Qc8 Qe7 h3 Nd6 Qb8 Ne4 Qxa7 Nd2 Qb8 Qe2 Qxb7+ Kf8 Qxc6 Qd1+ Kh2 Nf1+ Kg1 Nd2+ Kh2 Nf1+ Kg1 Nd2+",
+    "duration": 376,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770367934.0894792
+  "updated": 1770368420.5324776
 }
