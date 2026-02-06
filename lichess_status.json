@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
-  "opponent": "cinder-bot",
+  "rating": 3045,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+1",
-  "time_left": 197,
-  "timestamp": "2026-02-06T09:00:20.532313",
+  "time_control": "TC: 10+0",
+  "time_left": 592,
+  "timestamp": "2026-02-06T09:07:33.765157",
   "last_game": {
     "result": "draw",
-    "opponent": "cinder-bot",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3045,
+    "rating_after": 3045,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Bd3 g6 Nd2 Ng7 Nf3 Bf5 Bxf5 Nxf5 Qd2 Qd7 Re1 Ng7 Be5 Bxe5 Nxe5 Qd6 Qd3 c6 Qf3 f6 Nd3 Re8 Rxe8+ Nxe8 Qe3 Kf7 Qh3 Kg7 Qc8 Qe7 h3 Nd6 Qb8 Ne4 Qxa7 Nd2 Qb8 Qe2 Qxb7+ Kf8 Qxc6 Qd1+ Kh2 Nf1+ Kg1 Nd2+ Kh2 Nf1+ Kg1 Nd2+",
-    "duration": 376,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 b4 a5 e5 fxe5 Nxe5 Qe8 c3 Rd8 Qh4 Ra8 Rfe1 Bb3 Nf3 Qf7 Ne5 Qe8 Nf3 Qf7 Ne5 Qe8 Nf3",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770368420.5324776
+  "updated": 1770368853.7652974
 }
