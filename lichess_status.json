@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3045,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2994,
+  "opponent": "DeKoog",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 592,
-  "timestamp": "2026-02-06T09:07:33.765157",
+  "time_control": "TC: 3+1",
+  "time_left": 143,
+  "timestamp": "2026-02-06T09:11:05.910613",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3045,
-    "rating_after": 3045,
+    "opponent": "DeKoog",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 b4 a5 e5 fxe5 Nxe5 Qe8 c3 Rd8 Qh4 Ra8 Rfe1 Bb3 Nf3 Qf7 Ne5 Qe8 Nf3 Qf7 Ne5 Qe8 Nf3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "Nf3 d5 g3 Nf6 Bg2 g6 O-O Bg7 c4 dxc4 Qa4+ Nfd7 Qxc4 O-O d3 Nc6 Qh4 Nb6 Nc3 e5 Qxd8 Rxd8 Bd2 Nd4 Rfc1 h6 Kf1 Nxf3 Bxf3 f5 Be3 c6 a4 Nd5 Nxd5 cxd5 Rab1 e4 Bg2 Bd7 a5 Bc6 a6 exd3 exd3 Bb5 Ke2 b6 Rc7 Be5 Rc2 Rd7 Bxh6 Bxa6 Kd2 Bb5 Bf3 Kh7 Bg5 a5 Re1 Bg7 Rec1 Raa7 b3 Bd4 Rc8 Kg7 Ke2 Bb2",
+    "duration": 250,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770368853.7652974
+  "updated": 1770369065.9107983
 }
