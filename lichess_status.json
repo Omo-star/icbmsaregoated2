@@ -5,18 +5,18 @@
   "opponent": "gafni",
   "variant": "Variant: From Position",
   "time_control": "TC: 5+10",
-  "time_left": 196,
-  "timestamp": "2026-02-06T16:11:52.701495",
+  "time_left": 239,
+  "timestamp": "2026-02-06T16:27:24.727919",
   "last_game": {
     "result": "win",
     "opponent": "gafni",
     "rating_before": 3041,
     "rating_after": 3041,
     "rating_delta": 0,
-    "moves": "e4 a5 a4 e5 g3 g6 f4 c6 fxe5 Qxe5 Nd3 Qe7 Bc5 d6 Bf2 Nd7 Nf4 Bb6 Bxb6 Nxb6 Bf3 Nf6 d4 Re8 Nd2 Nfd7 Qf1 O-O-O Qf2 f5 exf5 gxf5 Nf1 Kb8 Qd2 Bf7 Qxa5 Nc4 Qc3 Ndb6 a5 Nc8 b3 Ne3 a6 Na7 axb7 Nd5 Nxd5 Bxd5 Qa5 Qxb7 Bxd5 cxd5 Ra4 Ka8 Ne3 Rb8 Nxd5 Qb5 Qxa7#",
-    "duration": 910,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 a4 a5 g3 g6 f4 Ne6 Nd3 f6 Ne3 c6 f5 gxf5 Nxf5 c5 b3 Nd4 c3 Nxf5 exf5 b6 Bf3 Ra7 Nb2 Nd6 g4 h5 h3 hxg4 hxg4 Qxh1 Bxh1 Ne8 d4 cxd4 cxd4 Rxc1+ Kxc1 Rc7+ Nc4 d5 dxe5 dxc4 bxc4 Rxc4+ Kd2 fxe5 Bc6",
+    "duration": 790,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1770394312.7015572
+  "updated": 1770395244.7280152
 }
