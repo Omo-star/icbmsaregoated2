@@ -5,18 +5,18 @@
   "opponent": "SybBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 125,
-  "timestamp": "2026-02-07T20:50:14.366466",
+  "time_left": 179,
+  "timestamp": "2026-02-07T20:54:22.828328",
   "last_game": {
     "result": "win",
     "opponent": "SybBot",
     "rating_before": 2988,
     "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 d4 Nxe4 Bd3 d5 Nxe5 Nd7 Nc3 Nxe5 dxe5 Bb4 O-O Nxc3 bxc3 Bxc3 Ba3 Bxa1 Qxa1 Be6 Rb1 a6 Rxb7 Qc8 Qb2 c5 Qb6 O-O Bxc5 Re8 f4 Rb8 Bxa6 Rxb7 Bxb7 Qd8 Qxd8 Rxd8 Bd6 d4 a4 Bf5 a5 Bxc2 Kf2 d3 Ke3 d2 Kxd2 Bf5 a6 Bc8 Kd3 h5 Kd4 h4 Kc5 Kh8 Kb6 g5 Kc7 Bxb7 axb7 Rg8 f5 g4 Kd7 Kg7 b8=Q Rxb8 Bxb8 Kh6 e6 fxe6 fxe6 h3 g3 Kg5 e7 Kf5 e8=Q Kf6 Bd6 Kf5 Qe6+ Kg5 Bf4+ Kh5 Qf7#",
-    "duration": 331,
-    "bot_color": "white",
+    "moves": "c4 d6 Nf3 f5 d4 g6 Nc3 Nf6 Rb1 Bg7 e3 O-O Bd3 e5 dxe5 dxe5 Nxe5 Ne4 Bxe4 Qxd1+ Kxd1 fxe4 f4 exf3 Nxf3 Nc6 Nb5 Bf5 Ra1 Rad8+ Ke1 Nb4 Nfd4 Bg4 Na3 Nd3+ Kd2 Nf2 Rf1 c5 h3 Bxd4 exd4 Rxd4+ Kc2 Bf5+ Kb3 Rd3+ Ka4 Rf6 Bd2 Rxd2 b4 Rb2 Nc2 Bxc2+ Kb5 Rc6 a3 Ne4 Rf8+ Kxf8 g3 Nc3+ Ka5 Ra6#",
+    "duration": 306,
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1770497414.3665304
+  "updated": 1770497662.8283896
 }
