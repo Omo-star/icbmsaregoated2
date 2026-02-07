@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3040,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3052,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 36,
-  "timestamp": "2026-02-07T09:04:24.881160",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-02-07T09:04:47.015878",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3040,
-    "rating_after": 3040,
+    "opponent": "PositionalAI",
+    "rating_before": 3052,
+    "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Bf5 Qf3 Bg6 Bxf6 Qxf6 Qxf6 gxf6 Nf3 a5 Nh4 Be7 Ne2 Kd7 Kd2 Na6 Ng3 a4 a3 Bd8 Rc1 Nc7 Be2 Ne8 Bg4+ Kc7 Ngf5 Ra6 Rc5 Rg8 g3 Nd6 Nxd6 Kxd6 Bf5 Bxf5 Nxf5+ Ke6 Nh4 Rb6 Rb1 Bc7 Kc2 Rb3 Nf3 Kd6 Nh4 Ke6 Rd1 f5 Nf3 Ra8 Ng1 Bd6 Rc3 Rb5 Ne2 Kd7 Kc1 Rba5 Rc2 R8a6 h4 Ra8 h5 h6 Kd2 Be7 Rg1 Rg8 Ke1 Ra6 Kf1 Bf6 Kg2 Be7 Nc3 Rga8 Kf1 Bf6 Ke2 Rg8 f4 Rga8 Na2 Rb6 Kf3 Rb5 Rd1 Ke6 Rb1 Kd7 Rd1 Be7 Rg1 Ke6 g4 fxg4+ Rxg4 Bf6 Rgg2 Re8 Rg1 Rc8 Rd1 c5 Rdd2 Ra5 Rd1 Rb5 Rdd2 Rb3 Nc1 Rb5 Ne2 Ra5 Rd1 Rb5 Rdd2 Ra5 Nc1 Rb5 dxc5 Rbxc5 Rxc5 Rxc5 Nd3 Rc8 Re2 Rc4 Kg4 Be7 Rh2 Rc8 Kf3 Bf6 Rd2 Rc4 Kg4 Rc6 Kf3 Rc8 Re2 Rc4 Rg2 Rc8 Rg4 Kd6 Rg2 Ke6 Rd2 Rc7 Kg4 Be7 Kf3 Bf6 Rh2 Rc8 Rg2 Kd6 Nb4 Ke6 Rd2 Rc5 Kg4 Be7 Nd3 Rc8 Kg3 Rc4 Kf3 Bf6 Kf2 Bh4+ Kg2 Bf6 Nb4 Rc5 Kg3 Rb5 Nd3 b6 Nb4 Be7 Rd4 Bf6 Rd2 Be7 Rd4 Bf6 Rd2",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770455064.8813126
+  "updated": 1770455087.0159626
 }
