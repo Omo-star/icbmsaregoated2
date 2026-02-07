@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3039,
-  "opponent": "YoBot_v2",
+  "rating": 2994,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 542,
-  "timestamp": "2026-02-07T10:01:02.825223",
+  "time_control": "TC: 3+1",
+  "time_left": 124,
+  "timestamp": "2026-02-07T10:05:31.092702",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3039,
-    "rating_after": 3039,
+    "opponent": "Lili-ai",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Bb4+ Bd2 Qxd4 Bxb4 Qxe4+ Be2 Na6 Ba5 b6 Qd6 Bd7 Bc3 f6 O-O-O O-O-O Qa3 Kb7 Bf3 Qf4+ Rd2 Qc7 Ne2 e5 Ng3 Nh6 Ne4 Nf7 b4 Bf5 b5 Nb8 Rhd1 Bxe4 Bxe4 Rxd2 Rxd2 Rd8 bxc6+ Nxc6 c5 Rxd2 Bxd2 g6 Qb3 Nd8 Be3 f5 Bd5 f4 cxb6 axb6 Bc5 Ka7 Qa3+ Kb7 Qb4 Ka7 Qa4+ Kb8 Qb5 Ka7 Qa4+ Kb8 Qb5 Ka7 Qa4+",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 c6 Nc3 d5 Nf3 e6 Bg5 Nbd7 cxd5 exd5 e3 h6 Bh4 Be7 Qc2 O-O Bd3 Re8 O-O Ne4 Bxe4 Bxh4 Bh7+ Kh8 Nxh4 Qxh4 Bd3 Qe7 Rab1 Nf6 h3 Be6 Rfe1 Kg8 b4 a5 b5 c5 dxc5 Qxc5 Qb2 Qb4 Qd2 Qh4 a3 Qg5 f4 Qh5 Rbd1 Rac8 b6 Bd7 Nb5 Bxb5 Bxb5 Re6 Rc1 Rd8 Qxa5 Qh4 Re2 Ne4 Bd3 Ng3 Ree1 d4 exd4 Qxf4",
+    "duration": 250,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770458462.8253326
+  "updated": 1770458731.0927956
 }
