@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3001,
-  "opponent": "MAGIC11BOT",
+  "rating": 2999,
+  "opponent": "SybBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 6,
-  "timestamp": "2026-02-07T13:24:30.967556",
+  "time_left": 76,
+  "timestamp": "2026-02-07T13:32:06.011234",
   "last_game": {
-    "result": "draw",
-    "opponent": "MAGIC11BOT",
-    "rating_before": 3001,
-    "rating_after": 3001,
+    "result": "win",
+    "opponent": "SybBot",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Qd7 Nf3 Re8 Qd2 Bxe5 Nxe5 Qd6 Re1 Bc8 h3 Kg7 g4 Nh4 Qg5 Qe7 Qe3 Rh8 Qg3 h5 Nd3 Qf6 f4 hxg4 hxg4 c5 Re5 Qd6 Kf2 f6 Re3 Kf7 a3 a5 Ne1 Bd7 Bd3 Qc7 Bc2 Bb5 Bb3 Qd7 Bd1 Qd6 Nc2 Qc6 Be2 Bc4 Bd1 Bb3 Nb4 axb4 Bxb3 c4 Bc2 b3 Bb1 Qd6 Re1 b5 g5 Nf5 Bxf5 gxf5 Kg1 fxg5 Re5 Qg6 Qg2 Rd8 Kf2 Kg7 Rxd5 Rxd5 Qxd5 gxf4 Qe5+ Kf7 Qc7+ Ke8 Qe5+ Kf7 Qxf4 Qe6 Kf3 Qd5+ Kf2 Kf6 Qh6+ Kf7 Qh5+ Kf6 Qh6+ Kf7 Qh5+ Kf6 Qh4+ Kg6 Qg3+ Kf6 Qh4+ Kg6 Qg3+ Kf6 Qf4 Qh1 Qe5+ Kg6 Qe8+ Kf6 Qf8+ Kg6 Qe8+ Kg5 Qe7+ Kg6 Qe6+ Kg7 Qe5+ Kg6 Qe6+ Kg5 Qg8+ Kf6 Qf8+ Kg6 Qg8+ Kf6 Qd8+ Kf7 Qd7+ Kf6 Qd8+ Kf7 Qd7+ Kf6 Qd6+ Kf7 Qc7+ Kg6 Qg3+ Kh7 Qg2 Qh4+ Qg3 Qh1 Qc7+ Kg6 Qe5 Qb1 Qe6+ Kg7 Qe7+ Kg6 Qe6+ Kg7 Qe7+ Kh6 Qf6+ Kh5 Qf7+ Kh6 Qf6+ Kh5 Qf7+ Kh6 Qf8+ Kh7 Qe7+ Kg6 Qe8+ Kg7 Qe5+ Kg6 Qe8+ Kf6 Qf8+ Kg6 Qg8+ Kh6 Qf8+ Kg5 Qg7+",
-    "duration": 459,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 Nc6 dxc5 e6 c4 Bxc5 cxd5 Nxd5 Bg3 Qb6 Qc2 Bd7 Bc4 O-O O-O Be7 Nc3 Nxc3 bxc3 Qc5 Qd3 Rfd8 Bb3 Na5 Bc2 g6 Rfd1 Be8 Qe2 Rac8 Rxd8 Rxd8 e4 Qxc3 Be5 Qc4 Qxc4 Nxc4 Bd4 b6 Bb3 Nd2 Rd1 Nxe4 Bc2 Bc6 Ne5 Bb7 Ng4 f6 Bb3 Kf7 h4 Nc5 Bc4 Ba6 Bxa6 Nxa6 Rd2 Nb4 f4 Rxd4 Rxd4 Bc5 Kf2 Bxd4+ Ke2 Nxa2 Nh6+ Kg7 Kd3 Bg1 Ng4 h5 Ne3 Bxe3 Kxe3 Nc3 Kd3 Nd5 Ke4 a5 g3 Kf7 Kd3 a4 Kc2 Ke7 Kd3 Kd6 Kc4 b5+ Kd3 Kc5 Kc2 Kc4 Kb2 Nb4 f5 gxf5 Ka3 Kc3 g4 hxg4 h5 g3 h6 g2 h7 g1=Q h8=Q Qc1#",
+    "duration": 358,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770470670.967711
+  "updated": 1770471126.0113149
 }
