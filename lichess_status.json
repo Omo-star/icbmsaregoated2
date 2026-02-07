@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3001,
-  "opponent": "SybBot",
+  "opponent": "MAGIC11BOT",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 182,
-  "timestamp": "2026-02-07T13:11:37.828438",
+  "time_left": 6,
+  "timestamp": "2026-02-07T13:24:30.967556",
   "last_game": {
-    "result": "win",
-    "opponent": "SybBot",
+    "result": "draw",
+    "opponent": "MAGIC11BOT",
     "rating_before": 3001,
     "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "Nf3 d5 e3 Nf6 c4 e6 d4 b6 Ne5 Bb7 cxd5 exd5 Bb5+ c6 Be2 Bd6 O-O O-O Nc3 c5 Nf3 Nc6 dxc5 bxc5 h3 Re8 Qb3 Rb8 Bb5 a6 Bxc6 Bxc6 Qd1 Bc7 Qd3 Qd6 Rd1 d4 Qxa6 Rb6 Qe2 Bxf3 Qxf3 Qh2+ Kf1 dxc3 bxc3 Ne4 Ke2 Rf6 Qg4 Rxf2+ Kd3 Qd6+ Kc4 Qa6+ Kd5 Re5#",
-    "duration": 298,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Qd7 Nf3 Re8 Qd2 Bxe5 Nxe5 Qd6 Re1 Bc8 h3 Kg7 g4 Nh4 Qg5 Qe7 Qe3 Rh8 Qg3 h5 Nd3 Qf6 f4 hxg4 hxg4 c5 Re5 Qd6 Kf2 f6 Re3 Kf7 a3 a5 Ne1 Bd7 Bd3 Qc7 Bc2 Bb5 Bb3 Qd7 Bd1 Qd6 Nc2 Qc6 Be2 Bc4 Bd1 Bb3 Nb4 axb4 Bxb3 c4 Bc2 b3 Bb1 Qd6 Re1 b5 g5 Nf5 Bxf5 gxf5 Kg1 fxg5 Re5 Qg6 Qg2 Rd8 Kf2 Kg7 Rxd5 Rxd5 Qxd5 gxf4 Qe5+ Kf7 Qc7+ Ke8 Qe5+ Kf7 Qxf4 Qe6 Kf3 Qd5+ Kf2 Kf6 Qh6+ Kf7 Qh5+ Kf6 Qh6+ Kf7 Qh5+ Kf6 Qh4+ Kg6 Qg3+ Kf6 Qh4+ Kg6 Qg3+ Kf6 Qf4 Qh1 Qe5+ Kg6 Qe8+ Kf6 Qf8+ Kg6 Qe8+ Kg5 Qe7+ Kg6 Qe6+ Kg7 Qe5+ Kg6 Qe6+ Kg5 Qg8+ Kf6 Qf8+ Kg6 Qg8+ Kf6 Qd8+ Kf7 Qd7+ Kf6 Qd8+ Kf7 Qd7+ Kf6 Qd6+ Kf7 Qc7+ Kg6 Qg3+ Kh7 Qg2 Qh4+ Qg3 Qh1 Qc7+ Kg6 Qe5 Qb1 Qe6+ Kg7 Qe7+ Kg6 Qe6+ Kg7 Qe7+ Kh6 Qf6+ Kh5 Qf7+ Kh6 Qf6+ Kh5 Qf7+ Kh6 Qf8+ Kh7 Qe7+ Kg6 Qe8+ Kg7 Qe5+ Kg6 Qe8+ Kf6 Qf8+ Kg6 Qg8+ Kh6 Qf8+ Kg5 Qg7+",
+    "duration": 459,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770469897.828503
+  "updated": 1770470670.967711
 }
