@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3039,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3055,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 140,
-  "timestamp": "2026-02-07T10:52:34.147512",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-02-07T10:53:42.810562",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3039,
-    "rating_after": 3039,
+    "result": "loss",
+    "opponent": "Cheszter",
+    "rating_before": 3055,
+    "rating_after": 3055,
     "rating_delta": 0,
-    "moves": "d4 d5 Bf4 c5 e3 Nc6 Nf3 cxd4 exd4 Bg4 Nbd2 e6 c3 Bd6 Bxd6 Qxd6 Be2 Nge7 O-O f6 b4 O-O Re1 Rac8 Rc1 b6 a4 Rc7 Nb1 Bh5 Na3 Rcc8 h3 h6 Nb5 Qd7 Na3 Qd6 Qd2 Rcd8 Qb2 Kh8 a5 Bxf3 Bxf3 e5 axb6 axb6 b5 Na5 c4 exd4 Red1 Ng6 Rxd4 Qe5 Rcd1 dxc4 Qc3 Rxd4 Qxd4 Qxd4 Rxd4 Re8 Bd1 Kg8 Bc2 Nf8 Kh2 Re5 Rd6 Re6 Rd4 Re1 Rd6 c3 Rd3 Kf7 Rxc3 Ne6 Bh7 Re2 Rc8 Ke7 Bg8 Kd6 Nc2 Rxf2 Ne3 Nc7 Rd8+ Kc5 Rc8 Kd6 Kg1 Rb2 Nf5+ Kd7 Rf8 Rxb5 Rf7+ Kd8 Rf8+ Kd7 Nxg7 Rg5 Rf7+ Kd8 Bh7 Nc4 Nf5 Nd5 Nxh6 Nd6 Ra7 Nf4 Kf2 Nxg2 Nf7+ Nxf7 Rxf7 Nf4 h4 Rb5 Kg3 Rb4 Kf3 Ne6 Rxf6 Rxh4 Rxe6 Rxh7 Rg6 Kc7 Re6 Rd7 Ke4 Kb7 Rh6 Ka6 Rh1 b5 Rb1 Ka5 Ra1+",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "c4 Nf6 g3 c6 Nf3 d5 d4 g6 Bg2 Bg7 O-O O-O cxd5 cxd5 Ne5 Ng4 Nxg4 Bxg4 Nc3 Nc6 h3 Bd7 Nxd5 Nxd4 Bh6 Nxe2+ Qxe2 Bxh6 Nxe7+ Kh8 Rad1 Re8 Rfe1 Qc7 Qe4 Bc6 Qh4 Bxg2 Kxg2 Bg7 b3 Rad8 Re4 b6 Nc6 Rc8 Ne7 Rcd8 Nd5 Qc6 Rxe8+ Qxe8 Re1 Qd7 Rd1 Qc8 Nxb6 Qc6+ Nd5 Bf6 Qe4 Kg7 b4 Rd6 h4 h5 Qd3 Qa4 Rd2 a6 Qf3 Qc6 a3 Be5 Qb3 Qd7 a4 Qg4 Qe3 Re6 Qf3 Bb8 Rc2 Qxf3+ Kxf3 Rd6 Rc8 Ba7 Ne3 Kf6 Rc7 Bb6 Nd5+ Rxd5 Rc6+ Ke5 Rxb6 a5 Ke2 Rd4 Rb5+ Ke6 Ke3 Rc4 Kd3 Rg4 Kc3 g5 Rxg5 Rxb4 Rxa5 Re4 Kb3 Re2 Rxh5 Rxf2 a5 Rf1 Rc5 Kd6 Rc3 f6 Kb4 Rb1+ Rb3 Rd1 a6 Ra1 Ra3 Rb1+ Kc4 Kc7 a7 Rc1+ Kd5 f5 a8=Q Rd1+ Ke6 Re1+ Kf7 f4 Rc3+ Kd6 Qc6+ Ke5 Rc4 f3 Qc5#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770461554.147574
+  "updated": 1770461622.8106349
 }
