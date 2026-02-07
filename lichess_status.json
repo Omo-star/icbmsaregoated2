@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2988,
-  "opponent": "SybBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 4+1",
-  "time_left": 181,
-  "timestamp": "2026-02-07T22:57:57.689555",
+  "rating": 3050,
+  "opponent": "Mr-Best",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: 0+3",
+  "time_left": 40,
+  "timestamp": "2026-02-07T23:22:00.144781",
   "last_game": {
     "result": "win",
-    "opponent": "SybBot",
-    "rating_before": 2988,
-    "rating_after": 2988,
+    "opponent": "Mr-Best",
+    "rating_before": 3050,
+    "rating_after": 3050,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 exd5 cxd5 Bb3 Nc6 O-O Be6 Nc3 h6 Re1 Bd6 Ba4 Nd7 Bxc6 bxc6 d4 e4 Nd2 O-O h3 f5 Nb3 f4 Qh5 Rf5 Qe2 Rg5 Kh1 Rxg2 Bxf4 Bxf4 Kxg2 Qg5+ Kh1 Bxh3 f3 Qh4 fxe4 Rf8 Nxd5 Bg2+ Kxg2 Qh2+ Kf1 Bg3+ Nf4 Qh1#",
-    "duration": 294,
+    "moves": "e3 e6 Ba6 Nxa6 b4 Bxb4 Qg4 Bxd2+ Qxe6+ fxe6+ Kxd2 Nb4 Ke1 Nxa2 Rxa2 c5 Rxa7 Rxa7 Na3 Rxa3 Bxa3 b5 Bxc5 Qb6 Bxb6 Kd8 Bxd8 Ne7 Bxe7 b4 Bxb4 d6 Bxd6 e5 Bxe5 h5 Bxg7 h4 Bxh8 Bh3 gxh3",
+    "duration": 123,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "variantEnd"
   },
-  "updated": 1770505077.689618
+  "updated": 1770506520.1448424
 }
