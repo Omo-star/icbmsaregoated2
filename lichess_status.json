@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2988,
-  "opponent": "SybBot",
+  "opponent": "PumpkinLatteBob",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 100,
-  "timestamp": "2026-02-07T21:52:39.656343",
+  "time_left": 70,
+  "timestamp": "2026-02-07T22:04:55.983240",
   "last_game": {
-    "result": "win",
-    "opponent": "SybBot",
+    "result": "draw",
+    "opponent": "PumpkinLatteBob",
     "rating_before": 2988,
     "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "c4 d6 d4 e5 d5 f5 e4 fxe4 Nc3 Nf6 Bg5 Nbd7 Nxe4 Be7 Bxf6 Nxf6 Bd3 c6 Nxf6+ Bxf6 dxc6 Qa5+ Qd2 Qxd2+ Kxd2 bxc6 Ne2 d5 cxd5 cxd5 Nc3 Bb7 Bb5+ Ke7 Bd3 e4 Rae1 Rac8 f3 Rhd8 Rhf1 Rd6 Nb5 Re6 Nxa7 Rc5 fxe4 Bg5+ Ke2 dxe4 Bb5 Rc2+ Kd1 Rc1+ Ke2 Rc2+ Kd1 Rxb2 Re2 Rb1+ Kc2 Rxf1 Rd2 Bxd2 Bxf1 Bg5 Nb5 Rc6+ Kb3 Rc1 Bc4 Bf6 Kb4 e3 Bd3 Be4 Be2 Bd5 Na3 Kd8 Nc4 Rxc4+ Bxc4 Bxc4 Kxc4 e2 Kd3 e1=Q g4 Qc3+ Ke4 Bd4 g5 Qe3+ Kd5 Qd3 Kc6 Qf5 a3 Qd7#",
-    "duration": 340,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Qb6 Nb3 Be7 Qd2 Nbd7 O-O-O Qc7 Bxf6 Nxf6 g4 h6 Kb1 g5 f5 Bd7 Be2 O-O-O Rhf1 Kb8 h3 Rhe8 a3 Bc8 Qe3 d5 fxe6 Bxe6 Nd4 Rc8 exd5 Nxd5 Nxd5 Bxd5 Bb5 Red8 c4 Be6 Nxe6 fxe6 Ba4 Qxc4 Bb3 Rxd1+ Rxd1 Qf4 Qxe6 Bf6 Qe2 Rc6 Ka2 Ka7 Rd3 Bd4 Qd1 Bf6 Bd5 Rd6 Qc2 Qe5 Qg2 Kb8 Ka1 a5 Ka2 a4 Rd2 Qe1 Re2 Qc1 Qg3 Qf4 Qg2 Qc1 Qg3 Qf4 Qd3 Rb6 Bg8 Qc1 Qg3+ Ka7 Qf2 Qc6 Bf7 Bh8 Bg8 Qb5 Rc2 Bf6 Qd2 Qe5 Bf7 Bh8 Qg2 Qd4 Qe2 Qf6 Bd5 Qd4 Qg2 Bf6 Bg8 Bh8 Qe2 Qf6 Bc4 Qd4 Rd2 Qf4 Bg8 Qf6 Rc2 Qg7 Bc4 Qd4 Rd2 Qf4 Bd5 Qf6 Bg8 Qf4 Qd1 Rg6 Bd5 Rb6 Bg8 Rg6 Rd8 Rb6 Rd2",
+    "duration": 383,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770501159.656402
+  "updated": 1770501895.9833703
 }
