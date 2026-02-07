@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3051,
-  "opponent": "Bharat_royals",
+  "rating": 3052,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 10,
-  "timestamp": "2026-02-07T07:53:34.149328",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-02-07T07:53:50.084054",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3051,
-    "rating_after": 3051,
+    "opponent": "PositionalAI",
+    "rating_before": 3052,
+    "rating_after": 3052,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 g6 Nc3 Bg7 Be3 Nf6 f3 O-O Qd2 Nc6 Bc4 Nxd4 Bxd4 Be6 Bxe6 fxe6 O-O-O Qa5 Rhe1 Nd7 Bxg7 Kxg7 e5 d5 a3 Rac8 Ne2 Qxd2+ Rxd2 Kf7 Nd4 Nb8 f4 Rc5 Re3 Nc6 Ne2 g5 fxg5 Kg6 b3 a5 g3 Rf1+ Rd1 Rf2 Nf4+ Kf5 Re2 Rxe2 Nxe2 a4 Rf1+ Kxg5 Nf4 Nd8 Nd3 Rc8 bxa4 Rc4 Nb4 b6 Rf8 Nb7 Rh8 Kg6 Rb8 Rc7 Na6 Rd7 Nb4 Rc7 h4 Kf5 h5 Na5 Rxb6 Rc3 g4+ Kxg4 Rxe6 Rxa3 Nxd5 Nc4 Kb1 Rxa4 Rxe7 Ra5 Nf6+ Kf5 Nd7 h6 c3 Ra3 Kc2 Ne3+ Kb2 Nc4+",
-    "duration": 104,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Nbd2 Qc8 Kh1 f5 Qe1 f4 Nxe5 fxe3 Qxe3 Bf6 f4 Bxe5 fxe5 Qd8 Qg3 Be6 Nf3 Qd7 Rg1 Rg8 Qg5 h6 Qh5+ Bf7 Qf5 Be6 Qg6+ Bf7 Qf5 Be6 Qg6+ Bf7 Qf5",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770450814.1525266
+  "updated": 1770450830.084145
 }
