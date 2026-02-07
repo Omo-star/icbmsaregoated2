@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "SybBot",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 163,
-  "timestamp": "2026-02-07T11:04:09.887487",
+  "time_left": 175,
+  "timestamp": "2026-02-07T11:12:47.549364",
   "last_game": {
-    "result": "win",
-    "opponent": "SybBot",
+    "result": "draw",
+    "opponent": "CloudNetBot",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 d4 exd4 Nxd4 Bb4 Bg5 h6 Bh4 O-O Nxc6 dxc6 Qxd8 Rxd8 Bxf6 gxf6 e3 a5 Be2 Ra6 e4 Rb6 c5 Bxc3+ bxc3 Rb2 Bf3 Be6 O-O Bxa2 Rad1 Rxd1 Rxd1 a4 Rd8+ Kg7 Kf1 Bc4+ Kg1 Rb1+ Rd1 Rxd1+ Bxd1 a3 Bb3 Bxb3 Kf1 a2 Ke1 a1=Q+ Kd2 Qa2+ Ke3 Bd1 f4 Qe2+ Kd4 Bc2 e5 Qd3#",
-    "duration": 304,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 a5 c3 d6 Re1 O-O h3 Bb6 Nbd2 h6 Nf1 Be6 Bb5 Ne7 Ng3 Nd7 d4 f5 dxe5 Nxe5 Nd4 Bc8 exf5 Nxf5 Kh2 Qf6 Ngxf5 Bxf5 f4 Bxd4 Qxd4 Qh4 Re2 Ng4+ Kg1 Nf6 Bd2 Qg3 Re3 Qg6 Kh2 c6 Be2 Rae8 Rxe8 Rxe8 Re1 c5 Bc4+ Kh7 Qf2 Ne4 Qe3 Nf6 Qf3 Rxe1 Bxe1 Be4 Qf2 b6 g4 Bd5 Bxd5 Nxd5 c4 Nb4 Bxb4 axb4 Qe2 Kg8 b3 Kf7 Kg2 Qf6 Qd2 Ke7 Qe3+ Qe6 Qf3",
+    "duration": 327,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770462249.8875484
+  "updated": 1770462767.5494702
 }
