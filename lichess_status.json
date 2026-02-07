@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "SybBot",
+  "rating": 2994,
+  "opponent": "TSELLOSBILIS",
   "variant": "Variant: Standard",
   "time_control": "TC: 4+1",
-  "time_left": 87,
-  "timestamp": "2026-02-07T12:13:21.736100",
+  "time_left": 208,
+  "timestamp": "2026-02-07T12:14:49.895232",
   "last_game": {
     "result": "win",
-    "opponent": "SybBot",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "TSELLOSBILIS",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e3 Bb4 Nd5 e4 Nxb4 Nxb4 a3 Nc6 Nd4 Nxd4 exd4 d5 d3 Bg4 Qb3 O-O dxe4 Nxe4 Bd3 dxc4 Qxc4 Bf5 O-O c6 Be3 Nd6 Qc2 Bxd3 Qxd3 Nc8 Bf4 Nb6 Be5 Re8 Qg3 g6 Rac1 Nd5 Qb3 Qb6 Qxb6 axb6 Rfe1 f6 Bd6 Rxe1+ Rxe1 Ra4 Rd1 Rc4 Kf1 Rc2 b4 b5 Re1 Kf7 Re2 Rc3 Rb2 Rxa3 Ke1 Ra1+ Ke2 Ke6 Bc5 Ra8 Kd3 b6 Re2+ Kd7 Rd2 Ra3+ Kc2 bxc5 bxc5 Ra2+ Kc1 Rxd2 Kxd2 Ke6 Kd3 Nc7 Ke4 f5+ Kf4 Kd5 Ke3 Kc4 h3 b4 g4 b3 Kd2 Nd5 gxf5 gxf5 h4 h5 f3 f4 Kd1 Kd3 Ke1 b2 Kf2 b1=Q Kg2 Ne3+ Kf2 Qf1#",
-    "duration": 356,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 g6 Nf3 Bg7 g3 Kf8 Nc3 d6 Bg2 h6 O-O Kg8 e4 Kh7 e5 dxe5 Nxe5 Rf8 Re1 Nbd7 Qe2 Nxe5 dxe5 Nd7 f4 e6 Be3 c6 Ne4 Nb6 h4",
+    "duration": 273,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770466401.736164
+  "updated": 1770466489.8973496
 }
