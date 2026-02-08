@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3000,
-  "opponent": "blackEventhorizon",
+  "opponent": "isaacjamesb",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 249,
-  "timestamp": "2026-02-08T19:14:27.280103",
+  "time_left": 175,
+  "timestamp": "2026-02-08T19:16:44.793687",
   "last_game": {
-    "result": "draw",
-    "opponent": "blackEventhorizon",
+    "result": "win",
+    "opponent": "isaacjamesb",
     "rating_before": 3000,
     "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Bb4+ Bd2 Qxd4 Bxb4 Qxe4+ Be2 Na6 Ba5 b6 Qd6 Bd7 Bc3 f6 Nf3 Nh6 Rd1 Rd8 Qa3 Bc8 Nd2 Qf4 Bh5+ Nf7 O-O c5 Qa4+ Ke7 Rfe1 Rhe8 a3 Kf8 b4 cxb4 axb4 Bb7 Re3 Qg5 Bf3 Bxf3 Rxf3 Nc7 b5 e5 Rg3 Qh5 Re1 Ne6 Qxa7 Nf4 Qxb6 Ne2+ Rxe2 Qxe2 Bb4+ Kg8 Qxf6 g6 Rxg6+ hxg6 Qxg6+ Kh8 Qf6+ Kg8 Qg6+ Kh8 Qf6+ Kg8 Qg6+",
-    "duration": 334,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Bc4 Nf6 Nf3 Nxe4 Qe2 d5 Bb3 Nc6 d3 Nc5 c3 Bg4 d4 Nxb3 axb3 Bd6 dxe5 Nxe5 Bf4 Bxf3 Bxe5 Bxe2",
+    "duration": 228,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1770578067.2801647
+  "updated": 1770578204.7937725
 }
