@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3051,
+  "rating": 3032,
   "opponent": "Kandars",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-02-08T23:40:01.917119",
+  "time_control": "TC: 8+0",
+  "time_left": 351,
+  "timestamp": "2026-02-08T23:44:51.982697",
   "last_game": {
     "result": "win",
     "opponent": "Kandars",
-    "rating_before": 3051,
-    "rating_after": 3051,
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "d3 d5 e4 dxe4 dxe4 Qxd1+ Kxd1 e5 Nd2 f6 Ngf3 Nh6 Bd3 a5 h3 a4 a3 Nf7 Ke1 Be6 Ke2 Nd6 Rd1 c5 c4 Nc6 b3 axb3 Nxb3 Nxc4 Bxc4 Bxc4+ Ke3 Bxb3 Rd2 Nd4 Rb2 Nc2+ Rxc2 Bxc2",
-    "duration": 60,
+    "moves": "d4 Nf6 e3 d5 Nf3 e6 Be2 b6 c3 Bd6 Bd2 O-O b4 Nbd7 a4 e5 dxe5 Nxe5 Nxe5 Bxe5 f4 Ne4 O-O Bf6 Bd3 c5 Bxe4 dxe4 bxc5 Ba6 Re1 bxc5 Qc2 Rb8 Na3 Bd3 Qa2 Qd7 Nc2 Rfd8 Rad1 Bh4 g3",
+    "duration": 480,
     "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1770594001.9172015
+  "updated": 1770594291.9827895
 }
