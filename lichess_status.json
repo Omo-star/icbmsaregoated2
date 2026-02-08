@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "vikingviking1984",
+  "opponent": "PumpkinLatteBob",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 128,
-  "timestamp": "2026-02-08T12:54:24.209444",
+  "time_left": 129,
+  "timestamp": "2026-02-08T13:03:34.995918",
   "last_game": {
-    "result": "win",
-    "opponent": "vikingviking1984",
+    "result": "draw",
+    "opponent": "PumpkinLatteBob",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 dxe4 Nxe4 Bb4+ c3 Be7 Qg4 Nf6 Qxg7 Kd7 Nxf6+ Bxf6 Qxf7+ Qe7 Qh5 Qg7 Nf3 Ke7 Bf4 h6 Ne5 Nd7 Ng6+ Kf7 Nxh8+ Ke7 Ng6+ Kf7 Ne5+ Ke7 Bxh6 Qg8 h4 Bxe5 dxe5 b6 Rd1 Bb7 Bg5+ Kf8 Rxd7 Be4 Bh6+ Qg7 Qf7#",
-    "duration": 278,
+    "moves": "c4 Nf6 d4 e6 Nf3 b6 g3 Ba6 Qc2 Bb7 Bg2 c5 O-O cxd4 Nxd4 Bxg2 Kxg2 Qc7 Rd1 Be7 b3 O-O Nc3 a6 Bb2 Qb7+ e4 d6 f3 Nfd7 h4 h6 Nd5 exd5 Nf5 Bf6 cxd5 Qc8 Qe2 Qd8 Nxd6 Bxb2 Qxb2 f6 Rac1 a5 Rc8 Qe7 Nf5 Qe5 Rc3 Na6 Qd2 Nac5 Re1 Qe8 f4 Kh8 Qd1 Nxe4 Qf3 Ndc5 Rxc5 bxc5 Rxe4 Qd7 Re6 a4 Ne7 axb3 Ng6+ Kg8 Ne7+ Kh8 Ng6+ Kg8 Ne7+ Kh8",
+    "duration": 336,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1770555264.2095149
+  "updated": 1770555814.9960759
 }
