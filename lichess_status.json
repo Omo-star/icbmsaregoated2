@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "blackEventhorizon",
+  "rating": 3001,
+  "opponent": "TesT-Z",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 212,
-  "timestamp": "2026-02-08T19:42:36.038957",
+  "time_left": 106,
+  "timestamp": "2026-02-08T19:49:42.999714",
   "last_game": {
     "result": "draw",
-    "opponent": "blackEventhorizon",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "opponent": "TesT-Z",
+    "rating_before": 3001,
+    "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 Qc2 a5 a4 Nb8 Re1 h6 h3 Rd8 Nf1 c6 Bc4 Na6 Ne3 Bb6 Nf1 Bc5 Ne3 Bb6 Nf1 Bc5",
-    "duration": 252,
-    "bot_color": "black",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O Re8 Nc3 c6 Rac1 h6 h3 a5 b5 Rc8 Rfd1 Qe7 Qb6 c5 Rf1 Ra8 Rcd1 Red8 a4 Rd7 Rde1 Nh5 g3 Qg5 Re3 Nf4 Kh2 Ng6 Nd5 Ne7 Nxe7+ Qxe7 Kg2 Qe6 Rh1 Re7 f4 exf4 gxf4 Qf6 Rf1 Qb2+ Rf2 Qd4 Rff3 Kh7 e5 dxe5 fxe5 Rae8 Qxa5 Rxe5 Rxe5 Rxe5 Qd2 b6 Qf2",
+    "duration": 346,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770579756.0410836
+  "updated": 1770580182.9998145
 }
