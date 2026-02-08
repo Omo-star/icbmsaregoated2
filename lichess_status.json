@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3008,
-  "opponent": "CloudNetBot",
+  "rating": 3032,
+  "opponent": "Kandars",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 54,
-  "timestamp": "2026-02-08T21:59:07.250657",
+  "time_control": "TC: 10+0",
+  "time_left": 600,
+  "timestamp": "2026-02-08T23:37:59.777020",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3008,
-    "rating_after": 3008,
+    "opponent": "Kandars",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 a3 d5 d4 exd4 Nxd4 dxc4 Nxc6 Qxd1+ Nxd1 bxc6 g3 Be6 Bg2 Bd5 O-O O-O-O Bg5 Be7 Rc1 Rhe8 Rc2 Nd7 Bxe7 Rxe7 Bh3 Be6 Bxe6 Rxe6 Ne3 Nb6 h4 Rd4 Nf5 Rde4 e3 R4e5 Nd4 Rd6 Rfc1 f5 Kf1 Kb7 Nf3 Red5 Ke2 c5 h5 Ka6 Nd2 c3 bxc3 c4 Rh1 Rc6 Rh4 g5 hxg6 hxg6 g4 Ra5 gxf5 gxf5 Ra2 Nd5 Rc2 Nb6 Ra2 Nd5 Rc2 Nb6",
-    "duration": 332,
+    "moves": "",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1770587947.2508101
+  "updated": 1770593879.7770967
 }
