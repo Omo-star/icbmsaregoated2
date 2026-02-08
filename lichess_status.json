@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "vikingviking1984",
+  "opponent": "Scheunentor17",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 120,
-  "timestamp": "2026-02-08T13:19:28.611156",
+  "time_left": 107,
+  "timestamp": "2026-02-08T13:22:05.503682",
   "last_game": {
-    "result": "win",
-    "opponent": "vikingviking1984",
+    "result": "draw",
+    "opponent": "Scheunentor17",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "c4 f5 Nc3 Nf6 g3 e6 Bg2 Bb4 Qc2 Bxc3 Qxc3 O-O b4 Nc6 f4 Ne7 Bb2 b6 Bxa8 Ba6 Bg2 Nc6 b5 Bb7 bxc6 dxc6 Nh3 Re8 Nf2 Qb8 Rg1 c5 Bxb7 Qxb7 g4 fxg4 Nxg4 Nxg4 Qxg7#",
-    "duration": 258,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe3 Nd6 Re1 Qd7 Qf3 Re8 Rxe8+ Nxe8 Nb3 b6 Qe2 Kf8 Nc1 a5 Nd3 Qe6 Be3 Be7 Nf4 Qd6 Nd3 Qe6 Bc1 Qxe2 Bxe2 h6 g4 Bh7 f3 g5 f4 Be4 Nf2 Bb1 a4 Bc2 Bd1 Bb1 Be2 Bc2 Bd1 Bb1 Be2",
+    "duration": 322,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770556768.6112196
+  "updated": 1770556925.5037947
 }
