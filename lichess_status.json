@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "blackEventhorizon",
+  "opponent": "matchalattebot-test",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-02-08T15:32:21.794245",
+  "time_left": 79,
+  "timestamp": "2026-02-08T15:44:08.589756",
   "last_game": {
     "result": "draw",
-    "opponent": "blackEventhorizon",
+    "opponent": "matchalattebot-test",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 g6 Nh6+ Kh8 d4 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 Nd7 Rxe3 fxe3 Rd8 Nxb6 Kf7 Nd5 Bc4 Bxd6 cxd6 b4 Bxd5 Rxd5 Ke6 Rd3 cxb4 cxb4 axb4 a5 Rb8 a6 Ra8 Rb3 Rxa6 Rxb4 Ra2 Kf1 d5 Rh4 Ke5",
-    "duration": 340,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 d5 Nf3 c6 Qc2 Nbd7 O-O b6 a4 O-O Rc1 Ba6 b3 Ne4 a5 b5 c5 f5 Qd1 h5 b4 h4 Ra3 hxg3 hxg3 Bf6 Bf4 g5 Bd6 g4 Ne1 Nxd6 cxd6 Rc8 Nc3 e5 e4 exd4 exd5 c5 Ne2 cxb4 Rb3 Rc4 Rcb1 Nc5 Rxb4 Qxd6 Rxc4 bxc4 Nxd4 Bg5 Nb5 Bxb5 Rxb5 Re8 Nc2 Nd3 Bf1 Ne5 Be2 c3 Nd4 a6 Rb6 Qxd5 Qa4 Rc8 Qc2 Qe4 Qb3+ Kh8 Rb8 Rxb8 Qxb8+ Kh7 Qc7+ Kg6 Qxc3 Bf6 Qd2 Qxd4 Qxd4 Nf3+ Bxf3 Bxd4 Be2 Bc3 Bxa6",
+    "duration": 374,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770564741.7943263
+  "updated": 1770565448.5898466
 }
