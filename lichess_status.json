@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2984,
-  "opponent": "grail-bot",
+  "rating": 2985,
+  "opponent": "startback",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 68,
-  "timestamp": "2026-02-08T10:48:15.847813",
+  "time_control": "TC: 3+1",
+  "time_left": 176,
+  "timestamp": "2026-02-08T10:52:19.033888",
   "last_game": {
-    "result": "win",
-    "opponent": "grail-bot",
-    "rating_before": 2984,
-    "rating_after": 2984,
+    "result": "draw",
+    "opponent": "startback",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 Bb4 O-O O-O Rb3 Qa5 Qe3 Nb6 Qg3 Nc4 f5 Nd2 f6 g6 Qf4 Rd8 Qxd2 Bd7 Bd3 b6 h4 Ba4 Rxb4 Qxb4 Qh6 Qf8 Qxf8+ Rxf8 Nxa4 Rab8 Rb1 Rb7 Nc3 Rd7 Kf2 Ra8 Ke3 Rf8 Rb3 Rc8 Nb5 Rc6 Kd2 Rc8 Nd6 Rcc7 Ra3 Rd8 Nb5 Rb7 Rc3 Rf8 Nd6 Rd7 Bb5 Rdd8 a4 a5 Rc7 h6 Bxb6 Rb8 Ba7 Ra8 Kd3 g5 h5 d4 Kxd4 g4 g3 Rad8 Bd3 Ra8 Bc5 Rab8 Ke3 Rbd8 Bg6 fxg6 hxg6 h5 Rh7 h4 f7+ Rxf7 Nxf7 Rd3+ cxd3 h3 Nh6#",
-    "duration": 406,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 Re1 Ng4 Rf1 Nf6 Qe2 O-O Nc3 d6 Na4 Bg4 c3 Nh5 Nxc5 dxc5 Qe3 Qf6 Ne1 Na5 Bd3 Nf4 f3 Be6 Bc2 Rad8 Qxc5 Ne2+ Kh1 Qh6 Qxa5 Ng3+ Kg1 Ne2+ Kh1 Ng3+ Kg1 Ne2+ Kh1",
+    "duration": 225,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770547695.847873
+  "updated": 1770547939.0340245
 }
