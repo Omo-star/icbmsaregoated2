@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3050,
-  "opponent": "startback",
+  "rating": 2986,
+  "opponent": "Scheunentor17",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 46,
-  "timestamp": "2026-02-08T12:03:31.371642",
+  "time_control": "TC: 3+2",
+  "time_left": 22,
+  "timestamp": "2026-02-08T12:09:23.123803",
   "last_game": {
-    "result": "draw",
-    "opponent": "startback",
-    "rating_before": 3050,
-    "rating_after": 3050,
+    "result": "win",
+    "opponent": "Scheunentor17",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Bxc6 bxc6 d4 exd4 cxd4 Bb6 Nf1 Re8 Ng3 a4 Kh2 Ba5 Re3 Qb4 e5 Nd5 Re4 a3 bxa3 Qc4 Rh4 Nc3 Qe1 Nd5 Qe4 Nc3 Qe3 Nd5 Qe4 Nc3 Qe1 Nd5 Qd1 Kf8 a4 Ke7 Ne4 Reb8 Ba3 Bb4 Rc1 Qxa2 Bxb4 Rxb4 Rxc6 Rb1 Qd3 Rb3 Qd1 Rb1 Qd3 Rb3 Qf1 Rb1 Rc1 Rxc1 Qxc1 Qxa4 Qb1 Qb4 Qc2 Qa4 Qb1 Qb4 Qc2 Qa4 Qb1",
-    "duration": 147,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c5 cxd5 Nxd5 e4 Nxc3 bxc3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Bc4 Nd7 O-O b6 Rad1 Bb7 Rfe1 Rc8 Bb3 Qf6 d5 exd5 e5 Qe7 Nd4 g6 Qh6 Nc5 Re3 Ne6 Rh3 Ng5 Rh4 Qxe5 h3 Rfe8 f4 Qe3+ Kh2 Ne4 Qxh7+ Kf8 Nf3 Qc3 Ba4 Qf6 Bxe8 Rxe8 Rc1 Re7 f5 gxf5 Rh5 Qg7 Qxg7+ Kxg7 Rxf5 b5 Nd4 b4 Rf3 Kg6 Rb3 a5 a3 bxa3 Rxa3 Kf6 Rxa5 Rd7 Ra7 Ke5 Nf3+ Kf5 Rd1 Nc3 Rd3 Nb5 Ra5 Nd6 Rd4 Ne4 Ra7 Ke6 Rb4 Bc8 Rxd7 Bxd7 Rb7 Bc8 Rc7 Bd7 Ra7 Bc8 g4 Kf6 Rc7 Be6 Kg2 Kg7 Rc6 Kf6 Rb6 Nc3 Nd4 Ke7 Kg3 Ne4+ Kf4 Bd7 h4 Kf8 Ra6 Kg7 g5 Nc5 Ra5 Nb7 Ra7 Nc5 Rc7 Nd3+ Kg3 Bb5 Nxb5 Kg6 Nd4 f6 Rc6 Kg7 Rxf6 Nc5 Kf4 Kg8 g6 Kg7 Kf5 Ne4 Rf7+ Kg8 Ne6 Nd6+ Kf6 Nxf7 gxf7+ Kh8 f8=Q+ Kh7 Qg7#",
+    "duration": 498,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770552211.3717694
+  "updated": 1770552563.1238816
 }
