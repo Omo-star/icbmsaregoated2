@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2988,
-  "opponent": "Brainy60",
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 168,
-  "timestamp": "2026-02-08T07:53:02.566186",
+  "time_control": "TC: 3+0",
+  "time_left": 18,
+  "timestamp": "2026-02-08T07:57:32.804860",
   "last_game": {
-    "result": "draw",
-    "opponent": "Brainy60",
+    "result": "loss",
+    "opponent": "Bot1nokk",
     "rating_before": 2988,
     "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c5 cxd5 cxd4 Qxd4 exd5 e4 dxe4 Qxd8+ Kxd8 Ng5 Be6 Nxe6+ fxe6 Bg5 Nc6 Bc4 Ke7 Nxe4 Kf7 Bxf6 gxf6 O-O-O Rd8 Rxd8 Nxd8 Rd1 Be7 Rd7 f5 Nd6+ Kf6 Kd1 b6 Nb5 Nc6 f4 h5 g3 a5 Nc7 Nb8 Rd4 Rc8 Nxe6 Rxc4 Rxc4 Kxe6 Rc8 Nd7 b3 Kd5 Re8 Ke6 Rc8 Kf7 Ke2 Nf6 Kd3 Bc5 Rc7+ Kg6 Rc6 Kg7 Rc7+",
-    "duration": 251,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Bd6 Qe6 h3 Qb3 Qa1 Re1 Be7 e5 Rh7 a4 Ka7 a5 Rh8 axb6+ Kxb6 b5 Qc3 Qxc3 dxc3 bxc6 Ra8 Bxf4 Ra2 Bxg3 Rxc2 Bf4 Kb5 e6 Kxc6 Bc1 Kb5 Nf4 Kc6 Nxh3 Bh4 Rd1 Be7 Kf1 Rh2 Nf2 Bd6 Rd3 Bc5 Be3 Bb4 Rd4 Be7 Ke2 Rh5 Ng4 c2 Kd3 Rc5 Bc1 Rb5 f4 Ra5 Kxc2 Bc5 Ne5+ Kb5 Rd5 c6 e7 Ra8 Rd8 Ra2+ Kb3 Ra7 e8=Q Ra6 Qf7 Rb6 Ra8 Ra6 Qc4+ Kb6 Qxa6+ Kc7 Qxc6#",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770537182.5663166
+  "updated": 1770537452.8049393
 }
