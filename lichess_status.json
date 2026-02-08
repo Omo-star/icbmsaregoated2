@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "blackEventhorizon",
+  "opponent": "vikingviking1984",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 167,
-  "timestamp": "2026-02-08T18:09:43.251718",
+  "time_left": 102,
+  "timestamp": "2026-02-08T18:13:48.223420",
   "last_game": {
-    "result": "draw",
-    "opponent": "blackEventhorizon",
+    "result": "win",
+    "opponent": "vikingviking1984",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "d4 d5 Bf4 Nf6 Nf3 c5 e3 Nc6 Nbd2 e6 c3 cxd4 exd4 Nh5 Be3 Bd6 Ne5 g6 f4 f6 Nd3 O-O g4 Ng7 Qe2 e5 fxe5 fxe5 dxe5 d4 cxd4 Be7 O-O-O Be6 Nc5 Bxc5 dxc5 Qd5 Qg2 Qxa2 Qe4 Na5 Qb4 Nc6 Qc3 Qa1+ Kc2 Qa4+ Kc1 Qxg4 Bc4 Rae8 Rhg1 Qf5 Rg5 Qh3 Rg3 Qf5 Rg5 Qh3 Rg3 Qxh2 Ne4 Kh8 Bxe6 Nxe6 Re1 b5 Kb1 Rd8 Bc1",
-    "duration": 322,
+    "moves": "c4 f5 d4 Nf6 Nc3 e6 a3 Be7 Bf4 O-O Qc2 d5 e3 dxc4 Bxc4 Bd7 Qxf5 Nc6 Bxe6+ Bxe6 Qxe6+ Kh8 Nf3 Nh5 Be5 Nxe5 dxe5 Rc8 Rd1 h6 Rxd8 Rcxd8 Qxe7 Rde8 Qh4 Rf5 Qe4 Rff8 Nh4 Re7 Ng6+ Kh7 Nxe7+ Kh8 Qg6 Nf6 exf6 gxf6 Qxh6#",
+    "duration": 278,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1770574183.2518175
+  "updated": 1770574428.2234828
 }
