@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3003,
-  "opponent": "vikingviking1984",
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 162,
-  "timestamp": "2026-02-08T19:55:05.342296",
+  "time_left": 136,
+  "timestamp": "2026-02-08T19:59:25.362633",
   "last_game": {
-    "result": "win",
-    "opponent": "vikingviking1984",
+    "result": "draw",
+    "opponent": "Classic_BOT-v2",
     "rating_before": 3003,
     "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Ne5 Nc3 Nf6 f4 Nc6 e5 Ng8 Be3 Nxd4 Bxd4 d6 Qf3 dxe5 Bxe5 Nf6 Bb5+ Bd7 O-O-O e6 Bxf6 gxf6 Rxd7 Qb8 Qh5 Bb4 Qxf7#",
-    "duration": 246,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rc8 Rd3 Qc7 Rc3 Qb8 Bb5 Rd8 Bxc6 Bxc6 Nd4 Bd7 h3 a5 Qb3 e5 Nb5 Bc6 Rd3 a4 Qd1 Rxd3 Qxd3 Qf8 Na7 Qc5 Nxc6 bxc6 Qd8+ Kh7 Qd7 Qc1+ Kh2 Qxb2 Qf5+",
+    "duration": 322,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1770580505.3423564
+  "updated": 1770580765.3627343
 }
