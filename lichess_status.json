@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "vikingviking1984",
+  "opponent": "sluicing",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 151,
-  "timestamp": "2026-02-08T17:00:09.792626",
+  "time_left": 127,
+  "timestamp": "2026-02-08T17:04:53.114156",
   "last_game": {
-    "result": "win",
-    "opponent": "vikingviking1984",
+    "result": "draw",
+    "opponent": "sluicing",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Ne5 Nc3 Nf6 f4 Nc6 e5 Nxd4 Qxd4 Ng8 f5 e6 Be3 exf5 O-O-O f6 Bb5 Qb6 Bxd7+ Bxd7 Qxd7#",
-    "duration": 234,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O Re8 Nc3 c6 Rac1 h6 h3 a5 b5 Rc8 Rfd1 Qe7 Qb6 c5 Rf1 Ra8 Rcd1 Red8 a4 Rd7 Rde1 Nh5 g3 Qg5 Re3 Nf4 Kh2 Ng6 Nd5 Ne7 Nxe7+ Qxe7 Kg2 Qg5 Rfe1 Kh7 Rh1 Qf6 Rc1 Qe7 Ra1 Rdd8 Rg1 Rh8 h4 h5 g4 hxg4 Kf1 g6 Rxg4 Kg7 Rh3 Qd7 f3 Rh6 Rh1 Qe7 Ke2 Kh8 Rh2 Kh7 Rhg2 Rf8 Qxa5 Rxh4 Rxh4+ Qxh4 Qe1 Qf4 Qh1+",
+    "duration": 374,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1770570009.7926877
+  "updated": 1770570293.114306
 }
