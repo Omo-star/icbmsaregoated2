@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3000,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "blackEventhorizon",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 143,
-  "timestamp": "2026-02-08T19:38:16.238539",
+  "time_left": 212,
+  "timestamp": "2026-02-08T19:42:36.038957",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "opponent": "blackEventhorizon",
     "rating_before": 3000,
     "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b4 Bxc4 dxc4 Bd6 Nh4 g6 Bh6 Qe7 Qa4 c5 Rad1 Kf7 Rd5 a6 f4 Rad8 f5 g5 Qd1 Ke8 Nf3 cxb4 cxb4 Bxb4 Qa4 Kf7 Kh1 g4 Ng5+ fxg5 f6 Nxf6 Bxg5 Kg6 Rxf6+ Kxg5 Rf5+ Kh6 Rdxe5 Qd7 Rh5+ Kg6 Rhg5+ Kf7 Ref5+ Ke8 Re5+ Kf7 Rgf5+ Kg6 Rg5+ Kh6 Rh5+",
-    "duration": 322,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 Qc2 a5 a4 Nb8 Re1 h6 h3 Rd8 Nf1 c6 Bc4 Na6 Ne3 Bb6 Nf1 Bc5 Ne3 Bb6 Nf1 Bc5",
+    "duration": 252,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770579496.2386322
+  "updated": 1770579756.0410836
 }
