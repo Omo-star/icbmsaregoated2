@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "Scheunentor17",
+  "rating": 2993,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 123,
-  "timestamp": "2026-02-08T12:17:05.210804",
+  "time_left": 78,
+  "timestamp": "2026-02-08T12:22:03.994612",
   "last_game": {
     "result": "draw",
-    "opponent": "Scheunentor17",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Qxe1 b6 Nxf6+ Qxf6 d3 Bb7 Qd2 c5 c3 h6 Qf4 Qxf4 Bxf4 Nf5 a4 g5 Bd2 a5 Be2 Re8 Re1 Kg7 g3 f6 Bg4 Rxe1+ Bxe1 Kg6 Kf1 d5 b4 Ba6 b5 Bc8 Bd1 d4 Ke2 dxc3 Bxc3 Bb7 Kd2 Nd4 Ke3 Nf5+ Kd2 Bd5 Ba1 Kf7 Bb2 Nd4 Ke3 Nf5+ Ke2 Nd4+ Ke3 Nf5+ Ke2 Nd4+ Ke1 Ke6 Kd2 Ba2 Kc3 Bd5 Kd2 Ke5 Ke3 Ba2 f4+ gxf4+ gxf4+ Kd5 Ba1 Nf5+ Kd2 Nd4 Ke3 f5 h4 Bb3 Bxb3+ Nxb3 Bf6 c4 dxc4+ Kxc4 Bd8 Nc5 Bxb6 Nxa4 Bxa5 Kxb5 Kd4 Kxa5 Ke5 h5 Kxf5 Nb2 Kg6 Nd3 Kxh5 Nxf4+ Kg5 Ne6+ Kf5 Nf8 Kf6 Nd7+ Kg7 Ne5 h5 Ng4 Kg6 Kb6 Kf5 Nh6+ Kg6 Ng8 Kf7 Nh6+ Kg6 Ng8 Kg7 Ne7 Kf6 Ng8+ Kg7 Ne7 Kf7 Nf5 Kg6 Ne7+ Kf7 Nf5 Kg6 Ne7+ Kg7 Nf5+ Kf6 Nh6 Kg5 Ng8 h6 Nxh6",
-    "duration": 512,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Kg2 Kb7 Bh6 Ka7 Rbe1 Rhg8 a3 Rae8 h4 Qd8 Rh1 Re7 h5 Rf7 Be3 Be7 Qc6 f5 Ng5 Bxg5 Bxg5 Qxg5 Qxc7+ Ka8 Qc6+ Kb8 Qd6+ Kc8 Qc6+ Kb8 Qd6+ Kb7 Qc6+ Ka7 Qc7+ Ka8 Qc6+",
+    "duration": 322,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770553025.210878
+  "updated": 1770553323.9947422
 }
