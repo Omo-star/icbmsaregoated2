@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "CloudNetBot",
+  "opponent": "vikingviking1984",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 160,
-  "timestamp": "2026-02-08T16:33:55.691823",
+  "time_left": 140,
+  "timestamp": "2026-02-08T16:37:08.380322",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "win",
+    "opponent": "vikingviking1984",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 Bb5 Nd4 Nxd4 exd4 e5 dxc3 exf6 Qxf6 dxc3 Bc5 Qe2+ Qe7 a4 Qxe2+ Kxe2 a6 Bc4 O-O Rd1 Re8+ Kf1 a5 b3 Kf8 Bd3 Re6 Bxh7 g6 Bh6+ Ke7 h4 Kf6 Rd3 b6 Rf3+ Ke7 Bg5+ Kf8 Bh6+ Ke7 Bg5+ Kf8 Bh6+ Ke7",
-    "duration": 280,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4 f5 g3 Nf6 Bg2 g6 Nf3 Bg7 O-O O-O c4 d6 Nc3 Nbd7 Ng5 b6 Ne6 Bb7 Bxb7 Qb8 Bg2 Re8 Bxa8 Qxa8 Nxc7 Qd8 Nxe8 Qxe8 f3 Ne4 fxe4 fxe4 Nxe4 Nf6 Nxf6+ Bxf6 Qd3 Qf7 Bh6 e5 Qf3 exd4 Qa8+ Qf8 Qxf8#",
+    "duration": 270,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770568435.6919298
+  "updated": 1770568628.3803847
 }
