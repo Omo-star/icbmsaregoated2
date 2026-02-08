@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3049,
+  "rating": 3047,
   "opponent": "P-chessbot",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+1",
-  "time_left": 6,
-  "timestamp": "2026-02-08T10:28:04.262515",
+  "time_left": 61,
+  "timestamp": "2026-02-08T10:30:09.712267",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "P-chessbot",
-    "rating_before": 3049,
-    "rating_after": 3049,
+    "rating_before": 3047,
+    "rating_after": 3047,
     "rating_delta": 0,
-    "moves": "e4 h6 d4 e6 Nc3 d5 Bd3 Nc6 Nf3 Nb4 Be2 Nf6 e5 Ne4 Be3 c5 dxc5 Nxc5 Nd4 Be7 a3 Nc6 b4 Nd7 Nxe6 fxe6 Bh5+ Kf8 Qf3+ Bf6 exf6 Nxf6 O-O-O Kg8 Rhe1 Nxh5 Qxh5 Qf6 Rd3 Ne5 Rd4 Bd7 Qd1 Nc4 Rxc4 dxc4 Bd4 Qf7 Re4 h5 g3 Bc6 Rf4 Qe7 Qe2 Rh6 Qxc4 a6 Rf5 h4 Kb2 Rd8 Rf4 b5 Qxc6 e5 Nd5 Qe6 Rxh4 Qxd5 Rxh6 Qxd4+ Ka2 gxh6 Qg6+ Kf8 Qf6+ Ke8 Qe6+ Kf8 Qf6+ Kg8 Qg6+ Kh8 Qxh6+ Kg8 Qg6+ Kf8 Qf6+ Ke8 Qe6+ Kf8 Qf6+ Kg8 Qg6+ Kf8 Qf6+",
-    "duration": 157,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O Re1 Bf5 c4 c6 Qb3 Qd7 Nc3 Nxc3 Bxf5 Qxf5 bxc3 b6 cxd5 cxd5 Qb5 Qd7 Rb1 Rd8 g3 Bf8 Ne5 Qxb5 Rxb5 Na6 Bd2 Nc7 Rbb1 Ne8 Rb5 h5 Kf1 Nc7 Rb3",
+    "duration": 107,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1770546484.2626524
+  "updated": 1770546609.7123606
 }
