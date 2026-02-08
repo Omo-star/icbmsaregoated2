@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "matchalattebot-test",
+  "opponent": "sluicing",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 125,
-  "timestamp": "2026-02-08T15:59:28.493365",
+  "time_left": 119,
+  "timestamp": "2026-02-08T16:04:22.443812",
   "last_game": {
     "result": "draw",
-    "opponent": "matchalattebot-test",
+    "opponent": "sluicing",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 h3 c6 Nb3 a5 Nc5 b6 Na4 Ne4 Bd3 Bh4 g3 Bf6 Re1 Bxh3 Bxe4 dxe4 Qxe4 Be6 b3 Rc8 Qe2 Ra8 Be3 Rb8 Bf4 Ra8 Rd1 b5 Nc5 Bf5 Re1 h6 Be5 Bg5 Qf3 Qc8 Bf4 Bf6 Bxh6 gxh6 g4 Bc2 Qxf6 Qxg4+ Kf1 Qh3+ Kg1 Qg4+ Kf1 Qh3+",
-    "duration": 340,
-    "bot_color": "black",
+    "moves": "d4 d5 Bf4 Nf6 Nf3 c5 e3 Nc6 h3 cxd4 exd4 Bf5 Bd3 Bxd3 Qxd3 e6 O-O Bd6 Bxd6 Qxd6 c3 h6 Qe3 O-O Nbd2 Nd7 a4 Qc7 Ne1 e5 dxe5 Ndxe5 Nd3 Rfe8 Nxe5 Nxe5 Rfe1 Re6 Qd4 Nc6 Qd3 Ne5 Qd4 a6 Nf1 Rd8 Ng3 Nc6 Qd3 Ne5 Qd4 Nc6 Qd3 Ne5 Qd2 Nc4 Qc2 Ne5 Qd2 Nc4 Qc2 Ne5 Qd2",
+    "duration": 306,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770566368.4934676
+  "updated": 1770566662.4439054
 }
