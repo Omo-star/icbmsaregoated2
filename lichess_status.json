@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "vikingviking1984",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 121,
-  "timestamp": "2026-02-08T13:07:02.086817",
+  "time_left": 220,
+  "timestamp": "2026-02-08T13:08:56.211110",
   "last_game": {
-    "result": "win",
-    "opponent": "vikingviking1984",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 e3 c5 dxc5 Qa5+ Nc3 Bg7 Qe2 Ne4 Nf3 Bxc3+ bxc3 Qxc3+ Nd2 Qxa1+ Qd1 Qxd1+ Kxd1 Nxf2+ Ke2 Nxh1 g3 f6 Bh3 Na6 Nf3 Nxc5 Nd4 b6 g4 Ba6+ Kf3 Rc8 Bg2 Bb7+ Ke2 Bxg2 Nb5 Ne4 Nxa7 Rxc2+ Kd3 Rb2 Kd4 Nhf2 Kd5 Rb4 Nc8 Nc3#",
-    "duration": 284,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Re1 h6 Nbd2 Be6 Bb5 Bb6 b3 Nd7 Nc4 f5 exf5 Bxf5 d4 e4 Nh2 Qh4 Qd2 Ba7 Ne3 Bh7 Nd5 Kh8 a4 Rf5 Ne3 Rff8 Nd5 Rf5 Ne3 Rff8 Nd5",
+    "duration": 270,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770556022.086887
+  "updated": 1770556136.2112012
 }
