@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "PumpkinLatteBob",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 220,
-  "timestamp": "2026-02-08T13:08:56.211110",
+  "time_left": 141,
+  "timestamp": "2026-02-08T13:16:39.327901",
   "last_game": {
     "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "opponent": "PumpkinLatteBob",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Re1 h6 Nbd2 Be6 Bb5 Bb6 b3 Nd7 Nc4 f5 exf5 Bxf5 d4 e4 Nh2 Qh4 Qd2 Ba7 Ne3 Bh7 Nd5 Kh8 a4 Rf5 Ne3 Rff8 Nd5 Rf5 Ne3 Rff8 Nd5",
-    "duration": 270,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Nd4 Nd5 Nce2 Nb4 c4 Rg8 Nf4 Na6 Nh5 Rb8 Bc3 Nc5 Rde1 Be7 f4 b5 f5 bxa4 bxa4 Nxa4 e6 fxe6 fxe6 Be8 Nf5 Bg5 h4 Nxc3 hxg5 Bxh5 gxh6 gxh6 Ne7+ Kb7 Nxg8 Ne2+ Kh2 Rxg8 e7 Re8 Rf8 Nd4 c5 Bg6 Re4 Nf5 Re6 Nxe7 Rxe8 Bxe8 Rxe7 Bg6 Re6 Bf7 Rxh6 Bd5 g4 a4 Rh3 Ka6 g5 Ka5 g6 Kb4 Rh4+ Kb5 Rh3 Kb4 Rh4+ Kb5 Rh3 Kb4",
+    "duration": 380,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770556136.2112012
+  "updated": 1770556599.3280163
 }
