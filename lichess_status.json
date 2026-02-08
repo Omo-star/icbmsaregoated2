@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "blackEventhorizon",
+  "opponent": "P-chessbot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 195,
-  "timestamp": "2026-02-08T17:42:08.995273",
+  "time_left": 33,
+  "timestamp": "2026-02-08T17:47:57.392998",
   "last_game": {
     "result": "draw",
-    "opponent": "blackEventhorizon",
+    "opponent": "P-chessbot",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 Nf6 d4 Bf5 c4 e6 e3 Nbd7 Nc3 c6 Bd3 Bg6 cxd5 exd5 O-O Bd6 Nh4 Bxd3 Qxd3 g6 f3 O-O e4 c5 Bg5 Qb6 Na4 Qb4 e5 Qxa4 exd6 Rac8 g4 Rfe8 dxc5 Qb4 Be3 Nxc5 Qd4 Qxd4 Bxd4 Nfd7 Rad1 Re6 b4 Na4 Ng2 Rxd6 Ne3 f6 h4 Kf7 g5 Nc3 Bxc3 Rxc3 Nxd5 Rc4 Nxf6 Rxd1 Rxd1 Nxf6 gxf6 Kxf6 Rd7 Rxb4 Rxh7 Ra4 Rxb7 Rxa2 f4 a5 Rb5 a4 h5 gxh5 Rxh5",
-    "duration": 338,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Na4 Bd4 Nxd4 Nxd4 Be2 b5 cxb5 Be6 Rb1 Nxb5 Qd2 c6 O-O a5 Nc3 Nd4 Bd1 axb4 axb4 O-O f4 c5 bxc5 dxc5 f5 Bc8 g4 c4 g5 Ne8 dxc4 Ba6 Rf2 Bxc4 h4 Nd6 h5 Kh8 Qe3 Rg8 g6 Qf6 Qg3 h6 Qg4 Rac8 Ra1 Qd8 f6 gxf6 Qh4 Be6 Bd2 f5 Qxd8 Rgxd8 exf5 N4xf5 gxf7 Nxf7 Ra6 Rd6 Rxd6 N7xd6 Be2 Rd8 Bd3 Rg8+ Rg2 Rxg2+ Kxg2 Kg7 Nb5 Nxb5 Bxb5 Nd4 Be8 Bg4 Kg3 Bd1 Bg6 Ne2+ Kf3 Nf4+ Ke4 Nxg6 Bxh6+ Kxh6 hxg6 Kg7 Kxe5 Kh8 Kf4 Kg8 g7 Kh7 g8=Q+ Kxg8",
+    "duration": 404,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770572528.99537
+  "updated": 1770572877.3930583
 }
