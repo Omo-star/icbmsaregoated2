@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3050,
-  "opponent": "Mr-Best",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: 0+3",
-  "time_left": 43,
-  "timestamp": "2026-02-07T23:28:52.649298",
+  "opponent": "Alehkine_cat",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2026-02-08T07:27:06.339751",
   "last_game": {
-    "result": "win",
-    "opponent": "Mr-Best",
+    "result": "draw",
+    "opponent": "Alehkine_cat",
     "rating_before": 3050,
     "rating_after": 3050,
     "rating_delta": 0,
-    "moves": "e3 e6 Ba6 Nxa6 b4 Bxb4 Qh5 Bxd2+ Bxd2 Nb4 Bxb4 Qg5 Qxf7+ Kxf7 Be7 Nxe7 g3 Qxg3 fxg3 a5 Nd2 e5 Nf1 Nf5 h3 Nxe3 Nxe3 d5 Nxd5 Bxh3 Nxc7 Bg4 Nxa8 Rxa8 Rxh7 Ke6 Rxg7 Bh3 Nxh3 a4 Rxb7 Ke7 Rxe7 a3 Rxe5 Ra5 Rxa5",
-    "duration": 141,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 Qc2 Na6 a3 Bg4 Ne5 Bxe5 dxe5 Nac5 f3 Nxd3 Qxd3 Nc5 Qd4 Nb3 Qxg4 Nxa1 Bh6 g6 Nc3 Nb3 Bxf8 Qxf8 cxd5 cxd5 Kh1 Qc8 Nxd5 Qxg4 fxg4 Na5 h3 Rd8 Nf6+ Kg7 Ne4 Nc4 e6 fxe6 Ng5 Kg8 Rc1 b5 b3 Nxa3 Rc7 Rd3 Rxh7 a5 Ra7 Rxb3 Rxa5 Nc4 Ra8+ Kg7 Nxe6+ Kf6 Nc5 Rb1+ Kh2 Ke5 Rb8 Kd5 Nd3 g5 Rf8 Kd4 Rd8+ Kc3 Nc5 Re1 Rd3+ Kc2 Rd7 Kc3 Rg7 Re5 Nd7 Rd5 Nf6 Re5 Nd7 Rd5 Nf6 Re5 h4 gxh4 g5 Rf5 Kh3 b4 Rf7 Kc2 g6 b3 g7 b2 g8=Q b1=Q Rc7 Qh1+ Kg4 Qxg2+ Kxf5 Qf2+ Ke6",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1770506932.6493647
+  "updated": 1770535626.3399532
 }
