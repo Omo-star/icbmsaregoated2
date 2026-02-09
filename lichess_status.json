@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3053,
-  "opponent": "khunglongcon",
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-02-09T08:55:29.736078",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 6,
+  "timestamp": "2026-02-09T08:57:38.807876",
   "last_game": {
-    "result": "draw",
-    "opponent": "khunglongcon",
+    "result": "loss",
+    "opponent": "Cheszter",
     "rating_before": 3053,
     "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 60,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 f6 Nh4 O-O Nb3 Rf7 Nf5 Bd6 Qg4 Kh8 Nxd6 cxd6 Qg3 a5 a4 Nf8 f4 Be6 Nd2 Qb6+ Rf2 exf4 Qxf4 d5 b3 Re8 Bb2 Rfe7 Qg3 Bg8 Rf1 Ng6 h3 Qc5 h4 Ne5 h5 Qxc2 Bxe5 Rxe5 Nc4 Rg5 Qxg5 Qxf2+ Rxf2 fxg5 exd5 Bxd5 Nxa5 Rb8 Re2 Kg8 Re7 b5 Nb7 bxa4 bxa4 h6 Rd7 Kh7 Re7 Kg8 Kh2 Rf8 Nc5 Rf2 a5 Rxg2+ Kh3 Rc2 Nd7 Ra2 Ne5 Kh7 Nd7 Kg8 Ne5 Kh7 Re8 g6 hxg6+ Kg7 Rd8 Be6+ Kg3 Rxa5 Nxc6 Rd5 Rxd5 Bxd5 Ne7 Be6 d4 Kf6 Nc6 h5 Ne5 Bd5 Kh3 Be4 Kh2 h4 Ng4+ Kxg6 Ne3 Kf6 Kg1 Bf3 Kf1 g4 d5 g3 d6 Bc6 d7 Bxd7 Ke1 h3 Nd5+ Kg5 Ne3 h2 Ke2 h1=Q Kd3 Bf5+ Kc3 Qe1+ Kd4 Qd2+ Ke5 Qxe3+ Kd6 g2 Kc7 g1=Q Kb7 Qb6+ Ka8 Be4#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "mate"
   },
-  "updated": 1770627329.7361581
+  "updated": 1770627458.808042
 }
