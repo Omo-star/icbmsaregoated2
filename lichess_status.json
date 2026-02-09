@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3055,
-  "opponent": "Bharat_royals",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 15,
-  "timestamp": "2026-02-09T10:03:58.085572",
+  "rating": 3009,
+  "opponent": "abdcebot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 159,
+  "timestamp": "2026-02-09T10:05:19.274848",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3055,
-    "rating_after": 3055,
+    "opponent": "abdcebot",
+    "rating_before": 3009,
+    "rating_after": 3009,
     "rating_delta": 0,
-    "moves": "d4 d5 Nd3 Nd6 f3 f6 e4 dxe4 fxe4 e5 dxe5 fxe5 O-O-O O-O-O Be2 Nb6 Nb3 Kb8 Ndc5 Be7 Na5 Na4 Qb4 Nxc5 Qxc5 Nc8 Rxd8 Bxd8 Be3 Bf7 Rd1 Be7 Qxe5 Bb4 Nc4 Bxc4 Qxe8 Rxe8 Bxc4 Rxe4 Bd4 Bd6 c3 Bxh2 Rh1 Rh4 Kc2 g6 Bg8 Bg3 Rxh4 Bxh4 Bxh7 Ne7 Bc5 Kc8 Bxe7 Bxe7 Bxg6 Kd7 Kd3 Kd6 g4 c6 Ke4 Bg5 Be8 Bc1 b4 Bd2 Kd3 Bc1 Bg6 Ke5 Be8 Kd6 Kd4 Bd2 Bf7 Bg5 Be8 Bf6+ Kd3 b6 Bg6 c5 bxc5+ Kxc5 c4 Bh4 Bf7 Kd6 Ke4 Ke7 Bg8 Kf6 Kd5 Bf2 Be6 a5 Bf5 Be3 Bc8 Bg1 Bf5 Bc5 Bd7 Bb4 Bf5 Bc5 Bd7 Bf2 Be6 Bc5 Bf5 Bf2 Kc6 Kg5 Kd5 Kf4 Bd7 Bc5 Bc8 Be3 Bd7 Bf2 Be6 Kg5 Ke5 Bg3+ Ke4 Bd6 Bd7 Bc5 Bc8 Kf6 Kd5 Be3 Ke4 Bg1 Kd5 Bf2 Ke4 Kg5 Ke5 Bc5 Bd7 Bg1 Be6 Bc5 Bc8 Be3 Ke4 Bg1 Ke5 Bc5 Ke4 Kf6 Bf5 Bg1 Kf4 Bh2+ Ke3 Bd6 Bd7 Kg6 Bf5+ Kf6 Bd7 Kg6 Kd4 Kg5 Ke4 Bb4 Bf5 Ba3 Kd5 Bb4 Ke6 Bc5 Ke5 Be7 Bd7 Bc5 Ke4 Be7 Bc8 Kf6 Kf3 Bb4 Bf5 Ba3 Ke4 Bb4 Bc8 Bd6 Kd5 Bb4 Bf5 Be1",
-    "duration": 400,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Kf1 Rb8 Ke2 Nb4 Rxc5 Nxa2 Rc2 Nb4 Rc7 Nd5 Rxg7+ Kf8 Kd3 Rxb2 Ra7 Rxf2 Rxa4 Rf4 Ra5 Nb6 Ra6 Rxg4 Rxb6 Rxg2 Nxh6",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770631438.0857341
+  "updated": 1770631519.2750394
 }
