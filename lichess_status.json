@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3009,
-  "opponent": "Buznik",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 3+0",
-  "time_left": 7,
-  "timestamp": "2026-02-09T08:53:22.610032",
+  "rating": 3053,
+  "opponent": "khunglongcon",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+0",
+  "time_left": 60,
+  "timestamp": "2026-02-09T08:54:26.144033",
   "last_game": {
-    "result": "loss",
-    "opponent": "Buznik",
-    "rating_before": 3009,
-    "rating_after": 3009,
+    "result": "draw",
+    "opponent": "khunglongcon",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 d5 Nxe5 Nd7 Nxd7 Bxd7 exd5 Bd6 Nc3 O-O d4 f5 Be2 Qe7 O-O a6 Bf3 g5 g3 Qg7 Qd3 f4 g4 h5 h3 Be8 Bd2 Bg6 Ne4 Qh6 Kg2 Rae8 Rae1 b6 c4 Be7 gxh5 Bxh5 Bxh5 Qxh5 Qf3 Qg6 Nc3 Bb4 Rxe8 Rxe8 Re1 Rxe1 Bxe1 Kg7 Qe4 Qxe4+ Nxe4 Bxe1 Nxg5 Kf6 Ne6 c6 Nc7 b5 dxc6 bxc4 Nxa6 Ke7 Kf3 Bd2 Ke2 Bc1 b3 f3+ Kxf3 c3 Nb4 Kd8 Nc2 Kc7 Ke2 Kxc6 Kd3 Kd5 Kxc3 Bg5 Kd3 Bh4 Ne3+ Kc6 f4 Bg3 Ke4 Bf2 f5 Kd7 d5 Bg1 Nc4 Bc5 Ne5+ Kd6 Nd3 Bg1 Nf4 Bf2 Nd3 Bg1 Ne5 Kc5 Nc4 Bf2 Ne5 Bh4 Nd3+ Kd6 Nf4 Be1 Ne6 Bd2 Nf4 Ba5 Nd3 Bd2 Ne5 Bc3 Nc4+ Kc7 b4 Bf6 b5 Kd8 b6 Kc8 b7+ Kb8 d6 Kxb7 d7 Kc7 Kd5 Kxd7 Nd6 Bg7 Ne4 Bh6 h4 Ke7 h5 Kf7 a4 Bc1 a5 Kg7 a6 Be3 Nd6 Kf6 Nc4 Ba7 Kc6 Kg7 Nb6 Kf7 Kb7 Bxb6 Kxb6 Kg8 a7 Kh8 a8=Q+ Kh7 Qc6 Kh8 Qd6 Kg8 Qe6+ Kh8 f6 Kh7 Qf5+ Kh8 f7 Kg7 f8=Q#",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "c3",
+    "duration": 60,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1770627202.610177
+  "updated": 1770627266.1441197
 }
