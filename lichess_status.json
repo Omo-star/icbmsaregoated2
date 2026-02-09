@@ -5,18 +5,18 @@
   "opponent": "Kandars",
   "variant": "Variant: Standard",
   "time_control": "TC: 8+0",
-  "time_left": 342,
-  "timestamp": "2026-02-09T00:39:58.522814",
+  "time_left": 420,
+  "timestamp": "2026-02-09T00:43:00.046291",
   "last_game": {
     "result": "win",
     "opponent": "Kandars",
     "rating_before": 3032,
     "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "d4 e5 dxe5 Nc6 Nf3 Qe7 Bg5 Qb4+ Nc3 Qxb2 Bd2 Bb4 Rb1 Qa3 Nd5 Bxd2+ Qxd2 Qxa2 Rd1 Kd8 e4 Qa5 c3 Nge7 Be2 Re8 O-O Nxd5 exd5 Nxe5 Qg5+ f6 Qxg7 Nxf3+ Bxf3 Qxc3 Bh5 Qe5 Rde1 Qxe1 Qxf6+ Qe7 Re1 d6 Rxe7 Rxe7 Qf8+ Kd7 Bg4+ Re6 Bxe6#",
+    "moves": "d4 Nf6 Nf3 d5 e3 e6 Nc3 c5 Bd2 a6 Be2 b6 O-O Bb7 a3 Nbd7 Na2 Bd6 b4 c4 Nc3 Qc7 b5 a5 a4 Rg8 Na2 g5 Ne1 Bxh2+ Kh1",
     "duration": 480,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1770597598.522877
+  "updated": 1770597780.0463932
 }
