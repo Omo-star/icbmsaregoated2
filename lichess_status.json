@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3028,
-  "opponent": "CloudNetBot",
+  "rating": 3053,
+  "opponent": "khunglongcon",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 280,
-  "timestamp": "2026-02-09T08:47:18.095563",
+  "time_control": "TC: 1+0",
+  "time_left": 60,
+  "timestamp": "2026-02-09T08:48:21.542884",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3028,
-    "rating_after": 3028,
+    "opponent": "khunglongcon",
+    "rating_before": 3053,
+    "rating_after": 3053,
     "rating_delta": 0,
-    "moves": "c4 d6 Nf3 f5 d4 g6 Nc3 Nf6 Rb1 Bg7 g3 O-O Bg2 c6 O-O Ne4 e3 e5 Nxe4 fxe4 Nd2 d5 dxe5 Be6 cxd5 cxd5 f4 exf3 Nxf3 Nc6 Nd4 Rxf1+ Kxf1 Bf7 e6 Be8 Kg1 Nxd4 exd4 Qb6 Bf4 Qxe6 Rc1 Bf7 Rc5 Qb6 Qd2 Re8 h4 Bf8 Rc2 Bg7 Rc5 Bf8 Bc7 Qe6 Rc2 Bg7 Qf4 Qe3+ Qxe3 Rxe3 Rd2 Bh6 Rc2 Rd3 Be5 Be6 Kf1 Rd2 Rc5 Rd1+ Kf2 Rd2+ Kf1 Rxb2 Bxd5 Bxd5 Rxd5 Kf7 Rd8 Ke7",
-    "duration": 600,
+    "moves": "",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1770626838.0957124
+  "updated": 1770626901.5429776
 }
