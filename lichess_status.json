@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3028,
-  "opponent": "gafni",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+10",
-  "time_left": 299,
-  "timestamp": "2026-02-09T22:44:34.902043",
+  "opponent": "Kandars",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 586,
+  "timestamp": "2026-02-09T22:55:31.173513",
   "last_game": {
     "result": "win",
-    "opponent": "gafni",
+    "opponent": "Kandars",
     "rating_before": 3028,
     "rating_after": 3028,
     "rating_delta": 0,
-    "moves": "g3 g6 d4 d5 b3 O-O Nd3 b6 Nd2 Nd6 O-O Nd7 Nf4 e6 c4 dxc4 Bxa8 Qxa8 Nxc4 Nxc4 bxc4 Qe4 e3 c5 a4 Qb7 h4 cxd4 exd4 Qc7 Qb3 Bg7 Rc1 Bh6 Qf3 Bxf4 gxf4 Nf6 a5 Nh5 Rfd1 Nxf4 d5 e5 d6 Qd7 Bxe5 Nh3+ Kg2 Rxe5 Qxh3 Qxh3+ Kxh3 Rxa5 Ra1 Rxa1 Rxa1 Rd8 Rxa7 Rxd6 Rc7 Rd3+ Kg2 Rc3 Rb7 Rxc4 Rxb6 Rxh4",
-    "duration": 980,
+    "moves": "d4 d5 Bf4 c5 dxc5 Nc6 Nc3 d4 Nb5 Qa5+",
+    "duration": 600,
     "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1770677074.9021318
+  "updated": 1770677731.1735978
 }
