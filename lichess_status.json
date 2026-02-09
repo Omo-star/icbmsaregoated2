@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 8+0",
   "time_left": 480,
-  "timestamp": "2026-02-09T06:23:25.227009",
+  "timestamp": "2026-02-09T06:23:32.164464",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "Kandars",
     "rating_before": 3032,
     "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "e4",
+    "moves": "e4 g6",
     "duration": 480,
-    "bot_color": "white",
-    "termination": "aborted"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1770618205.2270956
+  "updated": 1770618212.1645467
 }
