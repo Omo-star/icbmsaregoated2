@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3054,
-  "opponent": "YoBot_v2",
+  "rating": 3029,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 45,
-  "timestamp": "2026-02-09T10:46:20.255367",
+  "time_control": "TC: 10+0",
+  "time_left": 152,
+  "timestamp": "2026-02-09T10:58:30.213048",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3054,
-    "rating_after": 3054,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Ne7 Nd4 Nc6 Nxc6 Bxc6 Rd1 Qc7 Rxd8+ Qxd8 Qc3 Qd6 b4 Qd8 Bf3 Bxf3 gxf3 b6 Qc6 g6 Kg2 Qg5+ Kf1 Qd5 Qc8+ Kg7 Qc3+ Kg8 Qc8+ Kg7 Qc3+ Kh7 Kg2 Qg5+ Kh1 Qd8 Kg2 a5 f4 axb4 axb4 Qd6 Kf3 Kg8 Qc8+ Kh7 Qc3 Qd1+ Kg2 Qd7 Qe5 b5 Kg3 Qc6 Qd4 h5 Qd8 Kg7 Qd4+ Kh7 Qa7 Kg7 Qa1+ Kg8 Qe5 Qd7 Qc5 Kg7 Qe5+ Kh7 Qc5 Kg7 Qe5+ Kg8 Qg5 Qd3 Qe7",
-    "duration": 181,
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Bf5 Qf3 Bg6 Bxf6 Qxf6 Qxf6 gxf6 Nf3 Nd7 g3 Nb6 a3 a5 b3 Bc2 Nd2 Be7 Ke2 Bf5 Kf3 Nc8 Kg2 h5 h4 Kf8 Be2 Kg7 Rhc1 Nd6 Nf3 Kh6 Kf1 Ne4 Bd1 Bd6 Nxe4 dxe4 Nd2 Rhe8 Be2 Be6 Bc4 f5 Nb1 Kg7 a4 Bd7 Nc3 Rac8 Kg2 Red8 Rab1 Ba3 Rc2 Bb4 Rbc1 Ba3 Ra1 Bb4 Rcc1",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770633980.255509
+  "updated": 1770634710.2131972
 }
