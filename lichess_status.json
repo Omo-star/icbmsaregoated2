@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3009,
-  "opponent": "Jibbby",
+  "rating": 3048,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 4+1",
-  "time_left": 154,
-  "timestamp": "2026-02-09T09:26:27.005437",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-02-09T09:27:00.006741",
   "last_game": {
-    "result": "win",
-    "opponent": "Jibbby",
-    "rating_before": 3009,
-    "rating_after": 3009,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 3048,
+    "rating_after": 3048,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bg5 d5 Bxf6 exf6 e3 Bd6 Bd3 Nd7 Qh5 c6 c4 Bb4+ Kf1 dxc4 Bxc4 O-O Nf3 g6 Qh6 Ne5 Nxe5 fxe5 Na3 b5 Nc2 Be7 Bb3 Bg5 Qxf8+ Kxf8 dxe5 c5 f4 Bh4 g3 Bh3+ Ke1 Qa5+ Ke2 Bg4+ Kf1 Qd2 h3 Bxg3 Rh2 Qxh2 hxg4 Qf2#",
-    "duration": 290,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Ng4 Bg5 h6 Bh4 g5 Bg3 Bg7 Qd2 Nc6 Nb3 b5 h4 b4 Nd5 gxh4 Rxh4 Bxb2 Rd1 Rg8 Be2 Rb8 Kf1 a5 Rh5 a4 Nc5 Be5 Bxe5 Ncxe5 Kg1 e6 Bxg4 Nxg4 Ne3 Nxe3 fxe3 Ke7 Qf2 Qc7 e5 dxc5 Qf6+ Ke8 Rxh6 Bb7 Rh8 Rxh8 Qxh8+ Ke7 Qf6+ Ke8 Qh8+ Ke7 Qf6+ Kf8 Qh6+ Kg8 Qg5+ Kf8",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1770629187.0055442
+  "updated": 1770629220.0069346
 }
