@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3003,
-  "opponent": "Boller1910",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 159,
-  "timestamp": "2026-02-09T12:24:04.988034",
+  "time_control": "TC: 3+0",
+  "time_left": 163,
+  "timestamp": "2026-02-09T12:25:32.290012",
   "last_game": {
     "result": "draw",
-    "opponent": "Boller1910",
+    "opponent": "CloudNetBot",
     "rating_before": 3003,
     "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "d4 d5 Nf3 Nf6 e3 e6 Nbd2 c5 b3 cxd4 exd4 Bd6 Bd3 O-O Bb2 b6 O-O Ba6 c4 Nc6 Ne5 Nb4 Bb1 Rc8 Re1 Nc6 Bd3 Nb4 Bf1 Bb7 a3 Nc6 Rc1 Ne7 Nd3 dxc4 bxc4 Nf5 Nf3 Qe7 a4 Ba3 d5 Bxb2 Nxb2 Qa3 Qd3 Qxd3 Bxd3 Nd6 dxe6 Bxf3 gxf3 fxe6 c5 Rxc5 Rxc5 bxc5 Rxe6 Rd8 Re5 Rc8 Nc4 Nxc4 Bxc4+ Kf8 f4 Ne8 Rf5+ Ke7",
-    "duration": 250,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 d3 d5 cxd5 Nxd5 a3 Be7 g3 Be6 Bd2 Qd7 Bg2 O-O-O Rc1 Nxc3 Bxc3 f6 Qc2 Bh3 O-O Bxg2 Kxg2 h5 d4 exd4 Nxd4 Nxd4 Bxd4 h4 Rfd1 Bd6 Bxa7 hxg3 hxg3 b6 Bxb6 Qh3+ Kf3 Qh5+ Kg2 Qh2+ Kf3 Qh5+ Kg2 Qh3+ Kf3 Qh5+",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770639844.988249
+  "updated": 1770639932.2901733
 }
