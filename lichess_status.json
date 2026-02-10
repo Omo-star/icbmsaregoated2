@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3002,
-  "opponent": "RenegadeEngine",
+  "opponent": "PZChessBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 83,
-  "timestamp": "2026-02-10T18:00:23.876272",
+  "time_control": "TC: 1+3",
+  "time_left": 45,
+  "timestamp": "2026-02-10T18:08:38.811191",
   "last_game": {
-    "result": "draw",
-    "opponent": "RenegadeEngine",
+    "result": "win",
+    "opponent": "PZChessBot",
     "rating_before": 3002,
     "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Qxe1 b6 c3 Bb7 Nxf6+ Qxf6 d4 Re8 Qd1 h6 Bd2 Bd5 b3 Ne4 Be1 Ng5 Qd3 Re6 Bd2 Ne4 Be3 Ng5 Bd2 Ne4 Be3 Ng5 Be2 Be4 Qd2 Qf5 Bxg5 hxg5 Bf1 g4 Re1 g6 c4 Bb1 Rc1 Be4 d5 Re7 Re1 Qf6 Qe3 Kf8 Qg3 Bf5 Rxe7 Kxe7 Qxc7 Qa1 Qg3 Kf8 a4 Kg7 h4 gxh3 gxh3 d6 Kg2 Be4+ Kg1 Bf5 Kg2 Be4+ Kg1 Bc2 Kg2 Qf6 Kg1 Be4 Bd3 Bf3 Bf1 Bd1 Kg2 Bc2 Kg1 Kf8 b4 Bxa4 Qa3 Bc2 Bg2 Qg5 b5 Qe7 Qc3 Qe2 Bf1 Qd1 Qh8+ Ke7 Qh4+ Kf8 Qh8+ Ke7 Qh4+ Ke8 Qf4 Bf5 Qxd6 Bd3 Qb8+ Ke7 Qxa7+ Kf6 Qxb6+ Kf5 Kh2 Qxf1 Qa7 Bxc4 Qxf7+ Ke4 Qxg6+ Kxd5 Qf5+ Kd6 Qf4+ Kc5 Qe3+ Kxb5 Kg3 Ba2 Qe8+ Kb4 Qe7+ Kc3 Qe3+ Kb2 f3 Bb1 Qd4+ Kc1 Qe3+ Kd1 Qd4+ Kc1 Qe3+ Kd1 h4 Ba2 f4 Bb1 Qd4+ Kc1 Qc3+ Kd1 Qd4+ Kc1 Qe3+ Kd1 h5 Bd3 Qe5 Bb1 Qd4+ Kc2 Qd6 Ba2 Qc5+ Kb1 Qb4+ Ka1 Qd4+ Kb1 Qb4+ Ka1 Qd4+ Kb1 Qe4+ Ka1 Qe5+ Kb1 Qf5+ Ka1 Qf6+ Kb1 Qf5+ Ka1 Qe5+ Kb1 Qf5+",
-    "duration": 921,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Ng4 Bg5 h6 Bh4 g5 Bg3 Bg7 Qd2 Nc6 Nb3 b5 h4 b4 Nd5 gxh4 Bxh4 Bxb2 Rd1 Be6 c3 Bxd5 Qxb2 Bxb3 axb3 Qb6 c4 Nce5 Qe2 h5 f3 Nf6 Bf2 Qc7 Qd2 a5 c5 dxc5 Rc1 Nfd7 Bb5 c4 Qd5 Rd8 Bd4 Kf8 Rd1 Nd3+ Rxd3 Nc5 Qxc5 Qxc5 Bxc5 cxd3 Kf2 Rc8 Bd4 f6 Bxd3 e5 Ba1 Ke7 f4 exf4 e5 fxe5 Bxe5 Rhd8 Be4 Rd2+ Kf3 a4 bxa4 b3 a5 Rg8 a6 Rgxg2 Kxf4 Rgf2+ Kg3 Ra2 a7 h4+ Rxh4 Rfe2 Kf3 Rf2+ Ke3 Rfe2+ Kd4 Ra4+ Kd3 Rea2 Rh7+ Ke6 Bd4 b2 Rh6+ Ke7 Kc3 Ra5 Bb1 R2a4 Bb6 Rb5 Bf2 Kd7 Rh8 Rba5 Bb6 Ra6 Bg1 R6a5 Kxb2 Kc6 a8=Q+ Rxa8 Rxa8 Rxa8 Be4+ Kb5 Bxa8 Kc4 Be4 Kb4 Bd3 Ka4 Be2 Ka5 Kc3 Ka4 Bb6 Ka3 Bb5 Ka2 Kc2 Ka3 Bc5+ Ka2 Bc4+ Ka1 Bd4#",
+    "duration": 519,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1770746423.8764303
+  "updated": 1770746918.8112543
 }
