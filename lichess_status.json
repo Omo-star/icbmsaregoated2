@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3002,
-  "opponent": "cinder-bot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 112,
-  "timestamp": "2026-02-10T16:23:10.431633",
+  "rating": 3059,
+  "opponent": "is_BOSS",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 1+0",
+  "time_left": 35,
+  "timestamp": "2026-02-10T16:49:19.629045",
   "last_game": {
     "result": "draw",
-    "opponent": "cinder-bot",
-    "rating_before": 3002,
-    "rating_after": 3002,
+    "opponent": "is_BOSS",
+    "rating_before": 3059,
+    "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 a4 a5 Bd3 g6 Nd2 Ng7 Nf3 Bf5 Bxf5 Nxf5 Qe2 Qd7 Qb5 c6 Qb6 Ra6 Qb3 Ra8 Re1 h5 h3 Ng7 Be5 Be7 Bxg7 Kxg7 Ne5 Qc7 Nd3 Bd6 Re3 h4 Qd1 b6 Qg4 Rh8 Qf3 Rh5 Qg4 Rh8 Qf3 Rh5 Re8 Qd7 Ra8 Qb7 Re8 Qd7 Ra8 Qb7 Re8 Qd7",
-    "duration": 258,
+    "moves": "Nf3 f6 e3 d5 Nc3 b5 Ng5 fxg5 Qh5+ g6 Qe5 Be6 Bd3 Nd7 Qxc7 d4 Nd5 Bxd5 Bc4 bxc4 h3 Ngf6 O-O Bg7 e4 d3 b4 Ng4 hxg4 Bb2 b5 O-O-O a4+ g5 a5+ Rd6 f4+ gxf4 Ra4+ Rg6 g4+ Ba3 Rd4+ Rf8 Rf7+ Bc5 g5+ dxc2 Kg2+ Bxd4 a6+ Kxc7 Kh3 Rd8 dxd4 Kb6 Rxe7 Rgg8 g6 Rgf8 g7 Rf3+ Kh4 Rg3 g8=Q Rg4+ Kh3 Rg3+ Kh4 Rg4+ Kh3 Rg3+ Kh4",
+    "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770740590.4317331
+  "updated": 1770742159.6291378
 }
