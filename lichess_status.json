@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "LittleChessFriend",
+  "opponent": "czarodziej_pl",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+0",
-  "time_left": 37,
-  "timestamp": "2026-02-10T13:02:07.533973",
+  "time_left": 31,
+  "timestamp": "2026-02-10T13:06:36.402950",
   "last_game": {
     "result": "win",
-    "opponent": "LittleChessFriend",
+    "opponent": "czarodziej_pl",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Nc3 Be7 Ng5 O-O Nxf7 Rxf7 Bxf7+ Kxf7 O-O Kg8 d3 d6 Bg5 B@f7 Bxf6 Bxf6 Nd5 N@f4 Nxf4 exf4 d4 Nxd4 c3 N@e2+ Kh1 @h3 cxd4 hxg2+ Kxg2 @h3+ Kh1 B@g2#",
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Bc5 Bc4 Nf6 d3 h6 Be3 Bb4 O-O O-O Nd5 Nxd5 Bxd5 d6 N@f5 Bxf5 exf5 N@d4 Nxd4 Nxd4 B@g6 Qf6 N@h5 Qe7 Bxd4 exd4 f6 gxf6 N@f5",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770728527.534038
+  "updated": 1770728796.4030461
 }
