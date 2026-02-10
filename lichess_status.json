@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "czarodziej_pl",
+  "opponent": "dinhlong2017",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+0",
-  "time_left": 31,
-  "timestamp": "2026-02-10T13:06:36.402950",
+  "time_left": 43,
+  "timestamp": "2026-02-10T13:55:41.051038",
   "last_game": {
     "result": "win",
-    "opponent": "czarodziej_pl",
+    "opponent": "dinhlong2017",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Bc5 Bc4 Nf6 d3 h6 Be3 Bb4 O-O O-O Nd5 Nxd5 Bxd5 d6 N@f5 Bxf5 exf5 N@d4 Nxd4 Nxd4 B@g6 Qf6 N@h5 Qe7 Bxd4 exd4 f6 gxf6 N@f5",
+    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qd1 @d4 Nd5 Nxd5 exd5 Bb4+ c3 dxc3 bxc3 Bxc3+ Bd2 Bxd2+ Qxd2 N@e4 Qe2 @d2+ Kd1 @c2+ Kxc2 Nd4+ Kd3 Nxe2 Bxe2 Q@c3+ Kxe4 f5+ Kf4 B@e5+ Kxf5 Qf6+ Ke4 Qd4#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770728796.4030461
+  "updated": 1770731741.0511022
 }
