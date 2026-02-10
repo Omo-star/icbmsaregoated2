@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "batonschekastiy",
+  "opponent": "Alehkine_cat",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-02-10T14:20:03.550000",
+  "time_left": 60,
+  "timestamp": "2026-02-10T15:32:30.363057",
   "last_game": {
     "result": "win",
-    "opponent": "batonschekastiy",
+    "opponent": "Alehkine_cat",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nc6 Nf3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Bb4 @d5 b5 Qxb5 Nd4 N@f5 Bxc3+ bxc3 Nxf5 exf5 O-O Be2 N@h4 Kf1 N@d6 Qd3 Ndxf5 @g5 @e4 gxf6 exd3 N@e7+ Qxe7 fxe7 dxe2+ Ke1 Q@d1#",
+    "moves": "e4",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1770733203.5500638
+  "updated": 1770737550.3631737
 }
