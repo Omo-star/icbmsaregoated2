@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "SybBot",
+  "opponent": "LittleChessFriend",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-02-10T13:00:36.132355",
+  "time_left": 37,
+  "timestamp": "2026-02-10T13:02:07.533973",
   "last_game": {
     "result": "win",
-    "opponent": "SybBot",
+    "opponent": "LittleChessFriend",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Nc3 Be7 Ng5 O-O Nxf7 Rxf7 Bxf7+ Kxf7 O-O Kg8 d3 d6 Bg5 B@f7 Bxf6 Bxf6 Nd5 N@f4 Nxf4 exf4 d4 Nxd4 c3 N@e2+ Kh1 @h3 cxd4 hxg2+ Kxg2 @h3+ Kh1 B@g2#",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "noStart"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770728436.1324446
+  "updated": 1770728527.534038
 }
