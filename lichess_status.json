@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3059,
-  "opponent": "Alehkine_cat",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-02-10T15:32:30.363057",
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 40,
+  "timestamp": "2026-02-10T16:07:29.459360",
   "last_game": {
-    "result": "win",
-    "opponent": "Alehkine_cat",
+    "result": "draw",
+    "opponent": "is_BOSS",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 60,
-    "bot_color": "white",
-    "termination": "noStart"
+    "moves": "d4 d5 c4 c6 Nf3 Nf6 Ne3 Ne6 Bb4 dxc4 Nxc4 Bc7 Bd2 Qd7 Bf5 g6 Bh3 Qd5 O-O Bd7 Rd1 O-O Bh6 Rfd8 Nce5 Bc8 a4 Ne4 Qc2 Nd6 Rac1 Bb6 Be3 Nf8 Bxc8 Rdxc8 b4 a5 Bd2 Bxd4 Bh6 Ne6 Qb1 axb4 e3 Qxe5 Nxe5 Bxe5 Qxb4 c5 Qb3 c4 Qc2 Nf5 Qe4 Bc7 Bf4 Bxf4 exf4 Nd6 Rxd6 exd6 f5 gxf5 Qxf5 Rxa4 Qg4+ Kf8 Qh4 Rc5 h3 h5 Rc3 Rb4 Ra3 Rb3 Ra4 Rbb5 Kh2 Ke8 Rxc4 Rxc4 Qxc4 Rc5 Qh4 b6 g3 b5 Kg2 Kf8 Qf6 Rd5 Qh8+ Ke7 Qb8 Rc5 h4 d5 f3 d4 Kf2 Rf5 Ke2 Kf6 Qh8+ Ke7 Qb8 Kf6 f4 Kg7 Ke1 Kh7 Qb7 Kh6 Qe4 Kg6 Qd3 Ng7 Qe4 Kh7 Qxd4 b4 Qe4 Kg8 Qd4 Kh7 Qd3 Kg8 Qd8+ Kh7 Qd3 Kg8 Qd6 Kh7 Qe7 b3 Qe4 Kh6 Qc6+ Kh7 Qe4 Kh6 Qd4 Kg6 Qd3 Kh6 Qa6+ Kh7 Qd3 Kh6 Qd6+ Kh7 Kd2 Ra5 Qf6 Rf5 Qc6 Ra5 Qf6 Rd5+ Kc1 Kg8 Qc3 Rd8 Qxb3 Re8 Qd5 Re3 f5 Rxg3 Kd2 Rg4 Ke3 Rg1 Qd8+ Kh7 Qf6 Rf1 Ke4 Rxf5 Qxf5+ Nxf5 Kxf5 Kh8 Kf6 Kg8 Kg5 Kh8 Kh6 Kg8 Kxh5 Kh8 Kh6 Kg8 Kh5 Kh8 Kh6 Kg8 Kh5 Kh8",
+    "duration": 400,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1770737550.3631737
+  "updated": 1770739649.459433
 }
