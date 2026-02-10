@@ -5,18 +5,18 @@
   "opponent": "batonschekastiy",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+0",
-  "time_left": 42,
-  "timestamp": "2026-02-10T14:16:16.112841",
+  "time_left": 60,
+  "timestamp": "2026-02-10T14:16:25.322018",
   "last_game": {
     "result": "win",
     "opponent": "batonschekastiy",
     "rating_before": 3059,
     "rating_after": 3059,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nc6 Nf3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qd1 @d4 Nd5 Nxd5 exd5 Bb4+ Bd2 Bxd2+ Qxd2 B@b4 @c3 dxc3 bxc3 N@e4 Qe3 Bxc3+ Kd1 Bxa1 Qxe4+ Qe7 Qxe7+ Nxe7 N@d6+ cxd6 B@c7 N@c3+ Kd2 Q@d1+ Ke3 Nexd5#",
+    "moves": "e4",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770732976.1129093
+  "updated": 1770732985.3220978
 }
