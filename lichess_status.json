@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3059,
-  "opponent": "Mr-Best",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 1+0",
-  "time_left": 33,
-  "timestamp": "2026-02-10T20:18:42.781051",
+  "rating": 3032,
+  "opponent": "Kandars",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 8+0",
+  "time_left": 476,
+  "timestamp": "2026-02-11T00:58:17.540591",
   "last_game": {
     "result": "win",
-    "opponent": "Mr-Best",
-    "rating_before": 3059,
-    "rating_after": 3059,
+    "opponent": "Kandars",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "Nf3 f6 Nc3 Nh6 g4 c6 d4 e6 e4 f5 exf5 Bb4 Ng5 d5 h4 e5 Qe2 Nxg4 f3 Bg4 Bh3 Qc8 O-O O-O Nb5 h6 Nd6 Bxd6 dxe5 Qe6 Qxe6+ Na6 b4+ Re8 Re1+ Re2 Rxe2+ Re8 Be3+ Bxf3 Rae1+ Rxe1+ Be6+ Kh8+ Bg8 d4+ Bd5 cxd5+ h5 gxg5+ Kg2 g4+ c4 d3+ c5 d2+ c6 d1=Q+ c7 Qg1#",
-    "duration": 60,
+    "moves": "e4 a6 d4 e6 e5 d6 f4 dxe5 fxe5 Qh4+",
+    "duration": 480,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1770754722.7811117
+  "updated": 1770771497.540679
 }
