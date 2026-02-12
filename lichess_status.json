@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "startback",
+  "rating": 3075,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 163,
-  "timestamp": "2026-02-12T11:47:42.304976",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-02-12T11:48:39.602408",
   "last_game": {
     "result": "draw",
-    "opponent": "startback",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "opponent": "YoBot_v2",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Qa4+ Nc6 Bxf6 Qxf6 e3 O-O Be2 dxc4 O-O Bd7 Bxc4 Bxc3 bxc3 Rfd8 Be2 Rab8 Rfb1 Be8 Qa3 Qe7 Rb3 Qxa3 Rxa3 Rd5 Rb1 Ra5 Rbb3 b6 g4 Kf8 Kg2 Rxa3 Rxa3 Rd8 Kg3 a5 Bb5 Ne7 Bxe8 Kxe8 c4 Nc8 Rb3 Nd6 Nd2 Ke7 a4 f6 h4 h5 gxh5 Nf5+ Kf4 Rh8 Kg4 Nh6+ Kg3 Nf5+ Kg4 Nh6+ Kh3 Nf5 Kg4",
-    "duration": 326,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nb8 Ne3 Be6 h5 c5 b3 Nc6 Nh4 Qd7 Bc3 Rad8 Nef5 Bxf5 Nxf5 g6 Ne3 Nd4 Ng4 Qe6 Re1 Kf7 Bb2 Rd7 c3 Nc6 Qf3 Bg7 Rad1 Red8 Re3 Ke8 h6 Bh8 Qh3 Rd6 Ree1 Kf7 Qf3 f5 b4 cxb4 cxb4 a6 a4 Qb3 Rb1 Qxd3 exf5 Qxf3 fxg6+ Rxg6 gxf3 Nd4 Kg2 Ke7 Bxd4 Rxd4 Kg3 Rf4 Red1 Rg8 b5 a5 Rbc1 Rc8 Re1 Rxa4 f4 Rxf4 Nxe5 Rf5 Nc6+ Kf6 Ne7 Rg5+ Kh3 Rd8 Rxc7 Rxb5 Re4 Kg5 Rg4+ Kh5 Rh4+ Kg5 Rg4+ Kf6 Ng8+ Ke6 Rxh7 Rh5+ Kg2 Be5 Rg6+ Kf5 Ne7+ Ke4 Rg4+ Bf4 Ng6 Rh2+ Kf1 Rh1+ Kg2 Rh2+ Kf1 Rh1+ Kg2",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770896862.3051128
+  "updated": 1770896919.6025198
 }
