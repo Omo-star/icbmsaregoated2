@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3032,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2026-02-12T12:24:41.375525",
+  "time_control": "TC: 10+0",
+  "time_left": 382,
+  "timestamp": "2026-02-12T12:34:03.731169",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "opponent": "ToromBot",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "d4 Nf6 a3 g6 Nf3 d5 c4 Bg7 e3 O-O cxd5 Nxd5 e4 Nb6 Be3 c5 Nc3 cxd4 Nxd4 Nc6 Nxc6 bxc6 Be2 Be6 O-O Rb8 Rc1 Nc4 Bxc4 Bxc4 Qxd8 Rfxd8 Rfd1 a6 Bf4 e5 Rxd8+ Rxd8 Bg5 f6 Be3 f5 Na4 Bb5 Nc3 Bc4 Na4 Bb5 Nc3 f4 Bb6 Rd2 b4 Bc4 Na4 Bb5 Nc3 Bc4 h3 Rd3 Nd1 Bb5 Nc3 Bc4 Nd1 Bb5 Nc3 Bc4",
-    "duration": 180,
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 a6 Qd2 Bd7 O-O-O e6 f3 Nxd4 Qxd4 h6 Bd2 Qc7 Bd3 Qc5 Qe3 Qxe3 Bxe3 Bc6 Ne2 d5 e5 Nd7 f4 Nc5 Nd4 Nxd3+ Rxd3 Bd7 Rb3 b5 a3 Rc8 Re1 f5 g3 Kf7 Kd2 g5 Rc3 Rc4 b3 Rxc3 Kxc3 Bxa3 b4 a5 bxa5 Ra8 Nb3 b4+ Kd2 Bb2 Bd4 Bxd4 Nxd4 Rxa5 Rb1 Ra4 Nb3 Ra7 Nd4",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770899081.3756185
+  "updated": 1770899643.731322
 }
