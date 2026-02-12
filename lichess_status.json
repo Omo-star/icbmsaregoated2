@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "OlympusCz",
+  "rating": 2993,
+  "opponent": "everton1878",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 98,
-  "timestamp": "2026-02-12T13:04:04.367232",
+  "time_control": "TC: 3+0",
+  "time_left": 149,
+  "timestamp": "2026-02-12T16:50:20.987374",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "win",
+    "opponent": "everton1878",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Ne4 a4 Nxc6 Bh4 Nd4 axb3 axb3 Ra2 Bc1 h5 g5 Nxe5 Rc3 Rd8 Bf4 Ra5 Kh2 Kb7 b4 Rad5 Nxe6 fxe6 Bxe5 Rxd1 Rxc7+ Ka8 Rxg7 Re1 Bc7 Rd5 c4 Rf5 Rg8+ Kb7 Nd6+ Kxc7 Nxf5 exf5 g6 Re6 c5 bxc5 bxc5 Kd7 g7 Rg6 Ra8 Bd8 c6+ Kc7 h4 Bxh4 g8=R Rxg8 Rxg8 Bxf2 Rg2 Be1",
-    "duration": 212,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 e6 d4 d5 Bb5+ Nc6 exd5 exd5 O-O Bd6 c4 Ne7 cxd5 Nxd5 Bg5 f6 dxc5 Bxc5 Ne5 Ne7 Qh5+ Ng6 Nxg6 fxg5 Nxh8+ Kd7 Rd1+",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1770901444.3673215
+  "updated": 1770915020.98747
 }
