@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
   "time_left": 130,
-  "timestamp": "2026-02-12T08:21:28.805062",
+  "timestamp": "2026-02-12T08:22:12.654262",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "opponent": "Bot1nokk",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 g3 g6 b3 d5 c4 d4 b4 b6 Bg2 Bb7 O-O Bg7 Bb2 c5 bxc5 bxc5 e3 dxe3 dxe3 O-O Nbd2 Nbd7 Qc2 Rb8 Rad1 Qb6 Bc3 Rfd8 Rb1 Qa6 Rb5 Bc6 Ra5 Qb7 Rb1 Qxb1+ Nxb1 Be4 Qe2 Rxb1+ Ne1 Nb6 Rb5 Bd3 Qf3 Rc1 Bd2 Ra1 Bc3 Rc1 Bd2 Ra1 Bc3 Rc1",
-    "duration": 180,
+    "moves": "",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1770884488.8052077
+  "updated": 1770884532.6543992
 }
