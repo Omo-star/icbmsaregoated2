@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "RenegadeEngine",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1+3",
-  "time_left": 116,
-  "timestamp": "2026-02-12T08:13:03.211006",
+  "opponent": "OpeningsBot",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 2+3",
+  "time_left": 96,
+  "timestamp": "2026-02-12T08:18:32.601220",
   "last_game": {
     "result": "win",
-    "opponent": "RenegadeEngine",
+    "opponent": "OpeningsBot",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 dxc4 e4 Bb4 Bxc4 Nxe4 O-O Nxc3 bxc3 Bd6 Ng5 h6 Qh5 O-O Ne4 f5 Nxd6 cxd6 Re1 d5 Bd3 Nc6 Bxh6 Qe8 Qg5 Qf7 Re3 Qf6 Qxf6 Rxf6 Bg5 Rf8 Rb1 f4 Rh3 e5 Bh7+ Kf7 Rh4 Re8 dxe5 g6 Bh6 Bf5 Rxf4 Rxe5 Rxb7+ Re7 Rxe7+ Nxe7 Bg5 Re8 g4 Kg7 gxf5 Nxf5 Ra4 Ra8 Ra5 Kxh7 Rxd5 Rc8 Rd7+ Kg8 Rxa7 Rxc3 a4 Rc4 Kf1 Rg4 Be3 Nxe3+ fxe3 Rh4 Kg2 Re4 Kf3 Rh4 a5 Rxh2 e4 Ra2 e5 Kf8 a6 Ke8 e6 Ra3+ Kf4 Ra1 e7 Kf7 Ra8 Kxe7 a7 Kf6 Rf8+ Ke7 a8=Q Rxa8 Rxa8 Ke6 Ra6+ Kd5 Rxg6 Kd4 Rg5 Kc3 Ke4 Kc4 Ke3 Kc3 Rg4 Kc2 Rc4+ Kb2 Kd2 Kb3 Rh4 Kb2 Rh3 Kb1 Kc3 Ka1 Kb3 Kb1 Rh1#",
-    "duration": 459,
+    "moves": "Nf3 f6 e3 e6 Nd4 Nh6 Nb5 Ng4 f4 Bb4 c3 c6 h3 h5 hxg4 a5 Nc7+ Kf8 Nxa8 d6 cxb4 e5 Qb3 d5 Qc2 e4 Qc5+ Qd6 Qxd5 g5 f5 Rh7 d4 b5 Nc3 Rd7 g4 h4 Bd2 c5 d5 a4 dxd6 bxb4 Nb5 c4 Kf2 Ke8 Rc1 a3 b3 Kf8 Be1 c3 Bxc3 Bb7 Rc8+ Rd8 Rxb8 Kg8 d7 Bc6 Na7 Bd5 Rxd8+ Bf7 d8=Q+ Be8 Qd5+ Kg7 Qg8+ Kh6 Qxg5+",
+    "duration": 339,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "variantEnd"
   },
-  "updated": 1770883983.2110643
+  "updated": 1770884312.6012802
 }
