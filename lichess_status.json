@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3075,
-  "opponent": "MEGA-NOOB-BOT",
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2026-02-12T10:37:35.414780",
+  "time_left": 9,
+  "timestamp": "2026-02-12T10:38:58.898509",
   "last_game": {
-    "result": "loss",
-    "opponent": "Cheszter",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 a4 Be7 O-O O-O Re1 Be6 h3 Nd4 Nxd4 exd4 Nd2 d5 e5 a6 exf6 Bxf6 Bxa6 bxa6 Nf1 Re8 Qf3 c5 Bd2 Qd6 Re2 Bd7 Bf4 Qc6 Rae1 Re6 Ng3 Be7 Rxe6 Bxe6 Nh5 Bf8 Be5 Bd7 b3 Re8 Re2 Qe6 Qg3 Qg6 Qf3 c4 Bh2 Rc8 Be5 h6 Kh2 Qg5 Bf4 Qg6 Be5 Qg5 Bf4 Qf5 g4 Qh7 Be5 cxd3 cxd3 Qg6 Bxd4 Rc1 Kg2 Rb1 Rc2 f5 Nf4 Qf7",
-    "duration": 180,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 Bd7 Qb3 dxc4 Qxc4 Qg6 O-O Bd6 Rfd1 Na5 Qd3 Qxd3 Bxd3 Rfd8 Ne4 Nc6 h3 f5 Nxd6 cxd6 d5 exd5 Bc2 Ne7 Bb3 Bc6 Nd4 Kf7 Rd2 a5 a3 Ra6 f3 Rb6 Ba2 Rc8 h4 g6 g4 Kf6 Rg2 Bb5 Rd1 a4 Kh2 Bc4 Bb1 Re8 h5 gxh5 gxh5 Rg8 Rxg8 Nxg8 Rd2 Ne7 Kg3 Ke5 f4+ Kf6 Kf2 Bb5 Bc2 Bd7 Bd1 Be8 Kg3 Ra6 Rc2 Rb6 Rd2 Ra6 Bf3 Ra5 Ne2 Bb5 Nc3 Bc4 Bd1 b5 Be2 Ke6 Kh4 b4 axb4 Ra8 Bxc4 dxc4 Nb5 Rb8 Rxd6+ Kf7 Nd4 Rxb4 Ra6 Rxb2 Rxa4 c3 Ra5 Rh2+ Kg3 Rxh5 Rc5 Rh1 Rxc3 Ra1 Rc7 Kf6 Rd7 Ra6 Kf3 Ng8 Rd8 Ne7 Rd7 Rb6 Rd8 Kg6 Rd7 Kf6 Nc2 Kf7 Ra7 Kf6 Ra8 Rd6 Nd4 Kg6 Ra5 Kf6 Kf2 Nd5 Nf3 Nb6 Nd4 Nd5 Kf3 Ne7 Ra8 Kg6 Kf2 Kf7 Kg3 Kg6 Nf3 Nd5 Nh4+ Kf6 Rh8 Nxe3 Rxh6+ Ke7 Rxd6 Kxd6 Nxf5+ Nxf5+ Kg4 Ke7 Kh5 Kf8 Kg6 Kg8 Kf6 Kf8 Kg6 Kg8 Kf6 Kf8 Kg6",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "timeout"
+    "termination": "draw"
   },
-  "updated": 1770892655.414934
+  "updated": 1770892738.898571
 }
