@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3074,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 74,
-  "timestamp": "2026-02-13T09:58:56.612465",
+  "opponent": "CloudNetBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2026-02-13T09:59:54.890158",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
+    "opponent": "CloudNetBot",
     "rating_before": 3074,
     "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "c3 f5 f4 Nb6 Nc2 d6 g3 g6 e4 e5 exf5 gxf5 Nde3 Ne6 fxe5 f4 gxf4 Rxg1 Qxg1 Nxf4 Qg4+ Bd7 Qf3 Bc6 Qg4+ Bd7 Qf3 Bc6 Qg4+ Bd7",
-    "duration": 120,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 exd4 O-O Nf6 Ba3 d6 e5 Ne4 exd6 cxd6 Qe2 d5 Nxd4 Nxd4 cxd4 f5 Bb3 Kf7 Qb5 h6 Bxd5+ Kg6 Bxe4 fxe4 Bb4 Bb6 Nc3 a6 Qd5 Qxd5 Nxd5 Bxd4 Rad1 Be5 Rfe1 Re8 Nb6 Bg4 f3 Rad8 Rxd8 Rxd8 fxg4 Bd4+ Kf1 Bxb6 Rxe4 Bd4 Re6+ Kh7 Ke2 Rd5 Rd6 Re5+ Kd3 Bc5 Bxc5 Rxc5 Rb6 Ra5 Ke2 Rxa2+ Kf3 Ra3+ Kf2 Ra2+ Kg3 Ra3+ Kh4 Ra2 Kh3",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1770976736.6125689
+  "updated": 1770976794.8903115
 }
