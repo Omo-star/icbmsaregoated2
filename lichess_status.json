@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "everton1878",
+  "rating": 3074,
+  "opponent": "NICE_BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2026-02-12T16:50:20.987374",
+  "time_control": "TC: 1+2",
+  "time_left": 48,
+  "timestamp": "2026-02-13T07:18:43.828952",
   "last_game": {
     "result": "win",
-    "opponent": "everton1878",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "NICE_BOT",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 d5 Bb5+ Nc6 exd5 exd5 O-O Bd6 c4 Ne7 cxd5 Nxd5 Bg5 f6 dxc5 Bxc5 Ne5 Ne7 Qh5+ Ng6 Nxg6 fxg5 Nxh8+ Kd7 Rd1+",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 Nd2 g6 c4 Nf4 Qe4 Ne6 Be2 Bg7 Nf3 Rb8 Qe3 Qb4+ Kf1 O-O Qxa7 Ba6 Qxa6 Ra8 Qxa8 Rxa8 a3 Qa4 h4 Rb8 h5 d6 exd6 cxd6 hxg6 hxg6 Rh4 Bxb2 Bxb2 Rxb2 Nd4 g5 Rg4 f5 Nxe6 fxg4 Re1 Qc2 f3 gxf3 gxf3 Qh7 Nxg5 Qh1+ Kf2 Qh4+ Kf1 Qxg5 Kf2 Qh4+ Kf1 Qh2 a4 Rb7 Bd3 Rg7 Re8+ Kf7 Ke1 Rg1+ Bf1 Kxe8 f4 Qg2 Kd1 Rxf1#",
+    "duration": 228,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1770915020.98747
+  "updated": 1770967123.8290162
 }
