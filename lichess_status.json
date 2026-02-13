@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2999,
-  "opponent": "Pat9471",
+  "rating": 3036,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 75,
-  "timestamp": "2026-02-13T10:59:40.683921",
+  "time_control": "TC: 10+0",
+  "time_left": 411,
+  "timestamp": "2026-02-13T11:07:57.841750",
   "last_game": {
     "result": "draw",
-    "opponent": "Pat9471",
-    "rating_before": 2999,
-    "rating_after": 2999,
+    "opponent": "PositionalAI",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 Bxg7 Kxg7 e5 Ne4 Nxe4 dxe4 Ng5 Bf5 f3 exf3 Nxf3 Qd5 Bd3 Bxd3 Qxd3 Nd7 O-O b5 a4 b4 Rae1 a5 Rf2 c5 Re4 f5 exf6+ exf6 b3 Rf7 Rfe2 cxd4 Qxd4 Qxd4+ Rxd4 Ra6 Rc4 h5 Re8 Nf8 Rcc8 Ne6 Nd2 Rd7 Nc4 Rd1+ Kf2 Kf7 Ra8 Rxa8 Rxa8 Rc1 Ne3 f5 Rxa5 f4 Ra7+ Kf8 Nd5 Rxc2+ Kf1 Rc1+ Kf2 g5 Rb7 Rc2+ Kf1 Rc1+ Kf2 Nc5 Rb5 Rc2+ Kf1 Rc1+ Kf2 Rc2+ Kf1 Ne4 Rxb4 Nd2+ Ke2 Nxb3+ Kd3 Rd2+ Kc3 Rxd5 Rxb3 Ke7 Rb5 Rxb5 axb5 g4 Kd3 h4 Ke2 h3 gxh3 gxh3 Kf3 Kd6",
-    "duration": 408,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Nf1 Rfe8 Ne3 Nf6 Nf1 Nd5 Ne3 Nb6 Bf5 Qc7 Qd3 Bg6 Qxb5 Bd6 Bxg6 hxg6 g3 Bxg3 Re2 Bd6 Nd5 Qd7 Qxd7 Nxd7 Be3 cxd4 cxd4 g5 Rae1 Nf6 Nb6 Ra6 Nc4 g4 fxg4 Nxg4 Bd2 Bxh2+ Rxh2 Rxe1+ Bxe1 Nxh2 Kxh2 Rc6 Ne3 Re6 Bd2 Re4 d5 f5 d6 Kf7",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1770980380.684033
+  "updated": 1770980877.8418536
 }
