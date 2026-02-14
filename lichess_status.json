@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2999,
-  "opponent": "demon8941",
+  "rating": 3035,
+  "opponent": "WyKmo12",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+0",
-  "time_left": 263,
-  "timestamp": "2026-02-14T01:09:46.837279",
+  "time_control": "TC: 10+0",
+  "time_left": 494,
+  "timestamp": "2026-02-14T02:31:34.805270",
   "last_game": {
     "result": "win",
-    "opponent": "demon8941",
-    "rating_before": 2999,
-    "rating_after": 2999,
+    "opponent": "WyKmo12",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 Nc3 Nc6 Bg5 Ne4 Nxe4 dxe4 Ne5 Nxd4 Be3 Ne6 Qxd8+ Nxd8 O-O-O Be6 b3 g6 g3 Bg7 Nc4 Nc6 Bc5 b6 Bb4",
-    "duration": 300,
+    "moves": "Nf3 d5 d4 Nf6 e3 e6 a4 c5 h4 Be7 b3 Nc6 c3 O-O Be2 Ne4 Bb2 cxd4 O-O dxe3 fxe3 Ng3 Kf2 Nxf1 Qxf1 e5 b4 e4 h5 exf3 Kxf3 Bh4 Kf4 Qf6#",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1771031386.8373785
+  "updated": 1771036294.8053343
 }
