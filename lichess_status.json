@@ -5,18 +5,18 @@
   "opponent": "PandaCub7",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+3",
-  "time_left": 203,
-  "timestamp": "2026-02-14T06:39:08.641562",
+  "time_left": 189,
+  "timestamp": "2026-02-14T06:52:31.218013",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "PandaCub7",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 cxd5 exd5 Bg5 h6 Bh4 c5 e3 c4 Nd2 g5 Bg3 Nc6 h4 Rg8 Qc2 Be6 hxg5 hxg5 O-O-O Bxc3 bxc3 Qa5 Be2 b5 Rh6 b4 Rxf6 bxc3 Nxc4 dxc4 Bh5 O-O-O Bxf7 Rge8 Rxe6 Nb4 Bxe8 Qa3+ Kb1 Nxc2 Rc6+ Kb7 Rc7+ Ka6 Rc6+ Ka5 Rc5+ Ka6 Rc6+ Kb5 Rc5+ Kb6 Rc6+ Kb5 Rc5+ Kb6 Rc6+ Ka5 Rc5+ Kb6",
-    "duration": 504,
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nc3 d5 cxd5 exd5 O-O Nbd7 Ne5 Re8 Nxd7 Qxd7 b4 Ba6 Rfe1 h5 Qf4 Bc4 a4 c6 Rac1 b5 a5 Qe7 Rb1 Rad8 h3 Ne4 Nxe4 dxe4 Qe3 Qd7 Rbd1 Qd6 Qc3 h4 g4 e3",
+    "duration": 450,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1771051148.6416616
+  "updated": 1771051951.218115
 }
