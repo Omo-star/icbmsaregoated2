@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2985,
-  "opponent": "PumpkinLatteBob",
+  "opponent": "StrawberryChessDev",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 112,
-  "timestamp": "2026-02-14T13:56:39.691796",
+  "time_left": 116,
+  "timestamp": "2026-02-14T13:59:41.549590",
   "last_game": {
-    "result": "draw",
-    "opponent": "PumpkinLatteBob",
+    "result": "win",
+    "opponent": "StrawberryChessDev",
     "rating_before": 2985,
     "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 f6 e6 f5 Qd3 Qxe6 Nxf5 Rad8 Nxe7+ Qxe7 Rd1 Rde8 Rd2 Rf6 Rd7 Qe1+ Kg2 Ref8 f4 Re6 Rd1 Qe2+ Qxe2 Rxe2+ Kh3 Rf7 Rd8+ Rf8 R8d7 Rf7 Rd8+ Rf8 R8d5 Rxb2 Rxc5 Rxb3 Rc7 Kh8 Ra1 b4 cxb4 Rxb4 Rxa6 Rg8 f5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d6 h3 Na5 Bc2 c5 d4 cxd4 cxd4 exd4 Nxd4 Bd7 Nc3 Rc8 Nf5 Bxf5 exf5 Nc4 Qe2 Re8 Ne4 d5 Ng5 Bb4 Be3 Bxe1 Rxe1 d4 a3 dxe3 Bb3 exf2+ Qxf2 Rxe1+ Qxe1 h6 Bxc4 bxc4 Nf3 Qd3 Qa5 Qb1+ Kh2 Qxb2 Qxa6 Qb8+ Kg1 c3 Qa5 c2 Qd2 c1=Q+ Qxc1 Rxc1+ Kf2 Qf4 Ke2 Rc2+ Kf1 Qe3 a4 Qf2#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771077399.6919084
+  "updated": 1771077581.5496554
 }
