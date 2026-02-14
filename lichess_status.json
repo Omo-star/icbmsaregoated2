@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2999,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "IWillWinThisOne",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 121,
-  "timestamp": "2026-02-14T09:01:57.946831",
+  "time_left": 175,
+  "timestamp": "2026-02-14T09:03:22.880031",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "IWillWinThisOne",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b4 Bxc4 dxc4 Bd6 Nh4 g6 Bh6 Qe7 Qa4 c5 Rad1 Kf7 Rd5 Rhd8 b5 a6 bxa6 Qe6 g3 Kg8 Ng2 Ra7 f4 Qh3 Nh4 Qg4 Ng2 Qh3 Nh4 Qg4 Ng2 Raa8 Ne3 Qh3 fxe5 Nxe5 Bf4 Rf8 Bxe5 Bxe5 Qc6 Kh8 a4 Bxc3 Nd1 Be5 Rd7 Bxg3 hxg3 Qxg3+ Kh1 Qh3+ Kg1",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bc5 c3 Nf6 cxd4 Bb4+ Nc3 Nxe4 O-O Bxc3 bxc3 d5 Bb3 O-O Bb2 Bg4 Re1 Ng5",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1771059717.9469347
+  "updated": 1771059802.880121
 }
