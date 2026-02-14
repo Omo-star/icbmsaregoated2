@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "SF_Bot1nok",
+  "opponent": "ChessClassic_555",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 119,
-  "timestamp": "2026-02-14T18:12:10.285366",
+  "time_left": 100,
+  "timestamp": "2026-02-14T18:15:23.971024",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
+    "result": "win",
+    "opponent": "ChessClassic_555",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "Nc3 d5 e3 g6 Nf3 Bg7 d4 Nf6 Be2 O-O O-O a6 Rb1 Nbd7 b3 b6 Bb2 c5 h3 Rb8 dxc5 Nxc5 b4 Ne6 Na4 Ne4 Bxg7 Nxg7 b5 Ra8 bxa6 Bxa6 c4 Bxc4 Bxc4 dxc4 Nxb6 Rxa2 Nxc4 Qxd1 Rbxd1 Nf5 g4 Rc8 Nb6 Rb8 Nd5 Nfd6 Nxe7+ Kf8 Nc6 Rbb2 Nce5 Rxf2 Rxf2 Rxf2 Rxd6 Rxf3 Nxf3 Nxd6 h4 Ke7 Kg2 Ne4 Ne1 h6 Kf3 Nd6 Kf4 f6 Nf3",
+    "moves": "e4 e5 Nf3 d6 d4 exd4 Nxd4 Nf6 Nc3 Be7 Bc4 O-O O-O c6 Bg5 Nxe4 Nxe4 Bxg5 Nxg5 Qxg5 Nf3 Qf4 Bd3 Nd7 Re1 Nc5 b4 Qxb4 Rb1 Qc3 Qd2 Qxd2 Nxd2 b6 Ne4 Nxd3 cxd3 Ba6 Nxd6 Rfd8 Nc4 Rxd3 Ne5 Rd6 Rbc1 Bb5 Nc4 Rd4 Ne5 c5 Nf3 Rd5 Rcd1 Rad8 Rxd5 Rxd5 g3 Kf8 Kg2",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1771092730.2854805
+  "updated": 1771092923.9711325
 }
