@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "Bot1nokk",
+  "rating": 2985,
+  "opponent": "PumpkinLatteBob",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 17,
-  "timestamp": "2026-02-14T13:53:31.072948",
+  "time_left": 112,
+  "timestamp": "2026-02-14T13:56:39.691796",
   "last_game": {
-    "result": "loss",
-    "opponent": "Bot1nokk",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "result": "draw",
+    "opponent": "PumpkinLatteBob",
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Rxd4 Rxd4 exd4 Nd3 Be5 Kg1 Bd6 Qe6 h3 Qb3 Qa1 Re1 Be7 e5 Rh7 a4 Ka7 Qg8 Rh5 Qf7 Qc3 Qxh5 Qxc2 Qxh3 Qxd3 Bxf4 Bxb4 Rf1 Bc5 Qxg3 Qc4 Kg2 d3 a5 bxa5 Rc1 Qa2+ Kh3 Bb4 Qg7 Qe6+ Qg4 Qe8 e6 Qh8+ Qh4 Qe8 Be3+ Kb8 Qe4 c5 Rb1 c4 Qxc4 Qh8+ Kg4 Qg8+ Bg5 Qg6 Qc6 Ka7 Qxc7+ Ka6 Qc8+ Kb5 e7 d2 e8=B+ Qxe8 Qxe8+ Kc5 Qd7 d1=Q Rxd1 Bc3 Be7+ Kb6 Rd5 Ba1",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 d3 Bb1 Nxb3 axb3 Bf5 Be3 O-O Bd4 Qd5 Re1 d2 Re2 Bxb1 Rxb1 Nxd4 Nxd4 Bg5 g3 c5 Nf5 Qd3 Nd6 Qg6 h4 Bxh4 Rxd2 Be7 Rd5 f6 e6 f5 Qd3 Qxe6 Nxf5 Rad8 Nxe7+ Qxe7 Rd1 Rde8 Rd2 Rf6 Rd7 Qe1+ Kg2 Ref8 f4 Re6 Rd1 Qe2+ Qxe2 Rxe2+ Kh3 Rf7 Rd8+ Rf8 R8d7 Rf7 Rd8+ Rf8 R8d5 Rxb2 Rxc5 Rxb3 Rc7 Kh8 Ra1 b4 cxb4 Rxb4 Rxa6 Rg8 f5",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771077211.0730252
+  "updated": 1771077399.6919084
 }
