@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2999,
-  "opponent": "StrawberryChess1",
+  "opponent": "bot1e",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2026-02-14T09:27:18.941315",
+  "time_left": 174,
+  "timestamp": "2026-02-14T09:27:38.680490",
   "last_game": {
-    "result": "win",
-    "opponent": "StrawberryChess1",
+    "result": "draw",
+    "opponent": "bot1e",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 dxc4 e4 e5 Nf3 Nc6 d5 Nf6 dxc6 Qxd1+ Kxd1 Nxe4 Be3 bxc6 Nxe5 Bd6 Nxc4 Bf5 f3 Nc5 Nxd6+ cxd6 Nc3 Nd3 Bxd3 Bxd3 Ke1 d5 Kd2 Bc4 Bc5 Rb8 Rhe1+ Kd8 b3 Bb5 Re7 d4 Ne4 f5 Ng5 h6 Ne6+ Kc8 Rc7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Qxe8+ Bxe8 Rb1 Bf8 Ne3 Nd4 Nxd4 cxd4 Nd5 h6 f4 Rd7 g4 Bf7 Nb4 Bxb4 Rxb4 Be6 g5 hxg5 fxe5 fxe5 Bxg5 Bg4 h6 Rd6 Be7 Rxh6 Rc4 Bd7 Rxc7 Bxb5 Kf2 Ba4 Kf3 Re6 Bb4 Rf6+ Ke2 Rh6 Kf3 Rf6+ Ke2 Rh6 Kf3 Rf6+ Ke2",
     "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771061238.9413762
+  "updated": 1771061258.6805878
 }
