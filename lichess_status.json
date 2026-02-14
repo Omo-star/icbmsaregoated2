@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "StrawberryChessDev",
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 167,
-  "timestamp": "2026-02-14T11:59:30.111529",
+  "time_left": 177,
+  "timestamp": "2026-02-14T12:00:05.480717",
   "last_game": {
-    "result": "win",
-    "opponent": "StrawberryChessDev",
+    "result": "draw",
+    "opponent": "Bot1nokk",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qg6 Bd3 dxe3 Nh4 exf2+ Rxf2 Qh7 Nf6+ gxf6 Bxh7+ Kxh7 Rxf6 Nc6 Qh5 Bd2 Rxf7+ Kh8 Rxf8+ Kh7 Qf7#",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 b3 h5 Qe1 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bd7 Nf5 Qe6 Ng7 Qe7 Nf5 Qe6 Ng7 Qe7 Nf5",
     "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771070370.1115937
+  "updated": 1771070405.480861
 }
