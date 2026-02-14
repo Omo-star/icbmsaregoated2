@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2988,
-  "opponent": "achessbot111",
+  "rating": 2986,
+  "opponent": "StrawberryChessDev",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 150,
-  "timestamp": "2026-02-14T13:19:50.186812",
+  "time_left": 139,
+  "timestamp": "2026-02-14T13:21:46.834007",
   "last_game": {
-    "result": "draw",
-    "opponent": "achessbot111",
-    "rating_before": 2988,
-    "rating_after": 2988,
+    "result": "win",
+    "opponent": "StrawberryChessDev",
+    "rating_before": 2986,
+    "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "Nf3 d5 e3 Nf6 b3 e6 Bb2 Bd6 d4 O-O a3 b6 h3 Bb7 Be2 Ne4 c4 Nd7 O-O dxc4 bxc4 Re8 a4 a5 Qc2 e5 c5 bxc5 dxe5 Nxe5 Nxe5 Bxe5 Bxe5 Rxe5 Qb2 Re6 Qxb7 Rb8 Qa7 Ra8 Qb7 Rb8 Qa7 Ra8 Qb7 Rb8",
+    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Be5 f6 Bg3 Nxg3 hxg3 cxd4 exd4 Bd6 Bd3 f5 Qe2 Qb6 O-O-O Bd7 Bxf5 Kf7 Bxe6+ Bxe6 Ng5+ Kf8 Qxe6 Nd8 Qf5+ Kg8 Rde1 g6 Re8+ Kg7 Qd7+ Nf7 Qxf7#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1771075190.186992
+  "updated": 1771075306.834073
 }
