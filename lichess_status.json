@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "WyKmo12",
+  "rating": 2999,
+  "opponent": "PandaCub7",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 494,
-  "timestamp": "2026-02-14T02:31:34.805270",
+  "time_control": "TC: 5+3",
+  "time_left": 350,
+  "timestamp": "2026-02-14T06:03:26.121599",
   "last_game": {
     "result": "win",
-    "opponent": "WyKmo12",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "opponent": "PandaCub7",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 e3 e6 a4 c5 h4 Be7 b3 Nc6 c3 O-O Be2 Ne4 Bb2 cxd4 O-O dxe3 fxe3 Ng3 Kf2 Nxf1 Qxf1 e5 b4 e4 h5 exf3 Kxf3 Bh4 Kf4 Qf6#",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Re8 Rxe8+ Qxe8 Nd2 Qe1+ Nf1 Bg6 g3 b4 c4 Nc7 Bd1 Ne6 Bd2 Qe5 Qxc6 Rd8 Bg4 Nd4 Qb6 Re8 Re1",
+    "duration": 447,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771036294.8053343
+  "updated": 1771049006.1217537
 }
