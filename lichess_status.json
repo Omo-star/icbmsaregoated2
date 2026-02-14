@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "Cheszter",
+  "rating": 3076,
+  "opponent": "MEGA-NOOB-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 22,
-  "timestamp": "2026-02-14T07:33:48.459679",
+  "time_control": "TC: 0+1",
+  "time_left": 4,
+  "timestamp": "2026-02-14T07:38:23.974901",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "result": "loss",
+    "opponent": "MEGA-NOOB-BOT",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 c4 e6 cxd5 exd5 Bf4 c5 dxc5 Bxc5 e3 Nc6 Be2 Qb6 Nc3 Qxb2 Nb5 O-O Rb1 Qxa2 Ra1 Qb2 Rb1 Qa2 Ra1 Qb2 Rb1 Qa2",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 d6 Be3 Nf6 f3 a6 Qd2 h5 Nxc6 bxc6 O-O-O Be7 Kb1 Qc7 Bc4 O-O g4 d5 g5 dxc4 gxf6 Bxf6 Bg5 Be5 Rhg1 c5 Ne2 c3 Nxc3 Rb8 f4 Bd4 e5 Bxg1 Rxg1 g6 Bf6 Kh7 Qe2 Bb7 f5 Qc6 fxg6+ fxg6 Qd3 Qe8 Rg5 Kh6 Qe3 Kh7 Qd3 Kh6 Qg3 Rg8 Qe3 Kh7 Qd3 Kh6 Qe3 Kh7 Qd3 Kh6 Rg3 g5 Qd2 Kh7 Rd3 Bc6 Qe3 Rb4 Qxc5 Rg4 b3 Rg2 Rd6 Qg6 Ne2 Bd5 Nd4 Qf7 h3 Re8 Nf5 Be4 Ne3 Rf2 Rxa6 Kg6 Ra7 Rxf6 Rxf7 Rxf7 Kb2 g4 Qd4 Bf3 a4 Kg5 hxg4 h4 Qd2 Rf4 Qd7 Rff8 Qg7+ Kf4 Nf1 Ba8 Qh6+ Kxg4 Qg7+ Kh3 Qg1 Rh8 a5 Reg8 Qf2 Rf8 Qh2+ Kg4 Ne3+ Kf3 Qh3+ Kf4 a6 Rfg8 Nd1 Bd5 Qe3+ Kf5 Qf2+ Kxe5 Qe3+ Kd6 Nf2 Ke7 Qa7+ Kf6 Qd4+ Kf5 Nh3 Be4 Qf2+ Kg4 Qe3 Ba8 b4 e5 b5 Rb8 Nf2+ Kf5 Kc1 e4 b6 Rhe8 Qh3+ Ke5 Ng4+ Kf5 Ne3+ Ke5 Qh2+ Ke6 Qxh4 Rh8 Qg5 Rh1+ Kd2 Rh2+ Kc3 Rhh8 Qg6+ Ke5 Qf7 Bd5 Qf5+ Kd6 Qxd5+ Ke7 Qxe4+ Kf6 a7 Rbc8+ Nc4 Rce8 Qxe8 Rxe8 b7 Re1 b8=Q Ra1 a8=Q Rxa8 Qxa8 Kg7",
+    "duration": 204,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1771054428.4598348
+  "updated": 1771054703.9749625
 }
