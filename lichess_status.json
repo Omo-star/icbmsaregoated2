@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2996,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "BotsFanClub",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 111,
-  "timestamp": "2026-02-14T11:48:47.930123",
+  "time_left": 58,
+  "timestamp": "2026-02-14T11:54:10.663242",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "BotsFanClub",
     "rating_before": 2996,
     "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Bxc6 bxc6 d4 exd4 cxd4 Bb6 Nf1 d5 e5 Ne4 Be3 a4 Ng3 Ba5 Re2 a3 b3 Nc3 Qc1 Nxe2+ Nxe2 Qe8 Bxh6 gxh6 Qxh6 Qe7 Nf4 Bf5 Qh5 Bd7 b4 Bxb4 Rb1 Kg7 e6 Bxe6 Rxb4 Qf6 Nxe6+ fxe6 Rb3 Rab8 Rxb8 Rxb8 Qg4+ Kh7 Qh5+ Kg7 Qg4+ Kh6",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 a6 c3 Ba7 Bb3 d6 Re1 h6 Nbd2 g5 Nf1 g4 N3d2 h5 Nc4 h4 Bg5 Bd7 a4 Rh5 Be3 Ne7 Bxa7 Rxa7 Nfe3 Ra8 d4 b5 dxe5 dxe5 Na5 Rb8 Bc2 Ng6 axb5 axb5 Nb3 Qe7 Ra7 Be6 Qa1 Kf8 Qa5 Ne8 Qa3 Qxa3 Rxa3 b4 cxb4 Rxb4 Nc5 Rxb2 Bd1 Rg5 Ra8 Ke7 g3 Nd6 Ra7 Nb5 Rb7 Rb1 Rf1 hxg3 fxg3 Nf8 Ba4 Rxf1+ Kxf1 Nd4 Rxc7+ Kf6 Kg2 Rg8 Rb7 Rg5 Nd5+ Kg6 Be8 Bxd5 exd5 Rf5 d6 Nfe6 Nxe6 Nxe6 d7 Kf6 Bxf7 Nd8 Rb8 Kxf7 Rxd8 Ke6 Rg8 Kxd7 Rxg4 Ke6 Ra4 Rf8 g4 Kd5 Ra5+ Ke4 h3 Kf4 Ra1 Rg8 Rf1+ Ke3 Kg3 e4 h4 Kd2 g5 e3 Rf6 Re8 g6 e2 Rf2 Re3+ Kf4 Kd3 Rxe2 Rxe2 h5 Rf2+ Kg5 Ke4 h6 Rf5+ Kh4 Rf6 h7 Rxg6 h8=Q Rg1 Qe8+ Kf3 Qf7+ Kg2 Qf4 Rf1 Qg3+ Kh1 Kh3 Rf2 Qe5 Rf3+ Kg4 Rf2 Kg3 Rg2+ Kh3 Re2 Qxe2 Kg1 Qg2#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1771069727.9302573
+  "updated": 1771070050.663309
 }
