@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2985,
-  "opponent": "Bot1nokk",
+  "opponent": "StrawberryChessDev",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 113,
-  "timestamp": "2026-02-14T14:29:32.504882",
+  "time_left": 63,
+  "timestamp": "2026-02-14T14:33:41.219420",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
+    "result": "win",
+    "opponent": "StrawberryChessDev",
     "rating_before": 2985,
     "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 exd5 cxd5 Bb3 Nc6 O-O Be6 Bg5 h6 Bh4 g5 Bg3 Nd7 Re1 Bg7 Nc3 Qa5 d4 e4 Nd2 Nf6 f3 exf3 Nxf3 O-O Qd3 Rad8 Rad1 Rfe8 h3 a6 Kh1 b5 Be5 Nh5 Bh2 Nf6 Be5 Nh5 Bh2 Nf6 Be5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 Be3 Bf8 Kh1 a6 a5 b5 Ncd2 Nc5 d4 exd4 Bxd4 Ne6 Be3 Bb7 Re1 c5 Qe2 c4 Nxc4 bxc4 Rad1 Qe8 Qxc4 Rd8 Rxd8 Nxd8 Bd2 Qc6 Qc3 Ne6 Qxc6 Bxc6 b4 Rd7 Bc3 Ba4 Rc1 c5 bxc5 Bxc5 Kg1 Nf4 Kf1 Bb5+ Kg1 Ne2+ Kh1 Nxc1 Be1 Rd1 Kg1 Bc6 Kf1 Bxe4 c3 Bd3+ Kg1 Bd6 c4 Ne2+ Kf1 Nd4+ Kg1 Nxf3+ gxf3 Rxe1+ Kg2 Bf1+ Kg1 Bh3#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771079372.5050018
+  "updated": 1771079621.2194836
 }
