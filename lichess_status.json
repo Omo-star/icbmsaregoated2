@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2972,
-  "opponent": "abdcebot",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 100,
-  "timestamp": "2026-02-14T20:04:27.503187",
+  "time_left": 176,
+  "timestamp": "2026-02-14T20:06:45.465808",
   "last_game": {
     "result": "draw",
-    "opponent": "abdcebot",
+    "opponent": "CloudNetBot",
     "rating_before": 2972,
     "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 a6 Qd2 e6 O-O-O Be7 Bxf6 gxf6 f4 Nxd4 Qxd4 Bd7 h4 b5 g4 Qc7 Qd2 Rg8 f5 Qc5 fxe6 fxe6 Kb1 Rc8 Bh3 b4 Ne2 a5 Nd4 Rg6 Qd3 Qc4 Qd2 Qc5 Rhe1 a4 h5 Rg8 g5 Qxg5 Qxb4 Qe5 a3 Rg3 Bf1 d5 Qa5 dxe4 Nb5 Rd8 Bc4 Kf8 Rd4 f5 Red1 Bf6 Qb4+ Be7 Qa5 Bf6",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Rfe8 Bc3 f6 Qd1 Kh7 Kh2 Rab8 Qc2 Bf7 Rd2 Qa6 Qd1 Rb6 Nh4 Nf8 Qg4 Ne6 Nhf5 Rg8 Ne7 Re8 Nef5 Rg8 Ne7 Re8 Nef5",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771099467.5033286
+  "updated": 1771099605.4659197
 }
