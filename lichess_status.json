@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "StrawberryChessDev",
+  "opponent": "stockfish2threadtest",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 102,
-  "timestamp": "2026-02-14T10:58:09.966049",
+  "time_left": 39,
+  "timestamp": "2026-02-14T11:03:35.395343",
   "last_game": {
-    "result": "win",
-    "opponent": "StrawberryChessDev",
+    "result": "draw",
+    "opponent": "stockfish2threadtest",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Bxc3 bxc3 Kf8 c5 dxc5 f4 Qd6 a4 h6 d4 exd4 e5 Qb6 exf6 Qxf6 cxd4 Qxd4+ Qxd4 cxd4 Bb2 d3 Rfd1 Rg8 Rxd3 Ke7 Re1+ Be6 f5 Ra6 Bxb7 Rb6 fxe6 fxe6 Ba3+ Kf6 Rf3+ Kg6 Be4+ Kh5 Bc2 g5 g4+ Kh4 Bc5 Rgb8 Bf2#",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 O-O O-O Qb3 Nbd7 Nc3 Nb6 c5 Nc4 Bf4 b6 Na4 Nd7 Qc3 g5 Bc1 g4 Nd2 Ba6 Nxc4 Bxc4 Re1 Bf6 Bh6 Bb5 Bxf8 Qxf8 Qb4 a5 Qb3 Bxd4 cxb6 Qb4 Nc3 Bc4 Qc2 Nxb6 Rac1 a4 Qd2 Bg7 Red1 Rb8 Qf4 Nd7 h3 h5 Rc2 Ne5 hxg4 hxg4 Rdc1 Rc8 Qg5 Qa5 Rb1 Rb8 Ra1 Rb7 Rd1 Rb8 Ra1 Rb7 Rd1 Qb4 Rb1 Kh7 Qh5+ Kg8 Qg5 Rb8 Rbc1 Qd6 Nxa4 Bxa2 Nc5 Bc4 Nd3 Bxd3 exd3 Qb4 Rxc6 Nxc6 Rxc6 Kf8 Rc7 Qd6 Ra7 Bd4 Ra4 Rb4 Ra8+ Rb8 Rxb8+ Qxb8 Qxg4 Qxb2 Qf4 Bb6 Bh3 Ke7 Bg4 Qd4 Qxd4 Bxd4 Kg2 f5 Bh3 Kf6 f4 e5 Kf3 e4+ dxe4 fxe4+ Ke2 Bc5 Bd7 Bb6 Bc6 Ke6 Bb7 Bc7 Ke3 Bb6+ Ke2 Bd4 g4 Bb6",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1771066689.9661114
+  "updated": 1771067015.3955243
 }
