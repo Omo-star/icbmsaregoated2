@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
-  "opponent": "Bharat_royals",
+  "rating": 3072,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 10,
-  "timestamp": "2026-02-14T08:05:04.362563",
+  "time_control": "TC: 1.5+0",
+  "time_left": 60,
+  "timestamp": "2026-02-14T08:06:11.268728",
   "last_game": {
     "result": "draw",
-    "opponent": "Bharat_royals",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "opponent": "Viet-Test",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 Nc3 Ng6 d4 exd4 Nxd4 Nxd4 Qxd4 c6 Be2 Qb6 Qd3 Be7 O-O O-O a4 d6 a5 Qc7 f4 Bd7 Be3 Rfe8 Qc4 Qc8 Qd4 Bf6 Qd2 Bxc3 bxc3 Rxe4 Bd3 Re7 f5 Ne5 f6 Re6 Bg5 g6 Be2 c5 Bh6 c4 Rf2 Qc5 Be3 Qb5 Bd4 Kh8 Bxa7 Bc6 Bd4 Qb2 Rd1 Qb5 Bb6 Rg8 h4 Nd7 Bd4 Nc5 Qg5 d5 a6 bxa6 Bg4 Ree8 Rff1 Ne4 Qf4 Qb8 Qxb8 Rxb8 Ra1 Ra8 Rfb1 Rgd8 Rb6 Bb5 Rb7 Kg8 h5 gxh5 Bxh5 Bd7 Ra5 Be6 Kh2 h6 Re7 Rdb8 Bg6 Ng5 Be5 Rc8 Bh5 Ne4 Bd4 Rcb8 Bg6 Ng5 Be5 Rb6",
-    "duration": 108,
-    "bot_color": "black",
+    "moves": "d4 Nf6 Bg5 d5 e3 c5 Bxf6 gxf6 dxc5 e6 Nf3 Bxc5 Be2 O-O O-O Be7 Na3 Nd7 Rc1 Nb6 c4 Bxa3 bxa3 dxc4 Nd2 e5 Qe1 Be6 Nxc4 Rc8 Rd1 Qe7 Nxb6 axb6 a4 Rfd8 f4 Rxd1 Qg3+ Kf8 Rxd1 Qc5 Kf2 exf4 Qxf4 Qg5 Rd2 Kg7 h4 Qe5 Bd1 Rc3 Rd6 Ra3 Bb3 Bxb3 axb3 Qxf4+ exf4 Rxb3 h5 f5 h6+ Kf8 Rf6 Ra3 Rxf5 Rxa4 g4 Rc4 g5",
+    "duration": 90,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771056304.3626604
+  "updated": 1771056371.2688162
 }
