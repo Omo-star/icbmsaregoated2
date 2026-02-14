@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "GoblinAjedrezAI",
+  "rating": 2995,
+  "opponent": "StrawberryChessDev",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2026-02-14T10:55:06.963475",
+  "time_left": 102,
+  "timestamp": "2026-02-14T10:58:09.966049",
   "last_game": {
-    "result": "draw",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "result": "win",
+    "opponent": "StrawberryChessDev",
+    "rating_before": 2995,
+    "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc7 g4 g6 h3 Kf8 Kg2 Rc4 Rh1 Bc6 Ng3 Ba4 Rb1 Rc3 Ra1 Rc2 Re1 Bb5 Ne4 Bd3 Ra1 Bh4 Ng3 Bg5 Re1 Bb5 Be2 Bd7 Bf3 Ra2 Ne4 Bh4 Rc1 Rxa3 Rc7 Be8 Rc8 Ke7 Rc7+ Kf8 Rc8 Ke7 Rc7+ Kd8",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Bxc3 bxc3 Kf8 c5 dxc5 f4 Qd6 a4 h6 d4 exd4 e5 Qb6 exf6 Qxf6 cxd4 Qxd4+ Qxd4 cxd4 Bb2 d3 Rfd1 Rg8 Rxd3 Ke7 Re1+ Be6 f5 Ra6 Bxb7 Rb6 fxe6 fxe6 Ba3+ Kf6 Rf3+ Kg6 Be4+ Kh5 Bc2 g5 g4+ Kh4 Bc5 Rgb8 Bf2#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1771066506.9635763
+  "updated": 1771066689.9661114
 }
