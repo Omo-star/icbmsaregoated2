@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "stockfish2threadtest",
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 126,
-  "timestamp": "2026-02-14T12:36:10.426827",
+  "time_left": 135,
+  "timestamp": "2026-02-14T12:38:35.580536",
   "last_game": {
     "result": "draw",
-    "opponent": "stockfish2threadtest",
+    "opponent": "RaspFish",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 c4 Ba6 b3 g6 g3 Bg7 Bb2 O-O Bg2 Rae8 O-O Bxe5 Qxe5 Qxe5 Bxe5 Rxe5 cxd5 Bxf1 Kxf1 cxd5 Nc3 c6 Rd1 a5 Na4 Re7 Nc5 f5 Bf3 Rb8 Nd3 g5 Rc1 Kg7 h3 Kf6 Rc5 Ra8 Rc1 Rh8 Rc5 Ra8 Rc1 Ke6 Ke2 Kd6+ Kd2 Ra7 Rg1 Ra8 h4 g4 Bd1 Re4 Bc2 a4 b4 a3 Rb1 Rd4 Ke3 Re4+ Kd2 Rd4 Kc3 Rc4+ Kd2 Rd4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O a5 c3 Ba7 Na3 d6 Re1 O-O Bg5 h6 Bh4 g5 Bg3 g4 Bh4 Kg7 Nc2 Ne7 Bxf6+ Kxf6 Nh4 Ng6 Nf5 Bxf5 exf5 Kxf5 d4 Qg5 Re4 h5 h3 gxh3 Qf3+ Nf4 g3 Kg6 dxe5 dxe5 Kh2 Ne6 Rae1 Qf6 Qxf6+ Kxf6 Bxe6 fxe6 Rxe5 Bxf2 R1e2 Kg7 Nd4 Bxd4 cxd4 Rad8 Rxh5 Rxd4 Rxa5 Re8 Kxh3 Kf6 Rae5 Rd5 Rxd5 Rh8+ Rh5 Rxh5+ Kg4 Rf5 Re3 Rg5+ Kf3 Rd5 g4",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771072570.4270165
+  "updated": 1771072715.580667
 }
