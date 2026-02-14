@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2999,
-  "opponent": "PandaCub7",
+  "rating": 3076,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 189,
-  "timestamp": "2026-02-14T06:52:31.218013",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2026-02-14T07:15:31.866497",
   "last_game": {
-    "result": "win",
-    "opponent": "PandaCub7",
-    "rating_before": 2999,
-    "rating_after": 2999,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb7 Bg2 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nc3 d5 cxd5 exd5 O-O Nbd7 Ne5 Re8 Nxd7 Qxd7 b4 Ba6 Rfe1 h5 Qf4 Bc4 a4 c6 Rac1 b5 a5 Qe7 Rb1 Rad8 h3 Ne4 Nxe4 dxe4 Qe3 Qd7 Rbd1 Qd6 Qc3 h4 g4 e3",
-    "duration": 450,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bd6 d4 exd4 Nxd6 cxd6 Qxd4 Qf6 Nd2 Ne5 Qc3 c5 Rfe1 b5 f4 Ng4 Qxf6 Nxf6 e5 dxe5 Bxc5 exf4 Rxe8+ Nxe8 a4 bxa4 Rxa4 Bf5 c3 Rb8 Rd4 g6 Nc4 Be6 Na5 g5 Bxa7 Rxb2 Rd8 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2 Rb2+ Kf1 Rb1+ Kf2",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771051951.218115
+  "updated": 1771053331.866604
 }
