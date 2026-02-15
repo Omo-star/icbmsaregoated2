@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3070,
-  "opponent": "CloudNetBot",
+  "rating": 2966,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2026-02-15T12:04:13.459659",
+  "time_control": "TC: 3+0",
+  "time_left": 132,
+  "timestamp": "2026-02-15T12:07:25.335456",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3070,
-    "rating_after": 3070,
+    "opponent": "Viet-Test",
+    "rating_before": 2966,
+    "rating_after": 2966,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 e3 c6 b3 c5 cxd5 Nxd5 Bc4 cxd4 Nxd4 Nb6 Bb5+ Bd7 Be2 Nc6 Bb2 Nxd4 Bxd4 Bb4+ Nd2 Qe7 Bxg7 Rg8 Bb2 Rxg2 a3 Bxd2+ Qxd2 Bc6 Rd1 Rd8 Qxd8+ Qxd8 Rxd8+ Kxd8 f3 Nd5 Bd4 e5 Bxe5 Nxe3 Bf4 Nf5 Kf1 Nh4 Rg1 Rxg1+ Kxg1 Nxf3+ Kf2 Nd4 Bc4 Ne6 Be3 b6 Bd3 h5 Kg3 Be8 Bc1 Ke7 Bb2 Nc5 Bc2 f6 Kf4 Nd7 Kf5 Bf7 b4 Be6+ Ke4 h4 Bd4 h3 a4 Ne5",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 e6 Qd2 a6 O-O-O Be7 Bxf6 gxf6 f4 Nxd4 Qxd4 Bd7 h4 Qa5 Rh3 Qc5 Qd2 b5 f5 b4 Ne2 e5 Ng3 Bc6 b3 Rg8 Kb1 a5 Bc4 a4 Qe2 axb3 cxb3 Qa7 Rd2 Qg1+ Nf1 Rc8 Kb2 Bd8 Ba6 Rb8 Ne3 Bxe4 Rd1 Qxg2 Nxg2 Rxg2 Qxg2 Bxg2 Rg3 Be4 Bd3 Bxd3 Rgxd3 Bc7 Rd5 Kd7 h5 h6 Rc1 Bb6 Kb1 Ba7 Rc4 Bd4 Kc2 Ra8 Kb1 Rb8 Kc2 Ra8 Kb1 Rb8",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771157053.4597595
+  "updated": 1771157245.3355749
 }
