@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2966,
-  "opponent": "ArasanX",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 114,
-  "timestamp": "2026-02-15T12:09:53.122168",
+  "rating": 3070,
+  "opponent": "ChessGPT_11",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+1",
+  "time_left": 36,
+  "timestamp": "2026-02-15T12:11:41.111430",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 2966,
-    "rating_after": 2966,
+    "opponent": "ChessGPT_11",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 g6 Be3 Bg7 f3 O-O Qd2 Nc6 Bc4 Bd7 O-O-O Rc8 Bb3 Nxd4 Bxd4 b5 Nd5 Nxd5 Bxg7 Kxg7 exd5 a5 a3 Kg8 Rhe1 Rc5 Re3 b4 axb4 axb4 Qxb4 Qa8 Bc4 Bf5 Ra3 Qc8 b3 Qc7 Qd2 Rc8 g4 Bd7 Ra2 Bb5 Bxb5 Rxb5 Kb1 Qc3 Qxc3 Rxc3 f4 Rc4 f5 gxf5 gxf5 Kg7 Ra1 Rf4 Kb2 Rxf5 c4 Rf2+ Ka3 Rb8 Rg1+ Kf8 b4 Rf3+ Ka4 Rc3 Rgc1 Ra8+ Kb5 Rb8+ Ka5 Ra8+ Kb6 Rb8+ Ka5 Ra8+ Kb5 Rb8+ Ka5",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "c4 c5 e3 b5 cxb5 Qxb5 Nfg3 f6 f3 Nf7 Be2 Qb7 Nf2 g6 O-O Ne6 b4 cxb4 Rxc8 Qxc8 Qxb4 O-O Bc3 Qc5 Qxc5 Nxc5 d4 Na4 Bb4 Bc6 Rc1 a5 Bd2 e5 dxe5 Nxe5 Nge4 Kg7 f4 Nf7 Bd1 Nb6 Bf3 Re8 Bc3 Nd5 Bd4 h5 h3 a4 Nc5 Nh6 Nxd7 Bxd7 Bxd5 Nf5 Rb1 Nxd4 exd4 Bf5 Rb7+ Kh6 Kf1 Bc8 Ra7 Bb6 Rxa4 Rd8 Bc6 Be6 d5 Bxd5 Bxd5 Rxd5 Ke2 Bxf2 Kxf2 Rd2+ Kf3 g5 Ra6 gxf4 Rxf6+ Kg5 Ra6 Rd3+ Ke2 Rc3 Ra5+ Kh4 Kf2 Rc1 Kf3 Rc2 Ra8 Rc3+ Kxf4 Ra3 Rxa3",
+    "duration": 129,
+    "bot_color": "black",
+    "termination": "stalemate"
   },
-  "updated": 1771157393.1222794
+  "updated": 1771157501.1175764
 }
