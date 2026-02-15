@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3070,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3031,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2026-02-15T09:46:46.517875",
+  "time_control": "TC: 10+0",
+  "time_left": 478,
+  "timestamp": "2026-02-15T09:49:18.340211",
   "last_game": {
-    "result": "win",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3070,
-    "rating_after": 3070,
+    "result": "draw",
+    "opponent": "Bot1nokk",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 c5 Ne3 Nb8 h5 Be6 b3 Nc6 Nh4 Qd7 Bc3 b5 a4 a6 Nef5 c4 bxc4 bxc4 Qg4 cxd3 Rad1 Nd4 Rxd3 c5 Bxd4 exd4 c3 Rad8 cxd4 cxd4 h6 Bxf5 exf5 g5 Nf3 Qc6 Rxd4 Rxd4 Qxd4 Bxh6 Qd1 g4 Nh2 g3 Qb3+ Kh8 Qxg3 Rg8 Qh3 Qe4 Qf3 Qxf3 Nxf3 Rg4 Rd1 Rxa4 g3 Kg8 Rd6 Ra5 Kg2 Rxf5 Rxa6 Bg5 Nd4 Rd5 Ne6 Rd2 Ra7 Be3 Rg7+ Kh8 Kf3 Bxf2 Rc7 h6 Rc8+ Kh7 Rc7+ Kh8 Nf4 Ra2 Nh5 Bd4 Ke4 Be5 Rb7 Rf2 g4 Rf1 Re7 Kg8 Kd5 Ra1 Ke6 Ra6+ Kf5 Ba1 Rg7+ Kf8 Rh7 Ra5+ Kf4 Rg5 Rh8+ Kf7 Rxh6 Be5+ Kf3 Rg8 Nxf6 Bxf6 g5 Bxg5 Rh7+ Kf6 Rd7 Ke5 Rh7 Re8 Rg7 Rf8+ Kg4 Be3 Rh7 Ke4 Rg7 Bd4 Rh7 Rg8+ Kh3 Be5 Rf7 Rg6 Rf8 Rg5 Re8 Rg1 Rf8 Bf4 Kh4 Kf3 Kh5 Rg5+ Kh4 Rg4+ Kh5 Rg5+ Kh4 Re5 Rf7 Re1 Kh5 Re6 Rh7 Kg3 Rh8 Rc6 Rg8+",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Ne4 cxd4 Qxd4 Qc6 Kh1 Bg6 Qf2 h6 f4 Bf5 Be3 Nxe3 Rxe3 Bd8 Ng3 Bxc2 Qxc2 Re8 Rxe8+ Qxe8 Nf5 Bc7 c4 Bxf4 cxb5 g6 Qc4 Be5 Nxh6+ Kg7 Ng4 Bxb2 Rf1 Rb8 Qxa4 Rxb5 Ne3 Be5 Qc4 Bxh2 Ng4 Bg3 Qd4+ Be5 Nxe5 Qxe5 Qd7 Qh5+ Kg1 Qc5+ Kh1 Qh5+ Kg1 Qc5+ Kh1 Qh5+",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1771148806.5179389
+  "updated": 1771148958.340312
 }
