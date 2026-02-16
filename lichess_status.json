@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2966,
-  "opponent": "RaspFish",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2026-02-16T10:07:55.509309",
+  "rating": 3084,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 10,
+  "timestamp": "2026-02-16T10:08:54.946366",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 2966,
-    "rating_after": 2966,
+    "opponent": "Bharat_royals",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Nd2 f6 f4 g5 Ndf3 gxf4 Bb5 fxe5 Bxc6+ bxc6 dxe5 Ne7 Ne2 Ng6 O-O Qd7 Nxf4 Nxf4 Bxf4 Rg8 Be3 a5 Nh4 Bg4 Qd3 Qg7 Rf6 Bh3 Qf1 Be7 Kh1 Rf8 Bd4 Bg4 h3 Qg5 Qe1 Bxf6 exf6 Bf5 Nf3 Qh6 Qe5 Rf7 b4 axb4 cxb4 Ra3 Rf1 Bxh3 gxh3 Qxh3+ Nh2 Rxa2 Bb2 Kd7 Kg1 Qh4 Rf2 Qxb4 Re2 Qd6 Qg5",
-    "duration": 180,
+    "moves": "Nf3 c5 O-O Nf6 e4 d6 d3 b5 b3 O-O Nh4 e6 Re3 Nxe4 dxe4 Bxh4 Bxg7 Kxg7 Rg3+ Bxg3 Qg5+ Kh8 Qf6+ Kg8 Qg5+ Kh8 Qf6+ Kg8 Qg5+ Kh8",
+    "duration": 60,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771236475.5094335
+  "updated": 1771236534.9464607
 }
