@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "Viet-Test",
+  "rating": 3081,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1.5+0",
-  "time_left": 16,
-  "timestamp": "2026-02-16T08:15:31.894212",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2026-02-16T08:16:00.963834",
   "last_game": {
-    "result": "win",
-    "opponent": "Viet-Test",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "result": "draw",
+    "opponent": "abdcebot",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 c5 b4 cxb4 cxb4 Nf6 a3 Nbd7 Bb2 e6 e3 Bd6 Be2 O-O Nc3 Re8 Qb3 Nb6 Nb5 Bb8 Be5 Bxe5 Nxe5 a6 Nd4 Nfd7 f4 Nxe5 fxe5 Bd7 O-O Ba4 Qb2 Nc4 Bxc4 dxc4 Rf4 Re7 Rc1 Rc7 Nf3 Rac8 Qd4 Qe7 Rg4 h6 Kf2 Kh8 h3 Bd7 Qd6 Qe8 Qd4 b5 Qf4 c3 d4 a5 Rh4 Qf8 g4 Rc4 g5 Qe7 gxh6 g6 Rg4 axb4 axb4 Rxb4 Ng5 Be8 h4 Rb2+ Kg3 Rd2 h5 gxh5 Qe4 Rg2+ Qxg2 hxg4 Kxg4 Rc7 Rf1 Qf8 Qf3 f5+ exf6 Bg6 f7 Bf5+ Kg3 Rxf7 Qf4 Qe7 e4 Rf8 Qe5+ Qf6 exf5 c2 Rc1 Qxe5+ dxe5 Rxf5 Kg4 Rf2 Nxe6 Kh7 Nd4 Rd2 Rxc2 Rxd4+ Kf5 Kxh6 Rg2 Rd1 e6 Rf1+ Ke5 Rh1 e7 Re1+ Kd6 Rd1+ Ke6 Re1+ Kf7 Rf1+ Ke8 b4 Re2 b3 Kd7 Rc1 e8=Q Rd1+ Ke6 Kg5 Qa4 Rd3 Rg2+ Rg3 Rxg3+",
-    "duration": 90,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rb8 g4 a3 Bxf6 hxg4+ Kxg4 Kf7 Bc3 Rg8+ Kh5 Rg3 Rc2 Rf3 Kg4 Rg3+ Kh5 Rf3 Kg4 axb2 Bxb2 Rf4+ Kg5 c3 Rxc3 Rf2 Ba3 Rg2+ Kh5 Kf6 Rxc6 Kxf5 Bxd6 cxd6 Rxd6",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1771229731.8942869
+  "updated": 1771229760.9639523
 }
