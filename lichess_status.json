@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3081,
-  "opponent": "Viet-Test",
+  "opponent": "MEGA-NOOB-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 10,
-  "timestamp": "2026-02-17T07:58:59.606968",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2026-02-17T07:59:39.408810",
   "last_game": {
-    "result": "draw",
-    "opponent": "Viet-Test",
+    "result": "loss",
+    "opponent": "MEGA-NOOB-BOT",
     "rating_before": 3081,
     "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 e3 c5 Nf3 Bg7 Be2 d6 h3 Qb6 Qc1 O-O Nbd2 Nh5 Bh2 cxd4 Nxd4 Bxd4 exd4 Qxd4 O-O Nc6 Re1 f5 c4 f4 Bxh5 gxh5 Nf3 Qf6 c5 d5 Qd1 e6 b4 Nxb4 Ne5 Qf5 Qd2 Nc6 Qb2 Qg5 Nxc6 bxc6 Re5 Rf5 Rxf5 Qxf5 Re1 Ba6 Kh1 Rf8 Re5 Qf6 f3 Rf7 Qb8+ Rf8 Qb2 Rf7 Qb8+ Rf8 Qb2",
-    "duration": 65,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 h6 d4 e6 Bd3 d5 Nc3 Nc6 Nf3 Nb4 Bb5+ c6 Be2 Nf6 e5 Ne4 a3 Na6 Nb1 c5 O-O Be7 c3 Bd7 Bd3 Qb6 Re1 cxd4 cxd4 Ng5 Be3 Nxf3+ Qxf3 Qxb2 Nd2 Qc3 Be2 Rc8 Rab1 Qc7 Nb3 Ba4 Qg3 Kf8 Rec1 Qd8 Bd2 Nb8 Nc5 Bxc5 dxc5 Bc6 Rb4 h5 Rh4 Nd7 Bf4 g6 Bd3 Rh7 h3 Kg8 Bg5 Qc7 f4 a6 a4 Kf8 Qe1 Ke8 Kh2 Bxa4 c6 Bxc6 Qb4 Nf8 Bf6 Ra8 Bc2 Qd7 g4 Bb5 Bb1 a5 Qa3 Bc4 f5 g5 fxe6 fxe6 Bxg5 Qc7 Qe3 Rg7 gxh5 Rg8 Bf6 a4 h6 a3 h7 Rh8 Bxh8 a2 Bc2 a1=R Rxa1 Rxa1 Bf6 Qxh7 Bxh7 Ba6 Qc5 Ra2+ Kg3 Rg2+ Kxg2 Bf1+ Kxf1 Kd7 Qd6+ Ke8 Qe7#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771315139.6070688
+  "updated": 1771315179.4088836
 }
