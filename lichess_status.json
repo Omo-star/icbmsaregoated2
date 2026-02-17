@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "Cheszter",
+  "rating": 3076,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 263,
-  "timestamp": "2026-02-17T10:58:42.508346",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2026-02-17T10:59:18.744059",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "opponent": "DarkOnBot",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 Bg5 h6 Bh4 Be7 e3 O-O Qc2 Nbd7 a3 a6 cxd5 exd5 Be2 Ne4 Bxe7 Qxe7 Nxe4 dxe4 Nd2 Re8 O-O Nf6 Rac1 Nd5 Bc4 Bd7 Nb1 Rad8 Bxd5 cxd5 Qc7 Qg5 Nc3 Bc6 h3 Re6 Ne2 Red6 Nf4 Qf6 Nh5 Qg5 Nf4 Qf6 f3 R8d7 Qc8+ Rd8 Qc7 R8d7 Qa5 Qe7 a4 Rf6 b3 exf3 Rxf3 Rd8 Qc5 Qd7 Qa5 Re8 Qe1 Qe7 Qd1 Qd6 Qf1 a5 Rc3 Bd7 Rc5 b6 Rxd5 Qc6 Qb5 Qc1+ Qf1 Qc6 Qb5 Qc1+ Qf1 Qc6 Qb5",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qb3 c5 cxd5 exd5 dxc5 Bxc3+ Qxc3 Qxc3+ bxc3 Na6 Rd1 Be6 e4 dxe4 Bxa6 bxa6 Nd4 Rc8 c6 Rc7 Kd2 Bd5 Rhe1 f5 g4 fxg4 c4 Bxc6 Nxc6 Rxc6 Rxe4+ Kf7 Rxg4 Rd8+ Kc1 Rxd1+ Kxd1 Rc5 Kc2 Ke6 Kd3 g5 h4 Ra5 a4 Rf5 Ke3 Re5+ Kd4 Rf5 f3 gxh4 Rxh4 h5 Rh1 Rf4+ Kc5 h4 Re1+ Kd7 Rh1 Rxf3 Rxh4 a5",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771325922.50844
+  "updated": 1771325958.7441537
 }
