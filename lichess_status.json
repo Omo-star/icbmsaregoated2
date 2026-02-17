@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "tbhOnBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 389,
-  "timestamp": "2026-02-17T09:49:50.247832",
+  "rating": 3080,
+  "opponent": "Viet-Test",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+1",
+  "time_left": 39,
+  "timestamp": "2026-02-17T09:52:30.418913",
   "last_game": {
     "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "opponent": "Viet-Test",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "Nc3 d5 d4 Nf6 Nf3 c5 Bf4 Nc6 a3 e6 e3 a6 h3 h6 Be2 Bd6 dxc5 Bxc5 O-O O-O Bd3 Re8 e4 d4 Ne2 e5 Bd2 Be6 b4 Bf8 c3 dxc3 Bxc3 Nd7 Ng3 b5 Qe2 Rc8 Rac1 g6 Rfd1 Bg7 Qb2 Qe7 Ne2 Kh7 Ng3 Bf6 Ne2 Red8 a4 bxa4 Bxa6 Rb8 b5 Rb6 Qd2 Nc5 Qe3 Rxd1+ Rxd1 a3 Ra1 a2 Nc1 Nd4 Bb4 Qc7 Bxc5 Qxc5 Nxa2 Qd6 Qd3 Qc5 Qe3 Qc4 Nc1 Nxf3+ Qxf3",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 c3 c6 b3 f5 exf5 d5 g4 h5 f3 c5 h3 g6 Ne3 d4 Ng2 gxf5 Nh4 hxg4 fxg4 Nb6 Bxf5 Bxf5 Rxf5 Ne6 cxd4 Nd5 Rxf8+ Qxf8 Qe4 Qd8 Nf5 Rh7 dxe5 Ng5 Qe2 Nxh3+ Rxh3 Rxh3 Nc2 Ne7 Qc4+ Kh8 Qf1 Rh7 Nd6 Kg8 Qc4+ Kf8 Qxc5 Qd7 Ne3 Qc6 Qxc6 Nxc6 Bb2 Bxd6 exd6 Kf7 Kg2 Ke6 Nf5 b5 Bg7 a5 a4 bxa4 bxa4 Ne5 Bxe5 Kxe5 d3 Rb7 Kf3 Ke6 Ne3 Kxd6 Nc4+ Kc5 Nxa5 Rb1 Ke4 Rd1 Nc4 Ra1 a5 Rb1 Ne3 Ra1 g5 Rxa5 g6 Ra8 Nf5 Ra6 d4+ Kb5 Nh4 Ra1 Nf3 Ra8 Kd5 Rd8+ Ke6 Re8+ Kd5 Rd8+ Ke6 Re8+ Kf7 Re4 g7 Rf4+ Ke6 Rg4 Kf7 Rf4+ Ke8 Rg4 Kf8 Rf4+ Ke7 Rg4 Kf8 Rf4+ Ke7 Rg4 Kf6 Rf4+ Ke5 Rg4 Kf6 Rf4+ Ke6 Rg4 g8=Q Rxg8 Kf7 Rh8 Kg7 Re8 Kh7 Rf8 Ng5 Re8 Kg7 Rd8 Kh7 Rf8 Kg7 Re8 Kh7 Rf8 Kg7 Re8 Kh7 Rf8",
+    "duration": 158,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771321790.247993
+  "updated": 1771321950.4189782
 }
