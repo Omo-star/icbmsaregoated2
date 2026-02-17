@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "Cheszter",
+  "rating": 3075,
+  "opponent": "OlympusCz",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-02-17T11:37:26.224500",
+  "time_control": "TC: 2+1",
+  "time_left": 95,
+  "timestamp": "2026-02-17T11:38:52.533374",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "opponent": "OlympusCz",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Re1 b4 Bd3 Nh4 Be3 h6 a3 Bb7 g3 Ng6 Bf1 d6 Bg2 Re8 Qb3 bxc3 Nxc3 Ba6 Qc2 Ne5 Rad1 Rb8 b3 Nd3 Rxd3 Bxd3 Qxd3 Rxb3 Rc1 Rxa3 Bd2 Bg5 Bxg5 Qxg5 Qc2 Rb8 Ne4 Qe7 Nd2 a4 h4 g6 Bf1 Rb4 Nc4 Rab3 Ra1 Qd7 Nd2 Rb2 Qc3 Qe8 Qc1 Qb8 h5 gxh5 Nc4 Rb1 Rxb1 Rxb1 Qxh6 Qb5 Qg5+ Kf8 Qd8+ Kg7 Qg5+ Kf8 Qd8+ Kg7 Qg5+ Kf8 Qd8+",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Ne4 a4 Nxc6 Bh4 Nd4 axb3 axb3 Ra2 Bc1 h5 g5 Nxe5 Rc3 Rd8 Bf4 Ra5 Kf1 Rd7 Ke2 Ng6 Nxe6 fxe6 Be3 Rxd1 Kxd1 Re5 Rc4 b5 Rb4 Ne7 Nc5 Bxg5 Bxg5 Nc6 Rxb5 Rxg5 Ke1 Nb8 Ra5 Na6 Rxa6 Rxc5",
+    "duration": 196,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771328246.224604
+  "updated": 1771328332.5334704
 }
