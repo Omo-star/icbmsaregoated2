@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2962,
-  "opponent": "Cheszter",
+  "opponent": "BeyondHeliosAI",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 106,
-  "timestamp": "2026-02-17T09:41:50.496480",
+  "time_left": 180,
+  "timestamp": "2026-02-17T09:41:56.728812",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
+    "opponent": "BeyondHeliosAI",
     "rating_before": 2962,
     "rating_after": 2962,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 a6 a4 Bc5 O-O O-O c3 d5 exd5 Nxd5 Nbd2 Kh8 Re1 f6 Ne4 Ba7 b4 Be6 Bd2 Nce7 Rc1 Ng6 d4 exd4 Nc5 Bxc5 Rxe6 dxc3 bxc5 cxd2 Qxd2 Ndf4 Qxd8 Rfxd8 Re3 Rab8 Rb1 Nf8 g3 Nd5 Reb3 Nd7 Rxb7 Nc3 R1b3 Nxa4 Rxc7 Rxb3 Bxb3 Naxc5 Bc4 g6 Kg2 Kg7 h4 h5 Nd4 Kh6 Nc6 Re8 Bxa6 Nxa6 Rxd7 Nb8 Re7 Rxe7 Nxe7 Kg7 Nd5 Nc6 Kf3 Ne5+ Ke4 Kf7 f3 Kg7 Ke3 Nc4+ Kf4 Nd6 g4 hxg4 fxg4 g5+ hxg5 fxg5+ Kxg5 Nf7+ Kh5 Ne5 Kg5 Kf7 Kh6 Nxg4+ Kh7 Ke6 Kh8 Kxd5",
+    "moves": "e4",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1771321310.496546
+  "updated": 1771321316.7289436
 }
