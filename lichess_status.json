@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2964,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3029,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 139,
-  "timestamp": "2026-02-17T12:24:01.888404",
+  "time_control": "TC: 10+0",
+  "time_left": 82,
+  "timestamp": "2026-02-17T12:43:13.946207",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2964,
-    "rating_after": 2964,
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bh5 Nf5 Qe6 Ng7 Qe7 Qd2 Nxe4 Qd5 Bg6 Nf5 Qd7 Qxe4 d5 Qxd5 Qxd5 Bxd5 Bxf5 Bxh8 Rxh8 f4 gxf4 Rxf4 Bxh3 Rxf7 Kb8 Re1 Bd6 Rg7 Ka7 Rd1 Bc8 c5 Bg3 Rg5 Bh3 Rg8 Rxg8 Bxg8 Bg4 Rf1",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Nb3 b6 Nd2 Bg5 Bg3 Bh6 h3 Qd7 Nf3 Re8 Ne5 Qc8 Qd1 b5 Re2 a6 Bh2 Nc4 g4 Nxe5 dxe5 Be6 Bg3 g6 Kh2 c5 f4 Rd8 a3 Qd7 Rd2 d4 g5 Bf8 Bf2 h5 cxd4 cxd4 Rxd4 Qa7 Rxd8 Qxf2+ Bg2 Qxf4+ Kh1 Qxe5 Qd4 Qc7 b4 Qc1+ Kh2 Qc7+ Kh1 Qc1+ Kh2 Qc7+ Kg1 Bc8 h4 Bf5 Kf2 Qc2+ Qd2 Qc7 Qd4 Qc2+ Kf1 Qc1+ Ke2 Qc2+ Kf1 Qc1+ Ke2 Qc2+ Kf3 Qc6+ Kg3 Qc7+ Kf3 Bg4+ Kf2 Qc2+ Kg1 Qc1+ Kf2 Qc2+ Qd2 Qf5+ Kg1 Qe5 Qf2 Qe7 Ra8 Qe5 Rd8 Bf5 Bf3 Bh3 Bg2 Bg4 Qd2 Qa1+ Kh2 Qe5+ Kg1 Qe7 Bc6 Qc7 Bg2 Qe7 Bc6 Qc7 Be4 Qg3+ Bg2 Qe5 Kf1 Qe7 Bc6 Qc7 Bg2 Qe7 Bc6 Qc7 Bd5 Bh3+ Bg2 Qh2 Bxh3 Qxh3+ Qg2 Qxa3 Qe4 Qc1+ Kg2 Qb2+ Kf1 Kg7 Qd4+ Qxd4 Rxd4 Be7 Kg2 Kf8 Re4 Bd6 Kf2 Bc7 Kf1 Bd6 Kf2 Be7 Kf3 f6 Re6 fxg5 Rxg6 g4+ Ke4 Bxh4 Rxa6 g3 Kf3 g2 Kxg2 Be1 Rb6 Bxb4 Rxb5 Be7 Rxh5 Kg8 Rf5 Kh8 Rf7 Bd6 Kf3 Kg8 Rd7 Bf8 Kf4 Bg7 Kg5 Kf8 Kf5 Bc3 Ke6 Kg8 Kf5 Kf8 Rb7 Kg8 Kg6 Kf8 Kf5 Kg8 Ke6 Kf8 Rf7+ Kg8 Ra7 Kf8",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1771331041.8885934
+  "updated": 1771332193.9462764
 }
