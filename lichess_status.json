@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3076,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Chess960",
+  "opponent": "DarkOnBot",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2026-02-17T10:39:19.872901",
+  "time_left": 27,
+  "timestamp": "2026-02-17T10:40:06.354215",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
+    "opponent": "DarkOnBot",
     "rating_before": 3076,
     "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 a5 f4 a4 a3 f5 exf5 Rxf5 Be2 Rf8 d4 d6 Ng3 e6 Nf3 Qd7 Ka2 Ng6 Nh5 Nh6 c4 Nf5 g4 Ngh4 Nxh4 Nxd4 Qe3 Nxe2 Qxe2 g6 f5 exf5 Nf4 Bf7 gxf5 Re8 Qd3 Re3 Qxe3 Bxc4+ b3 axb3+ Kb2 Bxf1 Ne6 Qc6 Nd4 Qc4 fxg6 c5 Nxb3 Bd3 Rc1 Qa6 Kc3 Qc4+ Kb2 Qa6 Kc3 c4 g7 Qxa3 g8=Q Qxb3+ Kd4 Qb6+ Kd5 Qc6+ Ke6 Qc8+ Kd5 Qc6+ Ke6 Qc8+ Kd5 Qc6+ Ke6",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 Qe8 bxa6 Bf8 N3h4 c4 Qg4 Rd7 a5 bxa5 Rxa5 cxd3 cxd3 Rxa6 Rb1 Rxd3 Rb8 Rb6 Rxc8 Qxc8 Rd5 Qa6 Ra5 Qb7 Nh6+ Kh8 Nf7+ Kg8 Nh6+ Kh8 Nf7+ Kg8 Nh6+",
     "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771324759.8730237
+  "updated": 1771324806.3542795
 }
