@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "Cheszter",
+  "rating": 3081,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 124,
-  "timestamp": "2026-02-17T07:58:03.372061",
+  "time_control": "TC: 0+1",
+  "time_left": 10,
+  "timestamp": "2026-02-17T07:58:59.606968",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "opponent": "Viet-Test",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Ne6 Bxc5 Nxc5 h4 Qe8 a5 Ne6 Ne3 c5 h5 Bd7 Nh4 Rd8 Nef5 Bc8 b3 b5 Qg4 Nd4 Rac1 Nxf5 Nxf5 Bxf5 Qxf5 h6 a6 Qc6 Ra1 Rfd7 Rfe1 Kh8 Re3 Rd4 Kh2 c4 dxc4 bxc4 bxc4 Rxc4 Rd3 Rcd4 Raa3 Rxd3 Rxd3 Rg8 Qd7 Qxc2 f3 Qc4 Ra3 Ra8 Ra5 Rb8 Qe7 Qc1 Rb5 Qf4+ Kh3 Rxb5 Qe8+ Kh7 Qg6+ Kg8 Qe8+ Kh7 Qg6+ Kh8 Qe8+ Kh7",
-    "duration": 600,
+    "moves": "d4 Nf6 Bf4 g6 e3 c5 Nf3 Bg7 Be2 d6 h3 Qb6 Qc1 O-O Nbd2 Nh5 Bh2 cxd4 Nxd4 Bxd4 exd4 Qxd4 O-O Nc6 Re1 f5 c4 f4 Bxh5 gxh5 Nf3 Qf6 c5 d5 Qd1 e6 b4 Nxb4 Ne5 Qf5 Qd2 Nc6 Qb2 Qg5 Nxc6 bxc6 Re5 Rf5 Rxf5 Qxf5 Re1 Ba6 Kh1 Rf8 Re5 Qf6 f3 Rf7 Qb8+ Rf8 Qb2 Rf7 Qb8+ Rf8 Qb2",
+    "duration": 65,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771315083.3721552
+  "updated": 1771315139.6070688
 }
