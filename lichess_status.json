@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
+  "rating": 3076,
   "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 243,
-  "timestamp": "2026-02-17T08:17:54.852991",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 4,
+  "timestamp": "2026-02-17T08:19:18.496518",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "Cheszter",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "c4 e5 d3 Nf6 g3 d5 cxd5 Nxd5 Bg2 Nc6 Nf3 Be7 Nc3 Be6 O-O O-O d4 exd4 Nxd4 Nxd4 Nxd5 Bxd5 Qxd4 Bxg2 Qxd8 Rfxd8 Kxg2 c5 Bf4 Bf6 Rac1 b6 b3 h6 h4 h5 Rc4 Rd7 Rfc1 a5 Kf3 Kf8 R1c2 Be7 Re4 Bd6 a3 Re8 Bxd6+ Rxd6 Rec4 Rd7 b4 cxb4 axb4 a4 Ra2 Ra8 Ra3 Rd5 b5 Rxb5 Raxa4 Rxa4 Rxa4 Rf5+ Kg2 Re5 Kf3 Rf5+ Kg2 Re5 Ra6 Re6 Kf3 Rf6+ Kg2 Re6 Ra8+ Re8 Ra2 Re5 Kf3 Ra5 Rb2 Rf5+ Ke3 b5 Ra2 Ke7 f3 Kd6 Ra7 Kc5 Kd3 g6 Kc3 Rf6 Rd7 Re6 Rc7+ Kd6 Rxf7 Rxe2 Rf6+ Re6 Rxe6+ Kxe6 Kb4 Kd5 Kxb5 Kd4 g4 hxg4 fxg4 Ke5 Kc4 Ke6 Kd4 Kd6 g5 Ke6 Ke3 Kf7 Kf4 Kf8 Kg3 Kg8 Kf3 Kf8 Ke4 Ke8 Kf4 Kf8 Kg3 Kg8 Kg4 Kf8 h5 gxh5+ Kxh5 Kg7",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O a6 Bxc6+ bxc6 d4 exd4 Qxd4 Be7 Nc3 O-O h3 Nd7 Bf4 Re8 Rfe1 Bb7 Qd2 Bf8 Bg3 a5 Rad1 a4 e5 d5 Qf4 Nc5 Bh4 Qc8 Ng5 Re7 Nf3 Re6 Ng5 Re7 Nf3 Re6 Nd4 Rg6 Bg3 Ne6 Nxe6 fxe6 Nxa4 c5 Nc3 Be7 Qf3 Rg5 Bh4 Rf5 Qg4 g5 Bg3 Kh8 a4 Qe8 Qe2 h5 b3 Ba6 Qd2 Rf8 Ra1 c4 bxc4 Bxc4 a5 Qg6 Ne2 Rf7 f3 c5 c3 Qh7 a6 Qg6 a7 Bf8 Qb2 Raxa7 Rxa7 Rxa7 Bf2 Rf7 Be3 Bxe2 Qxe2 Kh7 Rf1 Kg8 Qf2 g4 Qg3 Qd3 Bf2 Be7 hxg4 h4 Qh3 Qxc3 g5 Qxe5 Re1 Qf5 g6 Qxg6 Rxe6 Qg5 Re2 c4 Qe6 Bf6 f4 Qxf4 Qxd5 c3 Re8+ Kg7 Be3 Qg4 Re4 Qg6 Qc4 Kh8 Bd4 Rg7 Rxh4+ Bxh4 Bxg7+ Qxg7 Qxh4+ Kg8 Qd8+ Qf8 Qd3 Qc5+ Kf1 c2 Qg6+ Kf8 Qf6+ Ke8 Qe6+ Kd8 Qf6+ Kc8 Qe6+ Kb7 Qf7+ Kc8 Qe8+ Kc7 Qf7+ Kd8 Qf6+ Kc7 Qf7+ Kb6 Qe6+ Qc6 Qe3+ Qc5 Qe6+ Qc6 Qe3+ Ka6 Qa3+ Kb7 Qe7+ Kc8 Qf8+ Kc7 Qe7+ Kc8 Qf8+ Kd7 Qf7+ Kd6 Qf6+ Kc5 Qc3+ Kd6 Qa3+ Qc5 Qd3+ Kc7 Qh7+ Kb6 Qh6+ Kb5 Qc1 Ka4 g3 Kb3 g4",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1771316274.853055
+  "updated": 1771316358.4966323
 }
