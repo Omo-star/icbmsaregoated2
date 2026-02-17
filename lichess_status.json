@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2963,
-  "opponent": "Fischer_Bot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+10",
-  "time_left": 60,
-  "timestamp": "2026-02-17T11:04:30.010114",
+  "opponent": "ChessGPT_11",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 5+0",
+  "time_left": 224,
+  "timestamp": "2026-02-17T11:06:37.269013",
   "last_game": {
-    "result": "win",
-    "opponent": "Fischer_Bot",
+    "result": "draw",
+    "opponent": "ChessGPT_11",
     "rating_before": 2963,
     "rating_after": 2963,
     "rating_delta": 0,
-    "moves": "c4 b6",
-    "duration": 80,
+    "moves": "Nh3 d5 g3 e5 d4 exd4 Qxd4 Nc6 Qa4 Bd7 Bg2 Qf6 c3 Bc5 O-O Nge7 Nf4 O-O-O Qb5 Bb6 Nxd5 Nxd5 Qxd5 h6 Nd2 Rhe8 Qf3 Qg6 h3 Be6 a4 a5 b4 Kb8 bxa5 Nxa5 Rb1 Bd5 e4 Bc6 Kh2 Qe6 c4 Nxc4 Nxc4 Qxc4 Rxb6 cxb6 Qf4+ Ka8 Be3 Bxe4 Rc1 g5 Rxc4 gxf4 Bxf4 Bxg2 Kxg2 Re6 Be3 Rf6 g4 Kb8 h4 Rc6 Rxc6 bxc6 Bxb6 Rd5 Be3 c5 Bxh6 c4 Kf3 c3 Ke2 Rd4 f3 c2 Bd2 Rxa4 Kd3 Ra3+ Kxc2 Rxf3 h5 f6 g5 fxg5 Bxg5 Kc8 Be7 Kb8 Bd8 Kc8 Be7 Kb8 Bd8 Kc8 Be7 Kb8",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1771326270.0102065
+  "updated": 1771326397.2690759
 }
