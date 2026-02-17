@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2962,
-  "opponent": "BeyondHeliosAI",
+  "rating": 3030,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-02-17T09:41:56.728812",
+  "time_control": "TC: 10+0",
+  "time_left": 389,
+  "timestamp": "2026-02-17T09:49:50.247832",
   "last_game": {
     "result": "draw",
-    "opponent": "BeyondHeliosAI",
-    "rating_before": 2962,
-    "rating_after": 2962,
+    "opponent": "tbhOnBot",
+    "rating_before": 3030,
+    "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 180,
+    "moves": "Nc3 d5 d4 Nf6 Nf3 c5 Bf4 Nc6 a3 e6 e3 a6 h3 h6 Be2 Bd6 dxc5 Bxc5 O-O O-O Bd3 Re8 e4 d4 Ne2 e5 Bd2 Be6 b4 Bf8 c3 dxc3 Bxc3 Nd7 Ng3 b5 Qe2 Rc8 Rac1 g6 Rfd1 Bg7 Qb2 Qe7 Ne2 Kh7 Ng3 Bf6 Ne2 Red8 a4 bxa4 Bxa6 Rb8 b5 Rb6 Qd2 Nc5 Qe3 Rxd1+ Rxd1 a3 Ra1 a2 Nc1 Nd4 Bb4 Qc7 Bxc5 Qxc5 Nxa2 Qd6 Qd3 Qc5 Qe3 Qc4 Nc1 Nxf3+ Qxf3",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1771321316.7289436
+  "updated": 1771321790.247993
 }
