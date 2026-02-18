@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "gafni",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+10",
-  "time_left": 167,
-  "timestamp": "2026-02-18T19:11:33.871698",
+  "rating": 3068,
+  "opponent": "Vazgenkaraxanyan11",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-02-18T23:29:12.124132",
   "last_game": {
     "result": "win",
-    "opponent": "gafni",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "Vazgenkaraxanyan11",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "c4 c5 f4 e6 b3 Qc7 g3 f5 Nc3 a6 Bg2 Nhf7 Nf2 Nc6 e3 g5 fxg5 b5 Qd1 bxc4 O-O cxb3 Rxb3 Nce5 Bxa8 Rxa8 d4 cxd4 exd4 Nc4 Qe2 Be7 d5 Rg6 dxe6 dxe6 Ncd1 Rc8 h4 Rd8 Rc3 Nfe5 Rc2 h6 Ne3 Qb7 Bxe5 Nxe5 Nh3 hxg5 Nxg5 Bxg5 Nxf5 Bf6 g4 Rxg4+ Kh2 exf5",
-    "duration": 880,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 d6 d4 Nc6 d5 e5 dxc6 bxc6 Nc3 Ne7 h4 f5 Nf3 fxe4 Nxe4 Bf5 Ng3 Qd7 Nxf5 Nxf5 g4 g6 gxf5 Qxf5 Ng5 Qd7 Qe2 Be7 Bh3 Qd8 Qc4 Bxg5 Bxg5 Qb8 Qe6+ Kf8 Bh6#",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1771441893.871881
+  "updated": 1771457352.1242065
 }
