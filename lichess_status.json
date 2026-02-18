@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "PositionalAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-18T07:18:19.090549",
+  "rating": 3029,
+  "opponent": "OSaurus",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 6+4",
+  "time_left": 391,
+  "timestamp": "2026-02-18T07:25:02.434231",
   "last_game": {
-    "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "win",
+    "opponent": "OSaurus",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Kh2 Nf6 Nxf5+ gxf5 h4 Ne4 Bf3 Kg6 Bg2 Rb5 Bf1 f6 Bg2 Rb7 Bf1 Ra7 f3 Nd6 Re1 Ra2 Rb1 Nc8 Bh3 Nb6 Rg1+ Kf7 Rg2 Na4 Bxf5 Rxb2 Bc2 Rb3 f5 Ra3 Bxa4 Rxa4 Kg3 Ra3 Rc2 Kg8 Kf4 Ra1 Rb2 Rh1 Rb5 Rxh4+ Kg3 Rh1 Rxd5 Rg1+ Kh4 Rh1+ Kg3 Rg1+ Kf4 Rc1 Rd6 Kg7 Rd7+ Kg8 Rd6",
-    "duration": 30,
+    "moves": "e4 Nf6 e5 d5 d4 Nc6 Bb5 a6 Bxc6+ bxc6 Ne2 Qd7 O-O Qg4 f3 Qh4 g3 Qh3 exf6 gxf6 Nf4 Qf5 Nc3 B@h6 Ncxd5 Bxf4 Nxf4 Qxf4 gxf4 N@h3+ Kg2 N@h4+ Kg3 Nf5+ Kxh3 Ne3+ B@g4 Nxg4 @b7 Bxb7 fxg4 h5 gxh5 B@f5+ @g4 Rxh5+ Kg3 @h4+ Kf2 @g3+ hxg3 hxg3+ Kxg3 @g2 Kxg2 c5+ Kg3",
+    "duration": 588,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1771399099.0906913
+  "updated": 1771399502.434332
 }
