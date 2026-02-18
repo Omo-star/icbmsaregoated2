@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2964,
-  "opponent": "peri7676",
+  "rating": 3074,
+  "opponent": "Kaarthikan_2014",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+0",
-  "time_left": 280,
-  "timestamp": "2026-02-17T14:55:34.610774",
+  "time_control": "TC: \u00be+0",
+  "time_left": 30,
+  "timestamp": "2026-02-18T05:40:15.500158",
   "last_game": {
     "result": "win",
-    "opponent": "peri7676",
-    "rating_before": 2964,
-    "rating_after": 2964,
+    "opponent": "Kaarthikan_2014",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Qf3 Nf6 Bc4 c6 d3 d5 exd5 cxd5 Bb3 Nc6 c4 Bb4+ Bd2 O-O Bxb4 Bg4 Qg3 Nxb4 a3 Qa5 axb4 Qxa1 Bc2 Qxb2 Nd2 Qc1+ Bd1 Qxd1#",
-    "duration": 300,
+    "moves": "e4 e5 d3 Nf6 Nf3 Nc6 Be2 d5 O-O dxe4 dxe4 Nxe4 Qxd8+ Kxd8 Nbd2 Nd6 Nb3 a5 Bg5+ f6 Be3 a4 Nbd2 a3 b3 Nb4 Rab1 Nxa2 Bc5 Nc3 Rbe1 Bf5 Bxd6 Bxd6 Nb1 Nxe2+ Rxe2 a2 Nc3 a1=Q Rxa1 Rxa1+ Re1 Rxe1+ Nxe1 Bb4 g4 Bxc3 gxf5 Bxe1 Kf1 Bb4 Ke2 Ke7 Kf3 Rd8",
+    "duration": 45,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1771340134.6108415
+  "updated": 1771393215.500254
 }
