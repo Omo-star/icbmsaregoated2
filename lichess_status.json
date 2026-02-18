@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2976,
-  "opponent": "tbhOnBot",
+  "rating": 3035,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 120,
-  "timestamp": "2026-02-18T09:55:31.807788",
+  "time_control": "TC: 10+0",
+  "time_left": 596,
+  "timestamp": "2026-02-18T09:56:19.584402",
   "last_game": {
     "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 2976,
-    "rating_after": 2976,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kg2 Rb1 Kh3 Ra1 Bg2 Rb1 Kh2 Kg7 Bf3 Kg6 Kg2 Rc1 Kh2 Rf1 Bg2 Rb1 Kh3 Kf6 Kh2 Rc1 Bf3 Kg6 Bg2 Rb1 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bh3 Ra2 Bf1 Kf6 Kh3 Kg6 f3 Nf6 Kg3 Nd7 Bh3 Nb6 Re5 Rxb2 Bxf5+ Kf6 Bh3 Kg6 Rg5+ Kh6 f5 Na4 Kf4 Nxc3 Ke5 Nd1 Kf6 Rb7 Rg1 Nf2 Bf1 c3 Rg8 Kh7 Rc8 Rb1 Be2 Rb2 Bf1 Rb1 Be2 Rb2 Rxc3 Rxe2 Kxf7 Nh3 Rc7 Kh6 Rc8 Kh7 Rc7",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Qc1 Rd7 Be5 Be7 Bf4 Bf6 Be5 Be7 Bf4 Bf6",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771408531.807973
+  "updated": 1771408579.584555
 }
