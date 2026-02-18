@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2975,
-  "opponent": "bot913",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 222,
-  "timestamp": "2026-02-18T11:56:41.793940",
+  "opponent": "Nakshatra3",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: 3+1",
+  "time_left": 119,
+  "timestamp": "2026-02-18T12:00:24.015528",
   "last_game": {
-    "result": "draw",
-    "opponent": "bot913",
+    "result": "win",
+    "opponent": "Nakshatra3",
     "rating_before": 2975,
     "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 Bb5 Nd4 Nxd4 exd4 e5 dxc3 exf6 Qxf6 dxc3 c6 Bd3 Bc5 O-O d5 Qh5 h6 Re1+ Be6 Be3 Bxe3 Rxe3 O-O Rae1 Rfe8 R1e2 Rad8 h4 Qf4 g3 Qd6 Qf3 Re7 b3 Rde8 a4 b6 Re1 Qc7 R3e2 Kf8 Bg6 Kg8 Bh5 a5 Re5 f6 R5e2 Bf7 Bxf7+ Kxf7 Kf1 Rxe2 Rxe2 Rxe2 Kxe2 Qe5+ Kd2 Qe4 Qh5+ Kf8 f3 Qe5 Qg4 f5",
-    "duration": 510,
+    "moves": "e3 e6 Ba6 Nxa6 b4 Bxb4 Nh3 Bxd2+ Nxd2 Ne7 c4 c5 Rb1 Qa5 Rxb7 Qxa2 Rxd7 Qxc4 Nxc4 Bxd7 Qxd7+ Kxd7 Nd6 Kxd6 e4 g6 e5+ Kxe5 Bf4+ Kxf4 Nxf4 Nc8 Nxe6 fxe6 Rf1 Rb8 Kd1 c4 h4 Rb7 Kc1 Nb6 Kb1 g5 hxg5 Rc8 g6 hxg6 g3 Nc5 Ka1 c3 Rg1 a5 f4 g5 fxg5 Nd5 Kb2 cxb2 g4 a4 Ra1 bxa1=Q g6 Rf7 gxf7 Re8 fxe8=K Nd7 Kxd7 a3 Kxe6 a2 Kxd5 Qe5 Kxe5 a1=R Kd4 Rf1 Kc3 Rf5 gxf5",
+    "duration": 263,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "variantEnd"
   },
-  "updated": 1771415801.794027
+  "updated": 1771416024.0155933
 }
