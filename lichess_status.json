@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3062,
-  "opponent": "abdcebot",
-  "variant": "Variant: Chess960",
+  "opponent": "BorkaTower",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-02-18T12:44:29.124276",
+  "time_left": 2,
+  "timestamp": "2026-02-18T12:46:22.262413",
   "last_game": {
-    "result": "draw",
-    "opponent": "abdcebot",
+    "result": "win",
+    "opponent": "BorkaTower",
     "rating_before": 3062,
     "rating_after": 3062,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 c6 d4 h5 Nd2 d5 Bd3 dxe4 Nxe4 Bf5 Ng5 e6 N1f3 Bd6 Bxf5 Qa5+ Bd2 Qxf5 O-O Nf6 c4 b5 Qb3 Nbd7 Nh4 Qg4 f4 Qe2 c5 Be7 Nhf3 Ne4 Be3 Nxg5 fxg5 Qc4 Qxc4 bxc4 Rac1 Rb8 Rf2 Rb4 a3 Rb3 Re2 Bd8 Rxc4 Bc7 Rb4",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1771418669.124365
+  "updated": 1771418782.2625256
 }
