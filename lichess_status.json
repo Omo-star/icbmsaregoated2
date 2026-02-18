@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2971,
-  "opponent": "abcd_engine",
+  "rating": 3029,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 23,
-  "timestamp": "2026-02-18T08:43:44.126990",
+  "time_control": "TC: 10+0",
+  "time_left": 487,
+  "timestamp": "2026-02-18T08:52:59.365317",
   "last_game": {
-    "result": "win",
-    "opponent": "abcd_engine",
-    "rating_before": 2971,
-    "rating_after": 2971,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 3029,
+    "rating_after": 3029,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Rd1 Nbd7 a4 a5 cxd5 cxd5 Nc3 Ba6 Nb5 Rc8 Qb3 Ne4 Be1 h5 Bf1 h4 Rdc1 Rxc1 Rxc1 hxg3 hxg3 Qb8 Rc2 Rc8 e3 Qb7 Nd2 Ndf6 Nf3 g6 Ne5 Nd7 Ng4 f5 Nh2 Ndf6 f3 Ng5 Rxc8+ Qxc8 Qc3 Qd7 Qc2 Kg7 Bd3 Bd8 Kg2 Nf7 b3 Nh6 Be2 Bb7 g4 fxg4 Nxg4 Nfxg4 fxg4 e5 Kh3 e4 Bg3 Ba6 Qc3 Nf7 Kg2 Kh7 Qc1 Nh6 Kh3 Nf7 Bf4 Bg5 Bg3 Kg8 Kg2 Nd8 Bh2 Nc6 Qf1 Bxb5 axb5 Nd8 Qc1 Kf7 Bg3 Qe7 Qh1 Kg7 Qc1 Kf7 Qh1 Kg7 Qc1 Kg8 Bc7 Bh4 Bf4 Bg5 Bc7 Qe6 Bh2 Qd7 Bg3 Qf7 Qc8 Qb7 Qc3 Kf7 Qc1 Ke8 Bd6 Qd7 Bg3 Qe7 Be5 Qb4 Bc7 Qxb3 Bxd8 Bxd8 Qc6+ Kf7 Qd7+ Be7 Kf2 a4 g5 Kf8 Qc8+ Kf7 Qd7 a3 Qh3 Qc2 Qh7+ Kf8 Qh8+ Kf7 Qh7+ Ke6 Qxg6+ Kd7 Qf5+ Ke8 Qg6+ Kd7 Qxb6 Qc7 Qa6 Bxg5 Bg4+ Ke7 Qxa3+ Kf7 Kf1 Kg7 Bd1 Qf7+ Kg2 Qc7 Qa2 Bxe3 Qxd5 Qf4 Qe5+ Qxe5 dxe5 Bc1 Kg3 e3 Kf3 e2 Bxe2 Bd2 Ke4 Kf7 Kd5 Be3 Kd6 Ke8 Bd1 Bg1 Bh5+ Kd8 e6 Bh2+ Kc6 Bg1 Bf7 Bf2 b6 Be1 Kb7 Bf2 Bg6 Bg1 Ka6 Bh2 Ka7 Bg1 Ka6 Bh2 Ka7 Bg1 Bd3 Bf2 Bc4 Bg1 Bb5 Bf2 Ka6 Bg3 b7 Bb8",
-    "duration": 180,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 Be2 Bc5 O-O O-O Be3 Bg4 Nxe5 Nxe5 d4 Nxc4 Bxg4 Nxe3 fxe3 Bb6 Be2 Qe7 Rf4 c5 Kh1 Rac8 Qa4 cxd4 exd4 g5 Rf5 Nxe4 Nd5 Ng3+ hxg3 Qxe2 Rxg5+ Kh8 Nxb6 Rc2 Rg1 Rg8 Qb5 axb6 Qxe2 Rxe2 Rf5 Rxg3 Rxf7 Rxb2 Rc1 Rbxg2 Rc8+ Rg8 Rxg8+ Kxg8 Rxb7 Rxa2 Rxb6 d5 Rb8+ Kf7 Rb7+ Ke6 Rxh7 Ra1+ Kg2 Rb1 Kf2 Ra1 Rh5 Rb1 Re5+ Kd6 Rh5 Ra1 Ke2 Rb1",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1771404224.1270814
+  "updated": 1771404779.3654149
 }
