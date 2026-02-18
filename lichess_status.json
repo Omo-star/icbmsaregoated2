@@ -5,18 +5,18 @@
   "opponent": "sinto123",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-02-18T18:38:07.430630",
+  "time_left": 20,
+  "timestamp": "2026-02-18T18:38:36.386998",
   "last_game": {
     "result": "win",
     "opponent": "sinto123",
     "rating_before": 3068,
     "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Qf3 c6 Qxf6 gxf6 Nf3 d5 exd5 cxd5 Bb3 d4 d3 Rg8 Be3 dxe3 fxe3 Be6 O-O Nd7 Bxe6 fxe6 Nh4 f5 Nf3 Qb6 d4 e4 Nfd2 Qxb2 Nc3 Qxc3 Rab1 Qxd2 Rxb7 Qxg2#",
+    "moves": "e4 e5 Nf3 Bc5 Nxe5 Qf6 d4 Bxd4 Qxd4 Qxf2+ Qxf2 Nf6 Bg5 d6 Bxf6 g6 Nc3 O-O Nxg6 hxg6 Qh4 g5 Qh8#",
     "duration": 30,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1771439887.4307535
+  "updated": 1771439916.387077
 }
