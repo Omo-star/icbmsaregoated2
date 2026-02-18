@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
   "time_left": 20,
-  "timestamp": "2026-02-18T18:38:36.386998",
+  "timestamp": "2026-02-18T18:39:02.138361",
   "last_game": {
     "result": "win",
     "opponent": "sinto123",
     "rating_before": 3068,
     "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Bc5 Nxe5 Qf6 d4 Bxd4 Qxd4 Qxf2+ Qxf2 Nf6 Bg5 d6 Bxf6 g6 Nc3 O-O Nxg6 hxg6 Qh4 g5 Qh8#",
+    "moves": "e4 e5 Bc4 Nf6 Qf3 c6 Qxf6 gxf6 Bxf7+ Kxf7 Nf3 d5 Ng1 Na6 Nf3 dxe4 Nxe5+ fxe5 Rf1 Nb4 f3 Nxc2+ Kd1 Ne3+ Ke1 Nxg2+ Kf2 Qd4+ Kxg2 Rg8+ Kh1 Bh3 fxe4+ Bxf1 d3 Qg1#",
     "duration": 30,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1771439916.387077
+  "updated": 1771439942.13845
 }
