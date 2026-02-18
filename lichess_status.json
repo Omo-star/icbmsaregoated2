@@ -5,18 +5,18 @@
   "opponent": "OSaurus",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+4",
-  "time_left": 70,
-  "timestamp": "2026-02-18T07:27:57.400436",
+  "time_left": 112,
+  "timestamp": "2026-02-18T07:31:41.629023",
   "last_game": {
     "result": "win",
     "opponent": "OSaurus",
     "rating_before": 2964,
     "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 Nf6 e5 d5 d4 Bf5 Bb5+ Nfd7 Ne2 a6 Ba4 b5 Bb3 c6 Ng3 Bg6 h4 h6 h5 Bh7 Nc3 e6 Qg4 Bg8 O-O Nb6 a4 bxa4 Nxa4 N6d7 Re1 @h4 Ne2 a5 Nf4 Na6 Nxe6 fxe6 Qg6+ N@f7 Qxe6+ Be7 @g6 Ndxe5 dxe5 Ra7 N@f5 @h7 gxf7+",
-    "duration": 256,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "d4 Nf6 Bf4 d6 Nf3 Bg4 Nc3 e6 e4 Be7 e5 Nh5 exd6 cxd6 Bd2 Nc6 h3 Bxf3 Qxf3 @g6 @a6 Rb8 axb7 Nxd4 Qe4 e5 Nb5 O-O @c7 Qxc7 Nxc7 N@c5 Qd3 Nxd3+ Bxd3 e4 Nb5 Nf3+ gxf3 @g2 O-O-O exd3 B@c3 Q@a1# N@b1 B@f6 Q@e4 Qxa2 N@b4 gxh1=R Rxh1 @e2 cxd3 @g2 Rg1 R@d1+ Rxd1 exd1=Q+ Kxd1 Qxb1+ Ke2 g1=N+ Ke3 N@d1#",
+    "duration": 316,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771399677.4005327
+  "updated": 1771399901.6290867
 }
