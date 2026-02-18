@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
+  "rating": 3070,
   "opponent": "Vazgenkaraxanyan11",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-02-18T23:30:01.899047",
+  "time_left": 17,
+  "timestamp": "2026-02-18T23:30:43.806232",
   "last_game": {
     "result": "win",
     "opponent": "Vazgenkaraxanyan11",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 e5 d4 exd4 Nf3 Bb4+ c3 dxc3 Nxc3 Nc6 Bc4 d6 Ng5 Bxc3+ bxc3 Ne5 Bb3 h6 f4 hxg5 fxe5 Qe7 exd6 Qxe4+ Qe2 Qxe2+ Kxe2 cxd6 Bxg5 Be6 Be3 Ne7 Kd2 Rh4 Bd4 Rg4 g3 Nc6 Be3 Re4 Bc2 Re5 Bf4 Rd5+ Kc1 Ne5 Rd1 Rxd1+ Bxd1 Nd3+ Kd2 Nxf4 gxf4 Ke7 Bc2 Rh8 Bd3 Rxh2+ Ke3 Rxa2 Kd4 Rxa1 c4 Rd1 c5 dxc5+ Kxc5 Rxd3 f5 Bxf5 Kb5 Rd4 Kc5 Re4 Kb5 Kd6 Ka5 g5 Kb5 Bd7+ Ka5 Ra4#",
+    "moves": "e4 g6 d4 Bg7 Nc3 c5 Be3 cxd4 Bxd4 Nf6 e5 Ng8 Bc4 Nc6 e6 Nxd4 exf7+ Kf8 fxg8=Q+ Rxg8 Bxg8 Kxg8 Nf3 Nxf3+ Qxf3 d6 O-O Bf5 Qxb7 Rb8 Qxa7 Rxb2 Nd5 Rxc2 Rae1 e5 Ne7+ Kf8 Nxf5 gxf5 Rc1 Re2 Qa6 Re4 Rc8",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771457401.8991199
+  "updated": 1771457443.806335
 }
