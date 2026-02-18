@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3068,
-  "opponent": "sinto123",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-02-18T18:39:02.138361",
+  "rating": 3023,
+  "opponent": "gafni",
+  "variant": "Variant: From Position",
+  "time_control": "TC: 5+10",
+  "time_left": 167,
+  "timestamp": "2026-02-18T19:11:33.871698",
   "last_game": {
     "result": "win",
-    "opponent": "sinto123",
-    "rating_before": 3068,
-    "rating_after": 3068,
+    "opponent": "gafni",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Qf3 c6 Qxf6 gxf6 Bxf7+ Kxf7 Nf3 d5 Ng1 Na6 Nf3 dxe4 Nxe5+ fxe5 Rf1 Nb4 f3 Nxc2+ Kd1 Ne3+ Ke1 Nxg2+ Kf2 Qd4+ Kxg2 Rg8+ Kh1 Bh3 fxe4+ Bxf1 d3 Qg1#",
-    "duration": 30,
+    "moves": "c4 c5 f4 e6 b3 Qc7 g3 f5 Nc3 a6 Bg2 Nhf7 Nf2 Nc6 e3 g5 fxg5 b5 Qd1 bxc4 O-O cxb3 Rxb3 Nce5 Bxa8 Rxa8 d4 cxd4 exd4 Nc4 Qe2 Be7 d5 Rg6 dxe6 dxe6 Ncd1 Rc8 h4 Rd8 Rc3 Nfe5 Rc2 h6 Ne3 Qb7 Bxe5 Nxe5 Nh3 hxg5 Nxg5 Bxg5 Nxf5 Bf6 g4 Rxg4+ Kh2 exf5",
+    "duration": 880,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1771439942.13845
+  "updated": 1771441893.871881
 }
