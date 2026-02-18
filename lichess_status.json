@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
+  "rating": 2976,
   "opponent": "bot1e",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 14,
-  "timestamp": "2026-02-18T13:17:43.205200",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 173,
+  "timestamp": "2026-02-18T13:18:01.687366",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "bot1e",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 g6+ hxg6 Rc1 Kf6 Kg5+ Kxg5 hxg5 a3 Nd3 Ne7 Rg1 a2 Rc1 Re8 Rg1 Ra8 Rc1 Re8 Rd1 Ra8 Rg1 Re8 Rg4 Rg8 Nb2 Ra8 Rg2 Rg8 Rg4 Ra8 Rg2 Rd8 Nd3 Nf5 Rh2 Ng3 Nf2 Nh5 Rxh5 gxh5 g6 h4 g7 h3 Nxh3 Ra8 Ng5 Ra6 g8=K a1=R Kh7 Ra7 Kg6 Rb1 c3 Rd1 Nf3 Rd2 Nxd2 Ra5 Kh6 Rd5 Kg5 Rxd2 Kf4 Rd4 cxd4 d5 Ke4 dxe4 d5 e3 d6 e2 d7 e1=R d8=K Re7 Kxe7",
-    "duration": 45,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771420663.2052739
+  "updated": 1771420681.687537
 }
