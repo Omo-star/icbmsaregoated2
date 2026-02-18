@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
+  "rating": 2964,
   "opponent": "OSaurus",
   "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 6+4",
-  "time_left": 391,
-  "timestamp": "2026-02-18T07:25:02.434231",
+  "time_control": "TC: 1+4",
+  "time_left": 70,
+  "timestamp": "2026-02-18T07:27:57.400436",
   "last_game": {
     "result": "win",
     "opponent": "OSaurus",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "rating_before": 2964,
+    "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "e4 Nf6 e5 d5 d4 Nc6 Bb5 a6 Bxc6+ bxc6 Ne2 Qd7 O-O Qg4 f3 Qh4 g3 Qh3 exf6 gxf6 Nf4 Qf5 Nc3 B@h6 Ncxd5 Bxf4 Nxf4 Qxf4 gxf4 N@h3+ Kg2 N@h4+ Kg3 Nf5+ Kxh3 Ne3+ B@g4 Nxg4 @b7 Bxb7 fxg4 h5 gxh5 B@f5+ @g4 Rxh5+ Kg3 @h4+ Kf2 @g3+ hxg3 hxg3+ Kxg3 @g2 Kxg2 c5+ Kg3",
-    "duration": 588,
+    "moves": "e4 Nf6 e5 d5 d4 Bf5 Bb5+ Nfd7 Ne2 a6 Ba4 b5 Bb3 c6 Ng3 Bg6 h4 h6 h5 Bh7 Nc3 e6 Qg4 Bg8 O-O Nb6 a4 bxa4 Nxa4 N6d7 Re1 @h4 Ne2 a5 Nf4 Na6 Nxe6 fxe6 Qg6+ N@f7 Qxe6+ Be7 @g6 Ndxe5 dxe5 Ra7 N@f5 @h7 gxf7+",
+    "duration": 256,
     "bot_color": "white",
     "termination": "resign"
   },
-  "updated": 1771399502.434332
+  "updated": 1771399677.4005327
 }
