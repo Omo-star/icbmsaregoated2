@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3062,
-  "opponent": "BorkaTower",
+  "rating": 2976,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 2,
-  "timestamp": "2026-02-18T12:46:22.262413",
+  "time_control": "TC: 3+0",
+  "time_left": 102,
+  "timestamp": "2026-02-18T12:50:43.714040",
   "last_game": {
-    "result": "win",
-    "opponent": "BorkaTower",
-    "rating_before": 3062,
-    "rating_after": 3062,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 h5 Nd2 d5 Bd3 dxe4 Nxe4 Bf5 Ng5 e6 N1f3 Bd6 Bxf5 Qa5+ Bd2 Qxf5 O-O Nf6 c4 b5 Qb3 Nbd7 Nh4 Qg4 f4 Qe2 c5 Be7 Nhf3 Ne4 Be3 Nxg5 fxg5 Qc4 Qxc4 bxc4 Rac1 Rb8 Rf2 Rb4 a3 Rb3 Re2 Bd8 Rxc4 Bc7 Rb4",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nb8 Ne3 c5 h5 Nc6 Nh4 Be6 b3 a5 a4 Nd4 Bc3 Kf7 f4 exf4 Rxf4 Bd6 Rf1 Bg3 Nhf5 Bxf5 Nxf5 Be5 Qd2 g6 Nxd4 Bxd4+ Rf2 Bxc3 Qxc3 Qd4 Qc4+ Re6 Rf1 Ke7 g3 Rg8 Kg2 gxh5 Rf5 h4 Qxc5+ Qxc5 Rxc5 Rxg3+ Kh1 Rh3+ Kg2 Rg3+ Kh1 Rh3+ Kg1 Rg3+ Kh2 Rc6 Rxc6 bxc6 Rf5 Re3 Rxa5 Re2+ Kh3 Rxc2 Kxh4 Rd2 Rh5 Kd6 Kg3 Rxd3+ Kf4 Rxb3 Rh6 Ke6 a5",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1771418782.2625256
+  "updated": 1771419043.7141821
 }
