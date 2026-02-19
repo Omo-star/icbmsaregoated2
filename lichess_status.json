@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "DarkOnBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 450,
-  "timestamp": "2026-02-19T09:27:12.505953",
+  "rating": 2977,
+  "opponent": "kowalabi",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+4",
+  "time_left": 71,
+  "timestamp": "2026-02-19T09:29:23.446804",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "result": "win",
+    "opponent": "kowalabi",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 d5 cxd5 exd5 Ne2 Re8 Bd2 Bd6 Qc2 a6 O-O b6 Rfe1 Bb7 Ng3 Nbd7 e4 Bxg3 hxg3 dxe4 Nxe4 Bxe4 Bxe4 Nxe4 Rxe4 Rxe4 Qxe4 Rb8 Qd3 a5 Rc1 Nf6 Bg5 Qd7 Bxf6 gxf6 Qe4 Rd8 b3 Qxd4 Qxd4 Rxd4 Rxc7 Rd1+ Kh2 Rd2 f3 Rxa2 Rb7 Kg7 Rxb6 f5 Ra6 Ra3 Kh3 Rxb3 Rxa5 Kg6 g4 fxg4+ Kxg4 f6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 Nc6 d4 Nf6 Nc3 e6 Nf3 d5 e5 Ne4 Be2 Bb4 Qd3 Bxc3+ bxc3 Nxf2 Kxf2 @e4 Qd1 N@a4 B@e1 f6 Rf1 exf3 Bxf3 fxe5 @h6 @f4 hxg7 Rg8 dxe5 Nxe5 Bxf4 @g3+ hxg3 Nf7 @e5 N@d7 Bh5 Qe7 @f6 Nxf6 exf6 Qxf6 N@g4 @e3+ Kg1 Qxg7 Bxe3",
+    "duration": 256,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771493232.5060508
+  "updated": 1771493363.4469106
 }
