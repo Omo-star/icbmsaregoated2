@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3070,
-  "opponent": "PositionalAI",
+  "rating": 2976,
+  "opponent": "chessbot2880",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 27,
-  "timestamp": "2026-02-19T07:19:31.922900",
+  "time_control": "TC: 3+0",
+  "time_left": 97,
+  "timestamp": "2026-02-19T07:23:17.685994",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3070,
-    "rating_after": 3070,
+    "opponent": "chessbot2880",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qd6 Qc2 Rbc8 Qd2 Qb8 Qd3 Bd6 Nf3 b5 Qd2 Kg6 Ne1 Kg7 Nf3 Kg6 Ne1 Kg7 Nf3",
-    "duration": 30,
+    "moves": "d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 g3 Rg8 h4 Rxg5 hxg5 Nd5 g6 fxg6 Qg4 Qe7 Bg2 Kd8 Qxg6 Rb8 Bxd5 exd5 O-O-O b4 Ne2 Bg7 Qxc6 Rb6 Qxd5 Bb7 Qg8+ Qf8 Qxf8+ Bxf8 Rh3 Ra6 g4 c3 bxc3 Rxa2 Rd2 Ra1+ Kb2 Ra3 Rdd3 b3 c4 Ra2+ Kxb3 Rxe2 Rde3 Rxe3+ fxe3 Be4 Rh8 Ke7 Rh2 Ke8 Ra2 Bh6 Kb4 Bg5 Kb5 Ke7 Kb4 Bf3 Rxa7",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771485571.9230657
+  "updated": 1771485797.6861033
 }
