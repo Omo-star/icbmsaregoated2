@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "RaspFish",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 101,
-  "timestamp": "2026-02-19T12:34:10.114807",
+  "rating": 2973,
+  "opponent": "QiOui",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+4",
+  "time_left": 59,
+  "timestamp": "2026-02-19T12:35:57.249653",
   "last_game": {
-    "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "result": "win",
+    "opponent": "QiOui",
+    "rating_before": 2973,
+    "rating_after": 2973,
     "rating_delta": 0,
-    "moves": "c3 e5 d4 e4 c4 c6 Bf4 d5 e3 Bb4+ Nc3 Ne7 Bg3 h5 h4 Nf5 Bf4 Nxh4 Ne2 g5 Be5 Rh6 a3 Bxc3+ Nxc3 Nd7 cxd5 cxd5 Nxd5 Qa5+ Nc3 Nxe5 dxe5 Kf8 Qd4 Bf5 Rd1 Rc8 Be2 Qb6 O-O Qxb2 Bc4 Qb6 Nxe4 Qxd4 Rxd4 Bxe4 Rxe4 Nf5 Rd1 Rb6 Be2 Ng7 g4 h4 Rc4 Rxc4 Bxc4 Rc6 Bb5 Rb6 Rd8+ Ke7 Rd7+ Ke6 Ba4 Ra6 Bb5 Rb6",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e6 d4 d5 e5 a6 Nc3 c5 dxc5 Nc6 @d6 Qa5 Be3 Nxe5 Nf3 Nc6 Bd3 @a3 Qd2 axb2 Rd1 @b4 Ne4 g6 O-O Bg7 d7+ Bxd7 Nd6+ Kf8 Nxb7 Qxa2 @h6 Bf6 Bg5 Bxg5 Qxg5 Nxh6 Qxh6+ B@g7 Qxg7+ Ke8 Qxh8+ Ke7 B@f6#",
+    "duration": 240,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1771504450.1149163
+  "updated": 1771504557.249715
 }
