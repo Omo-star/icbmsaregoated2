@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3065,
-  "opponent": "DarkOnBot",
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-19T10:49:15.333201",
+  "time_control": "TC: 1+1",
+  "time_left": 42,
+  "timestamp": "2026-02-19T10:51:44.774537",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
+    "opponent": "PositionalAI",
     "rating_before": 3065,
     "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb8 Qc2 Re8 Kh2 Nd7 Rae1 Qb6 Nh5 f6 Qc1 Re7 Nh4 g5 Nf3 Rf7 Ng3 Rh7 Rd1 Kh8 Be1 Rg8 Qc2 g4 Nh4 gxh3 gxh3 Rhg7 Qxa4 Nf8 Qb3 Qa7 d4 Bxd4 Qf3 Nh7 Nh5 Rf7 Ng3 Bxc4 Ngf5 Qxa2 Nxh6 Bxe2 Qxe2 Ng5 Nxg8 Kxg8 Nf5 Rh7 h4 Qb3 Rd3 Qxb2 Bd2 Kf7 Kg2 Ne6 Qg4 Nf4+ Bxf4 Qxf2+ Kh3 Qf1+ Kh2 Qf2+ Kh3 Qf1+ Kh2 Bg1+ Qxg1 Qxd3 Nh6+ Ke7 Qg6 Qe2+ Kg1 Qe1+ Kg2 Qe2+ Kg1 Qe1+ Kg2 Rxh6 Qg7+ Ke8 Bxh6 Qxh4 Qf8+",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 Nc3 Ng6 d4 Nxd4 Nxd4 exd4 Qxd4 c6 Be2 Qb6 Qd3 Be7 O-O O-O a4 a5 Kh1 Bc5 f4 d6 g4 Bd7 Qg3 Rae8 h4 f6 f5 Ne5 g5 Kh8 Bf4 Bd4 Rad1 Qb4 Bf3 Qc4 Be2 Qb4 Bf3 Qc4 Bh5 fxg5 hxg5 g6 Be2 Qb4 Na2 Qxb2 Rd2 Bc5 Nc3 Qb6 Qh4 Qd8 Bd3 Nxd3 cxd3 Qe7 Rh2 gxf5 g6 Qxh4 Rxh4 Re7 d4 Bxd4 Bxd6 Rfe8 Bxe7 Rxe7 exf5 Bxc3 f6 Bxf6 Rxf6 Be6 Kg1 Bg8 Rh5 b5 axb5 cxb5 gxh7 Rg7+ Kf2 Rxh7 Rxb5 a4 Rff5 a3",
+    "duration": 156,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771498155.3333256
+  "updated": 1771498304.7746558
 }
