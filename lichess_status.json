@@ -5,18 +5,18 @@
   "opponent": "kowalabi",
   "variant": "Variant: Crazyhouse",
   "time_control": "TC: 1+4",
-  "time_left": 71,
-  "timestamp": "2026-02-19T09:29:23.446804",
+  "time_left": 59,
+  "timestamp": "2026-02-19T09:31:45.357876",
   "last_game": {
     "result": "win",
     "opponent": "kowalabi",
     "rating_before": 2977,
     "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 Nf6 Nc3 e6 Nf3 d5 e5 Ne4 Be2 Bb4 Qd3 Bxc3+ bxc3 Nxf2 Kxf2 @e4 Qd1 N@a4 B@e1 f6 Rf1 exf3 Bxf3 fxe5 @h6 @f4 hxg7 Rg8 dxe5 Nxe5 Bxf4 @g3+ hxg3 Nf7 @e5 N@d7 Bh5 Qe7 @f6 Nxf6 exf6 Qxf6 N@g4 @e3+ Kg1 Qxg7 Bxe3",
-    "duration": 256,
-    "bot_color": "white",
+    "moves": "e4 e5 Nc3 Nc6 Nd5 Nf6 Nxf6+ gxf6 N@d5 N@b6 c3 d6 Nf3 Be6 Nxb6 axb6 N@d5 Ra5 Nb4 Nxb4 cxb4 d5 bxa5 dxe4 axb6 exf3 @d7+ Bxd7 bxc7 Qxc7 @g7 Bxg7 R@e7+ Kxe7 N@d5+ Kd8 Nxc7 N@d4 Q@e4 N@c2+ Qexc2 Nxc2+ Qxc2 N@d4 N@e6+ fxe6 Nxe6+ Bxe6 N@f7+ Bxf7",
+    "duration": 260,
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1771493363.4469106
+  "updated": 1771493505.3579774
 }
