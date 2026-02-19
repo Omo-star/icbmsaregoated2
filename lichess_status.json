@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2974,
-  "opponent": "kowalabi",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+4",
-  "time_left": 68,
-  "timestamp": "2026-02-19T12:30:38.634768",
+  "opponent": "RaspFish",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 101,
+  "timestamp": "2026-02-19T12:34:10.114807",
   "last_game": {
-    "result": "win",
-    "opponent": "kowalabi",
+    "result": "draw",
+    "opponent": "RaspFish",
     "rating_before": 2974,
     "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nc6 Nf3 d6 Nc3 Be7 d4 exd4 Nxd4 Nxd4 Qxd4 Bf6 e5 Bxe5 Qd3 N@h4 N@g5 Nxg2+ Kf1 Nh4 Ke2 @f3+ Kd1 Bxc3 @e2 N@g4 Be3 Qxg5 Bxg5 Nxf2+ Kc1 Nxd3+ Bxd3 Bxb2+ Kd2 Q@c3+ Kd1 N@f2#",
-    "duration": 220,
+    "moves": "c3 e5 d4 e4 c4 c6 Bf4 d5 e3 Bb4+ Nc3 Ne7 Bg3 h5 h4 Nf5 Bf4 Nxh4 Ne2 g5 Be5 Rh6 a3 Bxc3+ Nxc3 Nd7 cxd5 cxd5 Nxd5 Qa5+ Nc3 Nxe5 dxe5 Kf8 Qd4 Bf5 Rd1 Rc8 Be2 Qb6 O-O Qxb2 Bc4 Qb6 Nxe4 Qxd4 Rxd4 Bxe4 Rxe4 Nf5 Rd1 Rb6 Be2 Ng7 g4 h4 Rc4 Rxc4 Bxc4 Rc6 Bb5 Rb6 Rd8+ Ke7 Rd7+ Ke6 Ba4 Ra6 Bb5 Rb6",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771504238.6348324
+  "updated": 1771504450.1149163
 }
