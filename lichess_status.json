@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3023,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2026-02-19T11:28:48.322342",
+  "time_control": "TC: 10+0",
+  "time_left": 457,
+  "timestamp": "2026-02-19T11:32:07.743365",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "DarkOnBot",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Ne5 Bf5 h3 Qc8 Kh2 Qc7 Kg1 Qc8 Kh2 Qc7 Kg1 Qc8",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 g6 g4 Nc5 h4 a5 a4 Ne6 g5 Nf4 Bxf4 exf4 Qd2 f5 e5 b5 Nxa5 Qd5 Kg2 Rxe5 Qc3 Re6 axb5 cxb5 Qxc7 Rea6 c4 bxc4 dxc4 Qf7 Qxf7+ Kxf7 Ne5+ Kg8 Nb3 Rxa1 Rxa1 Bb7+ f3 Rxa1 Nxa1 Ba6 Nb3 Bd6 Nd7 Bxc4 Nf6+ Kf7 Na5 Bb5 Nxh7 Bb4 Nb3 Be1 Nd4 Ba6 h5 gxh5 Nf6 Kg6",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771500528.3274622
+  "updated": 1771500727.7435138
 }
