@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "QiOui",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+4",
-  "time_left": 42,
-  "timestamp": "2026-02-19T13:00:52.997153",
+  "rating": 3023,
+  "opponent": "PandaCub7",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 5+5",
+  "time_left": 300,
+  "timestamp": "2026-02-19T14:09:13.518506",
   "last_game": {
-    "result": "win",
-    "opponent": "QiOui",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "result": "draw",
+    "opponent": "PandaCub7",
+    "rating_before": 3023,
+    "rating_after": 3023,
     "rating_delta": 0,
-    "moves": "d4 d5 Bf4 g6 e3 Nf6 Be2 Bg7 Nc3 O-O Nf3 Nc6 Nd2 h6 O-O Bf5 a3 Qd7 Be5 Nxe5 dxe5 Nh7 N@d4 Bxe5 Nxf5 gxf5 B@f4 Bg7 Nf3 c6 Kh1 B@f6 Bg3 N@g6 Nd4 @h4 Nxf5 Qxf5 Bg4 Qxg4 Qxg4 hxg3 @e6 fxe6 Qxg6 @h3 N@f4 hxg2+ Nxg2 @h3 Qxg3 hxg2+ Qxg2 N@h4 Q@g3 Nxg2 @f7+ Rxf7 @g6 B@h5 gxf7+ Bxf7 @g6 Bxg6 Nxd5 Nh4 Nxf6+ Nxf6 @g2 N@f5 Qf4 @h3 B@f3 @g4 Rad1 gxf3 R@d8+ Kh7 Qxf3 Nxf3 R8d4 N@g3+ hxg3 Q@h2#",
-    "duration": 396,
+    "moves": "",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "aborted"
   },
-  "updated": 1771506052.9972212
+  "updated": 1771510153.518595
 }
