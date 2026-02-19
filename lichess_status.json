@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "DR_NYKRESTEIN",
+  "rating": 3074,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+5",
-  "time_left": 600,
-  "timestamp": "2026-02-19T10:04:04.083818",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-02-19T10:04:48.272043",
   "last_game": {
     "result": "draw",
-    "opponent": "DR_NYKRESTEIN",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "BorkaTower",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "aborted"
+    "moves": "Nf3 d5 d4 e6 c4 Nf6 Nc3 c6 Bg5 h6 Bh4 dxc4 e4 g5 Bg3 b5 Be2 Bb7 O-O Nbd7 Ne5 Bg7 Nxf7 Kxf7 e5 Nd5 Ne4 Ke7 Nd6 Qb6 a4 Raf8 Bf3 a6 Bxd5 cxd5 axb5 axb5 Kh1 b4 f4 Ba6 Re1 h5 Qd2 h4 f5 Bh6 Bf2 exf5 Ra4 b3 Rea1 Nb8 Qe1 Ke6 h3 g4 Rb4 Qc6 Bxh4 gxh3 g3 Nd7 Rba4 Nb8 Bf6 Rhg8 Ra5 h2 Rc5 Qd7 Rca5 Qc6 Rc5 Qd7 Rca5 Qc6 Rc5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771495444.0838935
+  "updated": 1771495488.272181
 }
