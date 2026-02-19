@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "abcd_engine",
+  "rating": 3065,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 600,
-  "timestamp": "2026-02-19T10:34:24.469816",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-02-19T10:37:22.556207",
   "last_game": {
     "result": "draw",
-    "opponent": "abcd_engine",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "CloudNetBot",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "d4",
-    "duration": 600,
+    "moves": "d4 d5 c4 e6 Nc3 Bb4 cxd5 exd5 Bf4 c5 dxc5 Nf6 e3 O-O Bd3 Bxc3+ bxc3 Nbd7 Bd6 Re8 Ne2 Qa5 a4 Nxc5 Bb5 Ncd7 O-O a6 Bd3 Nc5 Bxc5 Qxc5 Qb3 Bd7 h3 Rac8 a5 Rc7 Qb4 Bc8 Rfc1 h6 Re1 Qe7 Rac1 Rc5 Nd4 Ne4 f3 Nf6 c4 Qc7 Nb3 Rc6 Nd4 Rc5 Nb3 Rc6 Nd4 Rc5",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1771497264.4699078
+  "updated": 1771497442.5562675
 }
