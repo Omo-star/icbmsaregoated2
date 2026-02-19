@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2974,
-  "opponent": "kowalabi",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+4",
-  "time_left": 63,
-  "timestamp": "2026-02-19T12:15:32.537275",
+  "opponent": "Morbex",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+2",
+  "time_left": 82,
+  "timestamp": "2026-02-19T12:23:58.037187",
   "last_game": {
-    "result": "win",
-    "opponent": "kowalabi",
+    "result": "draw",
+    "opponent": "Morbex",
     "rating_before": 2974,
     "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 Nf6 Nc3 d5 exd5 Nxd5 Nf3 Bg4 Be2 @h3 gxh3 Nxc3 bxc3 Bxh3 N@f4 N@d5 Nxh3 e6 @b2 @a3 @c4 axb2 Bxb2 Nxc3 Bxc3 @g4 B@h5 gxf3 Bexf3 @g6 d5 Bb4 Bxb4 Nxb4 O-O O-O dxe6 Qxd1 Raxd1 Q@e7 B@g5 Qxe6 @f6 N@f5 fxg7 Nxg7 @f6 B@e5 fxg7 Bxg7 @h6 Ba1 Rxa1 @g7 @f6",
-    "duration": 288,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "Nf3 Nf6 c4 e6 Nc3 b6 e4 Bb7 d3 c5 g3 d6 Bg2 g6 O-O Bg7 Re1 a6 d4 cxd4 Nxd4 O-O Nf3 Qc7 Bf4 Rd8 Rc1 Bf8 Bg5 Nbd7 Qd2 Rac8 b3 Qb8 Qf4 Bg7 a4 Nh5 Qe3 Nhf6 h3 Nc5 b4 Ncd7 Bf1 Re8 Red1 Bf8 Qf4 Be7 Nd2 Nh5 Qe3 Bxg5 Qxg5 Nhf6 Qe3 d5 f4 dxe4 Ndxe4 Nxe4 Nxe4 Bxe4 Qxe4 Rc7 Kh2 Qc8 Qe1 e5 f5 e4 Qe3 Rc6 c5 bxc5 b5 Rf6 bxa6 Rxf5 Bb5 Re7 Rf1 Ne5 Rxf5 Qxf5 Be2 Nd3 Bxd3 exd3 Qxe7 Qf2+ Kh1 Qf3+ Kg1 Qxg3+ Kf1 Qf4+ Kg2 Qd2+ Kf3 Qxc1 Qe8+ Kg7 Qe5+ Kg8 Qe8+ Kg7 Qe5+ Kg8 Qb8+ Kg7 Qe5+",
+    "duration": 406,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1771503332.5373602
+  "updated": 1771503838.0373797
 }
