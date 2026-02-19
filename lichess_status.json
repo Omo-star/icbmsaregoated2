@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2973,
-  "opponent": "kowalabi",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+4",
-  "time_left": 69,
-  "timestamp": "2026-02-19T12:53:38.393419",
+  "rating": 3065,
+  "opponent": "abdcebot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 23,
+  "timestamp": "2026-02-19T12:54:26.970561",
   "last_game": {
-    "result": "win",
-    "opponent": "kowalabi",
-    "rating_before": 2973,
-    "rating_after": 2973,
+    "result": "draw",
+    "opponent": "abdcebot",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Bc5 Bc4 Nf6 d3 d6 O-O Bg4 Bxf7+ Kxf7 Ng5+ Kg6 Qxg4 Nxg4 B@f5+ Kh6 Nf7+ Kh5 Bxg4+ Kxg4 Nxd8 Bxf2+ Kh1 Q@f4 Q@h3+",
-    "duration": 176,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1771505618.393523
+  "updated": 1771505666.9706237
 }
