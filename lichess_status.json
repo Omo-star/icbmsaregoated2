@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "kowalabi",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+4",
-  "time_left": 59,
-  "timestamp": "2026-02-19T09:31:45.357876",
+  "rating": 3074,
+  "opponent": "MEGA-NOOB-BOT",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 22,
+  "timestamp": "2026-02-19T09:32:22.141630",
   "last_game": {
-    "result": "win",
-    "opponent": "kowalabi",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "result": "draw",
+    "opponent": "MEGA-NOOB-BOT",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nc6 Nd5 Nf6 Nxf6+ gxf6 N@d5 N@b6 c3 d6 Nf3 Be6 Nxb6 axb6 N@d5 Ra5 Nb4 Nxb4 cxb4 d5 bxa5 dxe4 axb6 exf3 @d7+ Bxd7 bxc7 Qxc7 @g7 Bxg7 R@e7+ Kxe7 N@d5+ Kd8 Nxc7 N@d4 Q@e4 N@c2+ Qexc2 Nxc2+ Qxc2 N@d4 N@e6+ fxe6 Nxe6+ Bxe6 N@f7+ Bxf7",
-    "duration": 260,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "d4 Nf6 Nc3 d5 e3 c5 dxc5 e6 Nf3 Bxc5 Bd3 Nc6 O-O e5 e4 d4 Ne2 O-O h3 h6 a3 a5 c3 dxc3 Nxc3 Be6 Be3 Bxe3 fxe3 Qd6 Rc1 Rac8 Nb5 Qb8 Qa4 b6 Rfd1 Ne7 Bc4 Bd7 Qb3 Bxb5 Qxb5 Rc5 Qa6 Nxe4 b4 axb4 axb4 Rcc8 Rd7 b5 Rxe7 bxc4 Rxc4 Nd6 Rxc8 Rxc8 Rd7 Nf5 Qa2 Rf8 Qd2 Ng3 Qb2 Qb5 Rd1 Re8 Kf2 Ne4+ Kg1 Ng3 Kf2 Ne4+ Kg1 Ng3",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771493505.3579774
+  "updated": 1771493542.1417613
 }
