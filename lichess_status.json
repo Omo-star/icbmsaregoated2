@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-19T08:26:54.450132",
+  "rating": 3072,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 13,
+  "timestamp": "2026-02-19T08:28:35.439696",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "Bharat_royals",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Bxe3 Nxe3 c5 Kh1 Ne6 b3 Nd4 Ng1 Be6 Ne2 Qd6 Qd2 a6 f3 b6 Ng3 h6 Kg1 Re8 Qf2 Kh7 h4 Ref8 Rac1 Rg8 f4 exf4 Qxf4 Qxf4 Rxf4 g5 Rf2 gxh4 Nh5 f5 Rcf1 Rg5 Nf4 Bc8 c3 Nc6 exf5 Rg3 Re1 Bxf5 Ned5 Rg5 Nh3 Rgg7 Nhf4 Rg5 Nh3 Rgg7 Nhf4 Rg5 Nh3",
-    "duration": 30,
+    "moves": "b3 e5 c4 b6 f3 c5 Bxh7 Ne7 Bd3 Nhg6 Nh3 f6 e4 Rh8 N1f2 Nc6 Ng4 Nf4 Nxf4 exf4 Bc3 Qe7 Bc2 a5 Rh1 Bd6 O-O-O Rh5 Kb1 Nd4 Qf2 Bc6 Bxd4 cxd4 Qxd4 b5 d3 Bc5 Qb2 Ba3 Qd4 Bc5 Qb2 Ba3 Qd4 Bc5",
+    "duration": 92,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771489614.4502752
+  "updated": 1771489715.439883
 }
