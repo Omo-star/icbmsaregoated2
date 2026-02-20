@@ -5,18 +5,18 @@
   "opponent": "Kaarthikan_2014",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00be+0",
-  "time_left": 29,
-  "timestamp": "2026-02-20T05:23:16.424161",
+  "time_left": 37,
+  "timestamp": "2026-02-20T05:23:43.931409",
   "last_game": {
     "result": "win",
     "opponent": "Kaarthikan_2014",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 d6 d4 e5 Nf3 exd4 Nxd4 Nf6 Nc3 Be7 Bf4 O-O Qd2 Nc6 O-O-O Nxd4 Qxd4 Bg4 f3 Be6 g4 Nd7 h4 Nb6 Qd2 g6 g5 Re8 h5 Bf8 Be3 Bg7 hxg6 fxg6 Qh2 Bxc3 Qxh7+ Kf8 bxc3 Bg8 Qh6+ Kf7 Bd4 Ke7 Qg7+ Ke6 Bh3#",
+    "moves": "e4 a6 Bc4 e6 Bb3 d5 exd5 exd5 Qf3 Nf6 Ne2 c5 Nbc3 c4 Nd1 cxb3 cxb3 d4",
     "duration": 45,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1771564996.4242272
+  "updated": 1771565023.9315023
 }
