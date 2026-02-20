@@ -5,18 +5,18 @@
   "opponent": "GGWorld",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+3",
-  "time_left": 348,
-  "timestamp": "2026-02-20T15:19:53.975927",
+  "time_left": 300,
+  "timestamp": "2026-02-20T15:20:00.025777",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "GGWorld",
     "rating_before": 2974,
     "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Be7 Qd2 O-O O-O-O Nbd7 g4 b5 g5 b4 Ne2 Ne8 f4 a5 f5 a4 fxe6 axb3 cxb3 fxe6 Bh3",
-    "duration": 405,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1771600793.9760115
+  "updated": 1771600800.0258534
 }
