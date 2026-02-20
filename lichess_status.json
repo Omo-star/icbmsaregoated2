@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "PositionalAI",
+  "rating": 3065,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 565,
-  "timestamp": "2026-02-20T07:26:24.939552",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-02-20T07:27:19.369592",
   "last_game": {
-    "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "result": "win",
+    "opponent": "CloudNetBot",
+    "rating_before": 3065,
+    "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rb8 Bxf6 Kf7 Bc3 a3 g4 hxg4+ Kxg4 Rg8+ Kh5 Rg3 Rc2 Rf3 Kg5 Rg3+ Kh5 Rf3 Kg4 axb2 Bxb2 Rf4+ Kg5 c3 Rxc3 Ra4 Rxc6 Rxa2 Bd4 Ra3 Bb6 Ra6 Rxc7+ Bxc7 Bxc7",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b4 Bxc4 dxc4 Bd6 Nh4 g6 Bh6 Qe7 Qa4 c5 Rad1 Kf7 Rd5 Rhd8 b5 Qe6 g3 Kg8 Qc2 a6 a4 axb5 axb5 Qh3 Rdd1 Ra5 Qd3 Qe6 Ng2 Ra4 Ra1 Qxc4 Qxc4+ Rxc4 Rfc1 Bf8 Bd2 Rxe4 Kf1 Nb8 Ra2 Rd3 Ne1 Rd8 f3 Rxe1+ Kxe1 Kf7 Ra8 Bd6 Rca1 h5 Ke2 Rf8 Bh6 Rg8 Be3 Rf8 Kd3 Ke6 h3 Rd8 h4 f5 Bc1 Rf8 Bh6 Rh8 Kc4 Rd8 R1a2 Re8 Kd3 Rh8 Kc4 Re8 R2a7 e4 Bf4 exf3 Ra1 Bxf4 gxf4 Kd7 Rf1 Kc8 Rxf3 Kb7 Ra4 c6 Rg3 cxb5+ Kxb5 Re2 Ra1 Na6 Ka4 Nc7 Rd1 Re6 Kb3 Kc6 Rgd3 Re4 Rd6+ Kb5 c4+ Rxc4 Rxb6+ Kxb6 Kxc4 Kc6 Rg1 Nb5 Rxg6+ Nd6+ Kd3 Kd5 Rf6 c4+ Ke3 Kc5 Rh6 c3 Kd3 Kd5 Rxh5 c2 Kxc2 Ke4 Rh6 Nc4 h5 Kxf4 Re6 Ne5 h6 Ke4 h7 Kf4 Rxe5 Kxe5 h8=Q+ Ke4 Qf6 Kd5 Qxf5+ Kc4 Qe5 Kb4 Qd5 Ka4 Kc3 Ka3 Qa8#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1771572384.9396489
+  "updated": 1771572439.3697035
 }
