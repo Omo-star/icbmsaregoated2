@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3072,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 169,
-  "timestamp": "2026-02-20T08:05:39.532084",
+  "time_control": "TC: 1.5+0",
+  "time_left": 71,
+  "timestamp": "2026-02-20T08:06:45.701342",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "Viet-Test",
+    "rating_before": 3072,
+    "rating_after": 3072,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 c5 Kf1 Rh5 Re2 Qe8 Kg2 Rgh8 Ra1 Qa4 b4 Qe8 bxc5 Qb5 Bb4 Be7 Bc3 Bf6 Na5 Qxc5 Bb4 Qb6 Rb1 Be7 Nc4 Qf6 a4 Bxb4 Rxb4 a6 Na5 b6 Rb1 Ka8 Nb3 a5 d4 Qc6 Rd1 Qxa4 Nc1 Rd8 Nd3 Qxd4 Nb2 Qxb2 Rxd8+ Ka7 Ra8+ Kxa8 Qc8+ Ka7 Qxc7+ Ka6 Qc8+",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 Bd3 d5 O-O Bf5 Re1 O-O c4 Nc6 cxd5 Qxd5 Nc3 Nxc3 bxc3 Bxd3 Qxd3 Rae8 Bf4 Qd7 Rad1 h6 d5 Nb8 h3 Bd6 Bxd6 cxd6 Qd4 b5 Qd3 Rxe1+ Rxe1 Re8 Rb1 a6 c4 bxc4 Qxc4 Qf5 Rd1 Rc8 Qb4 Qc2 Rd2 Qc7 Nd4 Qc1+ Kh2 Nd7 Nb3 Qc7 Qa4 Nf6 Qxa6 Qc3 Re2 Qc4 Qxc4 Rxc4 Rd2 Ra4 Kg1 g6",
+    "duration": 90,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771574739.532191
+  "updated": 1771574805.7014391
 }
