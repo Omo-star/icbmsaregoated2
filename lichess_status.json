@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "PandaCub7",
+  "rating": 3066,
+  "opponent": "Kaarthikan_2014",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+5",
-  "time_left": 378,
-  "timestamp": "2026-02-19T14:12:27.974756",
+  "time_control": "TC: \u00be+0",
+  "time_left": 24,
+  "timestamp": "2026-02-20T05:22:22.148817",
   "last_game": {
     "result": "win",
-    "opponent": "PandaCub7",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "Kaarthikan_2014",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Re8 Rxe8+ Qxe8 Nd2 Qe1+ Nf1 Bg6 g3 Re8 Bd1 h5 Bd2 Qe7 Bb3",
-    "duration": 505,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 Nc3 O-O Be3 Bxe3 fxe3 Na5 Bb3 Re8 a3 Nxb3 cxb3 a5 b4 axb4 axb4 Rxa1 Qxa1 d5 exd5 Nxd5 Nxd5 Qxd5 Qc1 Bd7 e4 Qxd3 Qe1 Bc6 Ng5 f6 Nf3 Rd8 Qf2 Qxe4 Nd2 Qxb4 Nf3 e4 Nd2 Qxd2 Qxd2 Rxd2 h3 e3 Kh1 e2 Re1 Rd1 Rxd1 exd1=Q+ Kh2 Qe1 g3 Qf2#",
+    "duration": 45,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771510347.9748533
+  "updated": 1771564942.1489067
 }
