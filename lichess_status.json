@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "Kaarthikan_2014",
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00be+0",
-  "time_left": 42,
-  "timestamp": "2026-02-20T05:24:00.388665",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-02-20T07:20:18.178653",
   "last_game": {
-    "result": "win",
-    "opponent": "Kaarthikan_2014",
+    "result": "draw",
+    "opponent": "PositionalAI",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 d6 d4 e6 Nc3 Nf6 Nf3 Nbd7 Bf4 Be7 e5 O-O exf6",
-    "duration": 45,
+    "moves": "c3 Nf6 Nf3 d5 d4 e6 Bf4 Bd6 Bg3 c5 Qc2 b6 Nbd2 Bb7 e3 O-O Be2 Nc6 O-O h6 Bxd6 Qxd6 Rac1 e5 dxe5 Nxe5 Qa4 Ng6 Rfd1 Qe7 h3 a6 Qb3 Rab8 a4 Rfd8 Qc2 Rbc8 Bf1 Rc7 Re1 Ne4 Rcd1 Rcd7 b4 Qf6 Nxe4 dxe4 Nh2 Qe7 Rxd7 Rxd7 Rd1 Rxd1 Qxd1 Ne5 bxc5 Qxc5 Qd8+ Kh7 Ng4 Nxg4 hxg4 a5 Bb5 Bd5 g5 h5 Qd7 Kg6 Qd8 Be6 c4 Bf5 Kh2 h4 Qb8 Kxg5 Qf4+ Kh5 Bd7 Kg6 Bxf5+ Qxf5 Qxh4 Qh5 Qxh5+ Kxh5 Kg1 Kg5 Kf1 Kh4 Ke2 g5 Ke1 g4 Ke2 f6 Kd2 g3 Ke2 gxf2 Kxf2 Kg4 Kf1 Kg3 Kg1 Kg4 Kf2 Kh4 Kf1 Kg3 Kg1 Kg4 Kf2 Kh4 Ke2 Kg5 Ke1 Kh5 Ke2 Kg5 Ke1 Kh4 Kf2 Kg4 Kf1 Kg3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1771565040.3887684
+  "updated": 1771572018.1787636
 }
