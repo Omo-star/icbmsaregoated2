@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3090,
-  "opponent": "ChessGPT_11",
+  "rating": 3021,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 28,
-  "timestamp": "2026-02-20T12:03:35.939715",
+  "time_control": "TC: 10+0",
+  "time_left": 469,
+  "timestamp": "2026-02-20T12:10:23.037791",
   "last_game": {
     "result": "draw",
-    "opponent": "ChessGPT_11",
-    "rating_before": 3090,
-    "rating_after": 3090,
+    "opponent": "ArasanX",
+    "rating_before": 3021,
+    "rating_after": 3021,
     "rating_delta": 0,
-    "moves": "e4 Nf6 e5 Nd5 d4 d6 Nf3 Nb6 a4 a5 Nc3 Na6 Bd3 g6 Bb5+ c6 Bxa6 Rxa6 exd6 Bg7 O-O Qxd6 Re1 Nd5 Ne4 Qd8 Qd2 O-O b3 Bf5 Ba3 Bxe4 Rxe4 b5 Bc5 Re8 Rae1 e6 Ne5 b4 Rg4 Nc3 h4 f5 Rg5 Bf6 Rg3 Bxh4 Rxc3 bxc3 Qe2 Ra8 Nc4 Bf6 Nd6 Re7 Qc4 Qd7 Qxc3 Qd8 Qc4 Qd7 Qc3 Qd8 Qg3 Qc7 Kf1 Bg7 Qg5 Bf8 Qe3 Bg7 Nc4 Ree8 Nd6 Re7 g3 Qd8 Nc4 Re8 Nd6 Re7 c3 e5 Qd3 Qd7 Qc4+ Qe6 Nxf5 Qxc4+ bxc4 Rd7 Ne7+ Rxe7 Bxe7 exd4 cxd4 Bxd4 Bd6 Rd8 c5 Bg7 Re6 Bf8 Bxf8 Kxf8 Rxc6 Rd4 Rc7 Rxa4 Ke2 h5 c6 Ke8 Rg7 Kd8 Rxg6 h4 g4 Kc7 Kf3 Ra3+ Ke4 a4 Rh6 Rh3 Kd5 Rd3+ Kc5 Rc3+ Kb4 Rc2 f4 a3 Kxa3 Rc4 Rxh4 Rxf4 Rh1 Rf3+ Ka2 Kxc6 Kb2 Kd7 Kc2 Ke8 Kd2 Kf8 Ke2 Rf7 Ke3 Kg8 Ke4 Kf8 Ke5 Kg8 Ke6 Rf8 Ke7 Kg7 Kd7 Rh8 Rxh8 Kxh8 Ke8 Kg8 Kd8 Kh8 Ke8 Kg8 Kd8 Kh8 Ke8",
-    "duration": 173,
-    "bot_color": "white",
+    "moves": "e4 e5 Nc3 Nf6 g3 Bc5 Bg2 O-O Nge2 c6 O-O d5 exd5 cxd5 d4 exd4 Nxd4 Bg4 Qd2 Nc6 h3 Bxd4 hxg4 Nxg4 Nxd5 Qd6 Qf4 Qg6 Bf3 f5 Kg2 Rae8 Nc7 Re7 Nd5 Re6 Bd2 Nge5 c3 Rd8 Nc7 Red6 Nb5 Nxf3 Qxf3 Ne5 Qf4 Nd3 Qf3 Ne5 Qf4 Nd3 Qf3 Ne5",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771589015.9397774
+  "updated": 1771589423.037913
 }
