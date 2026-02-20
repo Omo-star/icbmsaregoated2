@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "Cheszter",
+  "rating": 3074,
+  "opponent": "OlympusCz",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 135,
-  "timestamp": "2026-02-20T09:15:41.865412",
+  "time_control": "TC: 2+1",
+  "time_left": 120,
+  "timestamp": "2026-02-20T09:16:36.926562",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "OlympusCz",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 d4 d5 c4 e6 cxd5 exd5 Bf4 c5 dxc5 Bxc5 e3 Nc6 Be2 Qb6 Nc3 Qxb2 Nb5 O-O Rb1 Qxa2 Ra1 Qb2 Rb1 Qa2 Ra1 Qb2 Rb1 Qa2",
-    "duration": 180,
+    "moves": "",
+    "duration": 120,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1771578941.865512
+  "updated": 1771578996.9266384
 }
