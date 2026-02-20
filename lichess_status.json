@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 18,
-  "timestamp": "2026-02-20T09:51:31.634699",
+  "rating": 2974,
+  "opponent": "chessbot2880",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 108,
+  "timestamp": "2026-02-20T09:54:21.420847",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "opponent": "chessbot2880",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 f6 f4 Bf7 d3 e5 fxe5 fxe5 Be3 c6 O-O O-O Nab3 Bb6 c4 Bxe3+ Qxe3 Nc7 Ne2 b6 Ng3 Ne7 Nf5 Qd8 Nd2 Ne6 Bg4 h5 Nxe7+ Qxe7 Bxe6 Bxe6 h3 Rxf1+ Rxf1 Rf8 Rxf8+ Kxf8 Qg3 d6 Nf3 Qf6 b4 c5 b5 Ke7 Kf2 Kf7 Ke2 Bc8 Ng5+ Kg6 Ne6+ Kh6 Nc7 Be6 Qe3+ Kg6 Qg3+ Kh6 Qe3+ Kg6 Nxe6 Qxe6 Qg3+ Kh6 Qe3+ Kg6 Qf3 Qe7 Qg3+ Kh7 Kf3 Qf7+ Ke2 Qe7 h4 Qe6 Qf3 g6 Qg3 Qd7 Qf3 Qe6 Qg3 Kg7 Kf2 Qf6+ Ke2 Kf7 Qf3 Qxf3+ Kxf3 Ke6 a3 Ke7 g3 Kf7 g4 Ke8 Kf2 Kf7 gxh5 gxh5 Ke1 Ke6 Ke2 Ke7 Kd2 Kf6 Ke2 Ke6 Kd2 Ke7 Kc3 Kd7 Kb2 Kc7 Ka2 Kd7 Kb2 Kc7 a4 Kb8 Kc3 Kc7 Kb3 Kd7 Kc2 Kc7 Kb3 Kc8 Kc3 Kb7 Kb3 Kc8 Kb2 Kb7 Kc1 a6 bxa6+ Kxa6 Kb2 Ka7 Ka2 Kb7 Kb2 Ka6 Kc3 Kb7 Kb2 Kc7 Kc2 Kd7 Kb2 Kc7 Ka2 Kc6 Ka3 Kc7 Ka2 Kb8 Kb3 Ka7 Ka3 Ka6 Kb2 Kb7 Ka3 Ka7 Ka2 Ka8 Kb3 Kb8 Ka3 Kc8 Ka2 Kc7 Kb2 Kb8 Kb3 Kc7 Kb2 Kc6 Ka3 Kc7 Kb3 Kb8 Kc2 Kc8 Kc3 Kd8 Kb3 Kc8 Ka2 Kc7 Ka1 Kc8 Kb1 Kb8 Kc1 Kb7 Kb1 Kc7 Kb2",
-    "duration": 410,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 d5 Bd3 Bd6 O-O O-O c4 c6 cxd5 cxd5 Nc3 Re8 Re1 Nxc3 Rxe8+ Qxe8 bxc3 Nd7 Qb3 Nb6 Ba3 Bxa3 Qxa3 Be6 Re1 h6 h3 Qc8 Re3 Nc4 Bxc4 Qxc4 Ne5 Qc7 h4 b6 h5 Qd8 Qa6 Qe7 Qe2 Qg5 Nc6 Kf8 Qc2 Bf5 Qe2 Qg4 f3 Qxh5 Re5 Qg5 Ne7 Qc1+ Kf2 Bd7 Nxd5 Bc6 Ne7 Qxc3 Re3 Qc1 Qd3 Bd7 Qe4 Re8 Ng6+ Kg8 Qxe8+ Bxe8 Rxe8+ Kh7 Nf8+",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771581091.634802
+  "updated": 1771581261.4209473
 }
