@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "Weiawaga",
+  "rating": 2974,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2026-02-20T10:15:02.671571",
+  "time_control": "TC: 3+1",
+  "time_left": 152,
+  "timestamp": "2026-02-20T10:18:55.965330",
   "last_game": {
-    "result": "win",
-    "opponent": "Weiawaga",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 c5 Ne2 e6 Nbc3 Nc6 h3 Nf6 d4 d5 Be3 Nxe4 Nxe4 cxd4 Nxd4 dxe4 Bb5 Qc7 Qg4 f5 Qh5+ g6 Qe2 Kf7 Nxc6 bxc6 Bc4 Bg7 O-O-O c5 g3 Be5 c3 h5 Bg5 h4 Bxh4 Bf4+ Kb1 Rb8 Rhg1 Rb6 gxf4 Rxh4 Qe3 Qxf4 Qxc5 Rh8 Qd4 Rh7 Qd8 Qxf2 Bb3 Qc5 h4 Rh5 Ba4 Kg7 Be8 e5 Bxg6 Rxg6 Rxg6+ Kxg6 b4 Qb6 Rd6+ Qxd6 Qxd6+ Kf7 Qc7+ Kg6 Qc6+ Kg7 Qxc8 f4 Qg4+ Kh6 Kc1 f3 Qxe4 f2 Qe3+ Kg6 Qxf2 Rf5 Qe2 Kf6 Qa6+ Ke7 Qxa7+ Kf6 Qb6+ Kg7 Kc2 Kh7 Qe6 Rf8 Qxe5 Kh6 Qg5+ Kh7 Qe5 Kh6 Qd6+ Kg7 Qxf8+ Kxf8 h5 Kf7 Kd3 Kf6 a3 Kg5 h6 Kxh6 b5 Kg7 b6 Kf8 b7 Kf7 b8=Q Ke6 c4 Kd7 c5 Kc6 a4 Kxc5 a5 Kd5 a6 Kc5 a7 Kd5 a8=Q+ Ke6 Qf8 Kd7 Qe7+ Kxe7 Qc6 Kf7 Ke4 Kf8 Qd7 Kg8 Kf5 Kh8 Kg6 Kg8 Qe8#",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 c6 Nf3 Ne7 h3 Bf5 Bf4 Ng6 Bg3 a5 a4 Qb6 Ra3 Rae8 Qb3 Qa7 Ra1 Rxe2 Bxe2 Re8 Bf1 h5 Bc7 Be4 Nd2 Bf5 Nf3 Be4 Nd2 Bf5 Nf3",
+    "duration": 233,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771582502.6716447
+  "updated": 1771582735.9654264
 }
