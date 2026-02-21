@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2980,
-  "opponent": "ClassicLegendBot_v3",
+  "rating": 2979,
+  "opponent": "chess_bot_faster",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 133,
-  "timestamp": "2026-02-21T15:15:38.802262",
+  "time_left": 13,
+  "timestamp": "2026-02-21T15:21:53.075254",
   "last_game": {
-    "result": "draw",
-    "opponent": "ClassicLegendBot_v3",
-    "rating_before": 2980,
-    "rating_after": 2980,
+    "result": "win",
+    "opponent": "chess_bot_faster",
+    "rating_before": 2979,
+    "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qd8 O-O Rc8 f5 exf5 Rfb1 Qa5 Qg5 h6 Qg3 Be6 R1b6 g5 Rb8 Be7 Rxc8+ Bxc8 e6 fxe6 Qe5 Rg8 Rxe6 Qa3 Rxh6 Qc1+ Kf2 Qxc2+ Ne2 f4 Qxd5 Rf8 h3 Rf5 Qf3 Kd7 Kg1 Qb1+ Kh2 Bb7 Qg4 Bxg2 Qxg2 f3 Qf2 fxe2 Qxe2 Qb8+ Kh1 Qb7+ Kg1 Qb1+ Kg2 Qb7+ Kg1 Qb1+ Kg2 Qb7+ Kg1",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 c4 Ba6 b3 g6 Bb2 Bg7 g3 O-O Bg2 Rae8 O-O Bxe5 Qxe5 Qxe5 Bxe5 Rxe5 cxd5 Bxf1 Kxf1 cxd5 Nc3 c6 Bf3 Rb8 Rd1 Rb4 Na4 Re7 Nc3 Re6 Na4 f5 Be2 Re7 Nc5 a5 Na6 Rb7 Rd4 Ra7 Nc5 Ra8 Bf3 Kg7 Ra4 g5 Nd3 Ree8 h3 Kf6 Ra3 Ke7 Bh5 Reb8 Ra4 Rb6 Be2 h6 Bd1 Rb5 Ke1 Rbb8 Kd2 Kd6 Bc2 Rf8 Ne1 f4 g4 c5 Bd1 f3 Nd3 Rf6 Ra3 Rf7 Ra4 Rff8 Kc1 Ke7 Bc2 Kd6 Bd1 Ke7 Bc2 d6 Ne1 Kd8 Kd2 Kc7 Bf5 Rfb8 Nc2 Re8 Bd3 Kc6 Kd1 d4 Ne1 d5 Nxf3 Rf8 Bf5 Rfb8 Ne5+ Kd6 Nd3 Re8 Ne1 Ra7 Bd3 Kc6 Bf1 Rf8 Nd3 Kb6 Bg2 Rd7 Bf1 Rc7 Ke1 Rfc8 Nb2 Rh7 Bg2 Rd7 Kf1 Re8 Bf3 Red8 Bg2 Rf7 Kg1 Re7 Kf1 Rh7 Bf3 Rf7 Bg2 Rf6 Ke1 h5 gxh5 Re8+ Kf1 Rf5 Nd3 Rh8 Ke1 Rxh5 Bf1 Rh7 Kd1 Rc7 Ra3 Rf6 Ra4 Rf3 Ke2 Rf5 Kd1 Rf8 Ke1 Re8+ Kd1 Rf8 Ke1 Re8+ Kd1 Rec8 Ne5 Re7 Ng4 Rce8 Bd3 Re1+ Kd2 Ra1 Nf6 Rd8 Bf5 Rd6 Nd7+ Kb5 Ne5 Rf6 Bd7+ Kb6 Ng4 Rd6 Ne5 Rf1 Ke2 Rb1 Bf5 Rb2+ Ke1 Rd8 Nd3 Rb1+ Kd2 Rh1 Bg4 Rh2 Ke2 Re8+ Kf3 Rh1 Kg2 Ra1 Bf3 Rd8 Bg4 Kb5 Nb2 Rb1 Be2+ Kc6 Nd3 Kb6 Kh2 Rc8 Bg4 Rc7 f4 c4 bxc4 dxc4 fxg5 Kb5 Ra3 cxd3 Rxd3 Kc4 Rf3 d3 Be6+ Kd4 Rxd3+ Kxd3 Bf5+ Ke3 Bxb1 Rb7 Bg6 Kf4 a4 Kxg5 Be8 Rb2+",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1771686938.8023577
+  "updated": 1771687313.079511
 }
