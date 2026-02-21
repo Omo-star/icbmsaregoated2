@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2974,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "AndruCaptain27UA",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
   "time_left": 163,
-  "timestamp": "2026-02-21T10:15:36.763817",
+  "timestamp": "2026-02-21T10:16:26.900307",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "result": "win",
+    "opponent": "AndruCaptain27UA",
     "rating_before": 2974,
     "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Ne5 Bb7 Nc3 Nfd7 Nf3 dxc4 Ne4 h6 Rfd1 f5 Nc3 Na6 a3 Nc7 e4 c5 Bf4 fxe4 Nxe4 Nd5 Bxh6 gxh6 Nxc5 bxc5 Qg6+ Kh8 Qxh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Bc5 c3 a6 Bxc6 dxc6 Nxe5 Qe7 O-O Qxe5 d4 Bxd4 cxd4 Qe7 Nc3 Bd7 Bf4 Nf6 d5 cxd5 e5 Ng8 Nxd5 Qc5 Rc1",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771668936.7638867
+  "updated": 1771668986.9003925
 }
