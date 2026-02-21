@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2986,
-  "opponent": "NewChessEngine-ai",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 118,
-  "timestamp": "2026-02-21T14:19:07.598116",
+  "time_left": 125,
+  "timestamp": "2026-02-21T14:22:37.764077",
   "last_game": {
     "result": "draw",
-    "opponent": "NewChessEngine-ai",
+    "opponent": "CloudNetBot",
     "rating_before": 2986,
     "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 a4 Nf6 d3 a6 h3 h6 Nc3 d6 Nd5 Nxd5 Bxd5 Qf6 Be3 Bxe3 fxe3 Ne7 Ba2 Be6 O-O Bxa2 Rxa2 Qe6 Ra1 O-O Qe1 a5 Qc3 c6 Rfb1 b5 b4 axb4 Rxb4 Qc8 Kh2 Qa6 Qb2 Ng6 c4 bxa4 Raxa4 Qxa4 Rxa4 Rxa4 h4 h5 Qb6 Ra3 d4 Rc3 Qxc6 Rxe3 c5 dxc5 Nxe5 Nxh4 Nd7 Rd8 Qc7 Re8 Ne5 Rf8 Nd7 Re8 Ne5 Rf8 Nd7 Re8",
+    "moves": "d4 Nf6 c4 e6 e3 d5 cxd5 exd5 Nf3 Bd6 Bd3 O-O Nc3 Bg4 h3 Bh5 Qb3 Na6 g4 Nb4 Bb1 Bg6 Bxg6 fxg6 a3 Nc6 Ng5 Qe7 Nxd5 Nxd5 Qxd5+ Kh8 h4 Rae8 Bd2 h6 Kf1 Nb8 Kg2 Nd7 f3 Nf6 Qb5 Nxg4 fxg4 c6 Qc4 Qd7 Qe2 hxg5 hxg5+ Kg8 Raf1 Rxf1 Rxf1 Qe6 Re1 Qe4+ Qf3 Qc2 Qe2 Qe4+ Qf3 Qc2 Qe2 Qb3 Rc1 Qd5+ Qf3 Qa2 Qe2 Qd5+ Qf3 Qb3 Qe2 Re4 Kf2 a6 Qc4+ Qxc4 Rxc4 Rxg4 Rc3 Rxg5 Rb3 Rf5+ Ke2 Rb5 Rxb5 axb5 Kf3 Be7 Kf4",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771683547.5982063
+  "updated": 1771683757.7641692
 }
