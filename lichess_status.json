@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "BorkaTower",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 119,
-  "timestamp": "2026-02-21T15:45:55.360305",
+  "time_left": 117,
+  "timestamp": "2026-02-21T15:48:19.478828",
   "last_game": {
     "result": "draw",
-    "opponent": "BorkaTower",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 Nh5 g3 Nf6 O-O h5 h4 Ng4 Qd2 O-O Nc3 c6 a4 f5 exf5 Qd7 Rae1 Rxf5 f3 Nf6 Kg2 Rf8 Nd1 Ne8 Nc3 Nf6 Ne4 d5 cxd5 cxd5 Qe2 b6 Nxf6+ R8xf6 d4 exd4 b5 g5 hxg5 Rxg5 Qe8+ Qxe8 Rxe8+ Kg7 Re7+ Rf7 Rxf7+ Kxf7 f4 Rg8 Rh1 Rh8 Rd1 Ke6 Rxd4 Kd6 Rd1 Kc5 Kf3 d4 Rc1+ Kb4 Ke4 Kxa4 Rb1 Rf8 Ra1+ Kxb5 Rxa7 Rd8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Qc6 Ra7 Qa4 Kb8 Qc6 Kc8 Qa4 Ra8 Bh6 Kb7 h4 Ka7 Rbe1 Qf7 Kg2 Rae8 Qc2 Re7 Rh1 Rg8 Qd1 Qe8 Qc2 Rf7 Qd2 Qd8 Rd1 Qc8 Rde1 Qe8 Qc2 Nb8 Rd1 Qe7 Rde1 Nd7 Qd1 Qe8 Qe2",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771688755.3636243
+  "updated": 1771688899.4789853
 }
