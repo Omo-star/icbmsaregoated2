@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2975,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 125,
-  "timestamp": "2026-02-21T09:59:46.466965",
+  "time_left": 120,
+  "timestamp": "2026-02-21T10:02:52.703833",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "opponent": "NewChessEngine-ai",
     "rating_before": 2975,
     "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Nc6 h3 e5 Nb3 Be6 Qf3 Rc8 O-O-O Na5 Nc5 Bc4 Nb3 Be6 Bg5 Be7 Bxf6 Bxf6 Kb1 b5 Nxa5 Qxa5 Nd5 Bd8 a3 O-O Qe3 h6 Be2 Bg5 Qb3 Qd8 g3 Rc5 h4 Be7 Qe3 Bxd5 Rxd5 Rxd5 exd5 Qc7 Rc1 Qb7 Bd3 f5 f3 b4 axb4 Qxb4 c3 Qb7 Qe2 a5 h5 a4 Qc2 Bg5 Rf1 a3 b4 Kh8",
+    "moves": "c4 e5 g3 Nc6 Bg2 d6 Nf3 g6 d4 e4 Ng5 f5 d5 Ne5 Nc3 Bh6 f4 exf3 Nxf3 Bxc1 Rxc1 Nf6 O-O Qe7 Nxe5 dxe5 e4 O-O Qe2 Qc5+ Kh1 Bd7 a3 a5 exf5 Bxf5 Qf2 Qxf2 Rxf2 Rad8 b4 axb4 axb4 e4 Kg1 Rfe8 Re2 c6 dxc6 bxc6 Rb2 Rd4 Ne2 Rd7 Nc3 Rd4 Ne2 Rdd8 Ra2 Kg7 b5 cxb5 cxb5 Re5 Nc3 Rb8 Ra6 h5 h4 e3 b6 e2 Re1 Re3 Nxe2 Be4 Bxe4 Nxe4 Ra7+ Kh6 b7 Nc5 Kf2 Rbe8 Ra8 Nxb7 Rxe8 Rxe8 Nf4 Rxe1 Kxe1",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771667986.4670813
+  "updated": 1771668172.703942
 }
