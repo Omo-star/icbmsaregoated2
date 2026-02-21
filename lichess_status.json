@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "C0kval",
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 139,
-  "timestamp": "2026-02-21T13:38:55.171672",
+  "time_left": 88,
+  "timestamp": "2026-02-21T13:41:28.921402",
   "last_game": {
-    "result": "win",
-    "opponent": "C0kval",
+    "result": "draw",
+    "opponent": "RaspFish",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c4 Nf6 cxd5 Qxd5 Nc3 Qf5 e4 Qg4 e5 Nfd7 h3 Qf5 d4 Nc6 Bd3 Nxd4 Bxf5 Nxf5 Nb5 Rb8 e6 fxe6 Ng5 Kd8 Nxe6+ Ke8 Nbxc7+ Kf7 Nd8+ Kf6 Nd5+ Ke5 Bf4+ Ke4 f3#",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 h5 b4 Qd7 O-O Nd8 a4 h4 h3 Nf7 Qc2 Bxd3 Qxd3 Nf5 Nd2 Be7 Nf3 a5 b5 O-O-O Bd2 Rhg8 b6 c6 Rf2 g5 exf6 Bxf6 fxg5 Nxg5 Bxg5 Bxg5 Nxg5 Rxg5 Qd2 Rdg8 Raf1 Qe7 c4 Qg7 Qxa5 Kd7 Qa7 Rxg2+ Kh1 dxc4 Qxb7+ Kd6 Qxg7 R2xg7 a5 Ng3+ Nxg3 Rxg3 Rf3 Rxf3 Rxf3 c5 Rc3",
     "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771681135.1717327
+  "updated": 1771681288.9215405
 }
