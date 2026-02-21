@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2975,
-  "opponent": "chess_bot_faster",
+  "rating": 2974,
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 103,
-  "timestamp": "2026-02-21T17:50:58.666560",
+  "time_left": 94,
+  "timestamp": "2026-02-21T17:53:38.252021",
   "last_game": {
     "result": "draw",
-    "opponent": "chess_bot_faster",
-    "rating_before": 2975,
-    "rating_after": 2975,
+    "opponent": "NewChessEngine-ai",
+    "rating_before": 2974,
+    "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 c4 Nb6 Nc3 Qe6 Qe4 d5 exd6 Qxe4+ Nxe4 cxd6 Bd2 Be7 Be2 O-O Rc1 Be6 O-O d5 cxd5 Bxd5 Nc3 Be6 Rfe1 Rfd8 Bf4 Bf6 b3 Bxc3 Rxc3 Nd5 Rc4 Nxf4 Rxf4 Rd2 Ra4 Rad8 Bf3 Rc2 Be4 Re2 Ra1 Bd5 Rd1 Re8 Bd3 Re1+ Rxe1 Rxe1+ Bf1 g5 f4 gxf4 Rxf4 Rd1 Ra4 Rd2 Rxa7 Kg7 g3 Kf6 Bc4 Rg2+ Kf1 Rxh2 Bxd5 cxd5 a4 Rb2 Rb7 Ra2 Ra7 Rb2 Rb7 Ra2 Ke1 h5 Kd1 Rg2 a5 Rxg3 a6 Rg1+ Kc2 Rg2+ Kb1 Rg8 Rb5 Ke5 Rb7 Ra8 Rxf7 Rxa6 Rh7 d4 Rxh5+ Ke4 Kb2 d3 b4 d2 Kc2 d1=Q+ Kxd1 Rg6 Kc2 Rg3 Rb5 Kf4 Rc5 Ke4 Rc3 Rxc3+ Kxc3 Kd5 Kb3 Kc6 Ka2 Kd7 Ka1 Ke8 Kb2 Kd8 Kb3 Kc8 Kc4 Kb8 b5 Kc8 b6 Kb8 Kb5 Kb7 Kc5 Kb8 Kd6 Kb7 Kc5 Kb8 Kc6 Kc8 Kb5 Kb8 Kb4 Kc8 Kb5 Kb8 Kb4 Kc8 Ka4 Kb8 Kb5 Kb7 Ka5 Kb8 Ka4 Kc8 Kb4 Kb8 Kc4 Kc8 Kd3 Kd8 Kc4 Kc8 Kb3 Kd8 Ka4 Kc8 Kb4 Kb8 Kb5 Kb7",
+    "moves": "e4 c5 Nf3 Nc6 Bb5 g6 Bxc6 bxc6 O-O Bg7 Re1 e5 c3 Ne7 d4 exd4 cxd4 cxd4 Nxd4 O-O Nc3 Rb8 h3 Rb7 Bf4 Rxb2 Bd6 c5 Bxc5 d6 Ba3 Rb6 Rc1 Bb7 Qd2 Qd7 Nde2 Rc8 Red1 Ba6 f4 Bxe2 Nxe2 Rxc1 Rxc1 Qa4 Qd3 Qa6 Qxa6 Rxa6 Bb4 Ra4 a3 a5 Bxd6 Rxe4 Kf2 h5 g4 hxg4 hxg4 Re6 Bxe7 Rxe7 Rc5 a4 Ra5 Bf8 Rxa4 Rb7 Ra5 Bd6 a4 Rb3 Ra6 Bc5+ Kg2 Rb2 Kf3 Rb3+ Kg2 Rb2 Kf3 Rb3+ Kg2",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771696258.6667762
+  "updated": 1771696418.2521458
 }
