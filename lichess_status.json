@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "chessbot2880",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 156,
-  "timestamp": "2026-02-21T19:18:20.906991",
+  "time_left": 151,
+  "timestamp": "2026-02-21T19:21:15.380709",
   "last_game": {
     "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "opponent": "chessbot2880",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b4 Bxc4 dxc4 Bd6 Nh4 g6 Bh6 a5 a3 Kf7 Qg4 Rg8 f4 exf4 Bxf4 h5 Qg3 g5 Qf3 gxf4 Qxh5+ Kf8 Qh6+ Ke8 Qh5+ Kf8 Qh6+ Ke8 Qh5+ Kf8",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O Nf3 c5 dxc5 Na6 g3 Nxc5 Bg2 Nce4 Bd2 Nxd2 Nxd2 Rb8 O-O b6 Rfd1 a5 Nde4 Ba6 Nxf6+ Qxf6 Ne4 Qd8 Rd4 Rc8 a3 Be7 Nd6 Bxd6 Rxd6 Bxc4 Qd2 Rc7 a4 Qb8 Bf3 h6 Qe3 Rb7 Qf4 Rc7 Qe3 Rb7 Qf4 Rc7 Qe3",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771701500.907205
+  "updated": 1771701675.3808198
 }
