@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "chessbot2880",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 151,
-  "timestamp": "2026-02-21T19:21:15.380709",
+  "time_left": 137,
+  "timestamp": "2026-02-21T19:23:37.183530",
   "last_game": {
     "result": "draw",
-    "opponent": "chessbot2880",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O Nf3 c5 dxc5 Na6 g3 Nxc5 Bg2 Nce4 Bd2 Nxd2 Nxd2 Rb8 O-O b6 Rfd1 a5 Nde4 Ba6 Nxf6+ Qxf6 Ne4 Qd8 Rd4 Rc8 a3 Be7 Nd6 Bxd6 Rxd6 Bxc4 Qd2 Rc7 a4 Qb8 Bf3 h6 Qe3 Rb7 Qf4 Rc7 Qe3 Rb7 Qf4 Rc7 Qe3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Rxe5+ Be7 Bf1 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Bxe5 Qxe5 Qd7 Re1 Nd6 Qf6 Qf5 Qxf5 Nxf5 Nf3 Kf8 Ne5 Nd6 f3 Re8 Nd7+ Kg7 Rxe8 Nxe8 Ne5 Nd6 Kf2 Bc8 b4 f6 Nc6 Bd7 Ne7 c6 b5 Nxb5 Bxb5 cxb5 Nxd5 Be6 Nc7 Bc4 a3 Kf7 Na6 Ke6 g4 Kd6 Nb4",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771701675.3808198
+  "updated": 1771701817.183707
 }
