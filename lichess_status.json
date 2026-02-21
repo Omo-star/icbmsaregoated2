@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "ClassicLegendBot_v2",
+  "rating": 2973,
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 58,
-  "timestamp": "2026-02-21T10:37:18.660009",
+  "time_left": 69,
+  "timestamp": "2026-02-21T10:42:03.907136",
   "last_game": {
     "result": "draw",
-    "opponent": "ClassicLegendBot_v2",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "NewChessEngine-ai",
+    "rating_before": 2973,
+    "rating_after": 2973,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 Bg7 f3 Nc6 Qd2 O-O Bc4 Bd7 O-O-O Rc8 Bb3 Nxd4 Bxd4 b5 Nd5 Nxd5 Bxg7 Kxg7 exd5 a5 a3 Qb6 Rhe1 h5 h3 h4 Qd4+ Qxd4 Rxd4 g5 Rxe7 Rfd8 c3 Kf6 Re2 Re8 Kd1 Rxe2 Kxe2 Re8+ Kf2 Ke5 f4+ gxf4 Kf3 f5 Rxf4 Rh8 Rd4 Be8 Kf2 Bf7 Kg1 f4 Kf2 Re8 Rd2 Bg6 Re2+ Be4 Bc2 Kxd5 Bd3 Re6 Bxb5 Ke5 Bd7 Re7 Bg4 d5 Bf3 Kf5 Rd2 Rb7 Bg4+ Ke5 Bf3 Rc7 Re2 Kf5 Bg4+ Ke5 Bh5 Rc6 Rd2 Rc7 Bg4 Rc6 Bf3 Rb6 Re2 Rc6 Bg4 Rc7 Rd2 Rc6 Ke1 Rg6 Re2 Rc6 Bf3 Rc7 Bh5 Rc5 Bf3 Rc7 Kd1 Rc8 Bg4 Rc6 Ke1 Rc4 Rd2 Rc7 Kf1 Rc4 Bh5 Rc6 Bg4 Rb6 Re2 Rc6 Bf3 Rg6 Bg4 Rc6 Ke1 Rc4 Bh5 Rc7 Kf2 Rg7 Bf3 Rg3 c4 Kd4 cxd5 Bxf3 gxf3 Kxd5 Re4 Rxh3 Rxf4 Rh2+ Kg1",
+    "moves": "e4 g6 d4 d6 Nf3 Bg7 c3 Nf6 Bd3 Nc6 h3 a5 Bf4 O-O O-O h6 Bh2 Nd7 Na3 e5 Nb5 Na7 Nxa7 Rxa7 a4 Qe7 Qb3 Ra8 Rad1 Nb6 Qa2 Re8 Rfe1 h5 b3 g5 Kh1 Qf6 Ng1 Be6 Qc2 exd4 cxd4 Qxd4 Bb5 Qc3 Qxc3 Bxc3 Re3 Bb4 Bxe8 Rxe8 Nf3 f6 Nd4 Bf7 Nb5 Rc8 f4 gxf4 Bxf4 Nd7 Bg3 b6 Rf3 Bg6 Rf4 Bf7 Rf3 Bg6 Rf4 Bf7 Nd4 Re8 Kh2 Kg7 Be1 Nc5 Bxb4 axb4 g4 Nxb3 Nf5+ Kh7 gxh5 Nc5 Rg1 Rg8 Rxg8 Bxg8 e5 fxe5 Rxb4 Be6 Nxd6 cxd6 Rxb6 e4 Kg3 e3 Kf3 Nxa4 Rxd6 Bxh3 Rc6 e2 Kxe2 Nb2 Ke3 Nd1+ Kf3 Nb2 Kf4 Nd1 Kg5 Nb2 h6 Nd1 Rc7+ Kh8 Re7 Bf1 Re8+ Kh7 Re7+ Kh8 Re8+ Kh7 Re1 Bd3 Rxd1 Be4 Rd2 Kh8 Rd8+ Kh7 Rd1 Kh8 Rd8+ Kh7 Rd2 Kh8 Rb2 Kg8 Rb8+ Kh7 Rd8 Bc2",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771670238.660117
+  "updated": 1771670523.9071994
 }
