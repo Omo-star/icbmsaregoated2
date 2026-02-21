@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2974,
-  "opponent": "AndruCaptain27UA",
+  "opponent": "ClassicLegendBot_v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 163,
-  "timestamp": "2026-02-21T10:16:26.900307",
+  "time_left": 50,
+  "timestamp": "2026-02-21T10:19:53.209282",
   "last_game": {
-    "result": "win",
-    "opponent": "AndruCaptain27UA",
+    "result": "draw",
+    "opponent": "ClassicLegendBot_v2",
     "rating_before": 2974,
     "rating_after": 2974,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Bc5 c3 a6 Bxc6 dxc6 Nxe5 Qe7 O-O Qxe5 d4 Bxd4 cxd4 Qe7 Nc3 Bd7 Bf4 Nf6 d5 cxd5 e5 Ng8 Nxd5 Qc5 Rc1",
+    "moves": "d4 Nf6 Bf4 g6 Qd2 Bg7 Nc3 d5 e3 O-O Be2 c5 Nf3 cxd4 exd4 Nc6 Rd1 Bg4 h3 Bxf3 Bxf3 e6 Ne2 b5 c3 b4 c4 Rc8 b3 Re8 O-O dxc4 bxc4 e5 Bxc6 Rxc6 dxe5 Qxd2 Rxd2 Ne4 Rd4 f5 f3 Nc5 Rd5 Ne6 Nd4 Rxc4 Nxe6 Rxe6 Rd8+ Kf7 Bg5 h6 Rd7+ Kf8 Bf6 Bxf6 exf6 Re2 Rfd1 Rcc2 R1d6 Rxg2+ Kf1 Rcf2+ Ke1 Re2+ Kd1 b3 axb3 Ref2 Rd8+ Kf7 R8d7+ Kf8 Rd8+ Kf7 R8d7+ Kf8",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1771668986.9003925
+  "updated": 1771669193.2093725
 }
