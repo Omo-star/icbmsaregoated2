@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3080,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Chess960",
+  "opponent": "CloudNetBot",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-21T08:05:42.166454",
+  "time_left": 16,
+  "timestamp": "2026-02-21T08:06:21.423716",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
+    "opponent": "CloudNetBot",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "f3 f6 c3 c6 Nab3 e5 Bf2 Nab6 e4 Bf7 d4 Nc4 Nd3 d5 dxe5 fxe5 Nd2 Nxd2+ Qxd2 dxe4 Rxe4 O-O O-O Nd6 Rh4 e4 Nc5 e3 Bxh7+ Kh8 Qc2 exf2+ Qxf2 Bc7 Be4+ Kg8 Bh7+ Kh8 Kh1 Re3 Bg6+ Kg8 Bh7+ Kh8 Bb1+ Kg8 Nxb7 Nxb7 Bh7+ Kh8 Bf5+ Kg8 Bh7+ Kh8 Bd3+ Kg8 Bh7+ Kh8",
+    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Nf3 d6 O-O a5 Bc4 a4 a3 O-O h3 h6 d4 exd4 Nxd4 Nbd7 Be3 Re8 Re1 Ne5 Bf1 c6 Nf5 Bxf5 Bxc5 dxc5 exf5 Qc8 f4 Ned7 Qd6 Qd8 Rad1 Rxe1 Rxe1 Qb6 Rb1 c4+ Kh2 Qf2 Qc7 Qxc2 Qxb7 Rb8 Qxc6 Rb3 Rd1 Rxc3 Qc8+ Kh7 Rxd7 Rxh3+ Kxh3 Qxf5+ Kg3 Nxd7 Qxc4 Nc5 Kf3 h5 Qd4 g5 Qe5 Qg4+ Ke3 Qg3+ Kd2 Nb3+ Kd1 Qf2 Bd3+ Kg8 Qe8+ Kg7 Qe5+ Kf8 Qh8+",
     "duration": 30,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771661142.1665752
+  "updated": 1771661181.4238777
 }
