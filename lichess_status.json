@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2971,
-  "opponent": "speedcoresryzenpower",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 72,
-  "timestamp": "2026-02-21T11:22:01.257971",
+  "time_left": 178,
+  "timestamp": "2026-02-21T11:23:27.014391",
   "last_game": {
     "result": "draw",
-    "opponent": "speedcoresryzenpower",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2971,
     "rating_after": 2971,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nc6 Nf3 Nf6 Bb5 Nd4 Nxd4 exd4 e5 dxc3 exf6 Qxf6 dxc3 Bc5 Qe2+ Qe6 a4 c6 Bd3 a5 Bf4 d5 h4 O-O Kf1 Bd7 h5 Rae8 h6 g6 Qd2 Bb6 b3 Qe7 f3 Bd8 c4 Qf6 Rd1 d4 c5 Be7 Bg3 Bxc5 Qxa5 Re3 Bh4 g5 Qxc5 gxh4 Bxh7+ Kxh7 Qxf8 Rxf3+ Kg1 Rg3 Rd3 Rxg2+ Kxg2 Qg5+ Kf2 Qf4+ Kg2 Qg5+ Kf2 Qf4+ Kg1 Qg4+ Kh2 Qe2+ Kg1 Qe1+ Kg2 Qe2+ Kg1 Qe1+ Kg2 Qe4+ Kf1 Qf4+ Kg1 Qc1+ Kh2 Qf4+ Kg1",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 d3 d5 cxd5 Nxd5 e4 Nb6 Be2 Be7 Be3 O-O O-O Be6 Rc1 Bf6 Nd2 Bg5 Nf3 Bf6 Nd2 Bg5 Nf3 Bf6 Nd2",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771672921.2581098
+  "updated": 1771673007.0152528
 }
