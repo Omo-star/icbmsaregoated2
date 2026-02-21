@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2968,
-  "opponent": "chessbot2880",
+  "opponent": "chess_bot_faster",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 126,
-  "timestamp": "2026-02-21T12:37:32.964563",
+  "time_left": 180,
+  "timestamp": "2026-02-21T12:38:19.838525",
   "last_game": {
-    "result": "draw",
-    "opponent": "chessbot2880",
+    "result": "win",
+    "opponent": "chess_bot_faster",
     "rating_before": 2968,
     "rating_after": 2968,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qd8 O-O Qc8 Rfb1 Bc5 f5 Bxd4+ Qxd4 Bb5 Nxb5 axb5 R7xb5 O-O R1b2 h6 a4 Qc7 h3 exf5 Rxd5 Kh7 Kh1 Rfe8 Qf4 Kg8 Kh2 Qc6 Rbb5 Qxc2 a5 Ra7 Rd6 Qa2 Rd2 Qe6 Rd6 Qa2 Rdd5 Qc2 h4 Raa8 Rdc5 Qd3 Rd5 Qc2 Rd7 Ra6 Rd6 Qe2 Rbd5 Rxd6 exd6 Re4 Qc1 Rg4 Qc8+ Kh7 Qxf5+",
+    "moves": "",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "noStart"
   },
-  "updated": 1771677452.9646685
+  "updated": 1771677499.8386006
 }
