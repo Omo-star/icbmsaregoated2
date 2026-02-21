@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2975,
-  "opponent": "varient-chess-bot1",
+  "rating": 2979,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 179,
-  "timestamp": "2026-02-21T12:48:21.333426",
+  "time_left": 39,
+  "timestamp": "2026-02-21T12:54:23.167145",
   "last_game": {
     "result": "win",
-    "opponent": "varient-chess-bot1",
-    "rating_before": 2975,
-    "rating_after": 2975,
+    "opponent": "RaspFish",
+    "rating_before": 2979,
+    "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6",
+    "moves": "c4 Nc6 d4 Nf6 Nc3 d5 Nf3 dxc4 e4 Bg4 Be3 e6 Bxc4 Bb4 Qd3 Bh5 a3 Bxc3+ bxc3 Bxf3 gxf3 O-O Rg1 Ne7 h4 c5 dxc5 Qc7 Qd6 Rfc8 Rg5 h6 Qxc7 Rxc7 Rg1 Kf8 O-O-O Re8 Rd6 Rec8 Kb2 a6 Bb3 Nc6 Rgd1 Ke7 Bf4 e5 Be3 Nb8 Rg1 Kf8 Rxf6 gxf6 Bxh6+ Ke7 Rg7 Nd7 Rxf7+ Ke8 Bd2 Rc6 Rg7 Nxc5 Bf7+ Kf8 Rh7 R6c7 h5 Ke7 Bd5+ Ke8 Rh6 Nd3+ Kc2 Nf4 Rxf6 Nxd5 exd5 Rd8 Re6+ Kf7 Rxe5 Rc5 c4 Rxc4+ Kd3 Ra4 Bb4 b5 Rf5+ Kg7 Be7 Rd7 d6 a5 Rg5+ Kh6 Rxb5 Rxa3+ Ke4 a4 Ra5 Ra2 Kd5 Rxf2 Bg5+ Kh7 Ke6 Rb7 d7 Re2+ Kd6 Rb6+ Kd5 Rb8 Ra7 Kh8 Rc7 Rb5+ Kc4 Rb8 Rc8+ Rxc8+ dxc8=Q+ Kh7 Qd7+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "timeout"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771678101.333511
+  "updated": 1771678463.1702504
 }
