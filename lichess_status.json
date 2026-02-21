@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2984,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "HugoRodri2014",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 94,
-  "timestamp": "2026-02-21T13:07:37.928974",
+  "time_left": 131,
+  "timestamp": "2026-02-21T13:10:01.385157",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "HugoRodri2014",
     "rating_before": 2984,
     "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Qc6 Ra7 Qa4 Rg8 Kg2 f5 Rfe1 Qg7 Qc2 Qf8 Bc1 h6 Rb2 Qf6 Bxh6 g5 Bxg5 Rxg5 Nxg5 Qxg5 exf5 Kb7 Qa4 Qxf5 Qc6+ Kb8 a4 a5 f4 Rb7 fxe5 Nxe5 Qe8+ Ka7 Rf2 Qg5 h4",
+    "moves": "e4 e5 Nf3 Nc6 d3 Nf6 Bg5 h6 Bxf6 Qxf6 Nc3 Bb4 Be2 O-O O-O Ne7 a3 Bxc3 bxc3 d6 Rc1 Ng6 g3 Bh3 Re1 Qe6 Nd2 f5 exf5 Rxf5 Bf1 Bxf1 Rxf1 Raf8 c4 R8f7 Qe2 Rg5 Kh1 Qh3 Qe4 Nf4 gxf4 Rxf4 Qd5+ Kh7 Qxb7 Qxh2+ Kxh2 Rh4#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771679257.9290912
+  "updated": 1771679401.3852446
 }
