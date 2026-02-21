@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2978,
-  "opponent": "ToromBot",
+  "rating": 2979,
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 178,
-  "timestamp": "2026-02-21T19:52:22.851142",
+  "time_left": 124,
+  "timestamp": "2026-02-21T19:54:54.025944",
   "last_game": {
     "result": "draw",
-    "opponent": "ToromBot",
-    "rating_before": 2978,
-    "rating_after": 2978,
+    "opponent": "BOT_Stockfish13",
+    "rating_before": 2979,
+    "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 Nbd2 c5 e3 cxd4 exd4 Qc7 c3 Nc6 h3 Bf5 Nh4 Bd7 Nhf3 Bf5 Nh4 Bd7 Nhf3 Bf5",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 O-O h3 a5 Re1 Ba7 Nbd2 Be6 Bb5 Ne7 d4 Ng6 Ba4 Nh5 Nf1 Nhf4 Be3 exd4 cxd4 d5 Bc2 dxe4 Bxe4 c6 Ng3 Bb8 Qc2 a4 Bd2 Bc7 Bxf4 Bxf4 Ne2 Bb8 Nc3 Qa5 Rad1 Qh5 Bxg6 hxg6 Qe4 Rd8 d5 cxd5 Qb4 Bd6 Qxb7 Rab8 Qa6 Rxb2 Qxa4 Qf5 Qc6 Bf8 Re2 Rb4 Re5 Rd6 Qxd6 Bxd6 Rxf5 gxf5 g3 Rb2 Nxd5 Bc5 Ne3 Bxa2 Ne1 Rb1 Rxb1 Bxb1 Kf1 Be4 Ke2 g6 Nd3 Bd6 h4 Kg7 h5 gxh5 f3",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771703542.8512232
+  "updated": 1771703694.026048
 }
