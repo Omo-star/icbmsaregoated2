@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2972,
-  "opponent": "NewChessEngine-ai",
+  "opponent": "botacik_bot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 86,
-  "timestamp": "2026-02-21T18:06:32.029243",
+  "time_left": 59,
+  "timestamp": "2026-02-21T18:08:51.158274",
   "last_game": {
     "result": "draw",
-    "opponent": "NewChessEngine-ai",
+    "opponent": "botacik_bot",
     "rating_before": 2972,
     "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 Bf4 c5 e3 Nc6 dxc5 e6 c4 Bxc5 a3 O-O Nbd2 h6 Bg3 Be7 Bd3 Nh5 O-O Bf6 Qc2 Nxg3 hxg3 Bd7 Rad1 g6 cxd5 exd5 Nb1 Rc8 Nc3 Qa5 Qb1 Ne7 Nd4 Bxd4 exd4 Kg7 Rfe1 Ng8 Qc1 Qb6 Be2 Nf6 Bf3 Be6 Qc2 Rc6 Qd2 Rfc8 Re5 Qd8 Be2 h5 f3 Nd7 Re3 a6 Bd3 Qg5 Qf2 Rb6 Na4 Rbc6 Nc3 Qf6 Bc2 Rd6 Ree1 Nb8 Qd2 Nc6 Ne2 b5 b4 a5 Bb3 axb4 axb4 Ne7 Rc1 Rxc1 Rxc1 Ra6 Kh2 Ra3 Qb2 Ra8 Qd2 Ra3 Qb2 Ra8 Qd2 Ra3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Nce2 a4 Nxc6 Bg5 Ncd4 axb3 axb3 Ra2 Bc1 Nxe5 Rc3 Bf6 f4 Nd7 f5 Bd5 Bf4 Nc5 b4 Na6 Nb5 Bxc3 Nexc3 Bf3 Rf1 Rxc2 Rxf3 Rd8 Na3 Rb2 b5 Nb4 Nc4 Rc2 Na3 Rb2 Nc4 Rb3 f6 g5 Bxc7 Kxc7 Nd5+ Rxd5 Rxb3 Nc2 Rc3 Nd4 Re3 Rd7 Ne5 Rd6 Nxf7 Rxf6 Re7+ Kc8 Re8+ Kb7 Re7+ Kb8 Re8+ Ka7 Re7+ Kb8 Re8+ Kc7 Re7+ Kc8 Re8+ Kb7 Re7+ Ka8 Re8+ Ka7 Re7+ Ka8 Re8+ Ka7",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771697192.029423
+  "updated": 1771697331.1583385
 }
