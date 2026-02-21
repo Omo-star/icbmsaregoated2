@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 139,
-  "timestamp": "2026-02-21T15:06:26.156086",
+  "time_left": 131,
+  "timestamp": "2026-02-21T15:07:51.606536",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "opponent": "ToromBot",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 Nh4 Re1 Bf5 g3 Ng6 h4 Qd7 h5 Ne7 h6 Rfe8 Nf3 Bg4 Bd2 gxh6 Bxh6 Qf5 Bg2 Qh5 Bd2 c6 Qe2 Ng6 Qd3 Bf5 Qf1 Nf8 Bf4 Ng6 Bd6 Kg7 Nh2 Qg5 Nf3 Qh5 Nh2 Qg5 Nf3 Qh5",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 c6 Bg2 dxc4 Ne5 Bb4+ Bd2 Be7 e3 b5 a4 b4 O-O O-O a5 Nd5 Nxc4 Ba6 b3 Nd7 e4 Nc7 Re1 Rc8 Ra2 Nb5 Bf4 Bg5 Bd6 Be7 Bf4 Bg5 Bd6 Be7 Bf4",
     "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771686386.1561866
+  "updated": 1771686471.6066263
 }
