@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2981,
-  "opponent": "stockfish2threadtest",
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 62,
-  "timestamp": "2026-02-21T19:05:10.364225",
+  "time_left": 133,
+  "timestamp": "2026-02-21T19:07:54.459991",
   "last_game": {
     "result": "draw",
-    "opponent": "stockfish2threadtest",
+    "opponent": "NewChessEngine-ai",
     "rating_before": 2981,
     "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 d6 Qb3 Qd7 O-O Bb6 Nbd2 Na5 Qc2 Qe7 Be2 Nf6 Ba3 Nd7 Kh1 Nc6 Nc4 exd4 e5 Bc5 exd6 cxd6 Bxc5 dxc5 Rae1 Nf6 Na5 O-O Nxc6 bxc6 cxd4 cxd4 Nxd4 Qa3 Nxc6 Bd7 Bf3 Rae8 Rc1 h5 Qb3 Qxb3 axb3 Re6 Rfd1 Bxc6 Bxc6 Rb8 Ba4 g6 Kg1 Kg7 Re1 Rxe1+ Rxe1 a6 g3 Rc8 h4 Rc2 Kf1 Ng4 Re2 Nh2+ Ke1 Rc3 Kd2 Rf3 Ke1 Rc3 Re4 Rc1+ Kd2 Ra1 Re2 Ng4 Bc6 Ra2+ Ke1 Ra1+ Kd2 Ra2+ Ke1 Ra1+ Kd2",
+    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qd8 O-O Rc8 f5 exf5 Rfb1 Qa5 Qg5 Be6 Ne2 h6 Qg3 g5 c3 f4 Qf3 Bc5 h4 Bxd4+ Nxd4 Rxc3 Qd1 Bc8 e6 Bxb7 exf7+ Kxf7 Rxb7+ Rc7 Qh5+ Kf8 Ne6+ Ke7 Rxc7+ Kd6 Rc1 Qd2 Rd1 Qe3+ Kf1 Qxe6 Re1 Qf6 Qe2 Rc8 hxg5 hxg5 Qxa6+ Rc6 Qa7 f3 Qb8+ Kd7 Qa7+ Rc7 Qa4+ Rc6 Qa7+ Rc7 Qa4+ Rc6 Qb5 fxg2+ Kxg2 Qd4 Qb7+ Rc7 Qb5+ Rc6 Qe2 Qc4 Qe7+ Kc8 Qf8+ Kb7 Qe7+ Ka6 Qa3+",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771700710.3644218
+  "updated": 1771700874.460215
 }
