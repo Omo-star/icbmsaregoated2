@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2972,
-  "opponent": "speedcoresryzenpower",
+  "opponent": "ClassicLegendBot_v3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 59,
-  "timestamp": "2026-02-21T10:58:53.792026",
+  "time_left": 99,
+  "timestamp": "2026-02-21T11:02:09.577486",
   "last_game": {
     "result": "draw",
-    "opponent": "speedcoresryzenpower",
+    "opponent": "ClassicLegendBot_v3",
     "rating_before": 2972,
     "rating_after": 2972,
     "rating_delta": 0,
-    "moves": "Nf3 c6 e4 d5 Nc3 dxe4 Nxe4 Nf6 Qe2 Na6 d4 Nxe4 Qxe4 Qd5 Qxd5 cxd5 Ne5 Nb8 a4 a6 c3 f6 Nd3 Nc6 Be3 Bf5 Be2 e6 g4 Be4 f3 Bxd3 Bxd3 Kf7 h4 h5 g5 Ne7 Ke2 Ng6 b3 Bd6 Bxg6+ Kxg6 c4 Be7 a5 Kf5 f4 dxc4 bxc4 Rac8 c5 Rhd8 Rab1 Rd7 Rb3 Rcc7 Rhb1 Bd8 Bg1 Ke4 Be3 Kf5 R3b2 Ke4 Rb6 Kf5 R6b2 Ke4 Rb4 Kf5 Rb6 Be7 R1b3 Bd8 R6b4 Rf7 Rb2 Rcd7 Ra4 Rd5 Ra1 Rc7 Rf1 Rdd7 Re1 Rd5 Reb1 Rdd7 Rb6 Rf7 R6b2 Rfd7 Ra2 Rd5 Ra4 e5 dxe5 fxe5 fxe5 Rxe5 Rb6 Rc6 Rxb7 Rce6 Ra3 Rxc5 Rxg7 Rxa5 Rxa5+ Bxa5 Kd3 Be1 Rh7 Bxh4 Rxh5 Rxe3+ Kxe3 Bxg5+ Kd4 Kg6 Rh2 Kg7 Ra2 Kh8 Ke5 Kh7 Rxa6 Kg7 Kf5 Bd8 Ra7+ Kf8 Ke6 Bg5 Rc7 Kg8 Kf5 Be3 Rd7 Kf8 Kf6 Bb6 Rf7+ Ke8 Ke6 Kd8 Rd7+ Kc8 Kd6 Kb8 Kc6 Ba5 Rb7+ Ka8 Re7 Kb8 Re4 Bd2 Re8+ Ka7 Re7+ Kb8 Rb7+ Ka8 Rb2 Bh6",
+    "moves": "d4 d5 Nf3 Nf6 Bf4 c5 e3 Nc6 Be2 cxd4 exd4 Bf5 c3 a6 Nh4 Be4 Nd2 e6 Nxe4 dxe4 g3 h6 Bc1 Qc7 Ng2 Rd8 Qb3 Bd6 Be3 O-O O-O Na5 Qc2 Nc6 Rad1 Rd7 a4 Rc8 Rfe1 Rb8 Nf4 Nb4 Qb3 Nbd5 Ng2 Nxe3 Nxe3 h5 Bf1 g6 Bg2 b5 axb5 axb5 Nf1 b4 c4 Bf8 Bxe4 Qa7 c5 Rbd8 Bf3 Rxd4 Rxd4 Rxd4 c6 Qc5 Re2 Rc4 Ne3 Rc1+ Kg2 Bd6 h4 Qd4 Rc2 Rxc2 Nxc2 Qb6 Qc4 Ne8 Ne1 Kg7 Nd3 Kf8 Qe4 Nf6 Qc4 Ne8 Qe4 Nf6 Qc4 Ne8",
     "duration": 180,
     "bot_color": "black",
-    "termination": "insufficientMaterialClaim"
+    "termination": "draw"
   },
-  "updated": 1771671533.7920926
+  "updated": 1771671729.5775952
 }
