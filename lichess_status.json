@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2974,
-  "opponent": "GGWorld",
+  "rating": 3080,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 300,
-  "timestamp": "2026-02-20T15:20:00.025777",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-02-21T07:20:46.884543",
   "last_game": {
     "result": "draw",
-    "opponent": "GGWorld",
-    "rating_before": 2974,
-    "rating_after": 2974,
+    "opponent": "PositionalAI",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 300,
-    "bot_color": "black",
-    "termination": "aborted"
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qd6 Qc2 Rbc8 Qd2 Qb8 Qd3 Bd6 Nf3 b5 Qd2 Kg6 Ne1 Kg7 Nd3 Ng4 b4 Ne3 Qxe3 Rxc3 Qf2 f5 e3 Bg8 Qd2 Qc7 Rc1 Rxc1 Rxc1 Qe7 Re1 h5 Qa2 Qf7 Qc2 Qf6 Qf2 Re8 Nc5 Re7 Rf1 Qg6 Qxf5 Rxe3 Qf2 Rxa3 Nd7 h4 gxh4 gxh4 Kh1 h3 Bxh3 Rxh3 Rg1 Rxh2+ Qxh2 Bxh2 Kxh2 Qxg1+ Kxg1 Be6 Ne5 Kf6 Kf2 Ke7 Nc6+ Kd6 Na5 Bc8 Ke3 Bf5 Kf4 Bb1 Kg4 Be4 Kf4 Bb1 Nb3 Ba2 Na5 Kd7 Kf5 Kd6 Kf4 Bb1",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771600800.0258534
+  "updated": 1771658446.884622
 }
