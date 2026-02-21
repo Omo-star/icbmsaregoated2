@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2970,
-  "opponent": "RaspFish",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 85,
-  "timestamp": "2026-02-21T12:42:17.612042",
+  "time_left": 180,
+  "timestamp": "2026-02-21T12:43:06.601033",
   "last_game": {
-    "result": "draw",
-    "opponent": "RaspFish",
+    "result": "win",
+    "opponent": "CloudNetBot",
     "rating_before": 2970,
     "rating_after": 2970,
     "rating_delta": 0,
-    "moves": "d4 d5 Bf4 c5 e3 cxd4 Bb5+ Bd7 Bxd7+ Nxd7 exd4 e6 a4 Ne7 Ne2 Nf5 Qd3 Rc8 O-O Be7 a5 O-O a6 b6 c3 Nf6 Nd2 Nd6 Rfb1 Nfe4 Nc1 b5 Ncb3 Nxd2 Nxd2 Qb6 Nf3 Rfd8 g3 h6 h4 Nc4 b3 Nd6 h5 Nf5 Kg2 Qc6 g4 Nh4+ Nxh4 Bxh4 Ra5 Qxc3 Qxc3 Rxc3 Rxb5 Rc2 Be3 Ra2 Rc1 Rxa6 Rb7 Rf8 Rcc7 Bd8 Rxa7 Bxc7 Rxa6 Rb8 Ra7",
+    "moves": "e4",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "noStart"
   },
-  "updated": 1771677737.612143
+  "updated": 1771677786.6011198
 }
