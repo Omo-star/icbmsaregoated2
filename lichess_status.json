@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2977,
-  "opponent": "C0kval",
+  "opponent": "ClassicLegendBot_v3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 131,
-  "timestamp": "2026-02-21T09:20:19.862328",
+  "time_left": 30,
+  "timestamp": "2026-02-21T09:25:09.476668",
   "last_game": {
-    "result": "win",
-    "opponent": "C0kval",
+    "result": "draw",
+    "opponent": "ClassicLegendBot_v3",
     "rating_before": 2977,
     "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 Qa4 Be7 d3 O-O Be3 d5 cxd5 Nxd5 Qe4 Be6 Nxe5 Nxe5 Qxe5 Bf6 Qe4 Nxc3 Qxb7 Rb8 Qc6 Rxb2 Bxa7 Nb5 Bc5 Bc3+ Kd1 Nd4 Bxd4 Qxd4 e3 Rd2+ Kc1 Qb4 Qb7 Bb2+ Kb1 Rd1+ Kc2 Qd2#",
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nc3 Nf6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qb6 c4 Bb4+ Ke2 f5 exf6 Nxf6 Be3 Qd8 Nd6+ Bxd6 Qxd6 Bb7 Rd1 Rc8 g4 c5 Rg1 Rc6 Qe5 O-O g5 Nh5 Bh3 d6 Qxe6+ Kh8 Rgf1 Rb6 b3 Ra6 Qg4 Rxa2+ Rd2 Rxd2+ Bxd2 Qe8+ Kd1 Qe4 Qxh5 Qd3 Ke1 g6 Qe2 Qxh3 Qe7 Kg8 f5 gxf5 Rf2 Qxb3 Qe6+ Kh8 Rxf5 Qb1+ Ke2 Rxf5 Bc3+ Re5+ Bxe5+ dxe5 Qxe5+ Kg8 Qe6+ Kf8 Qf6+ Kg8 Qd8+ Kf7 Qf6+ Ke8 Qe6+ Kd8 Qd6+ Ke8 Qe6+ Kd8 Qd6+ Kc8 Qf8+ Kd7 Qf7+ Kd8 Qf8+ Kd7 Qg7+ Ke8 Qe5+ Kd7 Qg7+ Kd8 Qh8+ Kc7 Qe5+ Kb6 Qd6+ Bc6 Qb8+ Bb7 Qd6+ Bc6 Qb8+ Bb7 Qd6+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771665619.8623915
+  "updated": 1771665909.4767723
 }
