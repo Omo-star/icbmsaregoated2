@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "Bishop_0N0N",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 116,
-  "timestamp": "2026-02-21T13:23:33.918426",
+  "time_left": 172,
+  "timestamp": "2026-02-21T13:24:36.328659",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "Bishop_0N0N",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 c5 Nf3 e6 c3 Nc6 Bd3 Nge7 O-O cxd4 cxd4 Nf5 Be3 Nb4 Be2 Nxe3 fxe3 Be7 Nc3 Nc6 Bd3 Bd7 a3 O-O Ne2 f6 Qb1 f5 h3 Kh8 Qe1 g5 g4 Rf7 Qg3 Qg8 Rf2 Raf8 Raf1 Bd8 Qh2 Ne7 h4 Rg7 hxg5 fxg4 Nh4 Nf5 Bxf5 exf5 Nxf5 Bxf5 Rxf5 Rxf5 Rxf5 Bxg5 Qf2 Qe6 Rf8+ Rg8 Rxg8+ Kxg8 Nf4 Bxf4 Qxf4 Qg6 Kh2 h5 Kg3 Kg7 Kh4 Qf7 b3 Qxf4 exf4 Kg6 e6 Kf6 f5 a5 Kg3 Ke7 Kf4 Kd6 Kg5 Ke7 Kf4 Kf6 Kg3 Ke7 Kh4 Kf6 a4 Ke7 Kg3 Kd6 Kf4 b6 Kg5 Ke7",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Be7 O-O d6 c3 O-O a4 Bg4 h3 Bh5 a5 a6 Nbd2 b5 axb6 cxb6 g4 Bg6 Rxa6 Rxa6 Bxa6",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771680213.9185832
+  "updated": 1771680276.3287506
 }
