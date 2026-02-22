@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "Jibbby",
+  "rating": 2983,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+3",
-  "time_left": 347,
-  "timestamp": "2026-02-22T12:08:05.962837",
+  "time_control": "TC: 3+0",
+  "time_left": 97,
+  "timestamp": "2026-02-22T12:11:14.491417",
   "last_game": {
-    "result": "win",
-    "opponent": "Jibbby",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "result": "draw",
+    "opponent": "ToromBot",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 c5 d4 cxd4 Qxd4 Nc6 Qc3 Nf6 Nd2 e5 a3 d5 Bb5 Be7 Qxe5 O-O Qf4 Nd4 Bd3 dxe4 Nxe4 Nxe4 Qxe4 Bf5 Qe3 Re8 Bxf5 Nxf5 Qe2 Bc5 c3 Qb6 Be3 Bxe3 fxe3 Nxe3 Rb1 Nxg2+ Kf1 Rxe2 Nxe2 Re8 Ng3 Qc6 h4 Qf3+ Kg1 Nf4 Rh2 Qxg3+ Kf1 Qxh2 Re1 Qg2#",
-    "duration": 762,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Qe1 Nd6 Bxc6 dxc6 Qxe5+ Qe7 Qc3 Be6 Re1 Nf5 d3 h6 Nd4 Nxd4 Qxd4 a6 Nd2 Rg8 Nb3 Qd7 Bf4 b6 Qxd7+ Kxd7 Nd4 Bg4 h3 Bh5 g4 Bg6 Re2 h5 Rae1 hxg4 hxg4 Rh8 Kg2 Bb4 c3 Bc5 b4 Bf8 Nb3 Rd8 f3 Kc8 d4 Bd3 Re8 Kd7 Rxd8+ Kxd8 a4 Kd7 a5 f6 Kf2 Bc2 Nd2 bxa5 bxa5 Ba3",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771762085.9629204
+  "updated": 1771762274.4915023
 }
