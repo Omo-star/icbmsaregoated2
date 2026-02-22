@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3026,
-  "opponent": "PositionalAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 592,
-  "timestamp": "2026-02-22T09:39:53.028901",
+  "rating": 3085,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: \u00bd+1",
+  "time_left": 30,
+  "timestamp": "2026-02-22T09:40:04.888075",
   "last_game": {
-    "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3026,
-    "rating_after": 3026,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3085,
+    "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Kh3 Ra8 Kg2 Ra6 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 f3 Nd6 Kg3 Rg1+ Kh2 Rb1 Kg3 Rg1+ Kf2 Rb1 Kg3",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Na3 e6 b3 Qh4 c4 Qxf2+",
+    "duration": 36,
+    "bot_color": "black",
+    "termination": "variantEnd"
   },
-  "updated": 1771753193.0290024
+  "updated": 1771753204.8881297
 }
