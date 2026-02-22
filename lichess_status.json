@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "ISARFish",
+  "rating": 3030,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+2",
-  "time_left": 224,
-  "timestamp": "2026-02-22T11:43:51.282174",
+  "time_control": "TC: 10+0",
+  "time_left": 451,
+  "timestamp": "2026-02-22T11:49:39.411133",
   "last_game": {
     "result": "draw",
-    "opponent": "ISARFish",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "PositionalAI",
+    "rating_before": 3030,
+    "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 h4 h6 Nf3 Nd7 h5 Bh7 Bd3 Bxd3 Qxd3 e6 Bf4 Bb4+ c3 Be7 O-O-O Qa5 Kb1 Ngf6 Ne5 O-O Ne4 Nxe4 Qxe4 Rad8 Nd3 Qb5 g4 c5 dxc5 Nxc5 Nxc5 Bxc5 f3 Ba3 Bc1 a6 f4 Be7 Kc2 Rfe8 a3 Kh8 Rhg1 f5 a4 Qb6 Be3 Bc5 Bxc5 Qxc5 gxf5 exf5 Qxb7 Qf2+ Kb1 Rxd1+ Rxd1 Qxf4 Rd4 Qg5 Qf7 Rb8 a5 Qg1+ Ka2 Qf2 Rb4 Rxb4 cxb4 Qc2 Qe8+ Kh7 Qg6+ Kh8 Qe8+ Kh7 Qg6+ Kh8 Qxa6 Qa4+ Kb1 Qd1+ Ka2 Qa4+ Kb1 Qd1+ Ka2 Qa4+ Kb1",
-    "duration": 798,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 d4 exd4 Bxc6 dxc3 Ba4 Bxf2+ Kh2 Bxe1 Qxe1 Qc5 bxc3 d5 e5 Ne4 Bb2 Ra6 Rc1 f5 exf6 Nxf6 Ng3 Bf7 Nf5 Re6 Ne5 b5 c4 bxa4 Bd4 Qb4 Qg3 Nh5 Qg4 Kh7 cxd5 Rg6 Nxg6 Bxg6 Nh4 Qd6+ g3 Bf7 Qe4+ g6 Be5 Qxd5 Qxd5 Bxd5 Rxc7+ Rf7 Rxf7+ Bxf7 a3 Bd5 g4 Ng7 Ng2 Bxg2 Kxg2 h5 Bxg7",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771760631.2822359
+  "updated": 1771760979.4112225
 }
