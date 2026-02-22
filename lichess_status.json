@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "Moment-That-Inspires",
-  "variant": "Variant: Standard",
+  "rating": 3077,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Crazyhouse",
   "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2026-02-22T13:54:12.918395",
+  "time_left": 24,
+  "timestamp": "2026-02-22T13:54:29.917268",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 c3 Be7 Nbd2 O-O Bc2 f5 Nb3 Qd7 Nfd4 Nxd4 Nxd4 c5 Nxe6 Qxe6 f3 Ng5 Bxg5 Bxg5 f4 Be7 Qf3 Rad8 Rad1 c4 Kh1 Bc5 Rd2 Rd7 Rfd1 Rfd8 h4 g6 h5 Kg7 b4 Bb6 Qh3 d4 cxd4 Bxd4 Qh4 Kf8 a4 Qe7 Qh3 Kg8 Qg3 Kf8 Qh3 Kg8 axb5 axb5 g4 Bb6 Rxd7 Rxd7 Rxd7 Qxd7 hxg6 hxg6 gxf5 Qd2 Qg4 Qxc2 Qxg6+ Kf8 Qh6+ Kg8 Qg5+ Kf8 Qf6+ Kg8 Qg6+ Kh8 Qh5+ Kg8 Qg5+ Kh8 Qf6+ Kg8 Qe6+ Kh8 Qh6+ Kg8 Qe6+ Kh8 Qe8+ Kg7 Qg6+ Kh8 Qxb6 Qxf5 Qd6 c3",
+    "moves": "g3 e5 h3 Nc6 Rh2 d5 a4 Nf6 d3 Bc5 g4 Bxg4 Bd2 @g3 Bg2 gxf2+ Kf1 fxg1=Q#",
     "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1771768452.9184804
+  "updated": 1771768469.9173548
 }
