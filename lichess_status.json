@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3025,
-  "opponent": "ArasanX",
+  "rating": 3083,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 153,
-  "timestamp": "2026-02-22T11:00:51.862099",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2026-02-22T11:01:55.784896",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3025,
-    "rating_after": 3025,
+    "opponent": "CloudNetBot",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Qh4 g3 Qh3 Be3 Bxd3 Nd2 Qf5 Bd4 Rfe8 a4 h6 Kg2 Qxf3+ Nxf3 Rac8 axb5 axb5 Rxe8+ Rxe8 Bxd5 cxd5 Ra6 Re6 Ne5 Rxe5 Rxd6 Re2 b4 h5 Kh3 Re4 Kg2 Re2 g4 hxg4 Kg3 Re4 Rxd5 Bc4 Rg5 g6 Rc5 Kf8 Rc7 Ke8 Rb7 Be2 Ra7 Bf1 Kh4 Bc4 Rc7 Be6 Rc5 Bc4 Rc7 Be6 Kg5 Ba2 Rb7 Bc4 Bf6 Re2 Bd4 Re4 Rc7 Kd8 Bb6 Ke8 Bd4 Kd8 Bb6 Ke8 Ra7 Bd5 Bd4 Kd8 Bb6+ Ke8 Bd4 Kd8 Bf6+ Kc8 Bh8 Bc4 Bd4 Kb8 Rd7 Kc8 Ra7 Kb8 Rd7 Kc8 Ra7",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "Nf3 d5 d4 Nf6 Bf4 Bf5 Nbd2 e6 e3 Bd6 Ne5 Qe7 c4 Nbd7 Be2 h6 Nxd7 Qxd7 Bxd6 Qxd6 O-O c6 c5 Qe7 b4 a6 a4 O-O Nb3 Rfe8 Na5 Qc7 Nb3 e5 b5 axb5 axb5 cxb5 Bxb5 Rec8 Rxa8 Rxa8 dxe5 Qxe5 Nd4 Be4 f3 Bf5 Qb3 g6 Re1 Rc8 Qb4 Rc7 Bf1 Bd7 g3 Be8 Nb3 Rc8 Qd4 Qe7 Kf2 h5 Ra1 Nd7 Qxd5 Nxc5 Rc1 b6 Nxc5 bxc5 Rd1 Rb8 Rd2 Ba4 Bc4 Kg7 e4 Rb7 Ke3 Rd7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771758051.862264
+  "updated": 1771758115.785047
 }
