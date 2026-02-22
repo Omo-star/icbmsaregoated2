@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3085,
-  "opponent": "worst_colinbot",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: \u00bd+1",
-  "time_left": 30,
-  "timestamp": "2026-02-22T09:40:04.888075",
+  "opponent": "abcd_engine",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 14,
+  "timestamp": "2026-02-22T09:41:45.448256",
   "last_game": {
-    "result": "win",
-    "opponent": "worst_colinbot",
+    "result": "draw",
+    "opponent": "abcd_engine",
     "rating_before": 3085,
     "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "Na3 e6 b3 Qh4 c4 Qxf2+",
-    "duration": 36,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 O-O Re1 Ng4 Rf1 Na5 Bb5 Bb6 h3 Nf6 Re1 c5 Be3 a6 Ba4 Ba7 Qe2 b5 Bc2 Nc6 Nbd2 h6 a4 b4 Nc4 Be6 a5 Qc7 Qd2 Nxe4 dxe4 Bxc4 Nh4 f6 Bd1 d5 exd5 Rad8 cxb4 Bxd5 Bxc5 Bxc5 bxc5 Bxg2 Bb3+ Rf7 Bxf7+ Qxf7 Qe3 Bd5 Rad1 Qd7 Ng6 Qf5 Qg3 Qg5 Kh2 Kf7 Nh8+ Ke6 Ng6 Kf7 Nh4 Nd4 Qg4 Be6 Qe4 Bd5 Qg4 Be6 Qe4 Bd5 Qg4",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771753204.8881297
+  "updated": 1771753305.4483662
 }
