@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "CloudNetBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-22T08:10:08.139450",
+  "rating": 2983,
+  "opponent": "OSaurus",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+4",
+  "time_left": 74,
+  "timestamp": "2026-02-22T08:12:43.171996",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "result": "win",
+    "opponent": "OSaurus",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Bb4 cxd5 exd5 Bf4 c5 dxc5 Nf6 e3 O-O Bd3 Bxc3+ bxc3 Nbd7 Bd6 Re8 Ne2 Qa5 a4 Nxc5 Bb5 Ncd7 O-O a6 Bd3 Nc5 Bxc5 Qxc5 Rb1 Re7 h3 Bd7 Rb4 a5 Rf4 Rc8 c4 dxc4 Rxc4 Qg5 f4 Qh5 Rxc8+ Bxc8 Qc2 Bxh3 gxh3 Qxh3 Qc5 Re8 Bf5 Qxe3+ Qxe3 Rxe3 Kf2 Ra3 Rb1 Rxa4 Rxb7 g6 Bc2 Ra3 Bb3 Ne4+ Kg2 Nd6 Rb6 Nf5 Rb7 Nd6 Rd7 Rxb3 Rxd6 a4 Ng1 a3 Ra6 Rb2+ Kg3",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Be7 Nc3 Nf6 d4 exd4 Nxd4 d5 Bxd5 Nxd4 Qxd4 @e6 @g6 hxg6 @h6 gxh6 N@c6 @h3 Rg1 hxg2 Qd3 bxc6 Bxc6+ Bd7 Bxd7+ Qxd7 @g7 Rg8 B@b5 @c6 Qh3 N@d4 Rxg2 Nxc2+ Kf1 cxb5 @e2 Nxa1 Rxg6 fxg6",
+    "duration": 236,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1771747808.1395464
+  "updated": 1771747963.1720831
 }
