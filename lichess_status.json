@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 34,
-  "timestamp": "2026-02-22T07:27:10.262007",
+  "rating": 2983,
+  "opponent": "OSaurus",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+4",
+  "time_left": 60,
+  "timestamp": "2026-02-22T07:27:42.568332",
   "last_game": {
-    "result": "win",
-    "opponent": "Cheszter",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "result": "draw",
+    "opponent": "OSaurus",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Be7 Nc3 O-O Bg2 Bb7 O-O c6 e4 d5 cxd5 cxd5 e5 Ne4 h4 Nc6 Bf4 Nxc3 bxc3 Rc8 Re1 Na5 Qc2 Qc7 Rac1 Ba6 g4 b5 Bf1 Qb7 Bg5 Ba3 Bf6 Bxc1 Qxc1 h6 h5 b4 Qf4 Bxf1 g5 gxf6 Qxf6 Kh7 Qxh6+ Kg8 Qf6 Kh7 Kxf1 Qa6+ Kg2 Qd3 g6+ Kg8 g7 Qf5 Qxf5 exf5 gxf8=Q+ Rxf8 cxb4 Nc6 b5 Nb4 Nh4 Nd3 Rg1 Kh8 Kf3 Rc8 Nxf5 Rc3 Rg7 Nxe5+ Kf4 Nd3+ Kg5 Rc1 Kh6 Re1 Rxf7 Re6+ Kg5 Nxf2 Rxa7 Nh3+ Kg4 Nf2+ Kf4 Nh3+ Kg3 Ng5 Ra8+ Kh7 Ra6 Re1 Ra7+ Kg8 Rg7+ Kh8 Rxg5 Rb1 Rg6 Rxb5 Ra6 Rb2 Ra7 Kg8 h6 Rb6 Kf4 Rb1 Nh4 Rf1+ Kg5 Rf7 Ra8+ Rf8 h7+ Kf7 Rxf8+ Kxf8 h8=Q+ Ke7 Qc8 Kf7 Qd7+ Kg8 Kf6 Kh8 Qg7#",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1771745230.2620778
+  "updated": 1771745262.5684147
 }
