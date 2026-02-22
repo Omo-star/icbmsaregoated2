@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "AlwaysPlayMystery",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 120,
-  "timestamp": "2026-02-22T09:55:13.274789",
+  "rating": 3084,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 47,
+  "timestamp": "2026-02-22T09:58:34.889000",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "opponent": "Bharat_royals",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Re3 a5 b3 cxb3 Qxb3 Re6 Rae1 Rc8 Bf1 Nd6 Bxd6 Rxe3 Rxe3 Qxd6 Bg2 Kg7 h4 Be6 Bf1 Be7 Qb1 Bd7 Qb3 Be6 Bg2 Bf6 Bf1 Kh7 Kh2 Bg4 Bg2 Kg7 Ne5 Be6",
-    "duration": 180,
+    "moves": "e4 e5 Nb3 Nb6 d4 exd4 Nxd4 Nc6 Nxc6 dxc6 f4 Bc5+ Nf2 Qe7 h3 Be6 Kh2 O-O-O Nd3 Bd4 a4 Nd7 c3 Bb6 b4 a6 a5 Ba7 Be3 Bxe3 Qxe3 Kb8 Be2 g5 Rhe1 gxf4 Nxf4 Ne5 Nxe6 Qxe6 Rf1 Rhg8 Rf5 Rg6 Rg1 Rdg8 g3 f6 Qf2 Qe7 h4 Rd8 Rd1 Rdg8 Rg1 Nd7 Qf4 Qe6 c4 Ne5 Bh5 Nd3 Qd2 Ne5 Qf4 Ng4+ Bxg4 Rxg4 Rxf6 Qxc4 Rf8+ Rxf8 Qxf8+ Ka7 Qc5+ Qxc5 bxc5 Rxe4 Rf1 Ra4 Rf5 Rxa5 Rh5 Ra2+ Kh3 a5 Rxh7 a4 Rxc7 Ra1 Rf7 a3 Rf2 b5 cxb6+ Kxb6 Rh2 c5 h5 c4 g4 Rg1 h6 a2 Rxa2 Rh1+ Kg2 Rxh6 g5 Rh4 g6 c3 g7 Rg4+ Kf2 Rxg7 Rc2 Rg8 Kf3 Rh8 Ke4 Rg8 Ke5 Rh8 Kd5 Rg8 Ke5 Rh8 Kd5 Rg8 Ke5 Rh8",
+    "duration": 264,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771754113.274881
+  "updated": 1771754314.8890588
 }
