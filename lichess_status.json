@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3025,
-  "opponent": "Fischer_Bot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 10+2",
-  "time_left": 786,
-  "timestamp": "2026-02-22T10:32:11.611826",
+  "rating": 3084,
+  "opponent": "abdcebot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 23,
+  "timestamp": "2026-02-22T10:32:31.039226",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 3025,
-    "rating_after": 3025,
+    "opponent": "abdcebot",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "g3 a5 a4 d6 f4 Bd7 d3 Nc6 Bxc6 bxc6 b3 f5 Bc3 Nf6 Ne3 Be6 Nf3 g6 Ng5 Bg8 Nc4 Qa7 Bd4 Qa8 Bc3 Qa7 Nxa5 Kd7 O-O-O Qe3+ Rd2 c5 Rf3 Qg1+ Rd1 Qxh2 Kd2 Bd5 Rh1 Qg2 Rg1 Qh2 Rh1 Qg2 Rg1 Qh2 Qf1 Bxf3 Nxf3 Qh6 Ng5 Nd5 Bxh8 Rxh8 e4 Nb4 c3 Nc6 Nxc6 Kxc6 Nf7 Qh2+ Rg2 Qh3 Nxh8 fxe4 Nf7 Rxb3 Kc2 Ra3 Kb2 Rxa4 dxe4 Qc8 Qd1 Qa6 Qd5+ Kd7 Ne5+ Kc8 Nd3 Ra1 Qg8+ Kd7 Nxc5+ dxc5 Rd2+ Kc6 Qd5+ Kb6 Qb3+ Kc6 Qe6+ Kb5 Qb3+ Kc6 Qe6+ Kb7 Qxa6+ Rxa6 Kb3 Kc6 Rh2 h5 f5 Kd7 Rd2+ Ke8 Kc4 Ra4+ Kxc5 Rxe4 fxg6 Rg4 Kc6 Rc4+ Kb5 Rg4 Kc6 Rxg6+ Kxc7 Rxg3 c4 h4 c5 h3 c6 e6 Kd6 Rg2 Rd4 h2 c7 Rc2 Rh4 Rd2+ Kc6 Rc2+ Kd6 Rd2+ Kxe6 Re2+ Kd6 Rd2+ Kc5 Rc2+ Kb6 Rb2+ Kc5 Rc2+ Kd5 Rxc7 Ke6 Kf8 Kd5 Kg8 Rxh2 Kf8 Rh6 Kg8 Rh4 Kf8 Rh3 Kg8 Rg3+ Kh8 Kd4 Kh7 Ra3 Kh8 Ra8+ Kh7 Ke4 Kg7 Ke5 Kh7 Ra5 Kh8 Kf6 Kg8 Ra6 Kh8 Ra4 Kg8 Re4 Kh8 Ke5 Kg8 Kd5 Kh8 Rf4 Kg8 Rh4 Kf8 Rh5 Kg8 Re5 Kh8 Re4 Kg8 Kd6 Rc8 Re7 Kh8 Ke6 Kg8 Kf6 Kh8 Rb7 Kg8 Rb2 Kh8 Rb7 Kg8 Rb4 Kh8 Rb5 Kg8 Rb2 Kh8 Rb6 Kg8 Ke7 Kh8 Rg6 Kh7 Rg2 Rg8 Re2 Rc8 Rf2 Rg8 Rb2 Rc8 Rb7 Rh8 Ra7 Rg8 Kf6+ Kh8 Re7 Rf8+ Kg6 Kg8 Rh7 Re8 Rc7 Kh8 Kh6 Kg8 Rc4 Kh8 Kh5 Kg8 Kg6 Kf8 Kh6",
-    "duration": 1114,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kg2 Ra7 Rc2 Nf6 Re2 Ra5 Re5 Rb5 Re2 Ra5 Re7 Rb5 Re2 Ra5 Re7",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771756331.6118865
+  "updated": 1771756351.0393257
 }
