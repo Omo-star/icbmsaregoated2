@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3077,
-  "opponent": "abdcebot",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
+  "opponent": "bot1e",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+0",
   "time_left": 10,
-  "timestamp": "2026-02-23T07:41:53.265447",
+  "timestamp": "2026-02-23T07:42:50.853362",
   "last_game": {
-    "result": "loss",
-    "opponent": "abdcebot",
+    "result": "draw",
+    "opponent": "bot1e",
     "rating_before": 3077,
     "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rg1 Ne7 Kf4 Nc6 g6+ hxg6 Rxg6 Kxg6 hxg6 Rb7 Kf3 Rb1 g7 a2 Ke2 Rb3 cxb3 Nd8 b4 Ne6 Kd2 Nxg7 b5 a1=B b6 Nf5 Ke1 Nd4 Kf1 Nb5 Kg2 Na3 Nh3 Nb5 Nf2 Na3 Kh2 Bb2 Kh3 Nb5 Kh4 Na3 Nh3 Nb5 Kg3 Na3 Kf3 Nc2 Kg3 Na3 Nf2 Nb5 Kh4 Na3 Kg4 Nb5 Kg3 Na3 Nh3 Nb5 Ng5 Nc3 Nf3 Ba3 b7 Nb5 Nd4 Nxd4 b8=K Nc2 Kb7 d5 Ka6 Bb2 Kb6 Bg7 Kc7 Bc3 Kb6 Bg7 Kg2 Bb2 Kf1 Ne1 Kxe1 d4 Kf2 Bc1 Kb5 Bb2 Ka4 Ba3 Kxa3 d3 Kb3 d2 Kc3 d1=K Kd2 Kxd2 Ke1 Kxe1",
-    "duration": 45,
+    "moves": "c4 c6 Ne3 Nb6 c5 Nd5 Nb3 h5 O-O d6 cxd6 Qxd6 f4 Qd8 Nxd5 cxd5 Bh4 f6 Rxc8 Qxc8 e3 Ng6 Bf2 e5 fxe5 Nxe5 Bg3 h4 Bxe5 Bxe5 Qf3 Qe6 Rc1 g6 Nc5 Qd6 Nxb7 Bxh2+ Kh1 Qg3 Rc8 O-O Nc5 Qd6 Qg4 f5 Qxh4 Bg3 Qh6 Qf6 Nd3 Bd6 Bc2 Kf7 Qh7+ Ke6 Kg1 Rh8 Qb7 Rh1+ Kxh1 Qh4+ Kg1 Qh2+ Kf1 Qh1+ Kf2 Qh4+ Ke2 Qh5+ Kf1 Qh1+ Ke2 Qh5+ Kf2 Qh4+ g3 Qxg3+ Ke2 Qg4+ Ke1 Bg3+ Nf2 Bxf2+ Kf1 Qg1+ Ke2 Bb5+ Qxb5 Qe1+ Kf3 Qh1+ Ke2 Qe1+ Kf3 Qh1+ Kxf2 Qh2+ Kf3 Qh3+ Kf2 Qh2+ Kf3 Qh3+ Ke2 Qg2+ Kd1 Qh1+ Ke2 Qg2+ Ke1 Qg3+ Kf1 Qf3+ Kg1 Qg3+ Kh1 Qf3+ Kh2 Qf2+ Kh3 Qf3+ Kh2 Qf2+ Kh1 Qf3+ Kg1 Qg3+ Kf1 Qh3+ Ke1 Qg3+ Kf1 Qh3+",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1771832513.265532
+  "updated": 1771832570.8535295
 }
