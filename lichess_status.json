@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3030,
-  "opponent": "Cheszter",
+  "opponent": "MCUFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 224,
-  "timestamp": "2026-02-23T21:08:42.986366",
+  "time_control": "TC: 15+10",
+  "time_left": 361,
+  "timestamp": "2026-02-23T21:39:54.747509",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
+    "result": "win",
+    "opponent": "MCUFish",
     "rating_before": 3030,
     "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O O-O c3 Bb6 Nbd2 d6 a4 a5 Bb3 h6 Re1 Be6 Nc4 Ba7 Be3 Re8 Bxa7 Rxa7 Ne3 Bxb3 Qxb3 Ne7 Nc4 Ng6 Rad1 Qc8 d4 Ra8 Qc2 Qe6 Qb3 Reb8 Ra1 c6 Ncd2 Qxb3 Nxb3 Nd7 Nbd2 b5 b3 Nf4 Ra2 Ne6 g3 bxa4 Rxa4 exd4 Nxd4 Ndc5 Nxc6 Nxa4 Nxb8 Nxc3 Nd7 Nd4 Kg2 Ra7 Nb6 Rb7 Nbc4 Nxb3 Nxb3 Rxb3 Nxa5 Rb4 e5 dxe5 Rxe5 Ne4 Nc6 Rc4 Na5 Ra4 Nc6 Rc4 Na5 Ra4 Nc6 Kh7 Re7 Kg6 Ra7 Rxa7 Nxa7 Kf5 f4 g5 fxg5 hxg5 h3 Ke5 g4 Nd2 h4 gxh4 Nb5 Ne4 Kh3 Ng5+ Kxh4 f5 Kxg5 fxg4 Kh6 Ke4 Nc7 g3 Ne6 g2 Ng5+",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 Nf8 Be3 Be7 d4 exd4 Nxd4 Qe8 Re1 b6 Nf5 Be6 Qe2 Bb4 c3 Be7 Bf4 Bc5 b4 Ng6 Bg3 Bf8 Nd4 Bc8 e5 fxe5 Nxe5 Nxe5 Qa2 a5 Rxe5 Qd7 Ne6 axb4 cxb4 Bd6 Rd1 Qe7 Ng5 Bxe5 Rd8+ Qxd8 Qxf7+ Kh8 Qh5 h6 Nf7+ Kh7 Nxd8 Bxg3 hxg3 Bd7 Qh4 Rxa4 Qe4+ Kh8 Nf7+ Kg8 Qe7 Bf5 Qe8+ Kh7 Qh8+ Kg6 Ne5+ Kf6 f4 Ra8 Qxa8 Ke7 Qg8 Be6 Qxg7+ Ke8 f5 Bd5 f6 Bf7 Qh8+ Bg8 Qxg8#",
+    "duration": 1890,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1771880922.9864292
+  "updated": 1771882794.747572
 }
