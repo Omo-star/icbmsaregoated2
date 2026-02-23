@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3073,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 60,
-  "timestamp": "2026-02-23T19:25:55.910842",
+  "opponent": "Viet-Test",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2026-02-23T19:59:37.098656",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
+    "opponent": "Viet-Test",
     "rating_before": 3073,
     "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 60,
+    "moves": "d4 d5 a4 a5 g4 g5 Ng3 Ng6 e4 Nb6 exd5 Nxd5 Nb3 Ndf4 Bd2 e6 Ne2 Qd5 Nc3 Qd8 Ne2 Qd5 Nxf4 Nxf4 h4 h6 Bxf4 gxf4 Bg2 Qc4 Re1 Bxa4 d5 Bxb3 cxb3 Qb5 dxe6 O-O-O Qf3 fxe6 Rxa5 Qxa5 Qxb7+ Kd7 Qc6+ Kc8 Qb7+ Kd7 Qc6+ Kc8 Qb7+ Kd7",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1771874755.9109135
+  "updated": 1771876777.0987697
 }
