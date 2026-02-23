@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3071,
-  "opponent": "PositionalAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2026-02-23T13:01:43.844399",
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 53,
+  "timestamp": "2026-02-23T13:03:19.165816",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
+    "opponent": "is_BOSS",
     "rating_before": 3071,
     "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6 Rg8+ Kf6 Re8 Kf7 Rh8 Kg6",
-    "duration": 30,
+    "moves": "a4 a5 e4 e5 g3 Ne6 Ne3 g6 f4 exf4 gxf4 Nxf4 d4 d5 exd5 Bxd4 Rf1 Bxe3 Bxe3 g5 Ka2 Ra6 Qd2 Nf6 Bxf4 gxf4 Rxf4 Rg5 Rd4 Rg4 Rxg4 Bxg4 c4 Qd7 b3 Re6 Nf3 Bxf3 Bxf3 Re5 Rd1 Rf5 Qc3 Qd6 c5 Qxh2+ Ka3 Qe5 Qxa5 b6 cxb6 Qd6+ Kb2 cxb6 Qc3 Nxd5 Bxd5 Rxd5 Qh8+ Ka7 Rxd5 Qxd5 Qxh7 b5 axb5 Qxb5 Qxf7+ Kb8 Qg8+ Kc7 Qh8 Kd7 Qg8 Ke7 Qh8 Kf7 Qd8 Kg7 Qc8 Kh7 Qf8 Kg6 Qh8 Kf7 Qd8 Kg7 Qc8 Kh7 Qf8 Kg6 Qh8 Kf7",
+    "duration": 184,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771851703.8445382
+  "updated": 1771851799.1658785
 }
