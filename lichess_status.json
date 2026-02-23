@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "worst_colinbot",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 1+1",
-  "time_left": 46,
-  "timestamp": "2026-02-23T22:45:42.763051",
+  "rating": 3031,
+  "opponent": "AlwaysPlayMystery",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 437,
+  "timestamp": "2026-02-23T22:49:47.698871",
   "last_game": {
-    "result": "win",
-    "opponent": "worst_colinbot",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 Na6 d4 Nb8 Nc3 Nc6 Nf3 e5 Nxe5 Ba3 bxa3 Qh4 Nxf7 Qh5 Qxh5 Rb8 Nxh8+ g6 Q@f7+ Kd8 Qf8#",
-    "duration": 81,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h4 Rad8 Re3 Re6 b4 cxb3 Qxb3 Rc8 Bf1 Nd6 Rxe6 Bxe6 Rc1 Nc4 Nd2 Bd7 Nxc4 dxc4 Qb2 Qxa4 Ra1 Qb3 Qc1 Qb5 Rxa7 Bc6 Bg2 Bxg2 Kxg2 Qd5+ Kh2 Ra8 Qa1 Rxa7 Qxa7 b5 Qb8+ Kh7",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1771886742.7631125
+  "updated": 1771886987.6989684
 }
