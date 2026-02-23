@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "Bot1nokk",
+  "rating": 2977,
+  "opponent": "khanhbell12345",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 99,
-  "timestamp": "2026-02-23T20:32:08.196697",
+  "time_control": "TC: 3+2",
+  "time_left": 220,
+  "timestamp": "2026-02-23T20:41:13.729402",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "result": "win",
+    "opponent": "khanhbell12345",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 f5 Nc3 Bc5 Rc7 Bd6 Rc4 Bxa3 Rd1 Rbb8 g4 Be8 Ra1 Bb2 Ra2 f4 exf4 Rb3 Ne2 Bb5 Rc5 Bd4 Nxd4 Rxd4 Kg2 Bf1+ Kxf1 Rxf3 Kg2 Rfxf4 h3 Ra4 Re2 Rae4 Rxe4 Rxe4 f3 Re2+ Kg3 e5 Rc4 Kf7 h4 Ra2 Rc7+ Kf6 Rc6+ Ke7 g5 hxg5 hxg5 e4 fxe4",
-    "duration": 153,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe3 Nd6 Re1 Qd7 Qf3 Re8 Rxe8+ Nxe8 Nb3 b6 Nc1 c6 Nd3 Nd6 h3 h6 Qg3 Ne4 Qe3 Qc8",
+    "duration": 276,
+    "bot_color": "black",
+    "termination": "timeout"
   },
-  "updated": 1771878728.1967857
+  "updated": 1771879273.729507
 }
