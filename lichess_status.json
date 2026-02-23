@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3077,
-  "opponent": "worst_colinbot",
-  "variant": "Variant: Crazyhouse",
+  "opponent": "PositionalAI",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 24,
-  "timestamp": "2026-02-22T13:54:29.917268",
+  "time_left": 16,
+  "timestamp": "2026-02-23T07:40:41.492292",
   "last_game": {
-    "result": "win",
-    "opponent": "worst_colinbot",
+    "result": "draw",
+    "opponent": "PositionalAI",
     "rating_before": 3077,
     "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "g3 e5 h3 Nc6 Rh2 d5 a4 Nf6 d3 Bc5 g4 Bxg4 Bd2 @g3 Bg2 gxf2+ Kf1 fxg1=Q#",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Ke2 Nf4+ Kf3 Nd3 Ke2 Nf4+ Kf1 Nd5 Nf5 g6 Ng3 Nf4 f3 f5 gxf5+ gxf5 Ne2 Nd3 Nc3 a3 Re2+ Kd7 bxa3 Ra8 Rd2 c4 Nd5 Kc6 Ne3 Re8 Re2 Nc1 Rc2 Rxe3 Rxc4+ Kd5 Rxc1 Rxa3 Re1 Rxa2 g3 h5 f4 h4 gxh4 Rb2 h5",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771768469.9173548
+  "updated": 1771832441.4924133
 }
