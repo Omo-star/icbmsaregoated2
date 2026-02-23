@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "ArtemShs",
+  "rating": 3071,
+  "opponent": "Lili-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 402,
-  "timestamp": "2026-02-23T12:57:59.516724",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2026-02-23T12:58:46.374634",
   "last_game": {
-    "result": "win",
-    "opponent": "ArtemShs",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "result": "draw",
+    "opponent": "Lili-ai",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 a3 Nf6 Nc3 Bc5 Nxc6 bxc6 e5 Nd5 Ne4 Be7 c4 Nb6 Qg4 Rg8 Be3 Qc7 Nd6+ Bxd6 exd6 Qd8 Bg5 f6 Qh5+ Kf8 Be3 h6 a4 Ba6 Qc5 Nc8 a5 Rb8 b4 Kf7 Bd3 Qf8 Rd1 Nxd6 Bh7 Rh8 Qh5+ Ke7 Bc5 Kd8 Bxd6 Qxd6 Rxd6 Rxh7 Qf7",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 Bg5 h6 Bh4 dxc4 e4 g5 Bg3 b5 Be2 Bb7 O-O Nbd7 Ne5 Bg7 Nxf7 Kxf7 e5 Nd5 Ne4 Ke7 Nd6 Qb6 a4 Raf8 Bf3 a6 Bxd5 cxd5 axb5 axb5 Kh1 Rhg8 f4 gxf4 Be1 Bxe5 dxe5 Nxe5 Bb4 Kd7 Nxb7 Qxb7 Bxf8 Rxf8 Qd4 Kd6 b4 Nd3 Ra7 Qc8 Qg7 Rg8 Qd4 Rf8 Qg7 Rg8 Qd4 Rf8 Qg7",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1771851479.5168176
+  "updated": 1771851526.3747702
 }
