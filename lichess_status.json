@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3073,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 60,
-  "timestamp": "2026-02-23T18:41:40.034958",
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 55,
+  "timestamp": "2026-02-23T18:47:31.161784",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
+    "opponent": "is_BOSS",
     "rating_before": 3073,
     "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Rd1 Re2 Rb1 Kh2",
-    "duration": 129,
-    "bot_color": "white",
+    "moves": "d3 f5 f4 c5 c4 d6 Nc3 g6 Nf3 Nc6 Bf2 Nf6 h3 Bf7 g3 O-O O-O Bg7 Kh2 Qd7 Ng5 Rac8 Qd2 e5 Rae1 h6 Nxf7 Rxf7 e3 Kh7 Bf3 h5 Rg1 Rcf8 a3 b6 Ref1 Ne7 Be1 Qe6 Qg2 Bh6 Bd2 Kh8 Qe2 Rh7 Bb7 Rd8 Rf2 Rb8 Bh1 Rf8 Rff1 Bg7 Bc1 Rg8 Bd2 Rf8 Bc1 Rg8 Bb7 Rb8 Ba6 Ne8 Bb5 Nc7 Ba4 h4 g4 exf4 exf4 Qxe2+ Nxe2 b5 cxb5 Nxb5 Re1 Nd4 Nxd4 Bxd4 Rg2 Nd5 Re6 fxg4 Rxg4 Re7 Rexg6 Re2+ Rg2 Rxg2+ Kxg2 Rxb2+ Bxb2 Nxf4+ Kf3 Nxg6 Bxd4+ cxd4 Be8 Ne5+ Ke4 Kg7 Kxd4 Kf6 Bb5 Nf3+ Ke3 Ng5 Bd7 Ke5 d4+ Kd5 a4 Nh7 Kd3 Nf6 Bf5 Kc6 Ke3 Kd5 Bd3 Nd7 Bb5 Nb6 Kd3 a5 Be8 Ke6 Ke4 d5+ Kf4 Nc4 Bg6 Nb2 Bc2 Nc4 Kg5 Nd2 Kxh4 Nf3+ Kg4 Nxd4 Bb1 Ne2 h4 d4 h5 d3 Bxd3 Nc3 h6 Kf6 h7 Kg7 h8=Q+ Kxh8 Bf1 Nxa4 Kh5 Kg8 Kh6 Kh8 Kg6 Kg8 Kh6 Kh8 Kg6 Kg8 Kh6 Kh8",
+    "duration": 340,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771872100.0351326
+  "updated": 1771872451.1618564
 }
