@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "Ultra_Master2000",
+  "rating": 3030,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 173,
-  "timestamp": "2026-02-23T11:20:29.293349",
+  "time_control": "TC: 10+0",
+  "time_left": 248,
+  "timestamp": "2026-02-23T11:27:51.400201",
   "last_game": {
     "result": "draw",
-    "opponent": "Ultra_Master2000",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3030,
+    "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Nb6 Ne3 Be6 Qe1 Qd7 a4 Nc8 Bb4 Bxb4 Qxb4 b6 d4 exd4 Qxd4 Nd6 b4 a5 e5 fxe5 Nxe5 Qe8 c3 Nf7 Nf3 Nd6 Rfe1 Qh5 Ne5 c5 bxc5 bxc5 Qxc5 Ne4 Qd4 Nxf2 Nd5 Qg5 Ng6 Nh3+ Kh1 Nf2+ Kg1 Nh3+ Kh1 hxg6 Rxe6 Nf2+ Kg1 Nh3+ Kh1 Nf2+ Kg1 Nh3+ Kh1",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bg2 Bf5 Bf4 Qd7 Ne5 Bxe5 dxe5 Rad8 a5 Qe6 axb6 Qxb6 Qe2 Nc5 Be3 Rxe5 Qd2 Qb5 Bd4 Nb3 Qg5 Rxe1+ Rxe1 Re8 Rxe8+ Qxe8 Qe3 Qxe3 Bxe3 Be4 f3 Bf5 Bxa7 f6 g4 hxg4 fxg4 Be6 Kf2 Kf7 h4 g5 hxg5 fxg5 Bb8 Nc5 Ke3 Nd7 Bc7 Nf6 Kd4 Bxg4 Bd8 Be6 Ke5 Ng4+ Kd4 Nf6 Ke5 Ng4+ Kd4 Nf2 Bxg5 Nd1 Bf3 Nxb2",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771845629.293488
+  "updated": 1771846071.400311
 }
