@@ -5,18 +5,18 @@
   "opponent": "ArtemShs",
   "variant": "Variant: Standard",
   "time_control": "TC: 10+0",
-  "time_left": 153,
-  "timestamp": "2026-02-23T12:50:01.600141",
+  "time_left": 402,
+  "timestamp": "2026-02-23T12:57:59.516724",
   "last_game": {
     "result": "win",
     "opponent": "ArtemShs",
     "rating_before": 3031,
     "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Rxe5+ Be7 Ba4 O-O d4 Nc4 Re1 d5 Bb3 Be6 c3 Re8 Nd2 Qd7 Qe2 Bf8 Nxc4 dxc4 Bc2 Bd5 Qf1 Rxe1 Qxe1 Re8 Qf1 Bd6 Bg5 g6 Bh4 Qb5 b3 Qa5 b4 Qa3 Rc1 Qxc3 Ba4 Qxd4 Bxe8 Qxh4 g3 Qe4 f3 Qxe8 Rd1 Qe5 a3 h5 Re1 Qf6 Re8+ Kh7 Re3 Be5 Re2 Bd4+ Kg2 h4 g4 Qf4 Kh3 Bxf3 Rg2 Bxg4+ Rxg4 Qxf1+ Kxh4 Be5 Kg5 Bf6#",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 a3 Nf6 Nc3 Bc5 Nxc6 bxc6 e5 Nd5 Ne4 Be7 c4 Nb6 Qg4 Rg8 Be3 Qc7 Nd6+ Bxd6 exd6 Qd8 Bg5 f6 Qh5+ Kf8 Be3 h6 a4 Ba6 Qc5 Nc8 a5 Rb8 b4 Kf7 Bd3 Qf8 Rd1 Nxd6 Bh7 Rh8 Qh5+ Ke7 Bc5 Kd8 Bxd6 Qxd6 Rxd6 Rxh7 Qf7",
     "duration": 600,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771851001.6002135
+  "updated": 1771851479.5168176
 }
