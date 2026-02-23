@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3072,
+  "rating": 3073,
   "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 43,
-  "timestamp": "2026-02-23T18:39:40.887439",
+  "time_control": "TC: 0+1",
+  "time_left": 60,
+  "timestamp": "2026-02-23T18:41:40.034958",
   "last_game": {
     "result": "draw",
     "opponent": "Viet-Test",
-    "rating_before": 3072,
-    "rating_after": 3072,
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 Re2 Kh8 Rae1 Rxe2 Rxe2 Rf8 g4 Bd7 h3 Qc7 Re4 Qd6 Bh1 h6 Bg2 Kg8 b3 Be8 Re6 Qxf4 Qxf4 Rxf4 Rxe8+ Kf7 Rc8 Nb4 Bxb7 d3 Kf1 Ke7 Ke1 d2+ Kxd2 Rxf2+ Kc3 Nxa2+ Kd4 Rb2 Rc7+ Kf6 Bd5 Rd2+ Kc5 Rc2+ Bc4 Nc1 Kd6 Rd2+ Kc5 Rc2 Kd6 Rd2+ Kc5 Rc2",
-    "duration": 60,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Rd1 Re2 Rb1 Kh2",
+    "duration": 129,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771871980.8876033
+  "updated": 1771872100.0351326
 }
