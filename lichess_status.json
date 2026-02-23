@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2978,
-  "opponent": "bot913",
+  "rating": 3031,
+  "opponent": "ArtemShs",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 174,
-  "timestamp": "2026-02-23T12:34:03.136319",
+  "time_control": "TC: 10+0",
+  "time_left": 600,
+  "timestamp": "2026-02-23T12:35:06.190355",
   "last_game": {
     "result": "draw",
-    "opponent": "bot913",
-    "rating_before": 2978,
-    "rating_after": 2978,
+    "opponent": "ArtemShs",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O Nf3 d5 Bg5 c5 dxc5 h6 Bh4 Nbd7 e3 Nxc5 Be2 dxc4 O-O Bxc3 Qxc3 b5 Rfd1 Qb6 Bxf6 Ne4 Qd4 Nxf6 a4 bxa4 Ne5 Rb8 Bxc4 Qxb2 Qxb2 Rxb2 Rxa4 a6 h4 Bb7 Bxa6 Bxa6 Rxa6 Rb5 Nd7 Nxd7 Rxd7 g5 hxg5 hxg5 Rda7 Rfb8 Kh2 Rf5 Ra8 Rxa8 Rxa8+ Kg7 Kg3 Re5 Ra4 Rf5 Ra3 Re5 Kf3 Rf5+ Kg3 Re5",
-    "duration": 510,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1771850043.136437
+  "updated": 1771850106.1904283
 }
