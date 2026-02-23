@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 55,
-  "timestamp": "2026-02-23T18:47:31.161784",
+  "rating": 2977,
+  "opponent": "canary_colinbot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+1",
+  "time_left": 156,
+  "timestamp": "2026-02-23T18:49:45.403159",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "canary_colinbot",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "d3 f5 f4 c5 c4 d6 Nc3 g6 Nf3 Nc6 Bf2 Nf6 h3 Bf7 g3 O-O O-O Bg7 Kh2 Qd7 Ng5 Rac8 Qd2 e5 Rae1 h6 Nxf7 Rxf7 e3 Kh7 Bf3 h5 Rg1 Rcf8 a3 b6 Ref1 Ne7 Be1 Qe6 Qg2 Bh6 Bd2 Kh8 Qe2 Rh7 Bb7 Rd8 Rf2 Rb8 Bh1 Rf8 Rff1 Bg7 Bc1 Rg8 Bd2 Rf8 Bc1 Rg8 Bb7 Rb8 Ba6 Ne8 Bb5 Nc7 Ba4 h4 g4 exf4 exf4 Qxe2+ Nxe2 b5 cxb5 Nxb5 Re1 Nd4 Nxd4 Bxd4 Rg2 Nd5 Re6 fxg4 Rxg4 Re7 Rexg6 Re2+ Rg2 Rxg2+ Kxg2 Rxb2+ Bxb2 Nxf4+ Kf3 Nxg6 Bxd4+ cxd4 Be8 Ne5+ Ke4 Kg7 Kxd4 Kf6 Bb5 Nf3+ Ke3 Ng5 Bd7 Ke5 d4+ Kd5 a4 Nh7 Kd3 Nf6 Bf5 Kc6 Ke3 Kd5 Bd3 Nd7 Bb5 Nb6 Kd3 a5 Be8 Ke6 Ke4 d5+ Kf4 Nc4 Bg6 Nb2 Bc2 Nc4 Kg5 Nd2 Kxh4 Nf3+ Kg4 Nxd4 Bb1 Ne2 h4 d4 h5 d3 Bxd3 Nc3 h6 Kf6 h7 Kg7 h8=Q+ Kxh8 Bf1 Nxa4 Kh5 Kg8 Kh6 Kh8 Kg6 Kg8 Kh6 Kh8 Kg6 Kg8 Kh6 Kh8",
-    "duration": 340,
-    "bot_color": "black",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 f3 b5 Qd2 Nbd7 g4 b4 Nce2 h6 O-O-O Qc7 h4 d5 Bf4 e5 Bh2 dxe4 g5 hxg5 hxg5 Rxh2 Rxh2 exd4 Rh4 Nd5 Rxe4+ Be7 Qxd4 Bb7 Qxg7 O-O-O Bh3 Qh2 Qh6 Qf2 Kb1 Qxf3 Re5 Bf8 Qh4 Kc7 Bg4 Qg2 Rexd5 Bxd5 Nf4 Bxa2+ Kxa2 Qxc2 Nd5+ Kb7 Ne3 Qe4 Qf2 b3+ Kxb3 Nc5+ Ka2 Rxd1 Bxd1 Qe6+ Kb1 Qg6+ Ka1 Ka7 Nc4 Qxg5 Qxf7+ Be7 Bf3 Nd3 Ka2 Nc1+ Kb1",
+    "duration": 265,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771872451.1618564
+  "updated": 1771872585.4032574
 }
