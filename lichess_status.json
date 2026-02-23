@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2979,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 13,
-  "timestamp": "2026-02-23T23:38:13.568279",
+  "time_control": "TC: 3+0",
+  "time_left": 119,
+  "timestamp": "2026-02-23T23:41:18.857447",
   "last_game": {
-    "result": "win",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "result": "draw",
+    "opponent": "RaspFish",
+    "rating_before": 2979,
+    "rating_after": 2979,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 g3 d5 Bg2 dxc4 Nf3 a6 O-O Nc6 Nc3 Nd5 e4 Nxc3 bxc3 Be7 Nd2 b5 e5 Bb7 Qg4 O-O Ne4 Kh8 Re1 Na5 Bf4 Bd5 Qh5 Nc6 Re3 f5 exf6 gxf6 Rae1 b4 cxb4 Qd7 a3 Nxd4 Rd1 Nf5 Ree1 Qe8 Qe2 a5 Bh3 axb4 Bxf5 exf5 Rxd5 fxe4 axb4 Bxb4 Rc1 Qe6 Rd4 e3 Qxe3 Qxe3 Bxe3 Bc5 Re4 Bxe3 Rxe3 Rae8 Rec3 Re4 Rxc4 Rxc4 Rxc4 Rf7 Kg2 Rd7 Kh3 Kg7 f4 Rd2 g4 h5 gxh5 Kh6 Kg4 Rxh2 Kf5 Rxh5+ Kxf6 c6 f5 c5 Rxc5 Rh4 Rc2 Rh3 Rc1 Rh4 Ra1 Rh3 Rb1 Rh4 Ra1 Rh3 Rg1 Rh5 Rg8 Kh7 Rg1 Kh6 Rg6+ Kh7 Rg7+ Kh8 Re7 Rh4 Kf7 Rb4 Re8+ Kh7 Re7 Kh8 Re3 Rb7+ Kf8 Rb8+ Kf7 Rb7+ Kg6 Rg7+ Kh6 Rh7+ Kg6 Rg7+ Kf6 Rg4 Re8+ Kh7 Re7+ Kh8 Re6 Kg8 Re1 Kh8 Re8+ Kh7 Kf7 Rb4 Re6 Rb8 Re3 Rb7+ Re7 Rb8 f6 Ra8 Re6 Rb8 Re1 Rb7+ Re7 Rb8 Re1 Rb7+ Re7 Rb8 Ra7 Rd8 Ra1 Rd7+ Ke6 Rd8 Rh1+ Kg6 Rg1+ Kh7 Rh1+ Kg6 Rg1+ Kh7 f7 Rc8 Rf1 Kg7 Rg1+ Kh7 Ke7 Rc7+ Ke8 Rc8+ Ke7 Rc7+ Kf6 Rc6+ Ke5 Rc8 Kd6 Rb8 Ke7 Rb7+ Kf6 Rb6+ Ke5 Rb8 Kf6 Rb6+ Ke7 Rb7+ Ke6 Rb8 Rh1+ Kg7 Rg1+ Kh8 Kf6 Rb6+",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 Qd7 Ng3 Bxd3 Qxd3 h5 h4 Ng8 Nd2 O-O-O a4 Qe8 b4 Nh6 Nf3 Ne7 O-O Nef5 Nxf5 Nxf5 Re1 Rh6 Ra2 Rg6 exf6 Rg3 fxg7 Bxg7 Qe2 Kd7 a5 Bf6 Kh2 Rg4 Qd3 Qg6 Ng5 Nxh4 Qxg6 Nxg6 Nxe6 Rg8 Rae2 Be7 Ng5 a6 Kh1 Bf6 Rf1 Nxf4 Rxf4 Rxf4 Bxf4 Bxg5 Bxg5 Rxg5 Kh2 b6 Kh3",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771889893.5683434
+  "updated": 1771890078.857541
 }
