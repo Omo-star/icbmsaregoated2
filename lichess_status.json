@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "BorkaTower",
+  "rating": 2983,
+  "opponent": "MAGIC11BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2026-02-24T01:41:49.393190",
+  "time_control": "TC: 3+0",
+  "time_left": 52,
+  "timestamp": "2026-02-24T01:49:25.633538",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "result": "win",
+    "opponent": "MAGIC11BOT",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 a6 Nf3 Nf6 Qd2 O-O Bh6 c5 O-O-O cxd4 Nxd4 Bxh6 Qxh6 Nc6 h4 Ng4 Qd2 Qb6 f3 Qxd4 Qxd4 Nxd4 Rxd4 Ne3 Nd5 Nxd5 exd5 b5 Bd3 f5 a4 Bd7 a5 Kg7 Bf1 Kf6 Bd3 Ke5 c3 Kf6 g4 h5 g5+ Kf7 b4 Rfc8 Kb2 Ke8 Rc1 Rc7 c4 Rac8 Be2 Kd8 Ka3 Be8 Kb3 Bd7 Rc3 Be8 Re3 Bd7 Rc3 Be8 Kb2 Bd7 Ka3 Rb7 Bd1 Rbc7 Be2 Be8 Rc1 Bd7 Kb3 Be8 Rc3 Bd7 Rc1 Rb8 Rc3 Rbc8 Kb2 Be8 Bd3 Rb8 Bc2 bxc4 Rcxc4 Rxc4 Rxc4 Bb5 Rd4 Be2 f4 Bb5 Kc3 Rc8+ Kb3 Kd7 Bd3 Rc1 Bxb5+ axb5 Rd3 Rb1+ Ka3 Ra1+ Kb3 Rb1+ Ka3 Ra1+ Kb2 Rf1 Rc3 Rxf4 Kb3 Rf1 Kb2 f4 a6 Rf2+ Kb3 Rf1 Ka2 Rf2+ Ka3 Rf1 Kb2 Rf2+ Ka1 Rf1+ Ka2 Rf2+ Kb3 Rf1 Ka2",
-    "duration": 30,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Nbd7 Bf4 Bb4 cxd5 Nxd5 Bd2 Nxc3 bxc3 Be7 e4 c5 Bc4 cxd4 cxd4 O-O O-O b6 Qe2 Bb7 a4 a5 Rfb1 Ra7 h3 Nf6 Bd3 Qa8 Re1 Bb4 g4 Bxd2 Nxd2 h6 Qe3 Ba6 Bxa6 Rxa6 Nc4 Rd8 Rac1 Qb7 Ne5 b5 axb5 Qxb5 g5 hxg5 Qxg5 Raa8 Rc7 Nd7 Nxf7 Qxg5+ Nxg5 Nf8 Rc4 a4 Ra1 a3 Ra2 Ra6 h4 Ng6 Rc3 Rda8 Nf3 Nh8 Kf1 Ng6 Kg2 Nh8 Kg3 Nf7 Kf4 g6 Ng5 R8a7 e5 Nh6 Ne4 Ra4 Kg5 Kg7 Rd3 Nf7+ Kf4 R7a5 Kf3 Rb4 Rdxa3 Rxa3+ Rxa3 Rxd4 Ke3 Rd1 Ra7 Kf8 f4 Re1+ Kd3",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1771897309.3932877
+  "updated": 1771897765.6336381
 }
