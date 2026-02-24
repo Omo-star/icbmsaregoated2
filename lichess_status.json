@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "duchessAI",
+  "rating": 2977,
+  "opponent": "MAGIC11BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-02-24T01:11:18.230404",
+  "time_control": "TC: 3+0",
+  "time_left": 92,
+  "timestamp": "2026-02-24T01:16:20.826604",
   "last_game": {
     "result": "win",
-    "opponent": "duchessAI",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "MAGIC11BOT",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 cxd4 Nxd4 Qb6 a3 Bc5 Be3 Nc6 Ncb5 a6 b4 axb5 bxc5 Qxc5 Qd3 Qe7 Nxb5 O-O Qc3 f6 exf6 Qxf6 Qxf6 Nxf6 Bc5 Rf7 Nd6 Rc7 Bd3 e5 Nb5 Rf7 Nd6 Rc7 Nb5 Rf7 fxe5 Nxe5 O-O Bg4 Nd4 Ne4 Rxf7 Nxf7 Be7 Ned6 Rb1 Re8 Bxd6 Nxd6 Rb6 Ne4 Rxb7 Ra8 Rc7 Rxa3 h3 Ra4 c3 Bh5 Ne6 g5 c4 g4 Rg7+ Kh8 hxg4 Bg6 Rb7 Ra8 cxd5 Nd6 Rd7 Bxd3 Rxd6 Re8 Kf2 Be4 Kg3 Kg8 Rd7 Bxd5 Nc7",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 Nc3 Bb4 Bd2 O-O e3 b6 cxd5 exd5 Rc1 c5 Be2 c4 b3 Bxc3 Bxc3 b5 a4 a6 Ne5 Ne4 Bb4 Re8 O-O f6 bxc4 fxe5 cxd5 Nd7 axb5 Nef6 Ra1 a5 dxe5 Nxe5 d6 Bb7 Ba3 Nd5 Qd2 Qg5 g3 Nf7 d7 Red8 Rfd1 Qg6 Qd3 Qf6 Rac1 Ne5 Qb3 a4 Qa2 Nf3+ Kh1 Qf5 Rc7 Kh8 Rxb7 Nc3 Qc4 Nxd1 Qf4 Nxf2+ Kg2 Qh3+ Kxf3 Qh5+ g4 Qd5+ Kxf2 Qxb7 Bf3 Qxd7 Bxa8 Rxa8 b6 Qd5 Bd6 Rd8 b7 Qxb7 Qxa4 h5 Qf4 Rd7 Kg1 Qd5 Be5 Rf7 Qh6+ Kg8 Qd6 Qf3",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "outoftime"
   },
-  "updated": 1771895478.2304988
+  "updated": 1771895780.8267179
 }
