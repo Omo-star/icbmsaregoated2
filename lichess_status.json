@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 21,
-  "timestamp": "2026-02-24T19:03:22.751949",
+  "opponent": "P-chessbot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+1",
+  "time_left": 71,
+  "timestamp": "2026-02-24T19:05:55.304397",
   "last_game": {
-    "result": "draw",
-    "opponent": "is_BOSS",
+    "result": "win",
+    "opponent": "P-chessbot",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e3 e5 d4 c6 c4 exd4 exd4 Ne6 Nf3 Nf6 a3 d5 Ne3 Bc7 Bb4 Bd6 Ba5 Bd7 Qe2 Bc7 Bxc7 Nxc7 c5 Qe7 Ne5 g6 f4 Ne6 Qd2 Nxf4 O-O N6h5 Kh1 f5 Bc2 Rf8 Rfe1 Ne6 b4 Qh4 Nf3 Qf4 b5 Re8 a4 Nf6 b6 Kd8 a5 a6 Re2 Ne4 Qb4 Qh6 Bxe4 Nf4 Ree1 fxe4 Ne5 Rxe5 dxe5 Be6 Rf1 Kd7 Nc2 Nd3 Qc3 Rf8 Rf6 Rxf6 exf6 Qf4 Qd4 Nf2+ Kg1 Ng4 g3 Qf3 f7 Bxf7 Qd2 Be6 Qf4 Qxf4 gxf4 Nh6 Kf2 Nf5 Rb1 Kd8 Rb2 h6 Rb1 Nh4 Nd4 Bd7 Rg1 Ke7 Ke2 Bc8 Ke3 Bd7 Ke2 Kf7 Kd2 Kf6 Ke3 Bc8 Kd2 Bf5 Rg3 Bc8 Rg1 Bd7 Ke3 Kg7 Kf2 Kf7 Ke2 Kg7 Rg3 Kf6 Rg1 Nf5 Nxf5 Bxf5 Ke3 Bh3 Rg3 Be6 Rg2 Bh3 Rg3 Bf5 Rg2 Bh3 Rg3",
-    "duration": 274,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 d4 Bxe6 Nxe6 cxd4 Ncxd4 a4 Bc5 Ne4 O-O Nxc5 Nxf3+ Qxf3 Nxc5 axb5 axb5 Bg5 Qe8 Rxa8 Qxa8 Be7 Qxf3 gxf3 Nd3 Bxf8 Kxf8 Rd1 Nxb2 Rb1 Nd3 Rxb5 Ke7 Rd5 Nf4 Rc5 Kd7 h4 h5 Kh2 c6 Rc4 Ng6 f4 Nxh4 Kg3 Nf5+ Kf3 g6 Ke4 Kc7 Rc1 Kd7 Rc3 Kc7 Rd3",
+    "duration": 133,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1771959802.7521145
+  "updated": 1771959955.3044984
 }
