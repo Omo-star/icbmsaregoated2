@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "Cheszter",
+  "rating": 2978,
+  "opponent": "MAGIC11BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-02-24T00:16:47.161002",
+  "time_control": "TC: 3+0",
+  "time_left": 133,
+  "timestamp": "2026-02-24T00:19:52.574093",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "opponent": "MAGIC11BOT",
+    "rating_before": 2978,
+    "rating_after": 2978,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 a4 Be7 Nc3 a6 Bf1 e4 Nxe4 Nxe4 Rxe4 d5 Re1 Bg4 h3 Bh5 c3 d4 d3 O-O Bd2 h6 Rc1 Bf6 g4 Bg6 c4 a5 Qb3 Rb8 Qb5 Be7 Bxa5 f5 Bg2 fxg4 hxg4 Qc8 Qd5+ Kh7 Qe6 Bd6 Nh4 Qxe6 Rxe6 Bxd3 c5 Bf4 Rd1 Bc2 Bxc6 Bxd1 Be4+ Kg8 Bd5 Kh7 Be4+ Kg8 Bd5 Kh7 Be4+ Kg8",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Qe7 Nbd2 Bg4 Nc4 Nd7 h3 Bh5 Bd2 f6 b4 Bxb4 Bxb4 Qxb4 Rb1 Qe7 Rxb7 Nc5 Rb2 O-O Qe2 a5 Qe3 Bf7 Nfd2 a4 f4 a3 Rbb1 Nd7 Rb7 exf4 Qxf4 Ne5 Ne3 Bxa2 Nf5 Qd8 d4 g5 Qg3 Nc4 Ra1 Nxd2 Rxa2 Rb8 Rxb8 Qxb8 Qxa3 Qb1+ Kh2 Nf1+ Kh1 Ne3+ Kh2 Nf1+ Kg1 Ne3+ Kh2 Nf1+",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771892207.1610923
+  "updated": 1771892392.5741825
 }
