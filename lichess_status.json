@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2992,
-  "opponent": "Bharat_royals",
+  "opponent": "bfiedler-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 153,
-  "timestamp": "2026-02-24T19:38:19.257462",
+  "time_control": "TC: 1+3",
+  "time_left": 47,
+  "timestamp": "2026-02-24T19:43:44.903307",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bharat_royals",
+    "result": "win",
+    "opponent": "bfiedler-bot",
     "rating_before": 2992,
     "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 Qb3 Qe7 O-O cxd4 Nxd4 Bc5 a3 b6 Qa4 Bb7 Be2 a6 Bf3 Bxd4 Bxb7 Qxb7 Qxd4 Nd7 Ne4 Rad8 Nd6 Qb8 Rc6 Nc5 Qf4 Nd3 Qd4 Nc5 Qf4 Nd3 Qd4 Nc5 Qf4",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Nf3 c5 Bd3 d5 O-O b6 cxd5 exd5 a3 Bxc3 bxc3 c4 Be2 Ne4 Bb2 Nc6 Rc1 Na5 Ne5 f6 f3 Ng5 f4 Nb3 fxg5 Nxc1 Bxc1 fxe5 Rxf8+ Qxf8 dxe5 Be6 Bg4 Bxg4 Qxg4 Re8 Qd4 Qf7 e4 Rf8 Qxd5 Qxd5 exd5 Rf5 d6 Kf7 g4 Rxe5 Kf2 Rd5 Bf4 Ke6 h4 g6 h5 Rd3 d7 Kxd7 Be5 Ke6 Bd4 Rxd4 cxd4 Kd5 Ke3 b5 Kd2 Kxd4 Ke1 c3 Ke2 a5 Ke1 Kd3 Kd1 c2+ Ke1 Ke3 Kf1 Kf3 Kg1 c1=Q+ Kh2 Qf1 hxg6 Qg2#",
+    "duration": 342,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1771961899.2575605
+  "updated": 1771962224.9033675
 }
