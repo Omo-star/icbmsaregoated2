@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 2987,
+  "opponent": "PZChessBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 445,
-  "timestamp": "2026-02-24T02:19:09.759412",
+  "time_control": "TC: 5+3",
+  "time_left": 87,
+  "timestamp": "2026-02-24T02:31:53.971353",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "result": "win",
+    "opponent": "PZChessBot",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Bxc7 Qxc7 Nxf5 gxf5 Re3 Nf6 Rxe7 Qxe7 Ra1 Qe2 Rf1 f4 Qc6 Re6 Qa8+ Re8 Qc6 Re6 Qa8+ Kg7 Bxd5 Nxd5 Qxd5 Rg6 Qe5+ Qxe5 dxe5 fxg3 Ra1 a6 Kg2 gxf2+ Kxf2 Rb6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be7 f3 Be6 Qd2 h5 Nd5 Nxd5 exd5 Bf5 Be2 Bh4+ g3 Be7 O-O-O a5 Bd3 Bd7 Qe1 Na6 a3 a4 Nd2 Rc8 Kb1 Nc5 Be2 Qc7 h3 O-O g4 h4 c3 b5 Ne4 Nxe4 fxe4 g5 c4 bxc4 Rc1 Qb7 Bxc4 Rb8 Qe2 Qa8 Ba6 Rb3 Rc7 Rfb8 Ba7 Rxb2+ Qxb2 Rxb2+ Kxb2 Qd8 Rhc1 Be8 Bb6 Bf8 Kc3 Bd7 Kb4 Bxg4 hxg4 Qf6 Rf1 Qg6 Rf5 h3 Bg1 Qh6 Rfxf7 Qg6 Rf5 Bg7 Bc8",
+    "duration": 567,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1771899549.759505
+  "updated": 1771900313.9714608
 }
