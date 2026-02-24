@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "Cheszter",
+  "rating": 3085,
+  "opponent": "canary_colinbot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 76,
-  "timestamp": "2026-02-24T21:07:06.610215",
+  "time_control": "TC: 1+1",
+  "time_left": 60,
+  "timestamp": "2026-02-24T21:07:15.737374",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "opponent": "canary_colinbot",
+    "rating_before": 3085,
+    "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Nb3 Nd6 Qe2 c6 Re1 b6 Be5 g6 g4 Be6 h3 Ne8 Qf3 Bh4 Bh2 Qd7 Nd2 Be7 Qe3 Ng7 a4 Bd6 Bxd6 Qxd6 Nf3 Re8 Qe5 Qd8 Qg3 f6 Nh4 Bd7 Rxe8+ Bxe8 Ng2 Bf7 h4 Ne6 b4 a5 Qf3 axb4 cxb4 Nxd4 Qc3 c5 bxc5 bxc5 a5 Qe7 a6 Be8 Nf4 Bc6 Qe3 Qe5 Kh2 Qd6",
-    "duration": 180,
+    "moves": "",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1771967226.6103566
+  "updated": 1771967235.7375002
 }
