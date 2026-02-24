@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "P-chessbot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 7,
-  "timestamp": "2026-02-24T18:59:09.594689",
+  "rating": 3083,
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 21,
+  "timestamp": "2026-02-24T19:03:22.751949",
   "last_game": {
-    "result": "win",
-    "opponent": "P-chessbot",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "is_BOSS",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Qe2 Bc5 O-O Qe7 c3 O-O Re1 Ng4 Rf1 Nf6 d3 a6 Bxc6 dxc6 Re1 Re8 Qc2 Bg4 Nbd2 Rad8 b4 Ba7 h3 Bh5 Rb1 Qd6 c4 Qxd3 Qxd3 Rxd3 c5 b6 Rb3 Rxb3 Nxb3 Bg6 Bb2 Bxe4 Nxe5 Bd5 Bc3 Ne4 Nd3 f5 Ndc1 Re6 Nd4 Rg6 Nxf5 Nxc3 Ne7+ Kf7 Nxg6 hxg6 Re3 Ne4 f3 Ng5 Rc3 bxc5 bxc5 Ne6 Nd3 Bxa2 Kf1 Bb1 Ne5+ Kf6 Nxc6 Bxc5 Nb8 Bd6 Nxa6 Ba2 Nb8 Bd5 Kf2 Ke7 Na6 c5 Rc1 c4 g3 Bb7 Rxc4 Bxa6 Rc1 Bc5+ Kg2 Bb7 g4 Nf4+ Kh2 Bd6 Rf1 g5 Kg3 Nd3+ Kg2 Ne5 Ra1 Bxf3+ Kf2 Ke6 Re1 Bc5+ Kg3 Bd5 Re2 Be7 Re1 Bd6 Kf2 Bb4 Rb1 Bc5+ Ke1 Nd3+ Kf1 Nf4 Rb8 Nxh3 Rg8 Kf6 Rc8 Bd6 Rd8 Ke5 Rd7 g6 Rd8 Nf4 Rc8 Ke4 Rc1 Bb4 Rc2 Kf3 Kg1 Kg3 Rc8 Be4 Re8 Nh3+ Kf1 Bd3+ Re2 Nf4 Kg1 Nxe2+ Kf1 Nf4+ Kg1 Bc5+ Kh1 Be4#",
-    "duration": 222,
+    "moves": "e3 e5 d4 c6 c4 exd4 exd4 Ne6 Nf3 Nf6 a3 d5 Ne3 Bc7 Bb4 Bd6 Ba5 Bd7 Qe2 Bc7 Bxc7 Nxc7 c5 Qe7 Ne5 g6 f4 Ne6 Qd2 Nxf4 O-O N6h5 Kh1 f5 Bc2 Rf8 Rfe1 Ne6 b4 Qh4 Nf3 Qf4 b5 Re8 a4 Nf6 b6 Kd8 a5 a6 Re2 Ne4 Qb4 Qh6 Bxe4 Nf4 Ree1 fxe4 Ne5 Rxe5 dxe5 Be6 Rf1 Kd7 Nc2 Nd3 Qc3 Rf8 Rf6 Rxf6 exf6 Qf4 Qd4 Nf2+ Kg1 Ng4 g3 Qf3 f7 Bxf7 Qd2 Be6 Qf4 Qxf4 gxf4 Nh6 Kf2 Nf5 Rb1 Kd8 Rb2 h6 Rb1 Nh4 Nd4 Bd7 Rg1 Ke7 Ke2 Bc8 Ke3 Bd7 Ke2 Kf7 Kd2 Kf6 Ke3 Bc8 Kd2 Bf5 Rg3 Bc8 Rg1 Bd7 Ke3 Kg7 Kf2 Kf7 Ke2 Kg7 Rg3 Kf6 Rg1 Nf5 Nxf5 Bxf5 Ke3 Bh3 Rg3 Be6 Rg2 Bh3 Rg3 Bf5 Rg2 Bh3 Rg3",
+    "duration": 274,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1771959549.5947635
+  "updated": 1771959802.7521145
 }
