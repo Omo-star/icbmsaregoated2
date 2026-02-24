@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3078,
-  "opponent": "colinbot",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: \u00bc+1",
-  "time_left": 16,
-  "timestamp": "2026-02-24T18:03:00.331994",
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-02-24T18:04:12.782352",
   "last_game": {
-    "result": "win",
-    "opponent": "colinbot",
+    "result": "draw",
+    "opponent": "Bharat_royals",
     "rating_before": 3078,
     "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Qh5 g6 Qb5 c6 Qxb7 f5 Ba6 Nf6 Bxc8 O-O f3 d5 g3 f4 Ng5 Ne4 d3 hxg5 h4 fxg3 dxe4 d4 O-O g5 Kh1 Kh8 Nd5 cxd5 e4 Bd2 h5 g4 Rg1 d3 cxd3 Qb6 Be3 Rxf3 a3 Qxg1+",
-    "duration": 61,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Rc3 Rd4 g3 Nxb2 Rxc5 Nd1 Nf5 Rxg4 Ke2 Nb2 f4 g6 Nd4+ Kd6 Rc2 Kd5 Kf3 h5 Nb5 Nc4 Nc3+ Kd4 Nb5+ Kd5 Nc3+ Kd4 Nb5+ Kd5 Nc3+",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1771956180.3320582
+  "updated": 1771956252.7824624
 }
