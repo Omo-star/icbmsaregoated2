@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3030,
-  "opponent": "CruelKen",
+  "opponent": "Percy_engine_v1",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 341,
-  "timestamp": "2026-02-24T20:12:03.627357",
+  "time_control": "TC: 5+5",
+  "time_left": 300,
+  "timestamp": "2026-02-24T20:12:35.750755",
   "last_game": {
     "result": "draw",
-    "opponent": "CruelKen",
+    "opponent": "Percy_engine_v1",
     "rating_before": 3030,
     "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 O-O O-O Qc2 b6 Ne5 Bb7 Rd1 Nbd7 cxd5 cxd5 Nc6 Qe8 Nxe7+ Qxe7 Qc7 Ba6 Nc3 Rfd8 Rac1 Ne8 Qc6 Ndf6 Qa4 Bb7 Qc2 Rdc8 Qd3 a5 Bf4 Nh5 Be5 f6 Qf3 fxe5 Qxh5 exd4 Rxd4 Nd6 Rdd1 Qf6 e3 h6 Qe2 Kh8 Na4 Rc6 Rxc6 Bxc6 Nc3 Rc8 h3 b5 e4 Nxe4 Nxe4 dxe4 Rc1 Qd8 Bxe4 Bxe4",
-    "duration": 600,
+    "moves": "",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1771963923.6274693
+  "updated": 1771963955.7508326
 }
