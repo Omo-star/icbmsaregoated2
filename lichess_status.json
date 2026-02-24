@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3086,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 25,
-  "timestamp": "2026-02-24T19:07:04.646093",
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 32,
+  "timestamp": "2026-02-24T19:09:28.116654",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
+    "opponent": "Bharat_royals",
     "rating_before": 3086,
     "rating_after": 3086,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c4 d4 b4 c5 e3 Nf6 b5 Qc7 g3 e5 d3 Bd6 Bg2 h6 a4 a6 Na3 O-O O-O Re8 Bd2 Qd8 Re1 Bf5 e4 Be6 Nh4 Bc7 f4 Bg4 Bf3 Bxf3 Nxf3 Nbd7 Rf1 Ba5 Bc1 Bb4 Qe2 Qb6 Ra2 Bxa3 Bxa3 exf4 gxf4 Nxe4 dxe4 axb5 axb5 Qg6+ Qg2 Rxe4 Qxg6 fxg6 Nd2 Re2 Rfa1 Kf7 Nb3 Rxa2 Rxa2 Ra4 b6 d3 Kf2 Rxc4 Na5 Ra4 Nxb7",
-    "duration": 71,
-    "bot_color": "white",
+    "moves": "g4 g5 Ng3 Ng6 e3 e6 f4 gxf4 exf4 f5 gxf5 exf5 Nc3 Nc6 Bf3 Bf6 Bf2 Nge7 d4 d5 O-O-O O-O-O Rfe1 Kb8 Kb1 Qg7 Qg2 Bf7 Na4 b6 Nc3 h5 Qf1 Qh6 Nge2 h4 a3 Rfe8 Qg2 Rg8 Qh1 Na5 Nc1 Qxf4 Rxe7 Bxe7 Nd3 Qh6 Ne5 Rgf8 Nxd5 Bd6 Nxf7 Rxf7 Qf1 Rfd7 Be1 Bxh2 Nb4 Rxd4 Rxd4 Rxd4 Qe2 Qd6 Qe8+ Qd8 Qe2 Qd6 Qe8+ Qd8 Na6+ Kc8 Qe2 Qd6 Qe8+ Qd8 Qe6+ Qd7 Qg8+ Qd8 Qe6+ Qd7 Qg8+ Qd8 Qe6+",
+    "duration": 170,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1771960024.6461983
+  "updated": 1771960168.116841
 }
