@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3078,
-  "opponent": "colinbot",
+  "rating": 2991,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 43,
-  "timestamp": "2026-02-24T18:26:43.286641",
+  "time_control": "TC: 3+0",
+  "time_left": 123,
+  "timestamp": "2026-02-24T18:30:03.004495",
   "last_game": {
     "result": "draw",
-    "opponent": "colinbot",
-    "rating_before": 3078,
-    "rating_after": 3078,
+    "opponent": "Cheszter",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 Be3 Bxe3 fxe3 Qe7 O-O Nd7 a3 a5 Nbd2 a4 Qe1 f6 d4 O-O Qg3 c5 h3 Re8 Rad1 b5 Nh4 Nb6 c3 Kh8 Kh2 Rb8 Rf2 Ra8 Nhf3 Nd7 Nh4 g6 Nhf3 Rf8 h4 Bb7 Kg1 Rae8 Rdf1 Qd6 c4 exd4 Qxd6 cxd6 exd4 Ba6 Rc1 Kg8 cxb5 Bxb5 Nb1 Bc6 Nc3 Bxe4 Rd2 Nb6 Nxe4 Rxe4 dxc5 dxc5 Rxc5 Nc4",
-    "duration": 132,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 d6 Nd2 Nh4 Ne4 Be7 Re1 a4 g3 Ng6 f4 Re8 Be3 Nf8 Qf3 h6 Rad1 Bd7 h3 c6 c4 Nh7 Bf2 cxd5 cxd5 f5 Nc3 Qa5 Rb1 Nf6 b4 axb3 Rxb3 Rac8 Bb6 Qa8 Bd4 Bd8 Re2 Rxe2 Qxe2 Ne8 Nb5 Qa5 Ra3 Qb4 Rb3 Qa5 Ra3 Qb4 Rb3 Qa5",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1771957603.2867668
+  "updated": 1771957803.0046144
 }
