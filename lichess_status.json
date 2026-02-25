@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "YearsOfWor",
+  "rating": 3079,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+5",
-  "time_left": 637,
-  "timestamp": "2026-02-25T06:31:54.877022",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-02-25T17:08:15.503811",
   "last_game": {
-    "result": "win",
-    "opponent": "YearsOfWor",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 f3 Be7 Qd2 Nbd7 g4",
-    "duration": 685,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Bg5 h6 Bh4 Ba7 Nbd2 g5 Bg3 O-O Bb3 Nh7 Kh1 Qf6 Nc4 Qg7 Ne3 Bxe3 fxe3 Kh8 Qc2 h5 h4 f6 Kh2 Ne7 a4 Bd7 Qe2 Ng8 Bc4 Nh6 Kg1 Bg4 Qe1 c6 Nh2 Rae8 Nxg4 Nxg4 Qe2 f5 exf5 d5 Bb3 e4 Rae1 exd3 Qxd3 Re4 hxg5 Nxg5 Kh1 Qf6 Bd1 Rfe8 Kg1 Qg7 Bxg4 Rxg4 f6 Qf7 Bh2 Ne4 Rf4 Reg8 Re2 Qg6 Qc2 Kh7 c4 Rxf4 Bxf4 Nxf6 cxd5 Nxd5 Qb3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1772001114.8771074
+  "updated": 1772039295.5039928
 }
