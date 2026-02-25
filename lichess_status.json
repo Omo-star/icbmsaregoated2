@@ -4,19 +4,19 @@
   "rating": 3080,
   "opponent": "MEGA-NOOB-BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 43,
-  "timestamp": "2026-02-25T18:23:17.364881",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2026-02-25T18:23:58.616952",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "MEGA-NOOB-BOT",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Be3 Nd4 Bxd4 exd4 Na4 c5 b4 axb4 axb4 Bc7 bxc5 Qe7 Nb6 Rxa1 Qxa1 Bxb6 cxb6 Nxe4 Be2 Nc3 Nxd4 Nxe2 Nxe2 O-O Kf1 Re8 Nf4 Bd7 Kg2 Bc6+ Nd5 h5 Qd4 Qe2 Ra1 f6 Ra3 Kf7 h4 Re5 Ra1 Kg6 Rc1 Kh7 Ra1 Re6 Ra8 Qd1 Ra1 Qd2 Kg1 Qe2 Kg2 Re8 Ra3 Re5 Ra8 Qd2 Rc8 Bxd5+ cxd5 Re1 Rc7 Qd1 Rxb7 Rg1+ Kh2 Rh1+ Kg2 Qf1+ Kf3 Qd1+ Kg2 Qf1+ Kf3 Qd1+ Kg2",
-    "duration": 93,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 Bd7 Qb3 dxc4 Qxc4 Qg6 O-O Bd6 Rfd1 Na5 Qd3 Qxd3 Bxd3 Rfd8 Be2 Rac8 Rac1 Be8 Ne4 Kf8 Nc5 Rb8 Ne1 b6 Ne4 Nb7 Nxd6 cxd6 Rc7 Rd7 Rc2 d5 Rdc1 Nd6 Ba6 b5 Nd3 Rb6 Nb4 Nc4 b3 Rdd6 bxc4 bxc4 Rb2 Rxa6 Nxa6 Rxa6 Rc3 g5 f3 Ke7 e4 dxe4 fxe4 Bc6 Re3 h5 a3 c3 Ra2 Kf8 Kf2 Bb7 Ke2 h4 Kd3 Rc6 Ra1 c2 Rc1 Ba6+ Kd2 Rd6 Kc3 Rc6+ Kb3 Rd6 Rxc2 Rxd4 Rc7 g4 g3 h3 Rxa7 Bf1 a4 Bg2 Kc3 Rd1 a5 Bf3 a6 Rh1 Ra8+ Kg7 a7 Rxh2 Rg8+ Kxg8 a8=Q+ Kg7 Qd8 Ra2 Qg5+ Kh7 Qf6 h2 Qxf7+ Kh6 Qxe6+ Kg7 Qe7+ Kg8 Rd3 Rc2+ Kxc2 Bxe4 Qxe4 h1=Q Qe6+ Kh8 Rd8+ Kg7 Rd7+ Kf8 Qf7#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1772043797.36497
+  "updated": 1772043838.6170154
 }
