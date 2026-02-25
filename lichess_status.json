@@ -6,17 +6,17 @@
   "variant": "Variant: Atomic",
   "time_control": "TC: 1+4",
   "time_left": 80,
-  "timestamp": "2026-02-25T19:15:12.183981",
+  "timestamp": "2026-02-25T19:17:30.116940",
   "last_game": {
     "result": "win",
     "opponent": "calico1",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Bb5 c6 Qh5 g6 Qe5 Qh4 g3 Qf4 f3 Qxe5 O-O a5 Ne4 f5 Nd6+ Bxd6 Be2 Nf6 e4 Nh5 Ng5 Nf4 exf5 O-O fxf4 d5 f5 e5 d4 c5 b4 cxd4 b5 Kh8 Ba3 d4 Bxf8 e4 Bc4 e3 Rae1 b6 Bg8 Nd7 g4 Ne5 fxg6 Bb7 Bd5 Rxf8 Rf6 Nd7 Rf3 e2 Rf7 Rxf7 h4 Bxd5 a4 Nc5 Kh2 Ne6+ h5 Nxg5+ Kg2 Kg8+ Kh2 Kg7+ Kg3 Ne6+ Kg2 Nf4+ Kg3 Ng2+ g5 Kh8+ Rh1 e1=Q+ Rxe1 Nxe1+ g6 Kg7+ Kf2 Nd3+ Ke2 Nb2 Kf1 d3+ Kg2 d2+ Kg3 d1=Q+ Kf4 Qd5+ c4 Qe4+ Kg3 Qf3+",
-    "duration": 476,
+    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Bb5 c6 Qh5 g6 Qe5 Qh4 g3 Qf4 f3 Qxe5 d4 a5 e4 f5 d5 e5 d6 Na6 f4 b6 Kf1 fxe4 Bd2 Bb7 Na4 cxb5 Bc3 O-O-O Ke1 Re8 Bd2 exf4 Be3 Nf6+ Ng5 Ng4+ Ne6 Nxe3+ Kd2 dxe6+ Kd3 Re3+ Kd4 Rd3+ Kc4 Ba6#",
+    "duration": 268,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1772046912.1840622
+  "updated": 1772047050.117
 }
