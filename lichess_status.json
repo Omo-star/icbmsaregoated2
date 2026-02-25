@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "Cheszter",
+  "rating": 3079,
+  "opponent": "Santi_Bullet",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 79,
-  "timestamp": "2026-02-25T21:41:59.276539",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-02-25T21:42:47.822608",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "result": "win",
+    "opponent": "Santi_Bullet",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O Be7 c3 a6 Ba4 O-O Re1 b5 Bc2 Re8 Nbd2 Bf8 a4 Rb8 axb5 axb5 h3 Ne7 Nf1 Ng6 d4 h6 Ng3 Be6 d5 Bd7 Nh2 Qc8 Be3 c6 dxc6 Be6 Bb3 Bxb3 Qxb3 Qxc6 Ng4 Nxg4 hxg4 Nf4 Red1 g6 f3 Be7 Ra7 Qc4 Qxc4 bxc4 Ra2 Nd3 Bxh6 Bh4 Nf1 Ra8 Ra3 Bf2+ Kh2 f6 Be3 Be1 Bd2 Bf2 Be3 Be1 Bd2 Bf2 Rda1 Rxa3 bxa3 Kf7 g3 Rb8 Ra2 Rb1 Kg2 Bc5 a4 Nc1 Rc2 Nd3 Ra2 Nc1 Rc2 Nd3 Ra2",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e3 Nf6 Nf3 e6 Ne5 c5 Nf3 d5 e4 Nxe4 d3 Nf6 Qe2 Nc6 Qd1 e5 Bg5 h6 Bxf6 Qxf6 d4 e4 Nfd2 cxd4 Qe2 Be7 f3 d3 Qd1 Qxb2 Nb3 dxc2 Qd2 cxb1=Q+ Rxb1 Qxb1+ Qd1 Bb4+ Kf2 Qxd1 Nd4 Qe1+ Kg1 Qe3#",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772055719.276629
+  "updated": 1772055767.822673
 }
