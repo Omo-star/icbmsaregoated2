@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "KaKaBot",
+  "rating": 3035,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+1",
-  "time_left": 24,
-  "timestamp": "2026-02-25T20:15:49.781838",
+  "time_control": "TC: 10+0",
+  "time_left": 595,
+  "timestamp": "2026-02-25T20:16:23.334768",
   "last_game": {
     "result": "draw",
-    "opponent": "KaKaBot",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "opponent": "abdcebot",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "d4 d5 c3 Nf6 Nf3 c5 dxc5 e6 c4 Bxc5 a3 O-O e3 b6 Nbd2 Bb7 Be2 Be7 b3 Ne4 Nxe4 dxe4 Nd4 Nd7 O-O Nc5 Bb2 Nd3 Bxd3 exd3 f4 Be4 Qg4 h5 Qxh5 Bf6 Rf2 Rc8 Rd1 Qe7 Qg4 Qc5 Bc3 a5 h4 Rcd8 h5 Kh7 a4 Rd7 Ba1 Re8 Kf1 Qd6 Rfd2 Qc5 Kf2 Qb4 Bb2 Rdd8 Ba1 Rg8 Rxd3 Bxd3 Rxd3 Qa3 Bc3 Qa2+ Qe2 Qb1 Rd1 Qe4 Qf3 Qxf3+ Kxf3 e5 fxe5 Bxe5 g4 f6 Rc1 Rd7 Nf5 Bxc3 Rxc3 Rc8 Nd4 Rc5 Ne6 Rc8 Nd4 Rd6 Rc1 Rc5 Rg1 Re5 Kf4 Rd7 Rd1 Kg8 Rc1 Rc5 Ne6 Rc8 Nd4 Rc5 Rb1 Re5 Nf5 Rc5 e4 Rd2 Ke3 Rg2 Kf4 Rf2+ Ke3 Rg2 Rd1 Rxg4 Kf3 Rg5 h6 gxh6 Rd6 Kh7 Rxb6 Kg6 Ne7+ Kg7 Nf5+ Kg6 Rb7 Re5 Rd7 Kh5 Ng3+ Kh4 Nf5+ Kh5 Rd1 Kg6 Rd7 Kh5",
-    "duration": 444,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Bxd4 exd4 Ke7 Be2 Rc3 Ke1 Kd6 Kd2 Rc2+ Ke3 Rc3+ Kd2 Rc2+ Ke3 Rc3+ Kd2",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772050549.7820122
+  "updated": 1772050583.334868
 }
