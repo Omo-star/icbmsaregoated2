@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "ArasanX",
+  "rating": 3087,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 180,
-  "timestamp": "2026-02-25T19:37:52.239052",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 22,
+  "timestamp": "2026-02-25T19:39:03.507954",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "opponent": "PositionalAI",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 d5 Nf3 b6 O-O c5 a3 Bxc3 bxc3 Ba6 cxd5 Bxd3 Qxd3 Qxd5 Nd2 Rd8 e4 Qd7 e5 Ne8 Ne4 cxd4 Ng5 f5 exf6 Nxf6 cxd4 Nc6 Bb2 h6 Nf3 Ne7 Rfe1 Nfd5 Qe4 Rac8 Qxe6+ Qxe6 Rxe6 Rc2 Rb1 Nc8 Ne1 Rd2 Rc6 Nd6 Nf3 Rd3 Rbc1 Rb3 R1c2 Nb5 a4 Na3 Rd2 Nb1 Re2 Nbc3 Bxc3 Rxc3 Ree6 Ra3 Rc4 Nf4 Re1 Nd3 Rb1 Rf8 Ne5 Rf4 Rc8+ Kh7 Nxd3 Rxd3 g3 Rfxd4 a5 Rd1+ Rxd1 Rxd1+ Kg2 Rd5 axb6 axb6 h3 h5 Rc3 g5 Rc7+ Kg6 Rc6+ Kg7 Rxb6 Ra5 Rb4 Ra2 Rb7+ Kg6 Rb1 Ra4 Rb6+ Kg7 Rb5 Kg6 Re5 Rb4 Re6+ Kg7 Kf1 Rb1+ Kg2 Rb4 Re5 Kg6 Kf1 Rb1+ Re1 Rb6 Re4 Rb2 Kg2 Kh7 g4 hxg4 hxg4 Rb1 Re5 Kg6 Rd5 Ra1 Rb5 Rc1 Rb6+ Kf7 Rb4 Ra1 Rb5 Kf6 Rf5+ Kg6 Rb5 Rc1 Re5 Ra1 Rb5",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra2 Kh3 Ra8 Kg2 Ra6 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Bg2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Ra1 Kh3 Kg6 Re2 Rb1 Rc2 Rd1 Re2 Rb1 Kh2 Kg7 Bh3 Kg6 Kg2 Kf6 f3 Nd6 Kg3 Rg1+ Kf2 Rb1 Kg3 Rg1+ Kh2 Rb1 Kg3",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772048272.2391384
+  "updated": 1772048343.5080612
 }
