@@ -3,20 +3,20 @@
   "playing": false,
   "rating": 3078,
   "opponent": "Viet-Test",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2026-02-25T22:21:00.471345",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00be+0",
+  "time_left": 36,
+  "timestamp": "2026-02-25T22:21:27.581349",
   "last_game": {
     "result": "draw",
     "opponent": "Viet-Test",
     "rating_before": 3078,
     "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "b4 Nf6 e4 b5 d3 e5 Nd2 Ng6 Ngf3 d6 g3 a5 a3 Be7 h4 h5 Ng5 Nd7 f4 f6 Ngf3 exf4 Nd4 d5 gxf4 axb4 f5 Nf4 axb4 Bd6 Rb3 dxe4 Nxe4 Bxe4 Qxe4 Qxe4 dxe4 O-O Rg1 Ne5 Rbg3 Rf7 Bc3 Kh8 Ne6 Nxe6 fxe6 Re7 Bxh5 Ra8 Kb1 Nc4 R3g2 c5 Bf7 Na3+ Kb2 Nc4+ Kb1 Na3+ Kb2 Nc4+ Kb1 Na3+",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kg2 Rb1 Kh3 Ra1 Bg2 Ra2 Rc2 Ra1 Re2 Ra2 Rc2 Ra1 Re2 Rb1",
+    "duration": 45,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772058060.4714444
+  "updated": 1772058087.5814595
 }
