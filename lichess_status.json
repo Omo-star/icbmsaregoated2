@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "PositionalAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 174,
-  "timestamp": "2026-02-25T19:19:59.282805",
+  "opponent": "calico1",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 1+4",
+  "time_left": 83,
+  "timestamp": "2026-02-25T19:21:19.179737",
   "last_game": {
-    "result": "draw",
-    "opponent": "PositionalAI",
+    "result": "win",
+    "opponent": "calico1",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Ne3 Kf7 Kf1 Ke6 Ke2 Nf4+ Kf1 Nd5 Re2 Nxe3+ Rxe3+ Kf7 Ke2 Rb8 b3 c4 bxc4 Rb2+ Kd3 Rxf2 c5 Rxa2 Re1 Ra3+ Kc4 Ra2 Kd3 Ra3+ Kc4 Ra2 Kd3",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Qh5 g6 Qb5 Nc6 Nf4 Nf6 Nxe6 d5 Qxb7 Qh4 Kd1 O-O Rb1 c5 Bb5 c4 Be8 Rxe8 b3 Qg5 f3 d4 Rf1 dxe3 f4 Qe7 h3 Qe1+",
+    "duration": 196,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772047199.2828894
+  "updated": 1772047279.1797974
 }
