@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "Santi_Bullet",
+  "rating": 3035,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-02-25T21:45:03.559309",
+  "time_control": "TC: 10+0",
+  "time_left": 358,
+  "timestamp": "2026-02-25T21:54:10.630324",
   "last_game": {
-    "result": "win",
-    "opponent": "Santi_Bullet",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "DarkOnBot",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "c4 d5 cxd5 e6 Nc3 exd5 d4 Qd7 Bf4 Qe7 Nxd5 Qd8 Nxc7+ Qxc7 Bxc7",
-    "duration": 30,
+    "moves": "Nf3 d5 c3 c5 h3 Nf6 e3 Bf5 Nh4 g6 Be2 Nc6 d4 e6 Nd2 Qc7 O-O O-O-O dxc5 Ne4 Nxe4 Bxe4 Nf3 Bxc5 Ng5 Ne5 Nxe4 dxe4 Qa4 Qc6 Qxc6+ bxc6 b4 Be7 f3 exf3 gxf3 Nd3 Rd1 Nxc1 Raxc1 Rxd1+ Rxd1 Rd8 Rxd8+ Kxd8 Bd3 Bf6 c4 Bc3 Be4 Kd7 b5 cxb5 cxb5 Ke7 Kf2 f5 Bc6 Ba5 Ke2 Kf6 Bb7 Bc7 a4 g5 Bc6 Ke7 e4 Kd6 exf5",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1772055903.5593982
+  "updated": 1772056450.6304173
 }
