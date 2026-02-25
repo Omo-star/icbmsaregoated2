@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2997,
-  "opponent": "calico1",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 1+4",
-  "time_left": 83,
-  "timestamp": "2026-02-25T19:21:19.179737",
+  "rating": 3087,
+  "opponent": "SF_Bot1nok",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 2+1",
+  "time_left": 144,
+  "timestamp": "2026-02-25T19:22:19.316760",
   "last_game": {
-    "result": "win",
-    "opponent": "calico1",
-    "rating_before": 2997,
-    "rating_after": 2997,
+    "result": "draw",
+    "opponent": "SF_Bot1nok",
+    "rating_before": 3087,
+    "rating_after": 3087,
     "rating_delta": 0,
-    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Qh5 g6 Qb5 Nc6 Nf4 Nf6 Nxe6 d5 Qxb7 Qh4 Kd1 O-O Rb1 c5 Bb5 c4 Be8 Rxe8 b3 Qg5 f3 d4 Rf1 dxe3 f4 Qe7 h3 Qe1+",
-    "duration": 196,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Qg8 d4 Rd8 Rd3 exd4 Nxa4 Qa2 Nb2 c5 bxc5 Qb1 c6+ Kb8 Rd1 Rc5 Nd3 Rxc2 Rxc2 Qxc2+ Rd2 Qxc6 Rb2 Bg5 Qf5 h3+ Qxh3 Qc3 Qh5 Qxd3 Qxg5 Rh8 Qxf4 Qd1 Rxb6+ Ka8 Ra6+ Kb8 Rb6+ Ka8 Ra6+ Kb8 Rb6+",
+    "duration": 229,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1772047279.1797974
+  "updated": 1772047339.3168447
 }
