@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3080,
-  "opponent": "Bot1nokk",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 14,
-  "timestamp": "2026-02-25T20:38:55.087276",
+  "opponent": "Viet-Test",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: \u00be+0",
+  "time_left": 13,
+  "timestamp": "2026-02-25T20:39:50.381350",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
+    "result": "loss",
+    "opponent": "Viet-Test",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "b3 b6 g3 Bxh1 Rxh1 g6 Bxh8 Rxh8 e4 Ncd6 d3 f5 Qe2 Qc8 c4 Qb7 f3 e5 exf5 Nf6 Qxe5 Kf7 fxg6+ hxg6 Ne2 Nf5 Kg2 Rhe8 Qb2 b5 Nc3 Ne3+ Kg1 bxc4 dxc4 Qc6 Qf2 d5 Ng2 d4 Ne2 Rbd8 Nxd4 Rxd4 Nxe3 Rd3 Re1 Qb6 Ng2 Qa5 Rxe8 Nxe8 h4 Rd2 Qf1 Nf6 Kh2 Qxa2 Rg1 Qxb3 Qc1 Qd3 Qe1 a5 Qe5 Qxf3 Qxc7+ Kg8 Qxa5 Ng4+ Kh3 Nf2+ Kh2 Ng4+ Kh3 Nf2+ Kh2 Qg4 Qa8+ Kg7 Qa7+ Kg8 Qa8+ Kg7 Qa7+ Kh6 Qe3+ Kh7 Qa7+ Kh8 Qb8+ Kh7 Qa7+ Kg8 Qa8+ Kf7",
-    "duration": 30,
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rc1 Ne7 Kf4 h6 gxh6 Nc8 Kg4 Nb6 h7 Nc4 Rg1 Na5 c4 Nxc4 Kg5 Kf8 h8=K Ke8 Kg7 Kd8 Kf5 Ne5 Kxe5 Ra8 Kf4 a2 Nd3 Ra7 Rf1 Ra8 Kg6 Kc7 Kff5 Kd8 h6 d6 h7 Rc8 Rb1 axb1=N Nc5 dxc5 h8=K c4 Kf7 Kd7 Ke4 Rxh8 Kd3 cxd3 Ke6+ Kxe6",
+    "duration": 45,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "variantEnd"
   },
-  "updated": 1772051935.0873964
+  "updated": 1772051990.3814168
 }
