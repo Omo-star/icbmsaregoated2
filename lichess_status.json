@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
+  "rating": 3080,
   "opponent": "colinbot",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 3+2",
-  "time_left": 162,
-  "timestamp": "2026-02-26T07:55:36.783906",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 59,
+  "timestamp": "2026-02-26T07:57:04.225210",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "colinbot",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nd4 Nxf7 Kxf7 @e6+ Ke8 Nc3 N@f4 O-O Bc5 @e3 Nxg2 exd4 exd4 Na4 Nf4 d3 @e2 Bxf4 exd1=B Raxd1 @f3 N@e1 Bxe6 dxe6 @g2 N@g3 gxf1=Q+ Nxf1 R@g2+ Nxg2 fxg2 Bb5+ Kf8 R@f7+ Kg8 Rxg7+ Kxg7 @h6+ Kg6 @f5+ Kxf5 Ng3+ Kxf4 B@d2+ Kg4 f3+ Kh3 Nxc5 R@h1+ Kf2 N@g4+ fxg4 Nxg4+ Kf3 Q@f2+ Ke4 @d5#",
-    "duration": 312,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "b3 c5 Ng3 Nf6 Ba3 b6 d4 cxd4 Qxd4 d5 c4 Bd6 c5 bxc5 Bxc5 Ng6 Rc1 Bxc5 Qxc5 O-O Bxg6 hxg6 Qxe7 d4 O-O Rfe8 Qc5 Ba6 Nf3 Ne4 Nxe4 Qxe4 Rfe1 Bxe2 Rc4 Qf4 Rxd4 Bxf3 Rxd8 Rxd8 gxf3 Qxf3 Qe3 Qg4+ Qg3 Qb4 Qe5 Qg4+ Qg3 Qb4 Qe3 Qg4+ Qg3",
+    "duration": 113,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772092536.7839775
+  "updated": 1772092624.2253392
 }
