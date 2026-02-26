@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3079,
-  "opponent": "Jibbby",
+  "opponent": "Licht94",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 66,
-  "timestamp": "2026-02-26T17:39:36.533914",
+  "time_control": "TC: 1+2",
+  "time_left": 7,
+  "timestamp": "2026-02-26T17:45:05.709711",
   "last_game": {
-    "result": "win",
-    "opponent": "Jibbby",
+    "result": "draw",
+    "opponent": "Licht94",
     "rating_before": 3079,
     "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "a3 e5 Ra2 d5 d4 exd4 Qxd4 Nc6 Qf4 Bd6 Qg5 Nf6 Qxg7 Rg8 Qh6 Rg6 Qe3+ Ne4 b4 a5 f3 Be6 bxa5 Qh4+ g3 Bxg3+ hxg3 Qxg3+ Kd1 Nf2+ Kd2 d4 Qxf2 Qxf2 Nh3 Bxh3 Bxh3 Qe3+ Kd1 Rg1+ Rxg1 Qxg1+ Kd2 Nxa5 Bf5 Qe3+ Kd1 Qg1+ Kd2 Nc4+ Kd3 Qxc1 Kxc4 Qxb1 Kxd4 Rd8+ Ke3 Qg1+ Kf4 Rd4+ e4 f6 Bg4 Qh2+ Kf5 Qe5#",
-    "duration": 186,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 Nxc3 bxc3 Bg7 Nf3 c5 Rb1 O-O Be2 cxd4 cxd4 Qa5+ Bd2 Qxa2 O-O b6 Qc1 Bb7 Bc4 Qa4 Bb5 Qa2 Re1 Rc8 Qd1 Qc2 Qe2 Nc6 Bd3 Qa2 Bc4 Qa4 Bb3 Qa3 Bxf7+ Kxf7 Qc4+ e6 Ng5+ Ke8 Nxe6 Qe7 d5 Nd4 Qa4+ b5 Rxb5 Nxb5 Qxb5+ Kf7 Nxg7 Kxg7 d6 Qf7 d7 Rf8 f3 Rad8 Bc3+ Kg8 Rd1 Qe6 Qxb7 Rf7 Qxa7 Rfxd7 Rxd7 Qxd7 Qa2+ Qf7 Qa5 Qe7 Bd2 Qd6 Be3 Rd7 Qa2+ Kg7 Qb2+ Kf7 h3 h5 Qb5 Qd3 Qg5 Qd6 Kh1 Qf6 Qa5 Rd1+ Kh2 Qd6+ f4 Qd3 Qa7+ Kg8 e5 Qb1 Qa6 Rh1+ Kg3 Qe1+ Bf2 h4+ Kf3 Qd1+ Ke4 Qc2+ Kf3 Qd1+ Qe2 Qd5+ Qe4 Qd1+ Qe2 Qd5+ Qe4 Qd1+ Ke3 Qc1+ Ke2 Qd1+ Ke3 Qc1+ Kf3 Qd1+ Qe2",
+    "duration": 330,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772127576.5339777
+  "updated": 1772127905.7098114
 }
