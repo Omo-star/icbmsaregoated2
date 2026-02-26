@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "MDBOT",
+  "rating": 2994,
+  "opponent": "RemstalBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+2",
-  "time_left": 72,
-  "timestamp": "2026-02-26T08:23:27.350143",
+  "time_control": "TC: 3+0",
+  "time_left": 79,
+  "timestamp": "2026-02-26T08:32:26.029271",
   "last_game": {
     "result": "draw",
-    "opponent": "MDBOT",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "opponent": "RemstalBot",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Nbd2 Be6 Bb5 h6 Re1 Bb6 b3 Nd7 Nc4 f5 exf5 Bxf5 d4 e4 Nh2 Qh4 Qd2 Ba7 Ne3 Bh7 Nd5 Kh8 a4 Rf5 g3 Qxh3 Bf1 Qh5 g4 Qg6 Nf4 Rxf4 Qxf4 Rf8 Qg3 Ne7 Bg2 Nf6 Ra2 Qf7 Rae2 c5 dxc5 d5 Rf1 Nc6 Be3 Bb8 Qh4 Ne5 f4 exf3 Nxf3 Nexg4 Bd4 Bd3 Ng5 Qd7 Rxf6 Rxf6 Re1 Bf5 Bxf6 Nxf6 Bh3 Kg8 Ne6 Be4 Kf2 Qf7 Ke3 Qg6 Nf4 Qf7 Ne6 Qg6 Nf4 Qe8 Ne6 Bh2 Rf1 Qg6 Nf4 Qf7 Ne6 Qg6 Nf4 Qf7 Ne6 Qg6",
-    "duration": 268,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Na4 Bd4 Rb1 a6 Nxd4 Nxd4 Be2 b5 Nc3 h6 O-O O-O Be3 c6 f4 Nxe2+ Qxe2 exf4 Bxf4 Re8 Bg3 d5 cxd5 Nxd5 Be1 Nf6 h3 a5 Qe3 axb4 axb4 Nd5 Qf2 Nf6 Qe3 Nd5 Qg3 Nf6 Rf3 Ra3 Qf2 Be6 Qe3 Qd7 Kh2 Kh7 Rc1 Qd6+ e5 Qb8 Bg3 Nd5 Qe4+ Kg8 Ne2 Qa8 Nd4 Ra1 Rxa1 Qxa1 Bf2 Qc3 Be1 Qa1 Bf2 Qa8 Be3 Qb8 Bxh6 gxh6 Rg3+ Kh8 Qh4 Kh7 Qe4+ Kh8 Qh4 Kh7 Qe4+ Kh8",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772094207.3502607
+  "updated": 1772094746.0293722
 }
