@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "Cheszter",
+  "rating": 3068,
+  "opponent": "Nezeronxer23",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 172,
-  "timestamp": "2026-02-26T20:57:42.990981",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 30,
+  "timestamp": "2026-02-26T20:58:15.061434",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "Nezeronxer23",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O a6 Bxc6+ bxc6 Re1 c5 c3 Be7 d4 cxd4 cxd4 exd4 Nxd4 Bd7 Nc3 O-O Qf3 h6 Nf5 Bxf5 Qxf5 Re8 Be3 Qb8 Re2 Bd8 Bf4 Re6 Rae1 Nd7 Qd5 Bf6 Qc6 Bxc3 Qxc3 Qb6 Be3 Qb7 f3 Rae8 Rc2 d5 Qxc7 Qb5 Rd1 Nf6 e5 Rxe5 Bf2 Re2 h3 Rxc2 Qxc2 Re2 Rd2 Rxd2 Qxd2 Nh7 Qc2 Ng5 Qc8+ Kh7 Qc2+ Kg8 a4 Qd7 Kf1 Ne6 Be3 g5 b3 d4 Bd2 Qd6 b4 Qd5 Qc8+ Kg7 Qc2 Nf4 h4 d3 Qc8 Qa2 Bc3+ f6 Qd7+ Kg6 Qe8+ Kg7 Qd7+ Kg8 Qd8+ Kh7 Qe7+ Kg8 Qd8+ Kh7 Qe7+ Kg8 Qe8+ Kg7 Qd7+",
-    "duration": 600,
+    "moves": "e4",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1772139462.9910994
+  "updated": 1772139495.0615253
 }
