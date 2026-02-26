@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "canary_colinbot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 30,
-  "timestamp": "2026-02-26T17:24:53.166036",
+  "rating": 3079,
+  "opponent": "Bharat_royals",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 58,
+  "timestamp": "2026-02-26T17:26:53.469427",
   "last_game": {
     "result": "draw",
-    "opponent": "canary_colinbot",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "opponent": "Bharat_royals",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 f3 b5 Qd2 Nbd7 g4 h6 O-O-O b4 Nce2 Qc7 h4 d5 Bf4 e5 Bh2 dxe4 g5 hxg5 hxg5 Rxh2 Rxh2 exd4 Rh4 Nd5 Rxe4+ Be7 Qxd4 Bb7 Qxg7 O-O-O Bh3 Qh2 Qh6 Qf2 g6 fxg6 Qxg6 Qxf3 Bg2 Nf4 Bxf3 Nxg6 Rc4+ Kb8 Bxb7 Kxb7 Re4 Kc7 b3 Nc5 Rxd8 Nxe4 Rd4 Nf6 c3 bxc3 Nxc3 Ne5 Kc2 Nc6 Rd1 Ba3 Nb1 Nd5 Kd3 Bd6 Ke4 Nf6+ Kf5 Nd7 Nd2 Nd4+ Ke4 Nb5 Rc1+ Kb7 Kd3 Nc5+ Kc4 Nd7 Rh1 Nb6+ Kd3 Nd5 a4 Nbc7 Ke4 Bb4 Nc4 Nf6+ Kd4 Ncd5 Rc1 Nf4 Rf1 N4d5 Rc1 Nf4 Rf1 N4d5 Rh1 Bc3+ Kd3 Bb4 Ne5 a5 Kc4 Ne3+ Kd4 Nf5+ Kd3 Nd5 Rh8 Nd6 Rh7+ Kb6 Nd7+ Kc6 Ne5+ Kc5 Nd7+ Kc6 Nb8+ Kb6 Kd4 Nf6 Nd7+ Nxd7 Rxd7",
-    "duration": 201,
-    "bot_color": "white",
+    "moves": "b3 b5 Nf3 Ne6 c4 Nf6 Bxf6 exf6 Qxh7 bxc4 Rxc4 d5 Rc2 c5 g3 Rc7 Ne3 g6 Ng2 d4 Nf4 Nxf4 gxf4 c4 bxc4 d3 Rc1 Bc6 O-O dxe2 Rfe1 f5 Qh4+ Kc8 Ne5 Bxh1 Kxh1 Qb7+ Kg1 Qb2 d3 Qd2 Qg3 Rd8 Qf3 Bxe5 fxe5 Rxd3 Qxe2 Qxe2 Rxe2 Kd7 c5 Rd5 c6+ Rxc6 Rxc6 Kxc6 e6 fxe6 Rxe6+ Rd6 Rxd6+ Kxd6 Kg2 g5 Kg3 g4 f3 gxf3 Kxf3 a6 a3 a5 h3 a4 h4 Kd5 h5 Ke5 h6 Kf6 h7 Kg7 h8=Q+ Kxh8 Kf4 Kg8 Kg5 Kh8 Kh5 Kg8 Kg5 Kh8 Kh5 Kg8 Kg5 Kh8",
+    "duration": 196,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772126693.1661518
+  "updated": 1772126813.4694922
 }
