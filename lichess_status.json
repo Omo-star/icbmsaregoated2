@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
+  "rating": 2994,
   "opponent": "colinbot",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: \u00bc+1",
-  "time_left": 19,
-  "timestamp": "2026-02-26T07:49:59.760548",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 3+2",
+  "time_left": 162,
+  "timestamp": "2026-02-26T07:55:36.783906",
   "last_game": {
     "result": "win",
     "opponent": "colinbot",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "Nh3 h6 e3 e6 Nc3 Bb4 Qh5 g6 Qb5 Nc6 Nf4 Nf6 Nxe6 d5 Qxb7 Qh4 Kd1 O-O Bb5 c5 b3 c4 Rb1 Qg5 Rf1 Qf5 d3 cxd3 e4 Qc8 c3 dxe4 Bg5 Qf5 Bc4 Bxc3 Be7 Rfe8 Ra1 Qc2# Ke1 Qxf2+",
-    "duration": 57,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nd4 Nxf7 Kxf7 @e6+ Ke8 Nc3 N@f4 O-O Bc5 @e3 Nxg2 exd4 exd4 Na4 Nf4 d3 @e2 Bxf4 exd1=B Raxd1 @f3 N@e1 Bxe6 dxe6 @g2 N@g3 gxf1=Q+ Nxf1 R@g2+ Nxg2 fxg2 Bb5+ Kf8 R@f7+ Kg8 Rxg7+ Kxg7 @h6+ Kg6 @f5+ Kxf5 Ng3+ Kxf4 B@d2+ Kg4 f3+ Kh3 Nxc5 R@h1+ Kf2 N@g4+ fxg4 Nxg4+ Kf3 Q@f2+ Ke4 @d5#",
+    "duration": 312,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "mate"
   },
-  "updated": 1772092199.7606213
+  "updated": 1772092536.7839775
 }
