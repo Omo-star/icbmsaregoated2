@@ -3,20 +3,20 @@
   "playing": false,
   "rating": 3080,
   "opponent": "colinbot",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00bc+1",
-  "time_left": 23,
-  "timestamp": "2026-02-26T07:58:23.284311",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+1",
+  "time_left": 37,
+  "timestamp": "2026-02-26T08:00:29.322435",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "colinbot",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e3 e6 Ba6 Nxa6 b4 Bxb4 Qe2 Bxd2+ Qxa6 bxa6+ Kxd2 a5 Ne2 Qh4 Re1 Qxf2 a4 Qxe1+ Kxe1 Ba6 Ra2 Bxe2 Kxe2 e5 Kd2 c5 c4 Rc8 g4 Rc6 Kc3 f5 gxf5 d5 cxd5 Nf6 dxc6 c4 Kxc4 Nd5 Kxd5 Rf8 Kxe5 Rxf5+ Kxf5 g5 Kxg5 h6+ Kxh6 Kd7 cxd7 a6 h3",
-    "duration": 68,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "Nf3 Nf6 g3 g6 b3 Bg7 Bb2 O-O Bg2 d6 d4 e5 dxe5 Nfd7 O-O dxe5 e4 Re8 Qe2 b6 Rd1 Qe7 Nc3 c6 a4 a5 Bh3 Na6 Ba3 Ndc5 Bxc8 Rexc8 h4 Nc7 Kg2 h5 Nb1 Bf8 Nbd2 b5 Nf1 Qe8 Qe1 N7e6 Nxe5 Bg7 Bb2 bxa4 bxa4 Rcb8 Bc3 Ng5 Nxg6 Bxc3 Qxc3 Qxe4+ f3 Qe2+ Kh1 Qxf3+ Qxf3 Nxf3 Ne7+ Kf8 Nxc6 Rc8 Nd4 Ne5 Re1 Ng4 Ne3 Rd8 Nxg4 hxg4 Nf5 Rd2 Re5 Nd7 Re7 Rc8 Rae1",
+    "duration": 141,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772092703.2843845
+  "updated": 1772092829.3225636
 }
