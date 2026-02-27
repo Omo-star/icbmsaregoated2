@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "tbhOnBot",
+  "rating": 3070,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 22,
-  "timestamp": "2026-02-27T14:49:15.961063",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2026-02-27T14:50:12.718852",
   "last_game": {
-    "result": "loss",
-    "opponent": "tbhOnBot",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Rhh8 d4 Rad8 Rdd2 Bg7 Nxa4 Qa2 Nb2 Qb1 Rd1 Bf6 a4 Be7 Rh1 Qa2 Nd3 Rxd4 Bb2 Rxd3 cxd3 Bxb4 Ra1 Qb3 Bxe5 Qxd3 Raa2 Rh7 Bxf4 Qd1 Rec2 Qb1 Rab2 Qd1 a5 Bxa5 Rc1 Qd3 Ra1 Qd4 Rba2 Qf6 Qf5 Qxf5 exf5 c5 Rh1 Rh5 Bxg3 Rxf5 Rxh4 Bb4 Rh7 Kc6 Rxc7+ Kd5 Rc2 Rf6 Rc1 b5 f4 Ba3 Re1 Kc4 Re5 Rg6 f5 Rh6 Bf2 Rh5 Bxc5 b4 Kf3 Kb3 Kg4 Rh8 Bxb4 Bb2 Bc3 Rg8+ Kf3 Bxc3 Rxc3+ Kxc3",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Bg5 a6 Na3 b5 Nd5 Be7 Bxf6 Bxf6 c3 Rb8 Nc2 Bg5 a4 bxa4 Ncb4 Nxb4 cxb4 Bd7 Bxa6 O-O O-O Kh8 Bc4 Qc8 Qe2 Qe8 Ra3 f5 exf5 Rxf5 g3 Rf8 b5 Bf6 Rxa4 Bxb5 Rb4 Bxc4 Qxc4 Rxb4 Qxb4 Qb8 Qc3 Bd8 Qc6 Qxb2 Qxd6 Kg8 Qe6+ Kh8 Qd6 Kg8 h4 h6 f3 Qd4+ Kg2 Bb6 Ne7+ Kf7 Nf5 Qxd6 Nxd6+ Kg8 h5 g6 hxg6 Kg7 Rc1 Kxg6 Ne4 Bd4 Rc6+ Kg7 Rc7+ Kg6 Rc6+ Kg7 g4 Be3 Ng3 Bg5 Re6 Bf4 Nh5+ Kh7 Re7+ Kg8 Rg7+ Kh8 Re7 Kg8 Rg7+ Kh8 Ra7 Kg8 Ra4 Rf7 Nxf4 Rxf4 Rxf4 exf4 g5 hxg5 Kf2 Kf7 Ke2 Kg6 Kf2 Kf5 Ke2 g4 fxg4+ Kxg4 Kf2 f3 Kf1 Kg3 Kg1 Kf4 Kf2 Kg4 Kf1",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1772203755.9611552
+  "updated": 1772203812.718918
 }
