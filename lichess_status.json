@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3031,
-  "opponent": "bot913",
+  "opponent": "bestbotever",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+5",
-  "time_left": 155,
-  "timestamp": "2026-02-27T09:20:23.732751",
+  "time_control": "TC: 15+10",
+  "time_left": 900,
+  "timestamp": "2026-02-27T09:20:56.364809",
   "last_game": {
     "result": "draw",
-    "opponent": "bot913",
+    "opponent": "bestbotever",
     "rating_before": 3031,
     "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 d6 c3 O-O h3 Nb8 d4 Nbd7 Nbd2 Bb7 Bc2 Re8 Nf1 Bf8 Ng3 a5 Bd2 a4 Qe2 h6 Qd1 Ra6 b3 axb3 axb3 Rxa1 Qxa1 c6 Qc1 Qc7 Bd3 Qd8 Rd1 Qa5 b4 Qc7 Be3 Bc8 Kh1 Nb6 Qd2 Rd8 Qe1 Re8 Qd2 Qb7 Kh2 Qa7 Kh1 Qb7 Qe2 Qc7 Rc1 exd4 cxd4 Nc4 Bd2 Bd7 Bc3 Nd5 Bxc4 bxc4 Qxc4 Nxc3 Qxc3",
-    "duration": 985,
+    "moves": "c4",
+    "duration": 910,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1772184023.732883
+  "updated": 1772184056.36489
 }
