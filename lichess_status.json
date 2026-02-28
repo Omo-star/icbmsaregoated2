@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
-  "opponent": "SF_Bot1nok",
+  "rating": 2982,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 139,
-  "timestamp": "2026-02-28T09:01:19.770994",
+  "time_control": "TC: 3+1",
+  "time_left": 80,
+  "timestamp": "2026-02-28T09:07:21.223798",
   "last_game": {
-    "result": "loss",
-    "opponent": "ToromBot",
+    "result": "draw",
+    "opponent": "YoBot_v2",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "noStart"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 Rc3 Ne7 Qc1 Qe5 Bd3 Nd5 Rc8 Qd6 Rxd8 Qxd8 Nd4 b6 g3 Kf8 Qc4 Qd6 Qc8 Qc7 Qxc7 Nxc7 f4 Ke7 e4 Kd6 Nf3 f6 e5+ fxe5 Nxe5 Kc5 Kf2 Kd4 Ke2 Kc5 Ke3 Nd5+ Ke4 Nf6+ Ke3 Nd5+ Kd2 a5 Bf1 Kd4 Nf3+ Kc5 Ne5 Kd4 Bh3 Ne3 Bxe6 Nf1+ Ke2 Nxh2 Kf2 h5 Bf5 g5 Bh3 gxf4 gxf4 Ng4+ Nxg4 hxg4 Bxg4 Kd3 f5 a4 f6 Kc2 Bd7 Bf7 Ke3 Kxb2 Bxa4 Kxa3",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772269279.7711341
+  "updated": 1772269641.2238946
 }
