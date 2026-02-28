@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2966,
-  "opponent": "chessbot2880",
+  "rating": 2967,
+  "opponent": "Space_BOT",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 113,
-  "timestamp": "2026-02-28T16:10:34.121431",
+  "time_left": 15,
+  "timestamp": "2026-02-28T16:16:48.646187",
   "last_game": {
-    "result": "draw",
-    "opponent": "chessbot2880",
-    "rating_before": 2966,
-    "rating_after": 2966,
+    "result": "loss",
+    "opponent": "Space_BOT",
+    "rating_before": 2967,
+    "rating_after": 2967,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nc3 Bb4 Qb3 c5 Nf3 Nc6 e3 cxd4 exd4 d5 cxd5 Qxd5 Bc4 Qd6 O-O O-O Bd3 Nxd4 Nxd4 Qxd4 Rd1 Qb6 Bg5 Be7 Qxb6 axb6 Bb5 e5 Be3 Bc5 Bxc5 bxc5 Re1 Be6 Rxe5 b6 Ree1 g6 Red1 Rfd8 a3 Nd5 Nxd5 Bxd5 Kf1 Kf8 g3 g5 Rac1 Be6 Ke2 Ke7 Rxd8 Rxd8 Rc3 Rg8 Ke3 h5 Be2 h4 b4 hxg3 hxg3 Ra8 bxc5 bxc5 Rxc5 Rxa3+ Kd4 Ra2 Ke3 f5 Bb5 f4+ gxf4 gxf4+ Kxf4 Rxf2+",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Bc3 Qe6 Ke2 g5 Nd2 h5 f3 g4 Nc4 Bf6 Rh1 O-O-O Qf2 Kb8 a3 g3 Qf1 Rdg8 Qh3 Qe7 Rag1 h4 b4 b6 Kf1 a5 Kg2 Rd8 Re1 Rh5 Re2 Rf8 bxa5 b5 Rb1 Ka7 Nd2 Rb8 Nb3 c5 Rd1 Qd6 a6 Rh6 Rb1 Be7 Rd2 Bf8 Nc1 Qe7 Ba1 Qe8 Ne2 Rxa6 c4 bxc4 Rxb8 Kxb8 dxc4 Rd6 Ra2 Qd8 Bc3 Bg7 Rb2+ Ka7 Rb5 Rh6 Ng1 Rd6 Rxc5 c6 Ba5 Qe8 Bb4 Rd3 Ra5+ Kb6 Kh1 Qd7 Qxd7 Rxd7 Kg2 Bf6 Ra8 Be7 Bc3 Bd6 Ba5+ Kc5 Rd8 Rxd8 Bxd8 Kxc4 a4 c5 a5 Kb5 Kh3 Bb8 Kxh4 c4 Ne2 Bd6 Kg4 Ka6 Kf5 Bc5 Bf6 g2 Bxe5 Kxa5 Bxf4 Kb5 e5 c3 e6 Kc4 Ke4 c2 Bc1 Kb5 f4 Kc6 Ke5 Kc7 Kf6 Kb6 e7 Bd4+ Kg6 g1=Q+ Nxg1 Bxg1 e8=Q Bf2",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1772295034.1215646
+  "updated": 1772295408.6463335
 }
