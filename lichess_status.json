@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2964,
-  "opponent": "Space_BOT",
+  "opponent": "tombot1234",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 71,
-  "timestamp": "2026-02-28T16:38:40.781660",
+  "time_left": 82,
+  "timestamp": "2026-02-28T16:41:35.656900",
   "last_game": {
-    "result": "draw",
-    "opponent": "Space_BOT",
+    "result": "win",
+    "opponent": "tombot1234",
     "rating_before": 2964,
     "rating_after": 2964,
     "rating_delta": 0,
-    "moves": "c3 e5 e4 d5 exd5 Qxd5 d4 Nc6 Nf3 Nf6 Be2 e4 Nfd2 e3 Nf3 exf2+ Kxf2 Ne4+ Kg1 Be6 Be3 Qd7 Nbd2 Nf6 Bf2 Bd6 Nc4 Bxc4 Bxc4 O-O-O Qa4 Rhe8 d5 Ne5 Bb5 c6 dxc6 bxc6 Nxe5 cxb5 Qa6+ Qb7 Qxb7+ Kxb7 Nxf7 Rd7 Nxd6+ Rxd6 Bd4 Re2 h4 Ne4 g4 Rxb2 Rh2 Rxh2 Kxh2 g6 Re1 Re6 Kg2 a5 Rf1 Nd6 Rf8 a4 Kf3 Kc6 Be3 Re7 Rb8 Rf7+ Ke2 Kd5 Rd8 Kc6 Rb8 Kd5 Rd8 h5 gxh5 gxh5 Bg5 Ke5 Be3 Rf5 Bd4+ Kd5 Bg1 Re5+ Kf3 Rf5+ Ke2 Ke6 Rh8 Nc4 Bf2 Kd5 Rd8+ Kc6 Bd4 Nd6 Rh8 Nf7 Rb8 Nd6 Rh8 Kc7 Rh7+ Nf7 Kd3 Kc6 Ke4 Nd6+ Kd3 Nf7 Ke4 Nd6+ Kd3 Nc4 Ke4 Nd6+",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Bc5 c3 Qf6 d4 exd4 e5 Nxe5 Qe2 dxc3 Nxe5 Bxf2+ Qxf2 Qxe5+ Kf1 cxb2 Bxb2 Qg5 Nd2 Ne7 Re1 O-O h4 Qa5 Bb3 Qb4 Rxe7 d5 Qd4 Qxd4 Bxd4 c6 Kf2 Rb8 Rhe1 b6 Be5 Rb7 Rxb7 Bxb7 Bd6 Rc8 Re7 Ba8 Nc4 dxc4 Bxc4 h5 Bxf7+ Kh8 Re5 g6 Re7 Rf8 Ra7 Rxf7+ Rxf7 a5 Ra7 Kg8 Ke3 a4 Ke4 b5 Rxa8+ Kf7 Ke5 g5 Kf5 b4 Ra7+",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1772296720.7818556
+  "updated": 1772296895.656965
 }
