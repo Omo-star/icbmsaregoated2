@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2970,
-  "opponent": "sluicing",
+  "opponent": "blackEventhorizon",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 101,
-  "timestamp": "2026-02-28T17:52:40.272679",
+  "time_left": 15,
+  "timestamp": "2026-02-28T17:58:02.821044",
   "last_game": {
-    "result": "draw",
-    "opponent": "sluicing",
+    "result": "loss",
+    "opponent": "blackEventhorizon",
     "rating_before": 2970,
     "rating_after": 2970,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 Bc5 d3 O-O Nf3 Nc6 O-O d5 cxd5 Nxd5 a3 Be7 Re1 a5 Nc3 Be6 Bd2 Nxc3 Bxc3 Qd6 Nd2 Bd5 Qa4 Rfd8 Bxd5 Qxd5 Rec1 h5 Rc2 Ra6 h4 Nb4 Bxb4 axb4 Qb3 Qxb3 Nxb3 bxa3 bxa3 c6 a4 f6 Rcc1 Bb4 Rc4 Be7 Rcc1 Kf7 Kg2 Rd5 Rc3 Rd8 Rcc1 g6 Rcb1 Ke6 f4 exf4 gxf4 Rd5 d4 Rf5 Rf1 g5 fxg5 fxg5 Rxf5 Kxf5 hxg5 Rb6 g6 Bf6 Nc5 Bxd4 Rd1 Rb4 Nxb7 Rxa4 Nd8 c5 g7 Bxg7 Rd5+ Kg4 Ne6 Bf6 Nxc5 Ra2 Nd3 Rxe2+ Kf1 Rc2 Ne1 Rh2 Ng2 Rh3 Ne1 Rh1+ Ke2 Rh2+ Kd1 h4 Ra5 Bc3 Rc5 Bd2 Nd3 Kg3 Ne5 Rf2 Nd3 Be3 Rc3 Rg2 Ne5 Kf2 Rc2+ Kf1 Rxg2 Kxg2 Ke2 h3 Nf3 Bg5 Ne1+ Kg3 Nf3 Kg2 Ne1+ Kg3 Nf3 Bc1 Kf1 Kxf3 Kg1 Kg3 Kh1 Bf4 Kg1 Kg4 Kh1 Kh4 Kg1 Kg5 Kh1 Kg6 Kg1 Kh5 Kh1 Kh4 Kg1 Kg4 Kh1 Be5 Kg1 Bd6 Kh1 Kg3 Kg1 Kf3 Kh1 Bb8 Kg1 Bg3 Kh1 Be5 Kg1 Kg4 Kh1 Kh4 Kg1 Bc7 Kh1 Kg4 Kg1 Be5 Kh1 Kf5 Kg1 Bd6 Kh1 Kg5 Kg1 Kf5 Kh1 Kg5 Kg1 Be5 Kh1 Kf5 Kg1 Kg5 Kh1 Kg4 Kg1 Kf3 Kh1 Bf4 Kg1 Bc7 Kh1 Bb8 Kg1 Kg3 Kh1 Bc7 Kg1 Kh4 Kh1 Kg4 Kg1 Bd6 Kh1 Kh4 Kg1 Bf4 Kh1 Kg3 Kg1 Kf3 Kh1 Bd6 Kg1 Ke2 Kh1 Bf4 Kg1 Bc7 Kh1 Kf3 Kg1 h2+ Kh1 Ke3 Kg2 Bb8 Kh1 Kd2 Kg2 Kd1 Kh1 Bc7 Kg2 Kd2 Kh1",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Bg5 e6 f4 Nc6 Nxc6 bxc6 e5 h6 Bh4 g5 fxg5 Nd5 Ne4 Qb6 c3 dxe5 g6 Qe3+ Qe2 fxg6 Qxe3 Nxe3 Bf6 Rg8 Kd2 Nxf1+ Rhxf1 Bb7 Ke3 c5 Rad1 h5 Bxe5 Bxe4 Kxe4 Be7 c4 Rf8 Rxf8+ Bxf8 Bf4 Be7 Rd3 g5 Be5 Ra7 Bc3 Bf8 h3 a5 a4 Rb7 Re3 Rb6 g4 h4 Kd3 Be7 Kc2 Ra6 Bd2 Kd7 Rb3 Kd6 Rb7 Ra8 Rb5 Bd8 Kd3 Kc6 Be3 Be7 Ke4 Ra7 Ke5 Bd6+ Kf6 e5 Rb3 Rd7 Bxg5 Be7+ Kf5 Bxg5 Kxg5 Rd2 Kxh4 Rd4 Kg5 e4 Rc3 Kb6 Kf4 Rd8 b3 Kc7 Kxe4 Rf8 Rf3 Re8+ Kf4 Rf8+ Kg3 Re8 Rd3 Re2 g5 Re4 h4 Kc8 g6 Re6 h5 Re7 Kf4 Kb7 Rg3 Rd7 Kf5 Rd1 g7 Ra1 h6 Rf1+ Kg5 Ra1 g8=Q Kc6 h7 Rh1 Qa8+ Kb6 Qxh1 Kc7 h8=Q Kb6 Q1h7 Kc6",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1772301160.2727447
+  "updated": 1772301482.8211129
 }
