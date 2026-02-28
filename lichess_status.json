@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2970,
-  "opponent": "tombot1234",
+  "rating": 2971,
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 108,
-  "timestamp": "2026-02-28T19:23:56.795789",
+  "time_left": 167,
+  "timestamp": "2026-02-28T19:26:47.591419",
   "last_game": {
-    "result": "win",
-    "opponent": "tombot1234",
-    "rating_before": 2970,
-    "rating_after": 2970,
+    "result": "draw",
+    "opponent": "Classic_BOT-v2",
+    "rating_before": 2971,
+    "rating_after": 2971,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 g3 Bc5 d3 d5 Bg5 h6 Bxf6 Qxf6 Qf3 Qb6 O-O-O d4 Na4 Qc6 Nxc5 Qxc5 a3 b5 Bh3 Bxh3 Nxh3 b4 axb4 Qxb4 Rhg1 a5 Qe2 Nc6 Qg4 a4 Qxg7 Ke7 Ng5 hxg5 Qxg5+ f6 Qg7+ Ke6 Qxc7 Rhc8 Qxc8+ Rxc8 Rgf1 Na5 Rde1 Nb3+ Kb1 a3",
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 c6 O-O O-O Qc2 b6 Nc3 Nbd7 e4 dxc4 e5 Nd5 Ne4 h6 Qxc4 c5 dxc5 bxc5 Rad1 Rb8 Qc1 Ba6 Rfe1 Nb4 Nf6+ gxf6 Bc3 Nxa2 Qxh6 Nxc3 bxc3 Rb6 Qh5 Bb5 Ng5 fxg5 Be4 f5 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1772306636.7959251
+  "updated": 1772306807.5915043
 }
