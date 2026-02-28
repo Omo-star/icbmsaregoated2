@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "stockfish1threadtest",
+  "rating": 2988,
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-02-28T12:14:00.225510",
+  "time_left": 84,
+  "timestamp": "2026-02-28T12:18:00.347857",
   "last_game": {
-    "result": "win",
-    "opponent": "stockfish1threadtest",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "result": "draw",
+    "opponent": "NewChessEngine-ai",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "d4",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 dxc5 Bxc5 g3 Nc6 Nf3 d5 cxd5 exd5 Bg2 O-O O-O Re8 Na4 Bf8 Rd1 h6 Nc3 Bc5 Bd2 a6 e3 Be6 Na4 d4 Qxb7 Bd5 Nxd4 Bxd4 Bxd5 Qxd5 Rac1 Rac8 exd4 Qf3 Nb6 Ng4 Rf1 Nxd4 Qxf3 Nxf3+ Kg2 Rxc1 Bxc1 Ne1+ Kh3 Nf3 Kg2 Ne1+ Kh3 Nf3 Be3 Nfxh2 Rc1 Nxe3 fxe3 Nf3 Nd5 Rd8 Rd1 Ng5+ Kg2 Kf8 b4 Rc8 Rd2 Ne4 Rb2 f5 a4 Nd6 Nf4 Kf7 Ne2 Kf6 b5 Rc4 Rd2 Ne4 Rb2 Nd6 Nf4 Rxa4 b6 g5 b7 Nxb7 Rb6+ Nd6 Rxd6+ Ke7 Rxh6 gxf4 gxf4 a5",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "noStart"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772280840.2255862
+  "updated": 1772281080.347964
 }
