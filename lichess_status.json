@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2965,
-  "opponent": "sluicing",
+  "opponent": "raalfe",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 142,
-  "timestamp": "2026-02-28T18:03:39.064776",
+  "time_left": 175,
+  "timestamp": "2026-02-28T18:04:34.387232",
   "last_game": {
-    "result": "draw",
-    "opponent": "sluicing",
+    "result": "win",
+    "opponent": "raalfe",
     "rating_before": 2965,
     "rating_after": 2965,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 Kh8 d4 g6 Nh6 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 Nd7 Rxe3 fxe3 Rd8 Nxb6 Kf7 Nd5 Bc4 Bxd6 cxd6 b4 Bxd5 Rxd5 Ke6 Rd3 axb4 cxb4 Ra8 a5 cxb4 Rb3 Rxa5 Rxb4 Ra2 Kf1 Ke5 Rh4 d5 Rxh7 f4 exf4+ Kxf4 Rd7 Ra1+ Kf2 Rd1 Rf7+ Ke4 Re7+ Kf4 g3+ Kf5 g4+ Kg5 Rf7 d4 Rf5+ Kg6 h4 Rd3",
+    "moves": "e4 e6 d4 d5 Nc3 dxe4 Nxe4 f5 Ng5 Be7 N1h3 Bxg5 Nxg5 h6 Qh5+ g6 Qxg6+ Kf8 Qf7#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772301819.0649369
+  "updated": 1772301874.3872964
 }
