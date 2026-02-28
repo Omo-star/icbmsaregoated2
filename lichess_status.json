@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
-  "opponent": "ClassicLegendBot",
+  "rating": 2976,
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 90,
-  "timestamp": "2026-02-28T11:08:46.776551",
+  "time_left": 89,
+  "timestamp": "2026-02-28T11:11:27.246991",
   "last_game": {
     "result": "draw",
-    "opponent": "ClassicLegendBot",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "opponent": "Classic_BOT-v2",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e4 e5 d3 d6 g3 g6 Nc3 Bg7 Nge2 Nf6 Bg2 c6 O-O b5 h3 O-O Be3 a5 a3 Nbd7 b4 Nb6 Qd2 Re8 Rae1 d5 Bxb6 Qxb6 exd5 Bb7 bxa5 Rxa5 dxc6 Bxc6 Bxc6 Qxc6 Rb1 Rxa3 Nxb5 Raa8 Nec3 Rad8 Qe2 e4 dxe4 Nxe4 Nxe4 Rxe4 Qf3 Rc4 Qxc6 Rxc6 Rfd1 Rxd1+ Rxd1 Rxc2 Rd8+ Bf8 Nd4 Rb2 Kg2 Kg7 Rd5 Bb4 Nf3 Rc2 Rd7 Bc5 Nd2 Be7 Ne4",
+    "moves": "e4 e5 d3 Nc6 Be3 d5 exd5 Qxd5 Nc3 Bb4 Nf3 f6 d4 Bg4 Be2 Nxd4 Kf1 Qc6 Nxd4 exd4 Bxg4 dxe3 Qd3 Bxc3 bxc3 exf2 Rd1 Qb6 Bc8 Ne7 Qd8+ Kf7 Qxh8 Rxc8 Qxh7 Re8 h4 Nd5 Qh5+ Kf8 Qh8+ Kf7 Qh5+ Kf8 Qxd5 Qe3 Qd2 Qxd2 Rxd2 Re1+ Kxf2 Rxh1 Rd7 Rxh4 Rxc7 a6 Rxb7 Rc4 Rb3 Kf7 Ke2 Rg4 Kf3 Rc4 Ke2 Rg4 Rb7+ Kg6 Ra7 Rxg2+ Kd3",
     "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772276926.776709
+  "updated": 1772277087.247083
 }
