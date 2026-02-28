@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2971,
-  "opponent": "chessbot2880",
+  "rating": 2970,
+  "opponent": "tombot1234",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 135,
-  "timestamp": "2026-02-28T19:21:10.128999",
+  "time_left": 108,
+  "timestamp": "2026-02-28T19:23:56.795789",
   "last_game": {
-    "result": "draw",
-    "opponent": "chessbot2880",
-    "rating_before": 2971,
-    "rating_after": 2971,
+    "result": "win",
+    "opponent": "tombot1234",
+    "rating_before": 2970,
+    "rating_after": 2970,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qd8 O-O Qc8 Rfb1 Bc5 f5 Bb5 Bxc5 Qxc5+ Kh1 exf5 a4 Bc6 Rb8+ Kd7 R8b6 Rhe8 Ne2 Rxe5 Nd4 Rc8 Rxa6 Ke8 Rxc6 Rxc6 Nxc6 Qxc6 a5 Qc4 h3 f6 Qd1 Re2 Ra1 Qe4 Qf1 Re3 Kg1 Qd4 Kh1 Qe4 Kh2 Qe5+ Kg1 Qd4 Kh1 Qe4 Kh2",
+    "moves": "e4 e5 Nc3 Nf6 g3 Bc5 d3 d5 Bg5 h6 Bxf6 Qxf6 Qf3 Qb6 O-O-O d4 Na4 Qc6 Nxc5 Qxc5 a3 b5 Bh3 Bxh3 Nxh3 b4 axb4 Qxb4 Rhg1 a5 Qe2 Nc6 Qg4 a4 Qxg7 Ke7 Ng5 hxg5 Qxg5+ f6 Qg7+ Ke6 Qxc7 Rhc8 Qxc8+ Rxc8 Rgf1 Na5 Rde1 Nb3+ Kb1 a3",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1772306470.129144
+  "updated": 1772306636.7959251
 }
