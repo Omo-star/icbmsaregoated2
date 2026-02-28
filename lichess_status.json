@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2976,
-  "opponent": "Mind_BOT",
+  "rating": 2977,
+  "opponent": "SuperOne11",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 129,
-  "timestamp": "2026-02-28T15:39:55.650885",
+  "time_left": 107,
+  "timestamp": "2026-02-28T15:43:01.220248",
   "last_game": {
-    "result": "draw",
-    "opponent": "Mind_BOT",
-    "rating_before": 2976,
-    "rating_after": 2976,
+    "result": "win",
+    "opponent": "SuperOne11",
+    "rating_before": 2977,
+    "rating_after": 2977,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 g6 Nh6+ Kh8 d4 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 Nd7 Rxe3 fxe3 Rd8 Nxb6 Kf7 Nd5 Bc4 Bxd6 cxd6 b4 Bxd5 Rxd5 Ke6 Rd3 axb4 cxb4 Ra8 a5 cxb4 Rb3 Rxa5 Rxb4 Ra2 Kf1 d5 Rh4 Ke5 Rxh7 f4 exf4+ Kxf4 Rd7 Ra1+ Ke2 Rg1 Kf2 Rd1 g3+ Ke4 Re7+ Kf5 g4+ Kg5 Rf7 d4 Rf5+ Kg6 h4 Rd3 h5+ Kh6 Rf3 Rd1 Rf8 Ra1 Rh8+ Kg5 Rg8+ Kf4 g5 d3 g6 d2 Rd8 d1=Q Rxd1 Rxd1 g7 Rd2+ Ke1 Rd8 h6 Ke3 Kf1 Kf3 Ke1 Ke3 h7 Ra8 Kd1 Kd3 Ke1 Ke3 Kf1 Kf3 Kg1 Ra1+ Kh2 Ra2+ Kh1 Ra1+ Kh2 Ra2+ Kh1 Ra1+ Kh2 Ra2+",
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 Nd7 O-O Ne7 Nbd2 Nc6 c4 Be7 cxd5 exd5 Rc1 c4 Ne1 O-O g4 Bg6 f4 h6 Bf3 Nb6 f5 Bh7 Nb1 Rc8 Nc3 Nb4 Qd2 Nd3 Nxd3 cxd3 Nxd5 Nxd5 Rxc8 Qxc8 Bxd5 Qc2 Qxc2 dxc2 Rc1 Rc8 Bxb7 Rc7 Be4 Bb4 Rxc2 Rxc2 Bxc2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1772293195.6509523
+  "updated": 1772293381.220382
 }
