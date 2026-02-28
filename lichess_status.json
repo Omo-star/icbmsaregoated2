@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2966,
-  "opponent": "RaspFish",
+  "opponent": "ChessBot2156",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2026-02-28T17:08:16.719405",
+  "time_left": 149,
+  "timestamp": "2026-02-28T17:10:15.214593",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
+    "opponent": "ChessBot2156",
     "rating_before": 2966,
     "rating_after": 2966,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 Qd7 O-O f6 f4 h5 b4 Nd8 Qc2 Nf7 h3 Bxd3 Qxd3 Nf5 Nd2 a5 b5 O-O-O Nf3 Be7 Bd2 b6 Rac1 Kb8 a4 Rhg8 g4 hxg4 hxg4 N5h6 Qg6 Nh8 Qh5 N8f7 Qg6 Nh8 Qh5 N8f7 Qg6",
+    "moves": "d4 d5 c4 e6 cxd5 exd5 Bf4 c5 Nf3 Nc6 Nc3 Nf6 h3 c4 a3 Bd6 Bg5 Be7 g3 O-O Bg2 Be6 O-O h6 Bxf6 Bxf6 e3 Qd7 Kh2 Rac8 Qd2 a6 Rad1 b5 e4 Rfd8 exd5 Bxd5 Ne5 Bxe5 Nxd5 Bc7 h4 Ba5 Qe3 Qa7 a4 Rd6 axb5 axb5 Nc3 Qb6 Ne4 Rdd8 Nc3 Rd6 Ne4 Rdd8 Nc3 Rd6",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772298496.7195327
+  "updated": 1772298615.214692
 }
