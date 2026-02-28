@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2980,
-  "opponent": "GroshBoss",
+  "opponent": "ClassicLegendBot_v3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 137,
-  "timestamp": "2026-02-28T10:43:21.193130",
+  "time_left": 151,
+  "timestamp": "2026-02-28T10:44:36.122515",
   "last_game": {
-    "result": "win",
-    "opponent": "GroshBoss",
+    "result": "draw",
+    "opponent": "ClassicLegendBot_v3",
     "rating_before": 2980,
     "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 O-O c3 Bb6 Nbd2 d6 h3 a6 a4 h6 Re1 Na5 Ba2 c5 Nf1 Qe7 Ne3 Re8 Nh4 Be6 Nef5 Qd7 Bxh6 Bxa2 Bxg7 Bb3 Qf3 Qd8 Qg3 Nh5 Qg4 Qxh4 Qxh4 f6 Qxh5 Red8 Qg6 Bd5 Nh6#",
+    "moves": "Nf3 d5 d4 Nf6 Bf4 e6 Nbd2 c5 e3 Be7 c4 Nbd7 dxc5 Nxc5 Be2 b6 O-O O-O cxd5 Nxd5 Be5 Bb7 a3 Nd7 Bg3 Rc8 Nd4 a6 h3 Nc5 Bf3 b5 N2b3 Na4 Qd2 Qb6 Rfc1 Bf6 e4 Bxd4 Nxd4 Nf6 Be5 Nd7 Rxc8 Rxc8 Bh2 Nf6 Be5 Nxe4 Qf4 Nac5 Rc1 Qd8 Bxe4 Nxe4 Rxc8 Qxc8 f3 Nf6 Bxf6 gxf6 Qxf6 Qc1+ Kh2 Qxb2 Qd8+ Kg7 Qg5+ Kf8 Qd8+ Kg7 Qg5+ Kf8 Qd8+ Kg7",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772275401.193198
+  "updated": 1772275476.1226528
 }
