@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "ChessBot2156",
+  "rating": 2988,
+  "opponent": "chessbot2880",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 93,
-  "timestamp": "2026-02-28T13:00:26.250796",
+  "time_left": 112,
+  "timestamp": "2026-02-28T13:03:31.610185",
   "last_game": {
     "result": "draw",
-    "opponent": "ChessBot2156",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "chessbot2880",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e5 Nb5 Nf6 Bg5 Bc5 N1c3 d6 Bxf6 Qxf6 Nc7+ Kd8 f3 Rb8 Qd2 h5 N7d5 Qh6 f4 exf4 O-O-O Bd4 Kb1 Be5 h4 Ke8 Bd3 Bg4 Rdf1 f3 Qxh6 Rxh6 gxf3 Bd7 a3 a6 Ne2 Nd4 Ng1 Bc6 Nh3 Nf5 f4 Bd4 Rh2 Bxd5 exd5 Nxh4 Re1+ Kf8 Ng5 Ng6 Bxg6 Rxg6 Re4 Ba7 Ka2 Rh6 Rhe2 f6 Ne6+ Kf7 f5 g6 fxg6+ Kxg6 Nf4+ Kg5 Ne6+ Kg6 Nf4+ Kg5 a4 Rg8 Nh3+",
+    "moves": "c4 Nf6 d4 e6 Nc3 Bb4 Nf3 b6 e3 O-O Bd3 d5 cxd5 exd5 h3 Re8 O-O Bb7 Ne5 Bf8 g4 Nbd7 f4 c5 g5 Ne4 h4 Nxe5 fxe5 Qd7 Qf3 Rac8 Qf4 Red8 Be2 Rc7 h5 Bc8 g6 hxg6 e6 Qd6 exf7+ Kh7 Qxd6 Nxd6 Nxd5 Rxf7 hxg6+ Kxg6 Bd2 Bf5 Rad1 cxd4 Bb4 dxe3 Nxe3 Be6 Bd3+ Kh6 Bc2 Rxf1+ Kxf1 a5 Bc3 Nf7 Rxd8 Nxd8 Nf5+ Bxf5 Bxf5 Kg5 Bd7 g6 Ke2 Kf4 Kd3 Nf7 Be8 Ne5+ Bxe5+ Kxe5",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772283626.2509308
+  "updated": 1772283811.6102853
 }
