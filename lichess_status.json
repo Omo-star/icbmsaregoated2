@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2966,
-  "opponent": "TesT-Z",
+  "rating": 2967,
+  "opponent": "chessbot2880",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 178,
-  "timestamp": "2026-02-28T19:39:20.342010",
+  "time_left": 167,
+  "timestamp": "2026-02-28T19:42:07.235689",
   "last_game": {
     "result": "draw",
-    "opponent": "TesT-Z",
-    "rating_before": 2966,
-    "rating_after": 2966,
+    "opponent": "chessbot2880",
+    "rating_before": 2967,
+    "rating_after": 2967,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 c3 O-O O-O d5 Nbd2 dxe4 dxe4 Qe7 Qc2 a5 a4 Nb8 Re1 h6 h3 Rd8 Nf1 c6 Bc4 Na6 Ne3 Bb6 Nf1 Bc5 Ne3 Bb6 Nf1 Bc5",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 d4 exd4 Bxc6 dxc3 Ba4 Bxf2+ Kh2 Bxe1 Qxe1 Qc5 bxc3 d5 e5 Ne4 Bb2 Ra6 Rc1 f5 exf6 Nxf6 Ng3 Bf7 Nf5 Re6 Ne5 b5 Bc2 Rfe8 Nxh6+ gxh6 Qg3+ Kf8 Nxf7 Kxf7 Bg6+ Kf8 Rf1 Qd6 c4 d4 Qxd6+ Rxd6 Bxe8 Kxe8 cxb5 Kf7 Kg3 Ke6 Rd1 d3 Kf4 Rd5 g4 Rxb5 Bxf6 Kxf6 Rxd3 Rb4+ Kg3 h5 Rc3 hxg4 hxg4 a4",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772307560.3421028
+  "updated": 1772307727.2358305
 }
