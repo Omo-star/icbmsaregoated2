@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "tombot1234",
+  "opponent": "blackEventhorizon",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 38,
-  "timestamp": "2026-02-28T13:28:40.336721",
+  "time_left": 5,
+  "timestamp": "2026-02-28T13:34:47.859822",
   "last_game": {
-    "result": "win",
-    "opponent": "tombot1234",
+    "result": "draw",
+    "opponent": "blackEventhorizon",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6 Bd3 d5 exd5 cxd5 Qe2+ Be7 O-O c6 Qf3 Bg4 Qf4 O-O h3 Bd6 Qa4 Bd7 Qh4 h6 a3 Re8 Rd1 Re5 Na4 c5 Bf4 Rh5 Qg3 Rg5 Qf3 Bxf4 Nxc5 Bc7 Nxd7 Qxd7 b4 Re8 c4 Qe7 h4 Re5 g3 dxc4 Bxc4 g6 Qc6 Bb6 Kg2 Rf5 Ra2 Kg7 f3 Qe3 Bd3 Re6 Qb7 Re7 Qxe7 Qxf3+ Kh3 Qg4+ Kh2 Qxd1 Bxf5 Qg1+ Kh3 Qh1+ Rh2 Qf1+ Rg2 Qxf5+ g4 Qf3+ Kh2 Qf4+ Kh3 Bc7 Qe2 h5 Rg1 hxg4+ Kg2 Nd5 Kh1 g3 Rd1 Qxh4+ Kg1 Bb6+ Rd4 Qxd4+ Kg2 Nf4+ Kf3 Nxe2 Kxe2 g2 b5 g1=Q",
+    "moves": "e4 e6 d4 d5 Nc3 Bb4 e5 c5 a3 Bxc3+ bxc3 Ne7 Qg4 O-O Bd3 f5 exf6 Rxf6 Bg5 Rf7 Qh5 g6 Qd1 Nbc6 Nf3 Qf8 O-O c4 Be2 h6 Bc1 Qg7 h3 Bd7 a4 Kh7 Ba3 Nf5 Re1 Rd8 Qd2 g5 g3 Rg8 Nh2 Qg6 Qd1 Ng7 Bf3 Rh8 Qd2 b6 Re2 Nf5 Bh1 Rg8 Rf1 h5 g4 Nh6 Re3 Rf4 Qe2 hxg4 hxg4 Rh8 Rh3 Kg8 Bc1 Rf6 f4 gxf4 Bxf4 Nf7 Rxh8+ Kxh8 Bg2 Qg7 Qe3 Rg6 Kf2 Kg8 Ke1 Ne7 Rf2 a6 Bh3 Qh7 Kd1 b5 Kc1 Qh4 Bg2 b4 cxb4 Bxa4 c3 Kf8 Bf1 Ke8 Be2 Rg8 Kb2 Ng5 Nf1 Qh7 Qc1 Qg6 Rh2 Kd7 Ng3 Nc8 Rh5 Nf7 g5 Ncd6 Qb1 Qxb1+ Kxb1 Kd8 Kc1 Nc8 Nh1 Ne7 Nf2 Ng6 Bg3 Ne7 Nh3 Ke8 Bg4 Bd7 Kd2 e5 Bxd7+ Kxd7 dxe5 Ng6 Rh7 Ke6 Ke3 Nfxe5 Ra7 Kf5 Rxa6 Nd3 Kf3 Nge5+ Ke3 Ng6 Kf3 Nge5+ Bxe5 Kxe5 Rc6 Rb8 Ke3 d4+ cxd4+ Kd5 b5 Rxb5 Rc8 Rb3 Rd8+ Ke6 Ke4 Rb1 d5+ Ke7 Rc8 Re1+ Kd4 Rd1 Ke4 Re1+ Kd4 Nb4 Rxc4 Rd1+ Ke5 Rxd5+ Ke4 Rb5 Rc7+ Ke6 g6 Nd5 Rc6+ Kd7 Ra6 Ke7 Ra7+ Ke6 Ng5+ Kf6 g7 Nc3+ Kf3 Rxg5 g8=R Rxg8 Rh7 Ra8 Rd7 Ra4 Rd8 Ne4 Rh8 Nd6 Rg8 Ke6 Rh8 Ra3+ Kg4 Ra4+ Kh5 Ne4 Re8+ Kf5 Kh6 Ra6+ Kg7 Ra7+ Kf8 Nd6 Rd8 Ke6 Kg8 Ke5 Kf8 Ke6 Kg8 Nf5 Rf8 Rg7+ Kh8 Rd7 Kg8 Rg7+ Kh8 Rb7 Kg8 Ra7 Kh8 Ke5 Kg8 Rd7 Kh8 Kf4 Kg8 Rg7+ Kh8 Ra7 Kg8 Kg5 Rb8 Nd4 Rf8 Kg6 Rf2 Nf5 Rg2+ Kf6 Rf2 Ra8+ Kh7 Ra7+ Kh8 Ra1 Kg8 Rd1 Rf4 Rd8+ Kh7 Rd3 Kg8 Rd8+ Kh7 Rd2 Kg8 Kg6 Rg4+ Kf6 Rf4 Rd1 Rf2 Kg6 Rg2+ Kf6 Rf2 Rd8+ Kh7 Rd7+ Kh8 Rd3 Kg8 Kg6 Rg2+ Kf6 Rf2 Rc3",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772285320.3367956
+  "updated": 1772285687.8598883
 }
