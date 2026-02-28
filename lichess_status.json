@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2950,
-  "opponent": "chessbot2880",
+  "opponent": "varient-chess-bot1",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 118,
-  "timestamp": "2026-02-28T20:51:52.538465",
+  "time_left": 150,
+  "timestamp": "2026-02-28T20:52:58.804603",
   "last_game": {
     "result": "draw",
-    "opponent": "chessbot2880",
+    "opponent": "varient-chess-bot1",
     "rating_before": 2950,
     "rating_after": 2950,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Ng4 Bg5 h6 Bh4 g5 Bg3 Bg7 Qd2 Nc6 Nb3 Nge5 h4 gxh4 Rxh4 b5 O-O-O Rb8 Nd4 Nxd4 Qxd4 Rg8 Bxe5 Bxe5 Qa7 Rg4 Rxg4 Bxg4 Be2 Ra8 Qe3 Bxe2 Nxe2 Qc7 Qd3 Rc8 f4 Bh8 Rd2 Bg7 Kb1 Qc4 Qxc4 Rxc4 Ng3 Kd7 b3 Rc6 Rd3 e6 Kc1 b4 Kd1 Ke7 Ne2 Rc5 Rg3 Kf8 Rd3 Ke7 Rg3 Kf8 Rd3 Ke7",
+    "moves": "e4 c6 d4 d5 e5 c5 Nf3 cxd4 Qxd4 Nc6 Qf4 e6 Be3 Nge7 Nc3 Nf5 O-O-O Nxe3 fxe3 Bb4 Ne4 Bd7 Nfg5 Qe7 a3 Bxa3 bxa3 Qxa3+ Kb1 Qb4+ Kc1 Qa3+ Kb1 Qb4+ Ka1 Qa4+ Kb2 Qb4+ Ka1 Qa5+ Kb2 Qb4+ Ka1",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772311912.5385659
+  "updated": 1772311978.8047593
 }
