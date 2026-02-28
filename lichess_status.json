@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2966,
-  "opponent": "ChessBot2156",
+  "rating": 2961,
+  "opponent": "TesT-Z",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 16,
-  "timestamp": "2026-02-28T17:20:15.349697",
+  "time_left": 76,
+  "timestamp": "2026-02-28T17:24:11.216940",
   "last_game": {
-    "result": "loss",
-    "opponent": "ChessBot2156",
-    "rating_before": 2966,
-    "rating_after": 2966,
+    "result": "draw",
+    "opponent": "TesT-Z",
+    "rating_before": 2961,
+    "rating_after": 2961,
     "rating_delta": 0,
-    "moves": "e4 c5 d4 cxd4 Nf3 g6 Qxd4 Nf6 Qa4 Nc6 e5 Nd5 Qb3 Nc7 Nc3 Ne6 Be3 Bg7 O-O-O Nxe5 Nxe5 Bxe5 Bc4 O-O h4 d6 h5 g5 h6 Kh8 Rhe1 Bd7 Qxb7 Qc8 Qxc8 Raxc8 Bb3 a5 a4 Nc5 Bxg5 f6 Bd2 Nxb3+ cxb3 Rfe8 Kb1 Rb8 Ka2 Rb7 f4 Bd4 Bc1 Bf2 Re2 Bc5 Rd3 Bg4 Re1 Bf5 Ne4 Bb4 Bd2 Rg8 Rd5 Be6 Rb5 Rxb5 axb5 Bd7 b6 Rb8 Nc3 e5 Be3 Be6 Rf1 Kg8 Ne4 a4 Nxf6+ Kh8 Kb1 axb3 g4 Bc4 Rd1 Be2 Rd5 exf4 Bf2 Ba6 Rd4 Bc5 Nd7 Re8 Nxc5 dxc5 Rd7 Bb5 Rd6 Kg8 Kc1 f3 Kd2 Ba6 Kc3 Rf8 Kxb3 Bc8 Rc6 Kf7 g5 Rg8 Kc3 Rd8 Bxc5 Re8 Rf6+ Kg8 Rxf3 Rd8 Re3 Kf7 Re7+ Kg6 Rg7+ Kf5 Rxh7 Kxg5 Be7+ Kg6 Bxd8 Kxh7 b3 Bh3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Bxf4 gxf4 Nc2 f3 Ra3 fxg2 Bxg2 Bh4 d5 Qb5 b4 Qxa6 Qd4 Qe2 Qxh4 Qxc2 Rg3 Qb2 a6 Rf8 Rf3 Qa1+ Kh2 Qe5+ Kg1 Re8 b5 Qe1+ Kh2 Qe5+ Kg1 Qe1+ Kh2 Bxd5 Rg3 Qe5 Bxd5+ Qxd5 Rg5 Qf7 a7 Qf6 Qg3 Ra8 Qe3 Kh8 h4 d5 Rxd5 Rxa7 Qxa7 Qf4+ Kg1 Qg4+ Kh2 Qf4+ Kg1 Qg4+ Kh2 Qxh4+ Kg1 Qg4+ Kh2 Qf4+ Kg1 Qg4+ Kh2 Qh4+ Kg1 Qg4+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772299215.349831
+  "updated": 1772299451.2171023
 }
