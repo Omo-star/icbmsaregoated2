@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "diogenes-bot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 3+2",
-  "time_left": 176,
-  "timestamp": "2026-02-28T08:54:55.209617",
+  "rating": 3068,
+  "opponent": "MEGA-NOOB-BOT",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+0",
+  "time_left": 38,
+  "timestamp": "2026-02-28T08:55:34.559103",
   "last_game": {
-    "result": "win",
-    "opponent": "diogenes-bot",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "result": "draw",
+    "opponent": "MEGA-NOOB-BOT",
+    "rating_before": 3068,
+    "rating_after": 3068,
     "rating_delta": 0,
-    "moves": "Nc3 d6 d4 e5 e3 Nb6 Nb3 e4 a4 d5 a5 Na8 f3 f5 fxe4 fxe4 Bd2 c6 Be2 Bd6 O-O h5 Bxh5 Bxh2+ Kxh2 Qh4+ Kg1 Rxh5 Rf4 Qh2+ Kf1 Rg5 g4 Bxg4 Qxg4 Rxg4 Rxg4 Qh1+ Kf2 Qf3+ Kg1 Qxg4+ Kh1 Re6 Re2 Rg6 Nxd5 Qg1#",
-    "duration": 276,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Kf1 Rb8 Ke2 Nb4 Rxc5 Nxa2 Rc2 Nb4 Rc4 Nd5 Rxa4 Rxb2+ Ke1 Rb8 Ra3 Rb7 f3 Nf4 Ra8+ Kh7 Ra2 g6 Nd6 Rb6 Nc8 Rb8 Nd6 Rb6 Ne4 f5 gxf5 gxf5 Ng3 Kg6 Kf2 h5 Nf1",
+    "duration": 60,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772268895.2096808
+  "updated": 1772268934.5592043
 }
