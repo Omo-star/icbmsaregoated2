@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2967,
-  "opponent": "sluicing",
+  "rating": 2962,
+  "opponent": "tombot1234",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 20,
-  "timestamp": "2026-02-28T19:47:10.566596",
+  "time_left": 39,
+  "timestamp": "2026-02-28T19:51:29.945431",
   "last_game": {
-    "result": "loss",
-    "opponent": "sluicing",
-    "rating_before": 2967,
-    "rating_after": 2967,
+    "result": "win",
+    "opponent": "tombot1234",
+    "rating_before": 2962,
+    "rating_after": 2962,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O O-O Re8 Nc3 c6 Rac1 h6 h3 a5 b5 Rc8 Rfd1 Qe7 Qb6 c5 Rf1 Ra8 Rcd1 Red8 a4 Rd7 Rde1 Nh5 g3 Qg5 Re3 Nf4 Kh2 Ng6 Nd5 Ne7 Nxe7+ Qxe7 Kg2 Qg5 Rfe1 Kh7 Rh1 Qf6 Kg1 Re7 Kg2 Qe6 Rf1 Qc8 Qxd6 Re6 Qd5 Qc7 Rf3 Kg8 d4 exd4 Re1 Rae8 Rf5 b6 e5 Rd8 Qf3 f6 Kf1 fxe5 Re4 g6 Qg4 d3 Ke1 Kg7 h4 Rd4 Rxd4 cxd4 Rf3 Qxc4 Rxd3 Rd6 Qe4 Qd5 Qxd5 Rxd5 Rd1 Rc5 f4 Kf6 Kf2 Rc4 h5 g5 fxg5+ Kxg5 Kf3 Rxa4 Ke4 Rb4 Ra1 Rxb5 Ra3 Kxh5 Kf5 e4+ Kxe4 Kg4 Ra1 h5 Kxd4 Rb4+ Kc3",
+    "moves": "d4 Nf6 Nc3 d5 Nf3 c5 e3 e6 Be2 a6 O-O Nbd7 b3 b6 Qd3 Qc7 Bb2 Bd6 e4 cxd4 Qxd4 e5 Qa4 d4 Nb5 axb5 Qxa8 O-O Bxb5 Nc5 Qc6 Qb8 Bxd4 Bd7 Qxd6 Qxd6 Bxe5 Qe7 Bxf6 gxf6 Bxd7 Qxd7 Rad1 Qc8 e5 Ne6 exf6 Nf4 Nd4 Kh8 f3 Qc5 Rfe1 Nh5 c4 Nxf6 Rd2 Qg5 Rdd1 h5 Nb5 Re8 Rxe8+ Nxe8 Kh1 Qe3 h3 Kh7 Kh2 h4 Rd7 Qe5+ Kh1 Qe1+ Kh2 Kg6 Rb7 Qe5+ Kh1 Qe3 Rd7 Qe1+ Kh2 Nf6 Rd6 Kh7 Rd4 Qg3+ Kg1 Qe1+ Kh2 Nh5 Rg4 f5 Rd4 Ng3 Rxh4+ Kg6 Nd4 Nf1+ Kg1 Ne3+ Kh2 Qf2 Rh6+ Kxh6",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1772308030.5667508
+  "updated": 1772308289.945508
 }
