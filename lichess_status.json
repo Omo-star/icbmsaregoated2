@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "ClassicLegendBot",
+  "opponent": "stockfish1threadtest",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 111,
-  "timestamp": "2026-02-28T12:13:25.171385",
+  "time_left": 180,
+  "timestamp": "2026-02-28T12:14:00.225510",
   "last_game": {
-    "result": "draw",
-    "opponent": "ClassicLegendBot",
+    "result": "win",
+    "opponent": "stockfish1threadtest",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 dxc5 e6 c4 Bxc5 a3 O-O Nc3 Re8 Bg5 Be7 cxd5 exd5 Bb5 a6 Be2 Be6 O-O h6 Bh4 g5 Bg3 Ne4 Nxe4 dxe4 Nd2 f5 Nc4 b5 Ne5 Qxd1 Rfxd1 Nxe5 Bxe5 Rac8 a4 Bc5 Bf6 Bb3 Rdc1 Rf8 Be5 Rfe8 Bf6 Bxa4 Bc4+ bxc4 Rxa4 Kf7 Bc3 f4 Rf1 Re6 Rxc4 Rcc6 Ra4 Kg6 exf4 e3 f5+ Kxf5 fxe3+ Kg6 Bd4 Bxd4 exd4 Re2 b3 Rcc2 Rxa6+ Kh7 Rf7+ Kg8 Raf6 Rxg2+ Kf1 Rxh2 Rf8+ Kg7",
+    "moves": "d4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1772280805.1715205
+  "updated": 1772280840.2255862
 }
