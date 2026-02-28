@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2982,
-  "opponent": "Classic_BOT-v2",
+  "opponent": "TesT-KI",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 71,
-  "timestamp": "2026-02-28T14:44:04.301011",
+  "time_left": 97,
+  "timestamp": "2026-02-28T14:47:54.204369",
   "last_game": {
     "result": "draw",
-    "opponent": "Classic_BOT-v2",
+    "opponent": "TesT-KI",
     "rating_before": 2982,
     "rating_after": 2982,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 a5 Rfe1 Rg8 h4 Qg7 Qc6 Rb8 g3 h6 Bc1 Kd8 Rb2 Qh7 Kg2 g5 Rbe2 g4 Nd2 Nf8 Nb1 Ng6 Na3 h5 Rf1 Qg7 Re3 Qd7 Qb5 Nh8 Qc6 Ng6 Bd2 Ke7 Qxd7+ Kxd7 f3 gxf3+ Kh3 Rg7 Rexf3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O a4 Re8 Nc4 f6 Nh4 g6 Bh6 Nf8 a5 b5 axb6 cxb6 c3 a5 b4 Be7 Be3 c5 bxa5 bxa5 Nf3 Be6 Nb2 Qc7 Na4 f5 h3 Rab8 exf5 gxf5 c4 Rbd8 Qe2 f4 Bd2 Bf5 Nb2 Ra8 Na4 Qd6 Ra3 Bf6 Rb1 Nd7 Re1 e4 dxe4 Bxe4 Qd1 Rad8 Bc3 Qxd1 Rxd1 Bxc3 Nxc3 Bxf3 gxf3 Ne5 Rxd8 Rxd8 Rxa5 Nxf3+ Kg2 Ne1+ Kg1 Nf3+ Kg2 Ne1+ Kf1 Nd3 Ne4 f3 Kg1 Kh8 Ra7 Rg8+ Ng3 Rb8 Nh5 Rg8+ Ng3 Rb8 Ne4 Rg8+ Ng3",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772289844.3011522
+  "updated": 1772290074.204502
 }
