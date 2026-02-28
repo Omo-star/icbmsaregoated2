@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "NewChessEngine-ai",
+  "opponent": "ClassicLegendBot_v3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 97,
-  "timestamp": "2026-02-28T14:57:39.297165",
+  "time_left": 57,
+  "timestamp": "2026-02-28T15:02:38.533067",
   "last_game": {
     "result": "draw",
-    "opponent": "NewChessEngine-ai",
+    "opponent": "ClassicLegendBot_v3",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bg5 d5 e3 c5 Nf3 Ne4 Bf4 Qb6 Nc3 Qa5 Bb5+ Nd7 Rb1 Nxc3 bxc3 Qxc3+ Nd2 cxd4 O-O a6 Rb3 Qc5 exd4 Qxd4 Be3 Qf6 Bxd7+ Bxd7 Rxb7 Bc6 Rb6 d4 Nc4 dxe3 fxe3 Qg6 Rxc6 Qxc6 Ne5 Qe6 c4 Qxe5 Qa4+ Kd8 Rd1+ Qd6 c5 Qxd1+ Qxd1+ Kc7 Qd2 Rb8 Qa5+ Kc6 Qa4+ Rb5 Qxa6+ Kxc5 Qa3+ Kb6 Qd3 e6 Qd8+ Kb7 Qd7+ Kb6 Qd8+ Ka7 Qc7+ Ka8 Qc8+ Ka7 Qc7+ Ka6 Qc8+ Rb7 a4 h5 Qa8+ Kb6 Qd8+ Kc6 Qc8+ Rc7 Qb8 Kd7 a5 f6 a6 Rc1+ Kf2 Ra1 a7 Ke7 Qb7+ Ke8 a8=R+ Rxa8 Qxa8+ Kf7 h3 Rh6 Qb7+ Be7 Qc8 Rg6 h4 f5 g3 Bd6 Qd7+ Be7 Qc8 Rg4 Qh8 Bd6 Qxh5+ Kf8 Qh8+ Kf7 h5 Bxg3+ Kf3 Bh4",
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 e3 O-O Be2 dxc4 Bxc4 c5 a3 Bxc3+ bxc3 Qc7 Be2 Nc6 O-O e5 Bb2 Rd8 Qc2 e4 Nd2 Bf5 dxc5 Ne5 c4 Nfg4 g3 Qxc5 Bd4 Rxd4 exd4 Qxd4 Nb3 Qb6 Qc3 Qh6 Bxg4 Nxg4 h4 Re8 f3 Ne5 fxe4 Bh3 Rf2 Qg6 Nd4 h6 Nf5 Qh5 Nd6 Rd8 Nf5 Re8 Nd6 Re6 c5 b6 Rc1 Kh7 Nc4 Nxc4 Qxc4 Rg6 Kh2 Be6 Qe2 Qe5 Qe3 bxc5 Rxc5 Rxg3 Rxe5 Rxe3 a4 Rh3+ Kg1 Rxh4 Rh2 Rf4 Rf2 Rg4+ Rg2 Rf4 Rf2 Rh4 Rh2 Rf4 Rf2",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772290659.2973294
+  "updated": 1772290958.5332377
 }
