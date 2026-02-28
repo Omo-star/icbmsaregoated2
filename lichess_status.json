@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2976,
-  "opponent": "ClassicLegendBot_v2",
+  "rating": 2980,
+  "opponent": "ClassicLegendBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 125,
-  "timestamp": "2026-02-28T11:19:19.301958",
+  "time_left": 180,
+  "timestamp": "2026-02-28T11:19:50.919407",
   "last_game": {
     "result": "win",
-    "opponent": "ClassicLegendBot_v2",
-    "rating_before": 2976,
-    "rating_after": 2976,
+    "opponent": "ClassicLegendBot",
+    "rating_before": 2980,
+    "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Kg2 Kb8 Bh6 Ka7 h4 Rhg8 Rbe1 Qf7 Rh1 Rad8 Qd1 Rc8 Kf1 Bf8 Bd2 Be7 Qb1 f5 Kg2 f4 gxf4 Rgf8 Qd3 Bd6 Rhf1 exf4 e5 Nxe5 Nxe5 Bxe5 Rxe5",
+    "moves": "d4",
     "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "noStart"
   },
-  "updated": 1772277559.3020556
+  "updated": 1772277590.9194984
 }
