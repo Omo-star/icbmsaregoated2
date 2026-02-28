@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2950,
-  "opponent": "C0kval",
+  "opponent": "varient-chess-bot1",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 131,
-  "timestamp": "2026-02-28T20:39:41.121402",
+  "time_left": 56,
+  "timestamp": "2026-02-28T20:44:02.407881",
   "last_game": {
-    "result": "win",
-    "opponent": "C0kval",
+    "result": "draw",
+    "opponent": "varient-chess-bot1",
     "rating_before": 2950,
     "rating_after": 2950,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 Qa4 Be7 d3 O-O Be3 d5 cxd5 Nxd5 Qe4 Be6 Bd2 Ndb4 Rc1 f5 Qe3 Bd5 Nxe5 f4 Nxc6 fxe3 Nxd8 exd2+ Kxd2 Raxd8 Nxd5 Nxd5 e4 Rxf2+ Ke1 Rxb2 exd5 Bb4+ Kd1 Rd2+ Ke1 Re8+ Be2 Rexe2+ Kf1 Rf2+ Ke1 Rc2+ Kd1 Rfd2+ Ke1 Rxc1#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Be6 Nc3 Qd7 d5 Bf5 a4 Nd6 a5 a6 Na4 Rae8 Qb3 Qd8 Nc5 Bc8 Red1 Bg5 Bd4 Bf6 Bc3 Bxc3 Qxc3 Qg5 f3 Re7 Rd4 Qe5 Ne4 Rfe8 Nxd6 Qxd6 Qb4 Qh6 Qd2 Qd6 Qb4 Qh6 Qd2 Qd6 Rd1 h5 Qb4 Qh6 Qc3 Qd6 Qb4 Qh6 Qd2 Qd6 Qc3 Bd7 Qb4 Bb5 Bxb5 axb5 Qxb5 Re1+ Rxe1 Rxe1+ Kf2 Qe5 Qd3 Re2+ Kf1 Re1+ Kf2 Re2+ Qxe2 Qxd4+ Kg3 g5 Qe4 Qxb2 h4 Qf6 hxg5 Qxg5+ Kh3 Kg7 Qd4+ Qf6 Qb4 Qf5+ Kh2 Qe5+ Kh3 Qf5+ Kg3 Qg5+ Kf2 Qxd5 Qc3+ Kg6 Qxc7 h4 Qb6+ Kg7 Qb2+ Kh7 Qb4 Qg5 Qe4+ Kg7 Qd4+ Kg8 Qg4 Qxg4 fxg4 Kh7 Kf3 Kg6 Kf4 f6 Ke3 Kg5 Kf3 f5 gxf5 Kxf5 g3 hxg3 Kxg3 Ke5 Kf3 Kd4 Ke2 Kc4 a6 bxa6 Kd2 Kb3 Kc1 a5 Kb1 a4 Kc1 a3 Kb1 Kc4 Kc2 Kb4 Kc1 Kb3 Kb1 Ka4 Kc2 Kb4 Kc1 Kb5 Kc2 Kc4 Kc1 Kc5 Kc2 Kc4 Kc1 Kc3 Kb1 Kb3 Ka1 Kc3 Ka2 Kb4 Kb1 Kb3 Ka1 Kc4 Ka2 Kb4 Kb1 Ka4 Kc2 Kb4 Kc1",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772311181.1214852
+  "updated": 1772311442.4079456
 }
