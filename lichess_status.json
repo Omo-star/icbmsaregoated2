@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3026,
-  "opponent": "AlwaysPlayMystery",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 22,
-  "timestamp": "2026-02-28T08:52:42.776464",
+  "rating": 2987,
+  "opponent": "diogenes-bot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+2",
+  "time_left": 176,
+  "timestamp": "2026-02-28T08:54:55.209617",
   "last_game": {
-    "result": "loss",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3026,
-    "rating_after": 3026,
+    "result": "win",
+    "opponent": "diogenes-bot",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Nh2 Be7 Qc1 Bd6 Nf1 Kg7 Bh6+ Kh7 Bg5 f6 Bxe4 Rxe4 Rxe4 Bxe4 Bxf6 Rf8 Be5 Bxe5 dxe5 Qc8 Nd2 Qxh3 Nxe4 dxe4 Qg5 Rf3 Re1 Qf5 Qxf5 Rxf5 Rxe4 Rf7 Rxc4 g5 Kg2 Rg7 f4 gxf4 Rxf4 Kg6 Kf3 Rd7 Ke4 Rd2 e6 Re2+ Kd5 Kg5 Re4 Rd2+ Kc6 Kf5 Re1 Rd8 e7 Re8 Kd7 Rh8 e8=Q Rxe8 Rxe8 b5 axb5 h4 gxh4 Kg4 Kc6 Kf5 Kb7 Kf4",
-    "duration": 600,
+    "moves": "Nc3 d6 d4 e5 e3 Nb6 Nb3 e4 a4 d5 a5 Na8 f3 f5 fxe4 fxe4 Bd2 c6 Be2 Bd6 O-O h5 Bxh5 Bxh2+ Kxh2 Qh4+ Kg1 Rxh5 Rf4 Qh2+ Kf1 Rg5 g4 Bxg4 Qxg4 Rxg4 Rxg4 Qh1+ Kf2 Qf3+ Kg1 Qxg4+ Kh1 Re6 Re2 Rg6 Nxd5 Qg1#",
+    "duration": 276,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1772268762.7765667
+  "updated": 1772268895.2096808
 }
