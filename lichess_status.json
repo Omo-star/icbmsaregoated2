@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2963,
-  "opponent": "NewChessEngine-ai",
+  "rating": 2968,
+  "opponent": "Space_BOT",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-02-28T17:36:24.404125",
+  "time_left": 144,
+  "timestamp": "2026-02-28T17:38:41.172949",
   "last_game": {
-    "result": "win",
-    "opponent": "NewChessEngine-ai",
-    "rating_before": 2963,
-    "rating_after": 2963,
+    "result": "draw",
+    "opponent": "Space_BOT",
+    "rating_before": 2968,
+    "rating_after": 2968,
     "rating_delta": 0,
-    "moves": "d4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 g6 Nh6+ Kh8 d4 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 c4 Rae8 Rde1 Kg7 Rg3+ Kf8 Rge3 Kg7 Bg3 Bb7 f3 Bc6 b3 h5 f4 Bxe5 fxe5 Rg6 R1e2 Be4 Rd2 Rg8 Bh4 Kf7 Rd7+ Ke8 Rd8+ Kf7 Rd7+ Ke8 Rd8+ Kf7 Rd7+",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "noStart"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772300184.4042068
+  "updated": 1772300321.1730824
 }
