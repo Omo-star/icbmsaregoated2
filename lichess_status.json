@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2969,
-  "opponent": "Reality_BOT",
+  "rating": 2970,
+  "opponent": "sluicing",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 49,
-  "timestamp": "2026-02-28T17:48:12.879433",
+  "time_left": 101,
+  "timestamp": "2026-02-28T17:52:40.272679",
   "last_game": {
     "result": "draw",
-    "opponent": "Reality_BOT",
-    "rating_before": 2969,
-    "rating_after": 2969,
+    "opponent": "sluicing",
+    "rating_before": 2970,
+    "rating_after": 2970,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Nh4 Rf7 Nf5 a5 Qg4 Kh8 h4 b5 Nd2 Nf8 Nf3 g6 Nh6 Rg7 Qg3 Ne6 Re1 a4 Bd2 b4 Rad1 Be7 Qh2 c5 g4 Qf8 Qg3 Bd7 g5 Re8 c3 a3 bxa3 bxc3 Bxc3 Nf4 Re3 Bd6 Rb1 Rge7 Nd2 Qg7 Nc4 Rf8 Rb7 Nh5 Qh2 Be6 a4 Bxc4 dxc4 Ree8 a5 Qe7 Qg2 Qe6 a6 Ra8 a7 Qc8 Rb2 Rxa7 gxf6 Qe6 Qg5 Qxf6 Ng4 Qxg5 hxg5 Kg8 Bxe5 Bxe5 Nxe5 Nf4 Rd2 Ne6 Nd7 Rf7 Nf6+ Kg7 e5 Nxg5 f4 Ne6 f5 Nd4 Rh2 Rxf6 exf6+ Kxf6 fxg6 hxg6 Rf2+ Nf5 Ree2 Ra4 Kf1 Rxc4 Ke1 Rd4 Rc2 c4 a4 c3 a5 Rb4 Rxc3 Ra4 Rc5 Ke6 Rfc2 Nd4 R2c3 Ra1+ Kf2 Kd6 Rg5 Ra2+ Ke1 Ra1+ Kf2 Ra2+ Ke1 Ra1+ Kd2 Ra2+ Kd1 Ra1+ Kd2 Ra2+ Ke1",
+    "moves": "c4 e5 g3 Nf6 Bg2 Bc5 d3 O-O Nf3 Nc6 O-O d5 cxd5 Nxd5 a3 Be7 Re1 a5 Nc3 Be6 Bd2 Nxc3 Bxc3 Qd6 Nd2 Bd5 Qa4 Rfd8 Bxd5 Qxd5 Rec1 h5 Rc2 Ra6 h4 Nb4 Bxb4 axb4 Qb3 Qxb3 Nxb3 bxa3 bxa3 c6 a4 f6 Rcc1 Bb4 Rc4 Be7 Rcc1 Kf7 Kg2 Rd5 Rc3 Rd8 Rcc1 g6 Rcb1 Ke6 f4 exf4 gxf4 Rd5 d4 Rf5 Rf1 g5 fxg5 fxg5 Rxf5 Kxf5 hxg5 Rb6 g6 Bf6 Nc5 Bxd4 Rd1 Rb4 Nxb7 Rxa4 Nd8 c5 g7 Bxg7 Rd5+ Kg4 Ne6 Bf6 Nxc5 Ra2 Nd3 Rxe2+ Kf1 Rc2 Ne1 Rh2 Ng2 Rh3 Ne1 Rh1+ Ke2 Rh2+ Kd1 h4 Ra5 Bc3 Rc5 Bd2 Nd3 Kg3 Ne5 Rf2 Nd3 Be3 Rc3 Rg2 Ne5 Kf2 Rc2+ Kf1 Rxg2 Kxg2 Ke2 h3 Nf3 Bg5 Ne1+ Kg3 Nf3 Kg2 Ne1+ Kg3 Nf3 Bc1 Kf1 Kxf3 Kg1 Kg3 Kh1 Bf4 Kg1 Kg4 Kh1 Kh4 Kg1 Kg5 Kh1 Kg6 Kg1 Kh5 Kh1 Kh4 Kg1 Kg4 Kh1 Be5 Kg1 Bd6 Kh1 Kg3 Kg1 Kf3 Kh1 Bb8 Kg1 Bg3 Kh1 Be5 Kg1 Kg4 Kh1 Kh4 Kg1 Bc7 Kh1 Kg4 Kg1 Be5 Kh1 Kf5 Kg1 Bd6 Kh1 Kg5 Kg1 Kf5 Kh1 Kg5 Kg1 Be5 Kh1 Kf5 Kg1 Kg5 Kh1 Kg4 Kg1 Kf3 Kh1 Bf4 Kg1 Bc7 Kh1 Bb8 Kg1 Kg3 Kh1 Bc7 Kg1 Kh4 Kh1 Kg4 Kg1 Bd6 Kh1 Kh4 Kg1 Bf4 Kh1 Kg3 Kg1 Kf3 Kh1 Bd6 Kg1 Ke2 Kh1 Bf4 Kg1 Bc7 Kh1 Kf3 Kg1 h2+ Kh1 Ke3 Kg2 Bb8 Kh1 Kd2 Kg2 Kd1 Kh1 Bc7 Kg2 Kd2 Kh1",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1772300892.8796053
+  "updated": 1772301160.2727447
 }
