@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2966,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "Ratmir_Shamkhalov",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 106,
-  "timestamp": "2026-02-28T16:00:05.700048",
+  "time_left": 71,
+  "timestamp": "2026-02-28T16:03:41.615692",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "Ratmir_Shamkhalov",
     "rating_before": 2966,
     "rating_after": 2966,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g6 Ne4 Be7 Rd1 d5 Nd2 Bd6 Be5 Bxe5 Qxe5 Qd7 Re1 Bc6 Qf4 Qd6 Qf3 Re8 Rxe8+ Bxe8 Bd3 Ng7 a3 Bd7 Qe3 Bf5 Bb5 Bd7 Bd3 Qe6 Qg5 Ne8 h4 Qe1+ Bf1 Qe6 Bd3 Qe1+ Nf1 Bc6 Qe3 Qd1 f3 Ng7 Kf2",
+    "moves": "e4 g6 Nf3 d6 Bc4 Nf6 Ng5 e6 O-O h6 Nh3 Nxe4 Bd3 Nf6 Be2 c5 d3 Bg7 Nc3 d5 Bf3 Nc6 Be3 d4 Bxd4 cxd4 Nb1 e5 c3 O-O cxd4 Nxd4 Na3 g5 Nc2 Nxf3+ gxf3 Bxh3 Re1 Nh5 d4 exd4 Nxd4 Qxd4 Qxd4 Bxd4 Red1 Rfd8 Rf1 Nf4 Rac1 Ne2+ Kh1 Nxc1 Rxc1 Bxf2 Rb1 Rd2 Rc1 Rad8 Rb1 Rd1+ Rxd1 Rxd1#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772294405.7001648
+  "updated": 1772294621.6157703
 }
