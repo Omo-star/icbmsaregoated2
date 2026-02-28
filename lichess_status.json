@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2979,
-  "opponent": "blackEventhorizon",
+  "rating": 2980,
+  "opponent": "GroshBoss",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2026-02-28T10:40:55.320734",
+  "time_left": 137,
+  "timestamp": "2026-02-28T10:43:21.193130",
   "last_game": {
-    "result": "draw",
-    "opponent": "blackEventhorizon",
-    "rating_before": 2979,
-    "rating_after": 2979,
+    "result": "win",
+    "opponent": "GroshBoss",
+    "rating_before": 2980,
+    "rating_after": 2980,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Nxd4 Qxd4 Be7 f4 O-O Be2 h6 h4 b5 Bf3 Rb8 e5 dxe5 Qxe5 Bd7 Kb1 Rc8 Ne4 Nxe4 Qxe4 Rc7 Qe1 Kh8 Qe2 f6 f5 Qc8 Bc1 Rc5 g4 Bc6 Bxc6 Qxc6 Qxe6 Qxe6 fxe6 Re5 Rhe1 Rxe1 Rxe1 f5 gxf5 Rxf5 b3 Kg8 Bb2 h5 c4 bxc4 bxc4 Kf8 Re4 g5 hxg5 Rxg5 Rf4+ Ke8 Rf7 Rg6 Rh7 Rxe6 Rxh5 Rc6 Rh8+ Kd7 Rh7 Rxc4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 O-O c3 Bb6 Nbd2 d6 h3 a6 a4 h6 Re1 Na5 Ba2 c5 Nf1 Qe7 Ne3 Re8 Nh4 Be6 Nef5 Qd7 Bxh6 Bxa2 Bxg7 Bb3 Qf3 Qd8 Qg3 Nh5 Qg4 Qxh4 Qxh4 f6 Qxh5 Red8 Qg6 Bd5 Nh6#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772275255.3208554
+  "updated": 1772275401.193198
 }
