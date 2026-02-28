@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2966,
-  "opponent": "RaspFish",
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 73,
-  "timestamp": "2026-02-28T18:15:59.079330",
+  "time_left": 105,
+  "timestamp": "2026-02-28T18:19:06.229183",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
+    "opponent": "ToromBot",
     "rating_before": 2966,
     "rating_after": 2966,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 d5 cxd5 c6 dxc6 Nxc6 Nf3 e5 dxe5 Qxd1+ Kxd1 Ng4 Ke1 g6 Nc3 Bg7 e4 O-O h3 Ngxe5 Nxe5 Nxe5 f4 Nd7 e5 Nb6 Be2 f6 exf6 Bxf6 Kf2 Be6 Re1 Rfe8 Bf3 Bf7 Rd1 Rad8 Rxd8 Rxd8 Bxb7 Bd4+ Kg3 Nc4 Rb1 a5 a4 Bb6 Bf3 Nd6 Kh2 Nf5 b3 Rd3 Ne4 Nd4 Nf6+ Kg7 Be4 Rxb3 Nd7 Rxb1 Bxb1 Ba7 Ba3 Be8 Bf8+ Kf7 Ba2+ Ne6 Bc5 Bxd7 Bxa7",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 a4 Nf6 d3 a6 O-O d6 c3 O-O Nbd2 Be6 Bxe6 fxe6 b4 Ba7 Re1 h6 Nf1 Ne7 h3 Ng6 a5 Nh5 d4 Nh4 N1h2 exd4 cxd4 Nf4 Bxf4 Rxf4 Ra3 Qe7 Nxh4 Qxh4 Rf3 Rff8 Rxf8+ Rxf8 Nf3 Qe7 Qb3 Qf7 Qc4 c6 e5 Bb8 exd6 Bxd6 Rxe6 Bxb4 Qa2 Kh7 d5 cxd5 Rb6 Be7 Rxb7 Qe6 Qc2+ Kg8 Qc7 Bf6 Rb6 Qe2",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772302559.0795124
+  "updated": 1772302746.229293
 }
