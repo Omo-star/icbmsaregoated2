@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3067,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 20,
-  "timestamp": "2026-03-01T09:28:01.816895",
+  "opponent": "DarkOnBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 21,
+  "timestamp": "2026-03-01T09:28:46.427869",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
+    "opponent": "DarkOnBot",
     "rating_before": 3067,
     "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "h4 e5 e4 h5 c3 c6 d4 d5 exd5 cxd5 dxe5 Qxe5 Qxe5 Bxe5 f4 Bd6 Nfe3 Ng6 Nxd5 Be6 Be4 Bxd5 Bxd5 Nxf4 Bc4 Ng6 Nf2 O-O O-O Nxh4 Ne4 Bc7 Bf4 Rc8 Bxc7 Rxc7 Nd6 Ng6 Rf5 Re7 Rg5 Ne6 Rf5 Nd8 Rg5 Ne6 Rf5 Nd8",
-    "duration": 96,
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 a6 Be3 e6 f3 b5 Qd2 b4 Na4 Nbd7 O-O-O Qa5 b3 Bb7 Kb1 Nc5 a3 Nxa4 axb4 Qc7 bxa4 d5 Bf4 e5 Bg3 h5 exd5 O-O-O Qe1 Bxb4 Qxb4 Nxd5 Qc4 Nc3+ Kc1 Nxd1 Bxe5 Qxc4 Bxc4 Ne3 Bxf7 Bd5 Bg6 Rd7 g3 Nc4 Bf4 Kb7 Re1 Bf7 Be4+ Kb6 Rd1 Re8 c3 Ree7 h4 Re8 Kc2 Bd5 Bg6 Bf7 Bf5 Rde7 Be4 Rxe4 fxe4 Bg6 a5+ Nxa5 Nf5 Nb7 Rb1+ Kc6 Rxb7 Kxb7 Nd6+ Kc6 Nxe8 Bxe8 c4 Kc5 Kd3 g6 Be3+ Kd6 c5+ Ke6 Bd2 Bb5+ Ke3 Bc6 Kf4 Ba8 Bc3 Bc6 Be1 Be8 Bc3 Bc6 Ke3 Ba8",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772357281.8170125
+  "updated": 1772357326.4279623
 }
