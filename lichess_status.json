@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "ChessGPT_11",
+  "rating": 2961,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 39,
-  "timestamp": "2026-03-01T12:55:34.390906",
+  "time_control": "TC: 3+0",
+  "time_left": 161,
+  "timestamp": "2026-03-01T12:57:36.943775",
   "last_game": {
     "result": "draw",
-    "opponent": "ChessGPT_11",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "opponent": "Cheszter",
+    "rating_before": 2961,
+    "rating_after": 2961,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Qd8 O-O Qc8 Rfb1 Bc5 f5 Bxd4+ Qxd4 Bb5 Rb6 O-O a4 Qc4 Nxb5 axb5 Qxc4 bxc4 fxe6 fxe6 Ra1 Rf5 a5 Rxe5 a6 d4 Rb4 Rc5 a7 Rf5 Rxc4 Rf7 Rca4 h5 g4 hxg4 Kg2 Kh7 Kg3 e5 Kxg4 Rf4+ Kg3 Rf7 h4 Kg6 Kg4 Kh7 Kg3 g6 Kg4 Rf2 Ra5 Rxc2 Rxe5 Rc7 h5 Rcxa7 Rxa7+ Rxa7 hxg6+ Kxg6 Re8 Rh7 Rg8+ Kf7 Rd8 Rg7+ Kh5 Rg8 Rxg8 Kxg8 Kg4 Kh8 Kf4 Kg8 Kg4 Kh8 Kf4 Kg8 Kg4",
-    "duration": 60,
+    "moves": "d4 Nf6 Bf4 d5 e3 c5 c3 Bg4 Nf3 Nc6 Nbd2 e6 Qb3 Qc8 Qa4 a6 h3 Bf5 Nh4 Be4 Nhf3 Bg6 Be2 c4 Nh4 Be4 Nhf3 b5 Qd1 Bg6 Nh4 Be4 Nhf3 Bg6 Nh4 Be4 Nhf3",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772369734.390971
+  "updated": 1772369856.943869
 }
