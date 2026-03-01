@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 40,
-  "timestamp": "2026-03-01T14:01:04.524902",
+  "rating": 3016,
+  "opponent": "DarkOnBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 595,
+  "timestamp": "2026-03-01T14:01:51.655610",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "opponent": "DarkOnBot",
+    "rating_before": 3016,
+    "rating_after": 3016,
     "rating_delta": 0,
-    "moves": "f4 e6 c3 Ng6 e3 f5 Be2 Nf6 Nf3 c5 Bg3 Be7 O-O d5 Nf2 Bd7 Ne5 Qc7 Nxd7 Qxd7 a4 O-O c4 b6 Qc2 Rab8 h4 h5 cxd5 exd5 Bb5 Qc8 Be2 Bd6 Qd1 Qe8 Bb5 Qd8 Rc1 Ne7 Nh3 Qc8 b3 Ng4 Qe2 Nc6 d4 Re8 Qd1 Rd8 Qe2 Ra8 dxc5 bxc5 Ng5 a6 Bd3 g6 Rfd1 Ra7 Bf2 Nxf2 Qxf2 Nb4 g3 Be7 Bf1 Rb7 Kh2 Bf6 e4 fxe4 Rxc5 Qb8 Bxa6 Nxa6 Rc6 Rd6 Rxd6 Qxd6 Nxe4 Qe7 Nxf6+ Qxf6 Rxd5 Nb4 Rd2 Nc6 a5 Rxb3 a6 Ra3 Ra2 Qd4 Qe2 Rxa2 Qxa2+ Kf8 Qe2 Qc5 Kg2 Qd5+ Kh2 Qc5 Kg2 Qd5+ Kg1 Qa5 Qe6 Ne7 f5 Qa1+ Kg2 Qb2+ Kh3 Qc1 Kg2 Qc2+ Kg1 Qc1+ Kf2 Qd2+ Kf1 Qd3+ Kf2 Qd4+ Qe3 Qb2+ Kf3 Nxf5 Qc5+ Kg7 a7 Qb3+ Kf2 Qxg3+ Ke2 Qg2+ Kd1 Qh1+ Kc2 Qb7 Kd2 Nd6 Qe5+ Kh7 Qxd6 Qxa7 Qg3 Qd4+ Ke1 Kg7 Qf2 Qxf2+ Kxf2 Kf6 Ke2 Ke6 Kf2 Kf6 Ke2 Ke6 Kf2 Kf7 Kg3 Ke7 Kf4 Ke6 Kg5 Kf7 Kf4 Kf6 Ke4 Ke6 Kf4 Kf6 Ke4 Ke6 Kf4 Kf7 Kg5 Kg7 Kf4 Kh6 Ke4 Kg7 Ke5 Kf7 Kd5 Kg7 Ke5 Kh7 Kd5 Kg8 Ke5 Kf7 Kd5 g5 hxg5 Kg6 Ke4 Kxg5 Kf3 h4 Ke3 Kg4 Kf2",
-    "duration": 267,
-    "bot_color": "white",
-    "termination": "insufficientMaterialClaim"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Re6 Bf8 Re5 Be7 Re6 Bf8 Re5 Be7 Rf5+ Kg6 Re5 Kf7",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772373664.5249677
+  "updated": 1772373711.6557195
 }
