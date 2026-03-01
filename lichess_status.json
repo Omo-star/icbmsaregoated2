@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3015,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 377,
-  "timestamp": "2026-03-01T13:04:56.045115",
+  "rating": 3073,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 29,
+  "timestamp": "2026-03-01T13:05:04.406476",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3015,
-    "rating_after": 3015,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 a4 d5 Nd2 Ne7 Nf3 Bf5 Qb3 Bd3 Re1 Bxf1 Rxf1 Qd7 h4 Ra6 Qb5 c6 Qb3 h6 h5 Nc8 Bf4 b5 Be5 Be7 Bh2 Bf6 Be5 Be7 Bg3 Bf6 Be5",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nc3 e6 Nb5 Qh4 Na3 Qxf2+",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "variantEnd"
   },
-  "updated": 1772370296.045211
+  "updated": 1772370304.4065588
 }
