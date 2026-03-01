@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3071,
+  "rating": 2960,
   "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2026-03-01T12:11:25.207670",
+  "time_control": "TC: 3+0",
+  "time_left": 32,
+  "timestamp": "2026-03-01T12:17:16.970911",
   "last_game": {
     "result": "draw",
     "opponent": "Moment-That-Inspires",
-    "rating_before": 3071,
-    "rating_after": 3071,
+    "rating_before": 2960,
+    "rating_after": 2960,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 c6 e4 dxe4 Nxe4 Bb4+ Bd2 Qxd4 Bxb4 Qxe4+ Be2 Na6 Ba5 b6 Qd6 Bd7 Bc3 f6 O-O-O O-O-O Qa3 Kb7 Bf3 Qf4+ Rd2 Qc7 Ne2 e5 Rhd1 Nh6 Ng3 Bg4 Bxg4 Nxg4 Ne4 Rxd2 Rxd2 Rd8 c5 Rxd2 Bxd2 Nxc5 Nxc5+ bxc5 h3 Nh6 Be3 Nf7 Qxc5 Ka8 Qf8+ Nd8 h4 Qd7 h5 Kb7 Qa3 Ka8 Qf8 Kb7 h6 Ne6 Qa3 Kc8 hxg7 Qxg7 g3 h5 Bxa7 Qd7 Qa6+ Qb7 Qc4 Qd7 Qa6+ Qb7 Qc4 Qd7 Be3 Qd5 Qa6+ Kc7 Qb6+ Kd7 Qb7+ Kd6 Qb4+ c5 Qb8+ Kd7 Qb5+ Kd6 b4 cxb4 Qxb4+ Kc6 Qc3+ Kd7 Qd2 Qxd2+ Kxd2 f5 Ke2 f4 gxf4 exf4 Bd2 f3+ Kxf3 h4 Be3 Nd8 Bd4 Nc6 Bc3 Ne7 Kg4 Nd5 Bd4 Nb4 a4 Nd3 f3 Kc6 Bc3 Nc1 Kxh4 Ne2 Ba5 Kb7 Kg4 Ka6 Bd2 Kb7 Be1 Ka6 Kh5 Nd4 f4 Ne6 f5 Ng7+ Kg5 Nxf5 Kxf5 Kb7 Ke5 Kc8 Kd6 Kb8 Kc6 Ka8 Kc7 Ka7 Bb4 Ka8 Ba5 Ka7 Bb4 Ka8 Kb6 Kb8 Bd2 Ka8 Bg5 Kb8 Ka6 Ka8 Bf6 Kb8 Bc3 Ka8 Kb6 Kb8 Be5+ Ka8 Bd4 Kb8 Bg1 Ka8 Bf2 Kb8 Bg3+ Ka8 Bh4 Kb8 Bf6 Ka8 Be7 Kb8 Ka6 Ka8 Bf8 Kb8 Ba3 Ka8 Bc1 Kb8 Ba3 Ka8 Bc1 Kb8 Bd2 Ka8 Be1 Kb8 Kb6 Ka8 Bd2 Kb8 Bg5 Ka8 Ka6 Kb8 Be3 Ka8 Bb6 Kb8 Be3 Ka8 Bf2 Kb8",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Qe7 Nbd2 Bg4 h3 Bh5 a3 Nd7 b4 Bd6 Nc4 f6 Na5 Rb8 Be3 c5 Nc4 Nf8 g4 Bg6 Nh4 Ne6 Nf5 Qd7 h4 O-O Kh2 Be7 Rg1 Kh8 Qd2 Bf7 Rg3 Nd4 Rag1 Rg8 Bxd4 cxd4 g5 Be6 Nxe7 Qxe7 gxf6 gxf6 Qh6 b6 f4 Bxc4 dxc4 Rxg3 Rxg3 Rf8 Rf3 Rg8 Rg3 Rf8 Rf3 Qg7 Qxg7+ Kxg7 fxe5 fxe5 Rxf8 Kxf8 Kg3 h5 Kf2 Ke7 Ke2 Kd6 Kd3 a6 c3 c5 b5 a5 a4 Ke6 Kc2 Kd6 Kd3 Ke7 Kd2 Kf7 Kc1 Kf8 Kc2 Kg7 Kb2 Kf8 Kb1 Ke8 Kb2 Ke7 Kc1 Kf6 Kc2 Ke7 Kd1 Kf6 Kc2 Ke7 Kd1 Ke6 Ke2 Kf6 Kd2 Kg7 Kc1 Kf8 Kb2 Ke7 Ka2 Kf7 Kb1 Ke6 Ka2 Ke7 Kb2 Kf8 Kc1 Ke8 Kd1 Ke7 Kc2 Kf8 Kd1 Ke7 Kc2 Kf6 Kd2 Ke6 Ke2 Kf7 Kd3 Kg7 Ke2 Kf7 Kd2 Ke8 Ke1 Kf7 Kd2 Kf8 Kc1 Kg7 Kd1 Kg8 Kc2 Kh7 Kd2 Kg8 Kd1 Kg7 Kc2 Kg8 Kd1 Kh7 Kc2 Kg7 Kb1 Kf7 Ka1 Kg7 Kb1 Kf7 Ka2 Ke7 Kb2 Kf8",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772367085.207738
+  "updated": 1772367436.970994
 }
