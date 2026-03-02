@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "MEGA-NOOB-BOT",
+  "rating": 3016,
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 24,
-  "timestamp": "2026-03-02T08:25:03.093580",
+  "time_control": "TC: 10+0",
+  "time_left": 307,
+  "timestamp": "2026-03-02T08:36:03.774550",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "opponent": "caissa-x",
+    "rating_before": 3016,
+    "rating_after": 3016,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 c3 Nh5 dxc5 Nxf4 exf4 e6 b4 a5 Bb5 axb4 cxb4 g5 Nc3 Bg7 Rc1 Ra3 Qd2 gxf4 Nb1 Ra8 O-O O-O Rfe1 Qf6 Bxc6 bxc6 Nc3 Bd7 Ne5 Be8 a4 Qf5 Qd4 f3 b5 Qg5 g3 Bxe5 Qxe5 Qxe5 Rxe5 Ra5 b6 Rxc5 Rb1 Rxc3 Re3 Rxe3 b7 Bd7 fxe3 Rb8 a5 Bc8 a6 Bxb7 a7 Ra8 Rxb7 Kg7 Kf2 Kg6 Kxf3 c5 g4",
-    "duration": 73,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 a3 Ba5 Qxd4 Rd8 Qc5 Qxc5 Nxc5 Nd7 Nb3 Bb6 Be2 Nf6 a4 Bd7 a5 Ba4 Nfd4 Bxd4 Nxd4 Rab8 Rc5 Bd7 Rfc1 b6 axb6 axb6 R5c3 Kf8 f4 g5 Bf3 g4 Bc6 Rbc8 Kf2 Bxc6 Rxc6 Rxc6 Rxc6 Nd5 g3 h5 Rc4 Nf6 Rb4 Nd5 Rc4 Nf6 Rb4 Nd5 Rb3 Rc8 e4 Nf6 Ke3 Rc1 Rxb6 Re1+ Ne2 Nxe4 Rc6 h4 gxh4 g3 hxg3 Nxg3 Kf2 Rxe2+ Kxg3 Rxb2",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772439903.093679
+  "updated": 1772440563.774672
 }
