@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "DarkOnBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-02T08:02:32.933827",
+  "rating": 3078,
+  "opponent": "worst_colinbot",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 2+0",
+  "time_left": 103,
+  "timestamp": "2026-03-02T08:03:06.200009",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "win",
+    "opponent": "worst_colinbot",
+    "rating_before": 3078,
+    "rating_after": 3078,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c4 d4 a3 a5 e3 c5 g3 Nc6 Bg2 e5 d3 Nf6 O-O h6 Re1 Be7 exd4 exd4 Bf4 g5 Ne5 gxf4 Bxc6+ Kf8 Nd2 Ra6 Be4 h5 Qf3 Ng4 Bxb7 Rf6 Qd5 Qxd5 Bxd5 h4 Nxg4 Bxg4 Re5 hxg3 hxg3 fxg3 fxg3 Bd7 Rae1 Bd6 Rg5 Be7 Rge5 Bd6 Rg5 Be7 Rge5",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nc3 d5 Nh3 e5 Rb1 Nc6 Ng5 Qxg5 Ne4 dxe4 a3 N@g4 c3 Nxf2 a4 Nxh1 Ra1 @f2#",
+    "duration": 120,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772438552.933927
+  "updated": 1772438586.2000728
 }
