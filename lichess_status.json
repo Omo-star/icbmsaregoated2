@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2962,
-  "opponent": "AlwaysPlayMystery",
+  "opponent": "NICE_BOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 136,
-  "timestamp": "2026-03-02T09:45:14.619217",
+  "time_control": "TC: 3+2",
+  "time_left": 121,
+  "timestamp": "2026-03-02T09:50:59.733420",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
+    "result": "win",
+    "opponent": "NICE_BOT",
     "rating_before": 2962,
     "rating_after": 2962,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 h3 Bf5 Bg2 Rad8 h4 Bg7 Re3 Rc8 Ne5 Bxe5 Bxe5 a5 f3 Nf6 Qe2 Nd7 Re1 Bd3 Qd2 Nxe5 Rxe5 Rxe5 dxe5 Bf5 g4 hxg4 fxg4 Bxg4 Bxd5 Qd7 Qg2 Kg7 e6 Bxe6 Bxe6 fxe6",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Bb4 e3 Be6 Bd3 h6 Bh4 g5 Bg3 Ne4 Qa4+ Nc6 Bxe4 dxe4 Ne2 f5 O-O-O Bc4 d5 b5 Nxb5 Bxe2 dxc6 Bd6 Bxd6 cxd6 Nxd6+ Kf8 Rd5 Bd3 Qd4 Rh7 Rxf5+ Kg8 Qd5+ Kg7 Qe5+ Kg8 Qe6+ Kg7 Rf7+ Kh8 Qg6 Qg8 Rxh7+ Qxh7 Nf7+ Qxf7 Qxf7 Ba6 c7 Rg8 Qf6+ Rg7 Rd1 Kh7 Qf5+ Rg6 Rd7+ Kh8 Qf8+ Rg8 Qxh6#",
+    "duration": 322,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772444714.6193364
+  "updated": 1772445059.733486
 }
