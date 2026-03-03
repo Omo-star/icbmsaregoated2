@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "DarkOnBot",
+  "rating": 2976,
+  "opponent": "ChessGPT_11",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 595,
-  "timestamp": "2026-03-03T10:26:31.635439",
+  "time_control": "TC: 3+2",
+  "time_left": 216,
+  "timestamp": "2026-03-03T10:29:09.680109",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "ChessGPT_11",
+    "rating_before": 2976,
+    "rating_after": 2976,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 h3 e5 Nb3 Be6 f4 b5 Qf3 Nc6 g4 Rc8 Qg2 h6 Bd2 exf4 Bxf4 Ne7 O-O-O Rxc3 bxc3 Ng6 Bd2 Be7 g5 hxg5 Bxg5 Qc7 Kb2 Nh4 Qe2 Nxe4 Qxe4 Bxg5 Nd4 Bf6 Be2 O-O Rhf1 Rc8 Rxf6 Qxc3+ Kb1 Bxa2+ Kxa2 Qa5+ Kb1 Qb4+ Ka2 Qa5+ Kb1 Qb4+ Ka2 Qa5+ Kb1",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "Nh3 d5 g3 e5 d4 exd4 Qxd4 Nc6 Qa4 Bd7 Bg2 Qf6 c3 Bc5 O-O Nge7 Nf4 O-O-O Qb5 Bb6 Nxd5 Nxd5 Qxd5 h6 Nd2 Rhe8 Qf3 Qg6 h3 Be6 a4 a5 b4 Kb8 bxa5 Nxa5 Rb1 Bd5 e4 Bc6 Kh2 Qe6 c4 Nxc4 Nxc4 Qxc4 Rxb6 cxb6 Qf4+ Ka8 Be3 Bxe4 Rc1 g5 Rxc4 gxf4 Bxf4 Bxg2 Kxg2 Re6 Be3 Rf6 g4 Kb8 h4 Rc6 Rxc6 bxc6 Bxb6 Rd5 Be3 Kc7 Bxh6 Kd7 Be3 Ra5 h5 Rxa4 f4 Ke6 f5+ Ke7 Kf3 f6 h6 Kf7 g5 fxg5 Bxg5 c5 f6 c4 h7 Ra3+ Ke4 Rh3 Bc1 Rxh7 Bb2 c3 Bxc3 Rh8 Kf5 Rg8 Ke5 Rh8 Kd6 Rg8 Kd7 Rh8 Kc7 Rg8 Kd7 Rh8 Kc7 Rg8 Kd7 Rh8",
+    "duration": 416,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772533591.635533
+  "updated": 1772533749.6801767
 }
