@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3076,
-  "opponent": "OlympusCz",
+  "rating": 2975,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 28,
-  "timestamp": "2026-03-03T10:09:24.708779",
+  "time_control": "TC: 3+0",
+  "time_left": 174,
+  "timestamp": "2026-03-03T10:09:55.598697",
   "last_game": {
     "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "opponent": "DarkOnBot",
+    "rating_before": 2975,
+    "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 Bg5 h6 Bh4 Be7 e3 O-O Qc2 Nbd7 a3 c5 Rd1 b6 dxc5 bxc5 Be2 Bb7 O-O Qb6 Rd2 Rfe8 cxd5 Nxd5 Na4 Qa5 Bxe7 Rxe7 Rc1 Rc8 Nc3 N7f6 Qa4 Qb6 Nd1 Bc6 Qc4 Rec7 Ne5 Qb8 Nxc6 Rxc6 Rdc2 R6c7 h3 Nd7 b3 g6 Bf1 h5 Rb2 Rb7 Be2 Qe5 Rbb1 Rcb8 Nc3 Nxc3 Rxc3 Qd5 Rd1 Qxc4 Bxc4 Nb6 Ba6 Nd5 Rxd5 exd5 Bxb7 Rxb7 Rxc5 Rxb3 Ra5 Rb1+ Kh2 Rb2 Kg1 Rb1+ Kh2 Rb2 Kg3",
-    "duration": 207,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qd8",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772532564.7088952
+  "updated": 1772532595.5988364
 }
