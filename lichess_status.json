@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "canary_colinbot",
+  "rating": 3074,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 6,
-  "timestamp": "2026-03-03T11:18:18.273499",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-03-03T11:18:52.826656",
   "last_game": {
     "result": "draw",
-    "opponent": "canary_colinbot",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "opponent": "tbhOnBot",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 Be2 Qc7 Qd2 b5 f3 Nbd7 a3 h5 O-O-O Be7 Kb1 Rb8 Rhg1 Nc5 g3 e5 Nb3 b4 axb4 Nxb3 cxb3 Rxb4 Bc4 Be6 Bg5 Bxc4 bxc4 Rxc4 Bxf6 Bxf6 Qxd6 Rc6 Qxc7 Rxc7 Rd6 Ra7 Nd5 Be7 Rc6 O-O Rgc1 a5 Rc7 Rxc7 Rxc7 Bb4 Kc2 Be1 Re7 f6 Rc7 Kh7 Ne3 Kg8 Kb3 Rb8+ Kc2 Rf8 b3 Rd8 Nd5 Rb8 Ra7 Kh8 Ne7 Rd8 Nd5 Rb8 Rd7 h4 gxh4 Bxh4 Ne7 Be1 h4 Bb4 Nd5 Rc8+ Kd1 Ba3 Ra7 Rc1+ Kd2 Rb1 Kc3 Rc1+ Kd2 Rb1 Kc3 Rc1+ Kd3 Bb4 h5 Rf1 f4 Rh1 fxe5 fxe5 Nxb4 axb4 Kc4 Re1 Kxb4 Rxe4+ Kc5 Re1 b4 e4 b5",
-    "duration": 181,
-    "bot_color": "white",
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Re1 Bf5 f3 h5 Bb5 Nb4 Ba4 b5 Bb3 Rab8 h4 Rfc8 a3 Nc6 g4 Bxc2 Bxc2 b4 axb4 Qxb4 Nd3 Qa5 Na4 Qxd2+ Kxd2 hxg4 fxg4 Nxd4 Bd1 Ne4+ Ke3 Nc6 Nc3 Nxc3 bxc3 Na5 h5 Rxc3 Kd2 Rc7 hxg6 Kxg6 Rh3 Nc4+ Ke2 e6 Reh1 Nb2 Rh6+ Kg7 Rh7+ Kf6 g5+ Kf5 Rf1+ Kg6 Rh6+ Kg7 Nf4 Nxd1 Nh5+ Kg8 Nf6+ Kg7 Nh5+ Kg8 Nf6+ Kg7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772536698.273672
+  "updated": 1772536732.8267844
 }
