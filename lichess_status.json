@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 2975,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 442,
-  "timestamp": "2026-03-03T08:34:27.882630",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-03T08:35:00.530417",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "OlisRalphBot",
+    "rating_before": 2975,
+    "rating_after": 2975,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Nh2 Be7 Nf1 Bd6 Bxd6 Qxd6 Ne3 Bc8 Nxc4 dxc4 Rxe4 Rxe4 Bxe4 Bxh3 Bg2 Bxg2 Kxg2 Kg7 Qf3 Qe7 Rd1 Qe8 a5 bxa5 d5 Qe5 Rd4 Rd7 Qd1 Rd6 Qd2 Qf5 Kg1 Qf3 Kh2 Kh7 Kg1 Kg7 Kh2 a4",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "d4",
+    "duration": 182,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1772526867.8827875
+  "updated": 1772526900.5305045
 }
