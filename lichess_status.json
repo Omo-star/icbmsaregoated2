@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
+  "rating": 3070,
   "opponent": "TheNextStockFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+1",
-  "time_left": 7,
-  "timestamp": "2026-03-03T11:23:32.734697",
+  "time_left": 56,
+  "timestamp": "2026-03-03T11:26:02.668712",
   "last_game": {
-    "result": "loss",
+    "result": "draw",
     "opponent": "TheNextStockFish",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "d4 c6 e4 d5 e5 Bf5 Nf3 e6 Be2 c5 Be3 cxd4 Nxd4 Ne7 c4 Nbc6 Qa4 a6 Nc3 dxc4 O-O-O Qa5 Qxa5 Nxa5 Nxf5 Nxf5 Bb6 Nc6 f4 Rc8 g3 Be7 Bf3 g5 a3 h5 Kb1 gxf4 gxf4 Bd8 Bc5 Be7 Bb6 Bd8 Na4 h4 Bf2 h3 Rhf1 Na5 Nc3 b5 Ne4 Nb3 Rg1 a5 Nd6+ Nxd6 exd6 Kd7 Rg7 Rf8 Bh5 Nc5 Bxf7 Kc6 d7 Rc7 Bxc5 Kxc5 Bxe6 Kb6 Rg3 Rc5 f5 Re5 Rxh3 Re4 a4 bxa4 Rc1 Kc6 Rhc3 Kd6 Rxc4 Rxc4 Rxc4 Rh8 Rc8 Ke7 Rc2 Kd6 Rf2 Ke5 Ka2 Kd6 Rd2+ Ke7 Rg2 Kd6 h3 Kc6 Rc2+ Kd6 Rc3 Rh4 Rd3+ Ke7 Rg3 Rh8 h4 Kd6 Rd3+ Kc7 Rc3+ Kd6 Rc8 Ke7 Rc4 Rh7 Ka3 Rg7 Kxa4 Rg3 Re4 Rg1 Kb5 Kf6 b3 Kg7 Rc4 Be7 Rc8 Rd1 h5 Rd6 Re8 Bh4 Kxa5 Bf6 Rg8+ Kh7 Rf8 Bh4 Kb5 Kh6 Rh8+ Kg7 Rg8+ Kh7 Rg6 Rxd7 Bxd7 Be7 f6 Ba3 Bf5 Bd6 f7 Be7 h6 Bf8 Kc6 Be7 Rf6+ Kh8 f8=Q+ Bxf8",
-    "duration": 228,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "Nf3 d5 c3 c5 e3 Nf6 d4 e6 a3 b6 c4 Be7 cxd5 exd5 Bb5+ Bd7 Be2 O-O Nc3 Be6 Ne5 Qc7 Bd2 Nc6 f4 Nd7 Nf3 Qb7 O-O Nf6 Rc1 Rad8 Ne5 Bd7 Bf3 Be8 Ne2 Ne4 Bxe4 dxe4 Bc3 h6 Ng3 f5 Qb3+ Kh7 dxc5 Bxc5 Bb4 Nxe5 Bxc5 Rd3 Qc2 bxc5 fxe5 Bd7 Nh5 Rc8 Nf4 Rxe3 Qc4 Be8 Qe6 Qd7 Qc4 Qb5 Qe6 Qd7 Qc4 Qb5 Qe6 Qd7",
+    "duration": 132,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772537012.7347903
+  "updated": 1772537162.6688654
 }
