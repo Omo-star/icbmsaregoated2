@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3066,
-  "opponent": "MEGA-NOOB-BOT",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 25,
-  "timestamp": "2026-03-04T09:09:49.124666",
+  "opponent": "is_BOSS",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 0+2",
+  "time_left": 22,
+  "timestamp": "2026-03-04T09:12:08.273892",
   "last_game": {
     "result": "draw",
-    "opponent": "MEGA-NOOB-BOT",
+    "opponent": "is_BOSS",
     "rating_before": 3066,
     "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "d3 Nc6 Nc3 d6 e4 f5 Bd2 fxe4 dxe4 e5 Be2 Be6 O-O-O Bf6 h3 Nge7 Bg4 Bc4 Rfe1 h5 Be2 Bg8 g4 g6 Nd5 O-O-O Nxf6 Qxf6 Bh6 Rf7 Nf3 Rh7 Be3 Rh8 Qg2 Kb8 b3 Rf8 Kb1 Nd8 Ng5 Nec6 f3 Qe7 gxh5 Rxh5 f4 Rh8 Rf1 exf4 Rxf4 Be6 Rxf8 Rxf8 Nxe6 Qxe6 Bc4 Qd7 Bh6 Rh8 Qxg6 Qxh3 Bg7 Qh5 Qxh5 Rxh5 Rf1 Rh7 Bf6 Kc8 Kb2 Rh6 a4 Kd7 Be2 Ne6 Bg4 Rg6 Bh3 Rh6 Bg4 Rg6 Bh3 Rh6 Bg4",
+    "duration": 170,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772615389.124765
+  "updated": 1772615528.2740042
 }
