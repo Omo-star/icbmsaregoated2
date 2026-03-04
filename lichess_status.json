@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3062,
-  "opponent": "OlympusCz",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 51,
-  "timestamp": "2026-03-04T10:27:27.990874",
+  "rating": 3061,
+  "opponent": "bot1e",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2026-03-04T10:27:56.909332",
   "last_game": {
     "result": "draw",
-    "opponent": "OlympusCz",
-    "rating_before": 3062,
-    "rating_after": 3062,
+    "opponent": "bot1e",
+    "rating_before": 3061,
+    "rating_after": 3061,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 Bd6 Re1 Bf5 Qf3 Bg6 Nd2 Nf4 d4 Qd7 Ne4 Bh5 Qe3 Rae8 f3 Nh3+ Kf1 Bxh2 Qd2 Qf5 Qd3 Bg6 g4 Qc8 Qd2 Bc7 Qg2 Nf4 Bxf4 Bxf4 Re2 Qd8 Rae1 Kh8 Qf2 a5 Bc2 a4 Bd3 Bxe4 Rxe4 Rxe4 fxe4 Qg5 Qf3 Bc1 e5 Bxb2 e6 Qe7 exf7 Qxf7 Qxf7 Rxf7+ Kg2 Rf8 Re6 Bxc3 Rxc6 b4 Bb5 Bxd4 Rc4 Be5 Rxb4 a3 Re4 Bd6 Rd4 Rd8 Kf3 h6 Bd3 Rf8+ Kg2 Rf6 Rd5 g6 g5 hxg5 Rxg5 Kg7 Rxg6+ Rxg6+ Bxg6",
-    "duration": 227,
-    "bot_color": "white",
+    "moves": "e3 d6 b4 b5 Ne2 e6 a4 a5 axb5 axb4 Nd4 Ng6 Qb2 Qa3 c4 d5 d3 Nf6 Ra1 Qxb2+ Kxb2 e5 Nb3 e4 d4 dxc4 Bxc4 Bxb5 Bxf7 Nh4 Be6+ Bd7 Bc4 Bb5 Bxb5 Rxb5 Ra8+ Rb8 Rxb8+ Kxb8 Na5 Rd6 Bxb4 Rb6 Nc6+ Kb7 Ka3 Ra6+ Kb2 Rb6 Ka3 Ra6+ Kb3 Rb6 Ka3",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772620047.9909742
+  "updated": 1772620076.9094672
 }
