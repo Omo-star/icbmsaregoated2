@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "CruelKen",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 15+5",
-  "time_left": 350,
-  "timestamp": "2026-03-04T10:11:26.688874",
+  "rating": 3067,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+0",
+  "time_left": 29,
+  "timestamp": "2026-03-04T10:12:40.636798",
   "last_game": {
     "result": "draw",
-    "opponent": "CruelKen",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "opponent": "PetersBot",
+    "rating_before": 3067,
+    "rating_after": 3067,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Qc7 Be3 a6 Qf3 Nf6 O-O-O Ne5 Qg3 b5 f4 Neg4 Bg1 h5 e5 b4 Na4 Nd5 h3 Nh6 f5 Bb7 Bd3 Be7 Kb1 h4 Qe1 Qa5 b3 Nc3+ Nxc3 bxc3 Be3 Qxe5 fxe6 dxe6 Nf3 Bxf3 gxf3 Nf5 Bb6 Qxe1 Rhxe1 Rh5 a4 a5 Re5 Ng3 Rb5 Kf8 Bc7 Rc5 Be5 Rcc8 Ka2 f6 Bd4 Bb4 Bc4 Rc6 Bg1 Nf5 Bd3 Nd6 Rh5 Ke7 Rxh4 Rd8 Rg4 Nf5 h4 Kf7 h5 Rcd6 Rc4 Rd5 Bb6 R8d6 Rc7+ Rd7 Rc8 Ne7 Rh8 f5 h6 gxh6 Rxh6 Nc6 Rh7+ Kf6 Rh6+ Kf7 Rh7+ Kf6 Rh6+ Kf7",
-    "duration": 1420,
+    "moves": "c4 c5 h4 g6 Ng3 Be5 e3 f5 Ne2 Nc6 f3 Bg7 a3 d6 Ndc3 Bf7 d3 h6 Ba2 g5 Bf2 Ng6 hxg5 hxg5 Qc2 f4 O-O-O fxe3 Bxe3 Nf4 Nxf4 gxf4 Bxf4 Qd7 Rde1 a6 Qd2 O-O-O Bb3 Nd4 Bd1 b5 Bg5 Rde8 Nd5 Bxd5 cxd5 Qf5 Kb1 Qxd5 Re4 e6 Be3 Nf5 Re1 Kd7 Bg1 Bh6 f4 Rg3 Bh5 Re7 Bf3 Rxf3 gxf3 Bg7 Bf2 Kc6 Qe2 Bd4 Bxd4 Nxd4 Qg2 Rb7 Qg8 Nxf3 Rd1 Nd4 Rde1 Nf3 Rd1 Nd4 Rde1 Nf3",
+    "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772619086.6889844
+  "updated": 1772619160.6369555
 }
