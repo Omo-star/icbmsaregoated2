@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 13,
-  "timestamp": "2026-03-04T09:13:30.538186",
+  "rating": 3036,
+  "opponent": "ArasanX",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 5+5",
+  "time_left": 154,
+  "timestamp": "2026-03-04T09:38:18.538068",
   "last_game": {
-    "result": "loss",
-    "opponent": "Viet-Test",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "result": "draw",
+    "opponent": "ArasanX",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rc1 Ne7 Kf4 h6 gxh6 Nc8 h7 Ke7 Rg1 Ra8 Kg4 Kd8 h8=N Kc7 h6 Kb8 Kf4 Na7 Nd3 a2 Rg2 Nb5 Kf3 Kc8 Rg1 Na7 Rg3 Kd8 h7 d6 Rg2 Kc8 Ng6 Nb5 Rd2 Ra5 Nc5 dxc5 Rd6 Nxd6 c4 Nxc4 Ne5 Nxe5+ h8=B Nxf3 Bd4 Nxd4",
-    "duration": 45,
+    "moves": "c4 e5 Nf3 e4 Ng1 Nf6 Nc3 c6 d3 d5 cxd5 cxd5 e3 Bd7 Nge2 Nc6 Nf4 Bg4 Be2 Bxe2 Qxe2 Bd6 O-O exd3 Qxd3 Bxf4 exf4 O-O Bd2 d4 Ne4 Nxe4 Qxe4 Re8 Qd3 Qd5 Rfc1 Rad8 b4 b6 a4 h5 h3 Re6 b5 Na5 Bxa5 bxa5 Rc4 h4 Rd1 Re4 Rc7 Qe6 Rxa7 Re1+ Rxe1 Qxe1+ Kh2 Qxf2 Qe4 Qg3+ Kg1 d3 Ra8 Rxa8 Qxa8+ Kh7 Qe4+ Kg8 Qe8+ Kh7 Qe4+ g6 Qc4 Qe3+ Kh1 Kg7 Qc3+ Kg8 Qc8+ Kg7 Qc3+ Kf8 Qc8+ Qe8 Qc3 Qe2 Qc8+ Ke7 Qc7+ Kf8 Qc8+ Ke7 Qc5+ Kf6 Qc3+ Kf5 Qc4 Qe1+ Kh2 d2 Qxf7+ Ke4 Qc4+ Ke3 Qc3+ Ke4 Qc4+ Ke3 Qc3+ Kxf4 Qf6+ Ke4 Qxg6+ Kd4 Qd6+ Kc3 Qc5+ Kd3 Qd5+ Kc3 Qc5+ Kb2 Qd4+ Kc2 Qc4+ Kb2 Qd4+ Kb3 Qd3+ Kb4 Qd4+ Ka3 Qd6+ Kxa4 Qf4+ Kb3 Qf7+ Kc3 Qg7+ Kb3 Qf7+ Kb2 Qg7+ Kc2 Qc7+ Kb1 Qh7+ Kc1 Qc7+ Kb1 Qh7+ Kb2 Qg7+ Kc2 Qh7+ Kc1 Qc7+ Kd1 b6 Qg3+ Qxg3 hxg3+ Kxg3 a4 b7 Kc1 Kh2 d1=Q b8=Q a3 Qe5 Qb3 Qc5+ Kb1 Qa7 a2 Qg1+ Kb2 Qf2+ Ka1 Qf6+ Kb1 Qf5+ Ka1 Qe5+ Kb1 Qe1+ Kb2 Qd2+ Ka1 Qc1+ Qb1 Qc3+ Qb2 Qe1+ Qb1 Qe5+ Qb2 Qe1+ Qb1 Qe5+ Qb2 Qe1+",
+    "duration": 1325,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1772615610.5382502
+  "updated": 1772617098.5381556
 }
