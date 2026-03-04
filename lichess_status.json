@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3036,
-  "opponent": "Moment-That-Inspires",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 594,
-  "timestamp": "2026-03-04T07:55:55.755505",
+  "rating": 3073,
+  "opponent": "ChessGPT_11",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+0",
+  "time_left": 13,
+  "timestamp": "2026-03-04T07:58:00.104190",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3036,
-    "rating_after": 3036,
+    "result": "loss",
+    "opponent": "ChessGPT_11",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 O-O h3 a5 Re1 Bb6 Nbd2 h6 Nf1 Be6 Bb5 Ne7 Ng3 Nd7 d4 f5 dxe5 Nxe5 Nd4 Bc8 exf5 Nxf5 Kh2 Qh4 Re4 Qf6 Bf4 Ng6 Nh5 Qf7 Nxf5 Qxf5 Bd3 Nxf4 Nxf4 Qg5 Bc4+ Kh7 Bd3 Kg8 Bc4+ Kh7 Bd3 Kg8 Bc4+",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nd4 c3 Bg4 Qa4+ b5 Bxb5+ Nxb5 Qxb5+ B@d7 @c6 Bdf5 h3 Bh5 N@g3 Bd6 Nxf5 O-O @h6 Bg6 Nxg7 Rb8 @b7 e4 O-O Ng4 d4 Nxh6 Qe2 @d3 Qe3 Qe7 Nxh7 Qh4 B@g5 Kxh7 Bxh4 Bf4 Qxf4 N@e2+ Kh1 Nxf4 Bxf4 f6 Nd2 Q@f3 Ne6 Nf5 gxf3 Rf7 N@g5+ fxg5 Nxg5+ Kg8 Q@c8+ Rxc8 bxc8=R+ N@f8 Rxf8+ Rxf8 N@e7+ Nxe7 R@g7+ Kh8 Q@h6+ @h7 Rxh7+ Bxh7 Qxh7#",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772610955.7556033
+  "updated": 1772611080.1042638
 }
