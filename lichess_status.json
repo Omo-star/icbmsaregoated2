@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2977,
+  "rating": 3036,
   "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 120,
-  "timestamp": "2026-03-04T07:49:02.468237",
+  "time_control": "TC: 10+0",
+  "time_left": 594,
+  "timestamp": "2026-03-04T07:55:55.755505",
   "last_game": {
     "result": "draw",
     "opponent": "Moment-That-Inspires",
-    "rating_before": 2977,
-    "rating_after": 2977,
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 Nc5 g4 b5 Na5 Qd6 b4 Ne6 c3 c5 g5 fxg5 bxc5 Nxc5 Bxc5 Qxc5 Nxg5 Qb6 Qh5 Qg6 Qxg6 hxg6 a4 a6 Nc6 Bb7 axb5 axb5 Rxa8 Bxa8 Nb4 c5 Nd5 b4 Kg2 Bxd5 exd5 bxc3 Kf3 Be7 Ne4 c2 d6 Bf8 Rc1 Rd8 Rxc2 Bxd6 Nxd6 Rxd6 Ke4 Rd4+ Ke3 Rd5 Ke4 Rd4+ Ke3 Rd5 Ke4 Rd4+",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 O-O h3 a5 Re1 Bb6 Nbd2 h6 Nf1 Be6 Bb5 Ne7 Ng3 Nd7 d4 f5 dxe5 Nxe5 Nd4 Bc8 exf5 Nxf5 Kh2 Qh4 Re4 Qf6 Bf4 Ng6 Nh5 Qf7 Nxf5 Qxf5 Bd3 Nxf4 Nxf4 Qg5 Bc4+ Kh7 Bd3 Kg8 Bc4+ Kh7 Bd3 Kg8 Bc4+",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772610542.4683452
+  "updated": 1772610955.7556033
 }
