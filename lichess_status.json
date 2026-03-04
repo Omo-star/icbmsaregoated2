@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "colinbot",
+  "rating": 3066,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 44,
-  "timestamp": "2026-03-04T09:08:19.928950",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2026-03-04T09:08:37.392993",
   "last_game": {
     "result": "draw",
-    "opponent": "colinbot",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "Viet-Test",
+    "rating_before": 3066,
+    "rating_after": 3066,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 a3 Be7 f3 O-O h4 Nc6 Qd2 Nxd4 Qxd4 b5 O-O-O Qc7 Qb6 Qxb6 Bxb6 Bb7 g4 Rac8 g5 Nh5 Ne2 d5 e5 d4 Rxd4 Bc5 Bxc5 Rxc5 Rh3 Rfc8 c3 Rxe5 f4 Rd5 Bg2 Rxd4 Bxb7 Rc7 Nxd4 Rxb7 Rf3 h6 Kc2 Kh7 Kd3 Re7 Ke4 hxg5 hxg5 f6 gxf6 gxf6 Nc2 Kg6 Nb4 Rc7 b3 Rd7 Nxa6 f5+ Ke3 Ra7 Nc5 Rxa3 Rh3",
-    "duration": 137,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg6 Bf3 Ra1 Kh3 Nf6 Kg3 Re1 Re2 Ne4+ Kg2 Rb1 Kh3 Rf1 Bg2 Rb1 Kh2 Kf6 Bf3 Kg6 Bg2 Kg7 Bf3 Kg6 Bg2 Kg7",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772615299.9290895
+  "updated": 1772615317.393084
 }
