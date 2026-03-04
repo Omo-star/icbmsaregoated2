@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3073,
-  "opponent": "Fischer_Bot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 2+1",
-  "time_left": 63,
-  "timestamp": "2026-03-04T08:06:12.820424",
+  "opponent": "MEGA-NOOB-BOT",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 0+1",
+  "time_left": 39,
+  "timestamp": "2026-03-04T08:06:33.135079",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
+    "opponent": "MEGA-NOOB-BOT",
     "rating_before": 3073,
     "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 e5 Ng3 c5 Nf5 g6 Ne3 f5 f3 Nc7 c4 b6 Nd5 Bf7 Bd3 Bxd5 cxd5 b5 Bf2 c4 Bc2 Ne8 Qe2 Qc7 O-O fxe4 fxe4 Bc5 Kh1 Nd6 Bh4 g5 Be1 Ng6 g3 Kb7 b3 Ka8 d3 Bd4 bxc4 bxc4 Bb4 Bxa1 Bxd6 Qxd6 Rxb8+ Rxb8 Rxa1 c3 Bb3 Rh8 Qh5 g4 Rc1 Rf8 Qg5 Qc5 Qxg4 Qe3 Qd1 Rf2 d6 Nf4 gxf4 Rxh2+ Kxh2 Qxf4+ Kh1 Qh4+ Kg2 Qg5+ Kf1 Qf4+ Kg2 Qg5+ Kf1 Qf4+ Ke2 Qh2+ Kf3 Qh3+ Kf2 Qh2+ Kf3 Qh3+ Kf2 Qh4+ Ke2 Qh5+ Kf1 Qh1+ Ke2 Qh2+ Kf3",
-    "duration": 215,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
+    "duration": 86,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772611572.8205414
+  "updated": 1772611593.1351738
 }
