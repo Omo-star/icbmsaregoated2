@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3065,
-  "opponent": "SF_Bot1nok",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 37,
-  "timestamp": "2026-03-05T08:25:55.877557",
+  "opponent": "ChessGPT_11",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 1+0",
+  "time_left": 8,
+  "timestamp": "2026-03-05T08:27:56.654448",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
+    "result": "loss",
+    "opponent": "ChessGPT_11",
     "rating_before": 3065,
     "rating_after": 3065,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6",
-    "duration": 86,
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Bb4 @d5 b5 Qxb5 Nd4 Qd3 @c5 @h6 Rg8 hxg7 Ba6 Qxa6 Nxc2+ Kd1 Nxa1 Bd3 Bxc3 bxc3 @c2+ Ke2 Rxg7 B@g3 N@b1 @d2 R@b6 B@h6 Rxa6 Bxg7 Q@g4+ f3 Qxg7 Bxa6 @e6 dxe6 fxe6 e5 B@d1+ Ke1 Nxd2 Bxd2 Bxf3 gxf3 @g2 Rg1 @b2 B@a3 c1=Q+ Bxc1 b1=Q Kf2 @d2 @b7 Qxa2 @e2 @e3+ Kxg2 dxc1=R Rxc1 Qxa3 R@h8+ B@f8 @e7 Qgxe7 bxa8=Q B@b8 R@c8 Qxc8 Bxc8 @h3+ Kxh3 R@h6+ Kg2 Qxc3 Bxd7+ Qxd7 Qxb8+ B@d8 Rxf8+ Kxf8 Qxd8+ Qxd8 R@f7+ Kxf7 N@g5+ Kg6 Q@f7+ Kf5 @g4+ Kxg5 @f4#",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1772699155.877683
+  "updated": 1772699276.6545155
 }
