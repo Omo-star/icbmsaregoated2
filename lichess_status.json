@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
+  "rating": 3031,
   "opponent": "ToromBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 110,
-  "timestamp": "2026-03-06T13:58:57.969601",
+  "time_control": "TC: 10+0",
+  "time_left": 412,
+  "timestamp": "2026-03-06T14:09:01.611811",
   "last_game": {
     "result": "draw",
     "opponent": "ToromBot",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 a4 a5 Be3 Bxe3 fxe3 Ne7 Nh4 c6 Qf3 O-O Nd2 d5 Bb3 Be6 Qg3 Nd7 d4 Qb8 Nhf3 exd4 Qxb8 Rfxb8 exd4 h6 Rfe1 Ra6 c3 Rb6 Rab1 Kf8 exd5 cxd5 Bc2 Bf5 Bxf5 Nxf5 Ne5 Nxe5 Rxe5 Ne7 Re2 Nf5 Re5 Ne7 Nf3 Rc8 Re2 Ng6 Rf1 Re8 Rfe1 Rxe2 Rxe2 f6 Ne1 Kf7 Nd3 Ne7 Kf1 Nc8 b4 Ra6 Rb2 b6 Ke1 axb4 Rxb4 g5",
-    "duration": 180,
-    "bot_color": "black",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 h5 b4 h4 O-O h3 g3 Bg4 Na3 Nf5 Nc2 Qd7 a4 Nd8 Ne3 Nxe3 Bxe3 Be7 Bg6+ Nf7 f5 exf5 Qc2 O-O Bxf5 Bxf5 Rxf5 fxe5 dxe5 g6 Rf4 Nxe5 Bd4 Bd6 Bxe5 Bxe5 Qxg6+ Bg7 Rh4 Qf5 Qxf5 Rxf5 Rxh3 Re8 Rf1 Rg5 Rf2 Re4 a5 b6 Kg2 bxa5 bxa5 c5 Nf4 c4 Kf3 Re1 Rc2 Rf1+ Ke2 Ra1 Kf3 Rxa5 Ne6 Re5 Nxg7 Kxg7 Rh4 Ra1 Kg2 Ra3 Rg4+ Kf6 Rf4+",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772805537.9697385
+  "updated": 1772806141.611919
 }
