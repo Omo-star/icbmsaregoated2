@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "CloudNetBot",
+  "rating": 3026,
+  "opponent": "bot1e",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 107,
-  "timestamp": "2026-03-06T09:23:32.668021",
+  "time_control": "TC: 10+5",
+  "time_left": 521,
+  "timestamp": "2026-03-06T09:29:20.143524",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "opponent": "bot1e",
+    "rating_before": 3026,
+    "rating_after": 3026,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 d3 c6 Nf3 d5 Bb3 a5 a4 Bb4+ c3 Bd6 exd5 cxd5 Bg5 Be6 Na3 Nc6 Nb5 Bb8 Bh4 O-O Qe2 Re8 O-O-O Na7 Nxa7 Rxa7 Rhe1 Ra6 Qc2 Bf5 Rd2 Rae6 Qd1 h6 d4 exd4 Rxe6 fxe6 Rxd4 Bg6 Qe2 Bh5 g4 Bg6 Bc4 Be4 Nd2 Bh7 g5 hxg5 Bxg5 Ba7 Rh4 dxc4 Bxf6 Qxf6 Rxh7 Kxh7 Qh5+ Qh6 Qxe8 Bxf2 Kc2 Qxh2 Qxe6 Bg3 Kd1 Qh1+ Kc2 Qh2 Kd1 Qg1+ Kc2 Bf4 Qh3+ Kg8 Qc8+ Kh7",
-    "duration": 180,
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Qe3 Ng4 Nxg4 Bxg4 Rd2 a6 h3 Bd7 f4 h5 g3 b5 Rg1 f6 g4 h4 Nd1 Rae8 Bg2 e6 Nf2 Na5 Bf1 Re7 Be2 Nc4 Bxc4 bxc4 Nd1 e5 dxe5 fxe5 f5 d4 c3 d3 Qe4 Qc5 Re1 Bc6 Qe3 Qxe3 Nxe3 gxf5 gxf5 Bf3 b4 cxb3 axb3 Rb7",
+    "duration": 960,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772789012.6681242
+  "updated": 1772789360.1436229
 }
