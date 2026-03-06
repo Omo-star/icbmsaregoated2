@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3065,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 20,
-  "timestamp": "2026-03-06T12:51:34.627808",
+  "rating": 3026,
+  "opponent": "BorkaTower",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 42,
+  "timestamp": "2026-03-06T13:12:45.936166",
   "last_game": {
-    "result": "draw",
-    "opponent": "is_BOSS",
-    "rating_before": 3065,
-    "rating_after": 3065,
+    "result": "win",
+    "opponent": "BorkaTower",
+    "rating_before": 3026,
+    "rating_after": 3026,
     "rating_delta": 0,
-    "moves": "Nc3 e5 e4 f5 exf5 Nf6 Nf3 Nc6 d4 Nxd4 Nxd4 exd4 Qxe8 Nxe8 Ne2 c5 g4 b5 Bg2 Bb7 Bf4+ Bd6 O-O a5 Rfd1 h5 h3 hxg4 hxg4 Bxf4 Nxf4 Nf6 Bxb7 Kxb7 f3 Kc6 c3 Nd5 Ng6 dxc3 Ne5+ Kd6 Nf7+ Kc6 Ne5+ Kd6 Nf7+ Kc6 Ne5+",
-    "duration": 98,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 bxc6 e5 Nd5 Ne4 Qa5+ Bd2 Qc7 Qh5 Be7 c4 Nb4 O-O-O Rb8 Bxb4 Rxb4 Nd6+ Bxd6 exd6 Qb6 c5 Qa5 a3 Rb3 Bd3 h6 Qe5 O-O Qd4 Ba6 Bc2 Rb5 Qd3 f5 b4 Qd8 h4 Qf6 Rh3 h5 Kd2 Kf7 Qc3 Rbb8 f4 Qh6 Rf3 Bb7 Rb1 Rg8 Bd1 Ra8 a4 Rh8 Qc4 Qf6 a5 Qxh4 a6 Bc8 Be2 Rb8 Qd3 Rg8 Qe3 Qf6 Rg3 g6 Kc2 Re8 Rg5 Rh8 Qd2 Re8 Bc4 Kg7 Re1 Rh8 Kb3 Kf8 Rg3 Rg8 Rh3 Rg7 Qd1 Rg8 Ree3 Rg7 g3 Rh7 Re5 Kg8 Qa1 Qf8 Rh1 Ra8 Kc2 Rb8 Qa5 Rg7 Kb3 Ra8 Qc7 Kh7 Kc2 Qg8 Be2 Qe8 b5 cxb5 Bxb5 Kh6 Be2 Rg8 Kb3 Rg7 Ka4 Bxa6 Bxa6 Rb8 Bb7 a5 Kxa5 Rd8 Kb6 Rf7 Rhe1 Rg7 Rd1 Kh7 c6 dxc6 Bxc6 Rb8+ Ka6 Rxc7 Bxe8 Rc3 Ba4 Ra8+ Kb6 h4 d7 Rb8+ Ka7 Rf8 Rxe6 Rc4 Re8 Rxa4+ Kb6 Rb4+ Kc5 Rb8 Rxb8 Rxb8 gxh4 Rd8 Kd6 Ra8 Ke7 Kh6 d8=Q Rxd8 Kxd8 Kh5 Rg1 Kxh4 Rxg6 Kh5 Rg5+ Kh4 Ke7 Kh3 Ke6 Kh2 Kxf5 Kh3 Ke4 Kh2 Kf3 Kh1 Kf2 Kh2 Rh5#",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772801494.627912
+  "updated": 1772802765.9362297
 }
