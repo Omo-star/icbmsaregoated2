@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "CloudNetBot",
+  "rating": 2983,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 19,
-  "timestamp": "2026-03-06T07:54:14.976750",
+  "time_control": "TC: 3+2",
+  "time_left": 112,
+  "timestamp": "2026-03-06T07:58:52.712361",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "result": "win",
+    "opponent": "OlisRalphBot",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Rc8 Rc3 Qd8 Qd2 Qxd2 Nxd2 Ne7 Rxc8 Nxc8 f4 f6 e4 Bc6 Kf2 Kf7 Bh5+ g6 Bf3 e5 fxe5 fxe5 Nc4 Kf6 Bg4 Ne7 Ke3 h5 Bd1 Bd7 Nd6 b6 g3 Ke6 Nc4 Kf6 Nd6 Ke6 Nc4 Kf6 Nd6",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nf3 d5 Nc3 Nf6 d4 c5 dxc5 Nc6 Nd4 e5 Nxc6 bxc6 b4 a5 Ba3 d4 Nb1 axb4 Bxb4 Nd5 c3 dxc3 Bxc3 Bxc5 Bxe5 O-O e4 Qe7 Bg3 Bb4+ Nd2 Qxe4+ Be2 Qxg2 Rf1 Re8 a3 Nc3 Rc1 Rxa3 Rxc3 Rxc3 h3 Rxe2+ Kxe2 Ba6+ Ke1 Rc1 Qxc1 Qxf1#",
+    "duration": 280,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772783654.976846
+  "updated": 1772783932.7124224
 }
