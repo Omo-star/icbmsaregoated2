@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 3+0",
-  "time_left": 23,
-  "timestamp": "2026-03-06T14:14:40.019491",
+  "rating": 3031,
+  "opponent": "Tieger85",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 535,
+  "timestamp": "2026-03-06T21:54:41.079062",
   "last_game": {
     "result": "win",
-    "opponent": "PetersBot",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "Tieger85",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "Nf3 f5 b4 e6 a4 Nf6 e3 Bd6 Ne5 Bxe5 Qxe5 Ng6 Qb2 Bf7 d3 O-O Bc3 Be8 Be2 d6 b5 b6 O-O f4 e4 c5 bxc6 Qxc6 f3 Rc8 Bb4 Qxc2 Bxd6 Qxb2 Rxb2 Rf7 Ra1 Rd7 Bb4 e5 Nf2 Rdc7 Bd1 Rc1 Ra3 R1c6 a5 b5 a6 Rb6 Bd2 Rcc6 Ra5 Rd6 Bb3+ Bf7 Bd1 Be8 Bb4 Rdc6 Be1 Rd6 Bb3+ Bf7 Bc2 Nd7 Bc3 h6 Kf1 Be6 Rbxb5 Rxb5 Rxb5 Rxa6 Nd1 Ra2 Bb2 Ra6 Ke1 Nh4 Kf1 Ng6 Rb7 Nc5 Rc7 Nb3 Nc3 Nd4 Ne2 Rc6 Rxc6 Nxc6 Ba4 Nge7 g3 g5 Kg2 a6 Bc3 Kf7 Kf2 Bd7 d4 exd4 Nxd4 Ne5 Bb3+ Kf6 Bd1 N7g6 Be2 Bb5 Nxb5 axb5 Bxb5 Ke7 Ba6 h5 Bc8 Kd6 Bf5 Nd3+ Ke2 Nge5 Kd2 Nc5 gxf4 gxf4 Ke2 Nb3 Bh7 Nc1+ Kd1 Ncd3 Kd2 Nc5 Ke2 Ne6 h4 Nc5 Bd2 Ne6 Kf2 Nd3+ Kg2 Ne5 Bf5 Nd4 Bxf4 Nxf3 Bg5 Nd4 Kg3 Nd7 Bg6 Ke5 Be3 Nb3 Kf3 Ndc5 Bf4+ Kf6 Bxh5 Nd4+ Ke3 Nc2+ Kd2 Nd4 Bg4 Nxe4+ Ke3 Nf5+ Kxe4 Nxh4 Bd2 Ng6 Be1 Kg5 Be2 Nf8 Ba5 Kg6 Ke5 Nd7+ Kd6 Nf6 Ke6 Nh5 Bd3+ Kg5 Bd2+ Kh4 Be2 Ng3 Be1 Kh3 Bf3 Nf1 Kf5 Ne3+ Ke4 Nf1 Kf4 Nh2 Bb7 Nf1 Kf3 Nh2+ Kf2 Kg4 Kg2 Kf4 Kxh2 Ke3 Kg3 Ke2 Bf2 Kd2 Ba6 Kc3 Kf4 Kd2 Ke5 Kc3 Bc5 Kb3 Kd4 Kc2 Bc4 Kd2 Bd3 Kc1 Kc3 Kd1 Bf2 Kc1 Be2 Kb1 Kb3 Ka1 Be3 Kb1 Bd3+ Ka1 Bd4#",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Be6 Nc3 Qa5 Ne4 Rd8 Nc5 Bd5 b4 Qa3 Qc2 a5 b5 b6 Nd3 Be4 Rad1 Bxd4 Bg5 Bf6 Bc1 Qe7 Qb3 Bd5 Qa4 Be6 Ba3 Rxd3 Bxe7 Rxd1 Rxe6 fxe6 Bxf8 Rd4 Qa3",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1772806480.019556
+  "updated": 1772834081.0791879
 }
