@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3066,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 1+0",
-  "time_left": 27,
-  "timestamp": "2026-03-06T12:27:06.689171",
+  "rating": 2988,
+  "opponent": "RaspFish",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 73,
+  "timestamp": "2026-03-06T12:30:54.487621",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
-    "rating_before": 3066,
-    "rating_after": 3066,
+    "opponent": "RaspFish",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 d5 Nc3 b5 Ng5 fxg5 Qh5+ g6 Qe5 Be6 b3 Nf6 Ba3 b4 d4 a6 f3 c5 Bb5+ axb5 Qc7 Qxc7 Nxb5 Bh3 gxh3 c4 Nxc7+ Kd7 Bxb4 Ra3 b4 Bh6 b5 Bf4 Rf1 Bg5 h4 Bf4 c3 Bg3+ Kd1 Rb8 Ne6 Rb6 Rb1 Kc8 Rb3 Rxa2 Nf8 Kb7 f4 Nd7 e4 g5 fxg5 Rf6 Ng6 Rb6 Nxe7 Bf2 e5 Rg6 h5 Rg4 Kc1 Bh4 b6 Re4 Re1 Bxe1 Kb2 Re2+ Ka3 Ra2+ Kb4 Ra5 e6 Rb5+ Ka3 Kb8 Ka4 Kb7 Ka3 Kb8 Ka4 Ra5+ Kb4 Kb7 e7 Rb5+ Ka4 Ra5+ Kb4 Rb5+ Ka4 Ra5+ Kb4",
-    "duration": 60,
-    "bot_color": "black",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 Qd7 O-O f6 f4 h5 b4 h4 a4 a6 h3 Bxd3 Qxd3 Nf5 Nd2 Na7 Nb3 Nc8 Re1 Nb6 Nc5 Bxc5 dxc5 Nc4 exf6 gxf6 Nd4 Nxd4 Qxd4 Rf8 Qf2 Rh8 Qd4 Rf8 Be3 c6 Bf2 O-O-O Bxh4 e5 fxe5 fxe5 Qd3 e4 Qe2 Rde8 Rf1 Rg8 Kh1 e3 Rae1 Kb8 Rf4 a5 Rd1 Qc7 Rdd4 Nd2 Rg4 Rxg4 Rxg4",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772800026.6892662
+  "updated": 1772800254.4877512
 }
