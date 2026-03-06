@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3074,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 32,
-  "timestamp": "2026-03-06T13:50:59.308495",
+  "rating": 2987,
+  "opponent": "abcd_engine",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 84,
+  "timestamp": "2026-03-06T13:55:57.284374",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3074,
-    "rating_after": 3074,
+    "result": "win",
+    "opponent": "abcd_engine",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "g4 O-O-O O-O-O g5 h4 h6 Nb3 e6 d4 d5 Rd3 f6 Nc3 Nc6 e4 Nb6 h5 a5 exd5 exd5 Nb5 Kb8 Rd1 f5 Qh2 Qh7 Bd3 Nb4 Bxf5 Qg7 Na3 Nc6 Nb5 Nb4 Na3 Bd7 Nxa5 Bxf5 gxf5 Qd7 Qg3 Qa4 Nb3 Nc4 Bxb4 Bxb4 Nc5 Bxc5 dxc5 Nxa3 Qxa3 Qxa3 bxa3 Rgf8 Rge1 Rxf5 Re6 Rxf2 Rxh6 d4 Rd2 Rf1+ Rd1 Rf2 Rg6 Rd5 Rd2 Rf1+ Rd1 Rf2 h6 Rxc5 Rd2 Rf1+ Rd1 Rf2 Rd2 Rf1+ Rd1 Rf2",
-    "duration": 140,
+    "moves": "d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7 exf6 Bb7 g3 Qb6 Bg2 O-O-O O-O c5 d5 b4 Na4 Qa6 a3 Bxd5 Bxd5 Ne5 axb4 Rxd5 Qe2 cxb4 Nc3 Qd6 Ne4 Qc6 Bf4 Kb7 Nc3 bxc3 Bxe5 Rd2 Qe1 Bc5 Rb1 Rdd8 bxc3+ Ka8 Rd1 Rdg8 Bd4 Rxh2 f3 Rh3 Kg2 Rhxg3+ Qxg3 Rxg3+ Kxg3 Kb7 Bxc5 Qxc5 Rd4 a5 Re1 Kb6 Ree4 Qg5+ Kf2 Qxf6 Rxc4 Qh6 f4 Qh2+ Ke3 Qc2 Red4 f6 Re4 Qc1+ Ke2 Qb2+ Ke3 Qa1 Kd2 Qb2+ Ke3 Qc1+ Ke2 Qc2+ Ke3 Kb5 Rc8 Qc1+ Ke2 Qb2+ Kf3 Qa2 Re8 Qa1 Rb8+ Kc6 Rxe6+ Kd5 Rbb6 f5 Kg2 Kc4 Rbc6+ Kb3 Rb6+ Kxc3 Rbc6+ Kb2 Re3 a4 Rf3 Qd1 Rc5 a3 Rb5+ Kc2 Ra5 Qa1 Raxa3 Qd4 Rf2+ Kb1 Rh3 Qd5+ Kh2 Qd4 Kg1 Qg7+ Kf1 Qb7 Kg1 Qg7+ Kf1 Qb7 Rh5 Qb3 Kg2 Qd5+ Kg1 Qb3 Kg2 Qd5+ Kg1 Qb3 Kh2 Qc3 Rxf5 Qe1 Kg3 Qg1+ Rg2 Qe1+ Kg4 Qe6 Rd2 Kc1 Rd5 Qg6+ Kf3 Kc2 Rfe5 Qh6 Rh5 Qa6 Rh2+ Kc3 Rh1 Qe6 Rhh5 Qe1 Rc5+ Kb2 Rhe5 Qf1+ Ke3 Qe1+ Kd4 Qd1+ Ke3 Qe1+ Kf3 Qf1+ Kg3 Qg1+ Kh3 Qf1+ Kg3 Qg1+",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1772805059.3086443
+  "updated": 1772805357.2845712
 }
