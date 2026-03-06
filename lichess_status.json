@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3067,
-  "opponent": "PositionalAI",
+  "rating": 2983,
+  "opponent": "abcd_engine",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-03-06T08:02:38.442968",
+  "time_control": "TC: 3+0",
+  "time_left": 21,
+  "timestamp": "2026-03-06T08:09:02.617570",
   "last_game": {
     "result": "draw",
-    "opponent": "PositionalAI",
-    "rating_before": 3067,
-    "rating_after": 3067,
+    "opponent": "abcd_engine",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 f5 Nc3 Bc5 Rc7 Bd6 Rc4 Bxa3 Rd1 Rbb8 g4 Be8 Ra1 Bb2 Ra2 f4 exf4 Rb3 Ne2 Bb5 Rc5 Bd4 Nxd4 Rxd4 Kg2 Bf1+ Kxf1 Rxf3 Kg2 Rfxf4 h3 Ra4 Re2 Rae4 Rxe4 Rxe4 f3 Ra4 h4 Ra7 Rb5 Kf7 Rb3 g5 h5 Kg7 Rb8 Ra2+ Kh3 Ra7 Kg3 Kf7 Rh8 Kg7 Rb8 Kf7 Kg2 Kg7 Kg1 Ra1+ Kf2 Ra7 Ke3 Kf7 Rb4 Ke7 Rb3 Kf7 Rc3 Ke7 Rc8",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 d6 c3 O-O h3 Nb8 d4 Nbd7 Nbd2 Bb7 Bc2 Re8 Nf1 Bf8 Ng3 a5 Bd2 a4 Qe2 h6 Rac1 c5 d5 c4 Nf5 Nc5 g4 Bc8 Kh2 g6 Ng3 Qd7 Rh1 Bg7 Be3 a3 b4 cxb3 axb3 a2 Ra1 Ra3 Bc1 Ra8 Be3 Ra3 Bc1 Ra8 b4 Na4 Qd2 Qc7 Rxa2 Bd7 Bxa4 Rxa4 Rc2 Qc4 Re1 Rea8 Qe2 Qxe2 Rexe2 Rc8 Be3 Ra3 Rc1 Rcxc3 Rxc3 Rxc3 Ra2 Ne8 Kg2 Bf8 Nd2 Rc7 Ra8 Kg7 Bb6 Rb7 Bd8 Nc7 Ra3 Ne8 Ra8 Nc7 Ra3 Ne8 Ngf1 Rb8 Bh4 Rb7 Ne3 h5 Ra6 f6 Bg3 Kg8 f4 Bh6 Kf3 Rc7 Ra8 h4 Bxh4 exf4 Nd1 Bg7 Nb3 Kf7 Rb8 f5 Bd8 Ra7 Na5 Be5 exf5 gxf5 Bb6 fxg4+ hxg4 Ra6 Bd8 Ra7 Bb6 Ra6 Bd8 Ra7 Nf2 Nc7 Bxc7 Rxc7 Ne4 Rc1 Rb7 Ke8 Rb8+ Kf7 Rb7 Ke8 g5 Rf1+ Kg2 Re1 Nf6+ Bxf6 gxf6 Bg4 Rg7 f3+ Kg3 Rg1+ Kf2 Rg2+ Kf1 Bh3 Rxg2 fxg2+ Kg1 Kf7 Nb7 Kxf6 Nxd6 Bd7 Nxb5 Bxb5 Kxg2 Ke5 Kh3 Kxd5 Kh4 Kc4 Kh5 Kxb4",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772784158.4430737
+  "updated": 1772784542.6176343
 }
