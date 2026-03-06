@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2983,
-  "opponent": "OlisRalphBot",
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 112,
-  "timestamp": "2026-03-06T07:58:52.712361",
+  "time_control": "TC: 3+0",
+  "time_left": 131,
+  "timestamp": "2026-03-06T08:00:31.101129",
   "last_game": {
-    "result": "win",
-    "opponent": "OlisRalphBot",
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "Nf3 d5 Nc3 Nf6 d4 c5 dxc5 Nc6 Nd4 e5 Nxc6 bxc6 b4 a5 Ba3 d4 Nb1 axb4 Bxb4 Nd5 c3 dxc3 Bxc3 Bxc5 Bxe5 O-O e4 Qe7 Bg3 Bb4+ Nd2 Qxe4+ Be2 Qxg2 Rf1 Re8 a3 Nc3 Rc1 Rxa3 Rxc3 Rxc3 h3 Rxe2+ Kxe2 Ba6+ Ke1 Rc1 Qxc1 Qxf1#",
-    "duration": 280,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 h4 Re7 Re3 Re6 a5 b5 Nd2 Nxd2 Qxd2 Rde8 Rae1 a6 Rxe6 Rxe6 Rxe6 Qxe6 Bg5 Bxg5 hxg5 Be4 Qe2 Bxg2 Qxe6 fxe6 Kxg2 e5 dxe5 d4 Kf1 d3 f4 Kg7 Ke1 Kg8 Kd2 Kf7 Kc1 Ke7 Kd1 Ke8",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1772783932.7124224
+  "updated": 1772784031.1012263
 }
