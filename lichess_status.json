@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "Lxch56",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 152,
-  "timestamp": "2026-03-07T20:07:52.863743",
+  "time_left": 127,
+  "timestamp": "2026-03-07T20:10:44.710022",
   "last_game": {
-    "result": "win",
-    "opponent": "Lxch56",
+    "result": "draw",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "Nc3 d5 d3 e5 Nb1 Nc6 Nd2 f5 e4 Nf6 Ke2 fxe4 dxe4 dxe4 f3 exf3+ Ngxf3 e4 Ne1 Bc5 Nc4 Bg4+ Nf3 exf3+ gxf3 Bxf3+",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 Ng3 Rc3 Ra1 Rd3 Ne2 Bf6 Nd4 Kf8 Kf1 Ke7 Ke2 Bxd4 exd4 Rxd4 Rc1 Bb5+ Ke1 a6 Rc7+ Kf6 Ra7 g6 g3 g5 h3 Kg6 Bb7 Rd6 a4 Bd3 Bg2 f5 Bf1 Bxf1 Kxf1 Kf6 a5 h5 Rh7 Kg6 Ra7 Kf6 Rh7 Kg6 Ra7",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772914072.8638349
+  "updated": 1772914244.7101316
 }
