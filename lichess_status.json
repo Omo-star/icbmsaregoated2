@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "Platonasil",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 111,
-  "timestamp": "2026-03-07T18:36:25.506515",
+  "time_left": 45,
+  "timestamp": "2026-03-07T18:41:32.964728",
   "last_game": {
-    "result": "win",
-    "opponent": "Platonasil",
+    "result": "draw",
+    "opponent": "BorkaTower",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 Nd7 Nh4 Nb6 Nxf5 g6 Ne3 f6 e6 Qd6 a4 Qxe6 a5 Nc4 Bxc4 dxc4 O-O b6 axb6 a5 Nc3 Bh6 Re1 Bxe3 Bxe3 Qf5 Qe2 e5 Qxc4 exd4 Bxd4+ Ne7 Qxc6+ Kf8 Qxa8+ Kf7 Qxh8 Qxc2 Qxf6+ Ke8 Qxe7#",
+    "moves": "e4 d6 d4 Nf6 Nc3 g6 Be3 Bg7 Qd2 c6 Nf3 Qa5 Bd3 O-O O-O e5 dxe5 dxe5 h3 Rd8 Rfd1 Qc7 a4 a5 Qe2 Re8 Rd2 h6 Bc4 Na6 Rad1 Bf8 Ne1 Be6 Bxe6 Rxe6 Nd3 Rd8 f3 Nb4 Nc5 Red6 Rxd6 Rxd6 Rxd6 Bxd6 Nb1 h5 Na3 Nd7 Nxd7 Qxd7 Nc4 Bc7 b3 Qd8 Qd2 f6 Qe2 b5 Na3 Bb6 Bxb6 Qxb6+ Kh2 Kg7 c3 Na6 Qd2 bxa4 bxa4 Qc7 Qf2 Qe7 Qb2 Nc5 Nc4 Qc7 Qa3 Qa7 Nd6 Ne6 Ne8+ Kf7 Nd6+ Kf8 Nb7+ Kf7 Nd6+ Kf8 Qa2 Qe3 Qb1 h4 Qb8+ Kg7 Qc8 Qf4+ Kg1 Qc1+ Kh2 Qf4+ Kh1 Qc1+ Kh2 Qf4+",
     "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1772908585.5066013
+  "updated": 1772908892.9648504
 }
