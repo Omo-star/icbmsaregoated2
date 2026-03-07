@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusCz",
+  "opponent": "Platonasil",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 42,
-  "timestamp": "2026-03-07T18:33:45.581959",
+  "time_left": 111,
+  "timestamp": "2026-03-07T18:36:25.506515",
   "last_game": {
     "result": "win",
-    "opponent": "OlympusCz",
+    "opponent": "Platonasil",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Ne1 c5 Nd3 h5 Rfe1 Ng6 Nd5 Kb7 c4 Re8 Rd2 Bf5 f4 Bc8 Red1 Rg8 Kf1 Be7 Kg1 Bd8 Kh2 h4 Re1 c6 Nc3 Bc7 Ne4 Bf5 Rf2 Rd8 Rf3 Ne7 Ndf2 Bg6 Kg1 Nf5 Bc3 Bh5 Rd3 Rxd3 Nxd3 Rd8 Nc1 Bg6 Ng5 b5 Kf2 Kb6 Nf3 Rd7 e6 fxe6 axb5 cxb5 Rxe6+ Rd6 Rxd6+ Bxd6 Nd3 Bf7 Nde5 Be6 Ng5 Bg8 Ne4 b4 Bb2 Bxe5 Bxe5 a4 bxa4 Bxc4 g4 hxg3+ Nxg3 Nxg3 Kxg3 Ka5 Bxg7 Bd3 Kg4 c4 f5 c3 h4 Kxa4 Bd4 Bxf5+",
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 Nd7 Nh4 Nb6 Nxf5 g6 Ne3 f6 e6 Qd6 a4 Qxe6 a5 Nc4 Bxc4 dxc4 O-O b6 axb6 a5 Nc3 Bh6 Re1 Bxe3 Bxe3 Qf5 Qe2 e5 Qxc4 exd4 Bxd4+ Ne7 Qxc6+ Kf8 Qxa8+ Kf7 Qxh8 Qxc2 Qxf6+ Ke8 Qxe7#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772908425.5820527
+  "updated": 1772908585.5066013
 }
