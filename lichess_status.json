@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusRybka3",
+  "opponent": "Vish_7",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 123,
-  "timestamp": "2026-03-07T11:13:37.186955",
+  "time_left": 136,
+  "timestamp": "2026-03-07T11:15:52.570826",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusRybka3",
+    "result": "win",
+    "opponent": "Vish_7",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Rd2 c5 Ne2 Ng6 c4 Be6 Ne1 h5 f4 Ne7 Nf3 Nf5 Rd3 h4 Ng5 Be7 Nxe6 fxe6 g3 hxg3 Nxg3 Rxh3 Kg2 Rxg3+ Rxg3 Nxg3 Kxg3 Kd7 Bc1 Rh8 Rg1 Ke8 Be3 Bd8 Kf3 Kf7 Rd1 Ke8 Rg1 Rh7 Ke4 Ke7 Bc1 Kf7 Rd1 Ke7 Rg1 Kf7 Rd1 Ke8 Rg1 Ke7 Be3 Kf7 Rd1 Ke8",
+    "moves": "d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 Bg4 Be3 Bxf3 Bxf3 Nbd7 Be2 e5 d5 Ne8 Qc2 f5 exf5 Rxf5 h4 c6 Bg4 Rf7 Be6 cxd5 Nxd5 Qa5+ b4 Qa6 O-O Nb6 Bxb6 axb6 h5 Nf6 hxg6 hxg6 Qxg6",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1772882017.1872628
+  "updated": 1772882152.570918
 }
