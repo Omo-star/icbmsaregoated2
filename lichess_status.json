@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusCz",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 129,
-  "timestamp": "2026-03-07T12:54:44.989612",
+  "time_left": 16,
+  "timestamp": "2026-03-07T13:04:18.437477",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusCz",
+    "result": "win",
+    "opponent": "BorkaTower",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Rd2 c5 Ne2 Ng6 c4 Be7 e6 Bxe6 Bxg7 Rh7 Bc3 Kb7 Ng3 Rg8 Kh2 h5 Ne4 Nf4 Rg1 Bf5 Nf6 Bxf6 Bxf6 Rg6 Bh4 Nd3 Bd8 Nb4 Re1 Re6 Rxe6 fxe6 Rb2 Rh8 Bf6 Rf8 Bc3 Nd3 Rd2 Nc1 Rb2 Nd3 Rd2 Nc1 Rb2 Nd3",
+    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 Nd7 O-O h6 a4 Ne7 a5 Qc7 b4 a6 Nh4 Bh7 f4 O-O-O Nc3 Kb8 Nf3 Bf5 Na4 Rg8 c3 Nc8 Nh4 Be4 f5 Be7 fxe6 fxe6 Nf3 Rdf8 Be3 g5 Nd2 Bf5 c4 Na7 Qb3 h5 cxd5 exd5 Bxh5 Nb5 Nc3 Nxc3 Qxc3 Rh8 Be2 Qd8 Rac1 Rh6 Nb3 Be6 Rxf8 Nxf8 Bd2 Bc8 Rf1 Rh4 Be1 Rh8 Qg3 Ne6 Bg4 Nf4 Nc5 Bf5 Kh1 Qc8 e6 Bxg4 Qxg4 Ka7 Bg3 Bd6 Re1 Qd8 Qf5 Rf8 Qh7 Be7 h3 Re8 Qf5 Rh8 Rf1 Qc8 Bxf4 gxf4 Qf7 Re8 Rxf4 Bxc5 bxc5 Rxe6 Rg4 Re1+ Kh2 Qb8+ Qf4 Qh8 Qc7 Re8 Rg7 Rb8 Qe7 Qh5 Qf6 Qh8 Rf7 Qe8 Re7 Qc8 Rh7 Qe8 Rf7 Ka8 Re7 Qc8 Rg7 Qe8 Qe7 Qh8 g4 Qh6 Qg5 Qe6 Re7 Qc8 Kg3 Qd8 h4 Qxa5 h5 Qa1 Qe3 Ka7 h6 Rh8 h7 Qd1 Qh6 Qxd4 Qg7 Qg1+ Kh4 Qh1+ Kg5 Qc1+ Kh5 Rb8 Qe5 Qh1+ Kg6 Qh3 g5 Qc8 Qe6 Qxe6+ Rxe6 d4 Rd6 b5 Rd7+ Ka8 Rg7 d3 Rg8 b4 Rxb8+ Kxb8 h8=Q+ Kc7 Kf6 d2 Qh5 a5 g6 Kb7 g7 b3 Qf7+ Ka6 Qxb3 Ka7 g8=Q a4 Qb6#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1772888084.9897132
+  "updated": 1772888658.437556
 }
