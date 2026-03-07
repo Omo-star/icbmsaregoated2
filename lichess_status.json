@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "FDG-Bot_1718",
+  "opponent": "Blazum",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 98,
-  "timestamp": "2026-03-07T11:46:59.346725",
+  "time_left": 180,
+  "timestamp": "2026-03-07T11:48:49.054948",
   "last_game": {
-    "result": "draw",
-    "opponent": "FDG-Bot_1718",
+    "result": "win",
+    "opponent": "Blazum",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "c4 e5 b3 Nc6 Bb2 Nge7 a3 d5 cxd5 Nxd5 e3 f6 b4 Be6 Qc2 Qd7 b5 Na5 d4 exd4 Bxd4 c5 bxc6 Nxc6 Nf3 Rc8 Qb2 Bd6 Nbd2 O-O Bd3 Kh8 O-O Bg8 Rfc1 Rc7 Ne4 Nxd4 Qxd4 Rfc8 Rxc7 Bxc7 Ng3 Bb6 Qb2 Rc7 Nd4 Qe7 Ndf5 Qe8 Bb5 Qc8 Bd3 Qe8 Bb5 Qe6 Bf1 Ba5 Nd4 Qe5 Rd1 a6 Nge2 b5 h4 Rc5 Rd3 h6 g3 Bh7 Rb3 Nb6 Nf4 Nc4 Qe2 Qe8 Rd3 Bxd3 Qxd3 Ne5 Qe4 Rc1 Kg2 Rc8 h5 Bc3 Bd3 Nxd3 Ng6+ Kh7 Ne7+ Kh8 Ng6+ Kg8 Ne7+ Kf8 Ng6+ Kg8 Ne7+ Kf8 Ng6+ Kg8",
+    "moves": "",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "noStart"
   },
-  "updated": 1772884019.3468404
+  "updated": 1772884129.0550332
 }
