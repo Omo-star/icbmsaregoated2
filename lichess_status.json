@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "FDG-Bot_1718",
+  "opponent": "master0907",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 114,
-  "timestamp": "2026-03-07T10:22:37.451677",
+  "time_left": 174,
+  "timestamp": "2026-03-07T10:23:57.421122",
   "last_game": {
-    "result": "draw",
-    "opponent": "FDG-Bot_1718",
+    "result": "win",
+    "opponent": "master0907",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 c4 e6 Bg5 dxc4 Nc3 a6 a4 Nc6 e3 Na5 Nd2 c5 Nxc4 cxd4 Qxd4 Qxd4 exd4 Nxc4 Bxc4 Bb4 O-O Bd7 d5 Bxc3 bxc3 Ne4 Bf4 Rc8 Bb3 Rxc3 dxe6 fxe6 Ba2 Kf7 Rfe1 Nc5 Rac1 Rxc1 Rxc1 Nd3 Rd1 Nxf4 Rxd7+ Kf6 g3 Ne2+ Kg2 Rb8 a5 Nc3 Bb3 h6 f4 Nb5 Ba4 Nc3 Bb3 Nb5 Bc4 b6 Bxb5 axb5 a6 Ra8 a7 b4 Rb7 b3 Rxb6 Rxa7 Rxb3 Ra4 Kf3 g5 fxg5+ hxg5 h3 g4+ hxg4 e5 Rb8 e4+ Ke3 Ra1 Kf4 e3 Rb6+ Ke7 Kxe3 Rc1 Kf4 Ra1 Kg5 Kf7 Rb7+ Kg8 Rd7 Rb1 Kh5 Ra1 g5 Ra6 Rd8+ Kg7 Rd7+ Kf8 g6 Ra1 g7+ Kg8 g4 Rb1 Re7 Ra1 Kg6 Ra6+ Kf5 Ra1 Kf6 Ra6+ Re6 Rxe6+ Kxe6 Kxg7 Ke5 Kg6",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Nxc6 bxc6 e5 Nd5 Ne4 Qc7 f4 Qb6 c4 Bb4+ Ke2 f5 exf6 Nxf6 Be3 Qa5 Nxf6+ gxf6 Kf2 Bc5 Qh5+ Kd8 Qxc5 Qxc5 Bxc5 Ba6",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "insufficientMaterialClaim"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1772878957.4517562
+  "updated": 1772879037.4212215
 }
