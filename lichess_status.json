@@ -3,20 +3,20 @@
   "playing": false,
   "rating": 3077,
   "opponent": "Viet-Test",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2026-03-07T10:03:52.005576",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: \u00be+0",
+  "time_left": 21,
+  "timestamp": "2026-03-07T10:06:20.483951",
   "last_game": {
     "result": "loss",
     "opponent": "Viet-Test",
     "rating_before": 3077,
     "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Bb4 @d5 b5 Qxb5 Rb8 Qd3 Ne5 Qg3 d6 Qxg7 Rg8 Qxg8+ Nxg8 R@g3 Nf6 @g7 Bg4 Be2 Bxe2 g8=Q+ Nxg8 Rxg8+ B@f8 Bd2 Bxc3 bxc3 Qf6 N@f5 Bb5 B@c6+ Bxc6 dxc6 N@d3+ cxd3 Nxd3+ Kf1 @e2+ Kg1 Q@f1+ Rxf1 exf1=R+ Kxf1 Rb1+ Ke2 Nf4+ Bxf4 R@e1+ Rxe1 Rxe1+ Kxe1 Qxc3+ R@d2 R@c1+ B@d1 Rxd1+ Kxd1 Qxd2+ Bxd2 B@a4+ @c2 R@a1+ Ke2 Bb5+ Kf3 @g4+ Rxg4 Be2+ Kg3 @h4+ Rxh4 @f4+ Bxf4 B@c8 N@f6+ Kd8 R@e8#",
-    "duration": 30,
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rc1 Ke7 h6 Kd6 Kf3 a2 Nd1 Ne7 Ke2 Ke6 g6 hxg6 Nc3 Rb7 Nxa2 Rb3 cxb3 g5 b4 g4 Nc3 Nc8 h7 Kf7 Rf1+ Ke8 Nb5 Nd6 Nxd6+ g3 Nxe8 g2",
+    "duration": 45,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "resign"
   },
-  "updated": 1772877832.0056424
+  "updated": 1772877980.484062
 }
