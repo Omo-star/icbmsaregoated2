@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "Bot1nokk",
+  "rating": 2994,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 334,
-  "timestamp": "2026-03-07T08:46:39.244295",
+  "time_control": "TC: 3+2",
+  "time_left": 156,
+  "timestamp": "2026-03-07T08:50:30.103945",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "result": "win",
+    "opponent": "OlisRalphBot",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 c5 d4 e6 Bf4 Bd6 Bg3 Nf6 Nbd2 cxd4 cxd4 Ne4 a3 Nxg3 hxg3 Nc6 b4 Bd7 e3 O-O Bd3 g6 O-O Rc8 Re1 Qb6 Nb3 e5 Nc5 Bg4 Be2 e4 Ng5 Bxe2 Qxe2 Qc7 Qb5 Bxc5 bxc5 h6 Nh3 g5 Qe2 Qd7 Qh5 Kg7 f3 exf3 gxf3 b6 Rac1 bxc5 f4 f6 dxc5 Rb8 Nf2 Qf7 Qxf7+ Kxf7 Red1 Rfd8 Kg2 Rb5 Rc2 a5 Rh1 Kg6 fxg5",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nf3 d5 Nc3 Nf6 d4 c5 dxc5 Nc6 Nd4 e5 Nxc6 bxc6 b4 a5 Ba3 d4 Nb1 axb4 Bxb4 Nd5 c3 dxc3 Bxc3 Bxc5 Bxe5 O-O e4 Qe7 Bb2 Bb4+ Nd2 Qxe4+ Qe2 Qc2 Bd4 Ba6 Qd1 Qe4+ Be3 Nxe3 fxe3 Qxe3+ Be2 Rad8 Kf1 Bc5 Qe1 Rxd2 Bxa6 Qf4+ Qf2 Qxf2#",
+    "duration": 284,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1772873199.2444103
+  "updated": 1772873430.1040096
 }
