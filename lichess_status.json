@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "KPYTA9_L9GYSHKA",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 112,
-  "timestamp": "2026-03-07T19:57:27.054309",
+  "time_left": 128,
+  "timestamp": "2026-03-07T19:59:09.596489",
   "last_game": {
     "result": "draw",
-    "opponent": "KPYTA9_L9GYSHKA",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Kg2 Kb7 Bh6 Ka7 h4 f5 Rh1 Nf6 Bg5 h6 Bxf6 Qxf6 Nd2 Raf8 Qc6 Rb8 Rhf1 g5 h5 g4 a4 a5 Qb5 Rbg8 Nb3 fxe4 Nxa5 Rg5 Qc6 Rb8 Qb5 Rbg8 Kg1 Qf3 Qc6 Rb8 Qb5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Kf1 h5 Ng1 f5 exf5 gxf5 Ne2 Ba4 Ra8 Bc6 Rc8 h4 f4 Bf6 fxe5 Bxe5 Bc3 Bxc3 Nxc3 Kg6 Nd5 Bxd5 cxd5 Nf4 Rxc7 Nxd5 Rd7 Nf4 d4 Kf6 dxc5 bxc5 Rc7 h3 gxh3 Nxh3",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772913447.0544157
+  "updated": 1772913549.5966144
 }
