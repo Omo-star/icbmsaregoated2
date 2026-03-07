@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "BorkaTower",
+  "opponent": "OlympusCz",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 76,
-  "timestamp": "2026-03-07T12:36:08.769238",
+  "time_left": 84,
+  "timestamp": "2026-03-07T12:38:57.431362",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
+    "result": "win",
+    "opponent": "OlympusCz",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 Nf6 e5 Nd5 c4 Nb6 d4 d6 f4 Bf5 Nf3 e6 Nc3 Be7 Be3 O-O Bd3 Bxd3 Qxd3 d5 b3 dxc4 bxc4 Na6 a3 Nc5 Qe2 Nb3 Rb1 Na5 c5 Nd5 Bd2 Nxc3 Bxc3 Nc6 Rxb7 Qd5 Rb1 Rab8 Kf2 Rb3 Rxb3 Qxb3 Rc1 Rb8 Rc2 Qxa3 Qc4 Nb4 Bxb4 Rxb4 Qa2 Qd3 Rd2 Qe4 Qxa7 Rb3 Qa2 Re3 Re2 Rxf3+ gxf3 Qxf4 Qa8+ Bf8 Qa1 Qxh2+ Ke3 Qg3 Qe1 Qg5+ f4 Qf5 Qh1 g6 Rh2 h5 Qd1 Bh6 Rh4 f6 Qd3 fxe5 Qxf5 exd4+ Kxd4 exf5 Ke5 Kf7 Rh3 Bg7+ Kd5 Kf6 Kc6 Bf8 Rc3 g5 fxg5+ Kxg5 Kxc7 Bxc5 Rxc5 Kg4 Kd8 Kg5 Ke8 Kg6 Kf8 Kg5 Kg8 Kh4 Kh8 Kg3 Kg8 Kh3 Kh8 Kg2 Kg8 Kh2 Kh8 f4 Kg8 f3 Rc7 Kg3 Kh8 Kg4 Kg8 Kg5 Kh8 Kg6 Kg8 f2 Rg7+ Kf5 Kf8 f1=B Kg8 h4 Kh8 Ke4 Kg8 Kf5 Kh8 Bd3 Kg8 Ke5 Kh8 Bc4 Kh7 h3 Kh8 Kd4 Kh7 h2 Rg4+ Ke3 Rh4 h1=B Kh8 Bf1 Kg8 Kf3 Kh8 Bb5 Kg8 Ba6 Kh8 Bd3 Kg8 Bf1 Kh8 Ke3 Kg8 Kf2 Kh8 Ke1 Kg8 Bh3 Kh8 Ke2 Kg8 Kf3 Kh8 Be6 Kh7 Bh3 Kh8 Kg3 Kg8 Ba8 Kh8 Kf2 Kg8 Bb7 Kh8 Kf3 Kg8 Bd7 Kh8 Ke3 Kg8 Bg2 Kh8 Bd5 Kh7 Bf7 Kh8 Bc6 Kh7 Bb7 Kh8 Bg8 Kxg8 Kd3 Kh8 Kd2 Kg8 Bd5+ Kh8 Bf3 Kg8 Bb7 Kh8 Kc1 Kg8 Ba6 Kh8 Kd1 Kg8 Bb5 Kh8 Kc2 Kg8 Bf1 Kh8 Be2 Kg8 Bd1 Kh8 Be2 Kg8 Kd2 Kh8 Kc3 Kg8 Bd3 Kh8 Bf1 Kg8 Kd3 Kh8 Kc3 Kg8 Bc4+ Kh8 Kb3 Kh7 Kc3 Kh8 Bf1 Kg8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Ne2 Ng6 Kh2 b5 Ra1 Be7 e6 Bxe6 Bxg7 Bd6+ g3 Rg8 Bb2 b4 Ned4 Bd5 Nd2 Nh4 Rg1 Kd7 c4 bxc3 Bxc3 h5 Rge1 f5 Rad1 Raf8 Nc4 Ng6 f3 h4 Nxd6 cxd6 Rg1 Re8 gxh4 c5 Nb5 Re2+ Rg2 Rxg2+ Kxg2 Nf4+ Kf2 Nxh3+ Ke1 Rg1+ Kd2 Rxd1+ Kxd1 Bxb3+ Kc1 Bxa4 Na3 Nf4 Bxa5 Bc6 Kd2 Nh5 Ke2 d5 Bb6 Kd6 Nc2 d4 Nxd4 cxd4 Bxd4 f4 Ba1 Be8 Bb2 Ke6 Bc1 Kf5 Bb2 Nf6 Ba1 Nd7 Bb2 Ne5 Ba1 Bh5",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1772886968.7693026
+  "updated": 1772887137.4314735
 }
