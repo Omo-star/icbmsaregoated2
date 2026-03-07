@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "SF_Bot1nok",
+  "rating": 3031,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 31,
-  "timestamp": "2026-03-07T09:10:33.631724",
+  "time_control": "TC: 10+5",
+  "time_left": 377,
+  "timestamp": "2026-03-07T09:22:08.103826",
   "last_game": {
     "result": "draw",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "Bot1nokk",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kf8 Kg2 Kg7 g4 Rc7 Kh2 Kf8 Kg3 Rc4 Kg2 Kg7 Kg3 Kf8 Kg2 Kg7 Kg3 Kf8 Kg2",
-    "duration": 69,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 d6 d4 exd4 Nxd4 Bd7 Nc3 g6 Be3 Nf6 Bxc6 bxc6 f3 Qb8 Nde2 Bg7 b3 O-O Qd2 Re8 Bh6 Bh8 Rd1 a5 Be3 c5 a4 c4 bxc4 Qb4 c5 Bxa4 cxd6 cxd6 Bd4 Bg7 h4 h5 Rb1 Qc4 Rb6 Bc6 Qd3 Qxd3 cxd3 Rec8 Kd2 a4 Ra1 Nd7 Rb2 Bf8 Rba2 Bh6+ Kd1 Ne5 Bxe5 dxe5 Nxa4 Bb5 Nb2 Rab8 Ra3 Bf8 Rc3 Rd8",
+    "duration": 950,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772874633.6318214
+  "updated": 1772875328.1039479
 }
