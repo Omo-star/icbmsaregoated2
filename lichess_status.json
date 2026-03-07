@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusCz",
+  "opponent": "OlympusRybka3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 83,
-  "timestamp": "2026-03-07T11:27:23.625410",
+  "time_left": 180,
+  "timestamp": "2026-03-07T11:28:27.467109",
   "last_game": {
     "result": "win",
-    "opponent": "OlympusCz",
+    "opponent": "OlympusRybka3",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Kh2 Ng6 Ne4 Nf4 g3 Bf5 Rde1 Nxh3 Nd4 Bxe4 Rxe4 Ng5 Re2 Ne6 f4 g6 f5 gxf5 Rxf5 Bc5 Nxe6 fxe6 Rf6 Kd7 Rd2+ Ke7 Rd3 Rag8 Bc1 h5 Kh3 Rg7 Rc3 Bd4 Rxc6 Kd7 Rcxe6 Rhg8 Bf4 Bf2 Rh6 Bxg3 Ref6 Rg4 Bxg3 Rxg3+ Kh2 Rg2+ Kh3 R8g3+ Kh4 Rg4+ Kh3 Rxc2 Rf7+ Kc8 Rf3 Re4 Rxh5 Rce2 Kg3 Rxe5 Rxe5 Rxe5 Kf4 Re7 Rd3 Kb7 Rc3 Re1 Kf3 c6 Kf2 Re6 Rc2 Kc7 Rb2 Kd6 b4 axb4 Rxb4 b5",
+    "moves": "e4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1772882843.6255503
+  "updated": 1772882907.4672008
 }
