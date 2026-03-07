@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
   "time_left": 67,
-  "timestamp": "2026-03-07T09:00:58.385653",
+  "timestamp": "2026-03-07T09:00:59.936397",
   "last_game": {
-    "result": "draw",
-    "opponent": "abdcebot",
-    "rating_before": 3076,
-    "rating_after": 3076,
+    "result": "loss",
+    "opponent": "OlympusRybka3",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "c3 e5 d4 e4 Bf4 d5 h3 Nd7 e3 Nb6 Qc2 c6 Nd2 f5 c4 Be7 Ne2 Nf6 c5 Nbd7 Bh2 O-O Nf4 Nb8 a3 b6 Ne2 Be6 Nb3 Nfd7 Rc1 Rf6 Bf4 Bf7 h4 h6 Qc3 Be8 Be5 Rf8 Nf4 Bf7 h5 Re8 Be2 a5 cxb6 Qxb6 O-O a4 Nd2 Ra7 Rfd1 Bf8 Rc2 Qb7 g3 c5 Bxb8 Qxb8 dxc5 Nxc5 Qd4 Rc8 Rdc1 Rac7 Bf1 Rc6 Bh3 R8c7 Qb4",
-    "duration": 191,
+    "moves": "",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "noStart"
   },
-  "updated": 1772874058.3858042
+  "updated": 1772874059.9365616
 }
