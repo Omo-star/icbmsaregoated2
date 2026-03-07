@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "LeelaChessTest",
+  "rating": 2992,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 304,
-  "timestamp": "2026-03-07T07:53:33.059192",
+  "time_control": "TC: 3+0",
+  "time_left": 102,
+  "timestamp": "2026-03-07T07:56:38.837803",
   "last_game": {
     "result": "draw",
-    "opponent": "LeelaChessTest",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "ToromBot",
+    "rating_before": 2992,
+    "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nc5 Ne3 a5 a4 Ne6 h5 Bb4 Re1 Nf4 h6 g6 Bxb4 axb4 g3 Ne6 c3 bxc3 bxc3 Nc5 d4 exd4 cxd4 Nxe4 Qb3+ Kf8 a5 Qd6 Rac1 Nxg3 Nc4 Qf4 Qa3+ Kf7 Rxe8 Kxe8 fxg3 Qxg3+ Kh1 Qh3+ Kg1 Qg3+ Kf1 Bh3+ Ke2 Qg2+ Ke3 Be6 Ncd2 Kf7 Rf1 Bf5 Qa2+ Kf8 Qa3+ Kf7 Qb3+ Kf8 Qb4+ Kf7 Qb3+ Kf8 Qb4+ Kf7 Qc4+",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 d3 d5 cxd5 Nxd5 e4 Nf6 Be2 Bd6 Be3 O-O O-O Re8 Rc1 h6 h3 a6 a3 Be6 Qd2 Nd7 Bd1 Nc5 Nd5 Nd7 Nc3 Nc5 Bxc5 Bxc5 Na4 Bf8 Nc5 Bc8 Ba4 Qf6 b4 Ra7 d4 Nxd4 Bxe8 Nxf3+ gxf3 Bxh3 Kh2 Bxf1 Rxf1 a5 Bb5 axb4 axb4 Ra3 Be2 Qh4+ Kg2 Ra2 Qe3 Rxe2 Qxe2 Qg5+ Kh3 Qh5+ Kg3 Qg5+ Kh3 Qh5+",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1772870013.059356
+  "updated": 1772870198.8379052
 }
