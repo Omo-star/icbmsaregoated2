@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "FDG-Bot_1718",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 129,
-  "timestamp": "2026-03-07T14:00:34.734192",
+  "time_left": 39,
+  "timestamp": "2026-03-07T14:06:39.500388",
   "last_game": {
     "result": "draw",
-    "opponent": "FDG-Bot_1718",
+    "opponent": "BorkaTower",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Bd2 b6 a3 f6 Nh4 Nf8 b4 Be7 Nf5 Ne6 Nxe7+ Qxe7 Ne3 c5 Kh1 Qd6 Nf5 Qf8 h3 Bd7 f3 h6 Qe1 Kh7 Qf2 Nd4 Nxd4 cxd4 f4 Qe7 Qg3 Rac8 c4 dxc3 Bxc3 exf4 Rxf4 c5 Raf1 Rc6 Kh2 Qd8 b5 Rce6 a4 R8e7 e5 fxe5 Rf7 Rg6 Qh4 Qa8 Qe4 Qxe4 dxe4 Rge6 R1f6 Kg8 Rf8+ Kh7 R8f7 Kg8 Rf8+ Kh7 R8f7",
+    "moves": "f4 d5 b3 Bg4 Nf3 Bxf3 exf3 e6 Nc3 Ne7 g3 c5 d4 cxd4 Nb5 Nec6 Nxd4 h5 Bb5 Bc5 Bb2 Bxd4 Bxc6+ Nxc6 Bxd4 Qa5+ c3 h4 g4 Nxd4 Qxd4 Rc8 Qxg7 Qxc3+ Qxc3 Rxc3 O-O Ke7 Kg2 Rc2+ Kh3 Kf6 a4 Rc3 a5 Rxb3 Rab1 Ra3 Rb5 a6 Rxb7 Rxa5 Rb6 Ra3 f5 a5 fxe6 fxe6 Ra6 a4 Kg2 Re8 Re1 d4 Re4 d3 Rd6 Ra2+ Kh3 d2 f4 a3 Re3 Kf7 Kxh4 Rh8+ Kg5 Rg8+ Kh4 Rh8+ Kg5 Rg8+ Kh4 Ra8 Rexe6 Rc2 Rf6+ Kg8 Rg6+ Kf7 Rgf6+ Kg8 Rg6+ Kf8 Rgf6+ Ke7 Rfe6+ Kf8 Rf6+ Kg7 Rg6+ Kh8 Rh6+ Kg7 Kg5 d1=Q Rxd1 a2 Ra1 Rb2 f5 Rb1 f6+ Kf7 Rh7+ Ke6 Rxa2 Rxa2 Kg6 Rf1 g5 Rxf6+ gxf6 Rg2+ Kh6 Rxh2+ Kg7 Rxh7+ Kxh7 Kf7",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1772892034.7342935
+  "updated": 1772892399.5004845
 }
