@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "FDG-Bot_1718",
+  "opponent": "Dimaha",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 58,
-  "timestamp": "2026-03-07T15:24:14.255216",
+  "time_left": 149,
+  "timestamp": "2026-03-07T15:28:19.033339",
   "last_game": {
-    "result": "draw",
-    "opponent": "FDG-Bot_1718",
+    "result": "win",
+    "opponent": "Dimaha",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 Nc3 Bb4 e3 O-O Bd2 c5 Bd3 d5 cxd5 exd5 Ne5 Ba6 Bxa6 Nxa6 O-O Re8 Qa4 Qc8 Nb5 Re6 Bxb4 Nxb4 Nc3 Qb7 Rfd1 cxd4 exd4 Nc6 Re1 Rd8 Nd3 Re7 Rac1 Rc8 Rxe7 Nxe7 Qd1 h5 h3 Nf5 Ne5 h4 Qd2 Ne4 Nxe4 dxe4 d5 f6 Nc6 Qd7 Rd1 g6 Nb4 Kg7 b3 Qd6 Nc2 Qc5 Ne3 Nxe3 fxe3 Qc3 Qf2 Qc2 Qf1 Qxa2 Rc1 Rc2 d6 Qxb3 Kh2 Qb2 Rxc2 Qxc2 Qa6 Qf2 Qxa7+ Kh6 Qc7 Qg3+ Kh1 Qe1+ Kh2 Qg3+ Kh1 Qe1+ Kh2 Qg3+",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Bb4 e5 Ne4 Qg4 Nxc3 Qxg7 Rf8 a3 Nb5+ axb4 Nxd4 Bg5 Qb6 Bh6 Qxb4+ c3 Qe7 cxd4 Nc6 Rd1 Qb4+ Rd2 Nxd4 Qxf8+ Qxf8 Bxf8 Nb3 Bd6 Na5 h4 Nc4 Bxc4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1772897054.255321
+  "updated": 1772897299.0334213
 }
