@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "Dimaha",
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 149,
-  "timestamp": "2026-03-07T15:28:19.033339",
+  "time_left": 73,
+  "timestamp": "2026-03-07T15:36:43.866529",
   "last_game": {
-    "result": "win",
-    "opponent": "Dimaha",
+    "result": "draw",
+    "opponent": "BorkaTower",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 Bb4 e5 Ne4 Qg4 Nxc3 Qxg7 Rf8 a3 Nb5+ axb4 Nxd4 Bg5 Qb6 Bh6 Qxb4+ c3 Qe7 cxd4 Nc6 Rd1 Qb4+ Rd2 Nxd4 Qxf8+ Qxf8 Bxf8 Nb3 Bd6 Na5 h4 Nc4 Bxc4",
+    "moves": "Nf3 Nf6 c4 e6 d4 d5 Nc3 Bb4 Qa4+ Nc6 e3 O-O Qc2 Re8 Bd2 Bf8 a3 h6 cxd5 exd5 Bd3 Bg4 O-O Bd6 Kh1 Bh5 Be1 a6 b4 Re6 Bd2 Re8 Be1 Re6 Bd2 Re8 Ra2 Rc8 Qb1 a5 b5 Ne7 Nh4 c5 bxc6 bxc6 f3 Rb8 Qc1 Qd7 Na4 Rb3 Bc2 Rbb8 Bd3 Rb3 Qc2 Rxa3 Rxa3 Bxa3 Bxa5 Qe6 Bd2 Nd7 h3 Qf6 Be1 g5 Nf5 Nxf5 Bxf5 Bg6 Bxg6 Qxg6 Qxg6+ fxg6 Bd2 Ra8 Nc3 Bb4 Rb1 Bxc3 Bxc3 Ra3 Bd2 Rd3 Rb2 c5 dxc5 Nxc5 Rc2 Nb3 Rc3 Rxd2 Rxb3 d4 exd4 Rd1+ Kh2 Rxd4 Rb8+ Kg7 Rb7+ Kf8 g4 Rd2+ Kg3 Re2 Rb8+ Kf7 Rb7+ Re7 Rxe7+ Kxe7 f4 gxf4+ Kxf4 g5+ Ke5 h5 gxh5 Kf8 Kd6 Kg8 Kc5 Kh8 Kb5 Kg8 h6 Kh8 Kb6 Kg8 Kb7 Kh8 h7 Kxh7 Kc6 Kh8 Kc7 Kg8 Kd8 Kh8 Ke7 Kg8 Ke8 Kh8 Kf7 Kh7 Kf6 Kh8 Ke6 Kg8 Ke7 Kh8 Kd8 Kg8 Ke7 Kh8 Kf8 Kh7 Ke8 Kh8 Kd7 Kg8 Kc6 Kh8 Kd6 Kg8 Kd5 Kh8 Ke4 Kg8 Kf5 Kh8 h4 Kg8 Ke5 Kh8 Ke4 Kg8 Kf5 Kh8 Kg4 Kg8 hxg5 Kh8 Kf5 Kg7",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "insufficientMaterialClaim"
   },
-  "updated": 1772897299.0334213
+  "updated": 1772897803.866608
 }
