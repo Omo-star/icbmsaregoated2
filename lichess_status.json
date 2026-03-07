@@ -4,19 +4,19 @@
   "rating": 3077,
   "opponent": "bot1e",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 8,
-  "timestamp": "2026-03-07T09:40:30.011214",
+  "time_control": "TC: 1+1",
+  "time_left": 105,
+  "timestamp": "2026-03-07T09:41:01.620267",
   "last_game": {
     "result": "draw",
     "opponent": "bot1e",
     "rating_before": 3077,
     "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 a6 c4 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 d6 Nd5 Nd7 h4 h5 Qd2 Bg7 f3 Nc5 O-O-O Rb8 Be2 Bd7 Kb1 Na4 b3 Nc5 Rhf1 Rc8 Nc2 Rb8 Bg5 Be6 Rc1 Kf8 Be3 Kg8 Nd4 Bd7 b4 b6 Nb3 Rb7 Bg5 Be6 bxc5 bxc5 Kc2 a5 Rb1 Qa8 Rfc1 Kh7 Kd1 Rhb8 Qe3 a4 Nd2 a3 Rxb7 Rxb7 Rb1 Rb2 Rxb2 axb2 Bd3 Bd4 Qe2 Qxa2 Bb1 Qa4+ Ke1 Be5 Kf2 Nd4 Qf1 Nc6 Be3 Bd4 f4 Kg7 Nf3 Bg4 Qd3 Bxf3 gxf3 e6 Nc3 Bxe3+ Kxe3 Qb4 Ke2 Qa5 Kf2 Nd4 Qe3 Kh7 f5 exf5 exf5 Nxf5",
-    "duration": 104,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Nf6 Re2 Ne4 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bh3 Ra2 Bf1 Ra1 Bh3 Ra2 Bf1",
+    "duration": 171,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772876430.0113227
+  "updated": 1772876461.6204317
 }
