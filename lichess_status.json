@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
-  "opponent": "RenegadeEngine",
+  "rating": 3077,
+  "opponent": "bot1e",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+3",
-  "time_left": 133,
-  "timestamp": "2026-03-07T09:35:10.716099",
+  "time_control": "TC: 0+1",
+  "time_left": 8,
+  "timestamp": "2026-03-07T09:40:30.011214",
   "last_game": {
-    "result": "win",
-    "opponent": "RenegadeEngine",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "result": "draw",
+    "opponent": "bot1e",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 Ng4 Bg5 h6 Bh4 g5 Bg3 Bg7 h3 Nf6 Qf3 O-O O-O-O Nc6 Nxc6 bxc6 e5 Nd5 Nxd5 cxd5 h4 g4 Qxd5 Rb8 Qe4 Qa5 Bd3 f5 exf6 Rxf6 Bc4+ Kh8 Qd5 Qd8 Rhe1 Rf5 Be5 Rxe5 Rxe5 Qf8 Re3 Bxb2+ Kd2 Qxf2+ Be2 Qf4 Qe4 Be5 Rf1 Qxe4 Rxe4 Bd7 g3 h5 Rf7 Bf6 Bxa6 Be8 Rfxe7 Bg6 R7e6 Bxe4 Rxf6 Rb2 Bd3 Kg7 Rxd6 Bxd3 Kxd3 Rxa2 Rd5 Kg6 Rg5+ Kh6 Re5 Ra3+ c3 Kg6 Kd4 Ra1 Re3 Rd1+ Rd3 Rc1 c4 Kf7 c5 Kf6 Kd5 Ke7 Kc6 Rf1 Rd5 Rf3 Kc7 Rxg3 Rxh5 Kf6 c6 Rg2 Rb5 g3 Kb6 Rc2 c7 g2 Rb1 Kf5 h5 Kg5 Rg1 Kxh5 Rxg2 Rxg2 c8=Q Kh4 Qh8+ Kg3 Kc5 Rf2 Kd4 Rf4+ Ke5 Rf1 Qg8+ Kf3 Qf7+ Kg2 Qh5 Kg3 Ke4 Rb1 Qg5+ Kh3 Qe3+ Kg4 Qd3 Rb7 Qd5 Rb1 Ke3 Re1+ Kd2 Re7 Kd3 Re1 Qg2+ Kh5 Qh3+ Kg6 Qg3+ Kh7 Qxe1 Kg6 Ke4 Kf6 Kf4 Kg7 Qe7+ Kh8 Kg5 Kg8 Kh6 Kh8 Qf8#",
-    "duration": 705,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 c5 Nf3 a6 c4 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 d6 Nd5 Nd7 h4 h5 Qd2 Bg7 f3 Nc5 O-O-O Rb8 Be2 Bd7 Kb1 Na4 b3 Nc5 Rhf1 Rc8 Nc2 Rb8 Bg5 Be6 Rc1 Kf8 Be3 Kg8 Nd4 Bd7 b4 b6 Nb3 Rb7 Bg5 Be6 bxc5 bxc5 Kc2 a5 Rb1 Qa8 Rfc1 Kh7 Kd1 Rhb8 Qe3 a4 Nd2 a3 Rxb7 Rxb7 Rb1 Rb2 Rxb2 axb2 Bd3 Bd4 Qe2 Qxa2 Bb1 Qa4+ Ke1 Be5 Kf2 Nd4 Qf1 Nc6 Be3 Bd4 f4 Kg7 Nf3 Bg4 Qd3 Bxf3 gxf3 e6 Nc3 Bxe3+ Kxe3 Qb4 Ke2 Qa5 Kf2 Nd4 Qe3 Kh7 f5 exf5 exf5 Nxf5",
+    "duration": 104,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772876110.716165
+  "updated": 1772876430.0113227
 }
