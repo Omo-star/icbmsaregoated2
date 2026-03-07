@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "BorkaTower",
+  "opponent": "OlympusCz",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 84,
-  "timestamp": "2026-03-07T13:33:59.058886",
+  "time_left": 21,
+  "timestamp": "2026-03-07T13:39:04.857778",
   "last_game": {
-    "result": "draw",
-    "opponent": "BorkaTower",
+    "result": "win",
+    "opponent": "OlympusCz",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Qd8 Nc3 Nd6 Bf4 Be6 Bd3 c6 Be5 Bxe5 dxe5 Nf5 Qc2 Nd4 Qd2 Kh8 Ne4 Qb6 Rad1 Rad8 b4 Bg4 Rc1 Be6 Kh1 Bd5 Nd6 f6 exf6 Rxf6 Nc4 Qc7 Ne5 Ne6 Qb2 Nf4 Bf1 Re6 Re3 Qe7 Rce1 Qf6 b5 Rde8 bxc6 bxc6 Qb4 Bxa2 Qa4 Bd5 Qxa7 h5 Kg1 Kh7 Qd4 Qh4 Qa1 Bxg2 Bxg2 Rxe5 Qb1+ Kh6 Rxe5 Qg4 Rxh5+ Qxh5 Rxe8 Qxe8 Qc1 g5 Qxc6+ Qxc6 Bxc6 g4 f3 gxf3 Bxf3 Nd5 Bh5 Ne3 Be8 Nf1 Bf7 Nxh2 Bg8 Kg6 Bh7+ Kf6 Bg8 Kg5 Bh7 Nf1 Bg8 Ng3 Bh7 Ne4 Bg8 Nf2 Bh7 Nd3 Bg8 Kg4 Bh7 Nc5 Bg8 Na6 Bh7 Nb8 Bg8 Nc6 Bh7 Kg3 Bg8 Ne7 Bh7 Nc6 Bg8 Kf3 Bh7 Ne5 Bg8 Nf7 Bh7 Kg3 Bg8 Kh3 Bh7 Ne5 Bg8 Ng6 Bh7 Nf4 Bg8 Nh5 Bh7 Kg3 Bg8 Kf3 Bh7 Ng3 Bg8 Ke4 Bh7+ Kd5 Bg8+ Kc5 Bh7 Kd6 Bg8 Kd7 Bh7 Kc7 Bg8 Kb7 Bh7 Kb8 Bg8 Ne2+ Kh2 Kc7 Bh7 Ng1 Bg8 Kd6 Bh7 Kc7 Bg8 Nh3 Bh7 Kb8 Bg8 Nf2 Bh7 Nh3 Bg8 Ng1 Bh7 Kc7 Bg8",
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 d6 Bg5 e6 Qd2 a6 O-O-O Bd7 f4 Be7 Nf3 b5 Bxf6 gxf6 Kb1 b4 Ne2 h5 f5 e5 Nc1 Qc7 Qd5 a5 Bc4 Rh7 Bb5 Rc8 Rd2 Nb8 Rhd1 Rg7 g3 Kf8 Nh4 Rg4 Ng2 Bxb5 Qxb5 Rxe4 Qd3 Qc6 Ne3 Nd7 Nb3 Nb6 Nxa5 Qa8 Nb3 Rd8 Qe2 Kg7 Qb5 Rxe3 Qxb6 Qe4 Qc7 Re8 Qd7 Kf8 Qb5 Ra8 Qf1 Rf3 Qg2 Rd8 Rd3 Rxd3 Qxe4 Rxd1+ Nc1 d5 Qf3 Rg1 Qf2 Rh1 Qg2 Re1 Qf2 Re4 Nd3 Rc8 b3 Kg7 Qa7 Bf8 Qf2 Rc6 Kc1 Bd6 Qf3 Rc8 Qf2 Rd4 Nf4 exf4 Qxd4 f3 Qf2 Rc3 Qf1 Bc5 Kd1 f2 Kd2 Rf3 Ke2 Rxf5 Qd1 f1=Q+ Qxf1 Rxf1 Kxf1 f5 Ke1 Kf6 Ke2 Ke5 Kf3 Ba7 Kg2 Ke4 Kh3 Bc5 Kh4 f4 gxf4 Kxf4 Kxh5 f5 Kg6 Ke4 Kf6 f4 Ke6 f3 Kd7 f2 Kc6 Bf8",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1772890439.058978
+  "updated": 1772890744.857905
 }
