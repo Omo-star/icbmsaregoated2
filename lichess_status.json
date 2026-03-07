@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusCz",
+  "opponent": "MMnemonic",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 81,
-  "timestamp": "2026-03-07T12:17:59.981195",
+  "time_left": 110,
+  "timestamp": "2026-03-07T12:20:39.818298",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlympusCz",
+    "result": "win",
+    "opponent": "MMnemonic",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 e3 d5 cxd5 exd5 Nf3 Bd6 Bd3 O-O Nc3 Bg4 h3 Bh5 Qb3 Nc6 Bd2 Re8 Be2 Ne7 Rc1 a5 g4 Bg6 Ne5 a4 Qxb7 Rb8 Qa6 Rxb2 Qxa4 h6 Nxg6 Nxg6 Bb5 Rb4 Qc2 Rxd4 Bxe8 Qxe8 O-O Rc4 Qd3 Ne5 Qe2 Ba3 Rb1 Ne4 f4 Rxc3 Bxc3 Nxc3 Qc2 Nxb1 fxe5 Qxe5 Rxb1 Qg3+ Qg2 Qxe3+ Qf2 Qxh3 Rb8+ Bf8 Qc5 Qg3+ Kf1 Qf3+ Ke1 Qg3+ Kf1 Qf3+ Ke1 Qe4+ Kf2 Qf4+ Ke1 Qe4+ Kd2 Qf4+ Kc2 Qe4+ Kd2 Qf4+ Kc2 Qe4+ Kd2",
+    "moves": "Nf3 Nf6 e3 e6 d4 d5 c4 b6 cxd5 exd5 Nc3 Bd6 Bd2 O-O Rc1 c5 Nb5 Be7 dxc5 bxc5 Nc3 Na6 Be2 d4 exd4 cxd4 Nb1 d3 Bf1 Re8 Be3 Bf5 Rc3 Nb4 Qb3 Nc2+ Kd2 Rb8 Qa4 Ne4+ Kc1 Nxe3 fxe3 Nxc3 Nxc3 Qb6",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1772885879.9812953
+  "updated": 1772886039.8183956
 }
