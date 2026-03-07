@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "Anastasia-33",
+  "opponent": "OlympusRybka3",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-03-07T11:16:19.200582",
+  "time_left": 61,
+  "timestamp": "2026-03-07T11:24:39.142373",
   "last_game": {
-    "result": "win",
-    "opponent": "Anastasia-33",
+    "result": "draw",
+    "opponent": "OlympusRybka3",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4+ Bd2 Be7 Bg2 c6 Bc3 d5 Nbd2 Nbd7 Qc2 c5 dxc5 bxc5 cxd5 exd5 O-O O-O Rfe1 Bb7 Rad1 Qc7 Bb2 Rac8 Bh3 Rcd8 Bf5 g6 e4 gxf5 exd5 Nb6 Nd4 Nbxd5 Nxf5 Rfe8 Ne4 Bf8 Bxf6 Rxe4 Nh6+ Bxh6 Qxe4 Nxf6 Rxd8+ Qxd8 Qxb7 Bf8 Re5 h6 Rf5 Kg7 Kg2 a5 Qf3 Bd6 g4 Qe7 g5 hxg5 Rxg5+ Kf8 Qf5 Qb7+ Qf3 Qe7 h4 Be5 Qa8+ Ne8 Qe4 f6 Rh5 Qe6 Rh8+ Ke7 Qb7+ Nc7 Rh7+ Kf8 Qc8+ Qxc8 Rh8+ Kg7 Rxc8 Kg6 Rg8+ Kh5 Rh8+ Kg4 h5 Kg5 h6 Kg6 Kf3 Bc3 Rc8 Ne6 Ke4 Kxh6 Kd5 Nf4+ Ke4 Ne6 Rc6 Ng5+ Kf5 Bd4 Ra6 Bc3 f4 Nf3 Ke4 Ne1 Rc6 Bd4 Ra6 Bc3 Rc6 Bd4 Rc7 Ng2 Ra7 Bc3 Ra8 Kh5 a3 Nh4 f5 Kg4 Rg8+ Kh5 Rc8 Bb2 Rxc5 Bxa3 Rxa5 Bc1 b4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "noStart"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772882179.2006671
+  "updated": 1772882679.142547
 }
