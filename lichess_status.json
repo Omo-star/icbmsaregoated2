@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "OlympusRybka3",
+  "opponent": "MCPeaSearch",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 15,
-  "timestamp": "2026-03-07T10:38:59.799699",
+  "time_left": 32,
+  "timestamp": "2026-03-07T10:44:04.632331",
   "last_game": {
     "result": "win",
-    "opponent": "OlympusRybka3",
+    "opponent": "MCPeaSearch",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 a6 Be3 e5 Nb3 Be7 f3 Be6 Qd2 Nbd7 g4 O-O O-O-O b5 g5 Nh5 Nd5 Bxd5 exd5 f6 gxf6 Bxf6 Na5 Qe8 Nc6 Bd8 Rg1 Rxf3 Nxd8 Rxd8 Kb1 Nf4 Re1 Qf7 Qa5 Ra8 a4 Qf8 axb5 axb5 Qxb5 Nf6 Qb7 Rd8 Bc4 Ne4 Bc1 Nh3 Rg2 Nhf2 Be3 g6 Qc6 Rc8 Bh6 Qd8 Qa4 Ra8 Qb4 Qc7 Rf1 Rh3 Bc1 Qa7 c3 Rxc3 bxc3 Rb8 Qxb8+ Qxb8+ Kc2 Qc7 Rgxf2 Nxf2 Bb5 Ne4 Rf3 Kg7 Re3 Nf6 Bc6 Qa7 Kb3 Qa1 Kc2 Qa2+ Bb2 Qc4 h3 g5 Bc1 h5 Rd3 Ne4 Ba3 Qa2+ Bb2 Nc5 Rd1 Qb3+ Kc1 Kf7 c4 Qxc4+ Kb1 Qe4+ Ka2 Qe2 Ra1 Nd3 Rb1 Qc2 Ka1 Nb4 Rg1 Qc4 Kb1 Qa2+ Kc1 Nd3+ Kd2 Qxb2+ Kxd3 Qd4+ Ke2 Qxg1 Kd2 Kf6 Kd3 Qd1+ Ke3 Qe1+ Kf3 e4+ Kg2 e3 Bb5 Ke5 h4 Kf4 Bc4 Qf2+ Kh1 Kg3 Be2 Qg2#",
+    "moves": "e4 e6 Nc3 b6 d4 Bb7 Nf3 Bb4 Bd3 Nf6 Nd2 d6 O-O O-O Ncb1 Bxd2 Nxd2 Nc6 c3 e5 d5 Ne7 Re1 Nd7 Bc2 a5 h3 Kh8 Nf3 h6 Be3 f5 exf5 Nxd5 g3 Kg8 Nh4 Nxe3 Rxe3 Qf6 Ng6 Rfe8 Qe2 Bd5 h4 Rad8 Rd1 Bf7 g4 Nf8 g5 hxg5 hxg5 Qxg5+ Rg3 Qh6 Qg4 Bxg6 fxg6 d5 c4 Qf4 cxd5 Rd6 Qxf4 exf4 Rc3 Nxg6 Rxc7 Ne5 Kg2 Kf8 Rh1 Nf7 Kf3 g5 Rh7 Re7 Rc8+ Re8 Rc7 Re7 Rc8+ Re8 Rxe8+ Kxe8 Bf5 Rh6 Rxh6 Nxh6 Ke4 Ke7 Be6 Kf6 a4 Ke7 Ke5 Ke8 d6 Nf7+ Bxf7+ Kxf7 Kf5 f3 Kxg5 Ke6 Kf4 Kxd6 Kxf3 Kc5 b3 b5 Ke2 bxa4 bxa4 Kc4 f3 Kd4 Kf2 Ke5 Kg3 Kf5 f4 Kf6 Kf3 Kf5 Ke3 Ke6 Kd4 Kd6 f5 Ke7 Kc5 Kf6 Kb6 Ke7 f6+ Kxf6 Kxa5 Ke6 Kb6 Kd7 Kb7 Kd6 a5 Kd5 a6 Kd6 a7 Kc5 a8=Q Kb4 Qd8 Kb3 Qd2 Kc4 Kc6 Kb3 Kc5 Ka3 Kc4 Ka4 Qb4#",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "mate"
   },
-  "updated": 1772879939.799769
+  "updated": 1772880244.6324193
 }
