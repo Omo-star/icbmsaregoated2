@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 7,
-  "timestamp": "2026-03-08T09:51:30.820592",
+  "rating": 3031,
+  "opponent": "Moment-That-Inspires",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 40,
+  "timestamp": "2026-03-08T10:10:59.716081",
   "last_game": {
-    "result": "win",
-    "opponent": "Viet-Test",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Bb4 @d5 b5 Qxb5 Rb8 Qd3 @d4 N@f5 O-O @h6 dxc3 bxc3 d6 hxg7 Bxf5 gxf8=Q+ Qxf8 @g7 Qxg7 @h6 Ne5 hxg7 Nxd3+ Bxd3 Bxc3+ Q@d2 Bxd2+ Bxd2 Kxg7 R@g3+ N@g4 B@c3 @b2 Rb1 N@h5 exf5 Nxg3 hxg3 Re8+ N@e6+ Kg8 Bxf6 @h2 N@e2 @f3 B@h5 R@c1+ Rxc1 bxc1=R+ Bxc1 Q@g1+ Nxg1 Rxe6+ dxe6 @d2+ Bxd2 R@d1+ Kxd1 Nxf2+ Kc1 Q@d1+ Kb2 Nxd3+ cxd3 Qxd2+ R@c2 B@c1+ Ka1 @b2+ Bxb2 Bxb2+ Rxb2 Qxb2+ Kxb2 B@a1+ Kc1 hxg1=Q+ R@e1 B@b2+ Kd2 N@b1+ Kc2 R@c3+ Kxb1 N@d2#",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 b5 Na5 Qf6 Ng1 c5 a4 a6 b3 Nb8 Qd2 Bd7 Ne2 Nc6 Nxc6 Qxc6 f3 h6 h3 Be6 g4 Reb8 Rfd1 f6 Qe1 Bf7 Kg1 c4 axb5 axb5 bxc4 Kh7 Kf1 bxc4 d4 Ra4 dxe5 fxe5 Nc3 Rxa1 Rxa1 Bb4 Kg2 Ra8 Bf2 Be6 Rxa8 Qxa8 Qe3 Qd8 h4 Qd6 Kf1 Ba5 Be1 Bb6 Qd2 Qa3 h5 Ba5 Qe3 Qa1 Qd2 Bb4 Kf2 Bc5+ Kf1 Bb4 Kf2 c6 Qe3 Qb2 Qd2 Qa1 Ke2 Ba5 Qe3 Qb2 Qd2 Qa1 Kf1 Bf7 Kg2 Bb4 Kh2 Qb2 Kg2 Be6 Kg3 Bf7 Kf2 Qa1 Kf1 c5 Qe3 Qb2 Qd2 Qa1 Ke2 Be8 Qe3 Ba4 Qd2 Be8 Kf2 Bc6 Kf1 Ba4 Kf2 Bc6 Kf1 Be8 Qe3 Qb2 Qd2 Qa1 Kg2 Ba4 Kh2 Be8 Qe3 Ba4 Bd2 Bxc2 g5 hxg5 Qxg5 Qf1 Qf5+ Kg8 Qc8+ Kf7 Qb7+ Kg8 Qc8+ Kh7 Qf5+ Kh8 Qf8+ Kh7 Bg5 Qf2+ Kh3 Qf1+ Kh2 Qf2+ Kh1 Bxc3 Qf5+ Kh8 Qf8+ Kh7 Qf5+ Kh8 h6 Qf1+ Kh2 Qe2+ Kg3 Be1+ Kg4 Kg8 Qc8+ Kh7 Qf5+ Kg8 h7+ Kh8 Qf8+ Kxh7 Qf5+ Kh8 Qf8+ Kh7 Qf5+ Kg8 Qc8+ Kh7 Qf5+",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1772963490.8206575
+  "updated": 1772964659.7192807
 }
