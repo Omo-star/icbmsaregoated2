@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "korosensei666",
+  "rating": 2999,
+  "opponent": "iberbrn",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 36,
-  "timestamp": "2026-03-08T13:40:51.361151",
+  "time_control": "TC: 3+0",
+  "time_left": 70,
+  "timestamp": "2026-03-08T18:53:36.711556",
   "last_game": {
     "result": "win",
-    "opponent": "korosensei666",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "iberbrn",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "g3 d5 Bg2 e5 d3 Nf6 Nf3 Bd6 O-O O-O Nbd2 Re8 e4 c6 Re1 Nbd7 c3 a5 b3 Nc5 Bb2 Nxd3 Qc2 Nxe1 Rxe1 dxe4 Nxe4 Bf5 Nxf6+ Qxf6 Qd2 Bc5 Qg5 Qxg5 Nxg5 e4 Nxe4 Bxe4 Bxe4 f5 Bd5+ cxd5 Rxe8+ Rxe8 h3 Re1+ Kg2 Re2 Kf3 Rxf2#",
-    "duration": 60,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 Bf4 g5 Bh2 Be7 g4 Ng7 Nd4 c5 Nde2 h5 f3 Ne6 Ng3 hxg4 hxg4 Bf8 Rad1 Kc8 Nh5 a5 Ne4 Bc6 c3 c4 Bg3 b5 a3 b4 axb4 axb4 cxb4 Rb8 Rd2 Rxb4 Rc1 Bxe4 fxe4 Bc5+ Kg2 Be3 Rdc2 Bxc1 Rxc1 Rxb2+ Kf3 Rd8 Bf2 Rd3+ Be3 Nd4+ Kg3 Rxe3#",
+    "duration": 180,
     "bot_color": "black",
     "termination": "mate"
   },
-  "updated": 1772977251.3612375
+  "updated": 1772996016.711625
 }
