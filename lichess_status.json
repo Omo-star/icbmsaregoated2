@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "ArasanX",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 42,
-  "timestamp": "2026-03-08T11:24:04.939632",
+  "rating": 2999,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+0",
+  "time_left": 106,
+  "timestamp": "2026-03-08T11:27:03.868740",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "opponent": "PetersBot",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b4 Bxc4 dxc4 Bd6 Nh4 g6 Bh6 Qe7 Qa4 c5 Rad1 Kf7 Rd5 Rhd8 b5 a6 bxa6 Nf8 g3 Ra7 Qc2 Rxa6 f4 Nd7 Qe2 Ke8 Ng2 Rda8 Rd2 Kd8 Ne3 Kc8 f5 Qf7 Rf2 Kb7 Qd1 Rd8 Rxd6 cxd6 Qxd6 b5 Qd3 Raa8 fxg6 hxg6 Nd5 Qe6 Be3 Qd6 Qf1 Ra4 Rb2 Rb8 Rd2 Qe6 Qb1 Ra5 Rb2 Qd6 cxb5 Rba8 b6 R8a6 c4 Ra3 Rf2 Qc6 Bc1 R3a4 Qb3 Rxb6 Qd3 Rba6 a3 Qe6 h4 Kc8 Kh2 Qg4 Rd2 Qe6 Rg2 Qf7 Rf2 Qe6 Qe2 Ra8 g4 Qa6 Ne3 Kc7 Qd3 Rh8 Kg3 Rh7 Rf3 Rg7 Kf2 Rh7 Kg3 Rg7 Qc2 Kb7 Qb3+ Ka7 Rf1 Rf7 Rf3 Nb8 Qd1 Nd7 Qd5 Rg7 Qd3 Rf7 Qd5 Rg7 Qd3 Rh7 Qb3 Rg7 Rf1 Rf7 Rf2 Rh7 Rd2 f5 exf5 gxf5 gxf5 Ra5 Qc3 Rg7+ Kh2 Rh7 Kg3 Rg7+ Kh2 Rh7 Kg3",
-    "duration": 600,
+    "moves": "e4 c6 Ng3 f6 f4 Ng6 f5 Nf4 Ne2 Nxe2+ Qxe2 e6 g4 d5 Bc5 Rf7 a4 exf5 gxf5 Rd7 a5 Qxe4 Qxe4 dxe4 h4 Bg3 Nf2 Bxh4 Nxe4 Bd5 Rf4 Bxe4 Rxe4 Bg5 Re2 Rd5 b4 Re5 Kd1 Kc7 Ra3 Rxe2 Kxe2 Nf7 Ba2 Nd6 Be6 Re8 Kf1 b6 Bg1 bxa5 Rxa5 Bxd2 Rxa7+ Nb7 b5 cxb5 Bd5 Re1+ Kf2 Kd6 Bxb7 Rxg1 Ra6+ Kc7 Kxg1 Kxb7 Rd6 Be3+ Kg2 Kc7 Re6 Bc5 Kf3 Bd6 Ke4 Kc6 Re8 Be5 Rc8+ Kd6 Rg8 g5 fxg6 hxg6 Rxg6 b4 c3 bxc3 Rg1 c2 Rc1 f5+ Kxf5 Bb2 Ke4 Bxc1 Kd3 Bb2 Kxc2",
+    "duration": 180,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1772969044.9398232
+  "updated": 1772969223.8688061
 }
