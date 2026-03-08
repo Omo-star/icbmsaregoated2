@@ -5,18 +5,18 @@
   "opponent": "iberbrn",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 125,
-  "timestamp": "2026-03-08T21:36:49.279499",
+  "time_left": 123,
+  "timestamp": "2026-03-08T21:38:57.491996",
   "last_game": {
     "result": "win",
     "opponent": "iberbrn",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 h5 Bg5 Qb6 Bd3 e6 Bxf5 exf5 h4 g6 c4 Be7 O-O Nd7 cxd5 cxd5 Nc3 Qe6 Rc1 a6 Qb3 b5 Nxd5 Kf8 Rc7 Bxg5 Nxg5 Qe8 e6 fxe6 Qb4+ Kg7 Qd6 exd5 Rxd7+ Kh6 Nf7+ Kg7 Ne5+ Kh6 Ng4+ hxg4 Qf4+ Kh5 Qg5#",
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6 Bd3 d5 exd5 cxd5 O-O O-O Bg5 c6 Qf3 Bd6 Rfe1 Rb8 b3 Bb4 Bd2 Bg4 Qf4 Bd6 Qg5 Qc7 h3 Bh5 g4 Bg6 Bxg6 fxg6 Kg2 d4 Ne4 Nxe4 Rxe4 Rb5 Qh4 g5 Bxg5 Qf7 f4 Qd5 Re1 Re8 Kf3 Rc5 Qf2 Rc3+ Kg2 Rxe4",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773005809.2795627
+  "updated": 1773005937.4921095
 }
