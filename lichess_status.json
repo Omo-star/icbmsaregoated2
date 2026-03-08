@@ -5,18 +5,18 @@
   "opponent": "iberbrn",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-03-08T23:07:25.814188",
+  "time_left": 158,
+  "timestamp": "2026-03-08T23:08:09.516257",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "iberbrn",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "c4 Nf6 Nc3 c6 e4 e5 d4 exd4 Qxd4 d6 Be3 Be7 f3 O-O O-O-O Be6 Nge2 Nbd7 Nf4 Nc5 Qd2 Qc7 g4 h6 h4 Nfd7 g5 Ne5 gxh6 Nxf3 Qg2",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1773011245.8142729
+  "updated": 1773011289.5163608
 }
