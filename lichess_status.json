@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "abcd_engine",
+  "rating": 3001,
+  "opponent": "SOLIDOR59",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 29,
-  "timestamp": "2026-03-08T08:54:57.255287",
+  "time_control": "TC: 3+2",
+  "time_left": 164,
+  "timestamp": "2026-03-08T08:59:34.906352",
   "last_game": {
-    "result": "win",
-    "opponent": "abcd_engine",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "result": "draw",
+    "opponent": "SOLIDOR59",
+    "rating_before": 3001,
+    "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Bg2 d5 cxd5 Nxd5 Nf3 Nc6 O-O Nb6 Nc3 Be7 a3 a5 d3 Be6 Be3 O-O Rb1 Kh8 Re1 a4 Bxb6 cxb6 Nd2 Bg5 Nc4 f5 e3 Bf6 Bf1 Be7 Rc1 Bg8 Qc2 f4 Bg2 Rf6 Qe2 Be6 Be4 Bf8 Bxc6 bxc6 Ne4 Bxc4 dxc4 Rg6 Qh5 Kg8 Rcd1 Qe7 c5 bxc5 Rd2 Rh6 Qe2 Rg6 Red1 h6 Rd7 Qe8 h4 Re6 h5 Re7 Qg4 Qf7 Rd8 Rxd8 Rxd8 Re6 Rb8 c4 Ra8 c5 Rb8 Rc6 Qd1 Rc7 Qg4 Rc6 Qd1 Rc7 Rd8 Ra7 g4 c3 bxc3 Qb3 c4 Qxd1+ Rxd1 fxe3 fxe3 Rb7 Rd8 Rb1+ Kf2 Rc1 g5 Rxc4 Kf3 hxg5 Nxg5 Rh4 Ne6 Kf7 Nxf8 e4+ Kg3 Rxh5 Kf4 c4 Rc8 g5+ Kf5 Rh3 Ng6 Rxe3 Rc7+ Ke8 Ke6 Kd8 Rxc4 Rb3 Ne7 Rb6+ Nc6+ Kc7 Kd5 e3 Nd4+ Kd7 Rc3 Ke7 Rxe3+ Kf6 Re6+ Rxe6 Nxe6 g4 Nc5 Kf5 Nxa4 Kf4 Kd4 Kf5 Nb6 Ke6 a4 g3 Ke3 Kd6 a5 Kc6 Nc4 Kd5 Kf3 g2 Kxg2 Kc6 Kf3 Kb5 Ke4 Kxc4 a6 Kc5 a7 Kc6 a8=Q+ Kd6 Qd8+ Kc6 Kd4 Kb5 Qd7+",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qb3 c5 dxc5 Nc6 Nf3 Ne4 Bd2 Nxd2 Nxd2 Bxc5 g3 Qb6 Qxb6 Bxb6 Bg2 Ke7 Rb1 d6 O-O Rb8 b4 Ne5 Rfc1 Bd7 a4 Rhc8 Nb5 Bxb5 axb5 g5 e3 Rc7 Bf1 h5 h3 f5 Rc2 Rf8 Rbc1 f4 c5 fxe3 fxe3 dxc5 bxc5 Ba5 Ne4 Nf3+ Kh1 Ne1 Rf2 Rxf2 Nxf2 Bd2 Rb1 Nf3 Ne4 g4 Rb3 Bc1 hxg4 hxg4 Be2 Nd2 Nxd2 Bxd2 b6 axb6 cxb6 Rc8 Bxg4 Rg8 Bf3 Rxg3 Bxb7 Rxe3 Rxe3 Bxe3 Bg2 Bxb6 Bf1 Kf8 Be2 Kg8 Bd1 Kh8 Bc2 Kg8 Bb1 Kh8 Ba2 Kg8 Bb1 Kh8 Ba2 Kg8 Bb1 Kh8",
+    "duration": 388,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1772960097.2553508
+  "updated": 1772960374.9064178
 }
