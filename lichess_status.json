@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3076,
-  "opponent": "YoBot_v2",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+1",
-  "time_left": 40,
-  "timestamp": "2026-03-09T11:27:16.034321",
+  "opponent": "OlympusCz",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 2+1",
+  "time_left": 74,
+  "timestamp": "2026-03-09T11:29:10.554755",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
+    "opponent": "OlympusCz",
     "rating_before": 3076,
     "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "a4 a5 e4 d5 exd5 Nf6 d4 Nxd5 g3 e5 Nf3 g6 Nxe5 Bxe5 dxe5 Ne3 fxe3 Rxd1 Qf3 Rxc1+ Kxc1 Bc6 Qf1 Bxh1 Qxh1 Qe8 Bc3 Nb6 b3 O-O-O Bd4 Qe6 Qe1 Qd5 Bc3 Qe4 Kb2 Nd5 Bd4 b6 Qe2 c5 Qc4 Nxe3 Bxe3 Qxe3 Qc3 Qf2 Re1 Rd2 Re4 Rd4 Qe3 Rd2 Qc3 Rd4 Re3 Rd2 e6 Rxc2+ Qxc2 Qxe3 exf7 Qf3 Qc4 Qf2+ Kc3 Qf3+ Kd2 Qf2+ Kd1 Kd7 Qb5+ Kc7 Qe8 Qf1+ Kd2 Qf2+ Kd3 Qf3+ Kc2 Qf5+ Kd2 Qf2+ Kd3 Qf3+ Kc2 Qf2+ Kd1 Qf1+ Kc2 Qf2+ Kb1 Qf1+ Kb2 Qf2+ Kb1 Qf1+ Ka2 Qf2+ Ka3 Qf6 Ka2 Qf2+ Kb1",
-    "duration": 165,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 a4 Ne7 Rd2 c5 Ne2 Ng6 c4 Be6 Ne1 h5 f4 Ne7 Nf3 Nf5 Rd3 h4 Ng5 Be7 Nxe6 fxe6 g3 hxg3 Nxg3 Rxh3 Kg2 Rxg3+ Rxg3 Nxg3 Kxg3 Kb7 f5 exf5 Rxf5 Rd8 Rf7 Rd3+ Kf4 Rxb3 Rxe7 Rxb2 e6 Kc6 Rd7 Re2 Kf5 Rf2+ Ke5 Re2+ Kf5 Rf2+ Ke4 g6 Ke5 Rf5+ Ke4 Rf6 Ke5 Rf5+ Ke4 Rf6",
+    "duration": 206,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773055636.0344372
+  "updated": 1773055750.5548656
 }
