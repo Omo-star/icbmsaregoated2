@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 41,
-  "timestamp": "2026-03-09T09:24:17.482377",
+  "rating": 2993,
+  "opponent": "ISARFish",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+10",
+  "time_left": 464,
+  "timestamp": "2026-03-09T09:33:27.264686",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "opponent": "ISARFish",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 a4 Be7 Nc3 a6 Bf1 e4 Nxe4 Nxe4 Rxe4 d5 Re1 d4 Bd3 Be6 Be4 Qd7 c4 O-O-O d3 Rhe8 Bd2 Bf5 Bxc6 Qxc6 b4 Bf6 b5 Qc5 Rxe8 Rxe8 Ne1 Bg6 h3 Re6 f4 h5 g4 Bh4 Qf3 Bxe1 Rxe1 Rxe1+ Bxe1 hxg4 hxg4 f5 g5 Kb8 Qh3 axb5 Qh8+ Ka7 axb5 Qe7 Bf2 Qe2 Qxg7 Qg4+ Kf1 Qd1+ Kg2 Qg4+ Kh2 Qh5+ Kg1 Qg4+ Kf1 Qd1+ Kg2 Qg4+ Bg3 Qe2+ Kh3 Qf1+ Kh2 Qe2+ Kh3 Qf1+ Kh2 Qe2+ Kg1 Qxd3 Be1 Qd1 Qe5 Kb6 Kg2 Bh5 Bf2 Ka5 b6+ Ka4 Qb5+ Ka3 Qxf5 Qf3+ Kg1 Qd1+ Kg2 Qf3+ Kg1 cxb6 Bxd4 Qd1+ Kg2 Qf3+ Kh2 Bg4 Qe5 Qh3+ Kg1 Qg3+ Kf1 Qh3+ Ke1 Qh1+ Kf2 Qh2+ Ke1 Qh1+ Kf2 Qf3+ Kg1 Qg3+ Kf1 Qf3+ Kg1 b5 Qe1 b4 Bc5 Bf5 Qxb4+ Ka2 Qa5+ Kb1 Qe1+ Kc2 Qf2+ Qxf2+ Bxf2 Kd3 c5 Ke4 Bg3 Kd5 Bf2 Ke4 Kh2 Kxf4 Bg1 Kxg5 c6 bxc6 Kg3 Kh6 Kf4 Kh7 Kxf5 Kh8 Kg6 Kg8",
-    "duration": 180,
+    "moves": "f4 f5 b3 b6 g3 g6 c4 c5 Nc3 Nc7 Nc2 Nc6 Nb5 d5 Nxc7 Kxc7 cxd5 Nb4 Nxb4 cxb4 e4 Rd8 e5 Bxd5 Bxd5 Rxd5 Kb2 Kb7 Rc1 Bg7 d4 Qb5 Rc4 Rc8 Qe2 Rxc4 bxc4 Qa6 Rc1 Ra5 Qf3+ Kb8 Qb3 Ra3 Qxb4 Rxa2+ Kb3 g5 Be3 Rxh2 Rc2 Rxc2 Kxc2 Qa2+ Kd3 Qg2 Qxe7 Qe4+ Kd2 Qg2+ Kd3 Qe4+ Kd2 Qg2+ Kc3 Qxg3 Qd8+ Kb7 Qd7+ Ka6 Qa4+ Kb7 Qd7+ Ka6 Qb5+ Kb7 Qd5+ Ka6 Qb5+ Kb7 Qd5+ Ka6 Kb2 Qxe3 Qb5+ Kb7 Qd7+ Ka6 Qb5+ Kb7 Qd5+ Ka6 Qb5+ Kb7",
+    "duration": 1000,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773048257.4824412
+  "updated": 1773048807.264829
 }
