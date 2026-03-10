@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "DarkOnBot",
+  "rating": 2991,
+  "opponent": "SOLIDOR59",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 392,
-  "timestamp": "2026-03-10T09:05:59.870825",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-10T09:06:32.132296",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "opponent": "SOLIDOR59",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Qc2 O-O Bg2 c6 O-O b6 Bf4 Nbd7 cxd5 cxd5 Rc1 Bb7 Bc7 Qe8 Qb3 Ne4 Nc3 Ndf6 a4 Nxc3 Qxc3 Ne4 Qe1 Rc8 a5 Qb5 axb6 axb6 e3 Ra8 Bf1 Qb3 Nd2 Qxb2 Nxe4 Rxa1 Nf6+ Bxf6 Rxa1 Rc8 Bd6 Rc6 Qd1 Rxd6 Rb1 Qc3 Rc1 Qa5 Ra1 Qb4 Rb1 Qa3 Ra1 Qc3 Rc1 Qb4 Rb1 Qa3 Ra1 Qb2 Rb1 Qa2 Ra1",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1773133559.8709261
+  "updated": 1773133592.1323748
 }
