@@ -3,20 +3,20 @@
   "playing": false,
   "rating": 3080,
   "opponent": "Viet-Test",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2026-03-10T08:59:02.165901",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00be+0",
+  "time_left": 23,
+  "timestamp": "2026-03-10T08:59:58.675204",
   "last_game": {
-    "result": "loss",
+    "result": "draw",
     "opponent": "Viet-Test",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nd4 c3 Bg4 Qa4+ b5 Bxb5+ Nxb5 Qxb5+ B@d7 @c6 Bdf5 h3 Bh5 N@g3 Bd6 Nxf5 O-O @h6 Bg6 Nxg7 Rb8 @b7 e4 B@e2 Bf4 N7e6 Bxg5 Nxg5 N@c2+ Kf1 Nxa1 Na3 Nh5 B@e3 Re8 g4 Nf6 h4 a6 Qc5 Nxg4 Bxg4 @f3 Ke1 R@e2+ Kd1 Rxe3 Qxe3 B@f6 R@d7 Bh8 Rxd8 Rbxd8 h5 Rxd5 hxg6 @e2+ Qxe2 fxe2+ Bxe2 Rxd2+ Bxd2 R@b1+ B@c1 Q@e1+ Rxe1 @c2+ Nxc2 Rxc1+ Kxc1 Nb3+ axb3 e3 gxh7+ Kf8 N@g6+ fxg6 R@f7#",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 a6 Qd2 e6 O-O-O Bd7 f3 Be7 Nxc6 Bxc6 Kb1 h6 Be3 d5 e5 Nd7 f4 Qa5 Qf2 O-O Bd3 Rac8 Qg3 Qc7 Rhe1 Rfe8 a3 Bf8 Bd4 Nc5 Qf2 Nxd3 Rxd3 b5 Na2 Bd7 Red1 Bc5 Rc3 Bxd4 Qxd4 Qb7 b3 a5 Rxc8 Rxc8 Kb2 b4 axb4 a4 Nc3 axb3 cxb3 Ra8 Ra1 Rxa1 Kxa1 Qa6+ Kb2 Qf1 g3 Bb5 f5 Bd3 b5 Bxb5",
+    "duration": 45,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1773133142.1659849
+  "updated": 1773133198.6753557
 }
