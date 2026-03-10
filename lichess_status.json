@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "DarkOnBot",
+  "rating": 3082,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 286,
-  "timestamp": "2026-03-10T09:59:16.913182",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 27,
+  "timestamp": "2026-03-10T09:59:31.040931",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "opponent": "abdcebot",
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Nbd2 O-O Re1 Ba7 Nf1 Be6 Bxe6 fxe6 Be3 Bxe3 Rxe3 d5 exd5 Nxd5 Re4 Nf4 Ne1 Qf6 Ng3 Rad8 Qc2 h5 Ne2 Nd5 Ng3 h4 Nf1 h3 g3 b5 a3 b4 axb4 axb4 Ne3 Ra8 Rxa8 Rxa8 Ng4 Qg5 cxb4 Nd4 Qd1 Nf6 Nxf6+ Qxf6 Kf1 Rf8 Qd2 Ra8 Qc1 c6 f4 exf4 gxf4 Rf8 Qc4 Rd8",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 exd4 Rd8 Qc2 Nc6 Rfd1 Bd6 a3 Bf4 Rb1 Bd7 g3 Bc7 b4 Bb6 Nc5 Qf6 Qe4 Ne7 Ne5 Bc6 Nxc6 bxc6 a4 Rab8 Na6 Ra8 Nc5 Rab8 Na6 Ra8 Nc5",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773136756.9133534
+  "updated": 1773136771.04105
 }
