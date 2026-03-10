@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 116,
-  "timestamp": "2026-03-10T08:57:54.666317",
+  "rating": 3080,
+  "opponent": "Viet-Test",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 8,
+  "timestamp": "2026-03-10T08:59:02.165901",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "result": "loss",
+    "opponent": "Viet-Test",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 c4 e6 Nc3 Bb4 Qa4+ Nc6 e3 O-O Qc2 Re8 Bd2 Bf8 a3 h6 h3 e5 dxe5 Nxe5 cxd5 Nxf3+ gxf3 Nxd5 O-O-O a5 Be1 c6 f4 Bd7 Nxd5 cxd5 Rxd5 Qc8 Rxa5 b6 Rxa8 Qxa8 Rg1 Ba4 Bg2 Qa6 Bf1 Qa8 Bg2 Qa6 Bf1 b5 b3 Rc8 Bc3 g6 bxa4 Bg7 Kd1 Rxc3 Qe4 Rxa3 Ke2 Qxa4 Qe8+ Bf8 Kf3 Qd1+ Kg3 Qe1 Kf3 Qd1+ Kg3 Qe1 Kf3 Qd1+",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nd4 c3 Bg4 Qa4+ b5 Bxb5+ Nxb5 Qxb5+ B@d7 @c6 Bdf5 h3 Bh5 N@g3 Bd6 Nxf5 O-O @h6 Bg6 Nxg7 Rb8 @b7 e4 B@e2 Bf4 N7e6 Bxg5 Nxg5 N@c2+ Kf1 Nxa1 Na3 Nh5 B@e3 Re8 g4 Nf6 h4 a6 Qc5 Nxg4 Bxg4 @f3 Ke1 R@e2+ Kd1 Rxe3 Qxe3 B@f6 R@d7 Bh8 Rxd8 Rbxd8 h5 Rxd5 hxg6 @e2+ Qxe2 fxe2+ Bxe2 Rxd2+ Bxd2 R@b1+ B@c1 Q@e1+ Rxe1 @c2+ Nxc2 Rxc1+ Kxc1 Nb3+ axb3 e3 gxh7+ Kf8 N@g6+ fxg6 R@f7#",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1773133074.6664448
+  "updated": 1773133142.1659849
 }
