@@ -5,18 +5,18 @@
   "opponent": "Akhmatov_A",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+0",
-  "time_left": 32,
-  "timestamp": "2026-03-11T16:20:11.092337",
+  "time_left": 50,
+  "timestamp": "2026-03-11T16:20:52.335641",
   "last_game": {
     "result": "win",
     "opponent": "Akhmatov_A",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 c6 d4 d5 e5 Bf5 Nf3 Bg4 Be2 Bxf3 Bxf3 e6 O-O Ne7 Re1 Ng6 g3 Be7 h4 O-O h5 Nh8 Nd2 g6 Kg2 gxh5 Bxh5 Ng6 Rh1 Kg7 Qg4 Rg8 Bxg6 hxg6 Nf3 Rh8 Bg5 Bxg5 Rxh8 Qxh8 Nxg5 Qh6 Qf4 Qxg5 Qxg5 Nd7 Rh1 Rg8 Qh6#",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Bc4 Bb4+ c3 dxc3 O-O Nf6 Nxc3 Bxc3 bxc3 d6 Bg5 h6 Bh4 O-O Qb3 g5 Bg3 Nxe4 Bd3 Nc5 Qc4 Be6",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773246011.0924
+  "updated": 1773246052.335739
 }
