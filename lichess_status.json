@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "SF_Bot1nok",
+  "rating": 3080,
+  "opponent": "Akhmatov_A",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 325,
-  "timestamp": "2026-03-11T12:31:39.096105",
+  "time_control": "TC: 1+0",
+  "time_left": 42,
+  "timestamp": "2026-03-11T16:15:32.165685",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "result": "win",
+    "opponent": "Akhmatov_A",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "c3 e5 d4 e4 Bf4 d5 h3 Be7 c4 dxc4 e3 Bb4+ Nc3 Be6 Ne2 c6 g4 Ne7 Qc2 Nd7 O-O-O Nd5 Nxe4 Be7 Nd6+ Bxd6 Bxd6 N7f6 Bc5 b6 Ba3 b5 g5 Nd7 Bg2 a5 Bd6 N7b6 Bc5 Qc7 Bxd5 Nxd5 Qd2 Bf5 f3 Bd3 e4 Nb4 Qf4 O-O-O Qxc7+ Kxc7 Nf4 Nxa2+ Kd2 Nb4 Ra1 Na6 Nxd3 Nxc5 Nxc5 Rxd4+ Ke3 Rhd8 e5 R4d5 Ne4 a4 Kf4 Re8 h4",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 Bb5 Nd4 Nxd4 exd4 Nd5 Nxd5 exd5 Qe7+ Qe2 b6 Qxe7+ Bxe7 O-O Bb7 Re1 Bxd5 c4 Be6 d3 Bd6 Bg5 O-O Bh4 a6 Ba4 b5 cxb5 axb5 Bxb5 Rfb8 Bc4 Rxb2 Bxe6 fxe6 Re4 Raxa2 Rxa2 Rb1+",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773232299.096209
+  "updated": 1773245732.1657596
 }
