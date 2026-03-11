@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "bot1e",
+  "rating": 3079,
+  "opponent": "bot913",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 453,
-  "timestamp": "2026-03-11T09:47:21.812864",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 8,
+  "timestamp": "2026-03-11T09:49:24.152895",
   "last_game": {
-    "result": "draw",
-    "opponent": "bot1e",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "result": "win",
+    "opponent": "bot913",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Kh2 Bb6 Nh4 d5 d4 exd4 Bxd4 dxc4 Nhf5 Bxf5 Nxf5 Rad8 Bc3 Bc5 Qd1 Qc8 Qc1 Bf8 Qf4 Nc5 Qg4 Qe6 h4 Nxe4 f3 g6 fxe4 gxf5 exf5 Qg8 Qxg8+ Kxg8 Rxe8 Rxe8 Kg3 h5 Kf3 Bd6 Re2 Rxe2 Kxe2 Kf7 Kf3 c5 g3 c6 g4 hxg4+ Kxg4 Kg7 Kf3 Kf7 Kg4 Bh2 Kf3 Kg7 h5 Bd6 h6+ Kxh6 Bxf6 Kh7 Ke3 Kg8 Kd2 Kf7 Bh8 Kg8 Bf6 Kf7 Bh8 Kg8 Bc3 Bc7 Ke3 Kf7 Bh8",
-    "duration": 600,
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 Nc3 Bb4 Bg5 O-O e3 c5 cxd5 exd5 dxc5 Nbd7 Rc1 h6 Bh4 Qa5 Nd2 g5 Bg3 Nxc5 Be5 Bg4 Qc2 Nfd7 a3 Bxa3 Bd4 Bb4 h4 Ne6 Nb3 Qa4 f3 Nxd4 exd4 Bxc3+ bxc3 Rae8+ Kf2 Bh5 hxg5 Bg6 Bd3 Bxd3 Qxd3 Re6 Nd2 Qa3 Rb1 Rc8 Rxh6 Nf8 Rb3 Qe7 f4 Re8 Nf1 Re1 Rh3 Re4 Rf3 Ng6 g3 a5 Ne3 a4 Rb1 Qd7 Rh1 Nf8 f5 a3 g4 Qe7 g6 a2 Qb5 Nd7 Rfh3 Nf6 g5 a1=Q Rh8+ Kg7 gxf6+ Kxf6 Qb6+ Qe6 Nxd5+ Kxf5 Qxe6+ fxe6 Rxa1 Rxh8 g7 Rh2+ Kg1 Rg4+ Kxh2 Rxg7 Rf1+ Ke4 Nf6+ Kd3 Rf3+ Ke2 Rg3 Rf7 Ne4 Rh7+ Kg2 b6 Rg6 Re7 Kg3 Ke3 Nd6 b5 d5 Rd7 Rxe6+ Kd3 Kf4 Kxc3 Ke5 Kb4 Ne4 Rd8 d6 Kc4 Nf6 b4 d7 b3 Re8 Rxd7 Nxd7 Kc3 Nc5 b2 Na4+ Kd3 Nxb2+ Ke3 Rf8 Kd2 Kd4 Kc2 Rf2+ Kb3 Na4 Kb4 Rb2+ Ka3 Ke5 Kxa4 Kd6 Ka3 Rb8 Ka2 Kd5 Ka3 Kc4 Ka2 Kc3 Ka1 Kc2 Ka2 Ra8#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1773222441.8129878
+  "updated": 1773222564.1529615
 }
