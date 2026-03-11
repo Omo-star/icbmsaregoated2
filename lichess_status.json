@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 2989,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 122,
-  "timestamp": "2026-03-11T08:39:43.251331",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-11T08:40:16.124440",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "OlisRalphBot",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Re3 a5 Ne5 Qc8 h4 Re6 Nf3 Rde8 Ne5 Bxe5 dxe5 Rd8 Re1 Rc6 Qd4 Rd7 Rad1 Nc5 Bg5 Nd3 Bf6 Kh7 Re2 Re6 Ra1 Qc5 Rd2 Re8 f3 Rb8 Bf1 Rc8 Be2 Rb7 g4 hxg4 fxg4 Be4 g5 Qxd4+ cxd4 Nf4 Bg4 c3 Rf2 cxb2 Rxb2 Rc3 Kh2 Nd3 Rd2 Rbc7 Bd8 Rc2 Ra2 Rxa2 Rxa2 Rc1",
-    "duration": 600,
+    "moves": "",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1773218383.2514365
+  "updated": 1773218416.1275558
 }
