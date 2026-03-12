@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3032,
-  "opponent": "Fischer_Bot",
+  "rating": 3081,
+  "opponent": "StupidChessRobot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 258,
-  "timestamp": "2026-03-12T09:43:41.509369",
+  "time_control": "TC: 1+1",
+  "time_left": 60,
+  "timestamp": "2026-03-12T09:44:14.490993",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 3032,
-    "rating_after": 3032,
+    "opponent": "StupidChessRobot",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 f4 exf4 Bc4 Nf6 Nc3 c6 d4 Bb4 Ne2 d5 exd5 f3 gxf3 Nxd5 O-O O-O Kh1 Nxc3 bxc3 Bd6 Rg1 Qh4 Ng3 Nd7 Qe2 Nb6 Bb3 Nd5 Ne4 Bf4 Qg2 Qh6 Bxd5 Bxc1 Bxf7+ Rxf7 Raxc1 Bf5 Rce1 Bxe4 fxe4 Raf8 Re2 Qe6 d5 Qe5 Qg3 Rf4 Qg5 Re8 d6 Rf7 Qxe5 Rxe5 c4 b6 Rb1 Rd7 c5 bxc5 Rb8+ Kf7 Ra8 c4 Kg2 a5 Kf3 Rxd6 Ra7+ Kg8 Ra8+ Kf7 Ra7+ Kg8 a4 c3 Re1 h6 h4 Rg6 Ke3 Rg4 Kd4 Rh5 Rc7 c5+ Rxc5 Rxc5 Kxc5 Rxh4 Kb5 Rh2 Kxa5 Rxc2 Kb4 h5 Ra1 Re2 Kxc3 Rxe4 Kd3 Rb4",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4",
+    "duration": 61,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1773308621.5094886
+  "updated": 1773308654.4938676
 }
