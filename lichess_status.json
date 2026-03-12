@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3081,
-  "opponent": "Bot1nokk",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-03-12T09:03:14.931352",
+  "opponent": "giga-dummy67",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+0",
+  "time_left": 37,
+  "timestamp": "2026-03-12T09:04:50.159805",
   "last_game": {
-    "result": "draw",
-    "opponent": "Bot1nokk",
+    "result": "win",
+    "opponent": "giga-dummy67",
     "rating_before": 3081,
     "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 Nc3 Ng6 d4 exd4 Nxd4 Nxd4 Qxd4 c6 Be2 Qb6 Qd3 Be7 O-O O-O a4 a5 Kh1 Bc5 f4 d6 g4 Bd7 h4 f6 Qg3 Rae8 Bd2 Kh8 Bd3 d5 Rae1 Ne7 f5 Bd4 b3 Be5 Qf3 Qb4 Nb1 Qb6 Nc3 Qb4 Nb1 Qc5 Be3 Bd4 Bf4 dxe4 Bxe4 b5 c3 Be5 Be3 Qd6 Rd1 Qc7 Bc5 g6 fxg6 hxg6 Nd2 Rf7 Bxe7 Rfxe7 Bxg6 Rg8 Bf5 bxa4",
-    "duration": 30,
+    "moves": "e4 d5 exd5 f5 c4 b5 b3 c6 Nfe3 f4 Nf5 g6 Nh6 Qg7 Bb2 Be5 d4 Bxd4 Bxd4 Qxd4 Ke2 Qxa1 Bc2 cxd5 Ne3 Qxg1 Nxd5 Qxh1 Nc7+ Kd7 Bf5+ gxf5 Nxf5 Kxc7 Kd2 Bxf5 f3 Nc6 g4 Rd8+ Kc3 Qa1#",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1773306194.931472
+  "updated": 1773306290.1598685
 }
