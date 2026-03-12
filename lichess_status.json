@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "Fischer_Bot",
+  "rating": 3033,
+  "opponent": "PositionalAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 177,
-  "timestamp": "2026-03-12T07:56:06.986166",
+  "time_control": "TC: 10+0",
+  "time_left": 449,
+  "timestamp": "2026-03-12T08:02:32.050909",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "opponent": "PositionalAI",
+    "rating_before": 3033,
+    "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "c4 Nf6 g3 e5 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 h6 O-O O-O Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qa5 Qc2 Rbd8 Qd2 Qb6 Na4 Qb5 Nc3 Qb6 Na4 Qb5 Nc3 Qb6 Na4",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Nbd2 Qc8 Kh1 f5 Qe1 f4 Nxe5 fxe3 Qxe3 Bf6 f4 Bxe5 fxe5 Qe6 Rf2 O-O-O Qxa7 Qxe5 Raf1 Rhe8 Qa8+ Kd7 Qxb7 Re6 Rf7+ Re7 R7f2 Re6 Rf7+ Re7 Rxe7+ Qxe7 Nf3 Bxf3+ Rxf3 Qh4+ Kg1 Qg5+ Kh2 Qd2+ Kg3 Qxc2 Qb4 Qb1 Kf2 Qxa2 Ke2 h5 Rg3 Qb1",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773302166.986268
+  "updated": 1773302552.0510466
 }
