@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "Boller1910",
+  "rating": 2988,
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 149,
-  "timestamp": "2026-03-12T08:06:31.245465",
+  "time_control": "TC: 3+0",
+  "time_left": 175,
+  "timestamp": "2026-03-12T08:07:14.316298",
   "last_game": {
     "result": "draw",
-    "opponent": "Boller1910",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "opponent": "SF_Bot1nok",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Qa4+ Nc6 e3 O-O Bd2 dxc4 Bxc4 Bd6 Qc2 e5 Nxe5 Nxe5 dxe5 Bxe5 O-O b6 Rae1 Bb7 f4 Bd6 h3 Re8 e4 Bb4 Bd3 Qd7 Rf2 Rad8 Bb5 Bc6 Bxc6 Qxc6 e5 Nd5 Kh2 Bxc3 Bxc3 Nxc3 Rf3 Qa4 Qxc3 c5 a3 Qd4 Qb3 g6 Re2 Kf8 Ree3 Qd1 Qc4 Rd2 b4 Qc2 Qxc2 Rxc2 bxc5 Rxc5 Rd3 Rec8 Kg3 b5 Kh4 a5 Rd7 R5c7 Rd5 Rc5",
-    "duration": 256,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 g3 g6 Kg2 Kf8 h3 Kg7 g4 Rc7 Kh2 Kf8 Kg2 Kg7 Kh2 Kf8 Kg2 Kg7 Kh2",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773302791.2456
+  "updated": 1773302834.3164196
 }
