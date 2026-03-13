@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3081,
-  "opponent": "Viet-Test",
+  "opponent": "bot1e",
   "variant": "Variant: Antichess",
   "time_control": "TC: \u00be+0",
-  "time_left": 5,
-  "timestamp": "2026-03-13T10:00:40.583816",
+  "time_left": 11,
+  "timestamp": "2026-03-13T10:02:00.516202",
   "last_game": {
-    "result": "win",
-    "opponent": "Viet-Test",
+    "result": "draw",
+    "opponent": "bot1e",
     "rating_before": 3081,
     "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ke7 h6 Kd6 Kf3 a2 Ke2 Rb8 Rb1 axb1=K Kd3 Kxc2+ Kxc2 Rb1 Kxb1 Ne7 Kc2 Ke6 Kd2 d5 g6 hxg6 Nd3 Kf5 Nb2 Ke6 Kc3 Nc6 Kc2 Ne7 Kb3 Kf6 Kb4 Ke6 Kb3 Kf6 Kc2 Ke6 Kd3 g5 Kc2 g4 h7 g3 h8=K Nc6 Kg7 Kd7 Kg6 g2 Kd2 g1=N Kg5 Ne2 Kxe2 d4 Nd1 d3+ Kxd3 Ne7 Kh4 Kd6 Ke2 Nc6 Kg4 Kd5 Kd2 Ne7 Kh3 Kc5 Kg3 Nc6 Kf2 Kd5 Kfe1 Ke6 Nf2 Kf6 Kee2 Kf7 Kdd3 Ne7 Kf3 Kf6 Nd1 Kf7 Nb2 Kf6 Kfe2 Kf7 Kee3 Ke8 Kdd4 Nd5 Kxd5 Kd7 Kdd4 Kc7 Nd1 Kc8 Kee4 Kd7 Kf4 Kc7 Ne3 Kd7 Kc4 Ke7 Kd3 Kf7 Nc4 Kg7 Kd4 Kh6 Kfe4 Kh5 Kde3 Kh4 Ke5 Kh3 K3e4 Kh4 K4d5 Kh3 Kde6 Kh4 Kf7 Kh3 Kff6 Kh2 Kff5 Kg2 Kg5 Kh2 Ke4 Kg1 Kgf4 Kf1 Kd4 Kg1 Nd6 Kf1 Kc3 Kg1 Kd3 Kh2 Kfe4 Kh3 Nf7 Kh2 Nh6 Kh1 Nf5 Kg1 Kd2 Kh1 Ng3+ Kg1 Nf1 Kxf1 Ke2+ Kxe2 Ke3+ Kxe3",
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rg1 Ne7 h6 Ra8 Nd1 Kf8 Nf2 Nc6 Rb1 Nd8 Rc1 Nc6 g6 hxg6 h7 Ke7 Rb1 Rg8 hxg8=K g5 Kxg5 Nb8 Rxb8 Kd8 Rxd8 a2 Rxd7 a1=K c4 Kb2 c5 Kc1 Rd2 Kxd2 Nd1 Kxd1 c6 Kd2 c7 Ke3 Kf4 Kxf4 Kf7 Ke3 c8=R Kd2 Rh8 Kc1 Ke6 Kb1 Kd5 Kb2 Ke4 Kb3 Rh5 Kb2 Rg5 Kb3 Rh5 Kb2 Kd5 Kc2 Re5 Kb2 Rf5 Kc2 Rf6 Kb2 Ke4 Kb3 Rf5 Kb2 Rh5 Kb3 Rg5 Kb2 Rg4 Kb3 Rg5 Kb2 Kd5 Kc2 Re5 Kb2 Rh5 Kc2 Rh7 Kb2 Kc5 Kc2 Rg7 Kd2 Rg6 Ke2 Kb5 Ke3 Rc6 Ke4 Rb6 Ke3 Ra6 Ke4 Kb4 Kf5 Ra3 Ke5 Ra1 Ke4 Rh1 Ke3 Ra1 Ke4 Ra8 Ke5 Ra1 Ke4",
     "duration": 45,
-    "bot_color": "white",
-    "termination": "variantEnd"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1773396040.583888
+  "updated": 1773396120.5163314
 }
