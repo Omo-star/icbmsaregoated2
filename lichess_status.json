@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3080,
-  "opponent": "CloudNetBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-03-13T09:34:08.028940",
+  "opponent": "Viet-Test",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: \u00be+0",
+  "time_left": 28,
+  "timestamp": "2026-03-13T09:34:39.834873",
   "last_game": {
-    "result": "draw",
-    "opponent": "CloudNetBot",
+    "result": "loss",
+    "opponent": "Viet-Test",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 Nc3 a6 d4 cxd4 Nxd4 b5 Bd3 Bb7 O-O Nc6 Nxc6 Bxc6 Re1 Bc5 Qh5 d6 Bg5 Nf6 Qh3 Kf8 a3 h6 Be3 Qb6 Qg3 Rd8 Bxc5 Qxc5 Bf1 h5 h4 Ng4 Rad1 Qe5 Qxe5 Nxe5 f4 Ng4 b4 Ke7 a4 bxa4 Bxa6 Rb8 Rb1 Nf6 Kf2 Nd7 Bd3 Nb6 b5 Bd7 Ra1 Rhc8 Ra3 Nc4 Rxa4 Nb2 Ra3 Nxd3+ cxd3 Bxb5 Ke3 Bc6 Rea1 d5 e5 d4+ Kxd4 Bxg2 Ke3 Kf8 Ne2 Rb2 R3a2 Rcc2 Rxb2",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 h6 gxh6 d5 h7 a2 Nd3 Ke8 Rg1 d4 h8=K Ke7 Kf3 Kd8 Rg2 Na7 Rd2 a1=K Nb2 Kxb2 Rxd4+ Kxc2 Rxd8 Rxd8",
+    "duration": 45,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773394448.0290527
+  "updated": 1773394479.8349512
 }
