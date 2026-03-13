@@ -5,18 +5,18 @@
   "opponent": "Fil_16",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+3",
-  "time_left": 172,
-  "timestamp": "2026-03-13T20:51:01.615550",
+  "time_left": 307,
+  "timestamp": "2026-03-13T20:52:13.318503",
   "last_game": {
     "result": "win",
     "opponent": "Fil_16",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "e4 e5 f4 exf4 Nf3 g5 h3 Bg7 Nc3 d6 Bc4 Nc6 d4 h6 d5 Nce7 O-O Nf6 Nd4 O-O Nf5 Nxf5 exf5 Bxf5 Re1 Qd7 Qf3 Bxc2 Bd3 Bxd3 Qxd3 Rfe8 Bd2 Re5 Re2 Qf5 Qf3 Rae8 Rae1 Rxe2 Rxe2 Rxe2 Qxe2 Nxd5 Qb5 Bd4+ Kh1 f3 Nxd5 fxg2+ Kxg2 Qf2+ Kh1 Qg1#",
-    "duration": 462,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "Nf3 d5 d4 e6 c4 f5 Nc3 c6 Bf4 Nf6 e3 Be7 Bd3 O-O h3 Nbd7 cxd5 cxd5 O-O b6 Rc1 Bb7 Ng5 h6 Nxe6 Qe8 Bxf5",
+    "duration": 381,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1773435061.615639
+  "updated": 1773435133.3186097
 }
