@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "AlwaysPlayMystery",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 128,
-  "timestamp": "2026-03-13T11:18:51.258069",
+  "rating": 3084,
+  "opponent": "Viet-Test",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2026-03-13T11:19:26.869461",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "Viet-Test",
+    "rating_before": 3084,
+    "rating_after": 3084,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Re3 a5 b3 cxb3 Qxb3 Re6 Rae1 Rc8 Bf1 Nd6 Bxd6 Rxe3 Rxe3 Qxd6 Bg2 Be6 h4 Rc4 Bf1 Rc7 Bg2 Rc4 Bf1 Rc7 Bg2 Kh7 Bf1 Bd7 Bg2 Be6 Bf1 Bf5 Bg2 Rc8",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Be7 d4 exd4 Nxd4 Nxd4 Qxd4 N@e5 Be3 Bf6 N@d5 Bg4 f4 @h3 Rg1 hxg2 fxe5 Bxe5 Rxg2 Bxd4 Bxd4 @e6 B@b5+ @c6 Rxg4 exd5 O-O-O Q@a1+ N@b1 dxc4 Bxc4 B@f6 B@e3 Bxd4 Bxd4 B@f6 B@e3 Bxd4 Bxd4",
+    "duration": 30,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773400731.2582064
+  "updated": 1773400766.872579
 }
