@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "thechesslover29",
+  "rating": 3039,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 0+1",
-  "time_left": 3,
-  "timestamp": "2026-03-13T12:32:40.761438",
+  "time_control": "TC: 10+0",
+  "time_left": 25,
+  "timestamp": "2026-03-13T12:51:54.394981",
   "last_game": {
-    "result": "draw",
-    "opponent": "thechesslover29",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "loss",
+    "opponent": "Cheszter",
+    "rating_before": 3039,
+    "rating_after": 3039,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 0,
-    "bot_color": "black",
-    "termination": "aborted"
+    "moves": "c3 d5 e3 Nc6 Nf3 e5 d4 e4 Nfd2 f5 c4 Nf6 Nc3 Be6 Be2 Qd7 a3 Bd6 O-O dxc4 Qa4 O-O-O Nxc4 Bxc4 Qxc4 Kb8 f3 h5 fxe4 fxe4 Bd2 Ne7 Rf2 h4 Raf1 Rh6 Nb5 Bg3 hxg3 hxg3 Rxf6 gxf6 Be1 Rg8 Nc3 f5 Nxe4 fxe4 Qxg8+ Nxg8 Rf8+ Qc8 Rxc8+ Kxc8 Bxg3 Ne7 Bf4 Rc6 g4 Rc1+ Kf2 Rc2 g5 Kd7 Ke1 Rxb2 Be5 c6 Bb8 Ke6 Bg4+ Kf7 Bh5+ Kg8 d5 Nxd5 Bxa7 Rg2 Bg6 Rxg5 Bxe4 Re5 Bd3 Nxe3 Kd2 Nd5 a4 Re8 Bc5 Ra8 Bc2 Kf7 Bb3 Ke6 Kc1 Kd7 Kb2 Kc7 Ka3 Rg8 Kb2 b6 Ba3 Rg2+ Kc1 Kd7 Bc4 Rg3 Kb2 Ke6 Bf8 Ke5 Ba6 c5 Kc1 Kd4 Kd1 Rg2 Ke1 c4 Ba3 Ne3 Bb7 Ra2 Bb4 Nc2+ Ke2 Nxb4+ Kd1",
+    "duration": 600,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1773405160.761523
+  "updated": 1773406314.3950794
 }
