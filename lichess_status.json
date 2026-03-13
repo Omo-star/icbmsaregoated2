@@ -5,18 +5,18 @@
   "opponent": "Fil_16",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+3",
-  "time_left": 181,
-  "timestamp": "2026-03-13T20:59:22.162985",
+  "time_left": 156,
+  "timestamp": "2026-03-13T21:06:35.507567",
   "last_game": {
     "result": "win",
     "opponent": "Fil_16",
     "rating_before": 2983,
     "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Bf4 g6 Nf3 Bg7 c4 O-O e3 d5 Nbd2 c5 Rc1 Nc6 Bd3 cxd4 exd4 dxc4 Bxc4 Nxd4 Nb3 Nh5 Bg3 Nxf3+ Qxf3 Nxg3 fxg3 Qb6 Rf1 Qb4+ Kf2 Be6 Qe2 Rac8 Bxe6 Bd4+ Nxd4 Qxd4+ Qe3 fxe6+ Ke2 Qxb2+ Kd3 Rcd8+ Ke4 Qb4+ Ke5 Rd5+ Kxe6 Qd6#",
-    "duration": 450,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 c4 Bg7 Be3 Nf6 Nc3 O-O Be2 d6 O-O e5 Nxc6 bxc6 b4 Be6 a4 Rb8 b5 cxb5 axb5 a5 bxa6 Ra8 Qd3 Qc7 Nb5 Qc6 Qxd6 Qxd6 Nxd6 Rfd8 c5 Bf8 a7 Bxd6 cxd6 Rxd6 f3 Rd7 Rfd1 Rc7 Rdc1 Rd7 Bb5 Rdd8 Bc6 Rac8 a8=Q Rxa8 Rxa8 Rxa8 Bxa8 Kg7 Bc6 Nh5 Bd5 Bd7 Rc7 Be8 Re7 Kf8 Bc5 Kg8 Rxe8+ Kg7 Bf8+ Kf6 Re7",
+    "duration": 525,
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1773435562.1630723
+  "updated": 1773435995.5076897
 }
