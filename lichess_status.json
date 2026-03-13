@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
+  "rating": 3082,
   "opponent": "Fil_16",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+3",
-  "time_left": 307,
-  "timestamp": "2026-03-13T20:52:13.318503",
+  "time_control": "TC: 1+0",
+  "time_left": 35,
+  "timestamp": "2026-03-13T20:53:47.103442",
   "last_game": {
     "result": "win",
     "opponent": "Fil_16",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 e6 c4 f5 Nc3 c6 Bf4 Nf6 e3 Be7 Bd3 O-O h3 Nbd7 cxd5 cxd5 O-O b6 Rc1 Bb7 Ng5 h6 Nxe6 Qe8 Bxf5",
-    "duration": 381,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 e5 f4 exf4 Nf3 g5 Nc3 d6 h3 h6 Bc4 Bg7 d4 Nc6 O-O Nf6 d5 Ne5 Bb3 O-O Nd4 c5 Nf5 Bxf5 exf5 c4 Ba4 a6 Re1 b5 Nxb5 axb5 Bxb5 Qb6+ Kh1 Qxb5 Qe2 Qxd5 Bd2 f3 gxf3 Nxf3 Rf1 Nxd2+ Kg1 Nxf1 Kxf1 Qh1+ Kf2 Qxa1 Qxc4 Rfe8 b3 Qe1+ Kf3 Re3+ Kg2 Rg3+ Kh2 Qg1#",
+    "duration": 60,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1773435133.3186097
+  "updated": 1773435227.1035166
 }
