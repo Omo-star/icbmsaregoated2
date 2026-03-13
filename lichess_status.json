@@ -5,18 +5,18 @@
   "opponent": "DDxrandom",
   "variant": "Variant: Standard",
   "time_control": "TC: 12+0",
-  "time_left": 718,
-  "timestamp": "2026-03-13T23:17:09.387340",
+  "time_left": 548,
+  "timestamp": "2026-03-13T23:21:18.511679",
   "last_game": {
     "result": "win",
     "opponent": "DDxrandom",
     "rating_before": 3035,
     "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "e4 a6 Nf3 c5 Bc4 e6 Nc3 b5 Ne2 bxc4",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nc6 Nc3 Nxd4 Qxd4 e5 Qa4+ Bd7 Qb3 b6 Bc4 Qe7 Nd5 Qd8 Be3 Be6 f4 exf4 Bxf4 Nf6 O-O-O Nxd5 exd5 Bg4 Bb5+ Bd7 Rhe1+ Be7 Bxd6 Rc8 Bxe7 Qxe7 Rxe7+ Kxe7 d6+ Kd8 Qxf7 Re8 Qxd7#",
     "duration": 720,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1773443829.3874342
+  "updated": 1773444078.5117617
 }
