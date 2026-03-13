@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
-  "opponent": "DarkOnBot",
+  "rating": 2984,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-03-13T10:11:23.823773",
+  "time_control": "TC: 3+0",
+  "time_left": 11,
+  "timestamp": "2026-03-13T10:17:13.913632",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "result": "win",
+    "opponent": "RaspFish",
+    "rating_before": 2984,
+    "rating_after": 2984,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 c3 Re8 d4 exd4 cxd4 Bf8 Re1 a5 Bd2 a4 b4 Nb6 Na5 f5 exf5 Rxe1+ Qxe1 Qd5 a3 Bxf5 Nxb7 Be4 Qe2 Nc4 Bc3 Bxf3 Qxf3 Qxf3 gxf3 Kf7 Kf1 Rb8 Na5 Nxa5 bxa5 Ke6 Ke2 Kd5 Kd3 c5 dxc5 Kxc5 Bd4+ Kd5 Be3 Rb5 Rg1 h6 Bd2 Rb3+ Kc2 Rxa3 Be3 Kc4 a6 Rc3+ Kb1 Rb3+ Ka2 Ra3+ Kb2 Rb3+",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Bxd3 Qxd3 Qd7 Nd2 Nge7 Ne2 f6 f4 h5 O-O Nf5 a4 a6 Re1 h4 b3 Be7 b4 Na7 Nf3 Kf7 Bd2 Nc8 a5 Na7 Nc1 Qc6 Qb1 Nb5 Nd3 Kg8 h3 Rd8 Qb2 Rh6 Rac1 Qd7 Be3 c6 Bf2 Bf8 Nh2 Qf7 Re2 Ra8 Ng4 Rh8 Rce1 Re8 Qc1 Rh7 Nc5 Bxc5 bxc5 Re7 Qa1 Kh8 Kh1 Nc7 Rb2 Nb5 Rbe2 Nc7 Kh2 Rh5 Kg1 Rh7 Qc1 Nb5 c4 dxc4 Qxc4 Nc7 Qb3 Nd5 Qf3 Nc7 Rb2 Nd5 Rb3 Rh5 Qe4 Rh7 Nh2 Ng3 Qf3 Nf5 Qe4 Kg8 Nf3 Rh6 Re2 Ng3 Bxg3 hxg3 Reb2 Qh5 exf6 Rxf6 Rxb7 Rxb7 Rxb7 Qf5 Rb8+ Rf8 Rxf8+ Kxf8 Qxf5+ exf5 Ne5 Ke7 Kf1 Ke6 Ke2 Nc3+ Kd2 Ne4+ Kd3 Kd5 Ng6 Ke6 Ne5 Kd5 Ng6 Ke6 h4 Nf6 Ne5 Kd5 Nc4 Ke6 Nb6 Ne8 Ke2 Nc7 Nc4 Nd5 Kf3 Nc3 Ne3 Ne4 Nc2 Nd2+ Kxg3 Nb3 h5 Nxa5 Kh4 Kf7 Kg5 Nc4 Kxf5 a5 g4 a4 Ke4 Nd2+ Kd3 Nf1 Kc3 Ng3 Kb4 Ne2 Kxa4 Nxf4 Ka5 Nd5 Nb4 Ne7 Kb6 Ke6 Nxc6 Nd5+ Kb7 Nf6 Nb4 Ne8 c6 Nd6+ Kb8 Kf6 c7 Kg5 d5 Kh6 c8=Q Nxc8 Kxc8 Kg5 Kc7 g6 hxg6 Kf4 g7 Kg5 g8=Q+ Kf4 g5 Ke3 d6 Kf3 Qb3+ Kg4 d7 Kh5 Qd1+ Kg6 Qd6+ Kh5 Qh2+ Kg6 Qh6+ Kf7 Qf6+ Kg8 Qg6+ Kh8 d8=Q#",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1773396683.8238873
+  "updated": 1773397033.9137187
 }
