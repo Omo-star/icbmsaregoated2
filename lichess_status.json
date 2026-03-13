@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3080,
+  "rating": 2985,
   "opponent": "iberbrn",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 42,
-  "timestamp": "2026-03-13T06:06:08.336708",
+  "time_control": "TC: 3+0",
+  "time_left": 137,
+  "timestamp": "2026-03-13T06:07:45.066145",
   "last_game": {
     "result": "win",
     "opponent": "iberbrn",
-    "rating_before": 3080,
-    "rating_after": 3080,
+    "rating_before": 2985,
+    "rating_after": 2985,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O b5 Bb3 Bc5 a4 Rb8 c3 d6 d4 Bb6 a5 Ba7 h3 Bb7 Be3 Nxe4 d5 Bxe3 dxc6 Nxf2 Qe2 Nxh3+ Kh1 Nf2+ Rxf2 Bxf2 cxb7 Ba7 Bd5 Qd7 Nd4 Qe7 Bc6+ Kf8 Nf3 d5 Qxe5 Qxe5 Nxe5 Ke7 Nd3 Kd6 Nb4 Bc5 Nxa6 Kxc6 Nxc5 Kxc5 a6 Kc6 a7 Rxb7 a8=B Rxa8 Rxa8 b4 Nd2 bxc3 bxc3 Kc5 Rf8 c6 Kg1 Re7 Rg8 f6 Kf2 d4 Nb3+ Kc4 Nxd4 Kxc3 Rd8 c5 Nf5 Rc7 Ne3 c4 Nd5+",
-    "duration": 60,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Nxe5 Nxe5 Re1 f5 d3 a6 dxe4 axb5 exf5 d6 f4 Bxf5 fxe5 d5 Nc3 Bc5+ Be3 Bxe3+ Rxe3 d4 Rf3 dxc3 Rxf5 cxb2 Qxd8+ Kxd8 Rb1 Rxa2 Rf2 Re8 c3 Rxe5 Rfxb2 Rxb2 Rxb2",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1773381968.3368328
+  "updated": 1773382065.066249
 }
