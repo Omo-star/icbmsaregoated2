@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3080,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 28,
-  "timestamp": "2026-03-13T09:34:39.834873",
+  "opponent": "bot1e",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+0",
+  "time_left": 25,
+  "timestamp": "2026-03-13T09:35:56.839686",
   "last_game": {
-    "result": "loss",
-    "opponent": "Viet-Test",
+    "result": "draw",
+    "opponent": "bot1e",
     "rating_before": 3080,
     "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 h6 gxh6 d5 h7 a2 Nd3 Ke8 Rg1 d4 h8=K Ke7 Kf3 Kd8 Rg2 Na7 Rd2 a1=K Nb2 Kxb2 Rxd4+ Kxc2 Rxd8 Rxd8",
-    "duration": 45,
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 O-O-O Nc6 Bxg7 Kxg7 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 a3 f6 Rhe1 Rf7 h3 a6 Bxc6 Bxc6 Qe6 Rd8 Re2 Qf4+ Qe3 Qxe3+ Rxe3 Rd6 Rde1 Kf8 h4 Bd7 Ne2 g5 Rh1 Rc6 hxg5 fxg5 Re5 Rf5 Re3 h6 Nc3 Rg6 b3 g4 fxg4 Rfg5 Ne2 Rxg4 g3 Bf5 Rf1 Rf6 c4 dxc4 bxc4 h5 Kd2 Kf7 Rh1 Rh6 Rf1 Rf6 Rh1 Rh6 Rf3 e6 Rh4 Ke8 Rb3 Rh7 Nf4 b5 cxb5 axb5 Rxg4 Bxg4 Rxb5 Ra7 Rb3 Ke7 Ke3 Kd6 Nd3 Bh3 Nc5 Bg2 a4 e5",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1773394479.8349512
+  "updated": 1773394556.8397934
 }
