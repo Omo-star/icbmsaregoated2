@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "Moment-That-Inspires",
+  "rating": 3037,
+  "opponent": "OxydanBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 52,
-  "timestamp": "2026-03-13T11:57:45.824526",
+  "time_control": "TC: 10+5",
+  "time_left": 54,
+  "timestamp": "2026-03-13T12:31:38.793226",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "result": "win",
+    "opponent": "OxydanBot",
+    "rating_before": 3037,
+    "rating_after": 3037,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a6 a4 O-O Nbd2 Ba7 h3 Be6 Bxe6 fxe6 b4 Ne7 Qb3 Qd7 d4 exd4 cxd4 Ng6 Ra3 Rae8 b5 Kh8 bxa6 bxa6 Qc2 Rc8 e5 Nd5 Ne4 Nb4 Qb1 Nc6 Be3 Rb8 Qd1 d5 Ng3 Na5 h4 Nc4 Rc3 h6 h5 Ne7 Ne2 Qe8 Nd2 Nxe3 fxe3 c5 Rxf8+ Qxf8 Nf3 Qf5 dxc5 Qxh5 Qc2 Nf5 Nfd4 Qh4 Nxf5 Qe1+ Kh2 exf5 Nf4 Rb1 Qxf5 Qg1+ Kh3 Qh1+ Kg3 Qe1+ Kh2 Qh1+ Kg3 Qe1+ Kg4 Qd1+ Kh3 Qh1+ Kg4 Qd1+ Kh3 Qh1+",
-    "duration": 180,
+    "moves": "c4 e5 g3 Nf6 Bg2 Bc5 d3 Nc6 Nc3 O-O a3 Re8 e3 a6 Qc2 d6 b4 Ba7 Bb2 Ne7 Nf3 Ng6 O-O c6 Ne4 Nxe4 dxe4 Qe7 a4 a5 bxa5 Bb8 Bc3 Bc7 c5 Bxa5 cxd6 Qxd6 Qb2 h6 Rfc1 Qc7 Bf1 Bxc3 Qxc3 Bg4 Nd2 Nf8 a5 Ne6 f3 Bh5 Kf2 f6 Nc4 Qe7 Nb6 Rab8 Qa3 Qxa3 Rxa3 Bf7 Ra2 Nc5 Rb2 Nb3 Rc3 Nxa5 Ra3 Nb3 Raxb3 Bxb3 Rxb3 Rbd8 Ke2 Kf7 Bh3 Ke7 Bf5 Kd6 Bg6 Re6 Rb1 Kc7 f4 Red6 Rb2 Re6 Bf5 Ree8 Kf3 h5 Bg6 Rh8 h4 Rh6 Bf5 g6 Bh3 Rh7 Na4 b5 Nc5 Rd1 f5 Rh6 Rc2 Kb6 Ke2 Ra1 Nd7+ Kc7 Nf8 Ra8 Ne6+ Kb6 Kf2 Rg8 Bf1 Rh7 Be2 Rhh8 Rc1 Rh6 Bd1 g5 hxg5 fxg5 g4 hxg4 Bxg4 Ra8 Kg3 Rg8 Rc2 Re8 Nc5 Rd8 Rc1 Rd2 Ne6 Rd3 Re1 Rd7 Nxg5 Rg7 Nf3 Re7 Nxe5 Rxe5 Kf4 Re8 e5 Rf8 f6 b4 Rf1 Rg6 Kf5 Rfg8 Bf3 Rg5+ Kf4 R5g6 Bh5 Rh6 f7 Rgh8 Bg4 Kc7 Kg5 R6h7 e6 Kd6 f8=Q+ Rxf8 Rxf8 Rg7+ Kf6 Rxg4 e7 Rg6+ Kxg6 Kc5 e8=Q Kc4 Qe4+ Kb3 Qd3+ Ka2 Rf2+ Ka1 Qf1#",
+    "duration": 1565,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1773403065.8247318
+  "updated": 1773405098.7933013
 }
