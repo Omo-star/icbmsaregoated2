@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "Bot1nokk",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 18,
-  "timestamp": "2026-03-13T11:40:23.768527",
+  "rating": 3036,
+  "opponent": "Viet-Test",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 442,
+  "timestamp": "2026-03-13T11:51:17.865256",
   "last_game": {
-    "result": "loss",
-    "opponent": "Bot1nokk",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "result": "draw",
+    "opponent": "Viet-Test",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 Kg4 a3 h5 Ra7 Rc1 Ne7 Kf4 Nc6 g6+ hxg6 hxg6+ Kxg6 Ke3 Na5 Nd1 Nb3 cxb3 Ra6 b4 Kf5 Kd2 d5 b5 Ke4 bxa6 d4 Rc8 a2 Nb2 Kf3 Kc2 d3+ Kxd3 Ke2+ Kxe2 a1=K a7 Kxb2 Rc1 Kxc1 Kd1 Kxd1 a8=Q Kc2 Qa7 Kc1 Qa6 Kb1 Qa1 Kxa1",
-    "duration": 45,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nc6 Qe2 Rc8 O-O-O Na5 Qe1 Be7 Kb1 Nc4 Bxc4 Rxc4 g4 O-O g5 Nh5 Nd5 Rc8 h4 f5 Qd2 Rf7 Rhg1 fxe4 fxe4 Bxd5 Qxd5 Qc7 c3 Qc4 Qxc4 Rxc4 Nd2 Rc8 a4 Rff8 Kc2 Kf7 a5 Ke6 Rg4 Rc6 Kd3 Bd8 Ra1 Kd7 Rgg1 Ke6 Kc2 Rc8 Rg4 Rc6 b4 b5 Kb3 Be7",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1773402023.7686124
+  "updated": 1773402677.8654191
 }
