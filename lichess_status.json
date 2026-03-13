@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3084,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-13T11:19:26.869461",
+  "rating": 3036,
+  "opponent": "ArasanX",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 595,
+  "timestamp": "2026-03-13T11:21:14.878744",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
-    "rating_before": 3084,
-    "rating_after": 3084,
+    "opponent": "ArasanX",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 d6 Nc3 Be7 d4 exd4 Nxd4 Nxd4 Qxd4 N@e5 Be3 Bf6 N@d5 Bg4 f4 @h3 Rg1 hxg2 fxe5 Bxe5 Rxg2 Bxd4 Bxd4 @e6 B@b5+ @c6 Rxg4 exd5 O-O-O Q@a1+ N@b1 dxc4 Bxc4 B@f6 B@e3 Bxd4 Bxd4 B@f6 B@e3 Bxd4 Bxd4",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Re1 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qa6 d4 Bb6 dxe5 dxe5 Nxe5 Qb5 Nf3 Bc4 Re1 Qxb2 e5 Nd5 Rc1 a3 Nd4 Bxd4 cxd4 Qxa2 Bxh6 gxh6 Nf5 Nf4 Qg4+ Ng6 Nxh6+ Kh7 Qh5 Nf4 Qf5+ Ng6 Ng4 Rh8 Qg5 Kg8 e6 Bxe6 Rxc6 Bxg4 Rxg6+ fxg6 Qxg6+ Kf8 Qf6+ Kg8 Qg5+ Kf8 Qf6+ Kg8 Qg6+ Kf8 Qf6+",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773400766.872579
+  "updated": 1773400874.8788927
 }
