@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "Reality_BOT",
+  "opponent": "pangubot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 153,
-  "timestamp": "2026-03-14T18:51:04.605365",
+  "time_left": 130,
+  "timestamp": "2026-03-14T18:53:28.846944",
   "last_game": {
     "result": "draw",
-    "opponent": "Reality_BOT",
+    "opponent": "pangubot",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 a6 Bg5 Nc6 Qd2 e6 O-O-O Nxd4 Qxd4 Be7 f4 O-O Be2 h6 h4 b5 Bf3 Rb8 e5 dxe5 Qxe5 Bd7 Ne4 Rc8 Kb1 Nxe4 Qxe4 Rc7 Qe1 Kh8 Qe2 f6 f5 Qc8 Bc1 Rc5 Bf4 Rc4 Bc1 Rc5 Bf4 Rc4 Bxh6 gxh6 Qd2 Be8 Qxh6+ Kg8 Rhe1 Qc5 Rxe6 Bf7 Re3 Bd6 Bd5 Bxd5 Qg6+ Kh8 Qh5+ Kg7 Qg6+ Kh8 Qh6+ Kg8 Rxd5 Qxd5 Qg6+ Kh8 Qh6+ Kg8 Qg6+ Kh8 Qh6+ Kg8",
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 g6 Nc3 Nc6 Be3 Bg7 Be2 Nf6 O-O O-O Nb3 Be6 f4 Rc8 Kh1 Na5 f5 Nc4 Bd4 Bd7 Bxc4 Rxc4 Qd3 Rc8 h3 a6 Rf2 b5 Re1 Bc6 Nd5 Bxd5 exd5 Qc7 Qf3 Rce8 g4 Qc4 Rd1 Nd7 Na5 Qxa2 Bxg7 Kxg7 Qc3+ Ne5 b3 b4 Qxb4 Rc8 Nc6 Qb2 Qe1 Nxc6 dxc6 Rfe8 Qd2 f6 Re1 Rxc6 g5 Rc5 fxg6 Rxg5",
     "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773514264.6054323
+  "updated": 1773514408.8470397
 }
