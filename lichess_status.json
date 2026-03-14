@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "RenegadeEngine",
+  "opponent": "TesT-KI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+2",
-  "time_left": 12,
-  "timestamp": "2026-03-14T10:19:55.807259",
+  "time_control": "TC: 3+0",
+  "time_left": 97,
+  "timestamp": "2026-03-14T15:22:03.688235",
   "last_game": {
     "result": "draw",
-    "opponent": "RenegadeEngine",
+    "opponent": "TesT-KI",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 a6 Nxc6 bxc6 Bd3 Qc7 Qe2 Bb7 O-O d5 Bg5 Bd6 f4 Ne7 e5 Bc5+ Kh1 Ng6 Na4 Ba7 Qg4 Bc8 Rac1 h6 Bh4 Nxh4 Qxh4 Qe7 Qh3 O-O c4 a5 c5 f6 g4 fxe5 fxe5 Bd7 g5 Rxf1+ Rxf1 Qxg5 Qf3 Qe7 Bb1 Be8 Qd3 g6 Qh3 Kg7 Qg4 Rb8 a3 h5 Qg2 Qh4 Qf3 Qe7 Qg2 Qh4 Qf3 Qg5 Nb6 Bxb6 Qf8+ Kh7 cxb6 Qxe5 Qe7+ Kh6 Qf8+ Kh7 Qe7+ Kh6 Qc5 Qxb2 Qe3+ Kh7 Qxe6 c5 Bf5 c4 Re1 gxf5 Rg1 Qd4 Qxf5+ Kh8 Qf8+ Kh7 Qg8+ Kh6 Qe6+ Kh7 Qg8+ Kh6 Qe6+ Kh7 Qe7+ Kh8 Qf8+ Kh7 Qf5+ Kh8 Qf8+",
-    "duration": 526,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Nh4 Rf7 Nf5 a5 Qg4 Kh8 h4 a4 h5 b5 Nd2 Nf8 Nf3 g6 Nh6 Rg7 Qg3 Qe8 Qh2 g5 Nf5 Rf7 Nh6 Rg7 d4 g4 dxc5 gxf3 g3 Ne6 Qh4 Nd4 Be3 Qf8 Rad1 Nxc2 Rd2 Nxe3 fxe3 Rd7 Rxf3 Rxd2 Rxf6 Rd1+ Kg2 Rd2+ Kf1 Rd1+ Kf2 Qg7 Nf7+ Kg8 Nh6+ Kh8 Nf7+ Kg8 Nh6+ Kh8",
+    "duration": 180,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773483595.8073592
+  "updated": 1773501723.6883543
 }
