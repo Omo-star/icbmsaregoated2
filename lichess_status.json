@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "PatriciaBot",
+  "opponent": "Reality_BOT",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 33,
-  "timestamp": "2026-03-14T20:04:21.062358",
+  "time_left": 153,
+  "timestamp": "2026-03-14T20:06:41.161176",
   "last_game": {
-    "result": "win",
-    "opponent": "PatriciaBot",
+    "result": "draw",
+    "opponent": "Reality_BOT",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 Nc3 Bxd4 Nd5 d6 Bg5 f6 Bh4 g5 Ne7+ Kh8 Bg3 Ng7 Rd1 Bxb2 Nxc8 Qxc8 Qa5 Be5 Bxe5 fxe5 Be2 b6 Qd5 Qe8 Qb7 Qd8 Qd5 Qe8 Qb7 Qd8 Qd5 Ne8 Rd3 Nf6 Qf7 e4 Rc3 c5 Ra3 d5 Ra6 d4 a4 Ng8 h4 d3 Bd1 Qf6 Qxf6+ Nxf6 a5 Nd5 axb6 Nxb6 hxg5 c4 Kh2 c3 Kg3 Nd5 Ra5 Nb4 Rc5 e3 fxe3 dxc2 Bxc2 Nxc2 Rxc3 Nb4 Ra3 a5 Ra4 Nd5 Kf3 Nb6 Ra3 a4 Ke4 Nc4 Ra1 a3 Kd3 Ne5+ Kd4 Ra5 Ra2 Kg7 Kc3 Kg6 e4 Nc6 Kb3 Kxg5 Kc4 h5 Kb3 Kf4 e5 Nxe5 Kc2 Nc6 Kb3 Ke3 Rxa3 Rxa3+ Kxa3 h4 Kb3 Kf2 Kc4 Kxg2 Kd5 h3 Ke6 h2 Kd6 h1=Q Kxc6 Kf3",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 a4 a5 Ne3 b6 Nf5 Qe8 Re1 Ba6 c3 g6 Nh6+ Kh8 d4 Bd6 Bd2 c5 dxe5 Nxe5 Nxe5 Qxe5 Ng4 Qh5 h3 f5 exf5 gxf5 Ne5 Qxd1 Raxd1 Kg8 Bf4 Rfe8 Re3 Re6 Rg3+ Kf8 Re3 Kg7 Rg3+ Kf8 Nd7+ Kf7 Rg5 Rd8 Rxf5+ Kg6 Rg5+ Kf7 Rf5+ Kg6 Rg5+ Kf7 Rf5+ Kg6",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1773518661.062423
+  "updated": 1773518801.1613314
 }
