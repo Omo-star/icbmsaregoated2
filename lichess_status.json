@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "GNU4u",
+  "opponent": "pangubot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 49,
-  "timestamp": "2026-03-14T15:57:43.493102",
+  "time_left": 115,
+  "timestamp": "2026-03-14T16:01:22.413991",
   "last_game": {
-    "result": "win",
-    "opponent": "GNU4u",
+    "result": "draw",
+    "opponent": "pangubot",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Rfe8 Bc3 f6 Qd1 Kh7 Kh2 Bxf2 Rxf2 Qxf2 d4 Bxc4 Rc2 Qe3 Bd2 Qd3 Rc3 Bb3 axb3 Qb5 Nf5 g6 N3h4 Rg8 Nxg6 Rxg6 Qh5 Qb8 Bxh6 Qe8 Bf8+ Kg8 Ne7+ Kxf8 Nxg6+ Kf7 Nxe5+ Ke6 Qg4+ Ke7 Nxc6+ Kf8 Rg3 Qf7 Qh4 Ke8 Qh8+ Nf8 Rg7 a3 Qh5 Ng6 Rxf7 Kxf7 Qh7+ Ke8 d5 Kf8 Qxg6 Re8 Qxf6+ Kg8 Nd4 Re5 Ne6 Rxe6 dxe6 Kh7 e7 a2 e8=Q a1=Q Qef7#",
+    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Qa5 Bf4 Nc6 h4 Qb6 Qc2 f6 exf6 Nxf6 O-O-O Bd7 Kb1 Be7 Ng5 Rf8 Bg3 cxd4 Nxd4 Nxd4 Rxd4 Bc5 Rd2 O-O-O Bd3 h6 Nf3 Bd6 Ne5 Kb8 Ng6 Rfe8 Ne5 Rf8 f3 Qc7 Nxd7+ Rxd7 Bf2 Bg3 Bg1 Rfd8 Rd1 Nh5 Qa4 Be5 Qb3 Rd6 g4 Nf4 Qc2 h5 Be3 Qf7 a3 Ka8 Rhg1 Nh3",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1773503863.4931676
+  "updated": 1773504082.414132
 }
