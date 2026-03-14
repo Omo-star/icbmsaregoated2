@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "KPYTA9_L9GYSHKA",
+  "opponent": "GroshBoss",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2026-03-14T16:48:42.088473",
+  "time_left": 160,
+  "timestamp": "2026-03-14T16:50:45.396420",
   "last_game": {
-    "result": "draw",
-    "opponent": "KPYTA9_L9GYSHKA",
+    "result": "win",
+    "opponent": "GroshBoss",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bd7 Nf5 Qe6 Ng7 Qe7 Nf5 Qe6 Ng7 Qe7 Nf5",
+    "moves": "c4 e5 g3 Nf6 Nc3 Bb4 Bg2 O-O Nf3 e4 Nd4 Nc6 Nxc6 dxc6 Nxe4 Nxe4 Bxe4 Re8 Qc2 Qd4 Bxh7+ Kf8 a3 Rxe2+ Kxe2 Bg4+ Kf1 Bh3+ Ke2 Re8+ Be4 Rxe4+ Kf3 Qf6+ Kxe4 Bc5 f4 Bg4 b4 Qd4#",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1773506922.0916502
+  "updated": 1773507045.3964834
 }
