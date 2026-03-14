@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "GNU4u",
+  "opponent": "Test-Q",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 53,
-  "timestamp": "2026-03-14T15:30:39.844207",
+  "time_left": 71,
+  "timestamp": "2026-03-14T15:35:17.133291",
   "last_game": {
-    "result": "win",
-    "opponent": "GNU4u",
+    "result": "draw",
+    "opponent": "Test-Q",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "d4 d5 c3 Nf6 h3 e6 Bf4 Bd6 e3 Bxf4 exf4 Qd6 g3 O-O Nf3 c5 dxc5 Qxc5 Nbd2 Nbd7 Bg2 Qb6 Qc2 Nc5 O-O Bd7 Ne5 Bc6 Rac1 a5 Ndf3 Bb5 Rfe1 Rac8 Nd4 Nfe4 Nxb5 Qxb5 c4 Qb4 Qe2 Rfe8 Red1 f6 cxd5 fxe5 Rc4 Nxg3 Qc2 Qb5 fxg3 exf4 d6 Red8 gxf4 b6 Be4 g6 Bxg6 Rd7 f5 hxg6 fxe6 Rg7 a4 Qc6 Qe2 Rb8 d7 Qc7 Rg4 Nxd7 exd7 Qc5+ Kh1 Qc6+ Qe4 Qxe4+ Rxe4 Rxd7 Rxd7 g5 Ree7 Rc8 Kh2 Kf8 Kg3 Rc4 Rh7 Kg8 Rdg7+ Kf8 Ra7 Kg8 Rhc7 Rxc7 Rxc7 Kf8 Kg4 Ke8 Kxg5 Kd8 Rg7",
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Be7 Bxf6 gxf6 f4 Nxd4 Qxd4 Bd7 Be2 Qa5 Bf3 Qc5 Qd2 b5 f5 b4 Ne2 e5 Kb1 h5 h4 Bf8 Ng3 Ke7 Qd5 Qxd5 Rxd5 Bc6 Ra5 Bh6 Re1 Bd2 Re2 Bh6 Nf1 Bb5 Re1 Rhg8 a3 bxa3 Rxa3 Rac8 Ne3 Bxe3 Raxe3 a5 b3 a4 Kb2 Bd7 Ra1 Rb8 Rc3 Rb4 Rd1 Rb7 Rdd3 Bb5 Rd1 Bd7 Rdd3 Bb5 Rd5 axb3 Rxb3 Rgb8 Kc1 Bc6 Rdd3 Rxb3 Rxb3 Ra8 Rc3 Kd7 Kb2 Ra4 Kb3 Ra8 Kb2 Ra4 Re3 Ke7 c3 Bb5 Bxh5 Bc4 Rg3 Ra2+ Kc1 Ra1+ Kc2 Ra2+ Kb1 Rf2 Bg4 Rf1+ Kc2 Rf2+ Kd1 Rf1+ Kc2 Rf2+ Kd1 Rf1+ Kd2 Rf2+ Kc1 Rf1+ Kd2 Rf2+ Kc1 Rf1+ Kb2 Rf2+ Kb1 Rf1+ Kb2 Rf2+ Kc1",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1773502239.8442955
+  "updated": 1773502517.1334088
 }
