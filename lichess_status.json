@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "Power_Stone",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 98,
-  "timestamp": "2026-03-14T17:41:52.413837",
+  "time_left": 156,
+  "timestamp": "2026-03-14T17:43:03.399470",
   "last_game": {
     "result": "draw",
-    "opponent": "Power_Stone",
+    "opponent": "CloudNetBot",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Nf5 c3 Re8 Nd2 Rxe1 Qxe1 g5 Bg3 h6 Qe2 d6 Qg4 Ng7 h3 h5 Qd1 Qd7 Nc4 Re8 a4 Bd8 a5 b5 Ne3 a6 c4 f5 cxb5 f4 bxa6 Ba8 Bxf4 gxf4 Nc2 f3 Ra3 fxg2 Bxg2 Bh4 d5 Qb5 b4 Qxa6 Qd4 Qe2 Qxh4 Qxc2 Rg3 Qb2 a6 Qa1+ Kh2 Qe5 b5 Rf8 Kg1 Qe1+ Kh2 Qxf2 Qg5 Rf7 Qd8+ Kh7 Qg5 Kg8 a7 Qe2 Qd8+ Kh7 Qxa8 h4 Rg4 Qe5+ Kg1 Qa1+ Kh2 Qe5+ Kh1 Qa1+ Kh2 Qe5+",
+    "moves": "c4 e5 g3 Nf6 a3 c5 Nf3 Nc6 Nc3 d5 cxd5 Nxd5 d3 Nc7 Bg2 Be7 Be3 Bd7 O-O O-O Ne4 b6 b4 cxb4 axb4 Bxb4 d4 exd4 Nxd4 Nd5 Bg5 Be7 Bxe7 Ndxe7 Nd6 a6 Qd3 Ra7 N6b5 Ra8 Nd6 Nxd4 Bxa8 Bh3 Qxd4 Qxa8 e4 Bxf1 Kxf1 Qa7 Nb5 Qa8 Nd6 Qa7 Nb5 Qb7 Nd6 Qa7",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773510112.414015
+  "updated": 1773510183.399606
 }
