@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "GroshBoss",
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 160,
-  "timestamp": "2026-03-14T16:50:45.396420",
+  "time_left": 132,
+  "timestamp": "2026-03-14T16:54:12.809777",
   "last_game": {
-    "result": "win",
-    "opponent": "GroshBoss",
+    "result": "draw",
+    "opponent": "RaspFish",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "c4 e5 g3 Nf6 Nc3 Bb4 Bg2 O-O Nf3 e4 Nd4 Nc6 Nxc6 dxc6 Nxe4 Nxe4 Bxe4 Re8 Qc2 Qd4 Bxh7+ Kf8 a3 Rxe2+ Kxe2 Bg4+ Kf1 Bh3+ Ke2 Re8+ Be4 Rxe4+ Kf3 Qf6+ Kxe4 Bc5 f4 Bg4 b4 Qd4#",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Nd4 Bxd4 Bxd4 Nxd4 exd4 Ne2 c5 g3 Rb8 bxc5 dxc5 Bg2 b5 O-O bxc4 e5 Nd7 e6 fxe6 Nf4 e5 Qh5+ Ke7 Rae1 Kd6 dxc4 g6 Qf3 Bb7 Nd5 Re8 Qf7 Re6 f4 e4 Nc3 Qe8 Nb5+ Kc6 Qxe6+ Qxe6 Rxe4 Qxe4 Bxe4+ Kb6 Bxb7 Kxb7 Re1 a6 Nd6+ Kc6 Re6 Nf8 Rf6 Rb1+",
     "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1773507045.3964834
+  "updated": 1773507252.8098843
 }
