@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "OxydanBot",
-  "variant": "Variant: Chess960",
+  "opponent": "OlisRalphBot",
+  "variant": "Variant: Standard",
   "time_control": "TC: 3+2",
-  "time_left": 236,
-  "timestamp": "2026-03-14T08:13:56.026909",
+  "time_left": 180,
+  "timestamp": "2026-03-14T08:14:27.978765",
   "last_game": {
-    "result": "win",
-    "opponent": "OxydanBot",
+    "result": "draw",
+    "opponent": "OlisRalphBot",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "d4 d5 e4 dxe4 Ng3 Nb6 Nxe4 Ng6 Qe2 e5 Nb3 Bb4+ Bd2 Bxd2+ Qxd2 Qe7 O-O-O O-O Nec5 Rd8 Kb1 Be6 Nxe6 Qxe6 g3 exd4 f4 Qf6 Qa5 Nf8 h4 Ne6 f5 Nf8 g4 Qxh4 g5 Nd5 Bc4 b5 Bd3 Ne3 Rde1 Qf4 Qxa7 Rb6 Rh1 g6 fxg6 hxg6 Re2 Kg7 Reh2 Nd5 Qa3 Qxg5 Qc5 Qe5 Re2 Qf6 Reh2 Ne6 Qa3 Ng5 Qa5 b4 Rh4 Re6 Bc4 d3 Bxd3 Qe7 a4 bxa3 Bc4 Re5 Bxd5 Rexd5 Qxa3 Rd1+ Rxd1 Rxd1+ Ka2 Qxa3+ bxa3 f5 Nc5 Rd6 Kb3 Ne6 Rc4 g5 Nxe6+ Rxe6 Rxc7+ Kg6 Rc8 f4 Kc4 Rf6 Rg8+ Kf5 Kd3 Kg4 Ke2 f3+ Kf2 Rc6 c4 Rxc4 Rxg5+ Kxg5 Kxf3 Ra4 Ke3 Rxa3+ Kd4 Kf5 Kc5 Ra4 Kd5 Re4 Kd6 Re5 Kd7 Re6 Kc7 Kf6 Kd7 Kf7 Kd8 Re7 Kc8 Ke8 Kb8 Kd8 Ka8 Kc7 Ka7 Re6 Ka8 Ra6#",
-    "duration": 464,
+    "moves": "",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "aborted"
   },
-  "updated": 1773476036.0269725
+  "updated": 1773476067.9788427
 }
