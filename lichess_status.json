@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "KPYTA9_L9GYSHKA",
+  "opponent": "GNU4u",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 142,
-  "timestamp": "2026-03-14T15:52:38.900214",
+  "time_left": 49,
+  "timestamp": "2026-03-14T15:57:43.493102",
   "last_game": {
-    "result": "draw",
-    "opponent": "KPYTA9_L9GYSHKA",
+    "result": "win",
+    "opponent": "GNU4u",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d6 h3 Na5 Bc2 c5 d4 exd4 cxd4 cxd4 Nxd4 Re8 b4 Nc4 Nc6 Qc7 Nxe7+ Qxe7 Nd2 d5 Nxc4 dxc4 e5 Qe6 Bd2 Nd5 Qh5 h6 Rad1 Bb7 Bf5 Qc6 Be4 c3 Bc1 g6 Bxd5 Qxd5 Rxd5 gxh5 Rd7 Bc6 Rd3 Kh7 Ree3 Rg8 f3 a5 e6 axb4 exf7 Rgd8 Rxd8 Rxd8 Rd3 Ra8 a3 b3 Rxc3 Bd5 Rc5 Bxf7 Rxb5 Rc8 Be3 Rc2 Rb7 Kg8",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Rfe8 Bc3 f6 Qd1 Kh7 Kh2 Bxf2 Rxf2 Qxf2 d4 Bxc4 Rc2 Qe3 Bd2 Qd3 Rc3 Bb3 axb3 Qb5 Nf5 g6 N3h4 Rg8 Nxg6 Rxg6 Qh5 Qb8 Bxh6 Qe8 Bf8+ Kg8 Ne7+ Kxf8 Nxg6+ Kf7 Nxe5+ Ke6 Qg4+ Ke7 Nxc6+ Kf8 Rg3 Qf7 Qh4 Ke8 Qh8+ Nf8 Rg7 a3 Qh5 Ng6 Rxf7 Kxf7 Qh7+ Ke8 d5 Kf8 Qxg6 Re8 Qxf6+ Kg8 Nd4 Re5 Ne6 Rxe6 dxe6 Kh7 e7 a2 e8=Q a1=Q Qef7#",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1773503558.9003656
+  "updated": 1773503863.4931676
 }
