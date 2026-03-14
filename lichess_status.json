@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "KPYTA9_L9GYSHKA",
+  "opponent": "NewChessEngine-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 125,
-  "timestamp": "2026-03-14T18:59:49.799801",
+  "time_left": 73,
+  "timestamp": "2026-03-14T19:02:41.045371",
   "last_game": {
     "result": "draw",
-    "opponent": "KPYTA9_L9GYSHKA",
+    "opponent": "NewChessEngine-ai",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Nb3 Nd6 Qe2 c6 Re1 b6 Nd2 Bg5 Bg3 Bh6 h4 Qd7 Bxd6 Qxd6 Nf3 g6 g3 Bd7 Ne5 Re8 Qd1 Bg7 Nxd7 Rxe1 Qxe1 Qxd7 h5 gxh5 Qe3 Qe6 Qg5 Qg6 Qd8+ Bf8 Be2 Qf5 a4 Kg7 b4 h6 Kg2 a5 bxa5 bxa5 Bf3 Ba3 Qxa5 h4 gxh4 Qg6+",
+    "moves": "d4 e6 e4 d5 Nc3 Nf6 e5 Nfd7 f4 c5 Nf3 Nc6 Be3 cxd4 Nxd4 Qb6 Qd2 Qxb2 Rb1 Qa3 Bb5 Nxd4 Bxd4 a6 Bxd7+ Bxd7 Rb3 Qe7 Rxb7 Rc8 O-O Qd8 f5 exf5 Rfb1 Qa5 Qg5 Be6 Ne2 h6 Qg3 g5 c3 f4 Qf3 Bc5 h4 Bxd4+ Nxd4 Rxc3 Qd1 Bc8 e6 Bxb7 exf7+ Kxf7 Rxb7+ Rc7 Qh5+ Kf8 Ne6+ Ke7 Rxc7+ Kd6 Rc1 Qd2 Rd1 Qe3+ Kf1 Qxe6 Re1 Qf6 Qe2 Rc8 Qxa6+ Rc6 Qa3+ Kd7 Qb3 Kd6 Qb4+ Kd7 Qb7+ Kd6 Qb8+ Kd7 Qb7+ Kd6 Qb8+ Kd7 Qa7+ Kd6 Kg1 gxh4 Qb8+ Kd7 Qe8+ Kd6 Qb8+ Kd7 Qg8 Kd6 Rd1 Qe5 Qb8+ Ke6 Qe8+ Kd6 Qb8+ Ke6 Qe8+ Kd6 Qd8+ Ke6 a4 h3 Qe8+ Kd6 Qd8+ Kc5 Qa5+ Kd6 Qd8+ Ke6 Qe8+ Kd6 Qd8+",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773514789.7998939
+  "updated": 1773514961.045604
 }
