@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "FDG-Bot_1718",
+  "opponent": "PatriciaBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 46,
-  "timestamp": "2026-03-14T20:21:41.863763",
+  "time_left": 69,
+  "timestamp": "2026-03-14T20:27:03.505712",
   "last_game": {
-    "result": "draw",
-    "opponent": "FDG-Bot_1718",
+    "result": "win",
+    "opponent": "PatriciaBot",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 O-O a5 h3 h6 Nbd2 Ba7 Bb5 O-O Re1 Ne7 d4 Ng6 Bd3 Re8 a4 Nf4 Bf1 Ng6 Qc2 Bd7 Nc4 exd4 cxd4 d5 exd5 Rxe1 Nxe1 Bxd4 Be3 Bxe3 Nxe3 c6 dxc6 Bxc6 Rd1 Qb6 Nd3 Ne4 Nc4 Qc7 Rc1 Bd5 Ne3 Qxc2 Rxc2 Bb3 Rc7 Bxa4 Rxb7 Nd6 Rc7 Be8 Nc5 a4 Nb7 Nxb7 Rxb7 Bc6 Rb6 Bd7 Bd3 Nf8 Nd5 Be6 Ne7+ Kh8 Ra6 Rxa6 Bxa6 Nd7 f3 g5 Kf2 Nb6 g4 Kg7 Ke3 Bc4 Bb7 Kf6 Ng8+ Kg7 Ne7 Be6 Ba6 Kf6 Ng8+ Ke5 Nxh6 Bc4 Bxc4 Nxc4+ Kd3 Nxb2+ Kc2 Nc4 Nxf7+ Kf6 Nxg5 Kxg5 Kc3 a3 Kb3 a2 Kxa2 Nd2 f4+ Kxf4 Kb2 Kg5 Kc2 Ne4 Kd3 Kf4 h4 Ke5 Ke3 Kd5 Kf4 Nf6 g5 Ng8 Kf5 Kd6 h5 Ke7 Kg6 Kf8 h6 Ne7+ Kf6 Ng8+ Kf5 Ne7+ Ke6 Nc8 g6 Kg8 g7 Na7 Kd5 Kh7 Kd6 Kg8 Ke7 Nc6+ Kf6 Kh7 Ke6 Kg8 Kf6 Kh7 Ke6 Kg8 h7+ Kxh7 g8=Q+ Kxg8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Bc5 c3 Nf6 d4 exd4 e5 Ng4 cxd4 Nxd4 Nxd4 Nxf2 Kxf2 Qh4+ Ke3 O-O g3 Qh3 b4 Ba7 Qf1 Qh5 Qf4 d6 exd6 Rd8 Bb2 Rxd6 Nd2 Rf6 Qh4 Qe5+ Ne4 Bf5 Rhf1 a5 Rae1 Rd8 Rd1 Rdd6 Qf4 Qe7 Qxf5 Rxf5 Rxf5 Re6 Bc2 Re5 Rxe5 Qxe5 Kf3 Kf8 Bb3 Qh5+ Kg2 Bxd4 Bxd4 b6 bxa5 Qxa5 Bf2 Qe5 Re1 Qa5 Re3 h6 Nc3 c5 Rf3 f6 h4 Qb4 h5 Qg4 Bd1 Qg5 a4 Kg8 Bb3+ Kf8 Nd5 Ke8 Nxb6 Kd8 Bc4 Qxh5 a5 Kc7 Nd5+ Kc6 a6 Qe8 Re3 Qd8 Re6+ Kd7 Nb6+ Kc7 a7 g5 a8=R Qxa8+ Nxa8+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "resign"
   },
-  "updated": 1773519701.8638318
+  "updated": 1773520023.50578
 }
