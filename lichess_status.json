@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "ArasanX",
+  "rating": 3082,
+  "opponent": "SF_Bot1nok",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 324,
-  "timestamp": "2026-03-14T09:02:44.194391",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 18,
+  "timestamp": "2026-03-14T09:10:48.256410",
   "last_game": {
-    "result": "loss",
-    "opponent": "ChessGPT_11",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "result": "draw",
+    "opponent": "SF_Bot1nok",
+    "rating_before": 3082,
+    "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kg2 Ra7 Rc2 Nf6 Kh2 Ra8 Re2 Ne4 Rc2 Ra5 Kg2 Ra7 Bd1 Ra5 Bf3 Ra7 Kh2 Rb7 Kh3 Ra7 Kg2 Nf6 Re2 Ra5 Kh2 Ra2 Kg1 Ra1+ Kg2 Ne4 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Ra1 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bf3 Ra2 Kh3 Ra5 Rc2 Ra2 Bg2 Ra1 Re2 Rb1 Kh2 Kg7 Bh3 Kf6 Kg2 Kg6 Rc2 Ra1 Kh2 Ra6 Re2 Ra2 Bf1 Ra1 Bg2 Ra5 Bf1 Ra2 Kg2 Kf6 Kh2 Kg6 Kg2 Kf6 f3 Nd6 Kg3 Nc8 Re8 Nb6 Re5 Rxb2 Bh3 Kg7 Rxf5 Kg6 Rg5+ Kh6 Rf5 Na4 Rxf7 Nxc3 Bf5 Ne2+ Kh3 Ng1+ Kg3 Ne2+ Kh3 Nxf4+ Kg3 Ne2+ Kh3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "noStart"
+    "termination": "draw"
   },
-  "updated": 1773478964.1946263
+  "updated": 1773479448.2565317
 }
