@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3082,
-  "opponent": "Bot1nokk",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 9,
-  "timestamp": "2026-03-14T07:52:38.236805",
+  "rating": 3035,
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 342,
+  "timestamp": "2026-03-14T08:04:15.408825",
   "last_game": {
     "result": "draw",
-    "opponent": "Bot1nokk",
-    "rating_before": 3082,
-    "rating_after": 3082,
+    "opponent": "YoBot_v2",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 Kg4 a3 h5 Ra7 Rg1 Ne7 Kf4 Nc6 g6+ hxg6 Rxg6 Kxg6 hxg6 a2 g7 Rb7 Kg5 Nd8 c4 a1=K c5 Kb2 Ng4 Kc3 Kg6 Rb6+ cxb6 d5 Nh6 Kc4 Kg5 d4 Kf6 d3 Ng4 Nc6 b7 d2 Nh6 Nb4 Nf7 d1=K b8=B Kd2 Ng5 Nd3 Bf4 Nxf4 Ne6 Nxe6 Kxe6 Kc1 g8=R Kb1 Rd8 Kb3 Kd5 K3a2 Kd4 Kba1 Rc8 Ka3 Rc7 K1a2 Rc5 Ka1 Kd3 K1a2 Rd5 Ka1 Rc5 K1a2 Rd5 Ka1 Kd2 K1a2 Rd7 Ka1 Rd8 K1a2 Kd3 Ka1 Rc8 K1a2 Kd4 Ka1 Rc6 K1a2 Rc5 Ka1 Ke3 K1a2 Ke4 Ka4 Rc6 Ka5 Rc8 Ka4 Kd4 K4a3 Rc7 Ka4 Rc8 K4a3 Kd5 Kb1 Rh8 Kbb2 Kd6 Kc2 Rh5 Kab3 Re5 Kd2 Rg5 Kbc3 Ke6 Ke2 Kf5 Ked2 Kf6 Ke3 Rg1 Ked4 Ke7 Kcd3 Ra1 Ke5 Rg1 Kee4 Rg6 Kf3 Rh6 Kc4 Rh5 Kc3 Kd6 Kg3 Ra5 Kf3 Ra1 Kc4 Ke7 Kd3 Rh1 Kg3 Ra1 Ke2 Ra8 Kf4 Re8 Kf1 Ra8",
-    "duration": 45,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Bg5 Ba7 Nbd2 h6 Be3 Bxe3 fxe3 Ne7 Nh4 c6 Qe1 O-O d4 b5 Bd3 Ng6 Nf5 a4 h3 Rb8 Qg3 Bxf5 Rxf5 c5 Raf1 a3 bxa3 c4 Bc2 Ra8 Nb1 Ra7 h4 h5 R1f3 Qe7 Rf1 Rb8 R1f3 Rd8 Rf1 Rc8 R5f3 Qe6 Rf5 Qe7 Qe1 Qb7 Rg5 Qd7 Qg3 Qe6 Rgf5 Re8 R1f2 Qe7 Rf1 Qe6 R1f2 Qe7 Rf1 Rb8 R1f3 Rd8 Rf1 Rb8",
+    "duration": 600,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773474758.2368715
+  "updated": 1773475455.4089258
 }
