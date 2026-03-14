@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "DDxrandom",
+  "rating": 2983,
+  "opponent": "Fil_16",
   "variant": "Variant: Standard",
-  "time_control": "TC: 12+16",
-  "time_left": 539,
-  "timestamp": "2026-03-13T23:44:37.640833",
+  "time_control": "TC: 5+3",
+  "time_left": 300,
+  "timestamp": "2026-03-14T06:21:09.351036",
   "last_game": {
-    "result": "win",
-    "opponent": "DDxrandom",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "result": "draw",
+    "opponent": "Fil_16",
+    "rating_before": 2983,
+    "rating_after": 2983,
     "rating_delta": 0,
-    "moves": "b3 e5 Bb2 Nc6 e3 d5 Bb5 Ne7 Bxe5 a6 Bxc6+ Nxc6 Bb2 Qg5 Nf3 Qxg2 Rg1 Qh3 Bxg7 Bxg7 Rxg7 Bg4 Ng1 Bxd1 Nxh3 Bxc2 Nc3 Bg6 Nxd5 Kf8 Rxg6 hxg6 Ndf4 Ne7 Ke2 f6 Rc1 g5 Rxc7 gxf4 Nxf4 Rb8 h3 Kf7 Nd5 Ke6 Nf4+ Kd6 Rc4 Nc6 Rc3 Ne5 d4 Nc6 Kd3 Rbc8 a3 Ne7 Rxc8 Rxc8 b4 Nd5 Ke4 Nxf4 Kxf4 Rh8",
-    "duration": 1776,
+    "moves": "",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "aborted"
   },
-  "updated": 1773445477.640982
+  "updated": 1773469269.351123
 }
