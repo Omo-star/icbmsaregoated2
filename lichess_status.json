@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 10+0",
   "time_left": 324,
-  "timestamp": "2026-03-14T09:02:42.782024",
+  "timestamp": "2026-03-14T09:02:44.194391",
   "last_game": {
-    "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "result": "loss",
+    "opponent": "ChessGPT_11",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 f6 Rg1 Nc5 g4 b5 Na5 Qd6 b4 Ne6 c3 g5 h4 h6 d4 exd4 cxd4 Nd8 Qc2 Qe6 Nd2 Bxb4 Nab3 a5 f3 Qf7 Nf1 a4 Nbd2 gxh4 Bxh6 Ne6 g5 f5 g6 Qd7 a3 Bxd2 Qxd2 Nxd4 Ne3 c5 Qa2+ c4 Qf2 fxe4 Ng4 Ra6 Rad1 c5 Bg5 Qc7 fxe4 Bb7 Bf6 Bxe4+ Rg2 Bxg2+ Kxg2 Nf5 Qxf5 Qg3+ Kf1 Qh3+ Kf2 Qg3+ Kf1 Qh3+ Kg1 Qg3+ Kf1",
-    "duration": 600,
+    "moves": "",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "noStart"
   },
-  "updated": 1773478962.782139
+  "updated": 1773478964.1946263
 }
