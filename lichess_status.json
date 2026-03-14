@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "ChessGPT_11",
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 124,
-  "timestamp": "2026-03-14T16:56:09.365896",
+  "time_left": 128,
+  "timestamp": "2026-03-14T16:58:20.297480",
   "last_game": {
     "result": "draw",
-    "opponent": "ChessGPT_11",
+    "opponent": "Classic_BOT-v2",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 c5 h3 Qc7 d4 e6 b3 Nf6 e3 cxd4 exd4 Be7 Bd3 b6 Qe2 Nc6 O-O O-O Re1 Bb7 Nbd2 Bd6 Ne5 Ne7 Bb2 a5 Rac1 Ng6 Nxg6 hxg6 Rc2 Nh5 Qd1 Rfc8 a4 Ba6 Nf3 Nf6 h4 Bxd3 Qxd3 Rab8 g3 Qb7 Ra1 Ne4 c4 Rc7 Rac1 Rbc8 Qe2 Bb4 cxd5 Rxc2 Rxc2 Rxc2 Qxc2 Qxd5 Ne5 Nd2 Bc1 Nf3+ Nxf3 Qxf3 Bf4 Bc3 Be3 Bb4",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Ba4 O-O Nc3 Nd4 O-O c6 Nxd4 exd4 Ne2 d5 exd5 Nxd5 Bb3 a5 a4 Qh4 h3 h6 Ng3 Ne3 fxe3 Qxg3 Rf3 Qg6 Qe1 Be6 Bxe6 fxe6 Rxf8+ Rxf8 exd4 Bxd4+ Be3 Be5 Rb1 Rf5 Kh1 Bg3 Qd2 Qf6 Bg1 Qe5 b3 h5 b4 Qf4 Be3 Qh4 Bg1 Qf4 Be3 Qh4 Bg1 Qf4",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773507369.3659987
+  "updated": 1773507500.29766
 }
