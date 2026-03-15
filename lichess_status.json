@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3079,
-  "opponent": "Viet-Test",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 23,
-  "timestamp": "2026-03-15T11:01:02.816222",
+  "opponent": "MDBOT",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+2",
+  "time_left": 21,
+  "timestamp": "2026-03-15T11:04:21.348997",
   "last_game": {
-    "result": "loss",
-    "opponent": "Viet-Test",
+    "result": "draw",
+    "opponent": "MDBOT",
     "rating_before": 3079,
     "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rc1 Ne7 Kf4 Nc6 g6+ hxg6 hxg6+ Kxg6 Ke3 Na5 Nd1 Nb3 cxb3 Ra6 b4 Kf5 Kd2 d5 b5 d4 bxa6 Ke4 Rc8 a2 Nb2 Kf3 Rc5 Kf2 Kc2 d3+ Kxd3 Ke1",
-    "duration": 45,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 Bb7 d4 Bf6 Re1 Re8 Na3 b4 cxb4 Nxb4 Be3 Nd5 Nc4 Nxe3 fxe3 a5 Rc1 Bd5 Nd2 c6 Nf3 g6 Bxd5 cxd5 Rc6 Kg7 Qc2 Be7 g3 a4 Kg2 Ra7 Re2 Bd6 Qd3 Qb8 b3 Rc8 Rxc8 Qxc8 Rf2 axb3 Qxb3 Qc6 Ng5 h6 Nf3 Kg8 Rb2 Ra3 Qb7 Qxb7 Rxb7 Rxe3 Ra7 Kg7 Rd7 Bb8 Rb7 Bd6 Rd7 Bb8 Rb7 Bd6 Rd7",
+    "duration": 200,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1773572462.8163095
+  "updated": 1773572661.3491187
 }
