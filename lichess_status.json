@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3082,
-  "opponent": "bot1e",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 11,
-  "timestamp": "2026-03-15T08:07:44.771715",
+  "opponent": "MDBOT",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1+1",
+  "time_left": 78,
+  "timestamp": "2026-03-15T08:08:37.422636",
   "last_game": {
-    "result": "loss",
-    "opponent": "bot1e",
+    "result": "draw",
+    "opponent": "MDBOT",
     "rating_before": 3082,
     "rating_after": 3082,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rc1 Ke7 h6 Kd6 Kf3 Ne7 Ke4 Ra8 Kd3 Ra7 Ke4 Ra8 Kd3 Ra7 g6 hxg6 h7 Ke6 Ke2 Ng8 hxg8=K Ke5 Nd1 Ra5 Kf8 Ra4 c3 Ra5 Kd3 Kf4 c4 Rg5 Rb1 d6 Rc1 Rb5 cxb5 Kg4 b6 g5 b7 d5 Ke7 Kg3 Ke2 d4 Nf2 Kxf2+ Kxf2 g4 Kf3 gxf3 b8=Q d3 Kd6 a2 Ke5 a1=K Rxa1 d2 Kd4 d1=K Rxd1 f2 Rd2 f1=K Rf2 Kxf2 Ke3 Kxe3 Qf4 Kxf4",
-    "duration": 45,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O Re1 Bb6 Nbd2 Ng4 Rf1 Kh8 h3 f5 exf5 Nxf2 Rxf2 d5 d4 exd4 Bb5 Bxf5 Bxc6 dxc3 bxc3 Bxf2+ Kxf2 Qd6 Qa4 Qc5+ Kg3 Qd6+ Kf2 Qc5+ Kg3 Qd6+ Kf2",
+    "duration": 103,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1773562064.7718062
+  "updated": 1773562117.422734
 }
