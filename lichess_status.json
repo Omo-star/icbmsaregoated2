@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "Cheszter",
+  "rating": 2989,
+  "opponent": "abcd_engine",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 22,
-  "timestamp": "2026-03-15T10:57:42.194167",
+  "time_control": "TC: 3+0",
+  "time_left": 150,
+  "timestamp": "2026-03-15T11:00:16.702111",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "opponent": "abcd_engine",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 cxd5 exd5 Bf4 c5 dxc5 Bxc5 e3 Nc6 Be2 Qb6 Nc3 Qxb2 Nb5 O-O Rb1 Qxa2 Ra1 Qb2 Rb1 Qa2 Ra1 Qb2 Rb1 Qa2",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 O-O h3 a5 Nbd2 h6 Re1 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Bb6 d4 exd4 Bxc6 bxc6 Nxd4 Rfe8 Kh1 Qa6 Bf4 c5 Ndf5 Bxf5 Nxf5 a3 b3 Nxe4 Rxe4 Rxe4 Qg4 g6 Nxh6+ Kg7 Nf5+ Kg8 Nh6+ Kg7 Nf5+ Kg8 Nh6+",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773572262.1942625
+  "updated": 1773572416.702206
 }
