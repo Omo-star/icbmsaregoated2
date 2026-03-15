@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "Fischer_Bot",
+  "rating": 3033,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 178,
-  "timestamp": "2026-03-15T12:19:35.821811",
+  "time_control": "TC: 10+0",
+  "time_left": 559,
+  "timestamp": "2026-03-15T12:27:45.507709",
   "last_game": {
-    "result": "win",
-    "opponent": "Fischer_Bot",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 3033,
+    "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 h4 Nxc3 bxc3 Bg7 h5 c5 Qa4+ Qd7 Qc4 b6 Ng5 e6 Qh4 Qe7 hxg6 hxg6 Qxh8+ Bxh8 Rxh8+ Kd7 d4",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 c6 Nf3 Ne7 h3 Bf5 Bf4 Ng6 Bg3 h5 a4 h4 Bh2 Qd7 a5 Rae8 a6 b6 Re1 Rxe1 Qxe1 Re8 Qd2 Qc8 Ng5 Qd7 Nf3 Be4 Ng5 Bf5 Nf3",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1773577175.8239567
+  "updated": 1773577665.5078168
 }
