@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "OlisRalphBot",
+  "rating": 3034,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-03-15T08:33:41.296183",
+  "time_control": "TC: 8+1",
+  "time_left": 171,
+  "timestamp": "2026-03-15T08:47:27.608502",
   "last_game": {
     "result": "draw",
-    "opponent": "OlisRalphBot",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "YoBot_v2",
+    "rating_before": 3034,
+    "rating_after": 3034,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 182,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Qc7 h3 Rd8 Qb4 Qe5 Qc3 Qxc3 Rxc3 Ne7 Rc7 Rd7 Rc2 Rd6 Nd4 Kf8 h4 Nc6 Nb5 Rd7 Kf1 Ke7 Ke1 Rd8 f4 Bd7 Rd2 Rc8 Nd6 Rc7 Nb5 Rc8 Nd6 Rc7 e4 f6 Nb5 Rc8 Nd6 Rc7 Rd3 a6 Nc4 e5 Rg3 Kf8 Nb6 exf4 Rc3 f5 Nxd7+ Rxd7 exf5 Ne5 Rb3 b5 Rb4 f3 gxf3 Kf7 Re4 Kf6 Kf2 Rd2 b3 Kxf5 Ke3 Ra2 a4 bxa4 Rf4+ Ke6 Rxa4 Rxa4 bxa4 a5 f4 Nc6 h5 Ne7 Ke4 Kf6",
+    "duration": 602,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1773563621.2962737
+  "updated": 1773564447.6086354
 }
