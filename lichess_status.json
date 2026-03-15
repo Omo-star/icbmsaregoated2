@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "Buletten-Karl",
+  "rating": 3034,
+  "opponent": "abcd_engine",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 133,
-  "timestamp": "2026-03-15T12:03:46.613635",
+  "time_control": "TC: 10+0",
+  "time_left": 340,
+  "timestamp": "2026-03-15T12:14:03.253033",
   "last_game": {
     "result": "draw",
-    "opponent": "Buletten-Karl",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "opponent": "abcd_engine",
+    "rating_before": 3034,
+    "rating_after": 3034,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 Be7 Bc2 d4 Nb3 dxc3 Nxc5 Bxc5 Be4 Qd7 Bg5 h6 Qc2 hxg5 Rad1 Nb4 Qxc3 Bxf2+ Kxf2 Nd5 Qc5 c6 Nxg5 Rh5 Nf3 Qa7 Rc1 Ne7 Rfd1 Qxc5+ Rxc5 Rc8 h4 f5 Bc2 Rd8 g3 Bxa2 b3 Rxd1 Bxd1 Rh6 Rc1 Nd5 Nd4 Nb4 Kf3 Kf7 Be2 Rh8 Kf4 Rd8 Nxc6 Nd3+ Bxd3 Rxd3 Na5 Bxb3 Rc7+ Kg6 Rc6+ Kf7 Nxb3 Rxb3 Rc7+ Ke6 Rc6+ Kf7 Rxa6 g6 Ra7+ Ke6 Ra6+",
-    "duration": 271,
+    "moves": "e4 e5 d3 Nc6 Be2 d5 Nd2 Nge7 c3 a5 Ngf3 g6 Rb1 Bg7 a4 O-O O-O d4 Nc4 Be6 Re1 h6 h3 Qd7 cxd4 exd4 b3 g5 h4 f6 hxg5 fxg5 g3 Rf7 Nh2 Raf8 Rf1 Bh3 Bh5 Bxf1 Bxf7+ Rxf7 Qxf1 g4 Bd2 Ng6 Nxa5 Nxa5 Bxa5 h5 Bd2 Ne5 Bf4 Ng6 Bg5 Ne5 Bf4 Ng6 Bg5 Ne5 Bf4",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773576226.6137347
+  "updated": 1773576843.253126
 }
