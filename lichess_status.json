@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "RaspFish",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 433,
-  "timestamp": "2026-03-15T13:02:17.570762",
+  "rating": 3079,
+  "opponent": "Viet-Test",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: \u00be+0",
+  "time_left": 13,
+  "timestamp": "2026-03-15T13:03:09.324440",
   "last_game": {
-    "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "result": "loss",
+    "opponent": "Viet-Test",
+    "rating_before": 3079,
+    "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 c5 Ne3 Nb8 h5 Be6 b3 Nc6 Nh4 Qd7 Bc3 Rad8 Nef5 Bxf5 Nxf5 g6 Ne3 Nd4 Ng4 Qe6 Re1 Bg7 Re3 f5 Nh2 f4 Rh3 g5 h6 Bf6 Rc1 Kf7 Qh5+ Ke7 Bxd4 cxd4 Qg4 Rd6 c4 Ra6 a4 Rb6 Qxe6+ Kxe6 Rb1 a5 Ng4 Rf8 Kf1 Kd6 Rh5 Kc5 Nxf6 Rbxf6 Rxg5 Kb4 Ke2 Rxh6 Rxe5 c5 Kf3 Rc8 Rc1 Kxb3 Re7 Kb2 Re1 b6 e5 Kc3 Ke4 f3 gxf3",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ke7 h6 Kd6 Rc1 Ra7 Kf3 a2 Nd1 Ne7 Ke2 Ke6 g6 hxg6 Nc3 Rb7 Nxa2 Rb3 cxb3 Kf7 h7 Ke8 Rc6 dxc6 b4 c5 bxc5 Nc8 c6 g5 c7 Kf7 Nb4 Kf6 Nc6 Na7 Nxa7 Kf5 Nb5 g4 Nd4+ Kg5 Nf5 Kxf5 c8=R g3 h8=R g2 Rc2 Ke5 Rh3 g1=K",
+    "duration": 45,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773579737.5709786
+  "updated": 1773579789.3245358
 }
