@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "gekkammi-bot",
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 23,
-  "timestamp": "2026-03-16T07:38:55.061136",
+  "time_control": "TC: 3+0",
+  "time_left": 131,
+  "timestamp": "2026-03-16T07:40:33.529485",
   "last_game": {
-    "result": "win",
-    "opponent": "gekkammi-bot",
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "c4 e6 Nf3 d5 e3 Nf6 Nc3 Bd6 d4 c5 cxd5 exd5 dxc5 Bxc5 h3 O-O Bd3 Nc6 O-O Re8 b3 a6 Bb2 Bd6 Rc1 Be6 Bb1 Rc8 Qc2 Ne5 Nd4 Bd7 Rfd1 g6 Qd2 Bb4 a3 Ne4 Bxe4 Bxc3 Rxc3 dxe4 Rxc8 Bxc8 Ba1 Qg5 Kh2 Nd3 f4 Qe7 b4 f6 a4 Nxb4 Rb1 Nd3 Rb6 Qf7 Qc3 Rf8 Ne2 Be6 Qd4 Kg7 Ng3 Bd5 Rd6 Ne1 Rxd5 Nc2 Qd2 Kg8 Rd7 Qe6 Rd6 Qb3 Bc3 f5 Rd7 Rf7 Rd8+ Rf8 Rxf8+ Kxf8 Qd8+ Kf7 Qd7+ Kf8 Bg7+ Kg8 Bh6 Qf7 Qd8+ Qf8 Qxf8#",
-    "duration": 275,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 b3 h5 Qe1 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 Kh1 Bd7 Nb5 Rhe8 Bxf6 Qxf6 Qxa5 Bxb5 axb5 Bd4 e5 dxe5 c5 Bxc5 Qa8+ Kd7 Qxb7 Re6 Rfd1+ Bd4 Ra6 Ke8 Qxc7 Red6 Be4 Kf8 Rxd6 Qxd6 Qc6 Kg7 Rd3 Qe6 Qxe6 fxe6 Rd2 Bb6 Rxd8 Bxd8 Kg2 Kf6 Kf3 Bb6 Bh7 Bc5 Bd3 Bb6 Kg4 Bxf2 Be4 Ba7 Bh7 Bc5 Kf3",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1773646735.0612009
+  "updated": 1773646833.5296164
 }
