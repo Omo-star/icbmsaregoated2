@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3079,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 51,
-  "timestamp": "2026-03-16T09:50:53.733094",
+  "opponent": "FairyTailRegimeBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 1.5+0",
+  "time_left": 82,
+  "timestamp": "2026-03-16T09:51:26.836329",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
+    "opponent": "FairyTailRegimeBot",
     "rating_before": 3079,
     "rating_after": 3079,
     "rating_delta": 0,
-    "moves": "c4 f5 d4 Nb6 b3 O-O-O h4 e5 e3 Bh5+ f3 f4 d5 Bc5 Bf2 e4 exf4 exf3 g3 Qf8 Nc2 Na6 O-O-O Re8 Bh3 Re2 Bxc5 Nxc5 Nc3 f2 Qf1 Rxc2+ Kxc2 Bg6+ Kd2 Ne4+ Nxe4 Bxe4 Qxf2 Qb4+ Ke2 Bxh1 Rxh1 Nxd5 Bxd7+ Kb8 Be6 Re8 f5 Nf6 Qd4 a6 Kf3 Qe7 Rd1 g6 Kg2 gxf5 Bxf5 Qe2+ Kh3 Ne4 Bxe4 Rxe4 Qd8+ Ka7 Qd7 h5 Qf5 Rxc4 Rd2 Qxd2 bxc4 Qd1 Kg2 b6 g4 Qe2+ Kg3 Qe3+ Qf3 Qg1+ Kf4 hxg4 Qxg4 Qd4+ Kg3 Qg1+ Kf4 Qd4+ Kg3 Qg1+ Kf3 Qd1+ Kf4 Qd2+ Kg3 Qe1+ Kf4 Qd2+ Kg3 Qxa2 h5 Qa3+ Qf3 Qe7 Qc6 Qg5+ Kf2 Qf4+ Ke1 a5 c5 Qe5+ Kd2 b5 Qxb5 Qxh5 Qxa5+ Kb8 Qb4+ Ka7 Qa4+ Kb7 c6+ Kb6 Qb3+ Kxc6 Qb8 Kd7 Qg8 Ke7 Qc8 Kf7 Qd8 Kg7 Qc8 Kh7 Qf8 Kg6 Qg8+ Kh6 Qh8+ Kg6 Qg8+ Kh6 Qh8+ Kg6 Qg8+ Kh6",
-    "duration": 300,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Kg2 Kg6 Rc2 Re1 Kh2 Kf6 Bg2 Kg7 Bf3 Kg6 Re2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg7 Bf3 Kg6 Bg2 Kg7 Bf3 Kg6 Bg2 Nf6 Bf3 Kg7 Kg3 Ne4+ Kg2 Kg6 Kh3 Rf1 Bg2 Rb1 Kh2 Kg7",
+    "duration": 90,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773654653.7331595
+  "updated": 1773654686.836443
 }
