@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2992,
-  "opponent": "SOLIDOR59",
-  "variant": "Variant: Standard",
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
   "time_control": "TC: 3+2",
-  "time_left": 71,
-  "timestamp": "2026-03-16T09:57:05.040122",
+  "time_left": 218,
+  "timestamp": "2026-03-16T10:03:36.308541",
   "last_game": {
     "result": "draw",
-    "opponent": "SOLIDOR59",
+    "opponent": "PetersBot",
     "rating_before": 2992,
     "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "Na3 e5 Nc4 Nc6 e4 Nf6 d3 d5 exd5 Nxd5 c3 Nb6 Nxb6 axb6 Nf3 Be6 Be2 Bd6 O-O O-O Re1 Qe7 a3 Rad8 Qc2 h6 b4 Rfe8 Bb2 Bf5 Nd2 Qe6 Ne4 Bg6 h3 f6 Rad1 Bf8 Ng3 Ne7 c4 Qf7 Qc1 c5 b5 Nf5 Nxf5 Bxf5 Qe3 Rd6 Bg4 Bg6 Bf3 e4 dxe4 Qxc4 Rxd6 Bxd6 Rd1 Bf8 Qe2 Qxe2 Bxe2 Bxe4 Bc4+ Kh8 Bc3 Ra8 Bb2 Re8 Bc3 Rb8 f3 Bh7 Kf2 h5 g4 Bg8 Bxg8 Kxg8 Rd7 Ra8 Ke2 Rxa3 Kd3 Ra2 Rxb7 Rf2 Ke3 Rc2 Kd3 Rf2 Ke3 Rc2 Kd3 Rf2",
-    "duration": 372,
-    "bot_color": "black",
+    "moves": "e4 g5 g4 b6 Nd3 Nd6 f3 e5 b3 h5 h4 f6 O-O-O O-O-O hxg5 fxg5 gxh5 Qxh5 Ne2 Nf7 Ng3 Qg6 Bg2 Kb8 Bh3 Ne7 Bb2 Nc6 Bf5 Qf6 Ba3 d6 Nf2 Qe7 Ng4 Bg7 Kb1 Rh8 Ne3 Nh6 Bg4 Nd4 Bb2 Bb7 d3 Rdf8 Nh5 Bf6 Rd2 Qf7 Nxf6 Qxf6 Rg2 Nf7 Qd2 a5 a4 Ne6 Bxe6 Qxe6 Bc1 Rh3 Kb2 Rg8 Qd1 Rgh8 Qe1 Rg8 Rff2 Qe8 Nd1 Qe7 Ne3 Qd8 Ng4 Qe7 b4 d5 bxa5 Rg6 a6 Bc6 Rh2 Rxh2 Rxh2 d4 Rh7 Bxa4 Rxf7 Qxf7 Nxe5 Qe8 Nxg6 Qb5+ Ka3 Qb1 Kxa4 Qxc2+ Ka3 Qxd3+ Kb2 Qb5+ Ka2 Qc4+ Ka1 Qxa6+ Kb1 Qd3+ Ka2 Qc4+ Ka1 Qa6+ Kb1 Qd3+ Kb2 Qb5+ Ka2 Qc4+ Ka3 Qa6+ Kb3 Qd3+ Kb2 Qb5+ Ka3 Qa6+ Kb3 Qd3+ Kb2",
+    "duration": 438,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773655025.0402293
+  "updated": 1773655416.308691
 }
