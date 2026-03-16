@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3030,
-  "opponent": "DarkOnBot",
+  "rating": 3071,
+  "opponent": "Jibbby",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 396,
-  "timestamp": "2026-03-16T11:44:22.795255",
+  "time_control": "TC: 1+1",
+  "time_left": 45,
+  "timestamp": "2026-03-16T11:46:22.675512",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3030,
-    "rating_after": 3030,
+    "result": "win",
+    "opponent": "Jibbby",
+    "rating_before": 3071,
+    "rating_after": 3071,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 a6 Qd2 e6 O-O-O Nxd4 Qxd4 Be7 f4 O-O Be2 h6 h4 b5 Bf3 Rb8 e5 dxe5 Qxe5 Bd7 Kb1 Rc8 Ne4 Nxe4 Qxe4 Rc7 Qe1 Kh8 Qe2 f6 f5 Qc8 Bc1 Rc5 Bf4 Rc4 Bc1 Bc5 Rxd7 Qxd7 fxe6 Qc7 b3 Rd4 Bb2 Rd6 Bh5 Qe7 Re1 Bb4 c3 Bc5 Bg6 f5 Bc1 Rf6 Bf7 Rxf7 exf7 Qxf7 Qe5 Rd5 Qe8+ Qxe8 Rxe8+ Kh7 Kc2 Kg6 Re6+ Kh5 Rxa6 Re5 a4 bxa4 bxa4 Bg1 Rd6 Kxh4 Rg6 Re7",
-    "duration": 600,
+    "moves": "Nc3 d5 d4 Nf6 a4 a6 Nf3 Bf5 Rg1 e6 Ne5 c5 g4 Bg6 Nxg6 hxg6 Bf4 cxd4 Qxd4 Nc6 Qd2 Bb4 g5 Ne4 Qd3 Qb6 Qf3 Nd4 Qd3 Bxc3+ bxc3 Nxc2+ Qxc2 Qxf2+ Kd1 Qxg1 Bd2 Qxf1+ Be1 Rxh2 Kc1 Rxe2 Kb2 Rxc2+ Kxc2 Qe2+ Kb3 Nc5+ Ka3 Qc2 Kb4 b6 Bh4 Qb3#",
+    "duration": 114,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1773661462.795453
+  "updated": 1773661582.675578
 }
