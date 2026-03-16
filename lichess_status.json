@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2992,
-  "opponent": "RaspFish",
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 139,
-  "timestamp": "2026-03-16T08:17:32.216068",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-16T08:18:04.601670",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
+    "opponent": "OlisRalphBot",
     "rating_before": 2992,
     "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 Bd3 d5 O-O Nc6 c4 Nb4 Be2 O-O Nc3 Bf5 a3 Nxc3 bxc3 Nc6 Re1 Re8 cxd5 Qxd5 Bf4 Rac8 Bd3 Qd7 Rb1 b6 d5 Bxd3 Qxd3 Bxa3 Ng5 g6 Ne4 Qf5 Bxc7 Rxc7 Nf6+ Qxf6 Rxe8+ Kg7 dxc6 Bc5 Rb2 h5 Ra8 a5 Kf1 Rxc6 Qd8 Qxd8 Rxd8 Ba3 Rb3 Be7 Ra8 Bc5 Rb1 Rd6 Re8 Rd2 Re2 Rd3 Rc2 h4 Ke2 Rd5 Rf1 a4 Rd2 Rg5 g3 Re5+ Kd3 a3 Re2 Rf5 f3 hxg3 hxg3 Rh5 Re4 Rd5+ Kc2",
-    "duration": 180,
+    "moves": "e4",
+    "duration": 182,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1773649052.2161767
+  "updated": 1773649084.601769
 }
