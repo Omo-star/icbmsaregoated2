@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "OlisRalphBot",
+  "rating": 3031,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-03-16T08:18:04.601670",
+  "time_control": "TC: 10+0",
+  "time_left": 281,
+  "timestamp": "2026-03-16T08:25:40.558953",
   "last_game": {
     "result": "draw",
-    "opponent": "OlisRalphBot",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "opponent": "Bot1nokk",
+    "rating_before": 3031,
+    "rating_after": 3031,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 182,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Qa4 Rde7 Nh4 Bc7 Qxa7 Qxa7 Rxa7 Bxf4 Rxe7 Rxe7 gxf4 Rb7 Re2 Kg7 Nxf5+ gxf5 h4 Kf6 Bf3 Kg6 Kh2 Ra7 Kg2 Ra1 Rc2 Ra2 Re2 Ra8 Kh2 Ra1 Kh3 Rb1 Bg2 Kf6 Kh2 Kg6 Bh3 Kf6 Bg2 Kg6 Bh3 Kf6 Rc2 Ke6 Bg2 Kf6 Bh1 Rf1 Bf3 Kg6 Kg2 Rb1 Re2 Rc1 Kh3 Ra1 Bg2 Rb1 Bf3 Ra1 Bg2 Rb1 Kh2 Kg7 Kh3 Kh6 f3 Nf6 Kh2 Rd1 Bh3 Rd3 Rf2 Kg6 Bf1 Rd1 Rg2+ Kh7 Rf2 Kg6 Bh3 Re1 Rg2+ Ng4+ fxg4 hxg4 Bxg4 fxg4 Rxg4+ Kf5 Rg5+ Kxf4 Rxd5 Re2+ Kh3 Re3+ Kg2 Re2+ Kh3 Re3+ Kh2 Re2+ Kg1 Rxb2 h5 Rb1+ Kg2 Rb2+ Kg1 Rb1+ Kg2 Rb2+ Kh3",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1773649084.601769
+  "updated": 1773649540.559109
 }
