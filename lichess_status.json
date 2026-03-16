@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "rascal1",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 5+4",
-  "time_left": 354,
-  "timestamp": "2026-03-16T13:15:37.206742",
+  "rating": 3070,
+  "opponent": "abcd_engine",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-03-16T13:18:29.662996",
   "last_game": {
     "result": "win",
-    "opponent": "rascal1",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "opponent": "abcd_engine",
+    "rating_before": 3070,
+    "rating_after": 3070,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Na5 Nxf7 Kxf7 @e6+ Ke8 b3 Bd6 Nc3 Nxc4 bxc4 N@f4 O-O Nxg2 Kxg2 e4 f3 @h3+ Kg1 Bxe6 dxe6 @g2 Rf2 B@h4 @g3 Bhxg3 B@f7+ Kf8 hxg3 Bxg3 Rxg2 hxg2 Ba3+ @e7 Kxg2 R@f2+ Kxg3 Rxf3+ Kg2 @h3+ Kg1 Qd4+",
-    "duration": 500,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 d6 c3 O-O h3 Na5 Bc2 c5 d4 Qc7 d5 Nd7 b3 Nb6 Nbd2 Bd7 Nf1 Nb7 Ng3 c4 b4 a5 a3 axb4 cxb4 Rfc8 Nf5 Bxf5 exf5 f6 Ra2 Nd8 Be4 Nf7 Nh2 Qd7 h4 Kh8 g4 Nh6 Re3 Bd8 Rg3 Ng8 g5 Qe8 Rc2 Ra7 Qg4 Rcc7 Nf3 Rd7 Rh3 Na4 g6 h6 Ng5 Bb6 Rd2 Qf8 Bc2 fxg5 hxg5 Bd8 Rd1 Nb6 f6 Bxf6 Bf5 Bxg5 Bxg5 Qe8 Bxd7 Nxd7 Qe6 Qb8 Kh2 Nf8 Qf5 Rc7 a4 bxa4 b5 Qc8 Qxc8 Rxc8 Rb1 Rb8 b6 Nd7 b7 Nc5 Bc1 Nb3 Rc3 Rxb7 Rxc4 Ra7 Rc6 Ra8 Rxd6 Rf8 Kg1 Nf6 Ba3 Rg8 Rb2 Nd4 Rb7 Nf3+ Kh1 Ng5 Ra7 h5 Rda6 Nxd5 Ra5 Nf4 Rxe5 Ngh3 Bc5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1773666937.2068372
+  "updated": 1773667109.6631866
 }
