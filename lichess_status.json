@@ -5,18 +5,18 @@
   "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Antichess",
   "time_control": "TC: 1+0",
-  "time_left": 40,
-  "timestamp": "2026-03-17T16:57:21.400426",
+  "time_left": 58,
+  "timestamp": "2026-03-17T16:57:39.783306",
   "last_game": {
     "result": "win",
     "opponent": "GoblinAjedrezAI",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e3 b6 a4 e6 Ra3 Bxa3 Nxa3 b5 Bxb5 Qg5 Bxd7+ Qxg2 Bxe6 Bxe6 h3 Bxh3 Rxh3 Qxf2+ Kxf2 h5 Rxh5 Rxh5 Qxh5 f5 Qxe8 f4 exf4 c5 Qxb8 Rxb8 d4 Rxb2 dxc5 Rxc2+ Nxc2 a5 Nf3 Nf6 Ke2 g5 fxg5 Ne8 Nb4 axb4 Ba3 bxa3 a5 a2 a6 Ng7 a7 Ne8 Nd4 a1=K g6 Ng7 Nf5",
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8",
     "duration": 60,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1773766641.4005282
+  "updated": 1773766659.783393
 }
