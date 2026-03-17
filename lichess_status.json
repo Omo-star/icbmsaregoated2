@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3020,
-  "opponent": "ISARFish",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 10+10",
-  "time_left": 902,
-  "timestamp": "2026-03-17T12:32:53.149513",
+  "opponent": "abcd_engine",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 195,
+  "timestamp": "2026-03-17T12:48:17.864731",
   "last_game": {
     "result": "draw",
-    "opponent": "ISARFish",
+    "opponent": "abcd_engine",
     "rating_before": 3020,
     "rating_after": 3020,
     "rating_delta": 0,
-    "moves": "f4 f5 h3 g6 d4 d5 Nf3 Nf6 a4 Ne4 e3 c5 g4 cxd4 Nxd4 Nc6 Bc3 Nxc3 Nxc3 Nxd4 exd4 e6 g5 Qb6 Ne2 a5 Qd2 Bg7 Rf3 Ra6 Bg2 Qa7 Kb1 Rc6 c3 Rc4 b3 Rc7 Nc1 Bd7 Bf1 Qb6 Ka2 O-O Nd3 Rb8 Rc1 Qd6 Ne5 Bxe5 dxe5 Qc5 Qf2 Qxf2+ Rxf2 b5 Bxb5 Bxb5 axb5 Rxb5 h4 Kf8 Ka3 Ke8 Rh2 Rcb7 Rb1 Rc5 Rc1 Rcb5 Rb1 Rc5 Rc1 Rcb5 Rb1",
-    "duration": 1350,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 c6 Nf3 e6 Bf4 d5 e3 Be7 Nc3 Nbd7 Bd3 Nh5 Be5 dxc4 Bxc4 Nhf6 Bg3 b5 Bd3 O-O O-O Bb7 Ne5 a6 a4 c5 Nxd7 Qxd7 axb5 cxd4 bxa6 Bxa6 Bxa6 dxc3 Qxd7 Nxd7 bxc3 Nc5 Be2 Ne4 Be5 Rac8 Rfc1 Bf6 Bxf6 gxf6 c4 Rc7 f3 Nc5 Ra3 Kg7 Rca1 Rcc8 Ra7 f5 Kf2 Kf6 Kg3 Rg8+ Kh3 h5 R1a5 Nb3 Ra3 Nc5 R7a5 Rc7 g3 Rb8 Rb5 Rd8 Rba5 Rb8 Kh4 Rb1 f4 Ne4 Bxh5 Rh1 Ra2 Rc1 h3 R1xc4 Bf3 Rc8 Ra7 Kg7 R2a6 Nd2 Bh5 R4c7 Ra4 Ne4 g4 Nf6 gxf5 exf5 Rxc7 Rxc7 Ra3 Rc1 Ra5 Rc3 Re5 Nxh5 Kxh5 Kf6",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773750773.149673
+  "updated": 1773751697.8648448
 }
