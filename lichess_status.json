@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "Yaroslav1411",
+  "opponent": "OlympusCz",
   "variant": "Variant: Antichess",
   "time_control": "TC: 1+0",
-  "time_left": 53,
-  "timestamp": "2026-03-17T13:53:49.125521",
+  "time_left": 60,
+  "timestamp": "2026-03-17T13:54:28.664266",
   "last_game": {
     "result": "win",
-    "opponent": "Yaroslav1411",
+    "opponent": "OlympusCz",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e3 e6 Bb5 Qg5 Bxd7+ Qxg2 Bxc8 Qxh2 Bxb7 Qxg1+ Rxh7 Rxh7+ Bxa8 Qxf2+ Kxf2 Nc6 Bxc6+ e5",
+    "moves": "e3",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1773755629.125605
+  "updated": 1773755668.664351
 }
