@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "Morbex",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 48,
-  "timestamp": "2026-03-17T16:26:36.177862",
+  "rating": 3083,
+  "opponent": "GoblinAjedrezAI",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: 1+0",
+  "time_left": 24,
+  "timestamp": "2026-03-17T16:39:21.985284",
   "last_game": {
     "result": "draw",
-    "opponent": "Morbex",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qd1 a5 a4 Bg5 Be5 h6 h3 Bxd2 Qxd2 Nc4 Qf4 Qd7 Bxc4 dxc4 Qg3 Bg6 Bb8 b5 axb5 cxb5 Qc7 Qxc7 Bxc7 b4 Bd6 bxc3 bxc3 f6 Ra1 a4 Ba3 Bf7 f3 Rb8 Bb4 Ra8 Ba3 Rb8 Be7 Ra8 Ra2 Bd5 Ba3 Rb8 Bb4 Bc6 Rd2 Bd5 Ra2 Bc6 Re2 Re8 Rxe8+ Bxe8 d5 f5 f4 g5 Kf2 gxf4 Kf3 Kg7 Kxf4 Kf6 g3 Bf7 d6 Be8 Ba3 Bd7 Bb4 Be8 Ba3 Bb5 h4 Be8 Bc5 Bd7 Bb4 h5 Ba3 Be8 Bc5 Bd7 Bd4+ Kg6 Bc5 Kf6 Bd4+ Kf7 Bc5 Kf6",
-    "duration": 428,
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra4 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Rh1 Ne7 c4 Ra8 c5 Kf7 Ke4 Nc8 Kf5 Ke6+ Kxe6 dxe6 Rf1 e5 Nf2 a5 Ne4 a4 c6 Nb6 c7 Ra6 g4 Nd7 Rf6 Nxf6 Nxf6 Rxf6 g5 Rf8 h4 h6 gxh6 a3 h5 a2 h7 Rf1 h6 e4 h8=B Ra1 Bxa1 e3 c8=Q e2 Qf8 e1=K Qf2 Kxf2 h7 Kg1 Bb2 a1=K Bxa1 Kg2 Bf6 Kh2 h8=B Kg1 Bg5 Kf1 Bc1 Kg1 Bd2 Kf1 Bf4 Kg1 Bd2 Kf1 Bh6 Kg1 Bc1 Kf1 Bf4 Kg1 Bc1 Kf1 Bf6 Kg1 Bcb2 Kf1 Ba1 Ke1 Be7 Kd1 Bh8 Ke1 Ba3 Kf1 Bc1 Kg1 Bg5 Kf1 Bc1",
+    "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773764796.1779845
+  "updated": 1773765561.9853737
 }
