@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3024,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2989,
+  "opponent": "OxydanBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 386,
-  "timestamp": "2026-03-17T08:09:26.347088",
+  "time_control": "TC: 5+0",
+  "time_left": 140,
+  "timestamp": "2026-03-17T08:17:10.608105",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3024,
-    "rating_after": 3024,
+    "result": "win",
+    "opponent": "OxydanBot",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a6 a4 O-O Nbd2 Be6 b4 Ba7 Bxe6 fxe6 Ra2 Qe8 Re1 Ne7 h3 h6 Nf1 Ng6 Ng3 Rd8 a5 Qf7 Rb2 c6 c4 Qe7 b5 Bc5 Be3 Nd7 Rf1 Ra8 bxa6 bxa6 Kh2 Bxe3 fxe3 c5 Qa4 Ra7 Rfb1 Rc7 Nh5 Qd8 Qd1 Ra7 Qd2 Rf7 Qe1 Ra8 Rb7 Ngf8 Ng3 Rc8 Ra7 Ra8 Rab7 Ng6 Nh5 Ngf8 Ng3",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 a6 c4 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Nf5 d6 Ne3 g6 Ned5 Bg7 Bg5 h6 Be3 Nxd5 Nxd5 Nd4 Bd3 O-O O-O Be6 Qd2 Kh7 Rac1 Rb8 f4 exf4 Nxf4 Nc6 b3 Ne5 Be2 b5 c5 dxc5 Qxd8 Rfxd8 Nxe6 fxe6 Rxc5 g5 g3 Rbc8 Rfc1 Rxc5 Rxc5 Kg6 h4 Kf6 Rc7 Bf8 Kf1 Bd6 Rh7 Bf8 Ra7 Rc8 Rxa6 Bc5 Bd2 gxh4 Bf4 h3 Bxe5+ Kxe5 Rxe6+ Kxe6 Bg4+ Ke5 Bxc8 Kxe4 Bxh3 Kf3",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1773734966.34724
+  "updated": 1773735430.6082184
 }
