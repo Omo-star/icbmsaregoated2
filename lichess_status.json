@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "WildorderBot",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: 1+0",
-  "time_left": 49,
-  "timestamp": "2026-03-17T13:55:32.595927",
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+2",
+  "time_left": 73,
+  "timestamp": "2026-03-17T16:06:35.773135",
   "last_game": {
-    "result": "win",
-    "opponent": "WildorderBot",
+    "result": "draw",
+    "opponent": "PetersBot",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "Nf3 e5 Nxe5 Bd6 Nxf7 Bxh2 Nxd8 Kxd8 Rxh2 Ke8 Rxh7 Rxh7 g4 Rh5 gxh5 g5 hxg6 Kf7 gxf7 Nc6 fxg8=Q Nb4 Qxc8 Rxc8 Bg2 Nxc2+ Qxc2 Ra8 Qxc7 d6 Qxb7 a5 Qxa8 a4 Qxa4 d5 Bxd5",
-    "duration": 60,
+    "moves": "c4 c5 e3 e6 a3 b6 Be2 f5 b4 Ng6 Ng3 f4 Nh5 Qc7 Qc2 f3 gxf3 Qxh2 Rxg6 Qh1+ Bf1 hxg6 Qxg6+ Nf7 Nf6+ gxf6 Qxg8 Bxf3 Bxf6 Be4 Rc1 Qh6 Qg3 Bd6 Qg8+ Bf8 Qg3 Bd6 Qg8+ Bf8",
+    "duration": 140,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1773755732.5959916
+  "updated": 1773763595.7732985
 }
