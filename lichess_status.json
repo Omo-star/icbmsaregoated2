@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3020,
+  "opponent": "abcd_engine",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 136,
-  "timestamp": "2026-03-17T11:22:26.487352",
+  "time_control": "TC: 10+0",
+  "time_left": 532,
+  "timestamp": "2026-03-17T11:30:47.347460",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "opponent": "abcd_engine",
+    "rating_before": 3020,
+    "rating_after": 3020,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qf6 Rc3 Ne7 Qc1 Nd5 Rc8 Bc6 Rxd8+ Qxd8 Nd4 Be8 g3 Ne7 Bf3 b6 Qc2 Qc8 Qxc8 Nxc8 Bc6 Kf8 f4 Bxc6 Nxc6 Ke8 Kf2 f6 Ke2 Kd7 Nb4 e5 e4 Nd6 Kd3 b5 Nd5 Nb7 Ke3",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qa6 d4 Bb6 dxe5 dxe5 Nxe5 Qb5 Nf3 Bc4 Re1 Qxb2 e5 Nh7 Nf5 a3 Re4 Bxa2 Rg4 Kh8 Rxg7 Rg8 Rxg8+ Rxg8 Nxh6 Rd8 Qe1 Be6 Nxf7+ Bxf7 e6 Rxd2 Qe5+ Kg8 exf7+ Kxf7 Qh5+ Kg7 Qg4+ Kh8 Qc8+ Kg7 Qg4+ Kh8 Qc8+ Kg7 Qg4+",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773746546.4875088
+  "updated": 1773747047.3475811
 }
