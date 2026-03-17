@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3024,
-  "opponent": "abcd_engine",
+  "rating": 2991,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 398,
-  "timestamp": "2026-03-17T08:32:37.979320",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-17T08:33:10.342054",
   "last_game": {
     "result": "draw",
-    "opponent": "abcd_engine",
-    "rating_before": 3024,
-    "rating_after": 3024,
+    "opponent": "OlisRalphBot",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 Nbd2 Nc5 c3 d4 Bxe6 Nxe6 cxd4 Ncxd4 a4 Bb4 axb5 Nxb5 Qa4 c5 Nc4 O-O Be3 Rb8 Qd1 a5 Qxd8 Rfxd8 g3 Nbd4 Kg2 h5 Rad1 f6 exf6 gxf6 Nfd2 Nf5 Ne4 Kf7 h3 Rxd1 Rxd1 Rd8 Rxd8 Nxe3+ Nxe3 Nxd8 Nd6+ Ke6 Ne8 Kf7 Nc7 Nc6 Kf1 Nd4 Ncd5 f5 Nc4 Nf3 Ke2 Ng1+ Kf1 Nf3 Nxb4 axb4 Ke2 Ng1+ Ke3 f4+ Kxf4 Nxh3+ Kf3 Ke6 Ke3 Ng5 Kd3",
-    "duration": 600,
+    "moves": "c4",
+    "duration": 182,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1773736357.9794626
+  "updated": 1773736390.3427505
 }
