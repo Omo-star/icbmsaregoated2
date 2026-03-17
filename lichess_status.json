@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3020,
-  "opponent": "AlwaysPlayMystery",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 437,
-  "timestamp": "2026-03-17T12:58:01.931059",
+  "rating": 3083,
+  "opponent": "OlympusCz",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: 1+0",
+  "time_left": 60,
+  "timestamp": "2026-03-17T13:00:32.066516",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3020,
-    "rating_after": 3020,
+    "result": "win",
+    "opponent": "OlympusCz",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 a5 Rd7 axb6 Qxb6 Ra2 Bd8 Re3 Rde7 Nh4 Bc8 Nf3 a5 h4 Bf5 Nd2 Bc7 Bxc7 Qxc7 Nxe4 Bxe4 Qa4 Qc8 Qb5 Bxg2 Rxe7 Rxe7 Kxg2 Qf5 Rxa5 Re2 Qb8+ Kg7 Qf4 Qxf4 gxf4 Rxb2 f5 Rc2 fxg6 Rxc3",
-    "duration": 600,
+    "moves": "",
+    "duration": 60,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "noStart"
   },
-  "updated": 1773752281.9311666
+  "updated": 1773752432.0666077
 }
