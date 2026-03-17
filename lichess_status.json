@@ -5,18 +5,18 @@
   "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Antichess",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-03-17T16:44:57.541783",
+  "time_left": 22,
+  "timestamp": "2026-03-17T16:46:51.324009",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "GoblinAjedrezAI",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e3 b6 a4 e6 Ra3 Bxa3 Nxa3 b5 Bxb5 Qg5 Bxd7+ Qxg2 Bxe6 Bxe6 h3 Bxh3 Rxh3 Qxf2+ Kxf2 h5 Rxh5 Rxh5 Qxh5 Ne7 Qxf7+ Kxf7 d4 Ng6 Kg3 Nh8 c4 Nd7 c5 Nxc5 dxc5 Kf6 Kf3 Ng6 Bd2 Rf8 a5 c6 Kf2 Ra8 Kg3 Nh4 Kxh4 g5+ Kxg5+ Kxg5 a6 Kf6 Bb4 Kg5 e4 Kh5 e5 Kh6 b3 Kg5 Ne2 Kg6 Ng3 Kh6 Be1 Rh8 Ne2 Kh5 Nc4 Rh7 Nd2 Kh6 Nc3 Rb7 axb7 Kh7 e6 Kh8 Bh4 a5 b4 axb4 e7 bxc3 e8=N cxd2 Ng7 Kxg7 Bf6+ Kxf6 b8=Q Kg6 Qa7 Kg7 Qxg7 d1=K Qf7 Kc1 Qd5 cxd5 c6 d4 c7 Kb1 c8=R Kc1 Rxc1 d3 Rc2 dxc2",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "variantEnd"
   },
-  "updated": 1773765897.541865
+  "updated": 1773766011.3240743
 }
