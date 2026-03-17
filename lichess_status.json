@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "WildorderBot",
+  "opponent": "Yaroslav1411",
   "variant": "Variant: Antichess",
   "time_control": "TC: 1+0",
-  "time_left": 49,
-  "timestamp": "2026-03-17T13:01:16.880818",
+  "time_left": 53,
+  "timestamp": "2026-03-17T13:53:49.125521",
   "last_game": {
     "result": "win",
-    "opponent": "WildorderBot",
+    "opponent": "Yaroslav1411",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e3 b6 a4 e6 Ra3 Bxa3 Nxa3 b5 Bxb5 Qf6 Bxd7+ Qxb2 Bxe8 Qxa3 Bxf7 Qxc1 Bxg8 Rxg8 Qxc1 Nc6 e4 Ne7 Ne2 Ba6 Qb1 Bxe2 Kxe2 Nf5 exf5 exf5 Qb8 Rgxb8 Rb1 Rxb1 Kd1 Rxd1 f3 Rxd2 f4 Rxg2 a5 Rxh2 a6 Rxc2",
+    "moves": "e3 e6 Bb5 Qg5 Bxd7+ Qxg2 Bxc8 Qxh2 Bxb7 Qxg1+ Rxh7 Rxh7+ Bxa8 Qxf2+ Kxf2 Nc6 Bxc6+ e5",
     "duration": 60,
-    "bot_color": "white",
-    "termination": "variantEnd"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1773752476.8808825
+  "updated": 1773755629.125605
 }
