@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3069,
+  "rating": 3073,
   "opponent": "OlympusCz",
   "variant": "Variant: Standard",
   "time_control": "TC: 2+1",
-  "time_left": 14,
-  "timestamp": "2026-03-17T08:57:42.007995",
+  "time_left": 56,
+  "timestamp": "2026-03-17T09:00:18.604454",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "OlympusCz",
-    "rating_before": 3069,
-    "rating_after": 3069,
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 dxc5 Qa5+ Bd2 Qxc5 Nc3 Nbd7 Be2 a6 Be3 Qc7 Nd5 Qd8 Nd2 e6 Nxf6+ Nxf6 a4 Bd7 O-O Bc6 Bd3 d5 e5 d4 Bf4 Nd5 Bg3 Nb4 Be4 Rc8 Bxc6+ Rxc6 Rc1 Qd5 Nb3 d3 cxd3 Nxd3 Rc2 Bb4 Nc1 Nxc1 Rxc6 Qxd1 Rc8+ Kd7 Rxd1+ Kxc8 Rxc1+ Kb8 Rd1 Be7 f4 Rd8 Rxd8+ Bxd8 Kf2 Kc7 Ke3 Kc6 Kd4 Ba5 b3 b5 axb5+ Kxb5 Kd3 g5 fxg5 Kc5 h3 Kd5 h4 Bc7 Be1 Bxe5 Ke3 Bb2 Bd2 e5 g3 Bd4+ Kf3 Ba1 Ke3 Bd4+ Kf3 Ba1 Ke3 Bb2 Kd3 Bd4 g4 Bf2 h5 Bc5 Bc3 e4+ Ke2 Be7 g6 fxg6 hxg6 hxg6 Bb2 Bd6 Bc1 Bc5 Bg5 Kc6 Bd2 Kb5 Bc3 Bb6 Be1 Ba5 Bf2 Bc3 Kd1 Kb4 Kc2 Be5 Be3 Ka3 Bc1+ Ka2 Be3 Bf6 Bc5 Bg5 b4 e3 Kd3 Kb3 Bd6 Bf6 Kxe3 Bc3",
-    "duration": 264,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Rae8 Ne4 Bg4 f3 Bh5 d4 f5 Ng3 Bg6 Bd2 c5 dxc5 Bxc5+ Kh1 Nb6 b4 Rxe1+ Bxe1 Qxd1 Bxd1 Be3 Be2 Nc4 Nf1 Bb6 Nd2 Bf7 Nxc4 Bxc4 Bxc4+ bxc4 Rd1 Re8 g4 f4 Bh4 Re3 Rd6 Bc7 Rc6 Be5 Rc5 Bxc3 b5 Ba5 Rc8+ Kf7 Rxc4 Rxa3 Rxf4+ Ke6 Bf2 Ra1+ Kg2 Ra2 Kf1 Ra1+ Kg2 Ra2 Re4+ Kd7 Kg1 Ra1+ Kg2 Ra2 Kg3 Bc7+ f4 g5 Be3 Bd6 Kf3 Ra3 Kf2 Ra2+ Kf3 Ra3 f5 Bc5 f6 Rxe3+ Rxe3 Bxe3 Kxe3 a3 f7 Ke7 f8=Q+ Kxf8 b6 a2 b7",
+    "duration": 243,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1773737862.0081189
+  "updated": 1773738018.604556
 }
