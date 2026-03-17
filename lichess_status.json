@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "OlympusCz",
+  "opponent": "WildorderBot",
   "variant": "Variant: Antichess",
   "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-03-17T13:00:32.066516",
+  "time_left": 49,
+  "timestamp": "2026-03-17T13:01:16.880818",
   "last_game": {
     "result": "win",
-    "opponent": "OlympusCz",
+    "opponent": "WildorderBot",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e3 b6 a4 e6 Ra3 Bxa3 Nxa3 b5 Bxb5 Qf6 Bxd7+ Qxb2 Bxe8 Qxa3 Bxf7 Qxc1 Bxg8 Rxg8 Qxc1 Nc6 e4 Ne7 Ne2 Ba6 Qb1 Bxe2 Kxe2 Nf5 exf5 exf5 Qb8 Rgxb8 Rb1 Rxb1 Kd1 Rxd1 f3 Rxd2 f4 Rxg2 a5 Rxh2 a6 Rxc2",
     "duration": 60,
-    "bot_color": "black",
-    "termination": "noStart"
+    "bot_color": "white",
+    "termination": "variantEnd"
   },
-  "updated": 1773752432.0666077
+  "updated": 1773752476.8808825
 }
