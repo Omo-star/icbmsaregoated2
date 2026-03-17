@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 73,
-  "timestamp": "2026-03-17T16:06:35.773135",
+  "rating": 3020,
+  "opponent": "ArasanX",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+3",
+  "time_left": 662,
+  "timestamp": "2026-03-17T16:17:20.553486",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "opponent": "ArasanX",
+    "rating_before": 3020,
+    "rating_after": 3020,
     "rating_delta": 0,
-    "moves": "c4 c5 e3 e6 a3 b6 Be2 f5 b4 Ng6 Ng3 f4 Nh5 Qc7 Qc2 f3 gxf3 Qxh2 Rxg6 Qh1+ Bf1 hxg6 Qxg6+ Nf7 Nf6+ gxf6 Qxg8 Bxf3 Bxf6 Be4 Rc1 Qh6 Qg3 Bd6 Qg8+ Bf8 Qg3 Bd6 Qg8+ Bf8",
-    "duration": 140,
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qb6 Qxb6 axb6 Rc1 Rbc8 Nb5 h5 e3 Rfd8 Rfe1 Ne8 Rf1 Nf6 Rfe1 Bf5 Red1 Be6 Re1 Rf8",
+    "duration": 744,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773763595.7732985
+  "updated": 1773764240.5535843
 }
