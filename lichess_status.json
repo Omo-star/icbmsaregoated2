@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2989,
-  "opponent": "OxydanBot",
+  "rating": 3075,
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+0",
-  "time_left": 140,
-  "timestamp": "2026-03-17T08:17:10.608105",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 17,
+  "timestamp": "2026-03-17T08:18:04.471389",
   "last_game": {
-    "result": "win",
-    "opponent": "OxydanBot",
-    "rating_before": 2989,
-    "rating_after": 2989,
+    "result": "draw",
+    "opponent": "TakticproChess",
+    "rating_before": 3075,
+    "rating_after": 3075,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 a6 c4 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Nf5 d6 Ne3 g6 Ned5 Bg7 Bg5 h6 Be3 Nxd5 Nxd5 Nd4 Bd3 O-O O-O Be6 Qd2 Kh7 Rac1 Rb8 f4 exf4 Nxf4 Nc6 b3 Ne5 Be2 b5 c5 dxc5 Qxd8 Rfxd8 Nxe6 fxe6 Rxc5 g5 g3 Rbc8 Rfc1 Rxc5 Rxc5 Kg6 h4 Kf6 Rc7 Bf8 Kf1 Bd6 Rh7 Bf8 Ra7 Rc8 Rxa6 Bc5 Bd2 gxh4 Bf4 h3 Bxe5+ Kxe5 Rxe6+ Kxe6 Bg4+ Ke5 Bxc8 Kxe4 Bxh3 Kf3",
-    "duration": 300,
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 d5 Bg2 Bb4+ Bd2 Be7 O-O O-O Ne5 c5 dxc5 Qc7 Nd3 dxc4 cxb6 axb6 Bxa8 cxd3 Bf3 dxe2 Bxe2 Bb7 Bf3 Nc6 Bc3 Ba6 Re1 Nb4 Bxb4 Bxb4 Qc1 Qe7 Rd1 e5 a3 Bc5 Nc3 Bd4 Qd2 Qe6 Rac1 Ng4 Ne4 h6 Kg2 f5 Nc3 Kh7 Ne2 Bxf2 Qd7 Qg6 Rc6 Rf6 Rxf6 Nxf6 Qc6 e4 Nf4 exf3+ Qxf3 Qe8",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1773735430.6082184
+  "updated": 1773735484.4715312
 }
