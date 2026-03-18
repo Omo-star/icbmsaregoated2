@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "Moment-That-Inspires",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 130,
-  "timestamp": "2026-03-18T17:00:58.479180",
+  "rating": 3077,
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 23,
+  "timestamp": "2026-03-18T17:04:43.015859",
   "last_game": {
     "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "opponent": "YoBot_v2",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "d4 Nf6 a3 g6 b3 Bg7 Bb2 b6 e3 O-O Nf3 c5 Bd3 Nc6 O-O Bb7 Nbd2 d5 dxc5 bxc5 c4 d4 exd4 Nxd4 Nxd4 cxd4 Re1 Qc7 b4 a5 b5 a4 Nf3 Nd7 Rxe7 Rfd8 Rc1 Bf8 Re1 Nc5 Rc2 Rac8 Bc1 f6 h3 Ba8 Bb2 Qf4 Bc1 Qc7 Bb2 Qf4 Bc1 Qd6 Bb2 Qf4",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "f3 f6 Nab3 d5 Nc5 Nd6 Bg3 Nb6 N1b3 Bg6 Na5 O-O-O Qd4 Nbc4 Bxd6 Nxa5 Bxe7 Re8 Qa4 Rxe7 Qxa5 c6 h4 h5 Nb3 f5 f4 Bxf4 Qxa7 Bb8 Qa8 Qd8 c3 Qb6 Rh3 Rhe8 O-O-O Kd7 Qa4 Rxe2 Rf3 Rf2 Rxf2 Qxf2 Qb4 Qa7 Nc5+ Kc8 Qd4 Re7 Rf1 Bd6 Ne4 Qxd4 Nxd6+ Kc7 cxd4 Kxd6 Kd1 Re6 Rf4 Ke7 a4 Kf6 Rf3 Re7 a5 Bh7 Rc3 Bg8 a6 bxa6 Rxc6+ Re6 Rxe6+ Bxe6 b4 g5 Bd3 Bc8 g3 f4 gxf4 gxh4 Ke1 h3 Kf2 Kg7 Be2 h4 Bf3 Kf6 Bxd5 h2 Bh1 Kf5 Ke3 Bd7 d5 Kf6 Kd4 Bb5 Be4 Bf1 Ke3 Bc4 Kf2 Bd3 Bf3 Kf5 d6 Bb5 Kg2 Kxf4 Be2 Bd7 Kxh2 Ke5 Bxa6 Kxd6 d3 h3 d4 Ba4 Kxh3 Bb3 b5 Bc4 d5 Bxb5 Bxb5 Kxd5",
+    "duration": 192,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773853258.4793413
+  "updated": 1773853483.015929
 }
