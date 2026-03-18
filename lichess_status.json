@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
-  "opponent": "Moment-That-Inspires",
+  "rating": 2990,
+  "opponent": "FuryRoad57",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 34,
-  "timestamp": "2026-03-18T16:37:56.338910",
+  "time_control": "TC: 3+0",
+  "time_left": 164,
+  "timestamp": "2026-03-18T16:38:53.695788",
   "last_game": {
-    "result": "draw",
-    "opponent": "Moment-That-Inspires",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "result": "win",
+    "opponent": "FuryRoad57",
+    "rating_before": 2990,
+    "rating_after": 2990,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 Nxe4 Bxe4 c3 d6 a4 Qd7 h3 a5 d5 Qf5 Bb5 Re7 Bc6 Rd8 Qg4 h5 Qxf5 Bxf5 Rxe7 Bxe7 b4 Bf6 Ra3 Bd3 bxa5 bxa5 Rb3 Bc4 Rb7 Bxc3 Rxc7 Bb4 Kh2 Bc5 f3 Bf1 h4 Rb8 Bb7 Bb6 Re7 Bc5 Kg3 f6 Rc7 Bb6 Rd7 Bc5 Rc7 Bb6 Rd7 Bc5 Kh2 Bd3 Rc7 Bb6 Rd7 Bc5 Rc7 Bb6 Re7 Bc5 Bd2 Kf8 Rc7 Bb6 Rc8+ Rxc8 Bxc8 g6 Bb7 Bc2 Bc6 Bf5 Kg3 Bd3 Kf4 Kf7 g4 Bc2 Bb5 Bb3 Bc6 Bd1 Be1 Bb3 Kg3 Bc4 gxh5 gxh5 Kf4 Bb3 Bd2 Bd1 Kg3 Bc2 Kf4 Ke7 Kg3 Bb3 Bc3 Kf7 Bd2 Bc4 Bc3 Bf1 Kh2 Bc4 Be1 Be2 Kg3 Bd1 Kg2 Ke7 Bc3 Kf7 Be1 Bc2 Bd2 Bb3 Kg3 Bc4 Kh2 Ke7 Kg2 Bb3 Kg3 Bc4 Kg2 Bd3 Kg3 Kf7 Kg2 Bg6 Kg3 Bd3 Be1 Ke7 Bd2 Bc2 Kf4 Bg6 Kg3 Bd3 Kg2 Kf7 Bc3 Bc2 Bd2 Bd3 Bc3 Be2 Bd7 Ke7 Bc6 Kf7 Bd7 Ke7 Bc6 Bd3 Be1 Bg6 Kg3 Bb1 Bc3 Kf7 Kg2 Bh7 Kg3 Bb1 Kg2 Bd3 Bd2 Ba6 Be1 Bc4 Kg3 Bd3 Kf4 Bc2 Kg3 Bg6 Kg2 Ke7 Bb5 Bc2 Bd2 Bf5 Bc3 Bb1",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 c3 d5 Qa4 Bd7 exd5 Nd4 Qd1 Nxf3+ Qxf3 Nf6 Be2 Bd6 O-O Bg4 Qe3 Nxd5 Qe4 Bxe2 Qxe2 O-O d3 c6 Be3 f5 Nd2 f4",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1773851876.339036
+  "updated": 1773851933.6958818
 }
