@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3076,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 0+2",
-  "time_left": 25,
-  "timestamp": "2026-03-18T17:45:34.067643",
+  "opponent": "abcd_engine",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 20,
+  "timestamp": "2026-03-18T17:46:40.574605",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
+    "opponent": "abcd_engine",
     "rating_before": 3076,
     "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "c4 Ng6 f4 f5 Qc3 c5 Ng3 Nxf4 Qxg7 Nxg2+ Kf2 Nh4 Qh6 Ng6 Ke1 Bxg3+ hxg3 d5 cxd5 Nb6 Rc1 Qc7 Qg5 Rxd5 Nb3 f4 Bxg6+ hxg6 Qxg6+ Bf7 Qe4 Re5 Rxc5 Rxc5 Nxc5 fxg3 b3 Nd7 Qxb7 Qxb7 Nxb7 Rh8 Na5 Rh5 Nc4 Ne5 d3 a6 Nb6 Rh1 Be3 g2 Rg1 Bg6 Kf2 Bh5 d4 Ng4+ Kxg2 Rh2+ Kg3 Rxe2 Bg5 Nf2 Nd5 Ne4+ Kf4 Nf2 Kg3 Ne4+ Kf4 Nf2 Kg3",
-    "duration": 146,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 b6 Qc1 Rc8 g3 Kf8 Qd2 Rd8 Rd3 Rc8 Rc3 Rd8 Rd3 Rc8 Rc3",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773855934.067779
+  "updated": 1773856000.5747495
 }
