@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3083,
-  "opponent": "Viet-Test",
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00be+0",
-  "time_left": 45,
-  "timestamp": "2026-03-18T10:44:11.026699",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-03-18T10:45:50.013236",
   "last_game": {
     "result": "draw",
-    "opponent": "Viet-Test",
+    "opponent": "tbhOnBot",
     "rating_before": 3083,
     "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "Nf3",
-    "duration": 45,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Bf4 Nbd7 cxd5 cxd5 Rc1 Bb7 Bc7 Qe8 Qb3 Ne4 Nc3 Ndf6 a4 Nxc3 Qxc3 Ne4 Qe1 Rc8 a5 Qb5 Qd1 bxa5 Rxa5 Qxb2 Rb1 Qc3 Rc1 Qb2 Rb1 Qc3 Rc1 Qb4 Ra4 Qb5 Ra5 Qb4 Ra4 Qb5 Ra5 Qb2 Rb1",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1773830651.026813
+  "updated": 1773830750.0133338
 }
