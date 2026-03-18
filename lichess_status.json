@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "YoBot_v2",
+  "rating": 3076,
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 132,
-  "timestamp": "2026-03-18T13:19:54.404315",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 24,
+  "timestamp": "2026-03-18T13:20:16.613888",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "TakticproChess",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 Nd6 h3 Bf5 Nf3 g5 Re3 h6 Ne5 Re8 Qh5 Bxe5 dxe5 Bg6 Qd1 Nf5 Re1 c6 Bd3 Nh4 a4 Be4 Bxe4 dxe4 Qg4 Qd5 Bf4 Ng6 Rad1 Nxe5 Bxe5 Qxe5 Rd4 f5 Qh5 Qe6 Red1 e3 Qe2 f4 Rd7 exf2+ Qxf2 Re7 R7d6 Qe2 Qxe2 Rxe2 Rd7 Rf8 Rxb7 Rf7 Rxf7 Kxf7 Rd6 Re6 Rd7+ Re7 Rd6 Re6 Rd7+ Re7 Rxe7+ Kxe7 Kf2 Kf6 Kf3 Kf5 b4 h5 c4 g4+ Ke2 Ke4 a5 Kd4 b5 cxb5 cxb5 Kc5 b6 axb6 hxg4 hxg4 axb6 Kxb6 Kd3",
-    "duration": 289,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc7 g4 g6 Be2 Kf8 Kf1 Be8 h4 Bxh4 b5 Bd8 a4 Ke7 a5 Rc8 Ra1 Bd7 f4 g5 fxg5 hxg5 Kf2 Rc2 Ke1 Rc8 Kf2 Rc2 Ke1 Rc8 Kf2",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773839994.4043818
+  "updated": 1773840016.614058
 }
