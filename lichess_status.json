@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "GoblinAjedrezAI",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: 1+0",
-  "time_left": 58,
-  "timestamp": "2026-03-17T16:57:39.783306",
+  "rating": 2991,
+  "opponent": "OlisRalphBot",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-18T07:33:06.989629",
   "last_game": {
-    "result": "win",
-    "opponent": "GoblinAjedrezAI",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "draw",
+    "opponent": "OlisRalphBot",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8",
-    "duration": 60,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "Nf3",
+    "duration": 182,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1773766659.783393
+  "updated": 1773819186.9897237
 }
