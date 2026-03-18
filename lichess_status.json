@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "cheapvps",
+  "rating": 3030,
+  "opponent": "CCI-3",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 162,
-  "timestamp": "2026-03-18T15:05:57.389955",
+  "time_control": "TC: 10+0",
+  "time_left": 217,
+  "timestamp": "2026-03-18T15:19:08.195071",
   "last_game": {
-    "result": "draw",
-    "opponent": "cheapvps",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "result": "win",
+    "opponent": "CCI-3",
+    "rating_before": 3030,
+    "rating_after": 3030,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 g3 dxc4 Bg2 c5 Nf3 Nc6 Qa4 cxd4 Nxd4 Qxd4 Bxc6+ Bd7 Be3 Bxc6 Qxc6+ bxc6 Bxd4 Bb4+ Kf1 Nf6 Kg2 O-O-O e3 Rd5 Bxf6 gxf6 a3 Be7 Rc1 Rhd8 Nc3 Ra5 Rc2 f5 Rac1 Bf6 Nd1 Rad5 Nc3 Ra5 Nd1 Rad5 Nc3 Ra5",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "Nf3 d5 Nc3 Nf6 d4 c5 Bg5 Ne4 Qd3 Nxg5 Nxg5 e5 Qg3 exd4 Qe5+ Qe7 Qxe7+ Bxe7 Nxd5 Bxg5 Nc7+ Kd8 Nxa8 Be6 g3 Nc6 Bg2 Kd7 Be4 Bf6 O-O Rxa8 Bxh7 g6 Rfc1 Rh8 Bxg6 fxg6 Rd1 Kc7 Rd2 a5 Kg2 g5 Kg1 a4 Rd3 Re8 Rf3 Be5 Ra3 b5 Rf3 Kb6 a3 c4 Re1 g4 Rf4 Bxf4 gxf4 Bf5 c3 d3 e3 d2 Rd1 Rd8 Kg2 Bc2 Ra1 Be4+ Kg3 d1=Q Rxd1 Rxd1 Kxg4 Rg1+ Kh5 Bf3+ Kh6 Nd8 b3 Nf7+ Kh7 Be4+ f5 Bxf5#",
+    "duration": 600,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1773846357.3901114
+  "updated": 1773847148.1951358
 }
