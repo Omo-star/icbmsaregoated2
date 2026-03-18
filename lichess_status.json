@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3023,
-  "opponent": "checkmatego-bot",
+  "rating": 3073,
+  "opponent": "sherlockholmes_221",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 290,
-  "timestamp": "2026-03-18T14:19:24.131952",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-03-18T14:21:52.024451",
   "last_game": {
     "result": "win",
-    "opponent": "checkmatego-bot",
-    "rating_before": 3023,
-    "rating_after": 3023,
+    "opponent": "sherlockholmes_221",
+    "rating_before": 3073,
+    "rating_after": 3073,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 Bb4 e3 h6 Bh4 g5 Bg3 Ne4 Ne2 Nc6 a3 Nxg3 Nxg3 Bxc3+ bxc3 Be6 Rb1 Rb8 Bd3 Qe7 O-O Qxa3 Qe2 O-O Qh5 Kg7 f4 gxf4 Rxf4 Qe7 Bf5 Rfd8 Rbf1 a5 e4 Rd6 e5 Nd8 exd6 cxd6 Bxe6 Qxe6 Nf5+ Kf8 Nxh6 Ke8 Nxf7 Kd7 Rf6 Qe3+ Kh1 Kc7 Nxd6 Nc6 Rf7+ Ne7 Qxd5 b5 Ne4 Qg5 Qxg5 Re8 Qxb5 Kd8 Nc5 Kc7 Qb7+ Kd6 Qd7#",
-    "duration": 600,
+    "moves": "e4 Nh6 d4 Ng8 Nf3 Nh6 Nc3",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "outoftime"
   },
-  "updated": 1773843564.132023
+  "updated": 1773843712.0245464
 }
