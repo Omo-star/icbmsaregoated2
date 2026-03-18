@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3079,
-  "opponent": "OxydanBot",
+  "rating": 3074,
+  "opponent": "cheapvps",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 44,
-  "timestamp": "2026-03-18T13:53:28.578821",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 9,
+  "timestamp": "2026-03-18T13:54:49.814415",
   "last_game": {
-    "result": "draw",
-    "opponent": "OxydanBot",
-    "rating_before": 3079,
-    "rating_after": 3079,
+    "result": "win",
+    "opponent": "cheapvps",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 h6 O-O Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O Nc3 c6 h3 a5 b5 Re8 a4 d5 exd5 cxd5 Nxd5 Nxd5 cxd5 Qxd5 Rfc1 e4 dxe4 Rxe4 Qc3 b6 Qc6 Qxc6 Rxc6 Rb8 g4 g6 Ra3 Rb7 Kg2 Kg7 Rd6 Rb4 Kf3 Rc4 Kg3 h5 gxh5 gxh5 Ra1 Rb4 Rc6 Rb8 Ra3 Rb7 Ra2 Rb8 f4 Rd8 Rxb6 Rd3+ Kg2 Rbb3 Kg1 Rxh3 Ra6 Rb1+ Kg2 Rbb3 Kg1 Rb1+ Kg2 Rbb3 Kg1",
-    "duration": 60,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Qe3 Nd6 h3 c6 Re1 Qd7 Qf3 Re8 Rxe8+ Nxe8 Qe2 Be7 Bb8 a5 Nb3 b6 Qa6 Bd8 Bh2 Qc8 Qe2 Qe6 Qa6 Qc8 Qe2 Nc7 Nd2 a4 g4 Bg6 Nf3 b5 b3 axb3 axb3 Ne6 Ne5 Bh4 Qa2 Bf6 Bg2 Bxe5 Bxe5 h5 b4 Qd8 Qd2 hxg4 hxg4 f6 Bg3 Qa8 f3 Kf7 Kf2 Qa1 Bh2 Qb1 Bf1 Ng5 Bg2 Bd3 Bf4 Ne6 Be3 g5 f4 gxf4 Bxf4 Be4 Be3 Bxg2 Kxg2 Qe4+ Kg3 f5 gxf5 Ng7 Bg5 Nxf5+ Kf2 Nd6 Qf4+ Qxf4+ Bxf4 Ne4+ Kf3 Ke6 Bc1 Kf5 Be3 Nxc3 Bh6 Kf6 Kg4 Ne2 Be3 Nc3 Bg5+ Ke6 Bd2 Na4 Kf4 Kf6 Kg4 Nb6 Bc3 Nc4 Kf4 Ke6 Kg4 Na3 Kg5 Nc2 Kf4 Na3 Be1 Nc2 Bc3 Kf6 Bd2 Nxd4 Bc3 Kf7 Bxd4 Ke6 Be5 Ke7 Bc3 Kd6 Bd4 Ke6 Be5 Kd7 Kf5 c5 bxc5 Kc6",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1773842008.5789673
+  "updated": 1773842089.8145902
 }
