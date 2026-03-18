@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "bot913",
+  "rating": 2993,
+  "opponent": "gekkammi-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-03-18T12:16:30.325823",
+  "time_control": "TC: 5+1",
+  "time_left": 95,
+  "timestamp": "2026-03-18T12:25:04.384873",
   "last_game": {
-    "result": "draw",
-    "opponent": "bot913",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "result": "win",
+    "opponent": "gekkammi-bot",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O Nc3 Bf6 Re1 Re8 Nd5 Rxe1 Nxf6+ Qxf6 Qxe1 b6 c3 Bb7 d4 Re8 Qd1 h6 Bd2 Bd5 b3 Ne4 Be1 Ng5 Qd3 Re6 Bd2 Ne4 Be1 Ng5 Bd2 Ne4 Be3 Ng5 Bd2 Ne4",
-    "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "Nf3 Nf6 d4 d5 Bf4 Bg4 e3 e6 h3 Bxf3 Qxf3 Bd6 Nd2 O-O Be2 Qe7 Bg5 Nbd7 e4 e5 O-O-O c6 exd5 cxd5 Kb1 Qe6 g4 exd4 Nb3 Ne5 Qg2 Nc6 Bd3 Rfe8 Bf5 Qe5 a3 Bc7 h4 h6 Bc1 Ne4 f3 Nf6 Rdg1 Kh8 Bd3 Qd6 h5 Re7 g5 hxg5 Bxg5 Ne8 f4 a6 f5 f6 h6 Kg8 Bf4 Ne5 Qh3 Rb8 Nxd4 Bb6 hxg7 Rxg7 Bxe5 fxe5 Rxg7+ Nxg7 Ne6 Kf7 Qh7 Rg8 Qg6+ Ke7 f6+ Kd7 Qf7+ Kc6 fxg7 Rxg7 Nxg7 Bc5 Ne8 Qb8 Rh6+ Bd6 Qe7 Kb6 Rxd6+ Qxd6 Qxd6+ Ka7 Qc7 Ka8 Nd6 b5 Qb7#",
+    "duration": 401,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1773836190.3259828
+  "updated": 1773836704.38495
 }
