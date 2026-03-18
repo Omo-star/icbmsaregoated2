@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3020,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3083,
+  "opponent": "Viet-Test",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 596,
-  "timestamp": "2026-03-18T08:20:43.279609",
+  "time_control": "TC: \u00be+0",
+  "time_left": 45,
+  "timestamp": "2026-03-18T10:44:11.026699",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3020,
-    "rating_after": 3020,
+    "opponent": "Viet-Test",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Qc1 Rd7 Be5 Be7 Bf4 Bf6 Be5 Be7 Bf4 Bf6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "Nf3",
+    "duration": 45,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1773822043.2797127
+  "updated": 1773830651.026813
 }
