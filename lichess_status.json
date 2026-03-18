@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3073,
-  "opponent": "sherlockholmes_221",
+  "rating": 2991,
+  "opponent": "Moment-That-Inspires",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-03-18T14:21:52.024451",
+  "time_control": "TC: 3+0",
+  "time_left": 127,
+  "timestamp": "2026-03-18T14:25:08.765850",
   "last_game": {
-    "result": "win",
-    "opponent": "sherlockholmes_221",
-    "rating_before": 3073,
-    "rating_after": 3073,
+    "result": "draw",
+    "opponent": "Moment-That-Inspires",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "e4 Nh6 d4 Ng8 Nf3 Nh6 Nc3",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Be7 Rd1+ Ke8 Bg5 Bxg5 Nxg5 h6 Nf3 Be6 Rd2 Rd8 Rad1 Rxd2 Rxd2 a6 g3 g5 Kg2 g4 Nd4 Nxd4 Rxd4 Ke7 f4 a5 Ne4 Bxa2 b3 Bb1 Nc5 Bxc2 Rd7+ Kf8 Rd2 b6 Rxc2 bxc5 Rxc5 Kg7 h3 h5 hxg4 hxg4 Rxa5 Rd8 Rc5 Rd2+ Kf1 Rd3 Kg2 f6 exf6+ Kxf6 Rxc6+ Kf5 Rxc7 Rxb3 Rc1 Rb2+ Kf1 Rb3 Ra1 Rxg3 Rb1 Re3 Ra1",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1773843712.0245464
+  "updated": 1773843908.7660043
 }
