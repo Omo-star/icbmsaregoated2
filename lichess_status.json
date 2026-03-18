@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2990,
-  "opponent": "FuryRoad57",
+  "rating": 3077,
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 164,
-  "timestamp": "2026-03-18T16:38:53.695788",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 21,
+  "timestamp": "2026-03-18T16:39:16.692434",
   "last_game": {
-    "result": "win",
-    "opponent": "FuryRoad57",
-    "rating_before": 2990,
-    "rating_after": 2990,
+    "result": "draw",
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 c3 d5 Qa4 Bd7 exd5 Nd4 Qd1 Nxf3+ Qxf3 Nf6 Be2 Bd6 O-O Bg4 Qe3 Nxd5 Qe4 Bxe2 Qxe2 O-O d3 c6 Be3 f5 Nd2 f4",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 h3 Bf5 Ne5 Bxe5 dxe5 Nc5 g4 hxg4 hxg4 Be4 f3 Bd3 Bg5 Bxf1 Kxf1 Nd3 Bf6 Re6 Re3 Rxf6 Rxd3 cxd3 exf6 Qxf6 Qxd3 Re8 Re1 Rxe1+ Kxe1 Qf4 Qxd5 Qc1+ Ke2 Qxb2+ Qd2 Qb3 Qd8+ Kg7 Qd4+ Kh7 Qf4 Qc2+ Kf1 f5 Qd4 fxg4 fxg4 Kg8 Ke1 Kf7 a5 bxa5 Qxa7+ Kf6 Qxa5",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1773851933.6958818
+  "updated": 1773851956.6925497
 }
