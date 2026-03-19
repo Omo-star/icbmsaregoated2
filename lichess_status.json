@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3028,
-  "opponent": "Cheszter",
+  "rating": 3076,
+  "opponent": "abcd_engine",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 231,
-  "timestamp": "2026-03-19T18:27:47.681466",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 10,
+  "timestamp": "2026-03-19T18:29:15.241281",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3028,
-    "rating_after": 3028,
+    "result": "win",
+    "opponent": "abcd_engine",
+    "rating_before": 3076,
+    "rating_after": 3076,
     "rating_delta": 0,
-    "moves": "c4 c6 Nf3 e6 e4 d5 e5 c5 cxd5 exd5 d4 cxd4 Nxd4 Bb4+ Nc3 Nc6 Bb5 Ne7 Bg5 Bd7 Bxc6 bxc6 O-O O-O Na4 c5 a3 Bxa3 Rxa3 Bxa4 Rxa4 cxd4 Rxd4 Rb8 b3 h6 Bxe7 Qxe7 Rxd5 Rfc8 Re1 Rc3 Rd7 Qe6 Rxa7 Rcxb3 h3 R3b5 Qa1 Kh7 Qd4 Rb1 Rxb1 Rxb1+ Kh2 Qf5 f4 Rc1 Ra3 h5 Rb3 Re1 Rb7 Rf1 Rb4 h4 Qd2 Qg6 Qe3 Qf5 Qd2 Qg6 Qe3 Qc2 f5 Rxf5 Rxh4+ Kg8 Qa7 Qc8 Rb4 Kh7 Rh4+ Kg8 Rb4 Kh7 Qe7 g6 Qh4+ Kg7 Rf4 Qe6 Rxf5 Qxf5 Qd4 Kg8 Kg3 Qg5+ Kh2 Qf5 h4 Qc2 h5 Qf5 hxg6 Qxg6 g3 Qh6+ Kg1 Qc1+ Kf2 Qh6 g4 Kg7 g5 Qxg5 e6+ Qf6+ Qxf6+ Kxf6 Kf3 Kxe6 Ke4 f5+ Kf4 Kd6 Kxf5",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 c6 Bg2 d5 O-O O-O Ne5 Bb7 Rc1 Nbd7 cxd5 cxd5 Na3 a6 e3 Qb8 Nxd7 Nxd7 Nc2 a5 Bf1 Rc8 Ne1 Nf6 Rxc8+ Qxc8 Rc1 Qd8 Nf3 Ne4 Qd1 Rc8 Bd3 Nd6 Rxc8 Qxc8 Qb3 Nc4 h4 h6 Qc2 Nd6 Qe2 Bc6 Ne5 Be8 Kg2 Kf8 Qf3 Ke7 Qd1 Qc7 Bb1 Nc4 Nd3 Qc8 Qe2 Nd6 Qg4 Kf8 Qd1 Nc4 Qc2 Qc6 h5 Bd7 Kh2 Qc8 Nf4 Nd6 Qb3 Qc6 Kg2 Qc7 Nd3 Bb5 Ne5 Be2 Qa3 Kg8 Bd3 Bxh5 g4 f6 gxh5 fxe5 dxe5 Nc4 Qa4 Qc8 Bxc4 dxc4 Qb5 Qd8 Qxc4 Qg5+ Kf1 Qxe5 Qc8+ Kh7 Qc2+ Kg8 Qc8+ Kh7 Qc2+ Qf5 Qxf5+ exf5 a4 g6 hxg6+ Kxg6 f3 Kf7 Kg2 Kf6 Kg1 Kf7 Kf2 Kg6 Kg2 Kg5 Kg3 f4+ exf4+ Kf5 b3 h5 Kf2 Kxf4 Ke2 h4 Kf1 Kxf3 Kg1 Ke3 Kg2 Kd3 Kh3 Kc3 Kg4 Kxb3 Kh3 Kxa4 Kg4 b5 Kg5 b4 Kf6 h3",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1773944867.6815283
+  "updated": 1773944955.2413466
 }
