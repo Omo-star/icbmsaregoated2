@@ -5,18 +5,18 @@
   "opponent": "areggumruyan",
   "variant": "Variant: Standard",
   "time_control": "TC: 5+0",
-  "time_left": 144,
-  "timestamp": "2026-03-19T14:00:37.561556",
+  "time_left": 300,
+  "timestamp": "2026-03-19T14:00:51.397239",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "areggumruyan",
     "rating_before": 2993,
     "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "b4 e5 Bb2 Bxb4 Bxe5 Nf6 Bb2 d5 c3 Be7 d4 c5 Nf3 Nc6 e3 c4 Nbd2 b5 Be2 a5 O-O a4 a3 Bd6 Rb1 O-O Ng5 h6 Ngf3 Na5 Qc2 Re8 Rfe1 Nb3 Nxb3 axb3 Qc1 Ne4 Ra1 Bg4 Nd2 Bxh2+ Kxh2 Qh4+ Kg1 Qxf2+ Kh2 Bxe2 Nxe4 Rxe4 Qd2 Rh4#",
+    "moves": "Nf3",
     "duration": 300,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1773928837.5616202
+  "updated": 1773928851.3973227
 }
