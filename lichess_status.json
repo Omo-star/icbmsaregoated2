@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
-  "opponent": "DarkOnBot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 416,
-  "timestamp": "2026-03-19T11:26:39.363572",
+  "rating": 2989,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 3+1",
+  "time_left": 144,
+  "timestamp": "2026-03-19T11:34:58.536433",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "opponent": "PetersBot",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4+ Bd2 Be7 Bg2 c6 Bc3 d5 Nbd2 Nbd7 Qc2 c5 dxc5 bxc5 cxd5 exd5 O-O O-O Rfe1 Bb7 Rad1 Qc7 Bb2 Rac8 Bh3 Rcd8 Bf5 g6 e4 gxf5 exd5 Nb6 Nd4 Rfe8 Nxf5 Nbxd5 Ne4 Bf8 Bxf6 Rxe4 Nh6+ Bxh6 Qxe4 Nxf6 Rxd8+ Qxd8 Qxb7 Bf8 Re5 h6 Rf5 Kg7 Kg2 a5 Qf3 Be7 Qc3 Qa8+ Kg1 Qd8 Re5 Bf8 Rf5 Be7 Re5 Bf8 Re3 Qd4 Kf1 Nd5 Qxd4+ cxd4 Re4 d3 Rd4 Nb4 a3 Na2 Rxd3 Bxa3 Rf3 Kg6 g4 Bb4 Ke2 Nc3+ Kd3 Nb1 Rf4 Kg5 Rxf7",
-    "duration": 600,
+    "moves": "h4 d5 h5 h6 b4 e6 Rh3 b6 c4 dxc4 d3 cxd3 e4 Nd6 e5 d2 Bxd2 Ne4 Be1 Be7 Nd3 O-O Nc3 Ng5 Re3 Nc6 Ne2 Rd8 Qb2 f6 Bc3 Nxe5 Nxe5 fxe5 Bxe5 Bf6 Rc1 Rd7 Nd4 Bxe5 Rxe5 Qd8 Nxe6 Nxe6 Rxe6 Bxh5 Qc3 Bf7 Rc6 Bxa2 Rxc7 Rxc7 Qxc7 Qh4 Qc2 Bf7 b5 Rd8 Rd1 Kh8 Rd3 Rxd3 Qxd3 Qe7 Qf5 Qe8 Qf4 Bg8 Qc7 Qf7 Qd6 Qb3 Qd4 Qb1 Qa4 Be6 Qf4 Kh7 Qd4 Bg8 Qf4 Ba2 Qd4 Qb3 Qe4+ g6 Qc6 Qf7 Qc1 Bd5 Qa1 Qe7 Qc1 Qe5 Qd1 h5 Qa4 Qe7 Bd3 Bf7 Qd4 Qe1+ Bf1 Qe7 Bd3 h4 Qg4 Qe1+ Bf1 Qe7 Bd3 Kg7 Qd4+ Kg8 Qg4 g5 Qd4 Qe1+ Bf1 Qe7 Bd3 Be6 Qe4 Kf7 Qg6+ Kf8 Qh6+ Ke8 Qh8+ Kd7 Qd4+ Kc7 Qa1 Kd8 Qh8+ Kd7 Qa8 Qc5 Qxa7+ Kc8 Qa8+ Kd7 Qb7+ Kd8 Qb8+ Bc8 Be2 Qc1+ Bf1 Qc7 Qxc7+ Kxc7 f3 Bb7 Kh2 Kd6 g3 Bxf3 gxh4 gxh4 Kh3 Ke5 Kxh4 Kf4 Bd3 Ke3 Bb1 Be2 Ba2 Kd4 Bb3 Bxb5 Kg5 Bc6 Kf6 b5 Ke7 Ke5 Kf8 Kd6 Bf7 Bd5 Be8 Bc6 Bf7 Be4 Be8 b4 Ba4 Bd3 Ke8 Bg6+ Kf8 Be4 Kf7 Bd5+ Kf8 Bg2 Kg8 Bc6 Bd1 Kc5 Kf8 Kd6 Kg8 Ke7 Kg7 Be4 Kg8 Bd3 Kg7 Bc4 Kg6 Ke6 Kg7 Ke7 Kg6 Ke6 Kg7 Ke5 Kf8 Kd4 Ke7 Kc3 Kd6 Bb3 Bh5 Bc4 Bd1 Bb3 Bh5 Ba4 Bf7 Kd4 Be6 Bc2 Bd7 Bd3 Ba4 Bc4 Kc7 Kc5 Kd8 Ba2 Kc8 Kc4 Kc7 Kc3 Kb6 Bb3 Be8 Bc2 Bf7 Bb3 Be8 Bc2 Bf7 Bd1 Be6 Kb2 Bc8 Bb3 Bd7 Bc4 Bg4 Bg8 Bd1 Kc3 Kc5 Bb3 Bh5 Bc2 Bf7 Ba4 Bg8 Bb3 Bh7 Bd1 Bg8 Bb3 Bh7 Bf7 Bc2 Be8 Bd1 Bf7 Kd6 Kd2",
+    "duration": 468,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1773919599.3636737
+  "updated": 1773920098.536542
 }
