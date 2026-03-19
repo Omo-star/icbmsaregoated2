@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3075,
-  "opponent": "tbhOnBot",
+  "rating": 2989,
+  "opponent": "Meccedo",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2026-03-19T11:59:16.343359",
+  "time_control": "TC: 3+2",
+  "time_left": 112,
+  "timestamp": "2026-03-19T12:03:51.976395",
   "last_game": {
     "result": "draw",
-    "opponent": "tbhOnBot",
-    "rating_before": 3075,
-    "rating_after": 3075,
+    "opponent": "Meccedo",
+    "rating_before": 2989,
+    "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qb8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+",
-    "duration": 30,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Be3 Bb6 Re1 Na5 Bb3 O-O h3 Bxe3 Rxe3 Bd7 d4 exd4 Qxd4 c5 Qd3 b5 c4 bxc4 Bxc4 Nxc4 Qxc4 Be6 Qc1 d5 exd5 Nxd5 Re4 Qf6 Nc3 Rfd8 Ra4 Nxc3 Qxc3 Qxc3 bxc3 a5 Ng5 Bd5 Ne4 Bc6 Rc4 Bd5 Ra4 Bc6 Rc4 Bd5 Ra4 Bc6",
+    "duration": 296,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1773921556.3434389
+  "updated": 1773921831.976524
 }
