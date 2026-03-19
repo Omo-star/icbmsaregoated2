@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3029,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 2993,
+  "opponent": "areggumruyan",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 186,
-  "timestamp": "2026-03-19T13:51:56.485954",
+  "time_control": "TC: 5+0",
+  "time_left": 226,
+  "timestamp": "2026-03-19T13:56:11.349860",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3029,
-    "rating_after": 3029,
+    "result": "win",
+    "opponent": "areggumruyan",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 Bf4 Qc6 Bg2 Bf5 h3 Rad8 Qc1 Qc8 h4 Bg7 Re3 Re6 Qd1 Bg4 Qe1 Rde8 Ne5 Bf5 Qe2 Nf6 Bf3 Qd8 Bg5 Qd6 Bf4 Qd8 Kh2 Bf8 Re1 Ne4 Kg1 Bd6 Bxe4 Bxe4 f3 Bxe5 dxe5 Bd3 Qd2 b5 axb5 Qa5 b4 Qb6 Qb2 Qxb5 Ra1 Qd7 Qf2 d4 cxd4 Rc8 Ree1 c3 Qe3 Bb5 Rec1 Rec6 Ra2 Rc4 e6 Qxe6 Qxe6 fxe6 Rxa7 Rxd4 Be5 Rd3 Rg7+ Kf8 Rh7 Rc6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "c4 e5 g3 Nf6 Bg2 Nc6 Nc3 Bb4 Nf3 e4 Ng5 Bxc3 bxc3 O-O Nxe4 Nxe4 Bxe4 Re8 d3 Ne5 Bg2 Qf6 O-O Ng4 h3 Ne5 f4 Nc6 d4 Na5 e4 Nxc4 f5 Qb6 Kh2 d6 Qh5 Bd7 f6 Qa5 e5 dxe5 Qg5 g6 Qh6 exd4 Qg7#",
+    "duration": 300,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1773928316.4861424
+  "updated": 1773928571.349934
 }
