@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "CCI-6",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 14,
-  "timestamp": "2026-03-20T17:34:38.502242",
+  "rating": 2998,
+  "opponent": "rascal1",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 3+2",
+  "time_left": 147,
+  "timestamp": "2026-03-20T17:44:06.341817",
   "last_game": {
-    "result": "draw",
-    "opponent": "CCI-6",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "result": "loss",
+    "opponent": "rascal1",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 a5 Re1 Ba7 h3 h6 Nbd2 g5 Nf1 g4 hxg4 Nxg4 Be3 Bxe3 Nxe3 h5 d4 h4 Nxe5 Ngxe5 dxe5 Nxe5 f4 Nxc4 Qa4+ Bd7 Qxc4 Bc6 Nd5 Rh6 Qd4 Kf8 Re3 Bxd5 Qxd5 c6 Qd2 Qf6 Rf1 Re8 Rff3 h3 g3 h2+ Kh1 b5 Re1 a4 Rfe3 Qg6 Qd3 Rh3 a3 Kg8 R1e2 Kf8 Rxh2 Rxh2+ Kxh2 Qh7+ Kg2 Re6 Re2 Rh6 Kf3 d5 Ke3 Rh3 Kd2 dxe4 Rxe4 Rh2+ Re2 Qh3 Qf3 Rxe2+ Kxe2 Qh2+ Qf2 Qh5+ Ke3 Qc5+ Kf3 Qh5+ Ke3 Qc5+ Ke2 Qh5+ Kf1 Qh1+ Qg1 Qf3+ Qf2 Qh1+ Qg1 Qf3+ Ke1 Qd3 Qc5+ Kg8 Qg5+ Kf8 Qc5+ Kg8 Qxc6 Qxg3+ Ke2 Qh2+ Ke3 Qg1+ Ke2 Qh2+ Ke3 Qg1+ Kd2 Qf2+ Kd3 Qxf4 c4 bxc4+ Qxc4 Qxc4+ Kxc4 f5 b3 axb3 Kxb3 Kf7 Kc4 Kf6 Kd5 Kg5 Kd4 Kg4 Ke3 Kg3 Ke2 Kg2 Ke3 Kg3 Ke2 Kg2 Ke3 Kg3 Ke2",
-    "duration": 275,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qd3 @d4 @e5 dxc3 exf6 N@b4 N@d5 Nxd5 exd5 Qxf6 bxc3 Qe5+ Qe3 Qxe3+ Bxe3 Q@b2 Q@b1 Qxc3+ @d2 Qb4 N@d3 @d4 Nxb4 dxe3 fxe3 Nxb4 Bc4 @f2+ Kxf2 N@d6 @d3 Nxc4 dxc4 B@e5 Kg1 N@e4 Q@f5 Bxh2+ Rxh2 @f2+ Qxf2 Nxf2 Kxf2 B@e5 @f4 Bxa1 B@h4 Bf6 Bxf6 gxf6 N@h5 B@e7 N@e4 R@b6 d6 Bxd6 @g7 Bxg7 Nxd6+ cxd6 Nxg7+ Kd8 B@f3 Q@c5 Qf1 N@e6 Nxe6+ dxe6 N@e4 N@f5 B@h4 @e7 Nxc5 dxc5 B@a5 N@d6 N@b5 Nxb5 cxb5 N@d6 N@e4 Nxe4+ Bxe4 N@g4+ Kg1 Nxh2 Kxh2 R@h6 Bxf5 exf5 Q@g3 B@c7 N@h3 @g4 N@g5 Be6 Bxb6 axb6 Nxe6+ fxe6 N@f7+ Kc8 Nxh6 N@e4 B@g8 Kb8 R@e8+ B@d8 Nxg4 fxg4 Qxg4 Nxd2 Qfe2 @d7 Qg7 Nxa2 R@e1 Ne4 @a6 Nac3 Qd3 @g3+ Bxg3 Nxg3 Qxg3 B@e4 Qxd7 Nxb5 Rxd8+ Bxd8 Qxd8+ Ka7 N@c8+ Rxc8 Qxc8 R@a8 axb7 Bxb7 Qxb7+ Kxb7 B@c6+ Kxc6 B@f3+ @e4 Bxe4+ B@d5 Bxd5+ exd5 Bxd5+ Kc7 R@b7+ Kd8 @g7 Rg8 Bxg8 B@e8 @d7 Bxd7 Rxd7+ Ke8 @f7+ Kxd7 B@e6+ Kc7 R@d7+ Kb8 f8=R# N@c8 Rxc8+ Kxc8 @b7+ Kb8 N@c6#",
+    "duration": 550,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1774028078.5023048
+  "updated": 1774028646.3418825
 }
