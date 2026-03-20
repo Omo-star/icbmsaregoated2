@@ -5,18 +5,18 @@
   "opponent": "Chessmlasboy",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 167,
-  "timestamp": "2026-03-20T23:19:42.518292",
+  "time_left": 164,
+  "timestamp": "2026-03-20T23:20:35.196037",
   "last_game": {
     "result": "win",
     "opponent": "Chessmlasboy",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 d5 exd5 e6 Bb5+ Bd7 dxe6 Bxb5 exf7+ Kxf7 Qh5+ g6 Qxb5 Kg7 Nf3 Nf6 Qxb7 Nbd7 O-O Qe7",
+    "moves": "e4 e5 Ne2 Nf6 d3 d5 exd5 Nxd5 Nbc3 Be6 Nxd5 Qxd5 Nc3 Qd7 Be3 Nc6 g3 Bb4 Bg2 O-O-O O-O Bh3 Ne4 Bxg2 Kxg2 f5 Nc5 Bxc5 Bxc5 Qd5+",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "resign"
   },
-  "updated": 1774048782.5183775
+  "updated": 1774048835.196133
 }
