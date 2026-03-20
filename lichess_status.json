@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "TheTeutonicKnight",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-03-20T20:24:55.369960",
+  "rating": 2997,
+  "opponent": "Chessmlasboy",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 3+0",
+  "time_left": 161,
+  "timestamp": "2026-03-20T23:19:09.013152",
   "last_game": {
-    "result": "draw",
-    "opponent": "TheTeutonicKnight",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "win",
+    "opponent": "Chessmlasboy",
+    "rating_before": 2997,
+    "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 30,
+    "moves": "e4 e5 f4 exf4 Nf3 g5 h4 g4 Ng5 h6 Nxf7 Kxf7 Bc4+ d5 Bxd5+ Ke8 g3 fxg3 O-O Qxh4 Bf7+ Kd8 Qe2",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "resign"
   },
-  "updated": 1774038295.370046
+  "updated": 1774048749.0132368
 }
