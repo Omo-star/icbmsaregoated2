@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3036,
-  "opponent": "caissa-x",
+  "rating": 3080,
+  "opponent": "odonata-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 317,
-  "timestamp": "2026-03-20T18:19:31.940785",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 6,
+  "timestamp": "2026-03-20T18:20:58.691218",
   "last_game": {
-    "result": "draw",
-    "opponent": "caissa-x",
-    "rating_before": 3036,
-    "rating_after": 3036,
+    "result": "win",
+    "opponent": "odonata-bot",
+    "rating_before": 3080,
+    "rating_after": 3080,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nd7 h4 N5f6 f4 O-O-O Rf1 Kb8 f5 Rhg8 c4 Rde8 g3 Ng4 fxg6 fxg6 Be4 Rg7 Bh6 Rgg8 Bg5 Rg7 Bh6 Rgg8 Bd5 Rh8 Bg7 Rh7 Rf7 Nb6 Qd3 Nf2 Qxg6 Nxd1 Qxh7 Nxd5 cxd5 Ne3 Qd3 Qb6 Bh6 Ng4 Bd2 Qg1+ Nc1 Qd1 Rf1 Qa4 Ne2 e4 Qb3 Qxb3 axb3 Bf6 Bb4 Kc7 Bc3 Bxc3 Rf7+ Kc8 bxc3 Re5 Rf8+ Kd7 c4 b5 Kb2 bxc4 bxc4 Ne3 Kc3 Rf5 Ra8 Rf3 Rxa6 Nf5+ Kb4 Rf2 Ra2 Kc8 c5 Nxg3 Ra8+ Kb7 cxd6 Kxa8 d7 Rf8 Nxg3",
-    "duration": 600,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nbd7 g4 Nb6 g5 Nh5 Qd2 Be7 O-O-O O-O Kb1 Rc8 Rg1 g6 Qf2 Nc4 Bxc4 Rxc4 Nd5 Bxd5 Rxd5 Qc8 Rd3 b5 Rgd1 Qe6 h4 Rfc8 R3d2 Bf8 Bb6 Ra4 Ba5 Rc6 Bb6 Rc8 Ba5 Rc6 a3 Qd7 Qf1 Qb7 Qe1 Nf4 Bb4 Qc7 Rh2 Rc4 Qd2 Rc6 Na5 Rc5 Bxc5 dxc5 Nb3 c4 Nc1 b4 Qd8 Qxd8 Rxd8 Ne6 Rc8 bxa3 c3 h6 gxh6 Kh7 b3 cxb3 Nxb3 Bxh6 Ka2 Be3 Re2 Bf4 Rc2 Be3 c4 Nd4 Nxd4 exd4 Rd8 Ra5 Rd5 Rxd5 exd5 Kg7 d6 Kf6 c5 d3 Rc3 d2 Rd3 Bxc5 d7 Bb6 d8=Q+ Bxd8 Rxd8 Ke5 Rxd2 Kf4 Rd7 Kg3 Rxf7 a5 Kxa3 a4 Kxa4 Kh3 Rf6 Kg3 Rxg6+ Kxh4 f4 Kh3 f5 Kh4 f6 Kh5 f7 Kxg6 f8=Q Kg5 Qf7 Kg4 Kb5 Kh3 Qg8 Kh2 Kc6 Kh1 Kd5 Kh2 Ke4 Kh1 Kf3 Kh2 Qg2#",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1774030771.940879
+  "updated": 1774030858.6912827
 }
