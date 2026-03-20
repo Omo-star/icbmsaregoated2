@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3028,
-  "opponent": "Torch4_Engine",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+5",
-  "time_left": 501,
-  "timestamp": "2026-03-20T11:52:06.872644",
+  "rating": 3081,
+  "opponent": "PetersBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+0",
+  "time_left": 22,
+  "timestamp": "2026-03-20T11:53:50.609813",
   "last_game": {
     "result": "draw",
-    "opponent": "Torch4_Engine",
-    "rating_before": 3028,
-    "rating_after": 3028,
+    "opponent": "PetersBot",
+    "rating_before": 3081,
+    "rating_after": 3081,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Rd1+ Ke8 g4 Nh4 Nxh4 Bxh4 Nc3 f5 exf6 gxf6 Bf4 h5 Bxc7 Kf7 f3 f5 gxf5 Bxf5 Rd4 Rhg8+ Kh2 Bd8 Bxd8 Raxd8 Rad1 Rxd4 Rxd4 b5 Rf4 Ke6 Rh4 Bxc2 Rxh5 b4 Ne2 Kd6 Nf4 c5 h4 a5 Rd5+ Kc6 h5 Bb1 a3 Rf8 Rxc5+ Kxc5 Ne6+ Kc4 Nxf8 Kb3 axb4 axb4 Nd7 Kxb2 Nc5 Ba2 h6 Bg8 Kg3 Kc3 Na6 b3 Nc5 b2 Na4+ Kd4 Nxb2 Ke5 Kg4 Kf6 Nd1 Ba2 Ne3 Bb1 Kf4 Ba2 Ng4+ Kg6 Ke5 Bb1 Kd4 Ba2 f4 Bb1 Kc3 Ba2 f5+ Kh7 Kd4 Bb1",
-    "duration": 1150,
+    "moves": "b3 e6 e4 b6 Bf3 c5 Nc3 Nc6 O-O-O Nge7 Kb1 Nd4 Qa6 Rb8 e5 Nec6 Nge2 Nxf3 gxf3 f6 exf6 Bxf6 d4 Qe7 Ne4 Bxd4 Nxd4 cxd4 Bxd4 d5 Ng3 O-O Rhg1 Nxd4 Rxd4 Rxf3 Rg4 g6 h4 Bc6 h5 Be8 Ne2 e5 hxg6 Bxg6 Rxg6+ hxg6 Rxg6+ Kh7 Rg1 Rh3 f4 e4 Nd4 Rf8 Rg5 Qd7 Qf1 Rh6 a4 Rg8 Ka2 Rxg5 fxg5 Rg6 Qf4 Qe7 Qh2+ Kg8 Qb8+ Kh7 Nf5 Qd7 Qh2+ Kg8 Qb8+ Kf7 Qf4 Re6 Qg4 Qe8 Qh4 Kg8 Nh6+ Kg7 Nf5+ Kg8 Nh6+ Kf8 Nf5 Qf7 Qh8+ Qg8 Qh4 Qf7 Qh8+ Qg8 Qh4 Qg6 Qf4 a6 Nh6+ Ke8 Qb8+ Ke7 Qc7+ Kf8 Qf4+ Ke8 Qb8+ Kd7 Qb7+ Kd8 Qb8+ Kd7 Qb7+ Ke8 Qb8+",
+    "duration": 60,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774007526.8727565
+  "updated": 1774007630.6099772
 }
