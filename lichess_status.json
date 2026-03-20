@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "rascal1",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 3+2",
-  "time_left": 201,
-  "timestamp": "2026-03-20T17:29:03.493317",
+  "rating": 3077,
+  "opponent": "CCI-6",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 2+1",
+  "time_left": 14,
+  "timestamp": "2026-03-20T17:34:38.502242",
   "last_game": {
-    "result": "loss",
-    "opponent": "rascal1",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "result": "draw",
+    "opponent": "CCI-6",
+    "rating_before": 3077,
+    "rating_after": 3077,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Bb4 @d5 O-O dxc6 Bxc3+ Qxc3 dxc6 Be2 N@d4 N@h6+ Kh8 N@e5 Be6 Nhxf7+ Bxf7 @h6 Nxe2 Kxe2 N@h5 hxg7+ Nxg7 B@h6 Nfe8 N@f5 B@h5+ f3 @d4 Nxd4 Qe7 Nf5 Bc4+ Qxc4 Qxe5 B@c3 @d4 Bxd4 Qxe4+ Kf1 @e2+ Ke1 Qxd4 Nxd4 @f2+ Kxf2 N@g8 @g5 Rf7 Bxg7+ Nxg7 @h6 B@h4+ @g3 B@f8 hxg7+ Bxg7 @h6 Re8 hxg7+ Rxg7 B@h6 Ree7 Q@f8 e1=Q+ Rxe1 @e3+ Bxe3 @d5 Bxg7+ Rxg7 Qxg7+ Kxg7 N@e6+ Kf7 R@g7+ Ke8 @d7#",
-    "duration": 358,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6 c3 a5 Re1 Ba7 h3 h6 Nbd2 g5 Nf1 g4 hxg4 Nxg4 Be3 Bxe3 Nxe3 h5 d4 h4 Nxe5 Ngxe5 dxe5 Nxe5 f4 Nxc4 Qa4+ Bd7 Qxc4 Bc6 Nd5 Rh6 Qd4 Kf8 Re3 Bxd5 Qxd5 c6 Qd2 Qf6 Rf1 Re8 Rff3 h3 g3 h2+ Kh1 b5 Re1 a4 Rfe3 Qg6 Qd3 Rh3 a3 Kg8 R1e2 Kf8 Rxh2 Rxh2+ Kxh2 Qh7+ Kg2 Re6 Re2 Rh6 Kf3 d5 Ke3 Rh3 Kd2 dxe4 Rxe4 Rh2+ Re2 Qh3 Qf3 Rxe2+ Kxe2 Qh2+ Qf2 Qh5+ Ke3 Qc5+ Kf3 Qh5+ Ke3 Qc5+ Ke2 Qh5+ Kf1 Qh1+ Qg1 Qf3+ Qf2 Qh1+ Qg1 Qf3+ Ke1 Qd3 Qc5+ Kg8 Qg5+ Kf8 Qc5+ Kg8 Qxc6 Qxg3+ Ke2 Qh2+ Ke3 Qg1+ Ke2 Qh2+ Ke3 Qg1+ Kd2 Qf2+ Kd3 Qxf4 c4 bxc4+ Qxc4 Qxc4+ Kxc4 f5 b3 axb3 Kxb3 Kf7 Kc4 Kf6 Kd5 Kg5 Kd4 Kg4 Ke3 Kg3 Ke2 Kg2 Ke3 Kg3 Ke2 Kg2 Ke3 Kg3 Ke2",
+    "duration": 275,
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774027743.4933808
+  "updated": 1774028078.5023048
 }
