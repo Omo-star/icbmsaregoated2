@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3037,
-  "opponent": "Cheszter",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 276,
-  "timestamp": "2026-03-20T19:01:26.806292",
+  "rating": 3083,
+  "opponent": "TheTeutonicKnight",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 30,
+  "timestamp": "2026-03-20T20:24:55.369960",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3037,
-    "rating_after": 3037,
+    "opponent": "TheTeutonicKnight",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "c4 c6 Nc3 d5 d4 e6 e3 Nf6 Nf3 a6 b3 Bb4 Bd2 Nbd7 Bd3 Bd6 O-O O-O Rc1 Re8 e4 dxc4 Bxc4 e5 Ng5 Re7 Be3 exd4 Nxf7 Rxf7 Bxf7+ Kxf7 Qxd4 Ba3 e5 Bxc1 Rxc1 Qe7 exf6 Nxf6 Re1 Bf5 Qf4 Bg6 Qc4+ Qe6 Qxe6+ Kxe6 Bc5+ Kf5 h3 Re8 g4+ Kf4 Ne2+ Ke5 Bd4+ Kd5 Ba1 Kd6 Rd1+ Ke7 f4 Kf8 Be5 Nd5 Kf2 Kg8 Ng3 Bc2 Rd2 Bb1 h4 g6 Rb2 Bd3 Rd2 Bb1 Rb2 Bd3 Kf3 Kf7 Rd2 Bb1 Rb2 Bd3",
-    "duration": 600,
+    "moves": "",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1774033286.8063924
+  "updated": 1774038295.370046
 }
