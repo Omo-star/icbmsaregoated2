@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3081,
-  "opponent": "Cheszter",
+  "rating": 2997,
+  "opponent": "Fischer_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 8,
-  "timestamp": "2026-03-20T12:41:29.185364",
+  "time_control": "TC: 3+0",
+  "time_left": 89,
+  "timestamp": "2026-03-20T12:44:43.577813",
   "last_game": {
-    "result": "loss",
-    "opponent": "Cheszter",
-    "rating_before": 3081,
-    "rating_after": 3081,
+    "result": "draw",
+    "opponent": "Fischer_Bot",
+    "rating_before": 2997,
+    "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O Be7 c3 O-O Ba4 h6 Re1 Nh7 d4 Bf6 Na3 Bg4 Nc2 a6 d5 Ne7 Ne3 Bc8 Bc2 Ng5 Nd2 Nh7 Ndf1 Bg5 a4 a5 Ng3 g6 Ra3 f5 exf5 gxf5 c4 Kh8 Nh5 f4 Ng4 Bf5 h4 Bxh4 Nxe5 dxe5 Rxe5 Ra6 Nxf4 Qd6 Rxf5 Nxf5 Ne6 Rf6 Bxf5 Rxf5 Be3 Bf6 Bxh6 Qb4 Rh3 Qxc4 Qb1 Rxe6 Qxf5 Re1+ Kh2 Qe4 Qc8+ Qe8 Qxb7 Be5+ g3 Bd6 Rh4 Qf7 Bf4 Qf5 Qa7 Re2 Kg1 Re1+ Kh2 Re2 Kg1 Kg8 Bxd6 Re1+ Kh2 Nf6 Be5 Qxe5 Qa8+ Kg7 Qxa5 Re2 Qa7 Rd2 d6 Qf5 Rf4 Qh5+ Kg2 Qd5+ Kh2 Rd1 Qxc7+ Kg6 Rxf6+ Kxf6 Qd8+ Kg6 Qe8+ Kg5 Qe7+ Kg4 Qe2+ Kf5 Qh5+ Ke6 Qh6+ Kd7 Qg7+ Kxd6 Qf6+ Kd7 Qg7+ Kc6 Qf6+ Kd7 Qg7+ Kc8 Qc3+ Kb7 Qg7+ Ka6 Qf6+ Ka5 g4 Rd3 g5 Kxa4 Qa6+ Kb3 Qa3+ Kc2 Qa4+ Kb1 Qh4 Qf3 Qg3 Qxg3+ fxg3 Kxb2 Kh3 Rd4 Kh2 Rg4 Kh3 Rxg5 Kh4 Rg8 Kh3 Kc3 Kg2 Kd4 Kf3 Rf8+ Kg4 Ke3 Kh5 Rg8 Kh4 Kf3 Kh5 Kxg3 Kh6 Kf4 Kh7 Rg1 Kh8 Kf5 Kh7 Kf6 Kh8 Kf7 Kh7 Rh1#",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be7 f3 Be6 Qd2 h5 Nd5 Nxd5 exd5 Bf5 Be2 a5 a4 O-O O-O Nd7 f4 exf4 Bxf4 Bf6 Bb5 Qc7 Nd4 Bg6 Bg5 Bxg5 Qxg5 Qc5 Rad1 Ne5 Qe3 Qxd5 Nf5 Qc5 Rxd6 Qxe3+ Nxe3 Rad8 Rfd1 Rxd6 Rxd6 Rc8 c3 Be4 Rd4 Bc6 Kf2 g6 Nc4 Bxb5 Nxe5 Be8 Rd5 f6 Nf3 Ra8 b3 Kf7 Rc5 Ke6 Rc7 Rb8 g3 Bd7 Rc4 Kd6 Rd4+ Ke7 Re4+ Kd6 Rd4+ Ke7 Re4+ Kf7 Rc4 Ke7 Re4+",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1774010489.1854305
+  "updated": 1774010683.5779574
 }
