@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2997,
-  "opponent": "MCPeaSearch",
+  "rating": 3074,
+  "opponent": "KarimBOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 116,
-  "timestamp": "2026-03-20T13:39:21.868595",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2026-03-20T13:41:01.855566",
   "last_game": {
     "result": "win",
-    "opponent": "MCPeaSearch",
-    "rating_before": 2997,
-    "rating_after": 2997,
+    "opponent": "KarimBOT",
+    "rating_before": 3074,
+    "rating_after": 3074,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 Bg7 Nc3 c6 f4 d6 Nf3 Bg4 Be3 d5 e5 Qb6 Rb1 Nh6 h3 Nf5 Bf2 Bxf3 Qxf3 f6 Rd1 e6 g4 Ne7 exf6 Bxf6 Bd3 Nd7 O-O O-O-O Na4 Qb4 Nc5 Nxc5 dxc5 Rhe8 a3 Qxb2 Rb1 Qxa3 Rb3 Qa4 Rfb1 Rd7 Qe3 Ng8 Kg2 e5 Qc1 a6 Ra3 Qxf4 Be3 Qf3+ Kxf3 e4+ Kg2 exd3 cxd3 Rde7 d4 Bh4 Qb2 b5 cxb6 Rb7 Qe2 Rbe7 b7+ Kc7 Qxa6 Kd6 b8=Q+ Rxb8 Rxb8 Rf7 Rxg8 Be7 Qc8 Bg5 Bxg5 Rf6 Bxf6 c5 dxc5#",
-    "duration": 267,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Bf4 Rxe1 Qxe1 Ne8 c3 d5 Nd2 Bf5 Nb3 Nd6 Nc5 b6 Nd3 h6 Qe3 Nc4 Qf3 Be4 Qg3 Bxd3 Bxd3 Nxb2 Bb5 Qe7 Kf1 Rc8 Re1 Qa3 Kg1 c6 Qh3 Rd8 Bxc6 Na4 Bc7 Rf8 Bd6 Qxd6 Bxa4 Bxd4 Bb3 Be5 Rd1 d4 cxd4 Bxd4 Qf3 Qe7 g3 Rd8 Kg2 g6 Qf4 g5 Qg4 Qb7+ Kf1 Bf6 Rxd8+ Bxd8 Qf5 Kg7 Kg1 Qe7 Bc4 Qf6 Qxf6+ Bxf6 f4 Bb2 Kg2 gxf4 gxf4 Kf6 Kg3 Bc3 Kf3 Bd2 h3 Kg6 Kg4 f5+ Kf3 Bc1 a4 Kf6 Bb5 Kg6 Be8+ Kf6 Bd7 Kg6 Kg3 Kf6 Bc8 b5 axb5 Ba3 Bb7 Bb4 Kf3 Be7 Kg3 Bd6 Bd5 Bb4 Bc4 Be1+ Kf3 h5 Bd3 h4 Bc4 Bb4 Bd3 Be7 Bf1 Ba3 Bc4 Be7 Bf1 Kg6 Bc4 Bc5 Bf1 Bb4 Bc4 Ba3 Bf1 Kf6 Bd3 Bc5 Bf1 Kg6 Be2 Bd6 Bc4 Kf6 Bf1 Kg6 Bd3 Bb4 Bf1 Bc5 Be2 Ba3 Bf1 Bd6 Bd3 Bb4 Be2 Kf6 Bc4 Ba3 Bd3 Bd6 Bc4 Bc5 Bb3 Bd6 Bc4 Bf8 Bf1 Kg6 Be2 Kf6 Bf1 Bb4 Bc4 Bd6 Bb3 Be7",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "outoftime"
   },
-  "updated": 1774013961.868661
+  "updated": 1774014061.8557854
 }
