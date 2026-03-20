@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3077,
-  "opponent": "PetersBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 1+2",
-  "time_left": 294,
-  "timestamp": "2026-03-20T17:22:32.525571",
+  "rating": 2998,
+  "opponent": "rascal1",
+  "variant": "Variant: Crazyhouse",
+  "time_control": "TC: 3+2",
+  "time_left": 181,
+  "timestamp": "2026-03-20T17:24:40.254112",
   "last_game": {
     "result": "draw",
-    "opponent": "PetersBot",
-    "rating_before": 3077,
-    "rating_after": 3077,
+    "opponent": "rascal1",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "f4 c6 c3 Ng6 Nd3 f6 g4 e5 f5 Nf4 Nxf4 exf4 Nf2 g5 fxg6 hxg6 g5 fxg5 Nh3 Rh8 Bd3 Ne7 Nxg5 Rxh2 e4 Bc7 Kc2 c5 Rh1 Rxh1 Qxh1 O-O-O Bh4 Kb8 Rf1 Qh8 Nf3 Qf8 Ng5 Qh8 Nf3 Qf8 Bg5 Rc8 Qh4 Nc6 Ne1 f3 b3 Bf7 Rxf3 Ne5 Rf6 Qg8 Kb2 Qh8 Qxh8 Rxh8 Bf4 Rh7 Be2 b6 d4 Nc6 Be3 cxd4 cxd4 Rh2 Rf2 Rxf2 Bxf2 g5 Kc3 Bg6 Bf3 g4 Bxg4 Bxe4 Bxd7 Bd6 Kb2 Kc7 Bg4 Nb4 Be2 Kc6 a3 Nd5 Nd3 Bf4 Bf1 Ne3 Nxf4 Nxf1 Nh5 Nd2 Kc3 Nb1+ Kb2 Nd2 Be3 Bf3 Nf6 Ne4 d5+ Kb7 Nxe4 Bxe4 b4 Bxd5 Bxb6 Kxb6 a4 Bf3 a5+ Kb5 Ka1 Ka4 b5 Kxa5 Kb2 Ka4 Kc2 Ka3 Kb1 Be4+ Ka1 Bd5 Kb1 Bf3 Ka1 Bg4 Kb1 Bf3 Ka1 Bh1 Kb1 Bg2 Ka1 Bd5 Kb1 Bc4 Ka1 Be6 Kb1 Bf5+ Ka1 Bg4 Kb1 Bd1 Kc1 Be2 Kb1 Bxb5 Ka1 Kb3 Kb1 a6 Ka1 Bd7 Kb1 Bh3 Ka1 Bd7 Kb1 Bc6 Ka1 Bf3 Kb1 Bc6 Ka1 Bb5 Kb1 Bc4 Ka1 Bd5 Kb1 Kc3 Ka1 Bb3 Kb1 Bc2+ Ka2 Bb3+ Kb1 Bg8 Ka1 Bh7 Ka2 Bg8+ Kb1 Bc4 Ka1 Bd3 Ka2 Be4 Ka1 Bd5 Kb1 a5 Ka1 Kb3 Kb1 Be6 Ka1 Bd5 Kb1 a4 Ka1 Bf7 Kb1 Bh5 Ka1 Ka3 Kb1 Bf3 Ka1 Bh1 Kb1 Bd5 Ka1 Bb7 Kb1 Be4+ Ka1 Bc6 Kb1 Kb3 Ka1 Bb5 Kb1 Ba6 Ka1 Be2 Kb1 Bd3+ Ka1 Be2 Kb1 Bh5 Ka1 a3 Kb1 Bf7 Ka1 Be6 Kb1 a2+ Ka1 Ka4 Kb2 Bc4 Ka1 Ka5 Kb2 Ka6 Ka1 Kb5 Kb2 Bb3 Ka1 Bg8 Kb2 Kc5 Ka1 Bc4 Kb2 Kd4 Ka1 Kc5 Kb2 Kd6 Ka1 Bb3 Kb2 Bg8 Ka1 Kd7 Kb2 Bb3 Ka1 Bf7 Kb2 Be6 Ka1 Bb3 Kb2 Kd6 Ka1 Kc6 Kb2 Kc7 Ka1 Kb7 Kb2 Ka7 Ka1 Ka6 Kb2 Bg8 Ka1 Bf7 Kb2 Bd5 Ka1 Kb5 Kb2 Ka6 Ka1 Bg8 Kb2 Bf7 Ka1 Be6 Kb2 Kb7 Ka1 Kb6 Kb2 Kb7 Ka1 Bc4 Kb2 Kc8 Ka1 Kd7 Kb2 Be6 Ka1 Bd5 Kb2 Ke6 Ka1 Kf5 Kb2 Kf4 Ka1 Kf3 Kb2 Bf7 Ka1 Ke2 Kb2 Bd5 Ka1 Bb3 Kb2 a1=Q+ Kxa1",
-    "duration": 758,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qxf6 gxf6 N@d5 @e6 N@h5 Q@g6 Ndf4 Qh6 Be2 Nd4 Bd1 e5 Nfd5 Qxh5 Bxh5 Nxc2+ Kf1 Nxa1 @g5 @g7 gxf6 gxf6 @g5 @g7 gxf6 gxf6",
+    "duration": 256,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774027352.5256348
+  "updated": 1774027480.2572374
 }
