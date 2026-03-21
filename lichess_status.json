@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "BOT_Stockfish13",
+  "opponent": "Classic_BOT-v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 124,
-  "timestamp": "2026-03-21T12:33:37.306498",
+  "time_left": 177,
+  "timestamp": "2026-03-21T12:35:59.107301",
   "last_game": {
-    "result": "draw",
-    "opponent": "BOT_Stockfish13",
+    "result": "win",
+    "opponent": "Classic_BOT-v2",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Kg2 Kb7 Bh6 Ka7 h4 f5 Rb3 Nf6 Bg5 h6 Ra3 Kb8 Bxf6 Qxf6 Qc6 Rf8 Nd2 f4 Nf3 fxg3 fxg3 Qe7 Rb1 Ra7 Rf1 g5 h5 Ra8 Rb1 Ra7 Rf1 a5 Rb3 Rb7 Rbb1 Ka7 Qa4",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Bc3 dxc4 Ne5 b5 Nxc6 Nxc6 Bxc6+ Bd7 Bxa8 Qxa8 f3 h5 a3 h4 g4 a5 O-O O-O e4 Rd8",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "timeout"
   },
-  "updated": 1774096417.3065925
+  "updated": 1774096559.1073918
 }
