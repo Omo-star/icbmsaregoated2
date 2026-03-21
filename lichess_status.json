@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "CCI-6",
+  "rating": 2997,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 62,
-  "timestamp": "2026-03-21T07:25:14.623457",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-21T07:55:07.476377",
   "last_game": {
     "result": "draw",
-    "opponent": "CCI-6",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "opponent": "OlisRalphBot",
+    "rating_before": 2997,
+    "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 O-O O-O Bxf3 Bxf3 Nd4 Na4 Qd7 Nxb6 Nxf3+ Qxf3 axb6 Bg5 Qe6 a4 Nd7 Be3 Nb8 h3 Nc6 Rfb1 h6 Kh2 Rfe8 Ra3 Kh7 Raa1 Kg8 Ra3 Reb8 Rbb3 Kh7 Rb2 Ne7 Rba2 f5 g3 Qg6 Qg2 fxe4 Qxe4 Qxe4 dxe4 g5 Rd2 Rd8 Rb2 Rd7 c5 d5 exd5 Nxd5 cxb6 cxb6 Rd3 Kg6 Bc1 Kf5 Re2 Nf6 Ra3 Rd1 Bb2 Rd5 Kg2 h5 Rf3+ Ke6 Rfe3 Nd7 f4 gxf4 gxf4 Rxa4 Bxe5 Nxe5 Rxe5+ Rxe5 Rxe5+ Kd6 Re4 Kd5 Re5+ Kd6 Re4 Kd5 Kf3 b5 Re5+ Kd4 Re4+ Kd5 h4 Ra1 Re5+ Kc4 f5 Kxb4 Kf4 Rf1+ Kg5 Kc4 Re4+ Kd5 Re6 Kc5 f6 b4 Re5+ Kc4 Re4+ Kc5 Re5+ Kc4 Re4+ Kc3 Rf4 Rxf4 Kxf4 b3 f7 b2 f8=Q b1=Q Qa3+ Qb3 Qxb3+ Kxb3 Kg5 b5 Kxh5 b4 Kh6 Ka3 Kg7 b3 h5 b2 h6 b1=Q h7 Qb7+ Kh8 Kb4 Kg8 Qb8+ Kg7 Qe5+ Kg8 Qe8+ Kg7 Qe7+ Kg8 Qe8+ Kg7 Qe5+ Kg8 Qb8+ Kg7 Qc7+ Kh8 Qd7 Kg8 Qc8+ Kg7 Qd7+ Kh8 Kc3 Kg8 Qd5+ Kh8 Kd4 Kg7 Qe5+ Kg8 Qg5+ Kh8 Qd8+ Kg7 Qc7+ Kg8 Qd8+ Kg7 Qc7+ Kg8 Qb8+ Kg7 Qe5+ Kg8 Qe8+ Kg7 Qd7+ Kg8 Qe8+ Kg7 Qe7+ Kg8 Qg5+ Kh8 Qe7 Kg8 Qe6+ Kf8 Qc8+ Kg7 Qb7+ Kg8 Qc8+ Kg7 Qd7+ Kg8 Kd5 h8=Q Qc8+ Kh7 Qh3+ Kg8 Qc8+ Kh7 Qh3+ Kg8 Qc8+ Kh7",
-    "duration": 299,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1774077914.6235535
+  "updated": 1774079707.4794922
 }
