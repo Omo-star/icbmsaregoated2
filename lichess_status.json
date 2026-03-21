@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2983,
-  "opponent": "Classic_BOT-v2",
+  "rating": 2988,
+  "opponent": "ClassicLegendBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 64,
-  "timestamp": "2026-03-21T20:25:15.623283",
+  "time_left": 41,
+  "timestamp": "2026-03-21T20:29:44.674110",
   "last_game": {
-    "result": "win",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 2983,
-    "rating_after": 2983,
+    "result": "draw",
+    "opponent": "ClassicLegendBot",
+    "rating_before": 2988,
+    "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Nc3 Nbd7 e4 dxc4 e5 Nd5 Ne4 h6 g4 c5 g5 cxd4 gxh6 Qc7 hxg7 Kxg7 Nxd4 Rh8 f4 Bb7 Nb5 Bc5+ Kh1 Qd8 Ng5 Rh5 Qe4 Qh8 h3 Bc6 f5 Rh4 Qf3 Nxe5 Bc3 Nxc3 Qxc3 Kf6 Bxc6 Kxg5 Qg3+ Rg4 Qh2 exf5 Nc3 Rh4 Qg2+ Ng4 Rxf5+ Kxf5 Bd7+ Kg6 Bxg4 Rg8 Bf5+ Kh6 Qd2+ Rg5 Ne4 Rxe4 Bxe4 Qe5 Bb7 Qc7 Ba8 Qg3 Rf1 Bd4 Qh2 Qe3 Bf3 f6 Bg4 b5 a3 Qe4+ Bf3 Qd3 Be2 Qe4+ Bf3 Qd3 Be2 Qg3 a4 Qe3 Bg4 a6 Qg2 f5 Qh2 Rg6 Qf4+ Qxf4 Rxf4 fxg4 Rxd4 gxh3 axb5 axb5 Rh4+ Kg7 Rd4 Rg2 Rd7+ Kf6 b3 cxb3",
+    "moves": "c4 e6 d4 Nf6 Nf3 b6 g3 Ba6 Qc2 c5 d5 exd5 cxd5 Bb7 Bg2 Nxd5 O-O Nc6 Rd1 Be7 Qf5 Nf6 e4 g6 Qf4 O-O e5 Nh5 Qc4 Re8 Bh6 Na5 Qd3 Ng7 Bxg7 Kxg7 Nc3 d6 exd6 Bf6 g4 Rb8 d7 Re6 g5 Bxg5 Re1 Bf6 Rxe6 fxe6 Re1 Bxf3 Bxf3 Bd4 Rxe6 Qxd7 Qe2 Kh8 Nb5 Rf8 Nxd4 Qxd4 Kg2 Qf4 h4 Kg7 Re7+ Kh6 Re4 Qf6 Qe3+ Kg7 Re7+ Rf7 Rxf7+ Qxf7 b3 Qf6 Qe4 Kh6 Qe3+ Kg7 Qe4 Qd6 Kh3 h5 Kg2 Qf6 Kg3 Qd8 Qe5+ Qf6 Qd5 Qf7 Qd6 Qf8 Qc7+ Qf7 Qe5+ Qf6 Qc7+ Qf7 Qd6 Qf6 Qd5 Qf7 Qa8 Qd7 Kh2 c4 Bd5 c3 Qg8+ Kf6 f4 Ke7 Qg7+ Kd8 Qh8+ Ke7 Qe5+ Kd8 Qh8+ Ke7 Qe5+ Kd8 Qb8+ Qc8 Qd6+ Qd7 Qb8+ Ke7 Qe5+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774124715.6234071
+  "updated": 1774124984.677252
 }
