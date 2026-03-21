@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2995,
-  "opponent": "SF_Bot1nok",
+  "opponent": "BOT_Stockfish13",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
   "time_left": 124,
-  "timestamp": "2026-03-21T12:31:49.917279",
+  "timestamp": "2026-03-21T12:33:37.306498",
   "last_game": {
     "result": "draw",
-    "opponent": "SF_Bot1nok",
+    "opponent": "BOT_Stockfish13",
     "rating_before": 2995,
     "rating_after": 2995,
     "rating_delta": 0,
-    "moves": "e4 a6 d4 e6 Nf3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 Nc6 g3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Nf4 f6 Bg2 Qb6 Nxe6 Re8 Nf4 fxe5 dxe5 Ndxe5 O-O Nxf3+ Bxf3 d4 Rfe1 Bf5 Re2 Kh8 Rae1 Rxe2 Rxe2 Rf8 g4 Bd7 h3 Qc7 Bxc6 bxc6 Nd3 Qd6 Qg5 Be6 b3 Kg8 Re4 Bd5 Rxd4 Rf3 Qe5 Qxe5 Nxe5 Rxh3 f3 Rh6 Nd7 g5 Rd3 Kf7 Nc5 a5 Re3 Rf6 Kf2 Rh6 Kg2 Rh4 Kg3 Rh1 Nb7 Rg1+ Kh3 Rf1 Kg3 Rg1+ Kh3 Kf6 a3 Ra1 a4 Rc1 Nxa5 c5 Rd3 Ke5 Kg2 Rc2+ Kg3 Ke6 Kh3 Ke5 Kg3 h6 Rd1 Rc3 Nc4+ Bxc4 bxc4 Rxc4 Ra1 Rb4 a5 Rb7 Kf2 Kd4 Rd1+ Kc3 Rc1+ Kd4 Rd1+ Kc4 Rd6 Rh7 a6 Kc3 f4 gxf4 Kf3 c4 Kxf4 Kc2 Rb6 c3 Rd6 Kc1",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 b6 Nc4 f6 c3 Ba6 b3 Qe7 d4 Bxc4 bxc4 Bd6 Qa4 c5 d5 g6 Be3 a6 Rab1 Kd8 g3 Kc8 Kg2 Kb7 Bh6 Ka7 h4 f5 Rb3 Nf6 Bg5 h6 Ra3 Kb8 Bxf6 Qxf6 Qc6 Rf8 Nd2 f4 Nf3 fxg3 fxg3 Qe7 Rb1 Ra7 Rf1 g5 h5 Ra8 Rb1 Ra7 Rf1 a5 Rb3 Rb7 Rbb1 Ka7 Qa4",
     "duration": 180,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774096309.9174201
+  "updated": 1774096417.3065925
 }
