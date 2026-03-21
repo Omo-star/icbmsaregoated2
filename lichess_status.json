@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2987,
-  "opponent": "HostFish",
+  "rating": 2993,
+  "opponent": "PureDefeat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-03-21T20:50:30.329783",
+  "time_left": 136,
+  "timestamp": "2026-03-21T20:52:29.684255",
   "last_game": {
-    "result": "win",
-    "opponent": "HostFish",
-    "rating_before": 2987,
-    "rating_after": 2987,
+    "result": "draw",
+    "opponent": "PureDefeat",
+    "rating_before": 2993,
+    "rating_after": 2993,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 g6 Be3 Nc6 f3 Bg7 Qd2 O-O Bc4 Bd7 O-O-O Rc8 Bb3 Nxd4 Bxd4 b5 Nd5 Nxd5 Bxg7 Kxg7 exd5 a5 a3 Kg8 Rhe1 Rc5 Re3 b4 axb4 axb4 Qxb4 Qa8 Bc4 Bf5 Ra3 Qc8 b3 Qc7 Qd2 Rc8 g4 Bd7 Ra2 Bb5 Bxb5 Rxb5 Kb1 Qc3 Qxc3 Rxc3 f4 Rc4 f5 gxf5 gxf5 Kg7 Kb2 Kf6 Raa1 Rf4 Rd2 Kxf5 Re1 Rb7 Re3 h5 Rde2 Rd4 Rxe7 Rxe7 Rxe7 Kf6 Kc3 Rxd5 Re4 Re5 Kd3 Ke6 c3 f6 c4 f5 Re2 f4 b4 Kd7 Re4 Rf5 Ke2 f3+ Kf2 Kc7 Rd4 Kc6 h4 Kb7 Rxd6 Rf4 Rd7+ Kb8 Rh7 Rxh4 Rh8+",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "noStart"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774126230.3298683
+  "updated": 1774126349.6843743
 }
