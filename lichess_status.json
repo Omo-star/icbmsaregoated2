@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2996,
-  "opponent": "ClassicLegendBot_v2",
+  "opponent": "PureDefeat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 137,
-  "timestamp": "2026-03-21T16:07:15.799620",
+  "time_left": 135,
+  "timestamp": "2026-03-21T16:08:43.492488",
   "last_game": {
     "result": "draw",
-    "opponent": "ClassicLegendBot_v2",
+    "opponent": "PureDefeat",
     "rating_before": 2996,
     "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 e6 Nc3 Nf6 Ndb5 d6 Bf4 e5 Be3 a6 Na3 Be6 Nc4 b5 Nb6 Rb8 Nbd5 Ng4 Bc1 b4 Na4 Nf6 Bg5 Qa5 Bxf6 b3+ Nac3 bxc2 Qxc2 Bxd5 exd5 Nd4 Qb1 gxf6 Bd3 h5 O-O Bh6 Ne2 Qxd5 Nxd4 Qxd4 Qc2 d5 Qc6+ Ke7 Qc7+ Ke6 Qc6+ Ke7 Qc7+ Ke6 Qc6+ Ke7",
+    "moves": "Nf3 Nf6 d4 e6 Bf4 b6 g3 Bb7 Bg2 d5 Ne5 c5 c4 cxd4 O-O Nbd7 Qxd4 Bc5 Qd1 Qc8 Qa4 d4 Bxb7 Qxb7 b4 Be7 Rd1 a5 c5 bxc5 bxc5 Bxc5 Nd2 O-O Nb3 Bb6 Rab1 Rfd8 Nc6 Re8 Ne5 Red8 Nc6 Re8 Ne5 Red8",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774109235.7997246
+  "updated": 1774109323.4925847
 }
