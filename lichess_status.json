@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2988,
-  "opponent": "HonkuWeak",
+  "opponent": "PureDefeat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 146,
-  "timestamp": "2026-03-21T20:40:55.090940",
+  "time_left": 98,
+  "timestamp": "2026-03-21T20:43:59.746107",
   "last_game": {
-    "result": "win",
-    "opponent": "HonkuWeak",
+    "result": "draw",
+    "opponent": "PureDefeat",
     "rating_before": 2988,
     "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 e6 g3 Bd7 Bg2 Be7 Ne5 Nf6 c4 Ne4 cxd5 exd5 Qb3 Nc6 Qxd5 Nd6 Nxd7 Qxd7 Nc3 O-O O-O Rfe8 Bf4 Nb4 Qb3 Nf5 Bh3 Rad8 Rad1",
+    "moves": "c4 e5 g3 Nf6 d3 Bb4+ Nd2 a5 Nf3 Nc6 Bg2 a4 a3 Be7 b4 axb3 Bb2 d6 a4 Ra6 O-O Nd7 Qxb3 h5 h4 g5 hxg5 Bxg5 Nxg5 Qxg5 Nf3 Qg4 d4 Nxd4 Bxd4 exd4 a5 Kd8 e3 dxe3 Qxe3 Qe6 Qg5+ Qf6 Rfe1 Qxg5 Nxg5 Rf8 Bd5 Ne5 f4 c6 fxe5 cxd5 cxd5 dxe5 Rxe5 f6 Ne6+ Bxe6 Rxe6 Rg8 Rxa6 bxa6 Kf2 Rg5 Rd1 Rf5+ Ke3 Ke7 Ke4 Re5+ Kf4 Kd6 Rd3 Rxd5 Rxd5+ Kxd5 Kf5 Kc4",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774125655.091038
+  "updated": 1774125839.7462318
 }
