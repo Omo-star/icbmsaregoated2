@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2988,
-  "opponent": "KPYTA9_L9GYSHKA",
+  "rating": 2987,
+  "opponent": "HostFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 102,
-  "timestamp": "2026-03-21T20:49:43.330402",
+  "time_left": 180,
+  "timestamp": "2026-03-21T20:50:30.329783",
   "last_game": {
-    "result": "draw",
-    "opponent": "KPYTA9_L9GYSHKA",
-    "rating_before": 2988,
-    "rating_after": 2988,
+    "result": "win",
+    "opponent": "HostFish",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "d4 c6 e4 d5 e5 c5 Nf3 e6 c3 Nc6 Bd3 Nge7 O-O cxd4 cxd4 Nf5 Be3 Nb4 Bxf5 exf5 Nc3 Be6 Ng5 Be7 a3 Nc6 Qh5 Bxg5 Bxg5 Qb6 Rfd1 Rc8 h3 h6 a4 a6 Ne2 Kd7 Be3 g5 b4 f4 Bc1 Qxb4 Ba3 Qc4 Bc5 Rhg8 Rab1 b5 axb5 axb5 Bd6 b4 Qf3 Ra8 Rdc1 Qa6 Kh1 Rh8 Bxb4 Nxb4 Rxb4 Rhb8 Qb3 Rxb4 Qxb4 Ke8 Kh2 Qxe2",
+    "moves": "",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "noStart"
   },
-  "updated": 1774126183.3305037
+  "updated": 1774126230.3298683
 }
