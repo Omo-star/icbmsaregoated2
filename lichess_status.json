@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2986,
-  "opponent": "Slothful17",
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 177,
-  "timestamp": "2026-03-21T17:05:08.816155",
+  "time_left": 104,
+  "timestamp": "2026-03-21T17:08:50.494891",
   "last_game": {
-    "result": "win",
-    "opponent": "Slothful17",
+    "result": "draw",
+    "opponent": "RaspFish",
     "rating_before": 2986,
     "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 e5 Qf3 Nf6 Bc4 c6 Nc3 b5 Bb3 a5 Nh3 a4",
+    "moves": "c4 Nf6 g3 e5 Bg2 h6 Nf3 e4 Nd4 d5 d3 dxc4 dxe4 Bc5 e3 Nc6 Nxc6 Qxd1+ Kxd1 bxc6 Ke2 h5 Nc3 Nd7 f4 f6 Bd2 Rb8 Na4 Bd6 h4 Nb6 Nc3 Bg4+ Bf3 Nd7 Na4 Nb6 Nxb6 axb6 Bc3 b5 a3 c5 Bxg4 hxg4 e5 fxe5 a4 b4 Bxe5 O-O Rhf1 Rfe8 a5 Bxe5 fxe5 Rxe5 Rf4 Rbe8 e4 Rxe4+ Rxe4 Rxe4+ Kd1 Rd4+ Kc2 Rd8 a6 Ra8 a7",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774112708.8162577
+  "updated": 1774112930.4949927
 }
