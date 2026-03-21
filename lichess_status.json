@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3089,
-  "opponent": "Mithril-SF",
+  "rating": 3091,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 100,
-  "timestamp": "2026-03-21T08:29:54.279057",
+  "time_control": "TC: 0+1",
+  "time_left": 38,
+  "timestamp": "2026-03-21T08:30:14.034699",
   "last_game": {
     "result": "draw",
-    "opponent": "Mithril-SF",
-    "rating_before": 3089,
-    "rating_after": 3089,
+    "opponent": "Bot1nokk",
+    "rating_before": 3091,
+    "rating_after": 3091,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Nf3 O-O e3 c5 Bd3 d5 cxd5 exd5 dxc5 Nbd7 Bd2 Nxc5 Be2 Ne6 Qb3 Be7 O-O a6 Rfd1 b5 a3 Bb7 Bf1 Rc8 Ne2 Ne4 Be1 Bd6 Rac1 Qf6 Rxc8 Rxc8 Nc3 N6c5 Qa2 g5 Nxd5 Qf5 b4 Ne6 h3 Rd8 Be2 h5 Nc3 g4 Nxe4 Qxe4 Bd3 Bh2+ Kxh2 Rxd3 Rxd3 gxf3 Qc2 fxg2 f3 Qxf3 Qf2 Ng5 Rd8+ Kh7 Qxf3 Nxf3+ Kxg2 Nxe1+ Kg3 Kg6 Rd7 Be4 Ra7 Bc2 Rxa6+ f6 Rb6 Ba4",
-    "duration": 202,
-    "bot_color": "black",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kf3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qd8",
+    "duration": 83,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774081794.2791667
+  "updated": 1774081814.03482
 }
