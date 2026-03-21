@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "PaconBot",
+  "rating": 3004,
+  "opponent": "kmpmzx",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 24,
-  "timestamp": "2026-03-21T14:45:38.820714",
+  "time_left": 180,
+  "timestamp": "2026-03-21T14:46:27.486236",
   "last_game": {
     "result": "win",
-    "opponent": "PaconBot",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "kmpmzx",
+    "rating_before": 3004,
+    "rating_after": 3004,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 Rd1 Kc8 Ng5 Be8 b3 b6 Nge4 Bd7 Bb2 Be7 Rd3 a5 g3 Be6 Ne2 g5 g4 Nh4 Nd4 Bxg4 Nxc6 Re8 Nxe7+ Rxe7 Nxg5 Bf5 Rd4 Ng6 f4 Bxc2 Rc1 Bf5 Nxh7 Kb7 Nf6 Rh8 Rf1 Re6 Ne4 Ree8 Rf2 Rh4 Nf6 Reh8 Ne4 Rg4+ Kf1 Rhh4 Bc1 Ne7 Nf6 Rg7 Ba3 Nc6 Rd1 a4 bxa4 Rh3 Bf8 Rg6 Ke1 Rh8 Ba3 Rh3 Bf8 Na5 Rc1 Re3+ Kd2 Rd3+ Ke1 Nc6 Rfc2 Rh3 Rf2 Re3+ Re2 Rf3 Ne4 Nd4 Ng3 Nxe2 Kxe2 Bg4 Kd2 Rg8 Bb4 Rh8 Rh1 Rxg3 hxg3 Rxh1 Ke3 c5 Bd2 Rh2 a5 b5 a3 Bf5 Bc1 Rc2 Bd2 Ka6 Be1 Ra2 g4 Rxa3+ Kd2 Bxg4 Bh4 b4 Bf6 Bf5 Ke2 b3 e6 fxe6 Kd1 Ra2 Kc1 Rc2+ Kd1 c4 Ke1 b2 Bxb2 Rxb2 Kd1 c3",
+    "moves": "e4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1774104338.8207896
+  "updated": 1774104387.486337
 }
