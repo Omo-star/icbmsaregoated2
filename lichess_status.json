@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3083,
-  "opponent": "TakticproChess",
+  "rating": 3089,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2026-03-21T08:19:33.584485",
+  "time_left": 19,
+  "timestamp": "2026-03-21T08:27:06.539999",
   "last_game": {
-    "result": "win",
-    "opponent": "TakticproChess",
-    "rating_before": 3083,
-    "rating_after": 3083,
+    "result": "draw",
+    "opponent": "Bot1nokk",
+    "rating_before": 3089,
+    "rating_after": 3089,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Rad8 Kh2 Rb8 Qd1 Qa6 Nh4 g6 Re1 Rg8 Rf1 Rbe8 Bd2 Qc8 Bc1 d5 cxd5 cxd5 d4 Bxd4 f4 Bf7 exd5 Qd8 Nf3 exf4 Bxf4 Bc5 Nd4 Bxd5 Ndf5 c6 Nxh6 Rh8 Nhf5 Bb6 Nd4 Nc5 Rd2 Qc8 Ndf5 Re6 Ne3 Bxa2 b4 axb3 Nc4 Ba7 Nd6 Qd7 Nde4 Qe8 Be5 Bb8 Bxb8 Rxe4 Ba7 b2 Rxb2 Qe5 Bxc5 Qxb2 Qd7+ Kh6 Nxe4 Qe5+ Kg1 Qxe4 Qd2+ Kg7 Qxa2 Rd8 Qa7+ Kg8 Qa5 Rd7 Qa8+ Kh7 Qf8 f5 Qf6 Qc4 Be3 Qe4 Qg5 c5 Bf4 Kg8 Kh2 c4 Qf6 Re7 Bd6 Rf7 Qd8+ Kg7 Rf4 Qe1 Rh4 Qxh4 Qxh4 Rd7 Qxc4 f4 Qxf4 Rf7 Qd4+ Rf6 Be5 g5 Qd8 Kf7 Bxf6 Ke6 g4 Kf7 Qe7+ Kg8 Qg7#",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 a5 b4 a4 Nb2 Kb7 Bd2 Ra8 Rd1 Qf7 Bc1 Qg8 d4 Rd8 Rd3 exd4 Nxa4 Qa2 Nb2 c5 bxc5 Qb1 c6+ Kb8 Rd1 Rc5 Nd3 Rxc2 Rxc2 Qxc2+ Rd2 Qxc6 Rb2 Bg5 Qf5 h3+ Qxh3 Qc3 Qh5 Qxd3 Qxg5 Rh8 Qxf4 Qd1 Rxb6+ Ka8 Ra6+ Kb8 Rb6+ Ka8 Ra6+ Kb8 Rb6+ Ka8",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774081173.5845594
+  "updated": 1774081626.5401065
 }
