@@ -6,17 +6,17 @@
   "variant": "Variant: Standard",
   "time_control": "TC: 3+1",
   "time_left": 100,
-  "timestamp": "2026-03-21T09:02:02.339834",
+  "timestamp": "2026-03-21T09:02:03.850301",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 2997,
-    "rating_after": 2997,
+    "result": "loss",
+    "opponent": "Ctrl_Alt_Destroy",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 Rc3 Ne7 Nd4 Nc6 Nf3 Ne7 b4 b6 Nd4 Kf8 Rc1 Rc8 Rxc8 Nxc8 Qc1 Ne7 h3 a5 bxa5 bxa5 Nb3 a4 Nc5 Nd5 Bd3 Ke7 Qc4 Qe5 e4 Qa1+ Bf1 Nf4 g3 Nxh3+ Kg2 Qxa3 Kxh3 Qf3 Kh2 Qxf2+ Bg2 Kf8 Qb4 Kg8 Qb8 Qxc5 Qxe8+ Qf8 Qxa4 Qd8 e5 g6 Qa8 Qxa8 Bxa8 f6 exf6 Kf7 g4 Kxf6",
-    "duration": 284,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "",
+    "duration": 180,
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1774083722.3399413
+  "updated": 1774083723.8504372
 }
