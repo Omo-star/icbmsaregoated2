@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
-  "opponent": "Classic_BOT-v2",
+  "rating": 2991,
+  "opponent": "ulrichwerner",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 111,
-  "timestamp": "2026-03-21T11:37:37.511617",
+  "time_left": 176,
+  "timestamp": "2026-03-21T11:38:14.481229",
   "last_game": {
-    "result": "draw",
-    "opponent": "Classic_BOT-v2",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "result": "win",
+    "opponent": "ulrichwerner",
+    "rating_before": 2991,
+    "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 Bb4 cxd5 exd5 Bf4 c5 dxc5 Nf6 e3 O-O Bd3 Nc6 Ne2 Bxc5 O-O d4 exd4 Nxd4 Na4 Nxe2+ Bxe2 Be7 Bf3 Qa5 Nc3 Qb4 Be5 Rd8 Qe2 Be6 Rfd1 Rac8 h3 h6 Rac1 Rxd1+ Rxd1 b6 a3 Qc4 Qxc4 Bxc4 Bb7 Rc5 f4 Bb3 Rd2 h5 Kf2 h4 Ne2 g6 Nd4 Ba4 b3 Bd7 b4 Rc4 Ke3 Ba4 Kd3 Rc1 Ne2 Rf1 Bf3 Kf8 Nc3 Bb3 Nb5 a6 Nd4 Ba4 Bb7",
+    "moves": "d4 Nf6 Bf4 g6 Nc3 d5 e3 Bg7 h4 h5 Nf3 O-O Ne5 c5 Qd2 cxd4 exd4 Nc6 Be2 Bf5 a3 Rc8",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1774093057.511795
+  "updated": 1774093094.4813244
 }
