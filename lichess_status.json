@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2992,
+  "rating": 3095,
   "opponent": "vastupidi",
   "variant": "Variant: Antichess",
-  "time_control": "TC: 3+2",
-  "time_left": 168,
-  "timestamp": "2026-03-21T22:28:57.007612",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-03-21T23:46:02.994040",
   "last_game": {
     "result": "win",
     "opponent": "vastupidi",
-    "rating_before": 2992,
-    "rating_after": 2992,
+    "rating_before": 3095,
+    "rating_after": 3095,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Qxf7+ Kxf7 Bxb6 Qxb6 Kd2 Qxf2+ Be2 Qxg1 Rxg1 Ba6 Bxa6 Nxa6 a4 Nc7 a5 e5 Ra3 Ne7 Ra2 Raf8 Kc3 Nc8 Kd4 exd4 Nc3 dxc3 Rb2 cxb2 Rc1 bxc1=N a6 Nxa6 c4 Re8 g4 Rhf8 c5 Nxc5 h3 N1b3 h4 h5 gxh5 Kg6 hxg6 Rf7 gxf7 Nd2 fxe8=R d5 Rxc8 a6 Rxc5 Nb3 Rxd5 Na5 Rxa5",
-    "duration": 318,
+    "moves": "g4 c5 g5 c4 d3 cxd3 Qxd3 g6 Qxg6 fxg6 Nc3 b5 Nxb5 Bg7 Nxa7 Bxb2 Bxb2 Rxa7 Bxh8 Rxa2 Rxa2 Nh6 gxh6 e5 Bxe5 Ke7 Bxb8 Kd6 Bxd6 Ba6 Rxa6 Qa5+ Rxa5 g5 Rxg5",
+    "duration": 30,
     "bot_color": "black",
     "termination": "variantEnd"
   },
-  "updated": 1774132137.0076826
+  "updated": 1774136762.9941165
 }
