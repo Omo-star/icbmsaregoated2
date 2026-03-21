@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2991,
-  "opponent": "SF_Bot1nok",
+  "opponent": "DJ_Haubi",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 175,
-  "timestamp": "2026-03-21T11:52:48.764654",
+  "time_left": 117,
+  "timestamp": "2026-03-21T11:55:05.588996",
   "last_game": {
-    "result": "draw",
-    "opponent": "SF_Bot1nok",
+    "result": "win",
+    "opponent": "DJ_Haubi",
     "rating_before": 2991,
     "rating_after": 2991,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 h3 Bb6 g3 a5 Bg2 Nd4 Nxd4 Bxd4 O-O Be6 Ne2 Ba7 a4 Qd7 Kh2 Qe7 Qe1 h5 b3 Bc5 Bd2 g5 Bc3 O-O-O d4 exd4 Nxd4 h4 g4 Bxg4 f4 gxf4 hxg4 Nxg4+ Kh1 Ne5 Nf5 Qe6 Qd2 Kb8 Bxe5 Qxe5 Qd5 h3 Bf3 Qc3 Rac1 Qb2 Rb1 Qc3 Rbc1 Qb2 Rb1 Qc3 Rbc1",
+    "moves": "g3 e5 Bg2 Nc6 d3 d5 a3 Nf6 Nd2 a5 b3 h5 h3 Ne7 e3 Ng6 Ne2 Bd6 Bb2 O-O e4 c6 O-O Bc7 exd5 cxd5 c4 d4 Ne4 Nxe4 dxe4 Ra6 Nc1 Nh4 gxh4 Rg6 Kh2 Qxh4 Qf3 f5 Nd3 fxe4 Qxe4 Rxg2+ Qxg2 e4+ Kg1 Bxh3",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1774093968.764813
+  "updated": 1774094105.5921247
 }
