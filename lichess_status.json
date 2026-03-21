@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2992,
-  "opponent": "PureDefeat",
+  "opponent": "varient-chess-bot1",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 78,
-  "timestamp": "2026-03-21T11:04:46.736581",
+  "time_left": 51,
+  "timestamp": "2026-03-21T11:09:45.186453",
   "last_game": {
-    "result": "draw",
-    "opponent": "PureDefeat",
+    "result": "win",
+    "opponent": "varient-chess-bot1",
     "rating_before": 2992,
     "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 e6 Nc3 c6 e3 Nd7 Nf3 Ngf6 cxd5 exd5 Qc2 Bd6 Bd3 O-O O-O Re8 Re1 Nf8 h3 Be6 a3 Qc7 b3 a6 a4 Qe7 Bd2 h6 Ne5 c5 a5 Rad8 Nf3 Ne4 Nxe4 dxe4 Bxe4 Bxh3 gxh3 Qxe4 Qxe4 Rxe4 Bc3 cxd4 Nxd4 Be5 Kg2 Bxd4 Bxd4 Rd5 Rac1 Ne6 Rc8+ Kh7 Bc3 Rh4 Rh1 Rd3 b4 Kg6 Kg3 Kh5 Kf3 Rd7 Kg2 Re4 Rb1 Rd5 Re1 Rd3 Rb1 Rd5 Re1 Rd3 Rb1 Rd5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 Nc3 Rxe1 Qxe1 Bxd4 Bf4 Ne8 Nd5 d6 Bg5 f6 Bc4 Kh8 Qe4 fxg5 Bd3 Bf5 Qxf5 Nf6 Nxf6 g6 Qxg5 Bxb2 Rb1 Bxf6 Qf4 b6 Re1 Qf8 Re6 Kg7 Qe4 d5 Qxd5 Re8 Qd7+ Re7 Rxe7+ Qxe7 Qa4 Qe1+ Bf1 a5 g3 Qb4 Qc6 Qd6 Qxd6 cxd6 h4 h6 Bb5 g5 hxg5 hxg5 Kf1 Bd4 Ke2 Kf6 a4 Ke5 Kf3 Bc5 c4 Bd4 Bd7 Bc5 Be8 Kd4 Bb5 Ke5 Ba6 Kf5 Bb5 Ke5 Bd7 Kd4 Be8 Kxc4 Ke2 d5 Bb5+ Kd4 Kd2 Bb4+ Ke2 Bd6 Ba6 Kc3 Bd3 g4 Bb5 d4 Ba6 Bc5 Bd3 Kb4 Bb5 Kc3 Ba6 Kb3 Bb5 Kc2 Bd3+ Kc3 Bb5 Bd6 Be8 d3+ Kd1 Bc5 Bd7 Bxf2 Bxg4 Bxg3 Bd7 d2 Be8 b5 Bxb5 Be1 Ba6 Bf2 Bb7 Be1 Bh1 Bf2 Be4 Be1 Ba8 Bf2 Bc6 Be1 Bb5 Bf2 Be8 Be1 Bc6 Bf2 Bd7 Be1 Be8 Bf2 Bb5 Be1 Bd7 Bf2 Bc8 Be1 Bb7 Bf2 Bf3 Be1 Bh5 Bf2 Bf7 Be1 Bg8 Kb4 Kc2 Kxa4 Ba2 Kb4 Bg8 a4 Bf7 a3 Be6 Kb5 Bd5 Kb6 Bf3 Bg3 Bd1 Be5 Kb3 Bb2 Kc2 Bc1 Kb3 Kc5 Be2 Kd4 Bg4 Ke3 Bd1 Kf2 Bh5 Ke1 Ka2 d1=Q Bxd1 Kxd1 Kb3 Kd2 Kb4 a2 Kc5 a1=Q Kc6 Kd3 Kd6 Kc4 Ke6 Qg7 Kd6 Bf4+ Ke6 Kc5 Kf5 Kd5 Kxf4 Qc3 Kf5 Qe5+ Kg6 Ke6 Kh7 Kf7 Kh6 Qd5 Kh7 Qh5#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1774091086.7367542
+  "updated": 1774091385.1865172
 }
