@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2986,
-  "opponent": "bot1500elo",
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 134,
-  "timestamp": "2026-03-21T17:19:37.116840",
+  "time_left": 137,
+  "timestamp": "2026-03-21T17:21:38.603636",
   "last_game": {
-    "result": "win",
-    "opponent": "bot1500elo",
+    "result": "draw",
+    "opponent": "TakticproChess",
     "rating_before": 2986,
     "rating_after": 2986,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d4 Bxd4 Nxd4 Nxd4 f4 d6 fxe5 dxe5 Bg5 Qe7 c3 Ne6 Rxf6 gxf6 Be3 Nf4 Bxf4 Qc5+ Kh1 Qxc4 Bg3 Be6 h3 Rg8 Nd2 Qd3 Bh4 Bxh3 Qf3 Bxg2+ Kh2 Bxf3 Re1 Qxd2+ Re2 Qf4+",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Qxc8 Qa5 Qb8 Nd4 b6 Qd2 Qc8 Nb5 Bxb5 Bxb5 g6 Qd6 Qc1+ Bf1 Nd5 Qe5 Qc7 Qxc7 Nxc7 f4 f6 Bc4 Kf7 e4 b5 Ba2 g5 Kf2 gxf4 Kf3 Kg6 Kxf4 e5+ Kg4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774113577.1169038
+  "updated": 1774113698.603751
 }
