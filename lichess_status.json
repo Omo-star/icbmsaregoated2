@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2989,
-  "opponent": "RaspFish",
+  "opponent": "AnIndianAnand",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 42,
-  "timestamp": "2026-03-21T10:50:14.420529",
+  "time_left": 84,
+  "timestamp": "2026-03-21T10:54:43.741489",
   "last_game": {
-    "result": "draw",
-    "opponent": "RaspFish",
+    "result": "win",
+    "opponent": "AnIndianAnand",
     "rating_before": 2989,
     "rating_after": 2989,
     "rating_delta": 0,
-    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 Qd7 O-O f6 f4 h5 b4 Bxd3 Qxd3 Nf5 a4 Nce7 Nd2 Nc8 Ng3 Nxg3 Qg6+ Qf7 Qxg3 f5 b5 a6 bxa6 Rxa6 h3 h4 Qd3 Qd7 a5 Qc6 Nb3 Qc4 Qb1 Kf7 Be3 Be7 Rc1 Na7 Kh2 Ra8 Nd2 Qb5 c4 dxc4 Rxc4 Qxb1 Rxb1 Nc6 Nf3 Ke8 Bd2 Rb8 Be1 Kd7 Rc2 b5 axb6 Raxb6 Rbc1 Ba3 Ra1 Bb2 Ra4 Ne7 Nxh4 Nd5 Bd2 Rb3 Nf3 Rd3 Ba5",
+    "moves": "d4 Nf6 c4 c6 Nc3 d5 Nf3 e6 Bg5 Nbd7 e3 Qa5 cxd5 Nxd5 Qd2 Bb4 Rc1 Nxc3 bxc3 Ba3 Rb1 b6 Qd3 h6 Bh4 O-O Be2 c5 Rb5 Qa4 Bd1 Qa6 Bc2 g6 O-O Bb7 c4 Bb4 dxc5 Nxc5 Qd4 Bxf3 Rxb4 Be2 Re1 Qa3 Rb3 Qxa2 Rc3 e5 Qxe5 Rac8 f3 Bxc4 Qf4 b5 Qxh6 Rc6 Bg3 Re6 Rd1 Nb7 Be1 b4 Rd4 Qa1 Kf2 Rxe3 Qxe3 Nd6 Rxd6 Qa2 Rxc4 Qxc4 Rxg6+ fxg6 Bb3 Qxb3 Qxb3+ Kg7 Qxb4 Re8 Qd4+ Kf7 Bb4 Re7 Qd6 Rb7 Qd5+ Kf6 Qxb7 g5 g4 a5 Qe7+ Kg6 Bc3 a4 Qg7#",
     "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1774090214.4206333
+  "updated": 1774090483.7415519
 }
