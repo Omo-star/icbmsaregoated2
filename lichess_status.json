@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "chess_bot_faster",
+  "rating": 2998,
+  "opponent": "ToromBot",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 41,
-  "timestamp": "2026-03-21T15:24:43.692070",
+  "time_left": 92,
+  "timestamp": "2026-03-21T15:28:27.775034",
   "last_game": {
     "result": "draw",
-    "opponent": "chess_bot_faster",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "opponent": "ToromBot",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 Be7 Nc3 d5 cxd5 exd5 Bf4 Nh5 Bd2 O-O e3 Nf6 Bd3 Re8 O-O Bg4 h3 Bh5 g4 Bg6 Bxg6 hxg6 Qb3 Nc6 Qxb7 Qd7 Ne5 Nxe5 dxe5 Nxg4 Qxd5 Nxe5 Qxd7 Nxd7 Nd5 Bd6 Rac1 Ne5 Kg2 Rab8 b3 c6 Nf4 g5 Nh5 Ba3 Rc2 Rb5 Bc3 Rc5 Rd1 Bb4 Rdc1 Bxc3 Rxc3 Rd5 Ng3 Nd3 Rh1 Re6 Rb1 Ne5 Rb2 Rd1 Ne4 Ng6 Nxg5 Nh4+ Kh2 Rh6 f4 f6 Ne4 Re1 Ng3 f5 Re2 Rd1 e4 fxe4 Rxe4 Rd2+ Re2 Rhd6 Re3 Rxe2+ Rxe2 Rd3 Ne4 Kf7 Nf2 Rc3 Ne4 Rd3 Nf2 Rc3 Nd1 Rd3 Nb2 Rc3 Nd1 Rd3 Nb2 Rc3 Nd1",
+    "moves": "d4 Nf6 Nf3 d5 e3 e6 Bd3 b6 c3 Bb7 b3 Nbd7 Bb2 Bd6 c4 O-O Nc3 dxc4 bxc4 e5 Be2 exd4 Qxd4 Qe7 Rd1 Rad8 Nd5 Qe4 Qxe4 Nxe4 O-O c6 Nc3 Ndf6 Nd4 Nxc3 Bxc3 Ne4 Bb2 Rfe8 f3 Nc5 Kf2 Be7 Nf5 Bf8 g4 g6 Ng3 Be7 Bd4 Ne6 Bb2 Bh4 Kg2 Nc5 Bd4 Ne6 Bc3 Nc5 Bd4 Ne6 Bb2 Nc5 Bd4 Ne6",
     "duration": 180,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774106683.6921842
+  "updated": 1774106907.775132
 }
