@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2991,
-  "opponent": "abdcebot",
+  "rating": 2992,
+  "opponent": "Che947",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 100,
-  "timestamp": "2026-03-21T11:31:47.897876",
+  "time_left": 106,
+  "timestamp": "2026-03-21T11:34:34.419243",
   "last_game": {
-    "result": "draw",
-    "opponent": "abdcebot",
-    "rating_before": 2991,
-    "rating_after": 2991,
+    "result": "win",
+    "opponent": "Che947",
+    "rating_before": 2992,
+    "rating_after": 2992,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 d4 Be7 Bd3 d5 O-O Nc6 c4 Nb4 Be2 O-O Nc3 Be6 Ne5 f6 Nf3 Kh8 c5 Qd7 Re1 Bf5 Nh4 Be6 Bb5 Nc6 Qc2 Rae8 Nf3 Bg4 Nxd5 Bxf3 gxf3 Ng5 Bxg5 Qxd5 Be3 f5 Kg2 Rf6 Bf4 Nxd4 Qd3 c6 Bc4 Ne6 Be5 Qxd3 Bxd3 Rff8 Rad1 Bxc5 a3 Rd8 Bc4 Nd4 Rg1 Rfe8 f4 b5 Ba2 Bb6 b4 Ne2 Rge1 Rxd1 Rxd1 Rd8 Rxd8+ Bxd8",
+    "moves": "e4 c5 d4 cxd4 Qxd4 Nf6 Nc3 Nc6 Qd1 e6 Nf3 a6 Bc4 b5 Bd3 d6 O-O Be7 Bg5 h6 Bh4 Bb7 Bg3 Nh5 h3 Nxg3 fxg3 b4 Ne2 Bf6 c3 O-O Rc1 bxc3 Nxc3 Ne5 Nxe5 Bxe5 Qf3 Rc8 a3 Qg5 g4 f5 Qe2 fxg4 Qxg4 Qe3+",
     "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1774092707.8980029
+  "updated": 1774092874.4194086
 }
