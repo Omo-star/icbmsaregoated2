@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2988,
-  "opponent": "Twinbanana_KTCT",
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 126,
-  "timestamp": "2026-03-21T10:28:05.176440",
+  "time_left": 173,
+  "timestamp": "2026-03-21T10:29:53.617725",
   "last_game": {
-    "result": "win",
-    "opponent": "Twinbanana_KTCT",
+    "result": "draw",
+    "opponent": "TakticproChess",
     "rating_before": 2988,
     "rating_after": 2988,
     "rating_delta": 0,
-    "moves": "Nf3 d5 g3 c6 Bg2 Bg4 O-O Nf6 d4 Nbd7 Nc3 e6 h3 Bh5 Bg5 h6 Bxf6 Nxf6 Qd3 Bg6 Qd2 Bd6 Ne5 Bh7 Rae1 O-O f4 c5 e4 cxd4 Qxd4 Rc8 Kh2 Bxe5 fxe5 Nxe4 Nxe4 dxe4 Qxd8 Rfxd8 c3 Rd2 Rb1 e3 Rfe1 Rcd8 Kg1 Bxb1",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb7 Rc1 Rfe8 Qc2 Qb6 Bc3 Nd7 Qd2 f6 Qd1 Kh7 Kh2 Rab8 Qc2 Bf7 Rd2 Qa6 Qd1 Rb6 Nh4 Nf8 Qg4 Ne6 Nhf5 Rg8 Ne7 Re8 Nef5 Bg6 Nh4 Bf7 Nhf5",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "resign"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774088885.1765745
+  "updated": 1774088993.6179051
 }
