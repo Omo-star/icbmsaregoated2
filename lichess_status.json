@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2986,
-  "opponent": "OxydanBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 5+0",
-  "time_left": 185,
-  "timestamp": "2026-03-22T10:11:11.141849",
+  "rating": 3096,
+  "opponent": "Buletten-Karl",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 2+1",
+  "time_left": 82,
+  "timestamp": "2026-03-22T10:14:31.370804",
   "last_game": {
-    "result": "win",
-    "opponent": "OxydanBot",
-    "rating_before": 2986,
-    "rating_after": 2986,
+    "result": "draw",
+    "opponent": "Buletten-Karl",
+    "rating_before": 3096,
+    "rating_after": 3096,
     "rating_delta": 0,
-    "moves": "f4 d5 g4 g6 d4 f5 Nc3 Nc6 a4 a5 g5 Kb8 Bf2 Nb4 Nd2 Nd7 e3 Nb6 Bg2 Nc8 Qe2 Nd6 Nb5 Ne4 O-O Bg7 Rfb1 h6 c3 Nc6 h4 hxg5 hxg5 Bf7 b4 Qd7 Be1 Rh8 Nb3 Kc8 Na3 Kb8 Ra2 e5 dxe5 axb4 cxb4 Bf8 b5 Nb4 Raa1 Be8 a5 Qh7 Nd4 Bc5 Nf3 Qe7 a6 bxa6 bxa6 Ka7 Bxb4 Bxb4 Nb5+ Bxb5 Qxb5 Rab8 Qxd5 Rhd8 Qc4 Qc5 Qxc5+ Bxc5 Nd4 Bxd4 exd4 Rxb1+ Rxb1 Rxd4 Bf1 Nc5 Rb5 Ne6 Rb7+ Ka8 Bg2 Rd1+ Kh2 Rd2 Rb2+ Rxg2+ Rxg2 Nxf4 Rc2 Kb8 Rc6 Ka8 e6 Nd5 Rc5 Ne7 Rxc7 Nd5 Rd7 Nb6 Rd8+ Ka7 e7 f4 e8=Q Kxa6 Qc6 Ka7 Qc7+ Ka6 Rd6 Ka5 Rxb6 f3 Qa7#",
-    "duration": 300,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Qb3 c5 cxd5 exd5 dxc5 Bxc3+ Qxc3 Qxc3+ bxc3 Nd7 Rd1 Nf6 Nd4 Bd7 f3 Rfc8 Nb3 Ba4 Rd4 Bxb3 axb3 Rxc5 Kd2 Rac8 Bd3 a5 h4 R8c7 g4 g5 hxg5 hxg5 Ra1 Kg7 b4 axb4 cxb4 Rc3 Bf5 Rb3 Ra2 Kf8 Bc2 Rbc3 Bd1 Ke7 Ra7 Rc1 Rd3 Rb1 Rb3 Rbc1 Rd3 R1c4 Rd4 Rxd4+",
+    "duration": 190,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774174271.1419163
+  "updated": 1774174471.370987
 }
