@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3095,
-  "opponent": "vastupidi",
-  "variant": "Variant: Antichess",
+  "opponent": "Cheszter",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 26,
-  "timestamp": "2026-03-21T23:46:02.994040",
+  "time_left": 14,
+  "timestamp": "2026-03-22T07:22:02.607881",
   "last_game": {
-    "result": "win",
-    "opponent": "vastupidi",
+    "result": "draw",
+    "opponent": "Cheszter",
     "rating_before": 3095,
     "rating_after": 3095,
     "rating_delta": 0,
-    "moves": "g4 c5 g5 c4 d3 cxd3 Qxd3 g6 Qxg6 fxg6 Nc3 b5 Nxb5 Bg7 Nxa7 Bxb2 Bxb2 Rxa7 Bxh8 Rxa2 Rxa2 Nh6 gxh6 e5 Bxe5 Ke7 Bxb8 Kd6 Bxd6 Ba6 Rxa6 Qa5+ Rxa5 g5 Rxg5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O Be7 c3 a6 Ba4 O-O Re1 b5 Bc2 Re8 a4 Rb8 axb5 axb5 d4 exd4 cxd4 Bg4 Nc3 Nb4 Bb1 c5 dxc5 dxc5 h3 Be6 Qxd8 Rexd8 Bf4 Rb7 Ra5 Bc4 Ne5 Nd7 Nxc4 bxc4 Rd1 g5 Bg3 Nc6 Ra2 Nb4 Ra5 Nc6 Ra3 Bf6 Rd6 Rxb2 Rxc6 Bxc3 Rxc3 Rxb1+ Kh2 Ra8 Bd6 h5 Rc7 h4 Rxc4 Rf1 Rc2 Raa1 g4 Rh1+ Kg2 Rag1+ Kf3 Nf6 Be5 Rxh3+ Ke2 Nxg4 Rc8+ Kh7 Rh8+ Kg6 Rg8+ Kh6 Rh8+ Kg6 Rg8+ Kh5 Rh8+ Kg6 Rg8+",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "variantEnd"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774136762.9941165
+  "updated": 1774164122.6079783
 }
