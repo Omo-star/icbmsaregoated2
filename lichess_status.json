@@ -5,18 +5,18 @@
   "opponent": "TakticproChess",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-03-23T10:24:52.130070",
+  "time_left": 20,
+  "timestamp": "2026-03-23T10:26:15.180004",
   "last_game": {
     "result": "draw",
     "opponent": "TakticproChess",
     "rating_before": 3094,
     "rating_after": 3094,
     "rating_delta": 0,
-    "moves": "d4 d5 c4 c6 Nf3 e6 e3 Nf6 b3 Bd6 Bd3 b6 O-O Nbd7 Nbd2 O-O e4 dxe4 Nxe4 Nxe4 Bxe4 Bb7 Re1 Nf6 Bg5 Be7 Bxf6 Bxf6 Qd3 g6 Qe3 Qc7 Rad1 Rad8 h4 Rd7 h5 Rfd8 h6 c5 d5 exd5 Bxd5 Re7 Qd2 Kf8 Rxe7 Qxe7 Re1 Qd6 Rd1 Qe7 Qf4 Bc8 g3 Qd6 Qc1 Bg4 Rd3 Re8 Qd2 Bxf3 Rxf3 Re7 Kg2 Qe5 Bc6 Re6 Qd7 Qd6 Qxd6+ Rxd6 Bd5 Ke7 Re3+ Kf8 Rf3 Ke7 g4 Rd7 Rf4 Bg5 Rxf7+ Kd6 Rf8 Bxh6 Rf6+ Ke7 Rc6 Rd6 Rc7+ Rd7 Rc6 Rd6 Rc7+ Rd7 Rc8 Rd8",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Rc8 Bc4 b5 Be2 b4 axb4 Qxb4 Qa1 Rb8 Qa2 a5 Bd1 Kf8 Bf3 Ne5 Qxa5 Qxa5 Nxa5 Rxb2 Nc4 Nxc4 Rxc4 Rb1+ Kh2 Rb2 Kg1 Rb1+ Kh2 Rb2 Kg1",
     "duration": 30,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774261492.1301694
+  "updated": 1774261575.1800985
 }
