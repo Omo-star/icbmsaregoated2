@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "YoBot_v2",
+  "rating": 3094,
+  "opponent": "Mithril-SF",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 565,
-  "timestamp": "2026-03-23T09:49:31.557366",
+  "time_control": "TC: 2+1",
+  "time_left": 98,
+  "timestamp": "2026-03-23T09:52:37.847351",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "opponent": "Mithril-SF",
+    "rating_before": 3094,
+    "rating_after": 3094,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qc1 Qe7 Nf3 Qb7 Nd4 Qe7 Nf3 Qb7 Nd4",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 c6 c3 d5 d3 e5 Nf3 Nd7 exd5 cxd5 Qe2 Qc7 Bf4 f6 d4 Bd6 Bg3 Ne7 c4 O-O Nc3 Bb4 Qc2 Qa5 dxe5 Nxe5 Nxe5 fxe5 cxd5 Bf5 Bd3 e4 Be2 Nxd5 O-O Nxc3 bxc3 Bxc3 Rac1 Bf6 Bd6 Rfc8 Qb3+ Kh8 Bf4 Qb6 Rxc8+ Rxc8 Qxb6 axb6 Bb5 Be7 a4 h5 Be3 Bc5 Rd1 g6 Kf1 Kg7 Rd5 Be6 Re5 Bf5 Bxc5 bxc5 Re7+ Kf6 Rxb7 Ke5 Ke1 c4 Kd2 c3+ Kc1 h4 a5 Rd8 a6",
+    "duration": 199,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774259371.5574613
+  "updated": 1774259557.8478203
 }
