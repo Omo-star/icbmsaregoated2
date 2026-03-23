@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3100,
-  "opponent": "Bot1nokk",
-  "variant": "Variant: Chess960",
+  "opponent": "Cheszter",
+  "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 9,
-  "timestamp": "2026-03-23T07:22:06.022526",
+  "time_left": 14,
+  "timestamp": "2026-03-23T07:23:25.891082",
   "last_game": {
     "result": "draw",
-    "opponent": "Bot1nokk",
+    "opponent": "Cheszter",
     "rating_before": 3100,
     "rating_after": 3100,
     "rating_delta": 0,
-    "moves": "d4 d5 a4 a5 Nf3 Nf6 Ne5 Ne4 f3 Nd6 e4 g5 Ne3 dxe4 fxe4 Ra6 g3 c5 dxc5 Bxe5 cxd6 Rxd6 Qh5 Nd7 Qxg5 f6 Qh5 Nb6 Ra3 Bd7 Rd1 Qc8 Rxd6 exd6 Bf3 Nc4 Nxc4 Qxc4 Be2 Qxe4 Bd3 Qg4 Qf7 Bc6 Qxh7 Bd4 Bf5 Qd1 Rd3 Qg1 Qh4 Bb6 Qxf6 Re1 Qxd6+ Ka7 Qf4 Rf1 Qg5 Qxh2 b3 Qg1 g4 Qf2 Kb2 Bd4+ Rxd4 Qxd4+ Ka2 Bd5 Qd2 Qxd2 Bxd2 Kb6 Be3+ Kc6 Bd2 Kb6 Kb2 Rf3 Bc3 Rf1 Bd2 Rf3 Bc3 Rf1 Be5 Kc6 Kc3 Bf3 g5 Kd5 Bc7 Rg1 Bd8 Rg2 Bc8 Kd6 Kd3 Rg3 Bf6 Rg2 Bh3 Rg3 Bf5 Bg4+ Kd4 Bxf5 Be5+ Kc6 Bxg3 Bxc2 Kc4 Bg6 Be1 b6 b4 axb4 Bxb4 Bh7 Kd4 Bg6 a5 bxa5 Bxa5 Be8 Bd8 Bf7 Be7 Bg8 Bf8 Bh7 Bg7 Bg8 Bh8 Bh7 Bg7 Bg8 Bh8 Bh7 Bg7 Bg8",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O Be7 c3 O-O Ba4 h6 Re1 Nh7 d4 Bf6 Na3 Bg4 Nc2 a5 h3 Bh5 Qd3 Bxf3 Qxf3 exd4 Bxc6 bxc6 cxd4 Re8 Qg3 Bg5 Qc3 Qd7 e5 c5 dxc5 Rxe5 Rxe5 dxe5 Bxg5 Nxg5 Qxe5 Qe6 Qxe6 Nxe6 Rd1 a4 Ne3 Ra5 Rc1 Rb5 Nd1 Nxc5 Rc3 g5 Kf1 f5 Rc2 c6 Rd2 Ne4 Rc2 Nc5 g3 Kg7 Rc3 h5 Ke2 Kf6 Rc4 Ke5 f4+ gxf4 gxf4+ Kd6 Kf3 Rb8 Ne3 Rxb2 h4 Rxa2 Nxf5+ Kd5 Ne3+ Kd6 Nf5+ Kd5 Ne3+ Kd6 Nf5+",
     "duration": 30,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774250526.022599
+  "updated": 1774250605.891173
 }
