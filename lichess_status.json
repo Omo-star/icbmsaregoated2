@@ -5,18 +5,18 @@
   "opponent": "ArjanZS",
   "variant": "Variant: Standard",
   "time_control": "TC: 1+1",
-  "time_left": 60,
-  "timestamp": "2026-03-23T16:45:51.435933",
+  "time_left": 48,
+  "timestamp": "2026-03-23T16:46:55.779333",
   "last_game": {
     "result": "win",
     "opponent": "ArjanZS",
     "rating_before": 3093,
     "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "Nf3 d5 c3 c5 e3 Nc6 d4 g6 dxc5 Bg7 Nbd2 Nf6 b4 O-O Bb2 Bg4 Rc1 a5 b5 Ne5 c4 dxc4 Bxe5",
-    "duration": 83,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "g3 Nf6 Bg2 e5 d4 exd4 Qxd4 d5 Nf3 c5 Qd1 Nc6 c4 d4 e3 Be6 exd4 Bxc4 Bf1 Bd5 Bg2 Qe7+ Qe2 Qxe2+ Kxe2 Bxf3+ Bxf3 Nxd4+ Ke3 O-O-O Nc3 Re8+ Kf4 Bd6+ Kg5 Nxf3+ Kf5 Re6 a3 g6#",
+    "duration": 100,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1774284351.4360166
+  "updated": 1774284415.7793963
 }
