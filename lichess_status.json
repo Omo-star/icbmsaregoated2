@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3089,
-  "opponent": "ToromBot",
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-03-23T12:11:33.542738",
+  "time_left": 18,
+  "timestamp": "2026-03-23T12:12:29.188243",
   "last_game": {
     "result": "draw",
-    "opponent": "ToromBot",
+    "opponent": "TakticproChess",
     "rating_before": 3089,
     "rating_after": 3089,
     "rating_delta": 0,
-    "moves": "e4 h6 d4 e6 Bd3 d5 Nc3 Nc6 Nf3 Nb4 Bb5+ c6 Be2 Nf6 e5 Ne4 a3 Na6 Nb1 c5 O-O Be7 c3 Bd7 Be3 Qb6 b4 cxb4 axb4 O-O Nfd2 Nxd2 Nxd2 Rac8 Rc1 Bb5 c4 Bxc4 Nxc4 dxc4 d5 Qxb4 dxe6 fxe6 Qc2 Rc6 Rb1 Qa5 Rxb7 Rc7 Rxc7 Nxc7 Qxc4 Qxe5 g3 Nd5 Bxa7 Qc7 Qe4 Nf4 gxf4 Qxa7 Rc1 Bh4 Qxe6+ Kh8 Qe3 Qxe3 fxe3 g5 Kg2",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6 Nc3 Qc7 Be3 a6 Qf3 Nf6 O-O-O Ne5 Qg3 b5 f4 Neg4 Bg1 h5 Bd3 h4 Qf3 Bb7 Kb1 Nh6 Bf2 Bc5 Rhe1 Qb6 Be2 d6 a3 e5 fxe5 dxe5 Nf5 Nxf5 Bxc5 Qxc5 Qxf5 O-O g4 Bc8 Qg5 Be6 Qxh4 b4 Na4 Qc6 g5 Nh7 b3 bxa3 g6 fxg6 Qg3 Rab8 Qxe5 Rfe8 Qd4 a5 Nc5 Rbd8 Qc3 Rc8 Bc4 Bxc4 Qxc4+ Kh8 Rd5 Nf6 Rg5 Qd6 Reg1 Re5 Rxe5 Qxe5 Nd3 a2+ Kxa2 Qe8 Qa4 Rxc2+ Kb1 Qc8 e5 Rd2 Rc1 Qf5",
     "duration": 30,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774267893.542885
+  "updated": 1774267949.1883426
 }
