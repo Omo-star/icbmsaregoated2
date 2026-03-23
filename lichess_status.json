@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3091,
-  "opponent": "YoBot_v2",
+  "opponent": "duchessAI",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 43,
-  "timestamp": "2026-03-23T13:20:48.181759",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-03-23T13:22:06.987046",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
+    "result": "win",
+    "opponent": "duchessAI",
     "rating_before": 3091,
     "rating_after": 3091,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 f6 h4 Bf8 Bd2 Nb8 Ne3 Be6 h5 c5 b3 Nc6 Nh4 Qd7 Bc3 Rad8 Nef5 Bxf5 Nxf5 g6 Ne3 Nd4 Ng4 Qe6 Re1 Kf7 Bb2 Rd7 c3 Nc6 Qf3 Bg7 Rad1 Red8 Re3 Ke8 h6 Bh8 Qh3 Rd6 Ree1 Kf7 Qf3 f5 b4 cxb4 cxb4 a6 a4 Qb3 Rb1 Qxd3 exf5 Qxf3 fxg6+ Rxg6 gxf3 Nd4 Kg2 Ke7 Bxd4 Rxd4 Kg3 Rf4 Red1 Rd6 Rdc1 Kd7 Rc3 Kc8 a5 c6 b5 axb5 Rxb5 Ra4 Rbc5 Kc7 Nxe5 Bxe5+ Rxe5 Rg6+ Kh3 Ra1 Kh2 Ra4 Rh5 Ra2 Kh3 Ra1 Kh2 Ra2 Kh3 Rxf2 Rb3 Rf1 Kh2 Rf2+ Kh3 Rfg2 f4 Kb8 f5 Rg8 Rf3 Ka7 f6 Rg1 Kh2 R8g2+ Kh3",
-    "duration": 187,
+    "moves": "d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 Nxc3 bxc3 c5 Bb5+ Nd7 Nf3 Bg7 O-O a6 Bd3 O-O Bg5 cxd4 cxd4 b5 Rc1 Nb6 d5 Re8 h3 Bb7 Qd2 Rc8 Rxc8 Bxc8 Rc1 f5 exf5 Bxf5 Bxf5 gxf5 Rd1 Nc4 Qe2 Qd6 Nh4 Qe5 Qxe5 Bxe5 Nxf5 Kf7 g4 Bf6 f4 Bc3 d6 exd6 Nxd6+ Nxd6 Rxd6 a5 Rd7+ Ke6 Rxh7 b4 f5+ Kd6 f6 Rf8 Bf4+ Ke6 g5 Rf7 Rh8 a4 Rb8 Ra7 Be3 Ra5 Kg2 b3 Rb6+ Kf7 a3 Rd5 h4 Kg6 Kf3 Kh5 Rb8 b2 Rh8+ Kg6 h5+ Kf7 Rh7+",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774272048.1819568
+  "updated": 1774272126.987208
 }
