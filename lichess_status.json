@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3093,
-  "opponent": "SF_Bot1nok",
-  "variant": "Variant: Antichess",
-  "time_control": "TC: \u00be+0",
-  "time_left": 9,
-  "timestamp": "2026-03-23T09:17:33.668856",
+  "opponent": "Cheszter",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2026-03-23T09:18:34.035253",
   "last_game": {
-    "result": "loss",
-    "opponent": "SF_Bot1nok",
+    "result": "draw",
+    "opponent": "Cheszter",
     "rating_before": 3093,
     "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ke7 h6 Kd6 Rc1 Ra7 Kf3 a2 Nd1 Ne7 Ke2 Ke6 g6 hxg6 Nc3 Rb7 Nxa2 Rb3 cxb3 Kf7 h7 g5 b4 g4 h8=N+ g3 Nxf7 d6 Nxd6 Nc8 Rxc8 g2 b5 g1=K Kf1 Kxf1 Nb4 Ke2 Nd3 Kxd3 Ne4 Kxe4 Rc1 Kd3 Rh1 Kc2 Rh7 Kb2 b6 Kb3 b7 Kc4 Rf7 Kc5 Rf1 Kb4 b8=B Kc5 Bd6 Kxd6 Rf4 Kc6 Re4 Kb7 Re5 Kc7 Rh5 Kd7 Rf5 Kc7 Re5 Kb7 Rd5 Ka8 Rc5 Ka7 Rc2 Ka6 Rc4 Ka7 Rc5 Ka8 Rc6 Ka7 Rb6 Kxb6",
-    "duration": 45,
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Qc2 O-O Bg2 Nbd7 O-O c6 Bf4 a5 h4 b6 Nbd2 Bb7 e4 dxe4 Nxe4 c5 Nxf6+ Nxf6 Rad1 Qc8 Qe2 cxd4 Rxd4 Bc5 Rdd1 a4 Ne5 Bxg2 Kxg2 Qb7+ Qf3 Qxf3+ Kxf3 h5 Rd2 Rfc8 Rfd1 Bb4 Rd4 Bc5 R4d3 Kf8 Bg5 Ng4 Nxg4 hxg4+ Kxg4 f6 Be3 Bxe3 Rxe3 Rxc4+ f4 e5 Kf5 exf4 gxf4 Rc2 Rg3 Ra7 Kg6 Rxb2 a3 Rb3 Rdd3 b5 Rxb3 axb3 Rxb3 Ra6 h5 Kg8 Rh3 f5+ Kxf5 Ra4 Rb3 Kh8 Ke5 Kh7 f5 Kh6 f6 gxf6+ Kxf6 Ra8 Ke5 Kxh5 a4 bxa4 Ra3 Rg8 Rxa4 Rh8 Ra1 Rg8 Rh1+ Kg6 Rg1+ Kh7 Rxg8 Kxg8",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1774257453.6689155
+  "updated": 1774257514.035318
 }
