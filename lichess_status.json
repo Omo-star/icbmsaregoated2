@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "Cheszter",
+  "rating": 3089,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 151,
-  "timestamp": "2026-03-23T11:36:49.251992",
+  "time_control": "TC: 1+1",
+  "time_left": 31,
+  "timestamp": "2026-03-23T11:40:12.548820",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "opponent": "YoBot_v2",
+    "rating_before": 3089,
+    "rating_after": 3089,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 a4 d5 Nd2 Ne7 Nf3 Bf5 Qb3 Bd3 Re1 Bxf1 Rxf1 Qd7 h4 c6 h5 Nf5 Bf4 Nh4 Nh2 Rae8 Rae1 Bd8 Qd1 Rxe1 Rxe1 Re8 Re5 Rxe5 Bxe5 Nf5 Nf1 g6 Qg4 Qe7 Ng3 Nxg3 Bxg3 Qe1+ Kh2 Qe7 Kg1 Qe1+ Kh2 Qd2 Qd7 Qg5 Kg1 Qc1+ Kh2 Qg5 hxg6 Qh5+ Kg1 Qd1+ Kh2 Qh5+ Qh3 Qxh3+ Kxh3 fxg6 Bh4 Bc7 Kg4 b5 b3 h6 f4 h5+ Kf3 Kf7 g4 hxg4+ Kg3 bxa4 bxa4 Bb6 Kxg4 Ke6 Bf2 Kf7 Be3 Bc7 f5 gxf5+ Kxf5 Bg3 Bd2 Ke7 Bc1 Be1 Ba3+ Kd7 Bb2 Kd6 Kf4 c5 Ke3 cxd4+ cxd4 Kc6 Ba1 Bh4 Bb2 Bd8 Ba1 Bb6 Bb2 Kd7 Ba1 Bc7 Bb2 Kc6 Ba1 Kd7 Bb2 Kc6 Ba1 Bb6 Bb2 Kd7 Ba1",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 Ba6 b3 O-O Bg2 d5 O-O c6 Ne5 Nfd7 Nxd7 Nxd7 Rc1 Bb7 Nc3 h6 Rc2 Qe7 Rac1 dxc4 bxc4 Rfd8 Qe3 Nf6 c5 Rd7 Rb2 Rad8 cxb6 axb6 Rxb6 Ng4 Qd3 Rxd4 Qb1 Ba8 e3 R4d7 Rb8 Qa3 Ne4 f5 Nc5 Rxb8 Qxb8+ Kh7 Nxd7 Qxc1+ Bf1 Nxh2 Nf8+ Kg8 Nxe6+ Kf7 Nd8+ Kg6 Qd6+ Kh7 Kxh2 Qxf1 Qf4 Qb1 Qf3 g6 Qf4 Qxa2 Qc7+ Kg8 Qb8 Qxf2+ Kh3 Qf1+ Kh2 Qe2+ Kh1 Qf1+ Kh2 Qe2+ Kh3 Qh5+ Kg2 Qe2+ Kh3 Qh5+ Kg2 g5 Ne6+ Kf7 Nd4 c5+ Qxa8 cxd4 Qd5+ Kf8 Qxf5+ Qf7 Qxf7+ Kxf7 exd4 g4",
+    "duration": 170,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774265809.2521138
+  "updated": 1774266012.5489304
 }
