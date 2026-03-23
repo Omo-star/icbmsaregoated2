@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3092,
-  "opponent": "Lili-ai",
+  "rating": 2994,
+  "opponent": "caissa-x",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2026-03-23T12:53:08.005369",
+  "time_control": "TC: 3+0",
+  "time_left": 23,
+  "timestamp": "2026-03-23T12:58:50.680020",
   "last_game": {
-    "result": "draw",
-    "opponent": "Lili-ai",
-    "rating_before": 3092,
-    "rating_after": 3092,
+    "result": "win",
+    "opponent": "caissa-x",
+    "rating_before": 2994,
+    "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "c4 Nf6 d4 e6 Nf3 d5 g3 Bb4+ Bd2 Be7 Bg2 O-O Qc2 c6 O-O b6 Ne5 Bb7 Rd1 Nbd7 cxd5 cxd5 Nc6 Qe8 Nxe7+ Qxe7 Nc3 Rfc8 Be1 Ne4 Rdc1 Ndf6 Qd1 h6 Na4 Bc6 Nc3 a5 f3 Nxc3 Rxc3 Bb5 Rac1 Rxc3 Rxc3 a4 Bf1 Bc4 b3 Bb5 Qc1 Ne8 g4 axb3 Rxb3 Nd6 Bg3 Be8 Rxb6 Nc4 Rb8 Rxb8 Bxb8 Qb7 Bg3 Qa7 Qb1 Qxd4+ Bf2 Qe5 Bg3",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 c4 Ba6 b3 g6 f4 g5 f5 O-O-O Bb2 Qc5 Nc3 Nf4 Ne4 Qa5+ Qd2 Bb4 Bc3 Bxc3 Qxc3 Qxc3+ Nxc3 Rhe8 O-O-O Rxe5 g3 Nh5 f6 Nxf6 Bh3 Rg8 Rhf1 Rg6 Bg2 Rh6 Rd2 Kb8 Kb2 Re3 Rf5 Bc8 Rc2 Rg6 Ra5 Ng4 Be4 Rg7 Rd2 f6 Ra4 Ne5 c5 Rf7 Nd1 Re1 Bc2 f5 h4 h6 Nf2 Re3 Nd3 Ng4 Rg2 Rfe7 Nc1 d5 hxg5 hxg5 Bd1 Ne5 Bc2 a6 Rb4+ Ka8 Ra4 Re8 Rd4 Ka7 Bb1 Rf8 Nd3 Nf3 Rb4 Rfe8 Nc1 d4 Rc4 Ne1 Rd2 d3 Rd1 Rxg3 Nxd3 Nxd3+ Bxd3 Rd8 Kc2 Rd5 Ra4 f4 Be4 Rxc5+ Kd2 Bf5 Rf1 Re3 Bxf5 Rd5+ Kc2 Rxf5 Rc4 c5 b4 Kb6 a4 f3 Rg4 Rfe5 Kd1 Ra3 Rc4 Ra1+ Rc1 Rxc1+ Kxc1 g4 a5+ Kb5 Kd2 cxb4 Kd3 c5 Kc2 Kxa5 Kd2 Kb5 Kd3 Rf5 Ke4 Rf8 Rf2 g3 Rxf3 Rxf3 Kxf3 b3 Kg2 b2 Kf1 b1=Q+",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1774270388.0054724
+  "updated": 1774270730.6801405
 }
