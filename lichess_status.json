@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3093,
-  "opponent": "Mithril-SF",
+  "rating": 2981,
+  "opponent": "Fischer_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 2+1",
-  "time_left": 107,
-  "timestamp": "2026-03-23T09:22:14.337772",
+  "time_control": "TC: 3+0",
+  "time_left": 66,
+  "timestamp": "2026-03-23T09:27:29.212493",
   "last_game": {
-    "result": "draw",
-    "opponent": "Mithril-SF",
-    "rating_before": 3093,
-    "rating_after": 3093,
+    "result": "win",
+    "opponent": "Fischer_Bot",
+    "rating_before": 2981,
+    "rating_after": 2981,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 h3 h6 d4 Ba7 Re1 g5 dxe5 Nxe5 Be3 Bxe3 Rxe3 Nxc4 Qa4+ c6 Qxc4 g4 hxg4 Nxg4 Qd4 Rg8 Re2 Qe7 e5 Nxe5 Nxe5 Rg5 Nf3 Qxe2 Nbd2 Rd5 Qh8+ Ke7 Re1 Qxe1+ Nxe1 Rxd2 Qxh6 Rxb2 Qg5+ Kd7 Qg8 Kc7 Qxf7+ Bd7 Nd3 Re2 Nf4 Re1+ Kh2 Rh8+ Kg3 Re5 f3 Rhe8 Nh5 R8e7 Qf8 Re8 Qf7 R8e7 Qf8 Re8 Qh6 R8e6",
-    "duration": 196,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Ne4 a4 Nxc6 Bh4 Nd4 axb3 axb3 Ra2 Bc1 h5 gxh5 Rxh5 Nc3 Ra5 Nxe6 fxe6 f4 Rh8 Ne2 Be7 Kh1 c5 Nc3 Nh4 Be3 Nf5 Kg2 Nh4+ Kf1 Nf5 Kg2 Rh5 Bf2 g5 fxg5 Rxg5+ Kh1 Rh5 Kh2 Bg5 Kg2 Ra7 Na4 Ra6 Rd7 Be7 Nc3 Ra5 Na4 Ra6 Nc3 Ra5 Kh2 Rh7",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774257734.337868
+  "updated": 1774258049.2126057
 }
