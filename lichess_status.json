@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2981,
-  "opponent": "Fischer_Bot",
+  "rating": 2987,
+  "opponent": "OxydanBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 66,
-  "timestamp": "2026-03-23T09:27:29.212493",
+  "time_control": "TC: 3+2",
+  "time_left": 135,
+  "timestamp": "2026-03-23T09:34:11.852697",
   "last_game": {
-    "result": "win",
-    "opponent": "Fischer_Bot",
-    "rating_before": 2981,
-    "rating_after": 2981,
+    "result": "draw",
+    "opponent": "OxydanBot",
+    "rating_before": 2987,
+    "rating_after": 2987,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Ne4 a4 Nxc6 Bh4 Nd4 axb3 axb3 Ra2 Bc1 h5 gxh5 Rxh5 Nc3 Ra5 Nxe6 fxe6 f4 Rh8 Ne2 Be7 Kh1 c5 Nc3 Nh4 Be3 Nf5 Kg2 Nh4+ Kf1 Nf5 Kg2 Rh5 Bf2 g5 fxg5 Rxg5+ Kh1 Rh5 Kh2 Bg5 Kg2 Ra7 Na4 Ra6 Rd7 Be7 Nc3 Ra5 Na4 Ra6 Nc3 Ra5 Kh2 Rh7",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 Nc3 Na5 Bg5 Nxc4 dxc4 h6 Bxf6 Qxf6 Nd5 Qd8 b4 Bb6 Qd3 O-O Rfd1 Be6 a4 a5 Nxb6 cxb6 Qxd6 axb4 h3 Bxc4 Qxb4 Qc7 Nxe5 Qxe5 Qxc4 Rfc8 Qd5 Qxd5 exd5 Rxc2 Rab1 Rxa4 d6 Rc8 Rxb6 Ra7 Re1 Rd8 Re7 Ra1+ Kh2 Ra2 Kg3 h5 Kf3 Ra6 Rbxb7 Rdxd6 Re8+ Kh7 Rxf7 Rf6+ Rxf6 Rxf6+ Ke3 g5 g3 Rb6 Ke4 Kg6 Kf3 Kf7 Re4 Rb5 Ke2 Kg6 Re6+ Kg7 Kf3 Rb2 Re3 Kg6 Rc3 g4+ hxg4 hxg4+ Kxg4 Rxf2 Rc1 Kh7 Ra1 Kh8 Rb1 Kg8 Ra1 Kh8 Rb1 Kg8 Ra1 Kh8",
+    "duration": 388,
     "bot_color": "black",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1774258049.2126057
+  "updated": 1774258451.8527608
 }
