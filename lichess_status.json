@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3093,
-  "opponent": "TakticproChess",
+  "rating": 3035,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-03-23T09:02:12.694594",
+  "time_control": "TC: 10+0",
+  "time_left": 327,
+  "timestamp": "2026-03-23T09:13:15.233820",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
-    "rating_before": 3093,
-    "rating_after": 3093,
+    "opponent": "ArasanX",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Nd4 Bxd4 exd4 Ne2 a5 g3 Nd7 Bg2 Ne5 O-O h5 Nxe5 dxe5 c5 Ba7 f4 h4 fxe5 c6 Nf4 Qg5 e6 Bxe6 Nxe6 fxe6 Rf3 Ke7 bxa5 Bxc5 Qb3 Rab8 Bh3 Rh6 Raf1 hxg3 Rxg3 Qe5 Qa2 Bd6 Qg2 g6 Rg5 Qh8 e5 Bxe5 Re1 Rxh3 Rgxe5 Re3 R5xe3 dxe3 Qg5+ Qf6 Qc5+ Ke8 Qxe3",
-    "duration": 30,
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Nb6 Kb1 Nbxd5 Bg5 Be7 Bd3 Qc7 Rhe1 Nb6 Qf2 O-O h4 Rae8 Bh6 d5 c3 e4 Bc2 Nc4 Qd4 b5 Rf1 Kh7 Bxf8 Bxf8 fxe4 Nxe4 Bxe4 dxe4 Qd7 Re7 Qxc7 Rxc7 Rf6 Bg7 Rxa6 e3 Nc1 b4 Kc2 e2 Rg1 Re7 Nxe2 Rxe2+ Kd3 Rxb2 Kxc4 bxc3 Rc1 Rxg2 Ra7 Kh6 a4 Rh2 a5 Rxh4+ Kb3 Rf4 Rc7 Be5 a6 Rf6 a7 Ra6 Rd7 h4 Rh1 Kh5 Re1 f6 Re2 g5 Ra2 c2 Rxc2 Bd4 Rxd4 Rxa7 Rc8 Kg6 Rd1 h3 Rh8 Rh7 Rxh7 Kxh7 Ra1 g4 Rh1 Kg6 Kc2 Kg5 Kd1 Kh4 Ke2 f5 Ra1 f4 Rb1 f3+ Kf1 g3 Rb4+ Kg5 Rb5+ Kh4 Rb4+ Kg5 Rb5+ Kg6 Rb6+ Kg7 Rb7+ Kg8 Rb8+ Kg7 Rb7+ Kg8 Rb8+ Kg7 Rb7+",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774256532.694697
+  "updated": 1774257195.2339056
 }
