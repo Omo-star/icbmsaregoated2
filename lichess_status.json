@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "Z-BykovMiron-1Z",
+  "rating": 3097,
+  "opponent": "Elkapa_Jr",
   "variant": "Variant: Standard",
-  "time_control": "TC: 7+0",
-  "time_left": 404,
-  "timestamp": "2026-03-24T17:11:27.992201",
+  "time_control": "TC: 1+0",
+  "time_left": 45,
+  "timestamp": "2026-03-24T23:32:42.831174",
   "last_game": {
     "result": "win",
-    "opponent": "Z-BykovMiron-1Z",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "opponent": "Elkapa_Jr",
+    "rating_before": 3097,
+    "rating_after": 3097,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Bxc6 dxc6 Nxe5 Qd4 d3 Bc5 Be3 Qxe5 Bxc5 Qxc5 Qf3 Qxc2 Na3 Qxb2 Qd1 Qc3+",
-    "duration": 420,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Bc5 c3 Bb6 d4 exd4 cxd4 a6 Ba4 Nge7 d5 Nb8 e5 O-O d6 cxd6 exd6 Nec6 O-O a5 Nc3 Na6 Bc2 Qf6 Nd5 Qd8 Bxh7+ Kh8 Ng5 f6 Qh5 Qe8 Bg6+",
+    "duration": 60,
+    "bot_color": "white",
     "termination": "resign"
   },
-  "updated": 1774372287.9922922
+  "updated": 1774395162.8312378
 }
