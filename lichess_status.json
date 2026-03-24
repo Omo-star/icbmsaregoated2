@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3038,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 2998,
+  "opponent": "Z-BykovMiron-1Z",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 293,
-  "timestamp": "2026-03-24T13:20:52.689723",
+  "time_control": "TC: 7+0",
+  "time_left": 404,
+  "timestamp": "2026-03-24T17:11:27.992201",
   "last_game": {
-    "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 3038,
-    "rating_after": 3038,
+    "result": "win",
+    "opponent": "Z-BykovMiron-1Z",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 Bg7 Nc3 d6 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Be2 Bxh6 Qxh6 Nc6 Qe3 Nb4 Rc1 Bf5 O-O Nxc2 Qd2 Nb4 Nb5 Ne4 Nxd6 Nxd2 Nxf5 gxf5 Rfd1 Ne4 Rc7 f6 Nd3 Nxd3 Bxd3 Kf7 Re1 Rfe8 Bb5 Rec8 Rxb7 Rab8 Ba6 Rxb7 Bxb7 Rc2 Bxd5+ Kf8 Be6 Rxb2 Bxf5 Nd6 Bxh7 Rxa2 h4 Rd2 h5 Rxd4 Ra1 Rd5 Bg6 a5 g4 Kg7 Kh2 Rd4 Re1 e5 Kg3 a4 Rc1 f5",
-    "duration": 600,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 Bxc6 dxc6 Nxe5 Qd4 d3 Bc5 Be3 Qxe5 Bxc5 Qxc5 Qf3 Qxc2 Na3 Qxb2 Qd1 Qc3+",
+    "duration": 420,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1774358452.6898668
+  "updated": 1774372287.9922922
 }
