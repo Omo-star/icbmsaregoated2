@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2999,
-  "opponent": "rascal1",
-  "variant": "Variant: Crazyhouse",
-  "time_control": "TC: 5+2",
-  "time_left": 325,
-  "timestamp": "2026-03-24T12:01:11.822732",
+  "opponent": "PZChessBot",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 5+1",
+  "time_left": 300,
+  "timestamp": "2026-03-24T12:02:17.322521",
   "last_game": {
-    "result": "loss",
-    "opponent": "rascal1",
+    "result": "draw",
+    "opponent": "PZChessBot",
     "rating_before": 2999,
     "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Nxd4 Qxd4 N@c6 Qc4 Nb4 Nb5 Na6 @d6 Bxd6 Nxd6+ cxd6 N@f5 O-O B@e7 Qxe7 Nxe7+ Kh8 Nf5 B@b4+ Kd1 N@g8 c3 d5 exd5 d6 Nxg7 Bg4+ f3 Rfc8 Ne6 @c2+ Kxc2 @g7 @h6 Nxh6 Bxh6 Bxe6 dxe6 N@e3+ Bxe3 Rxc4 Bxc4 Bxc3 bxc3 Q@g6+ B@d3 @e4 fxe4 d5 N@e5 Nb4+ cxb4 dxe4 Nxg6+ hxg6 Q@h4+ @h6 N@e5 exd3+ Bxd3 B@d1+ Rhxd1 Rc8+ @c4 @b3+ axb3 N@g5 exf7 Nxf7 Nxf7+ Kg8 Q@e7 Rxc4+ Qxc4 g5 R@h8#",
-    "duration": 470,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "f4",
+    "duration": 301,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1774353671.8228304
+  "updated": 1774353737.3226087
 }
