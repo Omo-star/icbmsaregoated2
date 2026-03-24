@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3093,
-  "opponent": "TakticproChess",
+  "rating": 3000,
+  "opponent": "compchess60",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-24T08:23:04.432561",
+  "time_control": "TC: 3+1",
+  "time_left": 131,
+  "timestamp": "2026-03-24T08:26:20.329433",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
-    "rating_before": 3093,
-    "rating_after": 3093,
+    "opponent": "compchess60",
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Ne7 Nd4 Nc6 Nxc6 Bxc6 Rd1 Qc7 Rxd8+ Qxd8 Qc3 Qg5 f3 g6 Qd4 a6 Kf2 h5 Bc4 e5 Qc3 h4 a4 Qf6 a5 g5 Bd3 g4 hxg4 h3 g5 Qxg5 gxh3 Qh4+ Kg2 Qg5+ Kf2 Qh4+ Ke2 Qg3 Be4 Qg2+",
-    "duration": 30,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 g3 Bb4 Nd5 e4 Nh4 O-O Bg2 d6 Nxb4 Nxb4 a3 Na6 d3 exd3 Qxd3 Nc5 Qc2 a5 a4 Bd7 O-O Qe7 e4 Nfxe4 Re1 f5 f3 g5 Nxf5 Rxf5 fxe4 Bc6 Bd2 Rf7 Bc3 Raf8 Qd1 h6 Bh3 Rf2 Qh5 Qh7 Bd4 Rd2 Bxc5 dxc5 Rf1 Qg7 Be6+ Kh8 Rxf8+ Qxf8 Rf1 Qg7 Rf3 Rd1+ Kg2 Rd2+ Kg1 Rd1+ Kg2 Rd8 Rf7 Bxe4+",
+    "duration": 250,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774340584.4326656
+  "updated": 1774340780.3295417
 }
