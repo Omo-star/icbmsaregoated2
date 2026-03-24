@@ -5,18 +5,18 @@
   "opponent": "Elkapa_Jr",
   "variant": "Variant: Atomic",
   "time_control": "TC: \u00bd+0",
-  "time_left": 23,
-  "timestamp": "2026-03-24T23:37:29.909083",
+  "time_left": 29,
+  "timestamp": "2026-03-24T23:37:35.647946",
   "last_game": {
     "result": "win",
     "opponent": "Elkapa_Jr",
     "rating_before": 3097,
     "rating_after": 3097,
     "rating_delta": 0,
-    "moves": "e4 e6 Nf3 Qf6 d4 Nh6 g4 Nxg4 Bf4 Qh4 Bg3 Qg4 Qf3 Qxf3 Nc3 Na6 Bxa6 Bb4 O-O-O b6 d5 Bxa6 Nb5 Bd2+ Kb1 Bxb5 dxe6 d5 c3 g5 f4 g4",
+    "moves": "Nf3 Nf6 Ng5 e6 Nxf7",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "bot_color": "white",
+    "termination": "variantEnd"
   },
-  "updated": 1774395449.9091744
+  "updated": 1774395455.648011
 }
