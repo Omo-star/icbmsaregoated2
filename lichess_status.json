@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3095,
-  "opponent": "TakticproChess",
+  "rating": 2998,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 15,
-  "timestamp": "2026-03-24T12:45:22.005977",
+  "time_control": "TC: 3+0",
+  "time_left": 64,
+  "timestamp": "2026-03-24T12:50:11.605354",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
-    "rating_before": 3095,
-    "rating_after": 3095,
+    "opponent": "Cheszter",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "d4 e6 e4 h6 Bd3 d5 Nc3 Nc6 Nf3 Nb4 Bb5+ c6 Be2 Nf6 e5 Ne4 a3 Nxc3 bxc3 Na6 O-O b6 Ne1 Nc7 g4 c5 Ng2 g6 a4 c4 f4 Be7 Ne3 a5 f5 b5 fxg6 fxg6 g5 Bxg5 Ng4 Qe7 Bxg5 hxg5 Rf2 Bd7 Qf1 Bc6 Rb1 b4 Ra1 Rf8 Rf6 Rh8 Qf3 bxc3 Qxc3 Qb4 Qe3 Qb2 Rff1 Rb8 Rfc1 Kd7 Nf6+ Kc8 Bg4 Rb4 h3 Kb7 c3 Rb6 Bd1 Ka6",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "Nf3 e6 d3 c5 g3 d5 Bg2 Be7 O-O Nf6 Nbd2 O-O e4 h6 e5 Nfd7 Re1 Nc6 Nf1 a5 c3 a4 a3 Qc7 d4 cxd4 cxd4 Nb6 Ne3 Na5 Ng4 Nb3 Rb1 Nxc1 Rxc1 Nc4 Bf1 Qd8 Rc2 b5 Bd3 Bd7 Qc1 Bg5 Qd1 Be7 Qc1 h5 Ne3 Rb8 Ng2 b4 axb4 Bxb4 Rf1 Be7 Nf4 Rb3 Rc3 Qb8 Nxh5 Nxb2 Nf6+ gxf6 exf6 Bxf6 Qh6 Nxd3 Ng5 Bxg5 Qxg5+ Kh7 Qh5+ Kg7 Qg5+ Kh7 Qh5+ Kg8 Qg4+ Kh8 Qh4+ Kg8 Qg5+ Kh7",
+    "duration": 180,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774356322.0060802
+  "updated": 1774356611.6054661
 }
