@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3092,
-  "opponent": "Ctrl_Alt_Destroy",
+  "opponent": "duchessAI",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-24T12:09:34.649803",
+  "time_left": 14,
+  "timestamp": "2026-03-24T12:11:42.062424",
   "last_game": {
-    "result": "draw",
-    "opponent": "Ctrl_Alt_Destroy",
+    "result": "win",
+    "opponent": "duchessAI",
     "rating_before": 3092,
     "rating_after": 3092,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Nd7 Qc2 Kh7 Bc3 f6 Rd2 Bf7 Nf5 Rfe8 d4 exd4 Bxd4 Bxd4 N3xd4 c5 Nf3 Qb4 Re2 Ne5 Nxe5 fxe5 Qd3 Rf8 Rc3 Be6 Qc2 Qb7 Ne7 Rf4 Nf5 Bxf5 exf5 Qc8 g3 Rd4 f4 Qd7 fxe5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nf5 Nf3 O-O d4 d5 c3 Bd6 Nbd2 Re8 Rxe8+ Qxe8 Bd3 Be6 a4 Nce7 Nf1 Ng6 g3 c6 Qc2 Qc8 h4 h6 b3 Nf8 c4 Qd7 c5 Bc7 b4 a6 Rb1 Bd8 Bf4 h5 Re1 Bf6 Be5 Bxe5 Nxe5 Qc8 Qb2 g6 Ne3 Ng7 b5 axb5 axb5 Ra4 Qb3 Ra8 Qc3 Nd7 Nf3 Ra2 Ng5 Ra8 b6 Nf8 Nf3 Ra2 Nc2 Ra8 Nb4 Nd7 Ng5 Nf8 Bf1 f6 Nxe6 Ngxe6 Bg2 Qd8 Nxd5 cxd5 Qb3 Nxd4 Qxd5+ Qxd5 Bxd5+",
     "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774354174.6499352
+  "updated": 1774354302.062589
 }
