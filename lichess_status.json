@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3093,
-  "opponent": "Ctrl_Alt_Destroy",
+  "opponent": "TheUnforgivingBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 25,
-  "timestamp": "2026-03-24T12:43:29.035521",
+  "time_left": 12,
+  "timestamp": "2026-03-24T12:44:50.571977",
   "last_game": {
-    "result": "draw",
-    "opponent": "Ctrl_Alt_Destroy",
+    "result": "win",
+    "opponent": "TheUnforgivingBot",
     "rating_before": 3093,
     "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qc7 Rc3 Qb8 h3 Ne7 Nd4 Nc6 Nf3 Ne7 Rc1 Rc8 Rxc8 Nxc8 Qc3 Nd6 Nd4 Kf8 f4 b6 Bd3 Qb7 Kf2 Kg8 Qb4 Ne4+ Bxe4 Qxe4 Qd6 Qb1 Qd8 Qxb2+ Kg3 Kf8 Qd6+ Kg8 Qd8 Kf8 Qd6+ Kg8 Qb8 Kf8 Qd6+ Kg8",
+    "moves": "e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4 Nc3 Nxc3 dxc3 Be7 Be3 O-O Qd2 Nd7 O-O-O c6 Bd3 d5 h4 Nc5 Ng5 h6 Kb1 Nxd3 Qxd3 hxg5 hxg5 f5 g6 Qe8 Bc5 f4 g4 Bxg4 Rdg1 Bf5 Qd1 Bxg6 Bxe7 Qxe7 Rxg6 Rae8 a3 Rf6 Rgg1 Rf5 Qd4 b6 Rg4 Qf6 Qd2 b5 f3 Re6 Qh2 Kf7 Ka2 g6 Rh4 Re3 Rh8 Ke6 Qh7 Qf7 Qh6 Kd6 Rh7 Qf6 Rg7 Rg5 Qh8 Kc5 Qg8 Rg2 Rf7 Qd6 Qg7 d4 cxd4+ Kc4 Rd7 Qe6 d5 Qe5 Qxe5 Rxe5 dxc6 Rc5 Rhd1 b4 c7 Rxc7 Rxc7+ Kb5 axb4 Kb6 Rcd7 Rxc2 R1d6+ Rc6 Rxc6+ Kxc6 Rd1 g5 Kb3 Kb7 Rg1 Kc6 Rxg5 Kc7 Rg6 Kc8 Rg7 a6 Rg6 Kb7 Kc4 Ka7 Kc5 Kb7 Rg7+ Kc8 Kd6 a5 bxa5 Kb8 Kc6 Ka8 Kb6 Kb8 Rg8#",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1774356209.0356202
+  "updated": 1774356290.5720825
 }
