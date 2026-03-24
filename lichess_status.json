@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3095,
-  "opponent": "odonata-bot",
+  "rating": 2998,
+  "opponent": "Fischer_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 11,
-  "timestamp": "2026-03-24T13:11:11.876772",
+  "time_control": "TC: 3+0",
+  "time_left": 76,
+  "timestamp": "2026-03-24T13:14:39.829584",
   "last_game": {
-    "result": "win",
-    "opponent": "odonata-bot",
-    "rating_before": 3095,
-    "rating_after": 3095,
+    "result": "draw",
+    "opponent": "Fischer_Bot",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Nxe6 fxe6 Bc1 Rf8 Rd7 a4 Nxa4 Rf7 Kg2 Nxe5 R7d4 Ng6 Re4 e5 Be3 Kb7 Nc3 Raf8 Rf1 Nh4+ Kg3 c5 a4 Bg5 Bxg5 hxg5 Nd1 Nf3 Re3 e4 Kg2 Rf4 Re2 Nd4 Rd2 R4f7 Rh1 Ka6 Nc3 e3 fxe3 Nf3 Rhd1 Nxd2 Rxd2 Ka5 Nb5 Kb4 e4 Re8 Re2 Re5 Na7 Re6 e5 Rfe7 Kg3 Kc3 Rf2 Rxe5 Nb5+ Kb2 b4 cxb4 c3+ Kb3 cxb4 Kxa4 Nd4 Rd5 Nc6 Re3+ Kg2 Rc3 Ne7 Rd7 Nf5 Kxb4 h4 gxh4 Nxh4 c5 g5 c4 Nf3 Re3 Rb2+ Rb3 Re2 c3 Re4+ Ka3 Rc4 b5 Rc6 Kb2 Ne1 Rd2+ Kf1 c2 Nxc2 Rxc2 Rb6 Kb1 g6 Rbb2 Re6 Rc1+ Re1 Rc2 Rxc1+ Kxc1 Ke1 b4 Kf1 b3 Kg1 b2 Kh1 b1=Q Kg1 Kb2#",
-    "duration": 30,
+    "moves": "e4 e5 f4 exf4 Bc4 Ne7 Nc3 c6 d4 d5 Bb3 dxe4 Nxe4 Nd5 Qf3 a5 Bxf4 Be6 Nh3 a4 Bxd5 Bxd5 O-O Be7 Rae1 O-O Qd3 Bxe4 Rxe4 Na6 Be5 Nb4 Qe2 f6 Bg3 Bd6 a3 Nd5 Re1 b5 c3 Nc7 Nf4 Bxf4 Bxf4 Nd5 g3 g5 Bd2 Kh8 c4 bxc4 Qxc4 Qd7 Re6 Rab8 Bc3 Rfe8 Qxc6 Qxc6 Rxc6 Rxe1+ Bxe1 Rxb2 Rc5 Ne3 d5 Rg2+ Kh1 Rb2 Kg1 Rg2+ Kh1 Rb2 Kg1",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1774357871.8768673
+  "updated": 1774358079.8297138
 }
