@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3039,
-  "opponent": "SvatoslavMisnik2013",
+  "rating": 3088,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 600,
-  "timestamp": "2026-03-24T11:40:33.365754",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 11,
+  "timestamp": "2026-03-24T11:41:40.689972",
   "last_game": {
-    "result": "draw",
-    "opponent": "SvatoslavMisnik2013",
-    "rating_before": 3039,
-    "rating_after": 3039,
+    "result": "loss",
+    "opponent": "Cheszter",
+    "rating_before": 3088,
+    "rating_after": 3088,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 600,
+    "moves": "d4 Nf6 Bf4 g6 c4 Bg7 Nc3 O-O e4 d6 Nf3 Bg4 Be2 Nc6 d5 e5 Be3 Bxf3 Bxf3 Nd4 O-O Nd7 Bg4 c6 f4 Nf6 Bh3 c5 f5 h6 a4 a6 Rf2 Kh7 g4 Rb8 Kh1 g5 Bf1 Rh8 Be2 Bf8 Qd3 Be7 a5 Kg7 Rg2 b6 axb6 Rxb6 Bd1 Qa8 Ra3 Rb4 b3 Qb7 Na2 Rb6 Nc3 a5 Na4 Rb4 Bd2 Nd7 Bxb4 cxb4 Raa2 Qa7 Nb2 Rb8 Qe3 Bf6 Nd3 Bd8 Ra1 Qc7 Rf2 Rc8 Rfa2 Qb7 Qe1 Rb8 Qd2 Kh7 Qg2 Qc8 Rc1 Kg7 c5 Nxc5 Nxc5 dxc5 Qf1 Qc7 Qc4 Rc8 Be2 Ra8 Rb2 Be7 f6+ Kxf6 Rf1+ Kg7 Rxf7+ Kg6 Bf1 Kxf7 d6+ Ke8 dxc7 Rc8 Rf2 Kd7 Qd5+ Kxc7 Qxe5+ Kd8 Rf7 Rc7 Qh8+ Kd7 Qb8 Nc6 Bb5 Kd6 Qb6 Rc8 Bxc6 Ke6 Rf5 a4 Bd5+ Kd7 Be6+ Ke8 Bf7+ Kd7 Rd5+ Bd6 Qxd6#",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "mate"
   },
-  "updated": 1774352433.365844
+  "updated": 1774352500.690066
 }
