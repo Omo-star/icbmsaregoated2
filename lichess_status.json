@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3095,
-  "opponent": "TakticproChess",
+  "opponent": "odonata-bot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 18,
-  "timestamp": "2026-03-24T13:10:02.957715",
+  "time_left": 11,
+  "timestamp": "2026-03-24T13:11:11.876772",
   "last_game": {
-    "result": "draw",
-    "opponent": "TakticproChess",
+    "result": "win",
+    "opponent": "odonata-bot",
     "rating_before": 3095,
     "rating_after": 3095,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 b6 Re1 Bb7 Bf4 Ne4 Nd2 Re8 a4 c5 Nf3 h5 Be3 g6 c3 Qc7 Qb3 d5 g3 c4 Qd1 Bc8 h4 Be7 Bf4 Bd6 Bxd6 Qxd6 Qc1 Bf5 Qh6 Nf6 Ne5 Re6 Re3 Rae8 Rae1 R8e7 Bg2 a6 Qf4 Qc7 Qh6 Qd6 Qf4 Qc7 Qh6 Qc8 f3 Nh7 g4 g5 Qxh5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Nxe6 fxe6 Bc1 Rf8 Rd7 a4 Nxa4 Rf7 Kg2 Nxe5 R7d4 Ng6 Re4 e5 Be3 Kb7 Nc3 Raf8 Rf1 Nh4+ Kg3 c5 a4 Bg5 Bxg5 hxg5 Nd1 Nf3 Re3 e4 Kg2 Rf4 Re2 Nd4 Rd2 R4f7 Rh1 Ka6 Nc3 e3 fxe3 Nf3 Rhd1 Nxd2 Rxd2 Ka5 Nb5 Kb4 e4 Re8 Re2 Re5 Na7 Re6 e5 Rfe7 Kg3 Kc3 Rf2 Rxe5 Nb5+ Kb2 b4 cxb4 c3+ Kb3 cxb4 Kxa4 Nd4 Rd5 Nc6 Re3+ Kg2 Rc3 Ne7 Rd7 Nf5 Kxb4 h4 gxh4 Nxh4 c5 g5 c4 Nf3 Re3 Rb2+ Rb3 Re2 c3 Re4+ Ka3 Rc4 b5 Rc6 Kb2 Ne1 Rd2+ Kf1 c2 Nxc2 Rxc2 Rb6 Kb1 g6 Rbb2 Re6 Rc1+ Re1 Rc2 Rxc1+ Kxc1 Ke1 b4 Kf1 b3 Kg1 b2 Kh1 b1=Q Kg1 Kb2#",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1774357802.9578283
+  "updated": 1774357871.8768673
 }
