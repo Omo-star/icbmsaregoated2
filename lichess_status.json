@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3001,
-  "opponent": "CruelKen",
+  "rating": 3093,
+  "opponent": "DarkOnBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 90,
-  "timestamp": "2026-03-24T09:17:46.802519",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-03-24T09:18:15.333878",
   "last_game": {
     "result": "draw",
-    "opponent": "CruelKen",
-    "rating_before": 3001,
-    "rating_after": 3001,
+    "opponent": "DarkOnBot",
+    "rating_before": 3093,
+    "rating_after": 3093,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Nd4 Bxd4 Bxd4 Nxd4 exd4 Ne2 c5 Qd2 O-O Ng3 a6 Be2 b5 cxb5 axb5 O-O Ra6 f4 Qc7 h3 Qa7 Bf3 c4 dxc4 bxc4 a4 Be6 Rfd1 d3+ Qf2 Ra8 Qxa7 R8xa7 a5 g5 fxg5 Nd7 Ra3 Rb7 Rb1 Rb5 Kf2 Nc5 Bd1 Ra8 h4 Bc8 Rc3 Be6 Ra3 Bc8 Rc3 Be6 Ra3",
-    "duration": 318,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 Bd7 Qb3 dxc4 Qxc4 Qg6 O-O Bd6 Rfd1 Na5 Qd3 Qxd3 Bxd3 Rfd8 Be2 Nc6 Nd2 Bf8 Bf3 Rab8 Rac1 Ne7 Nc4 Be8 h4 b6 Ne5 Rbc8 Bb7 Rb8 Bf3 Rbc8 b4 c6 h5 Nd5 a3 Be7 Ne4 Kf8 g4 Rc7 Rd2 Ra8 Ng3 Rac8 Nd3 c5 dxc5 bxc5 Bxd5 exd5 Nf5 cxb4 Rxc7",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774343866.8026195
+  "updated": 1774343895.3339705
 }
