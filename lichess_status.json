@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2999,
-  "opponent": "PZChessBot",
-  "variant": "Variant: Chess960",
-  "time_control": "TC: 5+1",
-  "time_left": 300,
-  "timestamp": "2026-03-24T12:02:17.322521",
+  "rating": 3039,
+  "opponent": "AlwaysPlayMystery",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 10+0",
+  "time_left": 426,
+  "timestamp": "2026-03-24T12:06:21.458947",
   "last_game": {
     "result": "draw",
-    "opponent": "PZChessBot",
-    "rating_before": 2999,
-    "rating_after": 2999,
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3039,
+    "rating_after": 3039,
     "rating_delta": 0,
-    "moves": "f4",
-    "duration": 301,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 Qa4+ Nc6 e3 O-O Be2 dxc4 Bxc4 Bd7 O-O Bxc3 bxc3 Rfd8 Be2 Rab8 Rfb1 Be8 Qa3 Qe7 Qxe7 Nxe7 a4 b6 Kf1 c5 Bb5 Nd5 Bxe8 Rxe8 Rc1 Rec8 Ne5 Rb7 Nd3 Rbc7 a5 cxd4 axb6 Nxb6 cxd4 Rxc1+ Nxc1 a5 Nd3 a4 Ke2 Kf8 Nc5 Ra8 Kd3 Ke7 Kc3 Kd6 Kb4 Rb8 Ne4+ Ke7 Rc1 Nd5+ Ka3 Rb3+ Kxa4 Rb2 Ka3 Re2 Rc6 Nf6 Nxf6 Kxf6 Kb3 Rxf2 Rc2 Rxc2 Kxc2 h5 e4",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1774353737.3226087
+  "updated": 1774353981.4590783
 }
