@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
+  "rating": 2999,
   "opponent": "zlatana75",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+1",
-  "time_left": 101,
-  "timestamp": "2026-03-25T08:55:53.083087",
+  "time_left": 175,
+  "timestamp": "2026-03-25T08:58:47.380266",
   "last_game": {
     "result": "draw",
     "opponent": "zlatana75",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 Nf6 Nc3 cxd4 Nxd4 Nc6 Bg5 e6 Qd2 a6 O-O-O Nxd4 Qxd4 Be7 f4 O-O Kb1 Bd7 Bxf6 Bxf6 e5 Be7 exd6 Bf6 Qe3 Bc6 h4 Qb8 Rh3 Rd8 Qc5 g6 g4 Qa7 Qxa7 Rxa7 Be2 Bg7 Bf3 Bxc3 bxc3 Bxf3 Rxf3 b6 Kb2 Rad7 Rfd3 Rc8 Rd4 Rc6 Ra4 b5 Rad4 f6 g5 Kf7 c4 bxc4 Kc3 e5 fxe5 fxe5 Rf1+ Kg8 Re4 Rcxd6 Rxe5 Rd4 Rh1 Rg4 a3 Rg3+ Kb4 Rb7+ Ka4 Rg2 c3 Rg3 Rc1 Rg4 Ka5 Rxh4 a4 h6 Kxa6 Rb3 gxh6 Rxh6 Rb5 g5+",
-    "duration": 274,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Re8 Nh4 g6 Kh1 Nb6 Na5 Bf8 a4 Nd7 g4 Nc5 Ng2 Ne6 Nc4 Bc5 Nce3 Rf8 f3 Rf7 Qe1 Bd6 Qg3 b5 h4 Nd4 Rf2 Qf8 b3 Bd7 Bc3 Ne6 Raf1 Re8 h5 a6 Re2 Nd4 Ref2 Ne6 Re2 Nd4 Ref2 Ne6",
+    "duration": 240,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774428953.083279
+  "updated": 1774429127.3803573
 }
