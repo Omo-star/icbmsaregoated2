@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "FiveInvest",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+3",
-  "time_left": 298,
-  "timestamp": "2026-03-25T07:07:46.395722",
+  "rating": 3097,
+  "opponent": "GoblinAjedrezAI",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 19,
+  "timestamp": "2026-03-25T07:29:45.215422",
   "last_game": {
-    "result": "win",
-    "opponent": "FiveInvest",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "result": "draw",
+    "opponent": "GoblinAjedrezAI",
+    "rating_before": 3097,
+    "rating_after": 3097,
     "rating_delta": 0,
-    "moves": "e5 Ng8 Nf3 Nc6 d4 cxd4 Nxd4 Nxe5 Ndb5 a6 Nd6+ Bxd6 Qxd6 f6 Be3 Ne7 Bb6 Nf5 Qb4 Nc6 Qc5 d6 Bxd8 dxc5 Bb6 Ne5 Bxc5 g5 Be2 h5 O-O Bd7 b4 g4 b5 Kf7 Rfb1 Rhc8 Ne4 axb5 cxb5 Ra4 Rb4 b6 Rxa4",
-    "duration": 435,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Nbd2 O-O Re1 Ba7 h3 Be6 Bb5 Ne7 d4 Ng6 a3 c6 Ba4 Nh5 Nf1 Nhf4 Bb3 Nh4 Nxh4 Qxh4 Nh2 exd4 Nf3 Nxh3+ gxh3 Qxh3 Ng5 Qh4 Nxe6 fxe6 Bxe6+ Kh8 Bf5 dxc3 Be3 Bxe3 Rxe3 cxb2 Rb1 g6 Qd4+ Rf6 Bh3 Qxf2+ Kh1 b5 Qxb2 Rf8 Qc3 Qh4 Kg1 Kg8 e5 dxe5 Qxe5 Qf2+ Kh1 Qh4 Kg1 h5 Qe7",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1774422466.3958151
+  "updated": 1774423785.2155297
 }
