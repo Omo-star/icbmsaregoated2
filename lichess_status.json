@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
+  "rating": 3038,
   "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 176,
-  "timestamp": "2026-03-25T08:45:09.051155",
+  "time_control": "TC: 10+0",
+  "time_left": 519,
+  "timestamp": "2026-03-25T08:47:06.808755",
   "last_game": {
     "result": "draw",
     "opponent": "AlwaysPlayMystery",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "rating_before": 3038,
+    "rating_after": 3038,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Qd6 h3 Qb8 Bf3 Ne5 Be2 Nc6 Bf3 Ne5 Be2 Nc6 Bf3",
-    "duration": 180,
+    "moves": "Nf3 d5 c3 Nf6 d4 e6 Bf4 Bd6 Bg3 c5 Qc2 b6 Nbd2 Bb7 e3 O-O Bd3 Nc6 e4 dxe4 Nxe4 Nxe4 Bxe4 f5 Bxc6 Bxc6 Rd1 Bxf3 gxf3 cxd4 Rxd4 e5 Bxe5 Qe7 f4 Bxe5 fxe5 Qxe5+ Qe2 Qf6 Kd2 Qf7 a4 Rad8 Re1 Rxd4+ cxd4 Rd8 Kc3 Rc8+ Kd2 Rd8 Kc3 Rc8+ Kd2 Rd8",
+    "duration": 600,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774428309.051273
+  "updated": 1774428426.8089137
 }
