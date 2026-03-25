@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3000,
-  "opponent": "FiveInvest",
-  "variant": "Variant: From Position",
-  "time_control": "TC: 5+3",
-  "time_left": 300,
-  "timestamp": "2026-03-25T10:07:53.424422",
+  "rating": 3091,
+  "opponent": "Weiawaga",
+  "variant": "Variant: Standard",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 16,
+  "timestamp": "2026-03-25T10:09:43.597276",
   "last_game": {
-    "result": "draw",
-    "opponent": "FiveInvest",
-    "rating_before": 3000,
-    "rating_after": 3000,
+    "result": "win",
+    "opponent": "Weiawaga",
+    "rating_before": 3091,
+    "rating_after": 3091,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 300,
-    "bot_color": "black",
-    "termination": "aborted"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 h5 Qd2 Nbd7 Nd5 Bxd5 exd5 g6 O-O-O Bg7 Kb1 O-O h3 e4 f4 b5 Qf2 Rb8 g4 Nb6 Bd4 Re8 f5 g5 h4 e3 Qg2 Nxg4 Be2 Bxd4 Nxd4 Nc4 Bxg4 hxg4 Qxg4 e2 Nxe2 Ne3 Qg3 Nxf5 Qf2 Ne3 hxg5 Qc8 Nd4 Qg4 Qf6 Qxd1+ Rxd1 Nxd5 Qh6 Rb7 Rh1 Re1+ Rxe1 Re7 Rh1 Nc3+ bxc3 Re1+ Rxe1 f6 gxf6 Kf7 Qg7#",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1774433273.4245198
+  "updated": 1774433383.5973458
 }
