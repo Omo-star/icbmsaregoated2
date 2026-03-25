@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3089,
-  "opponent": "TakticproChess",
+  "opponent": "duchessAI",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2026-03-25T10:27:05.510095",
+  "time_left": 12,
+  "timestamp": "2026-03-25T10:28:39.624579",
   "last_game": {
-    "result": "draw",
-    "opponent": "TakticproChess",
+    "result": "win",
+    "opponent": "duchessAI",
     "rating_before": 3089,
     "rating_after": 3089,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kf8 Kg2 a6 h4 f5 Nc5 Bxc5 bxc5 Bb5 Be2 Rxc5 Bxb5 Rxb5 Rxb5 axb5 Kf3 Kf7 e4 Kf6 Ke3 Ke5 f4+ Kd6 Kd4 h5 e5+ Kc6 Kd3 Kb7 Kc3 Ka6 Kb4",
+    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 O-O Bg2 Bb7 O-O Nc6 Rc1 Ne7 Nc3 Rc8 Rd1 Ne4 Qc2 Nxc3 Qxc3 c5 Qd3 d5 Qa3 Qc7 dxc5 dxc4 Qxa7 bxc5 Nd2 Nd5 Ne4 Qc6 Qa5 f5 Nc3 Ra8 Nxd5 exd5 Qd2 Rfd8 Qc2 Qf6 b3 Bc6 Rac1 f4 Rd2 Ra6 Rcd1 Rf8 Bf3 fxg3 hxg3 Kh8 Rxd5 cxb3 axb3 Bxd5 Rxd5 Qa1+ Kg2 Rh6 Rd1 Qa7 Qc3 Rhf6 Rd5 Rf5 Rxf5 Rxf5 b4 Qb8 bxc5 Qe5 Qxe5 Rxe5 c6 h5 c7 Rc5 Bxh5 Kg8 Bg6 Rc1 f4 Kf8 Kf3 Ke7 Bd3 Ke6 Kg4 Kf6 e4",
     "duration": 30,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774434425.5101964
+  "updated": 1774434519.6247888
 }
