@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "DeKoog",
+  "rating": 2999,
+  "opponent": "YoBot_v2",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+1",
-  "time_left": 160,
-  "timestamp": "2026-03-25T12:26:36.299264",
+  "time_left": 53,
+  "timestamp": "2026-03-25T12:33:10.993844",
   "last_game": {
     "result": "draw",
-    "opponent": "DeKoog",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "opponent": "YoBot_v2",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 g3 d5 Bg2 dxc4 Nf3 Nc6 Qa4 Bb4+ Bd2 Nd5 Bxb4 Nxb4 O-O Rb8 Na3 O-O Qb5 b6 Qxc4 Ba6 Nb5 Qd5 Qxd5 Nxd5 a4 Na5 Ne5 Rbd8 Nxa7 Nb4 Rac1 Rxd4 Nb5 Bxb5 axb5 f6 e3 Rdd8 Nf3 Rf7 Nd4 Rd6 Ra1 e5 Nf5 Rd2 b3 Rfd7 Ra4 Nd5 b4 Nc4 Ra8+ Kf7 Rc1 Nb2 Ra7 g6 Bxd5+ R2xd5 Rcxc7 Ke6 Ng7+ Ke7 e4 Rd6 Rab7 Rxc7 Rxc7+ Kd8 Rc6 Rxc6 bxc6 Nc4 Ne6+ Ke7 Nc7 Kd6 Nd5 Kxc6 Nxf6 Kb5 Nd5 Nd2 Kg2 Nxe4 Kf3 Nd2+ Ke2 Ne4 Kf3 Nd6 h4 Kc6 Ne7+ Kb5 Nd5 Kc6 Nf6 h5 Ke3 b5 Kf3 Nc4 g4 Kd6",
-    "duration": 290,
+    "moves": "d4 d5 c4 c5 cxd5 Nf6 e4 Nxe4 dxc5 Qa5+ Bd2 Nxd2 Qxd2 Qxd2+ Nxd2 g6 Rc1 Nd7 c6 bxc6 dxc6 Nb6 Ngf3 Bg7 b4 O-O Be2 Nd5 a3 Nc3 Bc4 Bf5 O-O Rac8 b5 Rb8 h3 Nxb5 g4 Be6 Bxe6 fxe6 Rc5 Nc7 Kg2 Rfc8 Re1 Rb6 Nc4 Rb3 Re4 Bc3 Nd4 Bxd4 Rxd4 Nd5 h4 Rc3 g5 Rc2 Kg3 Kg7 Re4 Rc3+ f3 Rf8 c7 Rcxf3+ Kg2 Rf2+ Kg1 Rf1+ Kg2 R1f2+ Kg1 Rf1+ Kh2 Rc8 Rxe6 Rxc7 Rxc7 Nxc7 Rxe7+ Rf7 Re4 Nd5 Rd4 Nb6 Kg3 Rc7 Nxb6 axb6 a4 Rf7 Kg4 Ra7 Kf4 Ra5 Rb4 h6 Kg4 hxg5 hxg5 Rc5 Rxb6 Rc4+",
+    "duration": 286,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774441596.2993662
+  "updated": 1774441990.9939628
 }
