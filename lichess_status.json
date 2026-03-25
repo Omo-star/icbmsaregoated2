@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3089,
-  "opponent": "duchessAI",
-  "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2026-03-25T10:28:39.624579",
+  "rating": 3091,
+  "opponent": "beastie1",
+  "variant": "Variant: Atomic",
+  "time_control": "TC: 1.5+2",
+  "time_left": 77,
+  "timestamp": "2026-03-25T10:32:46.938938",
   "last_game": {
-    "result": "win",
-    "opponent": "duchessAI",
-    "rating_before": 3089,
-    "rating_after": 3089,
+    "result": "draw",
+    "opponent": "beastie1",
+    "rating_before": 3091,
+    "rating_after": 3091,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 b6 g3 Bb4+ Bd2 Bxd2+ Qxd2 O-O Bg2 Bb7 O-O Nc6 Rc1 Ne7 Nc3 Rc8 Rd1 Ne4 Qc2 Nxc3 Qxc3 c5 Qd3 d5 Qa3 Qc7 dxc5 dxc4 Qxa7 bxc5 Nd2 Nd5 Ne4 Qc6 Qa5 f5 Nc3 Ra8 Nxd5 exd5 Qd2 Rfd8 Qc2 Qf6 b3 Bc6 Rac1 f4 Rd2 Ra6 Rcd1 Rf8 Bf3 fxg3 hxg3 Kh8 Rxd5 cxb3 axb3 Bxd5 Rxd5 Qa1+ Kg2 Rh6 Rd1 Qa7 Qc3 Rhf6 Rd5 Rf5 Rxf5 Rxf5 b4 Qb8 bxc5 Qe5 Qxe5 Rxe5 c6 h5 c7 Rc5 Bxh5 Kg8 Bg6 Rc1 f4 Kf8 Kf3 Ke7 Bd3 Ke6 Kg4 Kf6 e4",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "Nf3 f6 e3 d5 Nc3 b5 Ne5 fxe5 Qh5+ g6 Qxe5 Be6 Qxc7 Nf6 h3 Bf5 Ne4 Bg4 f3 Bxf3 Be2 O-O-O O-O+ h5 b4+ d4 Bc4+ bxc4 d3+ h4 b5+ e5 b6# Ba3 e4# g5 cxc4# Rd6 c5# Rc6 b7+ Kb8 g4+ hxg3 Bd2+ a5 Rab1+ Bb2 a3+ Rf8 Rxb2+ Rh8 h4+ Rf8 h5+ g4 Bh6+ Nxh5 Rf7# g3 Kg2# a4+ Rxf8+ Rf6+ c6+ Rf2+ Kh3+ Rh2+ Kg4+ Rh4+ Kg5+ Rg4+ Kxh5+ Rh4+ Kg5+ Rg4+ Kh5+ Rh4+ Kg5+",
+    "duration": 248,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774434519.6247888
+  "updated": 1774434766.939078
 }
