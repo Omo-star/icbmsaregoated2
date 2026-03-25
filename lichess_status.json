@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3092,
-  "opponent": "TakticproChess",
+  "rating": 3032,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2026-03-25T11:33:18.001855",
+  "time_control": "TC: 10+0",
+  "time_left": 28,
+  "timestamp": "2026-03-25T11:44:02.310952",
   "last_game": {
-    "result": "draw",
-    "opponent": "TakticproChess",
-    "rating_before": 3092,
-    "rating_after": 3092,
+    "result": "win",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 3032,
+    "rating_after": 3032,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kg7 Kg2 a6 h4 f5 Nc5 Bxc5 bxc5 Bb5 c6 Kf6 Rb4 Rc3 a4 Bxc6 Rb6 Bxa4 Rxa6 Bb5 Rb6 Rb3 Be2 Ba4 Rxb3 Bxb3 f4 Bd5+ Kf2 g5 hxg5+ hxg5 Bb5 gxf4 gxf4 Ke7 e4",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 Rg2 Rh5 Kf1 b6 Re2 Rgh8 Kg2 Qd8 b4 Qe8 a4 Qf7 Nb2 Qa2 Nc4 Qxa4 Ra1 Qb5 Na3 Qa6 Nb1 Qb7 Nd2 Be7 Nb3 c5 bxc5 Qc6 Bb4 Rd8 Ba3 Bf8 c4 a6 cxb6 Bxa3 Rxa3 cxb6 Rxa6 Rxd3 Nc5 Qxc5 Rea2 Qc6 c5 Rh8 Rxb6+ Qxb6 cxb6 Rd1 Rc2 Kb7 Rc7+ Kb8 Rd7 Rc1 Rd2 Ra1 b7 Rc1 Ra2 Rh6 Ra1 Rc7 Kg1 Rhc6 Qf5 Kxb7 Qxe5 Rc1+ Rxc1 Rxc1+ Kg2 Rc2+ Kh3 Rf2 Qxf4 Rh2+ Kg4 Rb2 Kxh4",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1774438398.0019522
+  "updated": 1774439042.3110387
 }
