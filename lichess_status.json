@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3038,
-  "opponent": "Fischer_Bot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 231,
-  "timestamp": "2026-03-25T10:06:45.584508",
+  "rating": 3000,
+  "opponent": "FiveInvest",
+  "variant": "Variant: From Position",
+  "time_control": "TC: 5+3",
+  "time_left": 300,
+  "timestamp": "2026-03-25T10:07:53.424422",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 3038,
-    "rating_after": 3038,
+    "opponent": "FiveInvest",
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 Rfd1 Be6 g4 Nh4 Nd4 Ng6 Nxc6 Bg5 Ne4 Nf4 Rf3 a4 c4 axb3 axb3 Ra2 Rb1 Ng6 Nb4 Ra8 Re1 Be7 Nd5 Ra2 Bd4 Kb7 Nxe7 Nxe7 Ng3 Rd8 Bc3 g6 Bb4 Nc6 Bc3 Ne7 Kh2 g5 Re2 Rxe2 Nxe2 Ng6 Nd4 Nh4 Rf6 c5 Nxe6 fxe6 Rxh6 Nf3+ Kg3 Rd3 Bb2 Ne1+ Kh2 Nf3+ Kg3 Ne1+ Kh2 Nf3+ Kg2 Nh4+ Kf1 Rxh3 f4 Rf3+ Ke2 Rxf4 Rxe6 Rxg4 Rf6 Rg2+ Rf2 Rxf2+ Kxf2 Kc7 Bc1 Kd7",
-    "duration": 600,
+    "moves": "",
+    "duration": 300,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1774433205.5846167
+  "updated": 1774433273.4245198
 }
