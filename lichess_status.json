@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3037,
-  "opponent": "DarkOnBot",
+  "rating": 3099,
+  "opponent": "odonata-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 592,
-  "timestamp": "2026-03-26T10:28:53.217786",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2026-03-26T10:30:01.384599",
   "last_game": {
-    "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3037,
-    "rating_after": 3037,
+    "result": "win",
+    "opponent": "odonata-bot",
+    "rating_before": 3099,
+    "rating_after": 3099,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe3 Nd6 Qf3 Bg5 Bxd6 Qxd6 h4 Bxd2 Qxf5 g6 Qc2 Bh6 Re1 c6 h5 Qf6 Qd1 Qg5 Re5 Qc1 Qb3 Rb8 Qa3 Bf8 Qxa7 Bd6 hxg6 hxg6 Re7 Qg5 Re3 Kg7 g3 Rh8 Bg2 Qf5 Re1 Qc2 Qb6 Qd2 Rf1 Qh6 Re1 Qd2 Rf1 Rh5 Qb3 Qe2 a4 Bc7 Qd1 Qxb2 Qc1 Qb3 Bf3 Rh8 Bd1 Qc4 Re1 Ba5 Re3 Rh1+ Kxh1 Qf1+ Kh2 Qxf2+ Kh1 Qf1+ Kh2 Qf2+ Kh3 Qf1+ Kh2 Qf2+",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Nbd7 g4 Nb6 g5 Nh5 Qd2 Be7 O-O-O O-O Kb1 Rc8 Rg1 g6 Qf2 Nc4 Bxc4 Rxc4 Nd5 Bxd5 Rxd5 Qc8 Rd3 b5 h4 Rc6 a3 Qe6 Rgd1 Rfc8 R3d2 Rc4 Bb6 b4 a4 Qd7 Nc1 Rc3 bxc3 bxc3 Rd5 Qxa4 Ra5 Qc4 Na2 Nf4 Ra3 Rb8 Ka1 Ne2 Rb3 a5 Re1 Nf4 Be3 Rxb3 cxb3 Qxb3 Rb1 Qa4 Bxf4 exf4 Rb8+ Bf8 Qe1 c2 Qc3 c1=Q+ Qxc1 Qd4+ Qc3 Qe5 Qxe5 dxe5 Nc1 Kg7 Nd3 Bd6 Rb6 Ba3 Ka2 Be7 Rb7 Bd6 Rd7 Bf8 Nxe5 Bc5 Rxf7+ Kg8 Rb7 a4 Ng4 Kf8 e5 Ke8 Nf6+ Kf8 e6 Be7 Rb8+ Bd8 Nd5 Kg7 Rxd8 h6 Nf6 hxg5 hxg5 a3 Rg8#",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1774520933.2179043
+  "updated": 1774521001.3846674
 }
