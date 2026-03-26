@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2993,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3036,
+  "opponent": "ArasanX",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 128,
-  "timestamp": "2026-03-26T11:54:18.302808",
+  "time_control": "TC: 10+0",
+  "time_left": 459,
+  "timestamp": "2026-03-26T11:59:00.626012",
   "last_game": {
     "result": "draw",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2993,
-    "rating_after": 2993,
+    "opponent": "ArasanX",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 Kf8 h3 f5 Nc3 Rb3 Ne2 Rxa3 Rb7 e5 Rc1 Be8 Ng3 g6 Nf1 Bd6 g4 e4 Be2 Ra2 Bc4 Ra5 Rcb1 Rc5 Bb5 Bf7 Ba4 Ra5 Bb3 Be8 Kg2 f4 Kg1 h5 Rd1 hxg4 hxg4 Rg5 Be6",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Bd7 h3 h6 b3 Kc8 Bb2 b6 Rad1 a5 Rd3 Be7 a4 h5 Rfd1 Be8 Ne4 h4 c4 c5 Nc3 Bc6 Nd5 Kb7 Nxe7 Nxe7 Ng5 Rhf8 g4 Ng6 e6 f6 Nf7 Rfe8 Re3 Rf8 Red3 Rfe8 Re3 Rf8 Red3",
+    "duration": 600,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774526058.3029175
+  "updated": 1774526340.626136
 }
