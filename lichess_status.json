@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3100,
-  "opponent": "abcd_engine",
+  "rating": 2999,
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 6,
-  "timestamp": "2026-03-26T07:30:57.541532",
+  "time_control": "TC: 3+0",
+  "time_left": 73,
+  "timestamp": "2026-03-26T07:34:14.249807",
   "last_game": {
-    "result": "win",
-    "opponent": "abcd_engine",
-    "rating_before": 3100,
-    "rating_after": 3100,
+    "result": "draw",
+    "opponent": "AlwaysPlayMystery",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 d6 c3 Bg4 h3 Bh5 d3 Na5 Bc2 O-O Nbd2 c5 Nf1 Bg6 Nh4 Nh5 Nf5 Bg5 Bxg5 Qxg5 g3 Bxf5 exf5 Nf6 Ne3 d5 a4 b4 h4 Qh6 cxb4 cxb4 Bb3 Rad8 Rc1 Nxb3 Qxb3 Qh5 Rc7 Rfe8 Qd1 Qxd1 Rxd1 d4 Nc4 e4 Rc6 exd3 Rxd3 Re1+ Kg2 h5 Rxa6 Ng4 Rd6 Rxd6 Nxd6 Re2 b3 Rxf2+ Kg1 Rc2 Kf1 Ne3+ Ke1 Rb2 f6 g5 hxg5 Rg2 Nc8 Kh7 Ne7 Rb2 Nc6 Ng2+ Kf1 Ne3+ Kg1 Rg2+ Kh1 Rxg3 Rxd4 Rxg5 Nxb4 Kh6 Nd3 Ra5 Re4 Ng4 Kg1 Rd5 Nf2 Nxf6 Rc4 Ra5 Rc1 h4 Rc4 Kg5 Nh3+ Kf5 Rf4+ Ke5 Rxh4 Ne4 Nf2 Nd2 Nd3+ Kd6 Rh6+ Ke7 Rb6 Nxb3 Rxb3 Rxa4 Rb7+ Kf6 Rxf7+ Kxf7 Ne5+ Kf6 Nf3 Ra2 Nh4 Kg5 Nf3+ Kf4 Nh2 Rb2 Nf1 Re2 Nh2 Rb2 Nf1 Kf3 Nh2+ Kg3 Nf1+ Kf4 Nh2 Ra2 Nf1 Rb2 Nh2 Re2 Nf1 Ra2 Nh2 Kg3 Nf1+ Kh3 Kh1 Ra1 Kg1 Ra2 Kh1 Kg4 Kg1 Kf3 Nh2+ Kf4 Nf1 Ke4 Nh2 Ke3 Ng4+ Ke4 Nh2 Rb2 Ng4 Rd2 Nh2 Rb2 Ng4 Kf3 Ne5+ Kg3 Kf1 Rh2 Nc4 Kf3 Ke1 Rc2 Ne5+ Ke4 Ng4 Ra2 Nf6+ Ke3 Nd5+ Kd4 Nf4 Ke4 Nh3 Ke3 Kf1 Rh2 Ng1 Ra2 Nh3 Rh2 Ng1 Rc2 Nh3 Rb2 Ng1 Rf2+ Ke1",
-    "duration": 30,
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Rab8 Kh2 Bb4 Nh4 Bxc3 Rxc3 g6 Nf1 Rg8 Ne3 Qa5 Qc2 Nc5 Nf3 Bd7 d4 Ne6 Qd2 Nxd4 Nxd4 exd4 Qxd4 Qe5+ Qxe5 dxe5 b3 Ra8 f3 Rgb8 Rd2 Be6 Ng4 axb3 axb3 Kg7 Nf2 g5 Nd3 h5 Kg3 Ra1 Kf2 h4 Rc1 Ra3 Rc3 Kf7 Rb2 Ra1 Ke2 Ke7 Ke3 Kf7 Rcc2 Ra3 Nc1 f5 Ra2 Rxa2 Rxa2 Ke7 Ra7 Kd6 Ra1 Bc8 Rb1 g4 hxg4 fxg4 Nd3 gxf3 gxf3 c5 Kf2",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "outoftime"
+    "termination": "draw"
   },
-  "updated": 1774510257.5415978
+  "updated": 1774510454.2499728
 }
