@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
+  "rating": 3036,
   "opponent": "DDxrandom",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+0",
-  "time_left": 296,
-  "timestamp": "2026-03-26T20:40:59.001294",
+  "time_control": "TC: 5+5",
+  "time_left": 35,
+  "timestamp": "2026-03-26T20:58:32.878283",
   "last_game": {
     "result": "win",
     "opponent": "DDxrandom",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nf3 d5 c4 e6 Bg5 dxc4 Qa4+ Nbd7 e4 Be7 Nbd2 h6 Bf4 O-O Qxc4 c5",
-    "duration": 300,
-    "bot_color": "black",
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 d6 g4 h6 Rg1 Nc6 Be3 e5 Nb3 Be7 Qf3 Nh7 O-O-O Be6 Kb1 O-O Be2 a6 Qg2 Bg5 Bc5 Be7 g5 hxg5 h4 Qc8 Be3 g4 f3 a5 Bb5 Na7 Bxa7 Rxa7 fxg4 Nf6 a4 b6 Be2 Rc7 g5 Ne8 Nd5 Bxd5 exd5 Rxc2 Nd2 Rc5 Bd3 Qb7 Nb3 Rc8 Qe4 g6 h5 Kg7 hxg6 f5 Qg2 Nc7 Rh1 Rh8 Bxf5 Nxd5 Rxd5 Rxh1+ Qxh1 Rh8 Qe4 Bxg5 Rxd6 Qxe4+ Bxe4 Be7 Rxb6 Rh4 Nd2 Rg4 Rb7 Kf8 Kc2 Bb4 Kd3 Bxd2 g7+ Rxg7 Rxg7 Kxg7 Kxd2",
+    "duration": 785,
+    "bot_color": "white",
     "termination": "resign"
   },
-  "updated": 1774557659.0013952
+  "updated": 1774558712.8784661
 }
