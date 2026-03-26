@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3036,
-  "opponent": "Fischer_Bot",
+  "rating": 3098,
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 167,
-  "timestamp": "2026-03-26T12:25:45.054610",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 25,
+  "timestamp": "2026-03-26T12:26:50.893389",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 3036,
-    "rating_after": 3036,
+    "opponent": "TakticproChess",
+    "rating_before": 3098,
+    "rating_after": 3098,
     "rating_delta": 0,
-    "moves": "c4 g6 d4 Nf6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 e5 O-O Nc6 d5 Ne7 b4 a5 bxa5 Rxa5 a4 Ra8 Nd2 Ne8 Nb3 c5 dxc6 bxc6 Be3 f5 a5 fxe4 Bb6 Qd7 Nd2 Nf5 Ndxe4 Nd4 Na4 Nxe2+ Qxe2 Qf7 Rfd1 Ba6 Rac1 d5 Nec5 Bxc4 Rxc4 dxc4 Nd7 Nf6 Nxf8 Bxf8 Rd8 Rxd8 Bxd8 Nd5 Qxc4 Nb4 Qe2 Qb3 Nb6 Qb1+ Qf1 Qxf1+ Kxf1 Kf7 Nd7 Bd6 Nf6 h5 Ne4 Ke6 Ke2 Bf8 Ng5+ Kd7 Bf6 Bd6 Ne4 c5 Bg7 Bc7 Nxc5+ Ke7 Bf8+ Kf7 a6 Bb6 Na4 Kxf8 Nxb6 Nxa6 Nd7+ Kf7 Nxe5+ Kf6 Nc6 Nc7 Ke3 Kf5 Nd4+ Ke5 Nf3+ Kf5 Nd4+ Ke5 Nc6+ Kf5 Nb4 g5 Nc2 Ke5 Nb4",
-    "duration": 600,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 g6 g3 Kf8 Kg2 Kg7 g4 Bc6 Ng3 Ba4 Bd1 Bc6+ Bf3 Bb5 Be2 Bc6+ Bf3 Ba4",
+    "duration": 30,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774527945.0548003
+  "updated": 1774528010.8934875
 }
