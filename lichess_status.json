@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3036,
-  "opponent": "Cheszter",
+  "rating": 3002,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 339,
-  "timestamp": "2026-03-27T08:08:34.798304",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-27T08:09:06.877086",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3036,
-    "rating_after": 3036,
+    "opponent": "OlisRalphBot",
+    "rating_before": 3002,
+    "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Nd2 b4 Qc2 Nd6 cxb4 axb4 Ne4 Ba6 Nxf6+ Qxf6 Re1 Bxf1 Rxf1 Rfc8 Re1 h6 Qb3 Rcb8 Be3 Nf5 Rac1 Nxe3 Rxe3 Qd6 g3 Rb5 a3 Qxd5 Rxc7 bxa3 Qxd5 Rxd5 bxa3 Rd1+ Kg2 g5 Rc4 Ra5 a4 Kg7 Rf3 Re5 Rcc3 Ree1 Rfd3 Rxd3 Rxd3 Ra1 Rxd7 Rxa4 Kf3 h5 h3 Ra3+ Kg2 Ra4 h4 gxh4 gxh4 Rxh4 f3 Rb4 f4 Rxf4 Rd1 Kg6 Ra1 Kg5 Rb1",
-    "duration": 600,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "",
+    "duration": 180,
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1774598914.798406
+  "updated": 1774598946.877161
 }
