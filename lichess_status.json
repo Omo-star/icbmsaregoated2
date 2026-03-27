@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3106,
-  "opponent": "TakticproChess",
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 22,
-  "timestamp": "2026-03-27T11:19:48.072490",
+  "time_left": 19,
+  "timestamp": "2026-03-27T11:20:29.879333",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
+    "opponent": "CloudNetBot",
     "rating_before": 3106,
     "rating_after": 3106,
     "rating_delta": 0,
-    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 O-O Be2 Bg4 O-O a5 c5 axb4 axb4 Rxa1 Qxa1 dxc5 bxc5 Ba5 Nb5 Bxf3 gxf3 Qe7 Rd1 Rd8 d4 exd4 Nxd4 Nxd4 Rxd4 Rxd4 Qxd4 c6 Qa4 Bd8 Qa8 h6 h3 Qc7 Bc4 Qd7 e5 Nd5 Bxd5 Qxd5 Qc8 Kh7 f4 f6 Qxb7 fxe5 fxe5 Qe6 Qb8 Be7 Qb7 Kg8 Qa8+ Kf7 Qa4 Qxh3 Qxc6",
+    "moves": "c4 e5 g3 Nf6 Nf3 e4 Nh4 d5 cxd5 c6 d3 exd3 Qxd3 Qxd5 Qe3+ Qe6 Nc3 Na6 Bg2 Bc5 Qxe6+ Bxe6 Nf3 O-O O-O Rfe8 Bg5 Nd5 Na4 Bf8 Nd4 f6 Nxe6 Rxe6 e4 Ndb4 Bf4 g5 Be3 Nc2 Rad1 Nxe3 fxe3 Kg7 Bf3 Rd6 Nc3 Rad8 e5 Rxd1 exf6+ Kxf6 Bxd1+ Kg6 Kf2 Nb4 Ke2 Bg7 a3 Bxc3 bxc3 Na2 Bc2+ Kg7 c4 Nc3+ Ke1 b6 Rf5 h6 Re5 Kf6 Rf5+ Kg7 h3 a5 g4 a4 Rf3 Re8 e4 Nxe4",
     "duration": 30,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774610388.0726001
+  "updated": 1774610429.8794386
 }
