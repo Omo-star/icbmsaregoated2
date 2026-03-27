@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3005,
-  "opponent": "RaspFish",
+  "rating": 3006,
+  "opponent": "PureDefeat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+1",
-  "time_left": 169,
-  "timestamp": "2026-03-27T10:29:29.084695",
+  "time_left": 158,
+  "timestamp": "2026-03-27T10:31:20.773465",
   "last_game": {
     "result": "draw",
-    "opponent": "RaspFish",
-    "rating_before": 3005,
-    "rating_after": 3005,
+    "opponent": "PureDefeat",
+    "rating_before": 3006,
+    "rating_after": 3006,
     "rating_delta": 0,
-    "moves": "e4 c5 Nc3 d6 f4 g6 d4 cxd4 Qxd4 Nf6 Nf3 Bg7 Be3 O-O Qd2 Qa5 Bd3 Nc6 h3 Rd8 Bf2 Bh6 Be3 Bg7 Bf2 Bh6 Be3 Bg7",
-    "duration": 208,
-    "bot_color": "black",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 h5 b4 h4 O-O Qd7 a4 h3 g3 Bg4 Na3 Nf5 Nc2 Nd8 Ne3 Nxe3 Bxe3 Be7 a5 Nf7 Qd2 Nh6 Nc1 Kf7 Bc2 f5 Nd3 b5 axb6 axb6 Nf2 Rhc8 Rfc1 Qe8 Bd3 Ra4 Qb2 Rca8 Bf1 Bf3 Bxh3 Ng4 Nxg4 fxg4 Bg2 Rxa1 Rxa1 Rxa1+ Qxa1 Bxg2 Kxg2 Qh8 f5 Qh7 fxe6+ Kxe6 Qd1 Qe4+ Kf2 c6 Bf4 Qf5 Ke1 b5 Kd2 g5 Be3 Kf7 Qe1",
+    "duration": 261,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774607369.0847821
+  "updated": 1774607480.7735608
 }
