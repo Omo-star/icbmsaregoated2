@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3002,
-  "opponent": "compchess60",
+  "opponent": "PureDefeat",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+1",
-  "time_left": 116,
-  "timestamp": "2026-03-27T08:36:11.408880",
+  "time_left": 126,
+  "timestamp": "2026-03-27T08:39:16.258986",
   "last_game": {
     "result": "draw",
-    "opponent": "compchess60",
+    "opponent": "PureDefeat",
     "rating_before": 3002,
     "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Nd7 Nf1 d5 Ne3 Bxe3 Rxe3 dxe4 Rxe4 Bd5 Re3 Re8 b3 Ne7 Bxd7 Qxd7 Nxe5 Qd6 d4 Nf5 Re1 f6 Nd3 Rxe1+ Qxe1 Nh4 f3 g5 Qf2 Qd7 Nf4 Bf7 Bd2 a4 bxa4 Qxa4 Nd3 Qc4 Nb4 Ng6 Kh1 b6 a3 h5 Kh2 c5 Nc2 Qd3 Ne1 Qc4 Nc2 Qd3 Rc1 Re8 Ne3",
-    "duration": 253,
-    "bot_color": "white",
+    "moves": "d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O e4 d5 e5 Ne4 Bd3 c5 Ne2 cxd4 Nxd4 Nd7 Bf4 Qh4 g3 Qh5 O-O g5 cxd5 gxf4 dxe6 Nxe5 Nxe4 fxe6 f3 fxg3 Nxg3 Qh6 Be4 Qd2 Qxd2 Bxd2 Kh1 Ng6 a4 Rb8 Rfd1 Bg5 b4 Rd8 Nb5 Bd7 Bxg6 hxg6 Ne4 Be7 Nxa7 Ra8 Nb5 Bxb5 axb5 Rxa1 Rxa1 Rd5 Ra5 Bxb4 Nf6+ Kg7 Nxd5 Bxa5 Ne3 Kf6 Nc4 Bb4 Kg2 Kf5 Kf2 e5 Ke3 Be7 Ke2 Bc5 Na5 b6 Nc6 Bg1",
+    "duration": 262,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774600571.4089727
+  "updated": 1774600756.259093
 }
