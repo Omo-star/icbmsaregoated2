@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2996,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3036,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 46,
-  "timestamp": "2026-03-27T07:56:17.110260",
+  "time_control": "TC: 10+0",
+  "time_left": 339,
+  "timestamp": "2026-03-27T08:08:34.798304",
   "last_game": {
-    "result": "win",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2996,
-    "rating_after": 2996,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 b4 a6 Kf1 c5 Kg2 Rg6 Rb1 cxb4 Bxb4 Qg7 Rb2 Ka8 Rhb1 Bg5 a4 Rc6 Na5 Rg6 Nxb7 Be7 Na5 Bxb4 Rxb4 Qe7 Rc4 c5 Rc3 Qd6 Nb3 Rg7 Rxc5 Rb7 Rc1 Rc7 d4 exd4 e5 Qe7 Rxc7 Qxc7 Qf5 h3+ Kh1 Re8 Qe4+ Qb7 Qxf4 h2 Nxd4 Rd8 Ne2 g2+ Kxg2 Rg8+ Kh1 Qg7 Qe4+ Ka7 Qg4 Qxg4 fxg4 Kb6 e6 Rxg4 Rd1 Kc7 Nd4 Rf4 e7 Re4 Nf5 Re5 Kxh2 Kb6 Rd8 Re2+ Kg3 Kc5 e8=Q Rxe8 Rxe8",
-    "duration": 180,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Nd2 b4 Qc2 Nd6 cxb4 axb4 Ne4 Ba6 Nxf6+ Qxf6 Re1 Bxf1 Rxf1 Rfc8 Re1 h6 Qb3 Rcb8 Be3 Nf5 Rac1 Nxe3 Rxe3 Qd6 g3 Rb5 a3 Qxd5 Rxc7 bxa3 Qxd5 Rxd5 bxa3 Rd1+ Kg2 g5 Rc4 Ra5 a4 Kg7 Rf3 Re5 Rcc3 Ree1 Rfd3 Rxd3 Rxd3 Ra1 Rxd7 Rxa4 Kf3 h5 h3 Ra3+ Kg2 Ra4 h4 gxh4 gxh4 Rxh4 f3 Rb4 f4 Rxf4 Rd1 Kg6 Ra1 Kg5 Rb1",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1774598177.1133754
+  "updated": 1774598914.798406
 }
