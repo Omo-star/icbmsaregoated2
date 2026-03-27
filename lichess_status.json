@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3102,
-  "opponent": "Ctrl_Alt_Destroy",
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-03-27T08:10:00.952321",
+  "time_left": 26,
+  "timestamp": "2026-03-27T08:10:17.383543",
   "last_game": {
     "result": "draw",
-    "opponent": "Ctrl_Alt_Destroy",
+    "opponent": "tbhOnBot",
     "rating_before": 3102,
     "rating_after": 3102,
     "rating_delta": 0,
-    "moves": "",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 f6 Bd2 Rf7 a4 b6 b4 Be7 h4 c5 b5 Nf8 Ne3 Ne6 h5 a6 Nf5 axb5 axb5 Rxa1 Qxa1 Qe8 Qa8 Bd7 Ra1 Bxb5 c4 Bc6 Qxe8+ Bxe8 h6 g6 Ra8 Bd8 Ng7 Bc6 Rb8 Rxg7 hxg7 Kxg7 Ne1 Be7 f3 Bd6 Nc2 f5 Ne3 f4 Nd5 g5 Kf2 h5 g3 Bxd5 cxd5 fxg3+ Kxg3 Nf4 Bxf4 exf4+ Kh3 Kf7 Rh8 Kg6 Re8 Kf7 Rh8 Kg6 Re8 Kf7 Rh8",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "aborted"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774599000.9523983
+  "updated": 1774599017.3836741
 }
