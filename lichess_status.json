@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "Fischer_Bot",
-  "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 234,
-  "timestamp": "2026-03-27T12:48:14.388529",
+  "rating": 3099,
+  "opponent": "bot1e",
+  "variant": "Variant: Antichess",
+  "time_control": "TC: \u00be+0",
+  "time_left": 11,
+  "timestamp": "2026-03-27T12:49:49.108443",
   "last_game": {
     "result": "draw",
-    "opponent": "Fischer_Bot",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "opponent": "bot1e",
+    "rating_before": 3099,
+    "rating_after": 3099,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 c4 Nf6 Nc3 d6 Be2 Nxd4 Qxd4 Bg7 Be3 O-O Qd3 Bg4 f3 Be6 Rc1 a6 Qd2 Qc7 Na4 Nd7 O-O Nc5 Nc3 Qa5 Rc2 Bxc3 Qxc3 Qxc3 Rxc3 Rfc8 b4 Na4 Rc2 b5 Rfc1 bxc4 Bxc4 Rxc4 Rxc4 Bxc4 Rxc4 Kf8 Kf1 Ke8 Ke2 Rb8 a3 Kd7 g4 Nb6 Rc3 f6 h4 Na8 g5 Rf8 gxf6 Rxf6 Bh6 Nc7 a4 e5 Be3 Rf8 Rb3 Rc8 b5 axb5 axb5 Rb8 b6 Ne6 Rc3 Ra8 Rc2 Rb8 Kd3 Ra8 Rc3 Rb8 Rc4 h6 Rc1 g5 hxg5 hxg5 Rh1 Kc6 Kc4 Ra8 b7 Rb8 Rh6 Kd7 Rh7+ Kc6 Ba7 Rxb7 Rxb7 Kxb7 Kd5",
-    "duration": 600,
+    "moves": "e3 e6 b4 Bxb4 Qg4 Bxd2+ Qxg7 Bxe3 Bxe3 c5 Bxc5 b6 Bxb6 Qxb6 Qxf7+ Kxf7 Nh3 Qxf2+ Kxf2 Ba6 Bxa6 Nxa6 a4 Nc7 a5 Ne7 Ke3 Rhd8 Ra3 Nc8 a6 Nxa6 Rxa6 Rb8 Rxe6 Rxb1 Rxb1 Kxe6 Kf4 Kf7 Rh1 Ne7 Nf2 Ra8 h4 Nc8 g4 a5 g5 a4 h5 a3 Kg4 Ra7 Rg1 Ne7 Kf4 Nc6 g6+ hxg6 Rxg6 Kxg6 hxg6 a2 g7 Rb7 Kg4 Rb1 Kg3 Rb5 Kf3 Nd8 Nd1 Rb3+ cxb3 Ne6 Ke3 Nxg7 b4 Nh5 b5 Ng3 Nb2 d5 Nc4 dxc4 b6 a1=B Kd4 Bxd4 b7 Bb2 b8=K c3 Kb7 c2 Kb6 Bc1 Kb5 Ne2 Kc6 Bg5 Kc7 Bd8 Kxd8 Nc3 Kc7 c1=R Kd7 Ra1 Ke7 Ra5 Kd7 Ra4 Kc7 Rg4 Kd7 Rg1 Ke7 Rb1 Kf6 Nb5 Kf5 Rb3 Kg4 Nc3 Kh4 Rb8 Kg4 Rc8 Kg5 Ra8 Kg4 Rb8 Kg5 Rd8 Kg4 Na2 Kf3 Rd7 Kf2 Nb4 Kf3 Nc6 Kf2 Rd4 Ke1 Rh4 Kd2 Rb4 Kc1 Rh4 Kc2 Rh5 Kd2 Rh8 Ke2 Ra8 Kd2 Rc8 Kd1 Rb8 Kd2 Ne7 Kc1 Rf8 Kc2 Nf5 Kb1 Ng7 Ka1 Nf5 Kb1 Nh6 Kc1 Re8 Kd2 Rg8 Kd3 Rf8 Kd4 Rb8 Kc3 Re8 Kd2 Rf8 Kd3 Rf7 Kd4 Rf8 Kd3 Rg8 Kd4 Rg6 Kc3 Ng4 Kc4 Rg7 Kb3 Nf2 Kb4 Rg8 Kc5 Rg3 Kd6 Nd1 Kc5 Nb2",
+    "duration": 45,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774615694.3886814
+  "updated": 1774615789.1085145
 }
