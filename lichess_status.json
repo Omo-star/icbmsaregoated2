@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3105,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 1+0",
-  "time_left": 24,
-  "timestamp": "2026-03-27T11:53:29.990142",
+  "rating": 3035,
+  "opponent": "rascal1",
+  "variant": "Variant: Standard",
+  "time_control": "TC: 7+2",
+  "time_left": 209,
+  "timestamp": "2026-03-27T12:06:29.996573",
   "last_game": {
     "result": "draw",
-    "opponent": "is_BOSS",
-    "rating_before": 3105,
-    "rating_after": 3105,
+    "opponent": "rascal1",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 d5 Nc3 b5 Ng5 fxg5 Qh5+ g6 Qe5 Be6 Bd3 Nd7 Qxc7 d4 Nd5 Bxd5 Bc4 bxc4 h3 Ngf6 O-O Bg7 f3 d3 c3 h5 g3 h4 g4 O-O e4 Nh5 b3 Ng3 Kh2 Be5 f4 Bd6 Ba3 Bc5 Bxc5 Nh1 e5 Kh7 gxg5 Rf5 Rae1 Nf2 Kg1 e6 Ra1 Rg8 Rae1 Ra8 a3 Rg8 a4 Kh8 a5 Rxg5+ Re3 g5 f5 g4 f6 gxh3+ Rg3 hxg3 Kh2 Rg3 f7 Rh3+ Kg2 Rg3+ Kh2 Rh3+ Kg2 Rg3+ Kh2",
-    "duration": 60,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re1 Re8 c3 Rxe1 Qxe1 Ne8 Bf4 d5 Nd2 Bf5 Qe2 c6 Re1 Nd6 Qf3 Bg5 h3 h6 Nb3 Bxf4 Qxf4 b6 Nc1 a5 Nd3 Rc8 b3 g5 Qf3 Kg7 Ne5 Qf6 c4 Rc7 Qg3 Be6 Qc3 c5 cxd5 Bxd5 Ng4 Qxd4 Qc1 Nf5 Rd1 Qe4 f3 Qe6 Qc3+ f6 Rxd5 Qxd5 Nxf6 Qd8 Ne8+ Kf7 Nxc7 Qxc7 Bc4+ Kg6 Bd3 h5 Qc4 Qe7 Kf1 Kf6 Bxf5 Kxf5 g4+ hxg4 hxg4+ Kf6 Qd3 Ke6 Ke2 Qf6 a4 Qe5+",
+    "duration": 612,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774612409.990232
+  "updated": 1774613189.9966729
 }
