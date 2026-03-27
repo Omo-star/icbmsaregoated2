@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3103,
-  "opponent": "Weiawaga",
+  "rating": 3104,
+  "opponent": "tbhOnBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 12,
-  "timestamp": "2026-03-27T10:37:27.214576",
+  "time_left": 14,
+  "timestamp": "2026-03-27T10:41:37.146852",
   "last_game": {
-    "result": "win",
-    "opponent": "Weiawaga",
-    "rating_before": 3103,
-    "rating_after": 3103,
+    "result": "draw",
+    "opponent": "tbhOnBot",
+    "rating_before": 3104,
+    "rating_after": 3104,
     "rating_delta": 0,
-    "moves": "c4 e6 Nc3 d5 d4 Nf6 cxd5 exd5 Bg5 c6 e3 Be7 Bd3 Nbd7 Nf3 h6 Bf4 Nh5 Be5 O-O h3 Nxe5 dxe5 g6 O-O Ng7 Qd2 a5 Rad1 Ne6 Nd4 Bc5 Bb1 a4 f4 Ng7 Kh2 a3 b3 Bb4 Nc2 Be7 Kh1 Nf5 Ne2 Qa5 b4 Qb5 Kg1 Qb6 g4 Bxb4 Nxb4 Nxe3 Kh1 Nxd1 Rxd1 Ra4 Nd3 Re4 Ng3 Re3 Kh2 Qd4 Nf1 Re4 Ng3 Re3 Qf2 b6 Rd2 c5 Nb2 Rf3 Qxd4 cxd4 Nd3 h5 Bc2 Ba6 gxh5 Rc8 Nb4 Rcc3 Rg2 Bc4 hxg6 fxg6 Bxg6 Kf8 e6 Rfe3 f5 d3 h4 d4 Rd2 Kg8 h5 Rc1 h6 Rc3 Kg2 Kh8 Kf2 b5 Nc6 Bxe6 Nxd4 Rxg3 Kxg3 Bxa2 Nxb5 Rc2 Rxd3 Rc8 Rxa3 Bd5 Nd6 Rd8 Re3 Ba2 Kf4 Kg8 Kg5 Ra8 h7+ Kh8 Kh6 Rd8 f6 Ra8 f7 Be6 Rxe6 Rf8 Re8 Rxe8 fxe8=Q#",
+    "moves": "f4 d5 b3 Bg4 h3 Bh5 g4 Bg6 e3 e6 Nf3 h5 g5 Ne7 Bb2 Nbc6 Bb5 a6 Bxc6+ Nxc6 d3 h4 Qd2 Ne7 Nc3 Nf5 O-O-O Bc5 Rde1 Qd6 Ne5 O-O Rhg1 Bb4 Kb1 a5 Qf2 a4 Nxa4 b5 Nc3 c6 e4 Ng3 exd5 exd5 Ne2 c5 c3 Qa6 cxb4 Qxa2+ Kc1 cxb4 Nxg3 Rfc8+ Kd2 Qxb2+ Ke3 d4+ Kf3 Qxf2+ Kxf2 hxg3+ Rxg3 Rc2+ Re2 Raa2 Rxc2 Rxc2+ Ke1 Rc3 Nxg6 fxg6 Kd2 Rxb3 Rf3 Rc3 f5 b3 fxg6 Rc2+ Kd1 Rc3 Kd2 Rc2+ Kd1 Rc5 Rf2 Rxg5 Rb2",
     "duration": 30,
     "bot_color": "white",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1774607847.214643
+  "updated": 1774608097.1499884
 }
