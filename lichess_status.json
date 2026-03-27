@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3002,
-  "opponent": "SykoraBot",
+  "rating": 3035,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 197,
-  "timestamp": "2026-03-27T12:15:46.614714",
+  "time_control": "TC: 10+0",
+  "time_left": 345,
+  "timestamp": "2026-03-27T12:27:21.744954",
   "last_game": {
     "result": "draw",
-    "opponent": "SykoraBot",
-    "rating_before": 3002,
-    "rating_after": 3002,
+    "opponent": "Cheszter",
+    "rating_before": 3035,
+    "rating_after": 3035,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 a4 Nf6 d3 a6 h3 h6 O-O d6 c3 g5 b4 Bb6 d4 g4 hxg4 Qd7 Nh2 Nxg4 Nxg4 Qxg4 a5 Ba7 Qxg4 Bxg4 b5 axb5 Bxb5 Bd7 a6 bxa6 Rxa6 Nb8 Bxd7+ Kxd7 Ra4 Nc6 Be3 Ne7 Ra3 f5 dxe5 Bxe3 Rxa8 Bxf2+ Rxf2 Rxa8 exd6 Kxd6 Nd2 Ke5 Nc4+ Kf6 Ne3 Ra5 exf5 h5 g4 hxg4 Nxg4+ Kg5 f6 Kxg4 fxe7 Re5 e8=Q Rxe8 c4 c6 c5 Re1+ Kg2 Ra1 Rf1 Rxf1 Kxf1 Kh5 Ke1 Kh6 Kd1 Kh7 Kc1 Kh8 Kb1 Kg8 Ka1 Kh8 Kb1 Kg8 Ka1 Kh8 Kb1 Kg8",
-    "duration": 278,
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 g3 Bb4+ Bd2 Be7 Bg2 c6 Qc2 O-O O-O b6 Bf4 Bb7 Rd1 Nbd7 cxd5 cxd5 Qb3 Rc8 Nc3 Ne4 Rdc1 Nxc3 Rxc3 Rxc3 Qxc3 Qa8 g4 Ba6 Qc7 Qb7 Qxb7 Bxb7 e3 Rc8 Bf1 Nf6 g5 Nh5 Be5 f6 Bh3 Rc6 Bg4 fxe5 Nxe5 Rc2 Bxh5 Bxg5 Rb1 Bh4 Bd1 Rc7 f4 Ba6 Bg4 Bc8 Be2 Bd7 Bg4 Bc8 a3 g5 Nf3 Rc2 Nxh4 gxh4 Rf1 Kf7 Rf2 Rc1+ Kg2 Kf6 Kh3 Re1 Re2 Rc1",
+    "duration": 600,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774613746.6147773
+  "updated": 1774614441.7450438
 }
