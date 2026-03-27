@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
-  "opponent": "Worst-ai",
+  "rating": 3096,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 36,
-  "timestamp": "2026-03-27T07:51:33.393483",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 9,
+  "timestamp": "2026-03-27T07:52:55.572791",
   "last_game": {
     "result": "win",
-    "opponent": "Worst-ai",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "opponent": "Cheszter",
+    "rating_before": 3096,
+    "rating_after": 3096,
     "rating_delta": 0,
-    "moves": "e4 g6 d4 d6 c4 Nf6 Nc3 Bg7 h3 e5 dxe5 dxe5 Qxd8+ Kxd8 Nf3 Nc6 Be3 Be6 O-O-O+ Nd7 Ng5 h6 Nxe6+ fxe6 g4 Bf6 h4 Ke7 b3 g5 h5 Nd4 Rd2 Rhf8 Be2 a6 Kb1 Ke8 Kb2 Bd8 Rdd1 Be7 Bd3 b6 a3 Bc5 b4 Bd6 Na4 Ke7 Rhg1 a5 c5 axb4 cxd6+ cxd6 Bxd4 exd4 Bb5 Nc5 Nxc5 bxa3+ Ka1 bxc5 Rd2 Rf4 e5 d5 Rc2 c4 Bxc4 dxc4 Rxc4 Rd8 Ka2 Rxf2+ Kxa3 Re2 Rd1 Rxe5 Rdxd4 Rxd4 Rxd4 Rb5 Ra4 Kd6 Ra7 Ke5 Ka4 Rb1 Rh7 Kf4 Rxh6 Kxg4 Rh8 e5 h6 e4 Re8 Rh1 Kb3 Rxh6 Kc2 Kf3 Kd2 Rf6 Rh8 e3+ Kd3 g4 Re8 Kf2 Re7 g3 Re8 g2 Rg8 Rf3 Kd4 e2 Re8 e1=Q Rxe1 Kxe1 Ke4 g1=Q Kxf3 Qd4 Kg3 Qe4 Kh2 Qg4 Kh1 Kf2 Kh2 Qh5#",
-    "duration": 316,
-    "bot_color": "black",
-    "termination": "mate"
+    "moves": "f4 e6 b3 Be7 Bb2 Nh6 e3 O-O c4 d5 Nf3 c5 Nc3 Nc6 Bd3 d4 exd4 cxd4 Ne2 Bc5 a3 a5 O-O b6 Kh1 f5 b4 axb4 axb4 Rxa1 Qxa1 Nxb4 Bb1 d3 Nc1 Ng4 Bxg7 Rf7 Bd4 Bxd4 Qxd4 Qxd4 Nxd4 Ba6 Na2 Nc2 Bxc2 dxc2 Rc1 Rd7 Nf3 Bxc4 Rxc2 Bd5 Nb4 Bxf3 gxf3 Nf6 Rc6 Kf7 Rxb6 Nh5 Nc6 Kf6 Rb4 Rd3 Nb8 Rxf3 Nd7+ Ke7 Ne5 Rf1+ Kg2 Rxf4 Rb7+ Kf6 Nd7+ Ke7 Ne5+ Kd6 Nf7+ Kc5 Rc7+ Kd4 Rd7+ Kc5 Rc7+ Kb4 Nd8 Rg4+ Kf3 Rf4+ Kg2 Re4 Kf3 Nf4 Rxh7 Ng6 Nf7 Kc5 Rg7 Ne5+ Nxe5 Rxe5 h4 Rd5 h5 Rxd2 h6 Rh2 h7 Kd6 Kg3 Rh5 Kf3 Ke5 Rf7 Rh3+ Kg2 Rh4 Kg3 Rh1 Kg2 Rh6 Kg3 Rh1 Kg2 Rh6 Kf2 Rh4 Kg3 Rh5 Kf3 Rh6 Kg2 Kd6 Kf3 Rh3+ Kf4 Rh5 Kg3 Kd5 Kg2 Ke4 Kg3 Rh1 Rb7 Ke5 Rf7 Kd6 Kf3 Rh3+ Kg2 Rh6 Ra7 Ke5 Rf7 Kd5 Kf3 Kd6 Kf4 Rh5 Kg3 Kd5 Rd7+ Ke5 Rf7 Kd6 Kg2 Rh4 Kf3 Kd5 Kg3 Rh1 Kf4 e5+ Kxf5 e4 h8=Q Rxh8 Re7 Rf8+ Kg4 Kd4 Ra7 e3 Ra4+ Kc3 Kg3 e2 Ra3+ Kd2 Ra2+ Kd3 Ra3+ Kc2 Ra2+ Kb1 Rxe2 Kc1 Kh4 Kd1 Re7 Kd2 Rh7 Ke3 Rg7 Rh8+ Kg5 Rf8 Rh7 Rf1 Rh8 Rf2 Re8+ Kd4 Rh8 Ke3 Re8+",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "outoftime"
   },
-  "updated": 1774597893.3935454
+  "updated": 1774597975.572857
 }
