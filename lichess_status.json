@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "OlisRalphBot",
+  "opponent": "Worst-ai",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-03-27T07:43:50.095318",
+  "time_control": "TC: 3+1",
+  "time_left": 36,
+  "timestamp": "2026-03-27T07:51:33.393483",
   "last_game": {
-    "result": "draw",
-    "opponent": "OlisRalphBot",
+    "result": "win",
+    "opponent": "Worst-ai",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 180,
+    "moves": "e4 g6 d4 d6 c4 Nf6 Nc3 Bg7 h3 e5 dxe5 dxe5 Qxd8+ Kxd8 Nf3 Nc6 Be3 Be6 O-O-O+ Nd7 Ng5 h6 Nxe6+ fxe6 g4 Bf6 h4 Ke7 b3 g5 h5 Nd4 Rd2 Rhf8 Be2 a6 Kb1 Ke8 Kb2 Bd8 Rdd1 Be7 Bd3 b6 a3 Bc5 b4 Bd6 Na4 Ke7 Rhg1 a5 c5 axb4 cxd6+ cxd6 Bxd4 exd4 Bb5 Nc5 Nxc5 bxa3+ Ka1 bxc5 Rd2 Rf4 e5 d5 Rc2 c4 Bxc4 dxc4 Rxc4 Rd8 Ka2 Rxf2+ Kxa3 Re2 Rd1 Rxe5 Rdxd4 Rxd4 Rxd4 Rb5 Ra4 Kd6 Ra7 Ke5 Ka4 Rb1 Rh7 Kf4 Rxh6 Kxg4 Rh8 e5 h6 e4 Re8 Rh1 Kb3 Rxh6 Kc2 Kf3 Kd2 Rf6 Rh8 e3+ Kd3 g4 Re8 Kf2 Re7 g3 Re8 g2 Rg8 Rf3 Kd4 e2 Re8 e1=Q Rxe1 Kxe1 Ke4 g1=Q Kxf3 Qd4 Kg3 Qe4 Kh2 Qg4 Kh1 Kf2 Kh2 Qh5#",
+    "duration": 316,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "mate"
   },
-  "updated": 1774597430.0953999
+  "updated": 1774597893.3935454
 }
