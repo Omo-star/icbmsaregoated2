@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3036,
-  "opponent": "YoBot_v2",
+  "rating": 3005,
+  "opponent": "RaspFish",
   "variant": "Variant: Standard",
-  "time_control": "TC: 8+1",
-  "time_left": 379,
-  "timestamp": "2026-03-27T10:27:36.669236",
+  "time_control": "TC: 3+1",
+  "time_left": 169,
+  "timestamp": "2026-03-27T10:29:29.084695",
   "last_game": {
     "result": "draw",
-    "opponent": "YoBot_v2",
-    "rating_before": 3036,
-    "rating_after": 3036,
+    "opponent": "RaspFish",
+    "rating_before": 3005,
+    "rating_after": 3005,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 Nd6 h3 Bf5 Nf3 g5 Re3 h6 Ne5 Re8 Qh5 Bxe5 dxe5 Bg6 Qd1 Nf5 Re1 c6 Bd3 Nh4 a4 Be4 Bxe4 dxe4 Qg4 Qd5 Bf4 Ng6 Rad1 Nxe5 Bxe5 Qxe5 Rd4 Qf6 Rdxe4 Rxe4 Qxe4 a5 Qe7 Qxe7 Rxe7 Rb8 Kf1 Kg7 g3 b5 Ra7 bxa4 Rxa5 Rxb2 Rxa4 Rb5 Rc4 c5 Ke2 Kf6 Re4 Rb2+ Ke3 Rb1 Rc4 Re1+ Kd3 Rh1 h4 gxh4 Rxh4 Rxh4 gxh4 Ke5 f3",
-    "duration": 573,
-    "bot_color": "white",
+    "moves": "e4 c5 Nc3 d6 f4 g6 d4 cxd4 Qxd4 Nf6 Nf3 Bg7 Be3 O-O Qd2 Qa5 Bd3 Nc6 h3 Rd8 Bf2 Bh6 Be3 Bg7 Bf2 Bh6 Be3 Bg7",
+    "duration": 208,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774607256.6723704
+  "updated": 1774607369.0847821
 }
