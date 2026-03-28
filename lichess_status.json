@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3098,
-  "opponent": "CCI-6",
+  "opponent": "Ctrl_Alt_Destroy",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+1",
-  "time_left": 60,
-  "timestamp": "2026-03-28T04:54:45.373751",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-03-28T05:12:35.899078",
   "last_game": {
     "result": "draw",
-    "opponent": "CCI-6",
+    "opponent": "Ctrl_Alt_Destroy",
     "rating_before": 3098,
     "rating_after": 3098,
     "rating_delta": 0,
-    "moves": "c4",
-    "duration": 61,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "c4 e5 g3 Nf6 Bg2 c6 d4 e4 a3 d5 Nc3 Be7 f3 exf3 Nxf3 O-O O-O h6 Bf4 Be6 cxd5 cxd5 Qb3 g5 Bxb8 Rxb8 Ne5 Kg7 Rad1 Qb6 Qxb6 axb6 Rc1 h5 Nb5 Rbc8 Kf2 Rfd8 Ke3 Ne8 Rxc8 Rxc8 Nc3 Nf6 Kd2 Rd8 e3 Bd6 Nd3 Kg6 Nb4 Ng4 Rh1 Nf2 Rf1 Ng4 Rh1 Nf2 Rc1 Ng4 Rh1 Nf2",
+    "duration": 30,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774673685.3738637
+  "updated": 1774674755.8991902
 }
