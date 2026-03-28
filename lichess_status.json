@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "NICE_BOT",
+  "rating": 3101,
+  "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 91,
-  "timestamp": "2026-03-28T21:46:59.393526",
+  "time_control": "TC: 2+1",
+  "time_left": 106,
+  "timestamp": "2026-03-28T22:04:19.285916",
   "last_game": {
     "result": "win",
-    "opponent": "NICE_BOT",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "opponent": "CheckmateX1",
+    "rating_before": 3101,
+    "rating_after": 3101,
     "rating_delta": 0,
-    "moves": "d4 d5 Bf4 Bf5 Nc3 Nc6 e4 dxe4 d5 e5 dxc6 exf4 cxb7 Rb8 Qxd8+ Kxd8 O-O-O+ Bd6 Ba6 Nf6 Nge2 Bg4 Nd4 Bxd1 Rxd1 Kd7 Bb5+ Ke7 Nc6+ Ke6 Nxb8 Rxb8 Bc6 e3 fxe3 fxe3 Nb5 Bxh2 Rd3 Bf4 Kd1 a6 Nd4+ Kd6 Bf3 Kc5 Nc6 Rxb7 Rc3+ Kd6 Rd3+ Kc5 b4+ Kb6 c4 a5 Ra3 axb4 Ra5 e2+ Kxe2 Rb8 Rb5+ Ka6 Nxb8+ Ka7 Nc6+ Ka6 Nxb4+ Ka7 Bb7 c5 Nc6#",
-    "duration": 326,
-    "bot_color": "white",
-    "termination": "mate"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Rd1+ Ke8 Nxh4 Bxh4 g4 h5 f3 f6 exf6 gxf6 Ne4 hxg4 fxg4 Be6 Bf4 f5 Nf2",
+    "duration": 157,
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1774734419.3935893
+  "updated": 1774735459.2860157
 }
