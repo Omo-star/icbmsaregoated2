@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3098,
+  "rating": 3102,
   "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 21,
-  "timestamp": "2026-03-28T22:58:26.630237",
+  "time_left": 30,
+  "timestamp": "2026-03-28T22:58:35.893897",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "CheckmateX1",
-    "rating_before": 3098,
-    "rating_after": 3098,
+    "rating_before": 3102,
+    "rating_after": 3102,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Nxh4 Bxh4 Rd1+ Ke8 g4 b6 a4 h5 f3 Bb7 Kg2 Rd8 Bf4 Rxd1 Rxd1 Ke7 Bg3 Bxg3 Kxg3 c5 h4 hxg4 fxg4 Ke6 a5 Bc6",
+    "moves": "e4",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "outoftime"
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1774738706.630396
+  "updated": 1774738715.8939855
 }
