@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "CloudNetBot",
+  "rating": 3098,
+  "opponent": "CCI-6",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 98,
-  "timestamp": "2026-03-27T12:54:16.951858",
+  "time_control": "TC: 1+1",
+  "time_left": 60,
+  "timestamp": "2026-03-28T04:54:45.373751",
   "last_game": {
     "result": "draw",
-    "opponent": "CloudNetBot",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "opponent": "CCI-6",
+    "rating_before": 3098,
+    "rating_after": 3098,
     "rating_delta": 0,
-    "moves": "e4 e5 Nc3 Nf6 Nf3 Nc6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6 Bd3 d5 exd5 O-O O-O cxd5 h3 c6 Bf4 Re8 Qf3 Bd6 Rfe1 Be6 Ne2 Qb8 b3 Bd7 Bg3 Bxg3 Nxg3 Qb4 c3 Qd6 Bf5 g6 Bxd7 Nxd7 c4 h5 cxd5 cxd5 Re3 Nf6 Rd1 Rxe3 Qxe3 Qa6 Qe2 Qc6 Qd2 Re8 Ne2 Ne4 Qc1 Qa6 Qb2 Qc6 Rc1 Qd6 Qd4 a5 Rd1 Qc7 Rc1 Qd6 Rd1 Qc7 Rc1 Qe7 Re1 Nf6 f3 Qd6 Kf1 Qa6 Kf2 Qe6 Kf1 Qa6",
-    "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "c4",
+    "duration": 61,
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1774616056.9519932
+  "updated": 1774673685.3738637
 }
