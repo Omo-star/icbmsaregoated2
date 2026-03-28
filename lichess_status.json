@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2994,
-  "opponent": "Worst-ai",
+  "rating": 2996,
+  "opponent": "makar_ts5",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 180,
-  "timestamp": "2026-03-28T09:00:36.790404",
+  "time_left": 128,
+  "timestamp": "2026-03-28T09:07:37.625472",
   "last_game": {
     "result": "win",
-    "opponent": "Worst-ai",
-    "rating_before": 2994,
-    "rating_after": 2994,
+    "opponent": "makar_ts5",
+    "rating_before": 2996,
+    "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "d4",
+    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O d6 a3 Nf6 d3 O-O Nc3 Bg4 h3 Bh5 Bg5 Nd4 g4 Bg6 Nxd4 Bxd4 Nd5 Bxb2 Rb1 Bc3 Nxc3 c6 Rxb7",
     "duration": 180,
     "bot_color": "white",
-    "termination": "noStart"
+    "termination": "resign"
   },
-  "updated": 1774688436.7905297
+  "updated": 1774688857.6255705
 }
