@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3035,
-  "opponent": "DarkOnBot",
+  "rating": 3103,
+  "opponent": "TakticproChess",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 597,
-  "timestamp": "2026-03-28T07:09:14.071449",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 22,
+  "timestamp": "2026-03-28T07:09:44.134450",
   "last_game": {
     "result": "draw",
-    "opponent": "DarkOnBot",
-    "rating_before": 3035,
-    "rating_after": 3035,
+    "opponent": "TakticproChess",
+    "rating_before": 3103,
+    "rating_after": 3103,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d3 a5 Re1 a4 Bc2 Bf5 a3 Qd7 Nd2 Bg4 f3 Bh5 d4 c5 Nf1 Rfe8 Ne3 Nf6 Nf1 Nd5 Ne3 Nf6 Nf1 Nd5 Ne3",
-    "duration": 600,
+    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc4 h3 Kf8 g3 g6 Kg2 a6 h4 f5 Nc5 Bxc5 bxc5 Bb5 Be2 Rxc5 Bxb5 Rxb5 Rxb5 axb5 Kf3 Kf7 Kf4 Kf6 e4 e5+ Ke3 Ke6 f3 h5 f4 Kf6 Kf3 Ke6 Ke3 Kf6 Kf3",
+    "duration": 30,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774681754.071546
+  "updated": 1774681784.1345675
 }
