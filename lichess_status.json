@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2996,
-  "opponent": "Makar2017pop",
+  "opponent": "olgachistova",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 124,
-  "timestamp": "2026-03-28T09:28:59.743276",
+  "time_left": 129,
+  "timestamp": "2026-03-28T09:32:18.527329",
   "last_game": {
     "result": "win",
-    "opponent": "Makar2017pop",
+    "opponent": "olgachistova",
     "rating_before": 2996,
     "rating_after": 2996,
     "rating_delta": 0,
-    "moves": "e4 e5 Bc4 Nf6 Nf3 Nxe4 Nc3 Nxc3 dxc3 f6 g4 c6 Qd3 d5 Bb3 Bxg4 Qe3 Nd7 Rg1 Bh5 Bd2 Bc5 Qd3 Qe7 Qf5 g6 Qh3 O-O-O O-O-O Bxf2 Rgf1 Bc5 a3 Rhe8 Qg2 e4 Ng1 e3 Be1 e2",
+    "moves": "e4 e5 d4 exd4 Qxd4 Nc6 Qd3 Nf6 Nc3 Bc5 Nf3 Ng4 Be3 Nb4 Qd2 Nxe3 fxe3 Bxe3 Qd1 O-O Ne5 d5 Ke2 Bf4 Nf3 Qe7 Qd4 Nxc2 Qxd5 Nxa1 Qd1 Rd8 Qxa1 Bg4 Nd5 Rxd5 Ke1 Qxe4+ Be2 Rd2 Nxd2 Qxe2#",
     "duration": 180,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "mate"
   },
-  "updated": 1774690139.743383
+  "updated": 1774690338.5273898
 }
