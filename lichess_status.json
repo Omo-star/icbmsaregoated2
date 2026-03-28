@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3105,
+  "rating": 3104,
   "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00be+0",
-  "time_left": 32,
-  "timestamp": "2026-03-28T22:14:05.608107",
+  "time_left": 25,
+  "timestamp": "2026-03-28T22:14:55.954353",
   "last_game": {
     "result": "draw",
     "opponent": "CheckmateX1",
-    "rating_before": 3105,
-    "rating_after": 3105,
+    "rating_before": 3104,
+    "rating_after": 3104,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Nxh4 Bxh4 Be3 Bd7 Rad1 Kc8 Rd4 Be7 Ne4 Bf5 f3 b6 g4 Be6 a4 c5 Rd2 Rd8 Rxd8+ Kxd8 f4 Bd7 Nc3 f6 Rd1 fxe5 fxe5 Ke8 Nd5 Rc8 b3 Bc6 c4 Kf7 Re1 Ke6 Nf4+ Kf7 Nd5 Ke6 Nf4+ Kf7 Nd5",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Bf1 Be7 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 d5 Nd2 a5 Re1 Nd6 a4 c6 h3 Bf5 Nf3 Be7 Bf4 Ne4 Bd3 Bd6 Bxd6 Nxd6 Bxf5 Nxf5 b3 Qd7 Qd2 Nd6 Qc2 Rfe8 c4 Ne4 Re2 Re6 Ne5 Qd6 Rc1 Rf8 cxd5 cxd5 Qd3 f6 Nf3 Qa6 Qd1 Rfe8 Rec2 Qb6 Qd3 Rc6 Rxc6 bxc6 Re1 Nd6 Rxe8+ Nxe8 g4 Nd6 Nd2",
     "duration": 45,
-    "bot_color": "black",
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774736045.6082094
+  "updated": 1774736095.954453
 }
