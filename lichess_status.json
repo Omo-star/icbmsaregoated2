@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3099,
+  "rating": 3103,
   "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 7,
-  "timestamp": "2026-03-28T22:23:34.912374",
+  "time_left": 11,
+  "timestamp": "2026-03-28T22:25:12.146829",
   "last_game": {
-    "result": "win",
+    "result": "draw",
     "opponent": "CheckmateX1",
-    "rating_before": 3099,
-    "rating_after": 3099,
+    "rating_before": 3103,
+    "rating_after": 3103,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Nxe5 Rxe5+ Be7 Bf1 O-O d4 Ne8 c4 Bf6 Re1 d5 cxd5 Qxd5 Be3 Qd8 Nc3 Nd6 Bf4 Be6 Bd3 h6 Be5 Nc4 Qf3 Bxe5 dxe5 Nxb2 Bc2 Qg5 Qxb7 Rab8 Qe4 g6 f4 Qf5 Qxf5 gxf5 g4 fxg4 f5 Bc4 Rab1 h5 Re3 Rb6 Rbe1 Rc6 Rb1 Rb6 Rc1 Rd8 Ne4 Kg7 h4 Bxa2 Rc3 Bc4 Ng5 Rd4 Re1 Kf8 Nh7+ Ke7 f6+ Ke8 Ng5 c5 Bf5 Rf4 e6 fxe6 Bg6+ Kd7 f7 Ke7 Re5 Rf1+ Kg2 Rd6 Rxc5 Rdd1 Be4 a5 Rc7+ Rd7 R7xc4 Rxf7 Rc6 Rf6 Rb3 Nd1 Ra6 Rc7 Rxa5 Nc3 Rb2 Rd7 Ra6 Rd4 Bc6 Rf5 Ba8 Rf6 Ra3 Nd5 Bxd5 Rxd5 Ra7+ Rd7 Rbb7 Rxb7 Rxb7+ Ke8 Rh7 Kf8 Rxh5 Kg7 Ne4 Rf3 Rg5+ Kh7 Re5 Kg7 Nf2 Rf4 Rg5+ Kf7 Nxg4 Ra4 h5 Ra8 h6 e5 Kh3 e4 Rg7+ Ke6 Kh4 Kd5 h7 Rh8 Kg5 Kd4 Kh6 e3 Nxe3 Kxe3 Rg8 Rxh7+ Kxh7 Kd4 Rh8 Ke4 Kg6 Kd3 Rd8+ Kc3 Kf6 Kc2 Rd4 Kb2 Ke6 Kc3 Kd5 Kb3 Rc4 Ka3 Kc5 Kb3 Kb5 Ka2 Kb4 Kb2 Rc8 Ka1 Rc2 Kb1 Kb3 Ka1 Rc1#",
+    "moves": "e4 g6 d4 d6 Be3 Nd7 Nf3 Ngf6 Nc3 Bg7 Qd2 O-O Bh6 e5 O-O-O Qe7 h4 Nb6 h5 Nxh5 a4 a5 Kb1 Bxh6 Qxh6 f6 g3 Qg7 Qe3 Bg4 Be2 Rae8 d5 f5 Ng5 Qe7 Ne6 f4 gxf4 exf4 Qd2 Bxe6 dxe6 Nf6 Nd5 Nfxd5 exd5 c6 dxc6 bxc6 Qxd6 Qxe6 Ba6 Rf7 Rhe1 Qxd6 Rxe8+ Qf8 Rxf8+ Kxf8 Rd6 Rc7 Rf6+ Kg7 Rxf4 Nd5 Re4 h5 c3 g5 Be2 g4 Re5 Nf4 Bd1 Rd7 Bc2 Rd5 Re7+ Kf6 Re8 c5 b4 cxb4 cxb4 axb4 Rb8 Nd3 a5 Nxf2 a6 Ra5 Rf8+ Kg5 Rxf2 Rxa6 Rf5+ Kh6 Rf8 Ra5 Rg8 Rg5 Rb8 Re5 Rg8 Rg5 Rb8 b3 Bd3 Rd5 Bc4 Rc5 Bxb3 g3 Bc2 Kg5 Be4 Re5 Rg8+ Kf4 Bc6 Rg5 Rf8+ Ke3 Bg2 Kd2 Rd8+ Ke1 Rf8 Kd2 Rd8+ Ke3 Rf8 Kd2",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774736614.912436
+  "updated": 1774736712.1469412
 }
