@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "Licht94",
+  "rating": 3098,
+  "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+10",
-  "time_left": 763,
-  "timestamp": "2026-03-28T22:57:43.496313",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 21,
+  "timestamp": "2026-03-28T22:58:26.630237",
   "last_game": {
-    "result": "draw",
-    "opponent": "Licht94",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "result": "win",
+    "opponent": "CheckmateX1",
+    "rating_before": 3098,
+    "rating_after": 3098,
     "rating_delta": 0,
-    "moves": "Nf3 c5 c4 Nf6 Nc3 d5 cxd5 Nxd5 d4 e6 e4 Nxc3 bxc3 cxd4 cxd4 Bb4+ Bd2 Bxd2+ Qxd2 O-O Bc4 Nd7 O-O b6 Rfe1 Bb7 Rad1 Nf6 Qd3 Rc8 Bb3 h6 Ne5 Qd6 h3 a5 f3 Nd7 Ng4 Rfd8 Qe2 Nf8 Ne3 Ng6 d5 Nf4 Qb2 exd5 Nf5 Qc5+ Kh2 d4 e5 a4 Bxa4 Ra8 Bb3 d3 Rd2 Rac8 Nd6 Rc7 Nxb7 Rxb7 Re4 Ne6 Bxe6 fxe6 Qb3 Qd5 Qb1 Rc7 Re3 Rc3 Qxb6 Kh7 f4 Qd4 Qxd4 Rxd4 Kg3 g5 fxg5 hxg5 Rf3 Kg7 Kh2 Rd5 Rdf2 Rd7 Rd2 Rd4 Kg3 Rd5 Kg4 Rc4+ Kg3 Rc3 Kg4 Rc4+ Kg3 Rc2 Rdxd3 Rxd3 Rxd3 Rxa2 Kf3 Kg6 g4 Ra5 Ke4 Ra4+ Ke3 Ra5 Kd4 Kf7 Rb3 Ra4+ Kc5 Ra5+ Rb5 Ra7 Kc6 Ra6+ Rb6 Ra3 Rb7+ Ke8 Rc7 Rd3 Rg7 Rxh3 Kd6 Rh6 Ra7 Kf8 Ra1 Rh4 Ra8+ Kf7 Ra4 Rh6 Ra7+ Ke8 Ra3 Kf7 Ra2 Rh4 Rg2 Rh6 Rg1 Rh4 Rg3 Rh6 Rf3+ Kg7 Re3 Rh4 Re4 Rh6 Ke7 Rg6 Re2 Rh6 Rd2 Rh4 Rd4 Rh6 Rd7 Kg8 Rd6 Kg7 Rd4 Rg6 Rc4 Rh6 Rc7 Kg8 Rc6 Kg7 Rc4 Rg6 Rc8 Rh6 Rb8 Rh4 Rb4 Rh6 Rb7 Kg8 Rb8+ Kg7 Rb4 Rg6 Rb2 Rh6 Rf2 Rh4 Rg2 Rh1 Kxe6 Rf1 Kd7 Ra1 Rc2 Ra4 e6 Kf6 Rf2+ Kg6 Re2 Ra7+ Kd6 Ra6+ Kc7 Ra7+ Kd6 Ra6+ Ke5 Ra1 Re3 Ra2 Kd6 Ra6+ Kc5 Ra5+ Kd6 Ra6+ Kd7 Ra7+ Kd8 Ra8+ Ke7 Ra1 Rd3 Ra4 Rd5 Ra6 Rd6 Ra8 Rc6 Rb8 Rd6 Ra8 Rd8 Ra7+ Kf8 Rh7 Rd7 Rh4 Rg7+ Kf6 e7 Rh8+ Rg8 Rxg8+ Kxg8 Kxe7 Kg7 Ke8 Kg8 Ke7 Kg7 Ke8 Kf6 Kf8 Kg6 Kg8 Kxg5 Kg7 Kh5 Kh7 Kg5 Kg7 Kh5 Kh7 Kg5 Kg7",
-    "duration": 2840,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Nxh4 Bxh4 Rd1+ Ke8 g4 b6 a4 h5 f3 Bb7 Kg2 Rd8 Bf4 Rxd1 Rxd1 Ke7 Bg3 Bxg3 Kxg3 c5 h4 hxg4 fxg4 Ke6 a5 Bc6",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774738663.4963748
+  "updated": 1774738706.630396
 }
