@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "SANYaV",
+  "rating": 3101,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 142,
-  "timestamp": "2026-03-28T18:47:15.574023",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 12,
+  "timestamp": "2026-03-28T21:33:54.870405",
   "last_game": {
-    "result": "win",
-    "opponent": "SANYaV",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 3101,
+    "rating_after": 3101,
     "rating_delta": 0,
-    "moves": "e4 c5 Bc4 e6 Qh5 Nc6 Qd1 Nf6 Bb5 Nxe4 Bxc6 bxc6 d3 Nf6 Nf3 d6 Bg5 Be7 Bxf6 Bxf6 Nc3 Rb8 Qc1 Qb6 Rb1 Bxc3+ bxc3 Qxb1 Qxb1 Rxb1+ Ke2 Rxh1 Kd2",
-    "duration": 180,
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 g3 Bb4+ Bd2 Be7 Qc2 O-O Bg2 c6 O-O b6 Bf4 Bb7 Nbd2 Nh5 Be3 Nd7 cxd5 cxd5 Rfc1 Nhf6 Bf4 Rc8 Qa4 a5 h4 Rxc1+ Rxc1 Qa8 Ne5 Rc8 Rxc8+ Qxc8 Ndf3 Ba6 Qc6 Nxe5 Nxe5 Qxc6 Nxc6 Bf8 Bc7 Bxe2 Bxb6 a4 Bf1 Bxf1 Kxf1 Bd6 Na5 Kf8 Nb7 Be7 Bc5 Ne4 Ke2 h5 Bxe7+ Kxe7 Nc5 Nxc5 dxc5 e5 b4 axb3 axb3 Kd7 b4 Kc6 Kd3 f6 f4 e4+ Kd4 g6 Ke3 Kb5 Kd4 Kc6 Ke3 Kb5 Kd4 f5 Ke3 Kc6 Kd4 Kb5 Kxd5 e3 c6 e2 c7 e1=Q c8=Q Qe4+ Kd6 Qxb4+ Ke5 Qe1+ Kf6 Qxg3 Qe8+ Kb4 Qxg6 Qxf4 Qxf5 Qxf5+ Kxf5 Kc5 Kg6 Kd6 Kf5 Ke7 Kg5 Kf8 Kf6 Kg8 Kg6 Kh8 Kf5 Kg8 Kg6 Kh8 Kf5 Kg8 Kg6 Kh8",
+    "duration": 30,
     "bot_color": "black",
-    "termination": "resign"
+    "termination": "draw"
   },
-  "updated": 1774723635.5741103
+  "updated": 1774733634.870487
 }
