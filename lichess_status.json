@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3099,
-  "opponent": "CheckmateX1",
+  "rating": 2997,
+  "opponent": "Capybara_ChessBOT",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+1",
-  "time_left": 7,
-  "timestamp": "2026-03-28T23:14:31.161261",
+  "time_control": "TC: 3+0",
+  "time_left": 104,
+  "timestamp": "2026-03-28T23:50:45.059306",
   "last_game": {
-    "result": "draw",
-    "opponent": "CheckmateX1",
-    "rating_before": 3099,
-    "rating_after": 3099,
+    "result": "win",
+    "opponent": "Capybara_ChessBOT",
+    "rating_before": 2997,
+    "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "d4 Nf6 Nc3 d5 Bf4 Bf5 e3 e6 Bd3 c6 Nf3 Bg6 h4 Nbd7 Ne5 Bxd3 cxd3 Be7 Nf3 h5 Rc1 Ng4 a3 a5 O-O Nf8 Qb3 Ra7 g3 Ng6 Ne2 Nxf4 Nxf4 Bd6 Ne2 O-O Qd1 a4 Kg2 Ra5 Qd2 Qb6 Rc2 Rd8 Nc3 g6 Ne2 Bf8 Ne5 Nh6 Nf3 Qa6 Ne5 Bg7 Rfc1 Ra8 Nd7 Qa7 Ne5 Rb5 Nf3 Ng4 Nc3 Ra5 Ne2 Rb5 Rc3 Qa5 Rb1 Rc8 Qc2 Qa8 Nh2 Nxh2 Kxh2 b6 Rc1 c5 b4 axb3 Rxb3 Rxb3 Qxb3 Qc6 Qc2 Bf8 a4 Ra8 dxc5 bxc5 Ra1 Bg7 Nd4",
-    "duration": 123,
+    "moves": "Nf3 d5 d4 Nf6 Nbd2 Bf5 a3 e6 c4 Be7 e3 O-O Be2 h6 b3 Nbd7 Bb2 c6 b4 a5 c5 b6 O-O Qc7 Bc3 bxc5 dxc5 e5 Qc1 Rfe8 Qb2 Bf8 h3 Rab8 Qc1 g5 Nb3 a4 Nbd2 Bg7 Re1 Qd8 Bd1 g4 hxg4 Nxg4 e4 dxe4 Nxe4 Bxe4 Rxe4 Ndf6 Bc2 Nxe4 Bxe4 Nf6 Bxc6 Re6 Bxe5 Rxc6 Nd4 Ra6 b5 Ng4 Bxg7 Rg6 Qf4 Kxg7 Nc6 Qd5 Qxb8 Kh7 Ne7 Qd4 Rf1 Rg5 g3 Qxc5 Qb7 Qe5 Nc6 Qd5 Nd8 Qxb7 Nxb7 Rxb5 Nd6 Rb3 Nxf7 Rxa3 Nd6 Ra2 Nb5 a3 Rd1 Nxf2 Rd7+ Kg6 Ra7 Ne4 Ra6+ Kg5 Rxa3 Rxa3 Nxa3 Nxg3 Nb5 Kg4 Nc7 Ne2+ Kh2 Nc3 Ne8",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "outoftime"
   },
-  "updated": 1774739671.161368
+  "updated": 1774741845.0593684
 }
