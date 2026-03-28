@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3103,
-  "opponent": "Ctrl_Alt_Destroy",
+  "rating": 2998,
+  "opponent": "Bot1nokk",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-28T06:48:49.071076",
+  "time_control": "TC: 3+0",
+  "time_left": 13,
+  "timestamp": "2026-03-28T06:53:55.089528",
   "last_game": {
-    "result": "draw",
-    "opponent": "Ctrl_Alt_Destroy",
-    "rating_before": 3103,
-    "rating_after": 3103,
+    "result": "loss",
+    "opponent": "Bot1nokk",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bc4 Bc5 O-O Nf6 d3 d6 c3 a5 Re1 O-O h3 h6 Nbd2 Be6 Bb5 Qb8 Nf1 Qa7 Re2 a4 Ng3 Qa5 Bxc6 bxc6 Bd2 Qb5 c4 Qb6 Rc1 Rfe8 Rc2 Nd7 Qc1 Kh7 Bc3 f6 Qd2 Qb7 Nh4 d5 d4 exd4 Bxd4 Bxd4 exd5 cxd5 Qxd4 c5 Qd3+ Kg8 Nh5 Nf8 Qg3 Qf7 cxd5 Qxh5 dxe6 Nxe6 Qg4 Qxg4 hxg4 Nf4 Red2 Rad8 Rxd8 Rxd8 Nf5 Nd3 Kf1 Rb8 Ke2 Nb4 Rxc5 Nxa2 Rc2 Nb4 Rc7 Na6 Rc2 Nb4 Rc5 Na6 Ra5 Rxb2+ Kf3 Nc7 Rxa4 Rb7 Re4 g6 Nxh6+ Kg7 g5 Rb3+ Re3 Rxe3+ Kxe3 Ne6 gxf6+ Kxh6",
-    "duration": 30,
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 Bxg7 Kxg7 O-O-O Nc6 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 a3 f6 Rhe1 Rf7 h3 e6 h4 h5 f4 Na5 Be2 Rc8 Rg1 f5 Qe5+ Qxe5 fxe5 Nc4 Rd3 Be8 Bd1 b5 Ne2 Rb7 Rh1 Kh6 Rhh3 a5 Nf4 Bf7 Be2 Ra7 Rdg3 a4 Rc3 Rca8 Rhg3 Kh7 Rg5 Ra6 Nh3 R6a7 Rgg3 Kh6 Ng5 Bg8 Rh3 Kg7 Kb1 Bf7 Kc1 Bg8 b4 axb3 Rxb3 Ra5 Rhc3 Kh6 g3 Rxa3 Rxa3 Nxa3 Rb3 Ra4 Kb2 b4 Rf3 Ra8 c3 b3 Kxb3 Nb1 Rd3 Kg7 Kb2 Na3 Rd1 Nb5 Bxb5 Rb8 Kc2 Rxb5 Ra1 Rb8 Ra6 Rf8 Nxe6+ Bxe6 Rxe6 f4 gxf4 Rxf4 Rd6 Rxh4 Rxd5 Rh2+ Kd3 Rh3+ Kd2 Rh2+ Kd3 Rh3+ Kd2 Rh2+ Ke3 Rh3+ Kf4 h4 Kg4 Rh1 Rd7+ Kh6 e6 g5 e7 Re1 d5 Kg6 Kf3 h3 Kg3 g4 d6 Kg5 Rd8 Rg1+ Kf2 h2 Rh8 Kf4 e8=Q g3+ Ke2 Rg2+ Kd3 Rd2+ Kxd2 h1=Q Rf8+ Kg5 Qe7+ Kg4 Qd7+ Kh5 Qh7+ Kg4 Qf5+ Kh4 Rh8#",
+    "duration": 180,
     "bot_color": "black",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1774680529.0712128
+  "updated": 1774680835.0895903
 }
