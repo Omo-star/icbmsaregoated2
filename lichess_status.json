@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3101,
-  "opponent": "is_BOSS",
-  "variant": "Variant: Atomic",
-  "time_control": "TC: 1+0",
-  "time_left": 12,
-  "timestamp": "2026-03-28T10:42:09.775069",
+  "opponent": "YoBot_v2",
+  "variant": "Variant: Chess960",
+  "time_control": "TC: 1+1",
+  "time_left": 34,
+  "timestamp": "2026-03-28T10:48:43.038834",
   "last_game": {
-    "result": "loss",
-    "opponent": "is_BOSS",
+    "result": "draw",
+    "opponent": "YoBot_v2",
     "rating_before": 3101,
     "rating_after": 3101,
     "rating_delta": 0,
-    "moves": "Nf3 f6 e3 d5 Nc3 b5 Ng5 fxg5 Qh5+ g6 Qe5 Be6 b3 Nf6 Ba3 b4 f3 Bg7 Nb5 Ne4 d4 Nd2 Be2 Bxe5 Nxc7+ O-O f4 a5 Bb5 e5 dxe5 a4 Bc1 d4 e4 Nf1 f5 gxf5 Bf4 Nd2 Be8 Nf3+ Kf2 h5 Bf7+ Kh8 Be5+ Nxe5 Rhf1 d3 Kg1 Rc8 Kh1 d2 Rad1 Rxc2 Rd1 Rc8 exe5 R8xc7 exe6 Re7 h4 Kg7 g3 axb3 Bg6 Kf6 g4 b3 gxg5+ Ke5 axb3 Kf4 Bd3 Kg3 g6 Kh2+ g7+ Kg1+ g8=Q+ Rb7+ Qg7+ Rb4+ Qg2# Rf4+ e7# Rb4+ e8=Q# Kh2+ Qe4# Rd4+ Qxd4# Kg1+ Kh2# Kh1+ Kg1# Kh2+ Kf1# Kg1+ Kf2# Kf1+ Ke3+ Kf2+ Kd4+ Ke3+ Rxd2",
-    "duration": 60,
+    "moves": "b4 b5 Nf3 Ne6 g3 Nf6 Ne3 g6 O-O O-O a4 a6 c4 d6 Bg2 Bg7 cxb5 axb5 a5 c5 h4 cxb4 Rxb4 Qa6 Qa3 Nd8 Bc3 Nc6 Rb3 b4 Bxb4 Ne4 Nd5 Nxb4 Nxb4 Qa7 e3 Rb5 a6 Nc5 Rbb1 Rfb8 d4 Nxa6 Qxa6 Qxa6 Nxa6 Rxb1 Nxb8 Rxb8 Nd2 Bxg2 Kxg2 f5 Ra1 Bf6 Ra5 Kf7 Nf3 Ke6 Ng1 Kf7 Ra2 Rb3 Ra5 Rb2 Nh3 Rb3 Nf4 Rb7 Nd5 Ke6 Nf4+ Kf7 Nd5 Rb1 Ra2 Rb3 Kg1 Rb5 Nc3 Rb3 Ne2 Rb1+ Kg2 Rb3 Ng1 Ke8 Nf3 Rb5 Ng1 Kf7 Ne2 Rb3 Ra5 Rb2 Ng1 Rb3 Nf3 Rb2 Ng1 Rb1 Nh3 Rb2 Ng1",
+    "duration": 165,
     "bot_color": "black",
-    "termination": "variantEnd"
+    "termination": "draw"
   },
-  "updated": 1774694529.775133
+  "updated": 1774694923.0389295
 }
