@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2994,
-  "opponent": "YoBot_v2",
+  "opponent": "Worst-ai",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 93,
-  "timestamp": "2026-03-28T08:57:25.937205",
+  "time_left": 180,
+  "timestamp": "2026-03-28T09:00:36.790404",
   "last_game": {
-    "result": "draw",
-    "opponent": "YoBot_v2",
+    "result": "win",
+    "opponent": "Worst-ai",
     "rating_before": 2994,
     "rating_after": 2994,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 Nb3 Rfd8 a3 Be8 Qc2 Bd6 Nxd6 Rxd6 Rfd1 Rxd1+ Rxd1 Rd8 Rc1 Rc8 Qd2 Rd8 Qe1 Rc8 Rc3 Qd8 Qd2 Qxd2 Nxd2 Rd8 Nb3 Kf8 f4 e5 g3 Rd6 Bf3 exf4 exf4 g5 Kf2 gxf4 gxf4 Rf6 Ke3 Re6+ Kf2 Rf6 Ke3 Re6+ Kd3 Rf6 Ke4 Re6+ Kd3 Rf6 Ke4 Re6+ Kd3",
+    "moves": "d4",
     "duration": 180,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "noStart"
   },
-  "updated": 1774688245.9373164
+  "updated": 1774688436.7905297
 }
