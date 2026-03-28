@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3102,
-  "opponent": "CheckmateX1",
+  "opponent": "bot913",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-03-28T22:58:35.893897",
+  "time_control": "TC: 2+1",
+  "time_left": 43,
+  "timestamp": "2026-03-28T23:03:46.159275",
   "last_game": {
     "result": "draw",
-    "opponent": "CheckmateX1",
+    "opponent": "bot913",
     "rating_before": 3102,
     "rating_after": 3102,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "d4 Nf6 c4 e6 g3 d5 Bg2 dxc4 Nf3 a6 O-O Nc6 Nc3 Nd5 e4 Nxc3 bxc3 Be7 Qe2 O-O Qxc4 Na5 Qe2 c5 Bf4 Bd7 Rfc1 cxd4 cxd4 Rc8 d5 exd5 exd5 Ba3 Rxc8 Qxc8 Qd3 Bb2 Rd1 h6 Qe2 Nc4 Nd2 Nxd2 Qxd2 Bc3 Qd3 Re8 Rc1 Re1+ Rxe1 Bxe1 d6 Bb4 Bd5 Bb5 Qb3 Qf5 Bc4 Ba5 Bxb5 Qxb5 Qc2 Qc6 Qf5 b5 h4 Bb6 h5 b4 Qe5 Qc2 Be3 Qd1+ Kg2 Bxe3 Qe8+ Kh7 Qe4+ Kg8 Qe8+ Kh7 Qe4+ Kh8 Qa8+ Kh7 Qe4+",
+    "duration": 207,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774738715.8939855
+  "updated": 1774739026.159424
 }
