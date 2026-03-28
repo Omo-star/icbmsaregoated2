@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3103,
-  "opponent": "SahurBOT",
+  "rating": 3036,
+  "opponent": "abdcebot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 1+0",
-  "time_left": 60,
-  "timestamp": "2026-03-28T07:35:27.008305",
+  "time_control": "TC: 10+5",
+  "time_left": 330,
+  "timestamp": "2026-03-28T07:47:27.711631",
   "last_game": {
     "result": "draw",
-    "opponent": "SahurBOT",
-    "rating_before": 3103,
-    "rating_after": 3103,
+    "opponent": "abdcebot",
+    "rating_before": 3036,
+    "rating_after": 3036,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 60,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Nd7 Nbd2 O-O Nc4 Re8 Be3 Bf8 Kh1 Bd6 a4 Nf8 b3 Ng6 Bd2 b6 Ne3 f6 Ng1 Be6 Ne2 c5 Ng3 Ne7 Nh5 Nc6 f4 exf4 Nxf4 Be5 Nxe6 Rxe6 Qg4 Qd7 Rab1 Rf8 Rf2 Bd4 Rff1 Bxe3 Bxe3 Rf7 Rf2 Ne5 Qf5 Rfe7 Ra1 h6 h3 Nc6 Raf1 Ne5 a5 Nc6 Qg6 Ne5 Qg3 Kh7 Qf4 Kg8",
+    "duration": 950,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1774683327.0111632
+  "updated": 1774684047.711749
 }
