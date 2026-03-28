@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3105,
-  "opponent": "ElPrimoOnTop",
+  "opponent": "CheckmateX1",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-03-28T22:12:22.294873",
+  "time_control": "TC: \u00be+0",
+  "time_left": 32,
+  "timestamp": "2026-03-28T22:14:05.608107",
   "last_game": {
     "result": "draw",
-    "opponent": "ElPrimoOnTop",
+    "opponent": "CheckmateX1",
     "rating_before": 3105,
     "rating_after": 3105,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "aborted"
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 h3 Be7 Nc3 Nh4 Nxh4 Bxh4 Be3 Bd7 Rad1 Kc8 Rd4 Be7 Ne4 Bf5 f3 b6 g4 Be6 a4 c5 Rd2 Rd8 Rxd8+ Kxd8 f4 Bd7 Nc3 f6 Rd1 fxe5 fxe5 Ke8 Nd5 Rc8 b3 Bc6 c4 Kf7 Re1 Ke6 Nf4+ Kf7 Nd5 Ke6 Nf4+ Kf7 Nd5",
+    "duration": 45,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774735942.294961
+  "updated": 1774736045.6082094
 }
