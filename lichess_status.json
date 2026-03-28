@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2997,
-  "opponent": "Capybara_ChessBOT",
+  "rating": 2999,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 104,
-  "timestamp": "2026-03-28T23:50:45.059306",
+  "time_control": "TC: 5+0",
+  "time_left": 277,
+  "timestamp": "2026-03-28T23:54:17.900819",
   "last_game": {
-    "result": "win",
-    "opponent": "Capybara_ChessBOT",
-    "rating_before": 2997,
-    "rating_after": 2997,
+    "result": "draw",
+    "opponent": "Cheszter",
+    "rating_before": 2999,
+    "rating_after": 2999,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Nbd2 Bf5 a3 e6 c4 Be7 e3 O-O Be2 h6 b3 Nbd7 Bb2 c6 b4 a5 c5 b6 O-O Qc7 Bc3 bxc5 dxc5 e5 Qc1 Rfe8 Qb2 Bf8 h3 Rab8 Qc1 g5 Nb3 a4 Nbd2 Bg7 Re1 Qd8 Bd1 g4 hxg4 Nxg4 e4 dxe4 Nxe4 Bxe4 Rxe4 Ndf6 Bc2 Nxe4 Bxe4 Nf6 Bxc6 Re6 Bxe5 Rxc6 Nd4 Ra6 b5 Ng4 Bxg7 Rg6 Qf4 Kxg7 Nc6 Qd5 Qxb8 Kh7 Ne7 Qd4 Rf1 Rg5 g3 Qxc5 Qb7 Qe5 Nc6 Qd5 Nd8 Qxb7 Nxb7 Rxb5 Nd6 Rb3 Nxf7 Rxa3 Nd6 Ra2 Nb5 a3 Rd1 Nxf2 Rd7+ Kg6 Ra7 Ne4 Ra6+ Kg5 Rxa3 Rxa3 Nxa3 Nxg3 Nb5 Kg4 Nc7 Ne2+ Kh2 Nc3 Ne8",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "outoftime"
+    "moves": "Nf3 d5 d4 Nf6 c4 e6 cxd5 exd5 Bf4 c5 dxc5 Bxc5 e3 Nc6 Be2 Qb6 Nc3 Qxb2 Nb5 O-O Rb1 Qxa2 Ra1 Qb2 Rb1 Qa2 Ra1 Qb2 Rb1 Qa2",
+    "duration": 300,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774741845.0593684
+  "updated": 1774742057.9009163
 }
