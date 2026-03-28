@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2997,
-  "opponent": "CAMA_HEBEHHOCTb3",
+  "opponent": "Friend_Russian",
   "variant": "Variant: Standard",
   "time_control": "TC: 3+0",
-  "time_left": 101,
-  "timestamp": "2026-03-28T11:13:07.546656",
+  "time_left": 129,
+  "timestamp": "2026-03-28T12:12:26.582110",
   "last_game": {
     "result": "win",
-    "opponent": "CAMA_HEBEHHOCTb3",
+    "opponent": "Friend_Russian",
     "rating_before": 2997,
     "rating_after": 2997,
     "rating_delta": 0,
-    "moves": "e4 e6 d4 c6 Nf3 Be7 Bd3 d5 Nc3 Nf6 e5 Nfd7 Ne2 c5 c3 c4 Bc2 Nc6 h4 b5 Rh3 g6 Bh6 Bf8 Qd2 a5 h5 b4 Bg5 Be7 hxg6 Bxg5 Nxg5 fxg6 Bxg6+ Ke7 Nf7 Qg8 Qg5+ Ke8 Nd6+ Kf8 Rf3+ Kg7 Bh5#",
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7 Qe2 Nd5 c4 Ba6 b3 g6 f4 g5 fxg5 O-O-O Nd2 Qxg5 Nf3 Qg4 Bb2 Nf4 Qf2 Bb4+ Nd2 d5 g3 dxc4 Bc1 Nd3+ Bxd3 cxd3 O-O Bc3 Rb1",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "mate"
+    "bot_color": "black",
+    "termination": "resign"
   },
-  "updated": 1774696387.5467198
+  "updated": 1774699946.5822194
 }
