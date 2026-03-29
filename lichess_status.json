@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3085,
-  "opponent": "Cheszter",
+  "rating": 2998,
+  "opponent": "DeKoog",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 17,
-  "timestamp": "2026-03-29T10:28:04.814735",
+  "time_control": "TC: 3+1",
+  "time_left": 132,
+  "timestamp": "2026-03-29T10:32:14.779894",
   "last_game": {
     "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3085,
-    "rating_after": 3085,
+    "opponent": "DeKoog",
+    "rating_before": 2998,
+    "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "e4 e5 d3 Nc6 Be3 d5 exd5 Qxd5 Nf3 Be6 Nc3 Bb4 Be2 Nge7 O-O Qd7 Ne4 f5 Nc5 Bxc5 Bxc5 Ng6 Re1 b6 Be3 O-O Ng5 Bd5 Bh5 Rf6 c4 Bf7 Nxf7 Qxf7 Bd2 Rd6 Bc3 Rad8 Qa4 Qd7 c5 Rd5 cxb6 cxb6 Bf3 Rd6 Bxc6 Rxc6 Qb3+ Qd5 g3 Qxb3 axb3 Rc7 h4 h5 Bxe5 Nxe5 Rxe5 f4 gxf4 Rxd3 Rxh5 Rxb3 Rd1 Rxb2 Rd8+ Kf7 Rhh8 Ke6 Kg2 Rcc2 Rhe8+ Kf6 Rf8+ Ke7 Rfe8+ Kf7 Rf8+ Ke6 Rfe8+ Kf7 Rf8+ Ke7 Rfe8+ Kf6 Rf8+ Ke7",
-    "duration": 30,
+    "moves": "c4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e6 a3 Bc5 Nb3 Bb6 c5 Bc7 g3 b6 Bg2 O-O O-O Be5 Qd3 Rb8 Rb1 Qe7 Na4 Bc7 Rd1 Rd8 Be3 Ne5 Qc2 d5 cxd6 Bxd6 Nc3 Bd7 Bg5 Be8 Rd4 Ned7 Be3 Rdc8 h3 Ne5 Rbd1 Bc7 Rc1 h6 Rdd1 Nc4 Bd4 Be5 Bxe5 Nxe5 Nd4 a5 Qb3 Nc4 Qa2 Nd6 b4 e5 Nf3 axb4 axb4 Nc4 Qb3 b5 Nd2",
+    "duration": 251,
     "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774780084.8148358
+  "updated": 1774780334.780037
 }
