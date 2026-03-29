@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3097,
-  "opponent": "Cheszter",
+  "rating": 3000,
+  "opponent": "gekkammi-bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 10,
-  "timestamp": "2026-03-29T00:39:02.444176",
+  "time_control": "TC: 5+2",
+  "time_left": 59,
+  "timestamp": "2026-03-29T01:24:09.959838",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3097,
-    "rating_after": 3097,
+    "result": "win",
+    "opponent": "gekkammi-bot",
+    "rating_before": 3000,
+    "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 c6 Nc3 d5 Nf3 e6 Bg5 h6 Bh4 Be7 e3 O-O Qc2 b6 O-O-O Nbd7 g4 Nxg4 Bg3 Ngf6 Rg1 Kh8 e4 dxc4 e5 Nd5 Bxc4 Rg8 Nxd5 exd5 Bd3 Nf8 Bf4 Ne6 Qd2 Nxf4 Qxf4 Qf8 Rg3 g5 Qe3 Be6 Rh1 g4 Rhg1 f5 exf6 Qxf6 Ne5 Bd6 Kb1 h5 f3 c5 fxg4 cxd4 Rf3 dxe3 Rxf6 Bxe5 Rxe6 Bf4 Rf1 Raf8 gxh5 Rg2 Rxe3 Bxe3 Rxf8+ Kg7 Rf3 Bf2 a3 Rxh2 Bg6 a5 Rf7+ Kg8 h6 Rxh6 Rxf2 Rxg6 Kc2 Kg7 Kd3 Rg4 Rf5 Rg2 b4 Rg3+ Kd4 Rg4+ Kxd5 axb4 axb4 Rxb4 Rg5+ Kf6 Rg8 Kf5 Rh8 Kg4 Rg8+ Kf4 Rh8 Ke3 Rg8 Kd2 Rh8 Kc3 Rg8 Rb1 Rh8 Kb4 Kc6 b5 Kb6 Ka3 Ra8+ Kb4 Rh8 Rb3 Rg8 Rc3 Rh8 Rc5 Rh4+ Rc4 Rh5 Kc3 Ka6 b4 Kb5 Kb3 Rh3+ Rc3 Rh4 Ka3 Rxb4 Rb3 Rxb3+ Kxb3",
-    "duration": 30,
-    "bot_color": "white",
-    "termination": "draw"
+    "moves": "e4 e5 Nf3 Nc6 d4 exd4 c3 dxc3 Nxc3 Bb4 Bd3 d6 O-O Nge7 Bg5 Bxc3 bxc3 Bg4 Rb1 Rb8 Bb5 f6 Be3 O-O Qb3+ Kh8 Nd4 a6 Bxc6 bxc6 Qc4 c5 Ne2 Bd7 a4 Ra8 Nf4 Qe8 Rfe1 Bxa4 Ne6 Qf7 Qxa4 Qxe6 Rb7 Qc8 Reb1 Ng6 h3 a5 f3 f5 exf5 Qxf5 Re1 Qf7 Qc6 Ne5 Qxc7 Qxc7 Rxc7 a4 f4 Nd3 Rd1 a3 Ra1 Kg8 Rd7 Rfe8 Bf2 Re2 Bg3 Rb2 Rxd6 c4 Kh2 a2 f5 Rb1 Rxa2 Rxa2 Rd8+ Kf7 h4 Nf2 Bxf2 Rxf2 Rc8 Rbb2 Kg3 Rxg2+ Kf3 Rbf2+ Ke3 Rxf5 Rxc4 Rg3+ Ke2 Kg6 Rc8 Kh5 Rc4 Ra5 Kf2 Rh3 Kg2 Rd3 Rf4 Ra2+ Rf2 Rxf2+ Kxf2 Rxc3 Ke2 Kxh4 Kd2 h6 Kxc3 g6 Kd2 h5 Kc3 g5 Kd4 g4 Ke3 g3 Ke2 g2 Kf2 Kh3 Kg1 h4 Kf2 Kh2 Ke3 h3 Kd2 g1=Q Kd3 Kg3 Kc4 h2 Kd5 h1=Q+ Kc4 Qh8 Kb3 Qc3+ Kxc3 Kf4 Kc4 Ke4 Kb5 Kd5 Kb4 Qg3 Ka5 Kc5 Ka4 Qh3 Ka5 Qa3#",
+    "duration": 628,
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1774744742.4442394
+  "updated": 1774747449.959901
 }
