@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 2998,
-  "opponent": "DeKoog",
+  "opponent": "AlwaysPlayMystery",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+1",
-  "time_left": 132,
-  "timestamp": "2026-03-29T10:32:14.779894",
+  "time_control": "TC: 3+0",
+  "time_left": 49,
+  "timestamp": "2026-03-29T10:35:36.939192",
   "last_game": {
-    "result": "draw",
-    "opponent": "DeKoog",
+    "result": "win",
+    "opponent": "AlwaysPlayMystery",
     "rating_before": 2998,
     "rating_after": 2998,
     "rating_delta": 0,
-    "moves": "c4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e6 a3 Bc5 Nb3 Bb6 c5 Bc7 g3 b6 Bg2 O-O O-O Be5 Qd3 Rb8 Rb1 Qe7 Na4 Bc7 Rd1 Rd8 Be3 Ne5 Qc2 d5 cxd6 Bxd6 Nc3 Bd7 Bg5 Be8 Rd4 Ned7 Be3 Rdc8 h3 Ne5 Rbd1 Bc7 Rc1 h6 Rdd1 Nc4 Bd4 Be5 Bxe5 Nxe5 Nd4 a5 Qb3 Nc4 Qa2 Nd6 b4 e5 Nf3 axb4 axb4 Nc4 Qb3 b5 Nd2",
-    "duration": 251,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 b4 a6 Kf1 Rg5 Kg2 Rg6 Nd2 c5 Nc4 Rh5 Rb1 cxb4 axb4 Bg7 Rb2 Rc6 b5 axb5 Rxb5 b6 Rhb1 Qe8 Bb4 Bf8 Bxf8 Qxf8 c3 Rch6 Ra1 Qg8 Rb4 Qe6 d4 Kc8 Rba4 Kd7 Nxe5+ Kd6 Rc4 Rxe5 dxe5+ Kxe5 Rxc7 Kd6 Qxe6+ Rxe6 Rh7 h3+ Rxh3 Re7 Rh5 Kc6 Rf5 Re6 Rxf4 Kb7 Kxg3 Kc6 Re1 Rg6+ Kf2 b5 e5 Kb7 Rf7+ Kb6 Rf6+ Rxf6 exf6",
+    "duration": 180,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "resign"
   },
-  "updated": 1774780334.780037
+  "updated": 1774780536.9393508
 }
