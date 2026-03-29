@@ -5,18 +5,18 @@
   "opponent": "TagirNasr",
   "variant": "Variant: Atomic",
   "time_control": "TC: \u00bd+0",
-  "time_left": 30,
-  "timestamp": "2026-03-29T14:38:50.830472",
+  "time_left": 23,
+  "timestamp": "2026-03-29T14:39:12.677586",
   "last_game": {
-    "result": "draw",
+    "result": "win",
     "opponent": "TagirNasr",
     "rating_before": 3085,
     "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "Nf3",
+    "moves": "e3 e6 Qh5 g6 Qb5 c6 Qxb7 Nf6 f3 Ne4 d4 Bb4+ c3 Nd2 Ba6 Nxb1 Bxc8 d5 Bd7+ Kf8 Nh3 g5 Be8 f5 g3 h5 f4 Qc8 Bd7 Qa6 Bc8 Qe2+",
     "duration": 30,
-    "bot_color": "white",
-    "termination": "aborted"
+    "bot_color": "black",
+    "termination": "mate"
   },
-  "updated": 1774795130.8305523
+  "updated": 1774795152.6776485
 }
