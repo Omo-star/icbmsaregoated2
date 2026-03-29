@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 2998,
-  "opponent": "AlwaysPlayMystery",
+  "rating": 3085,
+  "opponent": "CCI-6",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
+  "time_control": "TC: 1+1",
   "time_left": 49,
-  "timestamp": "2026-03-29T10:35:36.939192",
+  "timestamp": "2026-03-29T10:39:38.510275",
   "last_game": {
-    "result": "win",
-    "opponent": "AlwaysPlayMystery",
-    "rating_before": 2998,
-    "rating_after": 2998,
+    "result": "draw",
+    "opponent": "CCI-6",
+    "rating_before": 3085,
+    "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 Bc5 Bxc6 dxc6 O-O Bg4 h3 Bh5 g4 Nxg4 hxg4 Bxg4 Be3 Be7 Kg2 f5 Qe1 Bxf3+ Kxf3 f4 Bd2 Qd7 Ke2 g5 Bc3 Bf6 Nd2 h5 Rh1 g4 Nc4 Qe6 f3 O-O-O Qf2 Kb8 a3 g3 Qg2 Rdg8 Qh3 Qe7 Rag1 h4 b4 a6 Kf1 Rg5 Kg2 Rg6 Nd2 c5 Nc4 Rh5 Rb1 cxb4 axb4 Bg7 Rb2 Rc6 b5 axb5 Rxb5 b6 Rhb1 Qe8 Bb4 Bf8 Bxf8 Qxf8 c3 Rch6 Ra1 Qg8 Rb4 Qe6 d4 Kc8 Rba4 Kd7 Nxe5+ Kd6 Rc4 Rxe5 dxe5+ Kxe5 Rxc7 Kd6 Qxe6+ Rxe6 Rh7 h3+ Rxh3 Re7 Rh5 Kc6 Rf5 Re6 Rxf4 Kb7 Kxg3 Kc6 Re1 Rg6+ Kf2 b5 e5 Kb7 Rf7+ Kb6 Rf6+ Rxf6 exf6",
-    "duration": 180,
-    "bot_color": "white",
-    "termination": "resign"
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Bh6 Bxh6 Qxh6 e5 O-O-O Qe7 Be2 b5 f4 Nbd7 Nf3 Ng4 Qg7 Qf8 Qxf8+ Rxf8 Nxe5 Ndxe5 dxe5 b4 Na4 dxe5 Rd6 exf4 Rxc6 Ne3 g3 Bd7 Ra6 Rc8 Bd3 f5 e5 Ng4 Rxa7 Bc6 Rf1 Rf7 Ra5 f3 Nb6 Rd8 h3 Ne3 Rf2 f4 gxf4 Rxf4 Ra7 Rf7 Ra6 Bb7 Ra7 Rc7 Kd2 Nxc2 Rxf3 b3 Rf4 Be4 Rxc7 Rxd3+ Ke2 Re3+ Kf2 bxa2 Nc8 Bf5 Ra7 Ra3 Nd6+ Kd8 Nf7+ Ke8 Nd6+ Kf8 Rf7+ Kg8 Nxf5 Kxf7 Nd4+ Ke7 Nxc2 Rb3 Ra4 Rxb2 Kf3 Rxc2 Ra6 h6 Ke4 Re2+ Kf3 Rh2 Ke4 Re2+ Kf3 Rh2 Ke4 Kf7 Ra7+ Ke6 Ra6+ Kf7 Ra7+ Ke6 Ra6+ Kd7 Kd5 Rd2+ Ke4 Re2+ Kd5 Rd2+ Ke4 Rc2 Kd5 g5 Ra7+ Kd8 e6 Re2 Kd6 Rd2+ Ke5 Rb2 Kf6 Rf2+ Kg6 a1=Q Rxa1 h5 Kxg5 h4 Re1 Ra2 Kxh4 Ke7 Kg5 Ra5+ Kg6 Ra4 Kg5 Ra5+ Kg6 Ra4 Re3 Rb4 Kh5 Rb5+ Kg4 Rb4+ Kh5 Rb5+ Kh6 Rb4 Kg6 Ra4 Kf5 Rb4 Rg3 Rh4 Rg7+ Kd8 Kf6 Rf4+ Kg6 Ke8 Kg5 Rf1 h4 Re1 Kf6 Rf1+ Kg6 Re1 Kf5 Rf1+ Ke5 Re1+ Kf6 Rf1+ Ke5 Re1+ Kd6 Rd1+ Kc5 Rc1+ Kd5 Rd1+ Ke4 Re1+ Kd5 Rd1+ Ke4 Re1+ Kf5 Rf1+ Kg6 Re1 e7 Re6+ Kh7 Re5 Rg5 Rxe7+ Kg8 Re2 h5 Ke7 Kg7 Rf2 Re5+ Kd6 Rb5 Rg2+ Kf6 Rf2+ Kg7 Rg2+ Kf7 Rf2+ Kg6 Ke7 Rb7+ Ke6 Rb6+ Ke7 Rb7+ Ke6 Rb5 Ke7 Rb7+ Ke6",
+    "duration": 304,
+    "bot_color": "black",
+    "termination": "draw"
   },
-  "updated": 1774780536.9393508
+  "updated": 1774780778.5103385
 }
