@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3034,
-  "opponent": "ArasanX",
+  "rating": 3083,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 401,
-  "timestamp": "2026-03-29T08:57:24.803039",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 26,
+  "timestamp": "2026-03-29T08:57:49.768583",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3034,
-    "rating_after": 3034,
+    "opponent": "Cheszter",
+    "rating_before": 3083,
+    "rating_after": 3083,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 c6 Nc3 d5 e3 g6 Nf3 Bg7 Qb3 O-O Bd2 e6 Bd3 Nbd7 O-O b6 cxd5 exd5 e4 dxe4 Nxe4 Nxe4 Bxe4 Bb7 Rac1 Rc8 Rfd1 Qc7 Bd5 c5 Re1 Bxd5 Qxd5 Nf6 Qb3 Qc6 dxc5 Ne4 Qc2 Nxd2 Qxd2 Rfd8 cxb6 Rxd2 Rxc6 Rxc6 Re8+ Bf8 Nxd2 axb6 Nb3 Rc2 Kf1 Rxb2 Re2 Rb1+ Re1 Rb2 Re2 Rb1+ Re1 Rb2 Re2",
-    "duration": 600,
-    "bot_color": "black",
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 Re1 Nd6 Nxe5 Be7 Bf1 Nxe5 Rxe5 O-O d4 Bf6 Re2 Nf5 c3 a5 d5 b5 Re1 b4 Bd3 d6 a3 Bd7 axb4 axb4 Rxa8 Qxa8 cxb4 Qxd5 Nc3 Qb7 b5 Nh4 Be4 Qb8 Bd2 Ng6 Nd5 Bd8 Nc3 Bf6 Nd5 Bd8 Nc3 Bf6 Nd5",
+    "duration": 30,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774774644.8031716
+  "updated": 1774774669.7687042
 }
