@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3034,
-  "opponent": "Void_Bot",
+  "opponent": "Oxybullet",
   "variant": "Variant: Standard",
-  "time_control": "TC: 15+10",
-  "time_left": 82,
-  "timestamp": "2026-03-29T08:43:12.161149",
+  "time_control": "TC: 10+0",
+  "time_left": 245,
+  "timestamp": "2026-03-29T08:49:24.661726",
   "last_game": {
-    "result": "draw",
-    "opponent": "Void_Bot",
+    "result": "win",
+    "opponent": "Oxybullet",
     "rating_before": 3034,
     "rating_after": 3034,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 c6 e3 Nbd7 Qc2 Bd6 b3 O-O Bb2 e5 dxe5 Nxe5 cxd5 cxd5 Nxe5 Bxe5 Bd3 Bg4 h3 Bh5 f4 d4 fxe5 dxc3 Ba3 Re8 O-O Rxe5 Qxc3 Rg5 Rf5 Rxf5 Bxf5 Bg6 Rf1 Qd5 Bxg6 hxg6 Bb2 Re8 Qd4 Qa5 Rxf6 gxf6 Qxf6 Kf8 Qd6+ Kg8 Qd4 Kf8 Qd6+ Kg8 Qf6 Kf8 Qd6+",
-    "duration": 1510,
+    "moves": "c4 Nf6 Nc3 e5 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 h6 O-O Bxf3 Bxf3 Nd4 Na4 Nxf3+ Qxf3 Bxe3 Qxe3 O-O Nc3 c6 h3 a5 b5 Re8 a4 d5 exd5 cxd5 Nxd5 Nxd5 cxd5 Qxd5 Rfc1 e4 dxe4 Rxe4 Qc3 b6 Qc6 Qxc6 Rxc6 Rb8 g4 g6 Ra3 Rb7 Kg2 Kg7 Rd6 Rb4 Kf3 Rc4 Kg3 h5 gxh5 gxh5 h4 Rg4+ Kh3 Rf4 Rd5 f5 Kg3 Rg4+ Kh3 Rf4 f3 Rc7 Kg3 Rcc4 Rd7+ Kf8 Rad3 Rxh4 R3d6 Rh1 Rh6 Kg8 Rxb6 Rg1+ Kh3 Rg7 Rbb7 Rxd7 Rxd7 Rb4 Ra7 Kf8 Rxa5 Ke7 Ra6 Kd7 b6 Kc6 a5 Rb3 Kg2 h4 Ra7 f4 b7 Rxb7 Rxb7 Kc5 a6 Kc4 a7 Kc3 a8=Q Kc2 Kh3 Kc1 Kxh4 Kc2 Qa3 Kd1 Rb2 Kc1 Qa1#",
+    "duration": 600,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "mate"
   },
-  "updated": 1774773792.1612544
+  "updated": 1774774164.6618865
 }
