@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3096,
-  "opponent": "GoblinAjedrezAI",
+  "opponent": "Ctrl_Alt_Destroy",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 16,
-  "timestamp": "2026-03-29T05:41:04.704792",
+  "time_left": 30,
+  "timestamp": "2026-03-29T05:41:43.560402",
   "last_game": {
     "result": "draw",
-    "opponent": "GoblinAjedrezAI",
+    "opponent": "Ctrl_Alt_Destroy",
     "rating_before": 3096,
     "rating_after": 3096,
     "rating_delta": 0,
-    "moves": "Nf3 d5 d4 Nf6 Bf4 c5 e3 Nc6 Nbd2 e6 c3 Nh5 Bg5 f6 Bh4 g6 Be2 cxd4 cxd4 Be7 Nb1 O-O Nc3 Bd7 g4 Ng7 Bg3 Rc8 O-O Na5 Nd2 a6 a3 f5 h3 b5 a4 b4 Na2 Nc4 b3 Nxd2 Qxd2 a5 Nc1 Ne8 Nd3 Rc3 Rfc1 Nd6 Rxc3 Ne4 Rc2 Nxd2 Rxd2 Bh4 Be5 fxg4 hxg4 Bc8 Rc1 Ba6 Nf4 Bxe2 Rxe2 Bf6 Nxe6 Qd7 Nxf8 Qxg4+",
+    "moves": "a4",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "draw"
+    "bot_color": "white",
+    "termination": "aborted"
   },
-  "updated": 1774762864.7048893
+  "updated": 1774762903.5604806
 }
