@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3000,
-  "opponent": "gekkammi-bot",
+  "opponent": "compchess60",
   "variant": "Variant: Standard",
-  "time_control": "TC: 5+2",
-  "time_left": 59,
-  "timestamp": "2026-03-29T01:24:09.959838",
+  "time_control": "TC: 3+1",
+  "time_left": 98,
+  "timestamp": "2026-03-29T01:29:54.538622",
   "last_game": {
-    "result": "win",
-    "opponent": "gekkammi-bot",
+    "result": "draw",
+    "opponent": "compchess60",
     "rating_before": 3000,
     "rating_after": 3000,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 d4 exd4 c3 dxc3 Nxc3 Bb4 Bd3 d6 O-O Nge7 Bg5 Bxc3 bxc3 Bg4 Rb1 Rb8 Bb5 f6 Be3 O-O Qb3+ Kh8 Nd4 a6 Bxc6 bxc6 Qc4 c5 Ne2 Bd7 a4 Ra8 Nf4 Qe8 Rfe1 Bxa4 Ne6 Qf7 Qxa4 Qxe6 Rb7 Qc8 Reb1 Ng6 h3 a5 f3 f5 exf5 Qxf5 Re1 Qf7 Qc6 Ne5 Qxc7 Qxc7 Rxc7 a4 f4 Nd3 Rd1 a3 Ra1 Kg8 Rd7 Rfe8 Bf2 Re2 Bg3 Rb2 Rxd6 c4 Kh2 a2 f5 Rb1 Rxa2 Rxa2 Rd8+ Kf7 h4 Nf2 Bxf2 Rxf2 Rc8 Rbb2 Kg3 Rxg2+ Kf3 Rbf2+ Ke3 Rxf5 Rxc4 Rg3+ Ke2 Kg6 Rc8 Kh5 Rc4 Ra5 Kf2 Rh3 Kg2 Rd3 Rf4 Ra2+ Rf2 Rxf2+ Kxf2 Rxc3 Ke2 Kxh4 Kd2 h6 Kxc3 g6 Kd2 h5 Kc3 g5 Kd4 g4 Ke3 g3 Ke2 g2 Kf2 Kh3 Kg1 h4 Kf2 Kh2 Ke3 h3 Kd2 g1=Q Kd3 Kg3 Kc4 h2 Kd5 h1=Q+ Kc4 Qh8 Kb3 Qc3+ Kxc3 Kf4 Kc4 Ke4 Kb5 Kd5 Kb4 Qg3 Ka5 Kc5 Ka4 Qh3 Ka5 Qa3#",
-    "duration": 628,
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Ba5 Be2 Bg4 Be3 Bxf3 Bxf3 Bb6 O-O O-O b4 Nd4 g3 a5 b5 c6 a4 Nxf3+ Qxf3 Nd7 Rad1 h6 Kg2 Bxe3 Qxe3 Qg5 f4 exf4 Rxf4 Qc5 Qd2 Qa3 Rff1 Ne5 Rb1 Rac8 Rb2 Nd7 Rf3 Rcd8 d4 c5 Nd5 Qa1 dxc5 Nxc5 Nc3 Qa3 Nb1 Qxa4 Qc1 Rfe8 Ra3 Qxa3 Nxa3 Nd3 Qb1 Nxb2 Qc2 Re5 b6 f5 Qxb2 fxe4 Nc2 e3 Ne1 Rde8 Qa2 Kf8",
+    "duration": 260,
     "bot_color": "black",
-    "termination": "mate"
+    "termination": "draw"
   },
-  "updated": 1774747449.959901
+  "updated": 1774747794.5387702
 }
