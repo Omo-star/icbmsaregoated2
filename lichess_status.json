@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3092,
-  "opponent": "TakticproChess",
+  "opponent": "GoblinAjedrezAI",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
   "time_left": 15,
-  "timestamp": "2026-03-29T06:40:37.659369",
+  "timestamp": "2026-03-29T06:41:34.332651",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
+    "opponent": "GoblinAjedrezAI",
     "rating_before": 3092,
     "rating_after": 3092,
     "rating_delta": 0,
-    "moves": "e4 e5 Bd3 Nf6 Nc3 Bc5 Bc4 c6 Nf3 d6 a3 O-O Ba2 Re8 d3 a5 O-O h6 h3 Nbd7 Re1 Nf8 Be3 Bxe3 Rxe3 b5 d4 Qc7 Qd2 Be6 Bxe6 Nxe6 Rae1 b4 Ne2 Rab8 Ng3 c5 d5 Nf4 Kh2 c4 axb4 Rxb4 Ra1 g6 Qc3 Reb8 Nf1 Nd7 N1d2 Nc5 b3 a4 bxc4 Qc8 Ng1 Rb2 Ra3 Qb7 g3 Nh5 Ngf3 Nf6 Kg2 Nfd7 Nb3 Rb1 Nbd2 Rb2 Nb3 Rb1 Nbd2 Rb2 Nb3",
+    "moves": "e4 g6 d4 d6 Nc3 Bg7 Be3 Nf6 Qd2 c6 Nf3 O-O Bh6 d5 exd5 cxd5 Ne5 Qd6 O-O-O Nc6 Bxg7 Kxg7 Qe3 Ng4 Nxg4 Bxg4 f3 Bd7 Bb5 Rae8 a3 f6 Rhe1 Rf7 h3 e6 h4 h5 Qf2 a6 Bxc6 bxc6 Kb1 Bc8 Ka1 a5 Qd2 e5 dxe5 fxe5 Ne4 Qe7 Ng5 Rf4 g3 Rc4 c3 Bf5 Re3 Qc5 Re2 Re7 Qe1 Kf6 Ka2 Ra4 Rxe5 Rxa3+ bxa3 Qc4+",
     "duration": 30,
-    "bot_color": "white",
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774766437.6594706
+  "updated": 1774766494.33275
 }
