@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3085,
-  "opponent": "Ctrl_Alt_Destroy",
+  "rating": 3091,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
   "time_control": "TC: \u00bd+0",
-  "time_left": 6,
-  "timestamp": "2026-03-30T07:12:24.126813",
+  "time_left": 20,
+  "timestamp": "2026-03-30T07:13:35.157426",
   "last_game": {
-    "result": "win",
-    "opponent": "Ctrl_Alt_Destroy",
-    "rating_before": 3085,
-    "rating_after": 3085,
+    "result": "draw",
+    "opponent": "CloudNetBot",
+    "rating_before": 3091,
+    "rating_after": 3091,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e6 f3 h5 Bc4 Bd7 Bb3 Nc6 h3 Be7 f4 b5 a3 Nxd4 Qxd4 Bc6 f5 exf5 O-O-O O-O e5 Ne4 Kb1 a5 Rhf1 Nxc3+ Qxc3 Be4 exd6 Bxd6 Bc5 b4 Qc4 Rc8 Rxd6 Qc7 axb4 axb4 Qxb4 Qxc5 Qxc5 Rxc5 Rf2 Rb8 Ba4 g5 Rd4 Kg7 Kc1 g4 hxg4 hxg4 b4 Rc3 Bd7 Rd8 b5 Rc5 b6 g3 Re2 Ba8 c4 Rb8 Re3 Rxb6 Rxg3+ Kf6 Kd1 Ke5 Rd2 Rxc4 Rg7 Be4 Ke2 Rg6 Rxg6 fxg6 Kf2 g5 Bb5 Rc3 Be2 Kf4 Rd1 g4 Ra1 Bc6 Rb1 Ra3 Bc4 Kg5 Rc1 Ba8 Re1 Bc6 Rc1 Be4 Bf1 Rb3 Rd1 Rb2+ Kg1 Kh4 Rc1 Rb3 Kh2 Ra3 Rd1 Rc3 Re1 Rc2 Kg1 Bc6 Re3 f4 Re7 f3 gxf3 Bxf3 Rh7+ Kg3 Rh8 Rf2 Rh5 Bg2 Bxg2 Rxg2+ Kf1 Rf2+ Kg1 Rb2 Kf1 Rb1+ Ke2 Kg2 Ke3 g3 Ra5 Kg1 Rh5 g2 Ke2 Rb4 Rh8 Re4+ Kf3 Kf1 Kxe4 g1=Q Rf8+ Ke2 Kd5 Qg5+ Ke6 Ke3 Rf5 Qd8 Rf7 Ke4 Rd7 Qf8 Re7 Qf4 Re8 Qh6+ Ke7 Qb6 Rh8 Qc7+ Kf8 Kf5 Rh1 Qc8+ Ke7 Qb7+ Kd6 Qxh1 Kc5 Ke6 Kb4 Kd5 Kc3 Qf3+ Kc2 Kc4 Kd2 Qf2+ Kc1 Kc3 Kb1 Qb2#",
+    "moves": "e4 Nc6 d4 d5 e5 Bf5 c3 e6 Bd3 Nge7 Ne2 f6 f4 h5 b4 h4 O-O Qd7 a4 h3 g3 Bg4 Na3 Nf5 Nc2 Be7 Ne3 Nxe3 Bxe3 Nd8 a5 Nf7 Qd2 Nh6 Nc1 Kf7 f5 Nxf5 Bf4 fxe5 Bxe5 Kg8 Be2 Bxe2 Qxe2 Rf8 Nd3 Rh6 Bf4 Rhf6 Be5 R6f7 Nf4 Nd6 Ng6 Rxf1+ Rxf1 Rxf1+ Qxf1 Qe8 Nxe7+ Qxe7 Bxd6 cxd6 Qxh3 Qf7 Qg4 e5 Qc8+ Kh7 Qh3+ Kg8 Qc8+ Kh7 Qh3+ Kg8 Qg4 b6 axb6 axb6 Qg5 Qe8 Qf5 Qf7 Qxf7+ Kxf7 g4",
     "duration": 30,
-    "bot_color": "black",
-    "termination": "mate"
+    "bot_color": "white",
+    "termination": "draw"
   },
-  "updated": 1774854744.1268744
+  "updated": 1774854815.1575553
 }
