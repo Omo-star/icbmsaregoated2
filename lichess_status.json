@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3095,
-  "opponent": "TakticproChess",
+  "rating": 3002,
+  "opponent": "DeKoog",
   "variant": "Variant: Standard",
-  "time_control": "TC: \u00bd+0",
-  "time_left": 20,
-  "timestamp": "2026-03-30T07:43:19.576004",
+  "time_control": "TC: 3+1",
+  "time_left": 6,
+  "timestamp": "2026-03-30T07:50:35.620167",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
-    "rating_before": 3095,
-    "rating_after": 3095,
+    "opponent": "DeKoog",
+    "rating_before": 3002,
+    "rating_after": 3002,
     "rating_delta": 0,
-    "moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 Nc6 f3 h5 Bc4 Bd7 Qd2 Nxd4 Qxd4 Bg7 Qd3 a6 O-O-O b5 Bb3 Rb8 Bd4 a5 e5 dxe5 Bxe5 a4 Bd5 e6 Qe2 Qb6 Ne4 O-O Bxf6 exd5 Bxg7 Kxg7 Rxd5 Bc6 Rd6 Qc7 Qd3 Bxe4 fxe4 b4 Rd7 Qf4+ Kb1 a3 h3 Qf6 Qd4 Qxd4 Rxd4 f5 exf5 Rxf5 Rhd1 Rg5 R1d2 Re8 bxa3 bxa3 c4 Re1+ Kc2 Ra1 Rd7+ Kh6 Kc3 Rc1+ Kb3 Rb1+ Kc3 Rc1+ Kb3 Rb1+ Ka4 Rc5 R2d4 Rc6 R7d6 Rc7 Rd7 Rc6 R7d6 Rc7 Ra6 Rb2 Kxa3 Rxg2",
-    "duration": 30,
-    "bot_color": "black",
+    "moves": "d4 b6 e4 Bb7 Bd3 d6 c4 g6 Nc3 Nd7 Nge2 e5 Bc2 exd4 Nxd4 Bg7 O-O Ngf6 Bg5 h6 Bf4 O-O Qd2 Ne5 b3 Kh7 f3 Nc6 Be3 Nxd4 Bxd4 Re8 Rad1 Qe7 Rfe1 Rac8 a3 a6 Bb1 h5 Qf2 c5 Be3 Nd7 Qd2 Bc6 Nd5 Qe5 a4 Qb2 Qxb2 Bxb2 h3 Kg8 Kf1 Bg7 f4 Rb8 Bf2 Bh6 g3 h4 f5 Bg7 gxh4 Bxd5 exd5 Ne5 Rd2 gxf5 Bxf5 Nf3 Rxe8+ Rxe8 Rd3 Nd4 Bd7 Rb8 h5 Be5 Bg4 Kh8 Bd1 Kg7 Rd2 Re8 b4 a5 b5 Kg8 Rd3 Kh7 Re3",
+    "duration": 273,
+    "bot_color": "white",
     "termination": "draw"
   },
-  "updated": 1774856599.5761485
+  "updated": 1774857035.6202824
 }
