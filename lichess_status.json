@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3002,
-  "opponent": "abcd_engine",
+  "rating": 3001,
+  "opponent": "DeKoog",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 118,
-  "timestamp": "2026-03-30T06:27:19.880535",
+  "time_control": "TC: 3+1",
+  "time_left": 75,
+  "timestamp": "2026-03-30T06:32:34.512166",
   "last_game": {
     "result": "draw",
-    "opponent": "abcd_engine",
-    "rating_before": 3002,
-    "rating_after": 3002,
+    "opponent": "DeKoog",
+    "rating_before": 3001,
+    "rating_after": 3001,
     "rating_delta": 0,
-    "moves": "Nf3 Nf6 d4 d5 c4 e6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxa7 Rxb2 Bf3 Kf8 Rd1 Bc6 Rxd8+ Bxd8 h3 Bb6 Ra6 Rb1+ Kh2 Rb2 Kg1 Rb1+ Kh2 Rb2 Kg1",
-    "duration": 180,
-    "bot_color": "white",
+    "moves": "c4 e5 Nc3 Nf6 Nf3 Nc6 e4 Bb4 d3 d6 a3 Bc5 b4 Bb6 Be3 Bg4 Be2 Bxf3 Bxf3 O-O Na4 Nd4 Nxb6 Nxf3+ Qxf3 axb6 h3 Ra4 O-O Qd7 Bg5 Qe6 Bc1 Nd7 Bb2 Rb8 Rad1 Raa8 d4 Rf8 Qb3 Rfe8 f3 exd4 Rxd4 h6 Rd5 Nf8 Rfd1 Ng6 Bc1 Ne7 R5d3 Ng6 Qc2 f5 Re3 fxe4 Rd4 Qf7 Rdxe4 Rxe4 Qxe4 c5 Bb2 Nf4 bxc5 bxc5 Qc2 Re8",
+    "duration": 250,
+    "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774852039.8806334
+  "updated": 1774852354.5123024
 }
