@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "OxydanBot",
+  "rating": 3003,
+  "opponent": "Void_Bot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 205,
-  "timestamp": "2026-03-30T06:06:52.824704",
+  "time_control": "TC: 3+0",
+  "time_left": 115,
+  "timestamp": "2026-03-30T06:10:15.596928",
   "last_game": {
     "result": "draw",
-    "opponent": "OxydanBot",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "opponent": "Void_Bot",
+    "rating_before": 3003,
+    "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 Nge7 c3 d5 Nxe5 dxe4 Qe2 Be6 Nxc6 bxc6 Ba6 Qd7 O-O Ng6 Qxe4 Be7 Na3 O-O Nc2 Bd5 Qa4 Bxg2 Kxg2 Nh4+ Kg3 Qf5 f4 Qg6+ Kf2 Bc5+ d4 Qg2+ Ke1 Rae8+ Be3 Rxe3+ Nxe3 Nf3+ Rxf3 Qxf3 Kd2 Qf2+ Kd3 Re8 Kc4 Qxe3 Kxc5 Qe7+ Kxc6 Rd8 b3 Rd6+ Kb5 Rb6+ Ka5 c6 Qc4 Qa3+ Qa4 Qf8 Qc4 Qa3+ Qa4 Qd6 Qc4 Qa3+",
-    "duration": 600,
+    "moves": "d4 Nf6 Nf3 d5 c4 e6 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 Qb3 Qe7 O-O cxd4 Nxd4 Bc5 Bd5 Bxd4 exd4 exd5 Nxd5 Qg5 f4 Qg4 h3 Qd7 Nc7 Qxd4+ Rf2 Na6 Nxa8 Be6 Qxb7 Nb4 Nc7 Nd3 Rc2 Nxf2 Rxf2 Qd7 Rf3 Rc8 Rc3 a5 a4 Bxh3 gxh3 Qd1+ Kh2 Rd8 Rg3 Qc1 Ne6 Rd2+ Rg2 Rxg2+ Kxg2 fxe6 Qa8+ Kh7 Qe4+ Kh8 Qa8+ Kh7 Qe4+ Kh8 Qa8+ Kh7",
+    "duration": 180,
     "bot_color": "black",
     "termination": "draw"
   },
-  "updated": 1774850812.8248684
+  "updated": 1774851015.597097
 }
