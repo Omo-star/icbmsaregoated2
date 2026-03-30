@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "OlisRalphBot",
+  "rating": 3085,
+  "opponent": "Cheszter",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-03-30T05:32:55.775373",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 15,
+  "timestamp": "2026-03-30T05:34:07.702953",
   "last_game": {
     "result": "draw",
-    "opponent": "OlisRalphBot",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "Cheszter",
+    "rating_before": 3085,
+    "rating_after": 3085,
     "rating_delta": 0,
-    "moves": "e4",
-    "duration": 182,
+    "moves": "e4 e5 Nf3 Nc6 Bb5 Nf6 d3 d6 O-O a6 Bxc6+ bxc6 Re1 c5 c3 Be7 d4 cxd4 cxd4 exd4 Nxd4 Bd7 Nc3 O-O Qf3 Re8 Bg5 h6 Bh4 Ng4 Bg3 Bf6 Rad1 Ne5 Qe3 c5 Nde2 Bc6 b3 Rc8 Rd2 Ng4 Qd3 Ne5 Qe3 Ng4 Qd3 Ne5 Qc2 c4 Red1 Qa5 Rxd6 cxb3 Qxb3 Rb8 Qc2 Rbc8 Qb3 Rb8 Qc2 Rbc8 h3 Bb5 R1d5 Qb4 Rd4 Qa5 R4d5 Nf3+ gxf3 Bxc3 Nxc3 Rxc3 Qd2 Ra3 Qxa5 Rxa5 Rd2 Bc4 Kg2 Ra8 Rd8+ Rxd8 Rxd8+ Kh7 Rd7 Rxa2 Be5 Kg8 Rd8+ Kh7 Rd7 Be6 Ra7 Kg8 Ra8+ Kh7 Ra7 Kg8 Ra8+ Kh7 Ra7",
+    "duration": 30,
     "bot_color": "white",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1774848775.775455
+  "updated": 1774848847.703133
 }
