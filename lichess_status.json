@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3003,
-  "opponent": "OlisRalphBot",
+  "rating": 3033,
+  "opponent": "CloudNetBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+2",
-  "time_left": 180,
-  "timestamp": "2026-03-30T05:46:48.421897",
+  "time_control": "TC: 10+0",
+  "time_left": 388,
+  "timestamp": "2026-03-30T05:54:54.205873",
   "last_game": {
     "result": "draw",
-    "opponent": "OlisRalphBot",
-    "rating_before": 3003,
-    "rating_after": 3003,
+    "opponent": "CloudNetBot",
+    "rating_before": 3033,
+    "rating_after": 3033,
     "rating_delta": 0,
-    "moves": "",
-    "duration": 180,
+    "moves": "d4 Nf6 Nf3 d5 Nc3 c5 Bf4 cxd4 Qxd4 Nc6 Qd3 g6 e4 dxe4 Qxd8+ Nxd8 Bb5+ Bd7 Bxd7+ Nxd7 Nxe4 f5 Nc3 Bg7 Nd5 Ne6 Be3 Bxb2 Rb1 Ba3 Rxb7 Bd6 Ke2 Ndc5 Rb5 Kf7 c4 Rhc8 g3 Rc6 h4 Ra6 Ng5+ Ke8 Nxh7 Rxa2+ Kf3 Nd3 Ng5 Nxg5+ hxg5 Rc8 Nf4 Nxf4 Bxf4 Bc5 g4 fxg4+ Kxg4 Bd4 Be3 Rxc4 Kf3 Bxe3 fxe3 Rc7 Rh8+ Kf7 Kf4 Rf2+ Ke4 Rfc2 Kf4 Rf2+ Ke4 Rfc2 Kf4 Rc1 e4 Rf1+ Ke5 Ra1",
+    "duration": 600,
     "bot_color": "black",
-    "termination": "aborted"
+    "termination": "draw"
   },
-  "updated": 1774849608.4219828
+  "updated": 1774850094.2060537
 }
