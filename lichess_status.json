@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3033,
-  "opponent": "ArasanX",
+  "rating": 3003,
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 149,
-  "timestamp": "2026-03-30T05:11:57.479060",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-30T05:12:29.608713",
   "last_game": {
     "result": "draw",
-    "opponent": "ArasanX",
-    "rating_before": 3033,
-    "rating_after": 3033,
+    "opponent": "OlisRalphBot",
+    "rating_before": 3003,
+    "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "Nf3 d5 g3 Nf6 d3 g6 d4 c5 Bg2 cxd4 O-O Bg7 Nxd4 O-O Nc3 e5 Nb3 d4 Na4 Qe8 Nac5 Nc6 e3 Bg4 f3 Bc8 exd4 exd4 Nxd4 Nd5 Nxc6 Qxc6 Ne4 Rd8 Bg5 f6 c4 fxg5 cxd5 Rxd5 Qe2 Kh8 Rad1 Be6 b3 Re8 h3 h6 Kh2 Red8 Rxd5 Qxd5 Re1 Bf5 Bf1 Qa5 Kg2 Rd5 Qf2 Rd4 g4 Bd7 Re3 Bc6 Bc4 Kh7 Rd3 Qe5 a4 b6 Qe2 Rxd3 Bxd3 a5 Qf2 Qd4 Qc2 Bd5 Nd2 Bf7 Bc4 Be8 Kf1 Qe3 Qe4 Bd4 Qxe3 Bxe3 Ne4 Kg7 Nc3 Bc5 Nd5 Bc6 Ke2 Bb7 Kd3 Bg1 Ke4 Bh2 Kd3 Bg1 Ke4 Kf7 Ke5 Bh2+ Kd4 Bg1+ Ke5 Bh2+ Kd4 Kg7 Nc3 Kf6 Nd5+ Kg7 Kd3 Bg1",
-    "duration": 600,
+    "moves": "e4",
+    "duration": 182,
     "bot_color": "white",
-    "termination": "draw"
+    "termination": "aborted"
   },
-  "updated": 1774847517.4822755
+  "updated": 1774847549.6087954
 }
