@@ -1,22 +1,22 @@
 {
   "online": true,
   "playing": false,
-  "rating": 3031,
-  "opponent": "Cheszter",
+  "rating": 3094,
+  "opponent": "BorkaTower",
   "variant": "Variant: Standard",
-  "time_control": "TC: 10+0",
-  "time_left": 206,
-  "timestamp": "2026-03-30T09:41:30.594473",
+  "time_control": "TC: \u00bd+0",
+  "time_left": 13,
+  "timestamp": "2026-03-30T09:42:48.731576",
   "last_game": {
-    "result": "draw",
-    "opponent": "Cheszter",
-    "rating_before": 3031,
-    "rating_after": 3031,
+    "result": "win",
+    "opponent": "BorkaTower",
+    "rating_before": 3094,
+    "rating_after": 3094,
     "rating_delta": 0,
-    "moves": "e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O a4 b4 c3 d6 d3 Rb8 Nbd2 Na5 Ba2 Bg4 d4 exd4 cxd4 c5 h3 Bxf3 Nxf3 c4 Bd2 d5 exd5 Nxd5 Rc1 c3 Bxd5 cxd2 Nxd2 Qxd5 Rxe7 Qxd4 Ne4 Qxd1+ Rxd1 b3 Rc7 Rfc8 Rc5 Nb7 Rxc8+ Rxc8 Rd3 Na5 Nc5 g6 Nxb3 Nc4 Rc3 Rb8 Rxc4 Rxb3 Rc6 Rxb2 Rxa6 h5 Kf1 Kg7 a5 Ra2 h4 Ra4 g3 Ra2 Kg2 Ra3 Kf1 Ra2 Ra7 Kf6 f3 Ra3 Kf2 Ke6 Ra8 Kd5 a6 Ke6 Ke2 Ke5 Re8+ Kf6 Ra8 Kf5 a7 Kf6 Kd1 Ra2 g4 Kg7 gxh5 gxh5 f4 Kf6 Kc1 Kf5 Kb1 Ra4 Kc2 Kxf4 Kb3 Ra1 Kc4 f6 Kc5 f5 Kb6 Rb1+ Ka5 Ra1+ Kb6 Rb1+ Ka6 Ra1+ Kb5 Rb1+ Kc5 Ra1 Kb6",
-    "duration": 600,
-    "bot_color": "black",
-    "termination": "draw"
+    "moves": "e4 c5 Nf3 e6 d4 cxd4 Nxd4 a6 Bd3 Nf6 O-O Qc7 Qe2 d6 c4 Nbd7 f4 e5 Nf3 Be7 Nc3 O-O Kh1 b5 cxb5 Nc5 Bc2 axb5 b4 Ne6 Nxb5 Qb6 fxe5 Ba6 Bd3 dxe5 Be3 Qb8 Ng5 Bxb4 Nxe6 fxe6 Rab1 Bxb5 Bxb5 Qd6 a4 h6 h3 Bc5 Bxc5 Qxc5 Kh2 Nh7 Qg4 Rxf1 Rxf1 Qe7 Qg3 Qd6 Rf3 Qd4 Qg6 Ng5 Rf1 Rb8 a5 Qxe4 Qxe4 Nxe4 Bc6 Nc5 Rc1 Na6 Bf3 Kf7 Rc6 Ra8 Bg4 Ke7 Rxe6+ Kd8 Rxe5 Nc7 Kg3 Ra7 Kf4 Ra6 Ke3 Ra8 Kd4 Ra7 Kc4 Ra6 Kb4 Rf6 Rf5 Rc6 Rf7 g5 Rd7+ Ke8 Rh7 Kd8 Rd7+ Ke8 Bf5 Rc1 g4 Rc6 Rh7 Kd8 Rd7+ Ke8 Rg7 Kd8 Rh7 Rc1 Rxh6 Nd5+ Kb5 Kc7 a6 Nc3+ Kc4 Nd1+ Kd4 Ra1 Bc2 Nf2 Ke3 Nd1+ Bxd1 Rxd1 Ke4 Rd8 Rf6 Re8+ Kf5 Kd7 Kxg5 Re5+ Kg6 Ra5 h4 Ke7 h5 Ra1 h6 Ra4 g5 Ra1 h7 Re1 h8=Q Re5 Qg7+ Kd8 Rd6+ Ke8 Qf7#",
+    "duration": 30,
+    "bot_color": "white",
+    "termination": "mate"
   },
-  "updated": 1774863690.5945592
+  "updated": 1774863768.7316387
 }
