@@ -2,21 +2,21 @@
   "online": true,
   "playing": false,
   "rating": 3003,
-  "opponent": "TakticproChess",
+  "opponent": "OlisRalphBot",
   "variant": "Variant: Standard",
-  "time_control": "TC: 3+0",
-  "time_left": 145,
-  "timestamp": "2026-03-30T05:46:16.412118",
+  "time_control": "TC: 3+2",
+  "time_left": 180,
+  "timestamp": "2026-03-30T05:46:48.421897",
   "last_game": {
     "result": "draw",
-    "opponent": "TakticproChess",
+    "opponent": "OlisRalphBot",
     "rating_before": 3003,
     "rating_after": 3003,
     "rating_delta": 0,
-    "moves": "d4 Nf6 c4 e6 Nf3 d5 Nc3 Bb4 Bg5 h6 Bxf6 Qxf6 e3 O-O Rc1 dxc4 Bxc4 c5 O-O cxd4 Ne4 Qe7 Nxd4 Bd7 Be2 Nc6 a3 Nxd4 Qxd4 Ba5 Qc5 Bd8 Qxe7 Bxe7 Rc7 Rfd8 Rxb7 Rab8 Rxb8 Rxb8 b4 Rc8 Rd1 Ba4 Rb1 Rc6 Bf3 Rc7 g4 Kf8 Be2 g6 Kf1 Be8 Bd1 Bb5+ Be2 Be8 h4 Bxh4 b5 Bd8 a4 Rd7 Kg2 Rd5 Rc1 Bb6 Nf6 Rd2 Bf3 Ke7 Ng8+ Kf8 Nf6 Ke7 Ng8+ Kf8 Nf6",
+    "moves": "",
     "duration": 180,
-    "bot_color": "white",
-    "termination": "draw"
+    "bot_color": "black",
+    "termination": "aborted"
   },
-  "updated": 1774849576.412316
+  "updated": 1774849608.4219828
 }
